@@ -1,0 +1,575 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FOREST PLAYGROUND========================================
+                        #====NIGHT 1-1====
+
+#Bangs
+#Location: Forest Playground
+message_0:
+      text: \banBavit se vyžaduje až moc práce, proto se raději dívám na to, jak se baví moji kamarádi.
+
+#After Cutscene: Lost Ball
+
+
+
+#Bun
+#Location: Forest Playground
+message_1:
+      text: \bunNOSKA je můj nejlepší kamarád.\!<br>Moc toho nenamluví, ale je fakt chytrý!
+
+
+#Daisy
+#Location: Forest Playground
+message_2:
+      text: \daiProsím, nešlapejte tady...\!<br>Trhám tady kytičky \}pro někoho, koho si vážím...
+
+message_3:
+      text: \daiNatrhala jsem kytičky \}pro někoho, koho si vážím... \!Snad se mu budou líbit...
+
+message_4:
+      text: \daiChtěla jsem jednomu klukovi natrhat kytičky, ale zajímají ho jenom puzzle...\! Kéž by někde byly \c[4]KYTIČKOVÉ PUZZLE\c[0] nebo něco takového... \!Možná by si mě pak všiml.
+
+#After Flower Puzzle Quest
+
+message_5:
+      text: \daiJsou tohle snad \c[4]KYTIČKOVÉ PUZZLE\c[0]?\! Pro mě?\! <br>...\!\} Tak teď si mě možná NEB konečně začne všímat!
+
+message_6:
+      text: \dai...
+
+message_7:
+      text: \dai\Com[2]\{Sakra! Já se prořekla!\} \}<br>Prosím dělej, žes to neslyšel...\{
+
+message_8:
+      text: \daiKdy bych mu to tak ale měla dát?...
+
+
+#BROWS
+#Location: Forest Playground
+message_10:
+      text: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+
+
+#Happy
+#Location: Forest Playground
+message_11:
+      text: \hap\SINV[1]Hop! \!\}Aaa-\{Hop! \!\}Aaa-\{Hop! \!\}Aaa-\{Hop!\SINV[0]
+#After Cutscene: Lost Ball
+
+#epilgoue
+message_31:
+      text: \hap\SINV[1]A teď otočka! \!\}Aaa-\{Otočka! \!\}Aaa-a-\{Otočka! \!\}Aaa-a-\{Otočka!\SINV[0]
+
+#CHARLENE
+#Location: Forest Playground
+message_12:
+      text: \n<ŠÁRA>\}\}Ahoj... \!kamarádi...
+
+#LADAO
+#Location: Forest Playground
+message_13:
+      text: \ladDohoupu se až na Měsíc!
+
+#NEB
+#Location: Forest Playground
+message_14:
+      text: \nebDělám, že jsem planeta.
+
+message_15:
+      text: \nebMám rad puzzle.
+#NOSE
+#Location: Forest Playground
+message_16:
+      text: Řekl bych, se NOSKA je zabavená.
+
+#REN
+#Location: Forest Playground
+message_17:
+      text: \renDnešní večer je jako dělaný na pozorování hvězd.
+
+#SHAWN
+#Location: Forest Playground
+message_18:
+      text: \shawNechtěli byste se koukat s náma?
+
+message_19:
+      text: \shawTahle tráva je tak příjemná.
+
+#stargaze
+message_20:
+      text: Hvězdy ti světle září nad hlavou...<br>\!Jsi bez jediné starosti.
+
+message_21:
+      text: OMORI se naučil \c[1]POZOROVAT\c[0]!
+
+#JASH IN A BOX
+message_30:
+    text: \n<VTIPÁLEK JAŠ>\{\{\sinv[1]BAF!!
+
+#VAN
+#Location: Forest Playground - Lost Ball
+#[Cutscenes_lostball]
+
+#After lost ball
+message_44:
+      text: \hap\Com[2]No tak, OFČO!\! Budeš v pořádku!
+message_45:
+      text: \banOBČA mě přejel a shodil, ale je mi tady tak dobře, že ještě chvíli zůstanu ležet.
+message_46:
+      text: \n<VAN>Neboj, OBČO... \!Ty za to nemůžeš...
+message_47:
+      text: \n<OBČA>\Com[2]\SINV[2]AAAHHH\{\Com[2]HHHHH\{\Com[2]HHHHHHH\{\Com[2]HHHHHHHHH!!!\LECLEAR
+
+#After headbutt
+message_48:
+      text: \n<VAN>Už zase s BERLY hrajeme tetherball!
+
+#BERLY
+#Location: Forest Playground - Lost Ball
+#[Cutscenes_lostball]
+
+# ==============HEADBUTT=======================================
+
+message_60:
+      text: \berHej, hoši! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
+
+message_61:
+      text: \n<VAN>To teda.
+
+message_62:
+      text: \berPřemýšlela jsem nad tím...\! že když jste byli tak hodní a pomohli mi...\! Tak bych vás za to mohla naučit moji speciální \c[1]DOVEDNOST\c[0]!
+
+message_63:
+      text: \berAle nejprve na vás mám otázku...\!<br>Kdo z vás má nejtvrdší hlavu?
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelTs, \Com[2]\{co je to za otázku!\} Kdo jiný než AUBRY!
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\Com[2]\{COS TO ŘEKL!?
+
+message_66:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelNo tak, uklidni se!\! Já to \SINV[1]zas tak vážně\SINV[0] nemyslel...\! jo?
+
+message_67:
+      text: \berTeda.\! Za mě to sedí!
+
+message_68:
+      text: \berTakže AUBRY, naučím tě novou \c[1]DOVEDNOST\c[0], jen pro lidi tvrdohlavé, jako jsme my.
+
+message_69:
+      text: \berJe to můj nejleší kousek... \c[1]HLAVIČKA\c[0]! \!<br>Nic moc na tom není. \!Prostě k někomu naběhneš a...
+
+message_70:
+      text: \QUAKE[1]\Com[2]\{PR\{\Com[2]ÁÁÁ\{ÁÁÁ\{\Com[2]SSKKK!!!\QUAKE[0]\ber
+
+message_71:
+      text: \berTeď to zkus ty.
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubA nebolí to?...\!<br>A nezkazí mi to vlasy?\!<br>A co mašli?
+
+message_73:
+      text: \berAle no tak, AUBRY! Trochu života do toho!\!<br>Mít rozcuchané vlasy není žádná ostuda.\!<br>Jen si vem HERA za příklad.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herNo to teda!
+
+message_75:
+      text: \berTak proč to nezkusíš?
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubHm!\! Tak dobře...
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubAle když už to zkouším... \!Tak naplno!
+
+message_78:
+      text: \ber\QUAKE[1]\Com[2]\{PR\{\Com[2]ÁÁÁ\{ÁÁÁ\{\Com[2]SSSSSSKKKKKKK!!!\QUAKE[0]
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubAuuu...
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub\SINV[1]Je mi... \!trochu blbě...\SINV[0]
+
+message_81:
+      text: \ber\Com[2]\{TY BRĎO! SKVĚLE, AUBRY!!\}\!<br>Věděl jsem, že budeš talent.
+
+#ADD RAINBOW
+message_82:
+      text: \ber\{\SINV[1]GRATULUJU!!\SINV[0]\}\!<br>Prošla jsi s plným počtem bodů!
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub\SINV[1]...Cože?\! Co se stalo?\SINV[0]
+
+message_84:
+      text: \berA teď...\!<br>tě pasuju na opravdového HLAVIČKÁŘE.
+
+message_85:
+      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe jistě budou pyšní!
+
+message_86:
+      text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
+
+message_87:
+      text: Získal jsi \c[4]HLAVIČKOVÝ DIPLOM\c[0].
+
+
+#After Headbutt Quest
+message_88:
+      text: \berNo tak, VANE! Používej hlavu!
+
+
+                        #====NIGHT 1-2====
+#BANGS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BERLY
+#Location: Forest Playground - Hide and Seek
+#Check Prologue_BeforeHideandSeek.yaml and Prologue_HideandSeek.yaml.
+
+#BROWS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BUN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#CHARLENE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#DAISY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#HAPPY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#LADAO
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#NEB
+#Location: Forest Playground
+#NEB: I love puzzles.
+
+#NOSE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#REN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#SHAWN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#VAN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+
+                        #====NIGHT 2====
+#BANGS
+#Location: Forest Playground
+message_100:
+      text: \banOBČA na mě ne a ne přestat křičet...
+
+#BERLY
+#Location: Forest Playground - Hide and Seek
+#Same as NIGHT 1-2.
+
+#BROWS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BUN
+#Location: Forest Playground
+message_101:
+      text: \bunTak co budeme dělat dneska, NOSKO?
+
+#CHARLENE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#DAISY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#HAPPY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#LADAO
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#NEB
+#Location: Forest Playground
+message_102:
+      text: \nebJá... \!miluju puzzle.
+
+#NOSE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#REN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#SHAWN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#VAN
+#Location: Forest Playground
+message_103:
+      text: \n<VAN>BERLY se možná chová trochu neprocítěně, ale to je jen takový její krunýř. \!Občas s někým musíš strávit více času, abys poznal, jaký doopravdy je.
+
+message_104:
+      text: \n<VAN>To ti asi není daleko, že?
+
+
+                        #====NIGHT 3====
+#BANGS (Bed Tester)
+#Location: Last Resort - Hotel Room
+message_110:
+      text: \banŠéf mě chtěl někam nasadit, ale když zjistil, že nic neumím, udělal ze mě zkoušeče postelí...  \!<br>Mmm... \!Jop... \!Tahle postel je za mě dost dobrá...
+
+#BERLY (Gator Guy)
+#Location: Last Resort - Jawsum HQ Entrance
+message_111:
+      text: \berAle ale! Koho to tady máme! \!Ty chceš za šéfem, viď? \!Nerad ti kazím plány, ale nemůžu pustit jen tak kohokoliv!
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]No tak...\sinv[0] vážně? \!<br>\Com[2]BERLY! Vždyť se známe celý život! \!<br>To bys nám nemohla jen jednou vyjít vstříc?
+message_113:
+      text: \berMmm, mmm...\! Promiň KELI, přímej rozkaz šéfa... \! Dnešek je důležitý den, proto nechce, aby ho nikdo...\! rušil. \!<br>Musíme tady přece připravit tu sbírku \c[3]TOFU\c[0]!
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelAle BERLY... Vždyť to jsem já! \!Tvůj starej kámoš KEL! \!<br>Víš, jaká jsme byli dvojka!<br>\!Jen si vzpomeň, na všechny ty naše chvíle spolu...
+message_115:
+      text: \ber\Com[2]Nech toho! Myslíš, že ze mě udělali vedoucí ochranky jen tak pro nic za nic?! \!Potřebovali někoho tvrdého... \!Někoho, kdo by byl vždy schopen tvrdě zakročit! \!Někoho tvrdohlavého!
+message_116:
+      text: \berJen se podívej na můj odznak... \!Je tak lesklý!
+message_117:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelHmm...\! No tak, rychle KELI! Vymysli něco!
+message_118:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelAha, už vím! \! \sinv[1]Hele, BERLY...\!\sinv[0] Náš dobrý přítel OMORI se schání po práci!\! Šéf by přece nikdy neodmítl dobrou práci, a ještě k tomu zadarmo!
+message_119:
+      text: \berHmmm... \!To je sice pravda...\! Ale...
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\com[2]No tak, BERLY! \!\SINV[2]Prosím, prosím, prosím, prosím, prosím!\sinv[0]
+message_121:
+      text: \berAch jo...\! Tak dobře... \!Tentokrát vás pustím. \!<br>Ale jenom jestli mi nejdřív donesete \c[3]LÁHEV VODY\c[0]!\!<br>Mám úplně vyschlo v puse!
+#[Watch Alarm SFX]
+message_122:
+      text: \berVy jste mi našli \c[3]LÁHEV VODY\c[0]?\! Díky! Jsem vám dlužná!\! Pojďte, kluci! V čekárně prý mají pizzu!
+message_123:
+      text: \n<KROKOĎÁK>Super! Pizza zdarma!
+message_124:
+      text: \n<KROKOĎÁK>Uff...\! Doufám, že na ni není žádný ananas...
+
+#Talk after
+message_107:
+      text: \berTak co, už jste mi našli \c[3]LÁHEV VODY\c[0]?\!<br>No tfuj tfuj tfuj! Všichni máme vyschlo!
+
+#BERLY and GATOR GUYS leave.
+
+message_105:
+      text: \n<KROKOĎÁK>Jestli chceš jít dál, budeš si muset promluvit s BERLY.
+
+message_106:
+      text: \n<KROKOĎÁK>Bez BERLY ani krok.
+
+#After Interaction
+#Location: Break Room
+
+message_125:
+      text: BERLY je příliš zanedbaná cpaním se na to, aby si tě všimla.
+
+message_126:
+      text: \n<KROKOĎÁK>Já mám rád všechny pizzy stejně.
+
+message_127:
+      text: \n<KROKOĎÁK>Uff... \!ananas...
+
+#After Cutscene: Mr. Jawsum's Request
+#Location:
+
+message_128:
+      text: \berHej, to jste vy! \!Šéf říkal, že už odcházíte... \!Musíte nás někdy znovu navštívit. Budete nám fakt chybět!
+
+#BROWS (Dealer)
+#Location: Last Resort - Casino Area
+message_129:
+      text: \n<OBČA>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+
+#BUN (Room Service)
+#Location: Last Resort - Hotel Hallway
+message_130:
+      text: \bun(vzdechnutí)...\!<br>Naši štamgasti teda fakt umí dělat binec.
+
+message_132:
+      text: \bunNepracuje se mi tady lehce. \!<br>Doufám, že je NOSKA vpořádku i beze mě...
+
+#CHARLENE (Lifeguard)
+#Location: Last Resort - Entrance
+
+message_133:
+      text: \n<ŠÁRA>\}\}H-Hele... \!Zákaz koupání... \!jo?
+
+#DAISY (Mural Artist)
+#Location: Last Resort - Hotel Hallway
+
+message_134:
+      text: \daiŠéf mi řekl, že můžu malovat, co chci, tak maluju kytičky!
+
+#HAPPY (Room Service)
+#Location: Last Resort - Hotel Hallway
+message_135:
+      text: \hap\SINV[1]Čistit... \!\}Aaa-a-\{čistit... \!\}Aaa-a-\{čistit... \!\}Aaa-a-\{čistit...\SINV[0]
+
+#LADAO (Construction Worker)
+#Location: Construction Area
+message_136:
+      text: \ladVystavím to tady tak vysoko, až dosáhneme na Měsíc!
+
+#NEB (Architect)
+#Location: Construction Area
+message_137:
+      text: \nebStavebnictví... \!je něco jako puzzle... \!a já miluju puzzle.
+
+#NOSE (Receptionist)
+#Location: Last Resort - Casino Area
+message_138:
+      text: \nosNOSKA jede!
+
+#REN (Server)
+#Location: Last Resort - Casino Area
+message_139:
+      text: \n<JENÍK a REN>Doufáme, že si užíváte pobyt na \c[11]KONEČNÉ\c[0]! Potřebujete-li něco, ozvěte se nám!
+
+#VAN (Construction Worker)
+#Location: Construction Area
+message_140:
+      text: \n<VAN>Šéf mě nasadil do ochranky, ale pak mě odvolal. Prý, že jsem byl moc měkký.
+
+message_141:
+      text: \n<VAN>Prý z BERLY udělali vedoucí ochranky!\!<br>A taky má prý ztuhlý horní ret!
+
+message_151:
+      text: \n<VAN>Chybí mi BERLY...
+
+
+                      #====NIGHT 4 (AFTER CUTSCENE: FEED HUMPHREY 1)====
+
+
+#BANGS
+#Location: Forest Playground
+message_142:
+      text: \ban(vzdechnutí)...<br>\!Mrzí mě, že už nejsem zkoušeč postelí na \c[11]KONEČNÉ\c[0]...\!<br>Měl jsem tam poprvé v životě pocit, že jsem našel své poslání.
+
+#BERLY
+#Location: Forest Playground
+message_143:
+      text: \berMrrrr... mrrr... \!Tak teď je ze mě zase jenom běžný děčko. \!Sice to byl dobrej flek, ale bez VANA to nemá cenu.
+
+#BROWS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BUN
+#Location: Forest Playground
+message_144:
+      text: \bunNOSKO! Víš, jak jsi mi chyběla?! \!Já tobě taky, viď?
+
+#CHARLENE
+#Location: Forest Playground
+message_145:
+      text: \n<ŠÁRA>\}\}Ahoj... \!zase...
+
+#DAISY
+#Location: Forest Playground
+message_146:
+      text: \daiKytičky kreslím sice ráda, ale čuchám si k nim ještě raději.
+
+#HAPPY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#LADAO
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#NEB
+#Location: Forest Playground
+message_147:
+      text: \nebJá vážně, vážně, vážně miluju puzzle.
+
+#NOSE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#REN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#SHAWN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#VAN
+#Location: Forest Playground
+message_148:
+      text: \n<VAN>Jsem rád, že na mě BERLY nezapomněla po tom, co se z ní stala vedoucí ochranky.
+message_149:
+      text: \berMyslíš, že bych na tebe byla schopná zapomenout, ty bedno!
+#BERLY headbutts VAN.
+message_150:
+      text: \n<VAN>Aaaa, jako za starých časů...
+
+#SW AT TRAIN STATION BLOCK
+
+
+message_200:
+      text: \who\com[2]Co je tohle za ptákoviny!?\! Vyžaduji, abyste mi ihned dovolili se setkat se svou rodinou!
+
+message_201:
+      text: \n<CITRÓNOVÝ JAŠ>Jsem snad nějakej \"PTÁK\"?\! Řevem vlak neurychlíš, paní.

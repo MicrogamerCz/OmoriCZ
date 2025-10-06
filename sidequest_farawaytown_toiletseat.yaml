@@ -1,0 +1,17 @@
+
+# =========================================================================================
+# Sidequest: Toilet Seat
+# =========================================================================================
+
+#Examine toilet seat
+message_0:
+      text: Prkénko je nahoře.\! Posuneš ho dolů?
+
+#yes/no
+
+#if yes
+message_1:
+      text: Sesunul jsi prkýnko.
+
+message_2:
+      text: ...\! Vyzvracel ses.

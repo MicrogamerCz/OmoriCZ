@@ -1,0 +1,372 @@
+# -----------------------------------------------
+# - FOUND CONSUMABLE
+# -----------------------------------------------
+message_0:
+    text: Získal jsi \v[49]!
+
+# -----------------------------------------------
+# - FOUND TOYS
+# -----------------------------------------------
+message_1:
+    text: Získal jsi \v[49]!
+
+# -----------------------------------------------
+# - FOUND PRESENT
+# -----------------------------------------------
+message_2:
+    text: Našel jsi \v[49]!\! Vezmeš si ho?
+
+# -----------------------------------------------
+# - JOINS YOUR PARTY
+# -----------------------------------------------
+message_3:
+    text: \v[49] se přidal do tvé party!
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_4:
+    text: ANO
+message_5:
+    text: NE
+
+# -----------------------------------------------
+# - X LEFT THE PARTY
+# -----------------------------------------------
+message_6:
+    text: \v[49] opustil tvou partu.
+
+# -----------------------------------------------
+# - BLACKLETTER
+# -----------------------------------------------
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: Počkej, \n[1]! Na zemi tady leží DOPIS. Měli bychom si ho přečíst. \her
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_8:
+    text: OTEVŘÍT
+message_9:
+    text: NIC
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_10:
+    text: ANO
+message_11:
+    text: NE
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+message_12:
+    text: Získal jsi \itemget.
+
+message_612:
+    text: Získal jsi \itemget.
+
+message_613:
+    text: Získal jsi \itemget.
+
+message_610:
+    text: Z recyklovače vypadl \c[13]\itemget\c[0].
+
+message_611:
+    text: Z recyklovače vypadl \c[13]\itemget\c[0].
+
+# -----------------------------------------------
+# - AUBREY GOLD
+# -----------------------------------------------
+message_13:
+    text: Získal jsi \v[249] MUŠLÍ!
+
+# -----------------------------------------------
+# - SWEETHEART DUNGEON: GUEST LIST
+# -----------------------------------------------
+message_30:
+    text: Poprosíš tuhle osobu, aby odešla?
+
+# -----------------------------------------------
+# - SHOP DEFAULTS
+# -----------------------------------------------
+
+message_40:
+    text: KOUPIT
+
+message_41:
+    text: PRODAT
+
+message_42:
+    text: ODEJÍT
+
+#data.texts.maxItemMessage
+message_50:
+    text: maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_51:
+    text: notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_52:
+    text: onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_53:
+    text: onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_54:
+    text: itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_55:
+    text: itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_56:
+    text: itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_57:
+    text: itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_58:
+    text: itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_59:
+    text: itemSellingCancelMessage
+
+# -----------------------------------------------
+# - DREAMWORLD SHOP DEFAULTS
+# -----------------------------------------------
+
+#data.texts.maxItemMessage
+message_60:
+    text: DW maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_61:
+    text: DW notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_62:
+    text: DW onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_63:
+    text: DW onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_64:
+    text: DW itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_65:
+    text: DW itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_66:
+    text: DW itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_67:
+    text: DW itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_68:
+    text: DW itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_69:
+    text: DW itemSellingCancelMessage
+
+# -----------------------------------------------
+# - BATTLE SYSTEM LOG MESSAGES
+# -----------------------------------------------
+
+message_100:
+    text: Co udělají OMORI a jeho parta?
+
+message_101:
+    text: Co udělá \n[8]?
+
+message_102:
+    text: Co udělají %1 a %2 ?
+
+message_103:
+    text: Co udělají OMORI a jeho parta?
+
+message_104:
+    text: Co udělá %1?
+
+message_105:
+    text: Použít na koho?
+
+message_106:
+    text: Stisknutím \DII[shift] přepneš stranu cíle.
+
+message_107:
+    text: PLACEHOLDER TEXT ALT SOMETHING OMORI FIGHT
+
+# -----------------------------------------------
+# - FEARS DIALOGUE
+# -----------------------------------------------
+message_200:
+    text: Máš strach z výšek.
+
+message_201:
+    text: Máš strach z pavouků.
+
+message_202:
+    text: Máš strach z utonutí.
+
+message_210:
+    text: Pohlédl jsi do dáli a pevně uchopil svůj nůž.
+
+message_220:
+    text: Pohlédl jsi do vody a pocítil klid.\! Vlny ti připadají něžné a přívětivé.
+
+# -----------------------------------------------
+# - FLAG CHECKERS
+# -----------------------------------------------
+message_300:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \her\Com[2]Počkej, OMORI! Vydat se můžeme i potom, nejdříve musíme zkontrolovat BASILA!
+
+# -----------------------------------------------
+# - Can't leave house
+# -----------------------------------------------
+message_301:
+    text: Teď nemůžeš odejít.
+
+# -----------------------------------------------
+# - Break Time
+# -----------------------------------------------
+
+message_399:
+    text: Chtěl bys se svými kamarády jít ven?
+
+message_400:
+    text: Chtěl by sis se svými kamarády zahrát karty?
+
+message_401:
+    text: Chtěl by sis se svými kamarády postavit hrad z písku?
+
+message_402:
+    text: Chtěl bys se svými kamarády pouštět draky?
+
+message_403:
+    text: Chtěl bys se svými kamarády rybařit?
+
+message_404:
+    text: Chtěl by ses tady se svými kamarády posadit?
+
+#frozen forest
+message_405:
+    text: Chtěl by ses se svými kamarády ohřát?
+
+message_406:
+    text: Chtěl by ses se svými kamarády podívat na film?
+
+message_407:
+    text: Chtěl by sis se svými kamarády dát čaj?
+
+message_408:
+    text: Chtěl by ses se svými kamarády pohostit?
+
+message_409:
+    text: Chtěl by sis se svými kamarády pohrát v míčkovém bazénku?
+
+message_410:
+    text: Chtěl by sis se svými kamarády zacvičit?
+
+message_411:
+    text: Chtěl by sis se svými kamarády pohovit?
+
+message_412:
+    text: Chtěl bys se svými kamarády číst komiksy?
+
+message_420:
+    text: Chtěl bys se svými kamarády mít piknik?
+
+#====
+#FA DOORS
+
+message_430:
+    text: Ťuk, ťuk...
+
+message_431:
+    text: Bez odpovědi.
+
+message_432:
+    text: ...\! Dveře jsou zamčeny.
+
+#==
+
+message_500:
+    text: Nyní máš přístup k \c[4]OBĚŠENCI\c[0].
+
+message_501:
+    text: Získal jsi \c[4]MAPU MYSLOPROSTORU\c[0].
+
+#==
+
+message_510:
+    text: S touhle bránou není hnutí.
+
+#===
+
+message_600:
+    text: Pouto s tvými kamarády opět zesílilo.\!<br>Všechny NÁSLEDNÉ ÚTOKY zesílily také!
+
+#===
+
+message_644:
+    text: ZBÝVÁ 12 KLÁVES...
+
+message_645:
+    text: ZBÝVÁ 11 KLÁVES.
+
+message_646:
+    text: ZBÝVÁ 10 KLÁVES.
+
+message_647:
+    text: ZBÝVÁ 9 KLÁVES.
+
+message_648:
+    text: ZBÝVÁ 8 KLÁVES.
+
+message_649:
+    text: ZBÝVÁ 7 KLÁVES.
+
+message_650:
+    text: ZBÝVÁ 6 KLÁVES.
+
+message_651:
+    text: ZBÝVÁ 5 KLÁVES.
+
+message_652:
+    text: \fn<OMORI_GAME>ZBÝVAJÍ 4 KLÁVESY.
+
+message_653:
+    text: \fn<OMORI_GAME>ZBÝVAJÍ 3 KLÁVESY.
+
+message_654:
+    text: \fn<OMORI_GAME>ZBÝVAJÍ 2 KLÁVESY
+
+#message_655:
+#    text: UNUSED
+
+message_656:
+    text: \fn<OMORI_GAME>ZBÝVÁ 1 KLÁVESA
+
+message_657:
+    text: \fn<OMORI_GAME>ZBÝVÁ 0 KLÁVES

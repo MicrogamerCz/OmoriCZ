@@ -1,0 +1,438 @@
+wrongPlacingMessage:
+    background: 0
+    position: 2
+    text: Zdá se, že tahle fotka patří někam jinam.
+
+puzzleModeClosingMessage:
+    background: 0
+    position: 2
+    text: Ještě jsi neseřadil správně fotky.
+
+error_message:
+    background: 0
+    position: 2
+    text: CHYBA!
+
+faraway_message1:
+    background: 0
+    position: 2
+    text: \n<25/12 - VÁNOCE>Moje první fotka!\!<br>Můj nejlepší kamarád, SUNNY, si na ni zkouší nové housle.<br><br>Brzy se na ni zase začne učit hrát, aby mohl se svojí sestrou MARI hrát na recitálech! Všichni se už těšíme!
+
+faraway_message2:
+    background: 0
+    position: 2
+    text: \n<18/2 - MOJE NAROZENINY>Dneska jsou moje dvanácté narozeniny!\!<br>Už jsem si myslel, že na to moji kamarádi zapomněli, a hned nato mě překvapili tímhle jahodovým dortem!<br>Jsem za ně tak vděčný...<br>\!Zdá se, že tenhle rok bude super!
+
+faraway_message3:
+    background: 0
+    position: 2
+    text: \n<18/2 - MOJE NAROZENINY>Další skupinková fotka.<br>\!Tuhle jsem vyfotil chvíli po tom, co jsem otevřel všechny dárky!<br><br>MARI mi dala tohle album a zbytek film do mojeho foťáku.\! Doufám, že nebudou nazmar!
+
+faraway_message4:
+    background: 0
+    position: 2
+    text: \n<18/2 - MOJE NAROZENINY>Prostě KEL, tak jako vždycky...\! Tolik...\! kloboučků...
+
+faraway_message5:
+    background: 0
+    position: 2
+    text: \n<18/2 - MOJE NAROZENINY>SUNNY jak hraje nějakou hru na gauči.<br>\!SUNNY je sice trochu tichý, ale umí dobře poslouchat.<br><br>Vždycky když mě něco rozzlobí nebo rozesmutní, svěřím se mu.\! Občas mám pocit, že ho možná otravuju, ale němu to asi nevadí.
+
+faraway_message6:
+    background: 0
+    position: 2
+    text: \n<18/2 - MOJE NAROZENINY>MARI a HERO potom, co usli na gauči.<br>\!Jsou oba tak přítulní... Hehe...<br><br>Snad jim nevadí, že jsem si je vyfotil.<br>\!I když MARINA tátu by to mohlo trochu rozzlobit...
+
+faraway_message7:
+    background: 0
+    position: 2
+    text: \n<9/3>HERO a MARI umývající nádobí po snídani.<br>\!Tento víkend přespíme u SUNNYHO a MARI.<br><br>Už se začalo oteplovat, a proto brzo vyrazíme do parku.\! KEL tam prý našel skrytý rybník, o kterém nikdo neví! Těším se, až se tam půjdeme podívat!
+
+faraway_message8:
+    background: 0
+    position: 2
+    text: \n<9/3>Vrátili jsme se z parku a KEL je pořád úplně plný energie.<br><br><br>Vyzval HERA na páku, ale mezi náma, všichni stejně víme, kdo vyhraje...\! Šetři ho, HERO...
+
+faraway_message9:
+    background: 0
+    position: 2
+    text: \n<9/3>Auvajs... Promiň, KELI...\! Snad se ti to příště povede!
+
+faraway_message10:
+    background: 0
+    position: 2
+    text: \n<10/3>KEL byl ještě pořád zklamaný z toho, jak včera večer prohrál v páce, a tak se ho HERO rozhodl pořádně zmuckat!<br>KEL vypadá tak otráveně...<br>\!Ach, bratrská láska...
+
+faraway_message11:
+    background: 0
+    position: 2
+    text: \n<10/3>Já jak ukazuju SUNNYMU novou knížku, kterou jsem začal číst.\! Tuhle fotku vyfotila MARI zrovna, když jsem se nedíval a sebrala mi foťák.<br><br>Měl bych si na svoje věcí dávat větší pozor.
+
+faraway_message12:
+    background: 0
+    position: 2
+    text: \n<10/3>My všichni, jak se mazlíme se SUNNYHO plyšáky.\!<br>Má jich tolik, a jsou všichni tak střašně hebcí! \!Kéž bych tady mohl ležet navždy.
+
+faraway_message13:
+    background: 0
+    position: 2
+    text: \n<31/3>Ten březen ale utekl!\!<br>Tady jsme zrovna měli piknik s MARI u našeho tajného rybníka.<br><br>Chtěla po mně, abych nás všechny vyfotil! \!Sýr!
+
+faraway_message14:
+    background: 0
+    position: 2
+    text: \n<31/3>Po tom, co jsme všechno snědli, všichni usli. Kromě mě, MARI a HERA.<br><br>Když jsem tohle fotil, stalo se... něco nešťastného. \!Hm... Fakt díky, HEKTORE.\! Potom to zalepím izolepou.
+
+faraway_message15:
+    background: 0
+    position: 2
+    text: \n<9/4>Načapal jsem MARI, jak nosí SUNNYHO na zádech ze školy.\! Myslím, že možná usnul v autobuse.<br><br>Připadalo mi to roztomilé a proto jsem tuhle jedinečnou šanci musel využít!\! Ach jo...\! Občas bych si přál mít sourozence.
+
+faraway_message16:
+    background: 0
+    position: 2
+    text: \n<21/4>MARI nás všechny naučila jak pléct věnce!<br><br><br>\n<4/21>Na téhle fotce drží KEL a SUNNY MARIIN vzor.\!<br>Vypadá dokonale, že?\!<br>Kéž by si to MARI taky myslela.
+
+faraway_message17:
+    background: 0
+    position: 2
+    text: \n<21/4>SUNNY a KEL se na věnce vykašlali a kamsi utekli, ale mně a AUBRY to už celkem jde!<br><br>Všichni říkají, že mi ten věnec sluší.\!<br>Za mě by možná stačila jen jedna kytička.
+
+faraway_message18:
+    background: 0
+    position: 2
+    text: \n<21/4>HERO pořád plete svůj věnec.<br>\!Chvilku mu to sice trvá, ale jde mu to líp a líp.\!<br>Je tak vytrvalý!
+
+faraway_message19:
+    background: 0
+    position: 2
+    text: \n<29/4>Dneska jsme zažili pořádný slévák!<br>\!Na jaře ten déšť opravdu chvilkama přichází z ničeho nic.<br>AUBRY po mně chtěla, abych ji vyfotil v její nové pláštěnce.\! Dokonce je její oblíbené barvy, růžová!
+
+faraway_message20:
+    background: 0
+    position: 2
+    text: \n<29/4>AUBRY KELA nechce pustit pod deštník, ale němu to rozhodně nevadí.\! Prý mu ten déšť chutná.
+
+faraway_message21:
+    background: 0
+    position: 2
+    text: \n<29/4>Prostě KEL, jako vždycky...<br><br><br>Šli jsme do HOBBEEZ a pan prodavač řekl KELOVI, aby nechal svoji bundu venku aby mu nenamočil komiksy.<br>\!Pardón!
+
+faraway_message22:
+    background: 0
+    position: 2
+    text: \n<25/5>Sice těď kvůli škole nemáme tolik času, ale i tak jsme dneska vyrazili do parku.<br><br>Na téhle fotce visí KEL na stromě.\!<br>Je výborný lezec!\!<br>Kéž bych se taky tak nebál...
+
+faraway_message23:
+    background: 0
+    position: 2
+    text: \n<25/5>MARI všem koupila nanuky, každému jiné příchuťi!<br>\!SUNNY dostal citrónový, HERO příchuť nealkoholického piva, KEL pomerančový, AUBRY melounový, a MARI borůvkový!<br>Já dostal banánový...\! Byl celkem fajn.
+
+faraway_message24:
+    background: 0
+    position: 2
+    text: \n<25/5>Naše boty v křoužku!\!<br>Uhádneš, které jsou čí?
+
+faraway_message25:
+    background: 0
+    position: 2
+    text: \n<22/6>Dneska nám začaly prázdniny, a tak jsme se to rozhodli jít oslavit na pláž!<br>\!AUBRY miluje melouny.
+
+faraway_message26:
+    background: 0
+    position: 2
+    text: \n<22/6>KEL jak se ochlazuje čerstvou láhví POMERANČOVÉHO JOEHO!<br><br><br>Asi bych to neměl fotit tak zblízka, mohl by mi zacákat objektiv.\!<br>KEL je s pitím docela neobratný.
+
+faraway_message27:
+    background: 0
+    position: 2
+    text: \n<22/6>Zahrabali jsme SUNNYHO do písku!\!<br>Trvalo nám to strašně dlouho, ale zdá se, že je spokojený.<br><br>Zajímá mě, jestli nebude potřebovat pomoct ven.\!<br>Každopádně ho do té doby snad zabavím.
+
+faraway_message28:
+    background: 0
+    position: 2
+    text: \n<22/6>MARI řekla, že by se chtěla opálit!<br>\!Mám strach z toho, že bych na slunku usnul, a moje kůže se spaluje dost rychle.<br>Hmm... Nejsem si jistý, co na téhle fotce KEL zkoušel, ale myslím, že ho to baví.
+
+faraway_message29:
+    background: 0
+    position: 2
+    text: \n<22/6>HERO jak spí na MARI.\! Všechno to plavání ho hrozně unavilo.\! Tak se nakonec MARI asi neopálí...
+
+faraway_message30:
+    background: 0
+    position: 2
+    text: \n<22/6>Chystali jsme se domů, ale ještě jsem stihl jednou vyfotit HERA a MARI!\! Vypadají spolu tak rádi.<br>Jsou dokonalý pár!
+
+faraway_message31:
+    background: 0
+    position: 2
+    text: \n<20/7 - SUNNYHO NAROZENINY>Jupí! SUNNYMU je ode dneška dvanáct!\! I když jsme já, SUNNY, KEL a AUBRY všichni ve stejné třídě, SUNNY je o rok mladší než my.<br>Je mlíčňák, a proto se o něho všichni musíme starat!
+
+faraway_message32:
+    background: 0
+    position: 2
+    text: \n<20/7 - SUNNYHO NAROZENINY>SUNNY držící obří dárek od HERA a MARI!<br>\!Hmm... Schválně co to bude!
+
+faraway_message33:
+    background: 0
+    position: 2
+    text: \n<20/7 - SUNNYHO NAROZENINY>Z fotky to sice nejde poznat, ale HERO a MARI SUNNYMU taky dali obří stavebnici.<br><br>SUNNYHO ale víc zajímá ta velká krabice.\!<br>Chová se úplně stejně jako MARINO nové kotě, MEWO!
+
+faraway_message34:
+    background: 0
+    position: 2
+    text: \n<20/7 - SUNNYHO NAROZENINY>SUNNYMU se nechce ven, a tak mu tam KEL šoulp misku.\!<br>Zdá se, že tahle krabice bude SUNNYHO a MEWIN nový domov.
+
+faraway_message35:
+    background: 0
+    position: 2
+    text: \n<4/8>Dneska jsme byli chytat brouky!\!<br>Tady vidíme lovce KELA, připraveného překvapit svůj další úlovek!<br>\!Jo, a SUNNY je tam s náma taky.\! Připadá mi trochu ospalý.
+
+faraway_message36:
+    background: 0
+    position: 2
+    text: \n<4/8>MARI říká, že se tomuhle broukovi říká roháč.<br>Spadl na nás ze stromu a všechny nás překvapil!\!<br>HERO je znechucený až na kost, ani na něj nesnese pohled.
+
+faraway_message37:
+    background: 0
+    position: 2
+    text: \n<14/8>Ta-dá!\! Celé léto jsme na SUNNYHO zahradě stavěli stromovou chatku!<br><br>Sice většinu odpracoval HERO se svým taťkou, ale třeba já a AUBRY jsme udělali papírové kytičky a vylepili je na okna!\! Za mě se nám to všem povedlo!
+
+faraway_message38:
+    background: 0
+    position: 2
+    text: \n<14/8>Šel jsem na záchod, a když jsem se vrátil, našel jsem tuhle fotku...<br><br><br>KEL se prý vyfotil omylem,<br>ale já mu to fakt nevěřím....
+
+faraway_message39:
+    background: 0
+    position: 2
+    text: \n<16/8>My všichni na návštěvě v nové stromové chatce!<br>Vypadá že SUNNY konečně začal číst tu knížku, kterou jsem mu půjčil!<br><br>Nejraději bych tady byl každým dnem a každou chvílí, ale léto už končí.\! Doufám, že ho to příští využijeme ještě víc!
+
+faraway_message40:
+    background: 0
+    position: 2
+    text: \n<18/8>We went to HOBBEEZ to read the latest edition of CAPT. SPACEBOY!\! Everyone's so into it right now!\! I'm sure it's all anyone is going to be talking about once school starts.
+
+faraway_message41:
+    background: 0
+    position: 2
+    text: \n<6/9>Já, KEL, HERO a AUBRY jak hrajeme karty.\! Jsou tak jasní! Jejich myšlenky jdou vždycky tak lehce vyčíst...<br><br>MARI nám všem upekla sušenky, celé sama.<br>A jako vždycky byly nejen čokoládové, ale i výborné!
+
+faraway_message42:
+    background: 0
+    position: 2
+    text: \n<6/9>Celkem dobré karty, co?...<br>Ale to nemusí zatím nikdo vědět...
+
+faraway_message43:
+    background: 0
+    position: 2
+    text: \n<9/9>A už je tady první školní den!\! Já, SUNNY, KEL a AUBRY jsme všichni připravení a vyspaní.\! Jaktože se AUBRY hodí do každé fotky?!
+
+faraway_message44:
+    background: 0
+    position: 2
+    text: \n<9/9>Ach... Sbohem, léto!\! Tak zase příští rok...
+
+faraway_message45:
+    background: 0
+    position: 2
+    text: \n<9/9>SUNNY jak obímá MARI!\! MARI se vždycky vrací pozdě, protože se doučuje na přijímačky na vysokou školu.<br>SUNNY je teď hlavně hodně se mnou, ale pořád myslím, že mu MARI začíná chybět.
+
+faraway_message46:
+    background: 0
+    position: 2
+    text: \n<22/9>MARI jak trénuje na ten velký recitál, co bude přístí měsíc.<br>Všichni už máme lístky!<br><br>Sice to bude SUNNYHO a MARINO první společné vystoupení, ale určitě to zvládnou skvěle!\! S podporou publika můžou jistě počítat!
+
+faraway_message47:
+    background: 0
+    position: 2
+    text: \n<22/9>MARI se trochu spletla a hned nato zestydlivěla.\! Neboj, MARI! Jen se snaž dál!<br>Těch chybek si vůbec nikdo nevšimne!
+
+faraway_message48:
+    background: 0
+    position: 2
+    text: \n<22/9>Po dlouhém prošení nám MARI dovolila se jít podívat na to, jak se SUNNYM zkouší... Hehe...<br><br>Sice se ještě něco musí doučit, ale už teď zní výborně! Už teď vím, že budou skvělí!<br><br>Zvládneš to, MARI! Zvládneš to, SUNNY! Zvládnete to!
+
+#DREAM WORLD
+
+dreamworld_message1:
+    background: 0
+    position: 2
+    text: \"MARI nás všechny naučila jak pléct věnce!<br><br><br>\n<4/21>Na téhle fotce drží KEL a OMORI MARIIN vzor. Je tak hezký...\"
+
+dreamworld_message2:
+    background: 0
+    position: 2
+    text: \"OMORI a KEL se na věnce vykašlali a kamsi utekli, ale mně a AUBRY to už celkem jde!!\"
+
+dreamworld_message3:
+    background: 0
+    position: 2
+    text: \"HERO pořád plete svůj věnec.<br>\!Chvilku mu to sice trvá, ale jde mu to líp a líp.\!<br>Je tak vytrvalý!\"
+
+dreamworld_message4:
+    background: 0
+    position: 2
+    text: \"My všichni, jak jíme melouny.\! Jsou super šťavnaté!\!<br>AUBRY má na tváři pár semínek.\!<br>Možná by jí to mohl někdo říct.\"
+
+dreamworld_message5:
+    background: 0
+    position: 2
+    text: \"KEL jak pije svoje oblíbené MLÉKO!<br>\!Asi bych to neměl fotit tak zblízka, mohl by mi zacákat objektiv.\"
+
+dreamworld_message6:
+    background: 0
+    position: 2
+    text: \"MARI a HERO byli tak hodní a všechny nás vyfotili.\!<br>Všichni říkají, že mi ten věnec sluší...\"
+
+dreamworld_message7:
+    background: 0
+    position: 2
+    text: \"HERO jak se připravuje KELA zmuckat!<br>\!KEL vypadá tak otráveně...\! Ach, bratrská láska...\"
+
+dreamworld_message8:
+    background: 0
+    position: 2
+    text: \"Dneska jsme měli piknik s MARI!<br><br>Chtěla po mně, abych nás všechny vyfotil! \!Sýr!\"
+
+dreamworld_message9:
+    background: 0
+    position: 2
+    text: \"Potom co jsme se najedli, všichni kromě HERA a MARI usli.\!<br>Já už jsem taky dost ospalý.\"
+
+dreamworld_message10:
+    background: 0
+    position: 2
+    text: \"KEL se prý vyfotil omylem,<br>ale já mu to fakt nevěřím....\"
+
+dreamworld_message11:
+    background: 0
+    position: 2
+    text: \"Naše nohy v křoužku!\!<br>Uhádneš, které jsou čí?\"
+
+dreamworld_message12:
+    background: 0
+    position: 2
+    text: ...
+
+#blackspace
+
+blackspace_message1:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message2:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message3:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message4:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message5:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message6:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message7:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message8:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message9:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message10:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message11:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message12:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message13:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message14:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message15:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message16:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message17:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message18:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message19:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message20:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message21:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message22:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message23:
+    background: 0
+    position: 2
+    text: ...
+
+blackspace_message24:
+    background: 0
+    position: 2
+    text: ...

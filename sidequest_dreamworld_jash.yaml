@@ -1,0 +1,20 @@
+# =========================================================================================
+# Sidequest: JASH
+# =========================================================================================
+
+#After purchasing any 1 item from ALL JASH (Sproutmole village, Ghost party, Frozen lake, Last Resort, Train station)
+
+message_0:
+      text: \n<JAŠ>Hele, kámo, počkej!\!<br>Než odejdeš, chtěl jsem ti poděkovat za to, že ses rozhodl stát celoživotním partnerem JAŠE!
+
+message_1:
+      text: \n<JAŠ>Opravdu skvěle se mi s tebou obchodovalo!\!<br>Vem si tuhle \c[13]CENOVKU\c[0], zcela gratis.
+
+message_2:
+      text: \n<JAŠ>Sice s ní nedostaneš žádné slevy, ale... <br>určitě ti k něčemu bude, na něco snad přijdeš.
+
+message_3:
+      text: \n<CITRÓNOVÝ JAŠ>Počkejte! Tudy nesmíte projít!\!<br>Potřebujete \c[4]JÍZDENKU\c[0]!
+
+message_4:
+      text: \n<CITRÓNOVÝ JAŠ>Hele, kámo, nemáš náhodou \c[4]JÍZDENKU\c[0]?\!<br>...\! Aha...\! Dobře, klidně běž dál!

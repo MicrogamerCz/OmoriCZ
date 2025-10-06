@@ -1,0 +1,17 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Gacha Text
+
+message_0:
+      text: Kapsulový automat.\! Zkusíš za $3.00 štěstí? \$
+
+message_1:
+      text: \{\{\sinv[1]JACKPOT!!
+
+message_2:
+      text: Získal jsi \c[13]\v[829]!\c[0]
+
+message_3:
+      text: Po pohledu na automat ti dojde, že jsi již vyhrál všechny talismany.

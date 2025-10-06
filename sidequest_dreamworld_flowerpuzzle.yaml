@@ -1,0 +1,32 @@
+
+# =========================================================================================
+# Flower puzzle
+# ========================================================================================
+#Copy from Demo
+
+
+message_0:
+    text: \daiChtěla bych někomu dát nějaký dárek, ale zajímají ho jenom puzzle...\! Kéž bych měla nějaké \c[4]KYTIČKOVÉ PUZZLE\c[0] nebo něco takového...\! Možná by si mě pak konečně všiml...
+
+message_1:
+    text: \daiJsou tohle \c[4]KYTIČKOVÉ PUZZLE\c[0]?\! A pro mě?\! ...\!<br>\}Možná si mě s tímhle NEB konečně všimne!
+
+message_2:
+    text: \dai...
+
+message_3:
+    text: \dai\Com[2]Ne, já se prořekla! Dělej prosímtě jako bys to neslyšel...
+
+message_4:
+    text: \daiDíky za ty \c[4]KYTIČKOVÉ PUZZLE\c[0]!\! Tady máš něco na oplátku...\!<br>Pár jsem jich předem natrhala!\! Že jsou hezké!
+
+message_5:
+    text: Získal jsi \c[13]SEDMIKRÁSKU\c[0] od SEDMIKRÁSKY!
+
+message_6:
+    text: \daiZ-Zajímá mě, co bych mu tak mohl dát za dárek...
+
+# =========================================================================================
+
+message_7:
+    text: Mezi sutí se cosi leskne...

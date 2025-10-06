@@ -1,0 +1,126 @@
+ # ===========================================
+ # Menu scenes and translations
+ # ===========================================
+
+plugins:
+  mainMenu:
+    commands:
+      - ['???', 'PŘEDAT BABU', 'BODNOUT']
+      - VYBAVIT
+      - KAPSA
+      - DOVEDNOSTI
+      - MOŽNOSTI
+    status:
+      tag: KOMU?
+      select: KOMU?
+
+  equipMenu:
+    weapon: ZBRAŇ
+    charm: TALISMAN
+    replace: VYMĚNIT ZA?
+
+  skillMenu:
+    skills: DOVEDNOSTI
+    replace: VYMĚNIT ZA?
+    DoWhat: UDĚLAT CO?
+    use: POUŽÍT
+    swap: VYMĚNIT
+    useon: POUŽÍT NA KOHO?
+
+  pocketMenu:
+    consumables: CONSUMABLES
+    toys: HRAČKY
+    important: DŮLEŽITÉ
+    trash: BINEC
+    use: POUŽÍT
+    sure: VÁŽNĚ?
+    useon: POUŽÍT NA KOHO?
+
+  optionsMenu:
+    general:
+      screenResolution:
+        text: ROZLIŠENÍ OBRAZOVKY
+        options: ['X1', 'X2', X3, X4]
+        help: Změní rozlišení obrazovky.
+        spacing: 80
+
+      fullScreen:
+        text: REŽIM CELÉ OBRAZOVKY
+        options: ['ZAP.', 'VYP.']
+        help: Přepne hru do režimu zobrazení na celou obrazovku.
+        boolIndex: true
+        spacing: 80
+
+      commandRemember:
+        text: ZAPAMATOVÁVAT POSLEDNÍ POKYNY
+        options: ['ZAP.', 'VYP.']
+        help: Nastaví, zda si hra v bitevním režimu zapamatuje poslední provedenou akci.
+        boolIndex: true
+        spacing: 80
+
+      battleAnimations:
+        text: BITEVNÍ ANIMACE
+        options: ['ZAP.', 'VYP.']
+        help: NÁPOVĚDY
+        boolIndex: true
+        spacing: 80
+
+      battleAnimationSpeed:
+        text: RYCHLOST BITEVNÍCH ANIMACÍ
+        options: ['BĚŽNÁ', 'ZRYCHLENÁ', 'RYCHLÁ', 'NEJRYCHLEJŠÍ']
+        help: NÁPOVĚDY
+        spacing: 130
+
+      battleLogSpeed:
+        text: RYCHLOST BITEVNÍHO ZÁZNAMU
+        options: ['NORMAL', 'AUTO']
+        help: NÁPOVĚDY
+        spacing: 130
+
+      alwaysDash:
+        text: POHYB POSTAV
+        options: ['BĚH', 'CHŮZE']
+        help: NÁPOVĚDY
+        boolIndex: true
+        spacing: 130
+
+    audio:
+      bgmVolume:
+        text: HLASITOST HUDBY
+        help: Mění hlasitost hudby.
+
+      bgsVolume:
+        text: HLASITOST EFEKTŮ V POZADÍ
+        help: Mění hlasitost zvuků doplňujících pozadí.
+
+      meVolume:
+        text: HLASITOST HUDEBNÍCH EFEKTŮ
+        help: Mění hlasitost hudebních efektů.
+
+      seVolume:
+        text: HLASITOST ZVUKOVÝCH EFEKTŮ
+        help: Mění hlasitost zvukových efektů.
+
+    controls:
+      keyboardHeader: KLÁVESNICE
+      gamepadHeader: OVLADAČ
+      pressKeyPrompt: STISKNĚTE KLÁVESU
+      resetAll: TOVÁRNÍ NASTAVENÍ
+      help: Chcete-li změnit toto nastavení, stiskněte libovonou klávesu.
+      inputNames:
+        up: NAHORU (↑)
+        down: DOLŮ (↓)
+        left: DOLEVA (←)
+        right: DOPRAVA (→)
+        ok: POTVRDIT
+        escape: ZRUŠIT
+        shift: BĚH
+        tag: PŘEDÁVÁNÍ BABY
+        tab: PŘEPÍNÁNÍ PŘEDÁVÁNÍ
+        pageup: LB
+        pagedown: RB
+
+    system:
+      load:
+        text: NAHRÁT ULOŽENOU HRU
+        help: Nahraje uloženou hru.

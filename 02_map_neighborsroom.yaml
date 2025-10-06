@@ -1,0 +1,130 @@
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\c[13]HEKTOR\c[0] je ten nejlepší domácí kamínek na světě!
+
+message_2:
+      text: Bez svých kamarádů nemůžeš odejít.
+
+message_3:
+    text: Zevnitř šuplíku na tebe číhá oko.
+
+message_4:
+    text: V televizi běží film.\!<br>Čtyři kluci v něm chodí po kolejích.
+
+message_5:
+    text: Fotka někoho povědomého.
+
+message_6:
+    text: Načechraný polštář ve tvaru dívčí hlavy.
+
+message_7:
+    text: \n<HAD>\sinv[1]Sssssssssssss...?\sinv[0]\! (Čekáš snad na něco?)
+
+message_8:
+    text: Díra ve tvaru kočky.
+
+message_9:
+    text: Cítíš, za dveřma přítomnost NĚČEHO.\!<br>Podíváš se skrz klíčovou dírku?
+
+message_10:
+    text: Pečlivě zabalený dárek.
+
+message_11:
+    text: Mixér.
+
+message_12:
+    text: Jedna fazole na talíři.
+
+message_13:
+    text: Přál by sis udělat toust?
+
+message_14:
+    text: Udělal jsi TOUST.
+
+message_15:
+    text: Baseballová pálka a míček.
+
+message_16:
+    text: Chapadlo trčící z podlahy.
+
+
+#- Omori's CUT Tag Skill
+
+message_17:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHm. Stojí nám v cestě nějaké kořeny...\!<br>Jak se sem mohly dostat?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubNeboj, BASILE!\!<br>OMORIMU by rozhodně nedělalo problém se jima \c[1]PROSEKAT\c[0]!
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubNo tak, OMORI!\! Zvládneš to!
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubNo tak, OMORI!\! Zvládneš to!
+
+
+#- Snake money
+
+message_100:
+    text: \n<HAD>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Jdeš ven, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Tady máš kapesné pro dnešek.)
+
+message_101:
+    text: Získal jsi \v[1001] MUŠLÍ.
+
+message_102:
+    text: \n<HAD>\sinv[1]Sssssssssssss...\!\sinv[0] (Dávej na sebe pozor.)
+
+message_103:
+    text: \n<HAD>\sinv[1]Ssssssssssss...?\!\sinv[0] (Čekáš snad na něco?)
+
+#Trying to go back inside Neighbor's Room before Basil is kidnapped
+
+message_110:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basPočkej, OMORI... Nechtěli jsme jít ke mně domů?\! Hned tady dole, jižně od hřiště.
+
+message_111:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basI just finished planting some little sprouts and wanted to show everyone.\! Come on! They're really cute!
+
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herCo to děláš, OMORI?\! Pojďme za BASILEM a MARI!\! Přece si nenecháme ujít ten jejich piknik!
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herKam to jdeš, OMORI?\! Pojďme za MARI.\! Musí o tebe mít hrozný strach.
+
+message_114:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marPojďme se podívat do toho strašidelného domu, OMORI!\! Neboj se.\! Jsme v tom spolu!
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubKampak jdeš, OMORI?\! Musíme přece najít BASILA...
+
+#FRIEND TEXT
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubAhoj, OMORI!\! Jsem tak ráda, že tě zase vidím!
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelNazdar kámo, jak je?!\! Chyběl jsem ti? Heh, heh...

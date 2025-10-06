@@ -1,0 +1,1453 @@
+
+# =========================================================================================
+# Bestiary
+# =========================================================================================
+EmptyEnemyName: 'NOTES NEPŘÁTEL!'
+Information:
+
+  19:
+    name: LESNÍ KRÁLÍČEK
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 0
+
+    text: |
+        Roztomilé a huňaté zvířata,
+        které mají občas tendence útočit
+        na kolemjdoucí bez varování.
+
+        - OMORI
+
+
+        Určitě by byl roztomilý
+        domácí mazlíček!
+
+        - AUBRY
+
+  23:
+    name: LESNÍ KRÁLÍČEK?
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 1
+
+    text: |
+        Běžný LESNÍ KRÁLÍČEK, akorát
+        že vzhůru nohama... proč by
+        to ale dělal? Není to trochu
+        nepříjemné?...
+
+        - OMORI
+
+
+        Musí mít fak silné
+        ušní svaly!!!
+
+        - KEL
+
+  27:
+    name: ZTRACENÝ KLÍČKOKRTEK
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 2
+
+    text: |
+        Nebezpečný a nepřátelský rostlinný
+        tvor. Říká o sobě sice, že je
+        chytrý, ale tomu se nedá věřit.
+        Není chytrý. A ještě k tomu
+        smrdí jako špinavé prádlo.
+
+        - OMORI
+
+  863:
+    name: VELKÝ SILNÝ STROM
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'DW_NPC_17', index: 2}
+    listIndex: 3
+
+    text: |
+        Ty brďo! Je tak velký a silný!
+
+        - KEL
+
+  44:
+    name: PRAŠNÝ KRÁLÍČEK
+    background: {name: 'battleback_bookshelf', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 1}
+    listIndex: 4
+
+    text: |
+        Nejospalejší druh KRÁLÍČKA.
+        Rádi se schovávají v knihovnách
+        a pod postelema. Připadají mi
+        celkem stydliví...
+
+        - OMORI
+
+  37:
+    name: VESMÍRNÝ KRÁLÍČEK
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES', index: 6}
+    listIndex: 5
+
+    text: |
+        Běžný LESNÍ KRÁLÍČEK
+        s bublinou na hlavě.
+        Umožňuje mu dýchat
+        ve vesmíru.
+
+        -OMORI
+
+  45:
+    name: N.L.P.
+    background: {name: 'battleback_ow_cattail', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 2}
+    listIndex: 6
+
+    text: |
+        NEBOLI...
+        NEIDENTIFIKOVANÝ LÉTAJÍCÍ POMERANČ.
+        Velice vyspělý druh pomeranče,
+        který lze běžně vidět
+        poletovat vesmírným hlubokou
+        prázdnotou vesmírného prostoru.
+
+        -OMORI
+
+
+        Pořád chutná, jako pomeranč!
+
+        -KEL
+
+  49:
+    name: MASOŽRAVKA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 3}
+    listIndex: 7
+
+    text: |
+        Vzhledově připomínají
+        běžný vodní meloun.
+        To je ovšem evoluční znak
+        využit na navnazení
+        neinteligentní kořisti.
+
+        -OMORI
+
+
+        Sakra, byl jsem si jistej,
+        že je to opravdový meloun!
+
+        -KEL
+
+  53:
+    name: ČERVÍ DÍRA
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 4}
+    listIndex: 8
+
+    text: |
+        Říká se, že červí díry jsou
+        schopny spojovat neuvěřitelně
+        vzdálené body časoprostoru...
+        Tahle je ale jenom červ.
+
+        - OMORI
+
+
+        Nelíbí se mi, jak sebou vrtí...
+
+        -AUBRY
+
+
+  57:
+    name: KAZETA
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_1', index: 1}
+    listIndex: 9
+
+    text: |
+        Úplná vykopávka...
+        Na to, jak je zapomenutá
+        mi připadá nějak moc veselá.
+
+        - OMORI
+
+
+        Kdysi jsem tyhle věci sbíral!
+        Tak tady všechny zkončily...
+
+        - HERO
+
+  61:
+    name: PO DRÁTĚ
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_1', index: 0}
+    listIndex: 10
+
+    text: |
+        Starobylý způsob, kterým se lidé
+        připojovali ke komunikačním sítím.
+        Vydává při používání hrozný zvuk.
+
+        - OMORI
+
+
+        Ach, tenhle zvuk mi
+        připomíná staré časy...
+
+        - HERO
+
+  65:
+    name: KASMRŤÁK
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_7', index: 1}
+    listIndex: 11
+
+    text: |
+        Zmrtvýchvstalý KAZEŤÁK.
+        Tak se říkalo přístroji, který
+        uměl roznášet hlasité zvuky.
+
+        - OMORI
+
+
+  69:
+    name: ŽRALOKOPLÁN
+    background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
+    position: {x: 200, y: 300}
+    character: {name: 'DW_EN_9', index: 0}
+    listIndex: 12
+
+    text: |
+        Létající predátor schopen
+        zaskočit své pasažéry
+        nadzvukovou rychlostí.
+        Když na něj nastoupíte,
+        nikdy nevíte, kde vysednete...
+
+        - OMORI
+
+  142:
+    name: KRÁLÍČEK-BROUK
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 2}
+    listIndex: 13
+
+    text: |
+        Členovec.
+        Má rád studené klima a
+        pro srandu se koulí dolů
+        z kopců. Tento koníček nabil
+        takového věhlasu, až začala
+        být každým rokem pořádána
+        célá koulecí soutěž.
+
+        - OMORI
+
+  146:
+    name: MEDVĚD KODIAK
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_5', index: 0}
+    listIndex: 14
+
+    text: |
+        Pozor - neprovokovat.
+        Neprokazujte před ním strach.
+
+        - OMORI
+
+  150:
+    name: KYTICE
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 1}
+    listIndex: 15
+
+    text: |
+        Pozor - neprovokovat.
+        Při zahnání do kouta vybuchují.
+        - OMORI
+
+        Ale proč vybuchují?
+        - KEL
+
+        Kdo je tady vůbec
+        zasadil?
+        - AUBRY
+
+  158:
+    name: KLÍČKOKRTEK?
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_MOLES', index: 0}
+    listIndex: 16
+
+    text: |
+        Je tenhle KLÍČKOKRTEK vzhůru
+        nohama a nebo jsme my vzhůru nohama?
+
+        - OMORI
+
+  855:
+    name: KRÁLÍČEK-DUCH
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 0}
+    listIndex: 17
+
+    text: |
+        Nebezpečná zaječí duše,
+        toužící po pomstě.
+
+        - OMORI
+
+
+        I tak jsou celkem roztomilí...
+
+        - AUBRY
+
+  168:
+    name: HAROLD
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 2}
+    listIndex: 18
+
+    text: |
+        Pravý mistr meče.
+        KLÍČKOKRTEK, který několik
+        let studoval bojová umění
+        aby se stal hodným svého titulu.
+
+        - OMORI
+
+  172:
+    name: MARŠA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 185, y: 450}
+    character: {name: 'DW_EN_5', index: 4}
+    listIndex: 19
+
+    text: |
+        Pravý mistr sekery.
+        KLÍČKOKRTEK, který několik
+        let studoval bojová umění
+        aby se stal hodným svého titulu.
+
+        - OMORI
+
+  176:
+    name: TEREZ
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 180, y: 435}
+    character: {name: 'DW_EN_5', index: 3}
+    listIndex: 20
+
+    text: |
+        Pravý mistr luku.
+        KLÍČKOKRTEK, který několik
+        let studoval bojová umění
+        aby se stal hodným svého titulu.
+
+        - OMORI
+
+  180:
+    name: LUCIUS
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 5}
+    listIndex: 21
+
+    text: |
+        Pravý mistr čarování.
+        KLÍČKOKRTEK, který několik
+        let studoval bojová umění
+        aby se stal hodným svého titulu.
+
+        - OMORI
+
+  184:
+    name: KOŇSKÁ HLAVA
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_5', index: 6}
+    listIndex: 22
+
+    text: |
+        Trapný pokus o celého koně.
+
+        - OMORI
+
+
+        No... aspoň, že se někdo snažil...
+        
+        - AUBRY
+
+  188:
+    name: KOŇSKÝ ZADEK
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_3', index: 3}
+    listIndex: 23
+
+    text: |
+        Za mě by ten, kdo tohle
+        vymyslel měl dostat na zadek.
+
+        - OMORI
+
+
+        No tak, to přece není hezké!
+        - AUBRY
+
+
+
+  97:
+    name: ZAZAJÍC
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 2}
+    listIndex: 24
+
+    text: |
+        Celkem roztomilý. Řekl bych, že je
+        možná i veganský.
+        - OMORI
+
+        Je veganský?
+        - KEL
+
+        Nejsem si jistý.
+        - HERO
+
+        Rozhodně ne...
+        - AUBRY
+
+  839:
+    name: DORTÍČEK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 4}
+    listIndex: 25
+
+    text: |
+        Zlý dortový parazit, který
+        si tohoto chudáka vzal za hosta.
+
+        Jeho oči jsou plny tichého křiku.
+
+        - OMORI
+
+  843:
+    name: KOKTEJLÍČEK
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 5}
+    listIndex: 26
+
+    text: |
+        LESNÍ KRÁLÍČEK s mléčným
+        koktejlem na zádech.
+
+        - OMORI
+
+  847:
+    name: KRÁLIČINKA
+    background: {name: 'battleback_oo_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 3}
+    listIndex: 27
+
+    text: |
+        Roztomilý LESNÍ KRÁLÍČEK, nesoucí
+        svého padlého soudruha na hlavě
+        jakožto módní doplněk.
+
+        - OMORI
+
+  851:
+    name: JAHOHAD
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 7}
+    listIndex: 28
+
+    text: |
+        Jahodový HAD.
+        Nic víc, nic míň.
+
+        - OMORI
+
+  133:
+    name: DIKOLÁČ
+    background: {name: 'battleback_excavation_1', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 1}
+    listIndex: 29
+
+    text: |
+        Pohrdnutý zákusek, odsouzen ke
+        věčnému bloudění po poušti.
+
+        - OMORI
+
+
+        Možná chutnal moc ostře?
+
+        - HERO
+
+
+  797:
+    name: KLÍČKOKRÁLÍČEK
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 1}
+    listIndex: 30
+
+    text: |
+        Celkem roztomilý. Řekl bych, že je
+        možná i veganský.
+        - OMORI
+
+        Jsem si na 100% jistý, že je veganský.
+        - KEL
+
+        Za mě by klidně mohl být.
+        - HERO
+
+        Rozhodně ne...
+        - AUBRY
+
+  789:
+    name: CILANTRO
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 2}
+    listIndex: 31
+
+    text: |
+        Latinský název -
+        Coriandrum sativum
+        Výživové údaje na 100 gramů -
+        Energie - 22.71 Kcal
+        Vitamin K - 310 mcg
+        Draslík - 521 mg
+        Železo - 1.77 mg
+
+        Nejsou přece koriandr a cilantro
+        jedno a to samé?
+
+        - KEL
+
+  793:
+    name: ZÁZVOR
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 6}
+    listIndex: 32
+
+    text: |
+        Scientific Name -
+        Zingiber officinale
+
+        Květina, jejíž oddenek je
+        rozšířen jakožto koření.
+        Také používán v lidové medicíně.
+
+        - OMORI
+
+  785:
+    name: CELER
+    background: {name: 'battleback_excavation_2', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_1', index: 5}
+    listIndex: 33
+
+    text: |
+        Věděl jsi, že jezením CELERU
+        spálíš více kalorií, než
+        z něj nakonec dostaneš?
+        To protože ho musíš žvýkat!
+        
+        - KEL
+
+
+        To ví každý, KELI...
+
+        - AUBRY
+
+  772:
+    name: KRÁLÍČEK
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 0}
+    listIndex: 34
+
+    text: |
+        Ohavnost.
+
+        - OMORI
+
+
+        Otřesný.
+
+        - AUBRY
+
+  776:
+    name: KUŘECÍ
+    background: {name: 'battleback_excavation_3', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_4', index: 0}
+    listIndex: 35
+
+    text: |
+        Drůbež v pohybu.
+
+        - HERO
+
+
+        Vždyť je to jenom stehno!
+
+        - KEL
+
+  198:
+    name: RYBOKRÁLÍČEK
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'ENEMY_BUNNIES_2', index: 3}
+    listIndex: 36
+
+    text: |
+        LESNÍ KRÁLÍČEK, který se
+        přizpůsobil svému prostředí.
+        Jsou neradi sami a proto
+        cestují ve skupinkách.
+
+        - OMORI
+
+  206:
+    name: SLÁVKA
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 6}
+    listIndex: 37
+
+    text: |
+        Velmi svalnatý druh slávky.
+        Svou pevnou fyzičku udržuje
+        namáhavým sportovním režimem.
+
+        - OMORI
+
+  210:
+    name: MOŘSKÁ PANA NAOPAK
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 5}
+    listIndex: 38
+
+    text: |
+        Čub, čub, rýbaróba, rýbaróba, rýbaróba.
+
+        - OMORI
+
+  214:
+    name: PLOUTEV
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 4}
+    listIndex: 39
+
+    text: |
+        Žraločí ploutev.
+
+        - OMORI
+
+  218:
+    name: ČAROLIHEŇ
+    background: {name: 'battleback_dw_highway', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_6', index: 0}
+    listIndex: 40
+
+    text: |
+        Největší padouch zvířecí říše.
+        Nemá žádné kamarády, nikdo ho
+        nezve na oslavy a dělá blbé vtipy.
+
+        - OMORI
+
+  250:
+    name: SLIZOVÝ KRÁLÍČEK
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES_2', index: 4}
+    listIndex: 41
+
+    text: |
+      Příliš slizký na obejmutí,
+      Příliš slizký na lásku.
+
+      - OMORI
+
+
+      Je ze slizu...
+      a chutná jako špíz!
+
+      - KEL
+
+  254:
+    name: VODOPAST
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_IMPORTANTOBJ', index: 3}
+    listIndex: 42
+
+    text: |
+        Lehce zřetelná past, která
+        by nezmátla ani nejprostějšího tvora.
+
+        - OMORI
+
+
+        Sakra, byl jsem si jistej,
+        že je to opravdový meloun!
+
+        - KEL
+
+  262:
+    name: NOSNÍ BUBLINA
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_6', index: 1}
+    listIndex: 43
+
+    text: |
+        Křehký tvor s krátkým životem.
+        Žije prchlavý život a
+        smrdí jako mokrý pes.
+
+        - OMORI
+
+  258:
+    name: ROBOŽÍŽALA
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 420}
+    character: {name: 'DW_EN_7', index: 0}
+    listIndex: 44
+
+    text: |
+        Robotická žížala s žiletkově
+        ostrými zuby. Její oblíbené
+        jídlo je mrkev.
+
+        - OMORI
+
+  266:
+    name: MYŠ LABORATORNÍ
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_3', index: 7}
+    listIndex: 45
+
+    text: |
+        Samozvaný vědecký génius.
+        Odborník na teoretickou
+        chemii, i když jeho pravá
+        vášeň je stříbrné plátno.
+
+        - OMORI
+
+
+        Jednou z něj jistě bude hvězda!
+
+        - AUBRY
+
+  270:
+    name: KLÍČKOKRTEK??
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_6', index: 2}
+    listIndex: 46
+
+    text: |
+        Obluda vytvořena z nejsilnějších
+        částí z nejsilnějších KLÍČKOKRTKŮ.
+
+        - OMORI
+
+
+  881:
+    name: KRAJÍC, SEZAM, & TĚSTO
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_17', index: 5}
+    listIndex: 47
+
+    text: |
+        Duše dětí chleba vzkříšené
+        záhadnou mocí. Objevují se pouze
+        ve skupinkách, protože jsou
+        dobří kamarádi.
+
+        - OMORI
+
+  101:
+    name: CREEPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 48
+
+    text: |
+        Nejdříve bych zde chtěl zmínit,
+        že tento příběh je 100% pravdivý.
+        Minulé léto jsem byl na bleším trhu,
+        a našel tam CDčko hry, kterou jsem neznal.
+        Koupil jsem si ho, a vložil ho do počítače.
+        Nefungovalo. A pak když jsem se vrátil na
+        ten bleší trh, byl celý roztrhaný.
+
+  105:
+    name: COPYPASTA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 400}
+    character: {name: 'DW_EN_2', index: 5}
+    listIndex: 49
+
+    text: |
+        COPYPASTA je pasta,
+        které se kopíruje.
+        - OMORI
+
+        COPYPASTA je pasta,
+        které se kopíruje.
+        - KEL
+
+        COPYPASTA je pasta,
+        které se kopíruje.
+        - AUBRY
+
+  125:
+    name: ŽIVÝ CHLEBA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 6}
+    listIndex: 50
+
+    text: |
+        Dokonale upečený čertí chleba.
+        Jeho posláním je pojídat ŽIVÝ DŽEM.
+
+        - OMORI
+
+
+
+
+        Ble!!!
+
+        - KEL
+
+  129:
+    name: PERNÍČEK
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_2', index: 4}
+    listIndex: 51
+
+    text: |
+        Možná trochu smutný...
+        Ale aspoň že ne mrtvý.
+
+        - OMORI
+
+        Vždyť se to ani nerýmuje...
+
+        - AUBRY
+
+  859:
+    name: TOASTOVÝ DUCH
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 7}
+    listIndex: 52
+
+    text: |
+        Bezcitný přízrak, mluvící v
+        děsivých citátech, jako například
+        “Zemřela veka, do hrobu dána
+        semínka po ni zbyly."
+
+        - OMORI
+
+
+        Ten vypadá trochu
+        jako ty, OMORI!
+
+        - AUBRY
+
+  109:
+    name: PREJSEK
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_2', index: 3}
+    listIndex: 53
+
+    text: |
+        Bloudící přízrak ztvořen
+        z úpění zatracených duší.
+        Pomalu se eventuelně uřve k smrti.
+
+        - OMORI
+
+  79:
+    name: SNĚŽNÝ KRÁLÍČEK
+    background: {name: 'battleback_ff_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 7}
+    listIndex: 54
+
+    text: |
+        Když je naštvaný,
+        kope kolem sebe sníh.
+        Schopen vytvořit nejmenší
+        vánici na světě.
+
+        - OMORI
+
+
+        Myslíš, že by se roztál,
+        kdybychom ho dali na slunko?
+
+        - KEL
+
+  87:
+    name: KOPA SNĚHU
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_EN_4', index: 1}
+    listIndex: 55
+
+    text: |
+        Omylem zakletý úsek sněhu.
+        Přemýšlí o tom, proč vůbec žije.
+
+        - OMORI
+
+  83:
+    name: SNĚŽNÝ ANDĚL
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_EN_8', index: 0}
+    listIndex: 56
+
+    text: |
+        Strážce SNĚŽÍTKOVÉHO VRCHU.
+        Jejich oči jsou plné příběhů.
+
+        Často se ukazují cestovatelům
+        a při chumelení opět mizí.
+
+        - OMORI
+
+
+  365:
+    name: ŠÉF
+    background: {name: 'battleback_reckut', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_BOSS', index: 0}
+    listIndex: 57
+
+    text: |
+        Celkem drsný.
+        Může být nepřítel... nebo přítel.
+
+        - OMORI
+
+  336:
+    name: KLÍČKODĚDEK
+    background: {name: 'battleback_vf_default', x: 0, y: 0}
+    position: {x: 160, y: 450}
+    character: {name: 'DW_NPC_15', index: 1}
+    listIndex: 58
+
+    text: |
+        Milovaný praotec všech KLÍČKOKRTKŮ.
+        Říká se, že miluje všechen život
+        v lese, ale také, že všechen
+        život v lese vzešel z něj.
+
+        Když zrovna neudržuje rovnováhu
+        lesa, rád sedí.
+
+        - OMORI
+
+  340:
+    name: KLUK S DRAKEM
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$sprite_vf_kite_kid', index: 0}
+    listIndex: 59
+
+    text: |
+        Záhadný chlapec posedlý
+        povětrnostními podmínkami.
+        Většinou si pouští svého
+        draka a při tom mumlá
+        cosi o počasí.
+
+        - OMORI
+
+  344:
+    name: KLUKŮV DRAK
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: '$npc_kite', index: 0}
+    listIndex: 60
+
+    text: |
+        Divný drak. Zdá se, že žije.
+
+        - OMORI
+
+  880:
+    name: '???'
+    conditionalNames:
+        - { name: PLUTO, switches: [[90, true]] }
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 61
+
+    text: |
+        Záhadný, vznášející se kámen.
+
+        - OMORI
+
+
+        Má hustý svaly!
+
+        - KEL
+    conditionalText:
+        -
+          switchIds: [15]
+          line: null
+          text: |
+
+            Zdá se... že je nakonec
+            celkem slušný chlap.
+
+            - OMORI
+
+            Mám ho rád!
+
+            - KEL
+
+  370:
+    name: PLANETA ZEMĚ
+    background: {name: 'battleback_ow_outskirts', x: 0, y: 0}
+    position: {x: 160, y: 700}
+    character: {name: 'DW_EN_7', index: 2}
+    listIndex: 62
+
+    text: |
+        V pořadí třetí planeta od Slunce.
+        Její povrch je pokryt hlavně
+        vodou a lidma.
+
+        - OMORI
+
+  388:
+    name: STAHOVANÍ OKNO
+    background: {name: 'battleback_ow_download', x: 0, y: 0}
+    position: {x: 160, y: 325}
+    character: {name: 'DW_NPC_17', index: 4}
+    listIndex: 63
+
+    text: |
+        [CHYBA]
+
+  379:
+    name: VESMÍRNÝ EX-MILENEC
+    background: {name: 'battleback_ow_xsbf', x: 0, y: 0}
+    position: {x: 150, y: 500}
+    character: {name: 'DW_NPC_3', index: 5}
+    listIndex: 64
+
+    text: |
+        Neúprosné druhé já KAPITÁNA
+        VESMÍRŇÁKA. Vychází najevo,
+        když se rozzuří. Dokáže sice
+        poroučet planetám, ale srdcím ne.
+
+        - OMORI
+
+  424:
+    name: KRÁL PLAZIVKA
+    background: {name: 'battleback_pf_default', x: 0, y: 0}
+    position: {x: 190, y: 490}
+    character: {name: 'DW_EN_6', index: 3}
+    listIndex: 65
+
+    text: |
+        Bezmyšlenkový parazit, který
+        krutě pobíjí KLÍČKOKRTKY a
+        prodlužuje si své tělo
+        jejími pozůstatky.
+
+        - OMORI
+
+  451:
+    name: KRÁL MASOŽRAVKA
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_18', index: 5}
+    listIndex: 66
+
+    text: |
+        Jeden z mnoha přirozených
+        predátorů KLÍČKOKRTKA.
+        Do jejich kolonií se dostává
+        skrz zakopání se do země.
+        Nejraději mají KLÍČKOKRTKY
+        měkké a teplé.
+
+        - OMORI
+
+  442:
+    name: PODEZŘELÝ KRTEK
+    background: {name: 'battleback_sm_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_3', index: 3}
+    listIndex: 67
+
+    text: |
+        Nejpodezřelejší z
+        KLÍČKOKRTKŮ. Nevěř
+        mu ani slovo.
+
+        - AUBRY
+
+
+  469:
+    name: KNÍŽE MAXIMUS
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 68
+
+    text: |
+        Opravdový mistr meče.
+        KLÍČKOKRTEK, který několik
+        let studoval bojová umění
+        aby se nejen stal hoden
+        svého titulu, ale překonal jej.
+        
+        - OMORI
+
+
+  478:
+    name: KNÍŽE MAXIMUS II.
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 69
+
+    text: |
+        Opravdový mistr meče.
+        Syn KLÍČKOKRTKA, který několik
+        let studoval bojová umění
+        aby se nejen stal hoden
+        svého titulu, ale překonal jej,
+        nesoucí titul MAXIMA.
+
+        - OMORI
+
+  487:
+    name: KNÍŽE MAXIMUS III.
+    background: {name: 'battleback_sw_default', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 7}
+    listIndex: 70
+
+    text: |
+        Opravdový mistr meče.
+        Vnuk KLÍČKOKRTKA, který několik
+        let studoval bojová umění
+        aby se nejen stal hoden
+        svého titulu, ale překonal jej,
+        nesoucí titul MAXIMA.
+
+        - OMORI
+
+  496:
+    name: ZLATÍČKO
+    background: {name: 'battleback_sw_sweetheart', x: 0, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_SH_1', index: 1}
+    listIndex: 71
+
+    text: |
+        Zuřivá a krásná vévodkyně žijicí
+        ve velkém hradě ve SVĚTLUŠČÍM LESE.
+        Zbožňována KLÍČKOKRTKY po celém světě.
+        Má slabost pro HERA.
+
+        - OMORI
+
+
+        Hele... Raději už o tomhle
+        nebudeme mluvit, jo?
+
+        - HERO
+
+  409:
+    name: OHAVNÁ TROUBA
+    background: {name: 'battlebacks_dd_default', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_15', index: 6}
+    listIndex: 72
+
+    text: |
+      Bytost z jiného světa,
+      vyvolána talířem
+      ovesných sušenek.
+      - OMORI
+
+      Čiré zlo!
+      - AUBRY
+
+      Otřesný!
+      - KEL
+
+      Dokonce až ohavná!
+      - HERO
+
+
+  415:
+    name: NEKYNUTÁ DVOJČATA
+    background: {name: 'battlebacks_dd_biscuit_doughie', x: 0, y: 0}
+    position: {x: 210, y: 500}
+    character: {name: 'DW_NPC_17', index: 3}
+    listIndex: 73
+
+    text: |
+         MOUČNÍK a MOUKA, nekynutá
+         dvojčata z jiného vesmíru,
+         nucena navždy péct a
+         převážet chléb v
+         začarovaném kruhu. Ohoooooo...
+
+         - OMORI
+
+  402:
+    name: VESMÍRNÝ EX-MANŽEL
+    background: {name: 'battleback_ff_xsh', x: 0, y: 0}
+    position: {x: 172, y: 550}
+    character: {name: 'DW_NPC_14', index: 6}
+    listIndex: 74
+
+    text: |
+        KAPITÁN VESMÍRŇÁK po rozvodu.
+        Jeho duše již přemohla čaš
+        a prostor. Vyvinul se nad
+        každou lidskou emoci.
+
+        - OMORI
+
+
+        Chudák VESMÍRŇÁK.
+        Tohle by si nikdo nezasloužil...
+
+        - AUBRY
+
+
+  508:
+    name: PAN CENIL
+    background: {name: 'battlebacks_dw_jawsum', x: -90, y: 0}
+    position: {x: 160, y: 525}
+    character: {name: 'DW_jawsum', index: 1}
+    listIndex: 75
+
+    text: |
+        Ambiciózní kapitalista /
+        podnikatel / lichvář, vlastnící
+        51% HLUBOKÉ STUDNY.
+        Není pro něj nic více svaté,
+        než podepsaná smlouva.
+
+        - OMORI
+
+
+        Hele, to je náš šéf!
+        Ten je supr!
+
+        -KEL
+
+  202:
+    name: KROKOĎÁK
+    background: {name: 'battleback_dw_lastresort_interior', x: -90, y: 0}
+    position: {x: 175, y: 500}
+    character: {name: 'DW_NPC_GATOR', index: 0}
+    listIndex: 76
+
+    text: |
+        Spolehliví a oddaní
+        poskokové PANA CENILA.
+        Je dosti pravděpodobné, že
+        s ním mají všichni podepsané smlouvy.
+
+        Dorozumívají se spolu
+        vysílačkama, i když
+        jsou spolu ve stejné místnosti.
+
+        - OMORI
+
+  514:
+    name: PLUTO (ROZŠÍŘEN)
+    background: {name: 'battleback_dw_pluto', x: 0, y: 0}
+    position: {x: 162, y: 500}
+    character: {name: 'DW_NPC_15', index: 2}
+    listIndex: 77
+
+    text: |
+        Úchvatně mocná, rozšířená
+        inkarnace PLUTA, nejsilnější
+        planety vesmíru.
+
+        - OMORI
+
+  541:
+    name: ROBOZLATÍČKO
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 0}
+    listIndex: 78
+
+    text: |
+        Nebezpečný vražedný robot
+        s nenávistí k veškerému životu.
+        Máme štěstí, že jsme jej spatřili na
+        vlastní oči a přežili.
+
+        - OMORI
+
+  550:
+    name: MUTANTÍ ZLATÍČKO
+    background: {name: 'battleback_dw_sglair', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_10', index: 7}
+    listIndex: 79
+
+    text: |
+        Nepovedený (?) experiment
+        SLIZÍ SESTRY MARINY.
+        Pokouší se komunikovat
+        podivnými zvuky. Voní
+        po jahodých.
+
+        - OMORI
+
+  559:
+    name: SUPERZLATÍČKO
+    background: {name: 'battleback_dw_perfectheart', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_NPC_14', index: 1}
+    listIndex: 80
+
+    text: |
+        Bohyně s nesmírnou sílou
+        a krásou. Světlo, které
+        vydává může způsobit
+        náhlé oslepení, v některých
+        případech dokonce i smrt.
+
+        - OMORI
+
+  877:
+    name: MARINA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 180, y: 500}
+    character: {name: 'DW_NPC_10', index: 2}
+    listIndex: 81
+
+    text: |
+        Neúprosná a hrozivá prostřední
+        zástupkyně SLIZOVÝCH SESTER.
+        Nemá moc trpělivosti. Ráda
+        rozestavuje a poté znovu
+        sestavuje živé věci, většinou
+        bez jejich svolení.
+
+        - OMORI
+
+  878:
+    name: MOLLY
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 185, y: 500}
+    character: {name: 'DW_NPC_10', index: 1}
+    listIndex: 82
+
+    text: |
+        Zlomyslná a mazaná nejstarší
+        zástupkyně SLIZOVÝCH SESTER.
+        Dokáže najít něco příjemného
+        na čemkoliv. Ovládá sice
+        všechny přírodní vědy, ale
+        nejvíce se drží programování,
+        protože se při něm musí
+        nejméně hýbat.
+
+        Má dost v oblibě
+        čipsy se sýrovou příchutí.
+
+        - OMORI
+
+  879:
+    name: MEDŮZA
+    background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
+    position: {x: 170, y: 500}
+    character: {name: 'DW_NPC_10', index: 0}
+    listIndex: 83
+
+    text: |
+        Mírná a prakticky zaměřená
+        nejmladší zástupkyně SLIZOVÝCH SESTER.
+        Většinou se zabývá barevnýma
+        zkumavkama, protože se jí líbí, jak svítí.
+
+        Je expert v usměrňování
+        obtížných sporů a situaci.
+        Hlavně protože se její sestry
+        nedokážou přestat hádat.
+
+        - OMORI
+
+  577:
+    name: BENDA
+    background: {name: 'battleback_dw_humphrey', x: 0, y: 0}
+    position: {x: 160, y: 500}
+    character: {name: 'DW_SG_Humphrey', index: 0}
+    listIndex: 84
+
+    text: |
+        Čirý, surový teror.
+        - OMORI
+
+        Měkoučký teror! Ňak! Ňak!
+        - BENDA

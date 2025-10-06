@@ -1,0 +1,66 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \"ANDREW VANCE alias SLEEPYKUYA\"<br>\!\"Místní opilec.\! Zemřel při souboji s krtkem.\"<br>\!\"1873-1901\"
+
+message_1:
+    text: \"OCEAN'S DREAM\"<br>\!\"Zemřel tak, jak žil...\! obklopen sýrem.\"
+
+message_2:
+    text: \"MELONKID\"<br>\!\"Omylem šlápl na položené hrábě.\"
+
+message_3:
+    text: \"OMOCAT\"<br>\!\"Jen poté, co zemřeme, začínáme doopravdy žít.\"
+
+message_4:
+    text: \"WHITNEY WHITE alias YIN\"<br>\!\"Démonům se dostalo jejich vysněné pomsty... :(\"
+
+message_5:
+    text: \"KIM VANCE alias LA AGUACATE\"<br>\!\"Smrt jdoucí ruku v ruce s nezákonným pašováním avokád.\"
+
+message_6:
+    text: \"ROCHELL.\"<br>\!\"Smrt zapříčiněná kofeinem ve 23 letech života.\"
+
+message_7:
+    text: \"EMS\"<br>\!\"Odevzdání jídelního dárku povinno pro všechny návštěvníky hrobu. \"
+
+message_8:
+    text: \"AIVI\"<br>\!\"Drsná a přitom tak plachá.\"\!<br>\"Opravdová personifikace výbušnosti samotné.\"
+
+message_9:
+    text: \"MINCED\"<br>\!\"Zvadl kvůli nedostatku vody.\"
+
+message_10:
+    text: \"PEDRO\"<br>\!\"Zničen.\"
+
+message_11:
+    text: \"BATINO\"<br>\!\"Pod tímto hroben jistě není žádný poklad.\"
+
+message_12:
+    text: \"RAI\"<br>\!\"Zemřel při potyčce...\! kéž byste viděli toho druhého...\"
+
+message_13:
+    text: \"ARCHEIA\"<br>\!\"Zemřela při plavání s ryby.\"
+
+message_14:
+    text: \"TDS\"<br>\!\"V rámci takovýchle věcí musí být člověk realista.\"
+
+message_15:
+    text: \"Zde je pochován ten druhej.\"
+
+message_16:
+    text: \"BLUEMOON\"<br>\!\"Všemi nejoblíbenější senpai. (Sbohem, FIUTO...)\"
+
+message_17:
+    text: \"CACHI\"<br>\!\"Neotevírat do roku 20XX!\"
+
+message_18:
+    text: \"MOOGIRI\"<br>\!\"Je tady trochu tma...\! ale jinak za mě fajn.\"
+
+message_19:
+    text: \"KAIRU\"<br>\!\"\c[3]ŽIVÝ DŽEM\c[0] neměl žádný účinek!\"
+
+message_20:
+    text: \"PRIDE-KUN\"<br>\!\"Pořád ještě nenašla svoji propisku.\"

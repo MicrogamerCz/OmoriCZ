@@ -1,0 +1,556 @@
+#========================================================================================================================
+
+#BASIL'S PATH DIALOGUE
+
+#========================================================================================================================
+#UGLY PLANT CREATURE
+#========================================================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelTy jo!\! Co je tohle za podivné stvoření?
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubTy je neznáš, KELI?\! To je KLÍČKOKRTEK!
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubKLÍČKOKRTCI jsou velice inteligentní tvorové, kteří ovšem zdivočí, pokud se ztratí.
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basPane KLÍČKOKRTKU! Jak se máte?
+
+#SPROUT MOLE does Question Mark
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basNeztratil jste se... náhodou?
+
+#SPROUT MOLE turns to PARTY. then vibrates. Then runs toward party.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herAjaj...\! Tak teď už víme, že se ztratil!
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\Com[2]Bacha! Běží přímo na nás!
+
+#========================================================================================================================
+#UGLY PLANT CREATE - AFTER BATTLE
+#========================================================================================================================
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basFuj...\! Jste všichni v pořádku?
+
+message_11:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basPromiňte...\! Je jich je tady čím dál víc.\! Já se rád neperu, ale teď, když jste tady vy, určitě bude všechno v klidu.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubNeboj, BASILE!\! My se o ně kdyžtak postaráme!
+
+#========================================================================================================================
+#BESTIARY
+#========================================================================================================================
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herOMORI!\! Když už ti tak začínají jít bitvy...\! Tady máš blok, do kterého si můžeme poznamenat všechny naše soupeře.
+
+message_16:
+      text: HERO ti dal \c[4]BITEVNÍ BLOK!\c[0].
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herTak, měl bys ho mít v KAPSE.\! Teď je tvůj, ale možná ti tam někdy taky něco připíšeme!
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herPodívej se na něj skrz KAPSU v MENU, které otevřeš klávesou \DII[escape].
+
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 1
+#========================================================================================================================
+
+#SUNFLOWER
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basPojďte za mnou! Chtěl bych vám všem něco ukázat.
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basTohle jsou slunečnice.\! Tak se jim říká proto, že jsou pořád natočené ke slunci.
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTakový bych chtěl být i já...\! někdo, kdo ve věcech vždycky vidí světlou stránku.
+
+#LILY
+
+message_23:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že umí odhánět zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basA proto mi asi tak připomínají MARI!\!<br>Protože s ní můžu počítat vždycky, když potřebuju povzbudit!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - ANGRY
+#========================================================================================================================
+
+#SPROUT MOLE STOMPING
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAle ne! Další ZTRACENÝ KLÍČKOKRTEK!
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]Prosím Vás, pane KLÍČKOKRTKU! Nechte toho!<br>Zašlapete mi všechny moje kytičky...
+
+#SPROUT MOLE STOMP HARDER
+#SPROUT MOLE RAMS INTO PARTY
+
+#message_32:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \herAch ne!\! To nepomůže, BASILE...\!<br>Zdá se, že tento KLÍČKOKRTEK je VZTEKLÝ.
+
+#message_33:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herStejně jako my, KLÍČKOKRTCI mají také EMOCE.\! A protože je VZTEKLÝ, jeho útoky jsou silnějsí. Ovšem při svém vzteku si na sebe nedává moc pozor.
+
+#message_34:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 2
+#      text: \aubAha!\! Takže tím HERO myslí, že teď je ideální chvíle ho zastavit!
+
+#message_35:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 3
+#      text: \aubNezoufej, BASILE! My ty tvé kytičky zachráníme!\!<br>Pojď, OMORI, hrr na něj!
+
+#AFTER BATTLE
+
+message_36:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basUf...\! Většina kytiček je v pořádku...\! Ještě že tak!
+
+message_37:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basUž jsme skoro u mě doma.\! Stačí jen jít chvilku dál po téhle cestě!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 2
+#========================================================================================================================
+
+#ROSE
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basTohle jsou růže!<br>Víte, koho mi připomínají?
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas...\! Připomínají mi HERA!\! Uhodli jste?
+
+message_42:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basRůže mají hodně různých druhů a barev, a každá z nich má i svůj vlastní význam.
+
+message_43:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basRůžové symbolizují obdiv... Oranžové vášeň... Žluté kamarádství... a tak to jde i dál!
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHERO mi nepřipomíná ale jen jednu růži.\!<br>Myslím si, že HERO je jako všechny růže, protože je všestranný a všemi oblíbený!
+
+#GLADIOLUS
+
+message_45:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAha!\! Tyhle kytičky se jmenujou gladioly!
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelGladi-co?
+
+message_47:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basGladioly! Taky se jim někdy říká mečík!
+
+message_48:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basA tak jste už možná teď uhodli, že reprezentují silu.\! Někoho kdo je upřímný a má pevné zásady...\! Někoho, kdo si vždy stojí za svým...
+
+message_49:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basProto mi gladioly připomínají AUBRY, tím, že je vždy tak urputná!
+
+message_50:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelAha...<br>\!Takže říkáš, že je AUBRY strašně tvrdohlavá!
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubHej! To teda nejsem!
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHaha...\! Tak dobře, pojďme dál!
+
+#========================================================================================================================
+#BATTLE TUTORIAL - HAPPY
+#========================================================================================================================
+
+#SPROUT MOLE TWIRLING
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]No tak, už zase?!\! Pane KLÍČKOKRTKU! Přestaňte se ohánět!\! Zničíte mi všechny kytičky!
+
+#SPROUT MOLE TWIRLS HARDER
+#SPROUT MOLE TWIRLS INTO PARTY
+
+#message_61:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herHmm...\! Pokud se nepletu, tenhle KLÍČKOKRTEK má RADOST!<br><br>Má sice větší šanci trefit naše slabá místa, ale také má větší šanci se ve své extázi netrefit vůbec!
+
+#message_62:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: \aubRychle, OMORI!<br>Musíme ho zastavit, dřív než rozdupe všechny kytičky!
+
+#message_63:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelPojďme tomuhle šeredovi ukázat, kdo je tady šéf!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 3
+#========================================================================================================================
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelTy brďo! Jak se jmenujou tyhle kytičky? Jsou husté a bodlavé!
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basKELI... Tohle je kaktus!\! Je spíš rostlina než kytička...\! a je vtipné, že se ptáš zrovna ty, protože mi připomínají právě tebe!
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubA připomínají ti ho, protože...\! je kretén?
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kelHej!
+
+message_74:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basNo...\! To možná, ale hlavně protože kaktusy jsou přirozeně odolné rostliny.<br><br>Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basČímž se snažím říct... že i ty by ses mohl starat o kaktus, KELI!
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelTy jo, to je hustý!\! Kaktusy jsou super!
+
+message_77:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basAha...\! Tohle jsou bílé tulipány.\!<br>Obyčejné, jednoduché a zaoblené... stejně jako OMORI!
+
+message_78:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basNevím... Jen mi připadají roztomilé.
+
+#========================================================================================================================
+#BASIL PATH - SAD FLOWER DAYS
+#========================================================================================================================
+
+message_200:
+      text: \basTohle jsou slunečnice.\! Tak se jim říká proto, že jsou pořád natočené ke slunci.
+
+message_201:
+      text: \basTakový bych chtěl být i já...\! někdo, kdo ve věcech vždycky vidí světlou stránku.
+
+message_202:
+      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že umí odhánět zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
+
+message_203:
+      text: \basA proto mi asi tak připomínají MARI!\!<br>Protože s ní můžu počítat vždycky, když potřebuju povzbudit!
+
+message_204:
+      text: \basRůže mají hodně různých druhů a barev, a každá z nich má i svůj vlastní význam.
+
+message_205:
+      text: \basRůžové symbolizují obdiv... Oranžové vášeň... Žluté kamarádství... a tak to jde i dál!
+
+message_206:
+      text: \basHERO mi nepřipomíná ale jen jednu růži.\!<br>Myslím si, že HERO je jako všechny růže, protože je všestranný a všemi oblíbený!
+
+message_207:
+      text: \basTyhle kytičky se jmenujou gladioly, ale občas se jim říká i mečík.
+
+message_208:
+      text: \basA tak jste už možná teď uhodli, že reprezentují silu.\! Někoho kdo je upřímný a má pevné zásady...\! Někoho, kdo si vždy stojí za svým...
+
+message_209:
+      text: \basProto mi gladioly připomínají AUBRY, tím, že je vždy tak urputná!
+
+message_210:
+      text: \basKaktusy jsou přirozeně odolné rostliny.Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
+
+message_211:
+      text: \basČímž se snažím říct... že i ty by ses mohl starat o kaktus, KELI!
+
+message_213:
+      text: \basA tohle...\! Tohle jsou bílé tulipány.\! Nejsou moc výrazné kytičky.\! Nejsou moc malé ani moc velké, nesnaží se být nápadné ani šaramantní.
+
+message_214:
+      text: \basKdybych to měl vysvětlit jinak...\! Asi bych řekl...\! že jsou příjemné.\! Jednoduché, cudné a dokonalé.\!<br>Stejně jako OMORI.
+
+
+
+
+#========================================================================================================================
+#BATTLE TUTORIAL - SAD
+#========================================================================================================================
+
+#SPROUT MOLE staying still on top of a flower
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAle ne! Už zase další KLÍČKOKRTEK!
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelNevadí, BASILE!\! Tohle by už pro nás měla být hrača!
+
+#KEL WALKS UP TO SPROUT MOLE AND TAPS IT. SPROUT MOLE TURNS AROUND. PROCS BATTLE.
+
+#message_X:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herHmm...\! Podle jeho výrazu bych řekl, že je tenhle KLÍČKOKRTEK SMUTNÝ...<br><br>Vidíte, jak je schoulený v klubíčku?\!<br>Proto mu nedokážeme ublížit tolik na ŽIVOTĚ, ale ubereme mu více ŠŤÁVY...
+
+#message_82:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 19
+#      text: \kelTak už pojďme ukončit jeho trápení!
+
+#message_83:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 11
+#      text: \aubPočkat, cože?
+
+#message_84:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelNo tak, OMORI! Však už víš, co máš dělat!
+
+#========================================================================================================================
+#YE OLD SPROUT
+#========================================================================================================================
+
+#Before seeing anything, hear stomping noises and then a quake like something sat down.
+
+
+
+#Happens in the middle of the battle
+#Party members facing YE OLD SPROUT blocking the entrance to BASIL's house in order from left to right: OMORI, AUBREY, KEL, HERO. BASIL standing behind them.
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herTy jo, tahle bitva je celkem náročná...\! Ale nezoufejte!<br>Pokud se semkneme, zvládneme to!
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herAsi vás budu muset trochu poučit o týmové práci!\! Zkusme to znovu, OMORI!<br>Tentokrát ho dostaneme!
+
+#========================================================================================================================
+#WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
+#========================================================================================================================
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basP-Prosím, nešlapejte po kytičkách!
+
+#[Player moves one step back]
+
+message_93:
+      text: Kytka.
+
+#========================================================================================================================
+#MISC
+#========================================================================================================================
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herAle, OMORI! Tudy se přece nejde k BASILOVI!
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubKam to jdeš, OMORI?\!<br>Musíme BASILOVI pomoct setřídit jeho \c[4]FOTOALBUM\c[0]!
+
+message_102:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basSeřadíme ty fotky, OMORI?\!<br>Počkám, než se ti bude chtít.
+
+
+
+#========================================================================================================================
+#SKILL DESCRIPTION
+#========================================================================================================================
+
+#short pause
+
+message_156:
+      text: BASILOVO \c[4]FOTOALBUM\c[0].\! Jeho nejcennější majetek.
+
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herTak tady to máte...\! HERŮV ZÁKLADNÍ PRŮVODCE BITVAMI!\! A jsem si jistý, že se s každou další bitvou naše souhra ještě zvýší!
+
+message_157:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Ty jo!\! To bylo úžasné!\bas
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Pche, to nebylo nic... Heh, heh.\! Už jsem poraazil i větší soupeře!\! Někdy bych vás měl naučit jednu ze svých \c[1]DOVEDNOSTÍ\c[0]!\kel
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: BASILE... Vím, že nejsi zrovna někdo, kdo by se rád pral...\! ale měl by ses taky umět bránit!\aub
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Víš...\! Nějaký ten pátek už píšu knížku celou jen o bitvách!\! Možná bychom ji mohli příště projít celou společně.\! Prozatím ji svěřím OMORIMU. \her
+
+message_169:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herS tím, jak budeme nabírat sílu budu zároveň doplňovat i našeho \c[4]PRŮVODCE\c[0], takže se do něj nezapomeň čas od času mrknout!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: OMORI, taky bys asi měl vědět...\! že s nabýváním ZKUŠENOSTNÍCH BODŮ a ÚROVNĚ se občas také naučíme nové \c[1]DOVEDNOSTI\c[0].\her
+
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \c[1]DOVEDNOSTI\c[0] jsou silné a mají rozmanité účinky, ale každý z nás si může pamatovat jen čtyři \c[1]DOVEDNOSTI\c[0] naráz.\her
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Poté, co se naučís novou \c[1]DOVEDNOSTI\c[0], si ji nezapomeň vybavit v MENU!\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Jo, jo... Chápeme!\! Můžem už k BASILOVI?\kel
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: No dobře, to už je vše!\! Trochu trpělivosti, KELI...\her
+
+#========
+#EMOTION
+
+#=======
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmmm...\! Zdá se, že je tady hodně soupeřů s EMOCEMI.\her
+
+message_166:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herPokud nevíš, EMOCE mohou rozhodovat o síle útoku.\! RADOST přemáhá HNĚV...\! HNĚV přemáhá SMUTEK...\! a SMUTEK zase RADOST!
+
+message_167:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Dívej, dokonce jsem nakreslil schéma, na kterém je to znázorněno!\! Nejsem sice žádný umělec, ale za mě to stačí.\! Dám ti ho do kapsy, aby ses na něj mohl kdyžtak podívat později.\her
+
+message_168:
+      text: Získal jsi \c[4]EMOČNÍ SCHÉMA\c[0].
+
+message_170:
+      text: Přeješ si podívat se na \c[4]EMOČNÍ SCHÉMA\c[0]?
