@@ -1,0 +1,26 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Slot Machines Text
+
+message_0:
+      text: \fs[46]SÁZENÍ NA AŽ 3 ŘÁDKY! TOČTE! TOČTE! TOČTE!
+
+message_1:
+      text: \fs[46]WOW!! ÚŽASNÉ ŠTĚSTÍ!!\!\fs[24]<br>Chceš hrát dál?
+
+message_2:
+      text: Vyplýtval si pár MUŠLÍ.\! Toť škoda...<br>\!Chceš hrát dál?
+
+message_4:
+      text: Více MUŠLÍ už neuneseš.
+
+message_5:
+      text: VSADIT
+
+message_6:
+      text: TOČIT
+
+message_7:
+      text: KONEC

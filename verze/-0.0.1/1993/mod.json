@@ -1,0 +1,15 @@
+{
+    "id": "1993",
+    "name": "cz",
+    "description": "překlad",
+    "version": "0.1",
+    "files": {
+      "plugins": [],
+      "text": ["languages/en/"],
+      "data": [],
+      "maps": [],
+      "assets": [],
+      "exec": []
+    }
+  }
+ 
