@@ -15,6 +15,16 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <Grid RowSpacing="25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock FontSize="36" FontFamily="{StaticResource OmoriFontCz}"  Text="INSTALACE ČESKÉ LOKALIZACE OMORI" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Watermark="Instalační cesta" Text="{Binding DefaultInstallPath}"/>
+        
+    </Grid>
 
 </Window>

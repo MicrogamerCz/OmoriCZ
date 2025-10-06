@@ -8,8 +8,14 @@
         <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
     </PropertyGroup>
     
-    <PropertyGroup Condition=" '$(OS)' == 'Windows_NT">
-        
+    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('Linux')) ">
+        <DefineConstants>LINUXBUILD</DefineConstants>
+    </PropertyGroup>
+    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('Windows')) ">
+        <DefineConstants>WINBUILD</DefineConstants>
+    </PropertyGroup>
+    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('OSX')) ">
+        <DefineConstants>MACBUILD</DefineConstants>
     </PropertyGroup>
 
     <ItemGroup>

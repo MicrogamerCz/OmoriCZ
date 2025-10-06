@@ -7,4 +7,8 @@
     <Application.Styles>
         <FluentTheme />
     </Application.Styles>
+             
+    <Application.Resources>
+     <FontFamily x:Key="OmoriFontCz">avares://Omopatch/Assets/OMORI_GAME1.ttf#OMORI_GAME2</FontFamily>
+    </Application.Resources>
 </Application>
