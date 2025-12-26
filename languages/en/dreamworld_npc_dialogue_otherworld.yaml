@@ -1,0 +1,529 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============OTHERWORLD========================================
+
+                        #====NIGHT 1-2====
+
+#Colony Mole 1
+#Location: Sprout mole Colony
+message_0:
+      text: \n<KRTEK KOLONISTA>Zde kdysi bydlelo hodně KLÍČKOKRTKŮ...\! ale většina z nich se přestěhovala do jakési větší kolonie, prý někde v lese.
+
+message_1:
+      text: \n<KRTEK KOLONISTA>Některým z nás to připadalo jako příliš velký risk, a tak jsme zůstali tady...
+
+message_2:
+      text: \n<KRTEK KOLONISTA>Můj bratr odešel se zbytkem...\!<br>Myslíš, že na mě ještě někdy vzpomíná? #tady dávám přednost přirozenějšímu dialogu (nebo "že si mě ještě pamatuje?" - tohle nechávám na tobě)
+
+#Colony Mole 2
+#Location: Sprout mole Colony
+message_3:
+      text: \n<KRTEK KOLONISTA>Zdravím, cestovateli. Vítej u mě doma! \!<br>Je malý a skromný, ale můj.
+
+#Colony Mole 3
+#Location: Sprout mole Colony
+message_4:
+      text: \n<KRTEK KOLONISTA>My KLÍČKOKRTCI jsme velice inteligentní živočichové!
+
+#CREEPY CAT
+#Location: Old Barn
+message_5:
+      text: \n<DĚSIVÁ KOČKA>Mňau... \!\SINV[2]Mňau?\SINV[0] \!\SINV[1]Mňau...\SINV[0]\! \QUAKE[1]Mňaaaaaauuuuu...\QUAKE[0]
+
+#DUCKIE JR
+#Location: Outskirts
+#Ref: sidequests_dreamworld_duckjr
+
+#Ferris
+message_6:
+      text: \n<FERRIS>Tady kdysi byla proslulá přirodní rezervace, ale kvůli turistickému ruchu je to tady poslední dobou samý odpad... #blíže orig
+
+message_7:
+      text: \n<FERRIS>Uklízejte po sobě, lidi! Není to snad taková hrůza! #překlep
+
+#Laramie
+message_8:
+      text: \n<LARAMIE>Už nějakou dobu tady táboří malá skupinka VESMÍRNÝCH PIRÁTŮ...
+
+message_9:
+      text: \n<LARAMIE>Slyšela jsem, že se jejich KAPITÁN rozhodl, že už nebudou nikam cestovat, a tak od něj odešla polovina posádky i s lodí!
+
+#LONE Mole
+message_10:
+      text: \n<KRTEK SAMOTÁŘ>\Com[2]\{HEJ, O CO SE JAKO SNAŽÍTE!?!?\}
+
+message_11:
+      text: \n<KRTEK SAMOTÁŘ>Co všechno jsem udělal pro to, abych se izoloval od společnosti, a vy si sem prostě nakráčíte a všechno to zkazíte!
+
+message_12:
+      text: \n<KRTEK SAMOTÁŘ>\Com[2]\{KOUKEJTE TO INHED NAPRAVIT!!\}
+
+message_13:
+      text: Pomohl jsi KLÍČKOKRTKOVI znovu složit všechny kužely.
+
+#Mr DUCKIE
+#Mrs DUCKIE
+#Ref: sidequests_dreamworld_duckjr
+
+#PO
+message_14:
+      text: \n<PO>Když se v noci dívám na hvězdy, všechno ostatní mi připadá tak malé...
+
+#Talk with Kel as leader
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelTy jo... Vy jste ale vysoká paní... #tohle celé je duplikátní dialog
+
+message_16:
+      text: \n<PO>Díky, mladíku!\! Je mi to většinou spíš ke škodě, ale aspoň lépe vidím na hvězdy.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelCože? Jak může být výška ke škodě!\!<br>Všechno je lepší, když je člověk vyšší.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelJeden den budu tak vysoký, jako vy!
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubNo jasně, KELI. Jen si sni...
+
+#Recycline Machine
+#sidequest_dreamworld_recycle
+
+#Scarecrow
+#Scarecrow friend 1,2,3
+#sidequest_dreamworld_crowfriends
+
+#JJ
+message_20:
+      text: Chceš zapnout kazeťák?
+
+message_21:
+      text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
+
+message_22:
+      text: Chceš vypnout kazeťák?
+
+message_23:
+      text: \n<JOCK JAMS>...
+
+#SMOL
+
+message_24:
+      text: \smoJá jsem MALÍK, nejmenší kentaur na světě. \!<br>Koukněte na všechny moje ceny!
+
+message_25:
+      text: Všude po domě se válí klacky.
+
+message_26:
+      text: Pohár ve tvaru koně.\!<br>\"NEJKONĚJŠÍ KŮŇ - 2. MÍSTO\".
+
+message_27:
+      text: Diplom.\!<br>\"NEJMENŠÍ KENTAUR - 1. MÍSTO\".
+
+message_28:
+      text: Podlouhlá trofej.\!<br>\"NEJDROBNĚJŠÍ KENTAUR - 1. MÍSTO\".
+
+message_29:
+      text: Nízká trofej.\!<br>\"NEJMALIČTĚJŠÍ KENTAUR - 1. MÍSTO\".
+
+#PESSI
+
+message_31:
+      text: \pesAhoj! Já jsem PESSI, a jak jste si jistě všimli...\!<br>\Com[2]\{MILUJU ZLATÍČKO!\}
+
+message_32:
+      text: \pesMám tady snad všechno, co se s ní kdy prodávalo...\!<br>Mám plakáty, figurky, nálepky, trička, celou její diskografii a vlastně cokoliv dalšího by vás napadlo!
+
+message_33:
+      text: \pesJsem si jistý, že byste nenašli sbírku srovnatelnou s tou mojí!
+
+message_34:
+      text: \pesŘíkát o mně, že jsem superfanoušek je nedostačující...\!<br>Já jsem její \QUAKE[1]nejlepší\QUAKE[0] fanoušek.
+
+message_35:
+      text: \pesŘeknu vám o tom, jak jsem se s ní jednou málem setkal.\!<br>Náhodou jsme spolu jedli ve stejné restauraci...\!<br>Musel to být osud. #blíže orig
+
+message_36:
+      text: \pesDokonce jsme si objednali oba to samé!\! Ne že bych viděl, co si objednala ona a pak se opičil, to vůbec...
+
+message_37:
+      text: \pesChtěl jsem za ni zaplatit, ale zrovna v ten den jsem si koupil její sochu v nadživotní velikosti, a tak mi to holt nevyšlo...
+
+message_38:
+      text: \pesZa což jsem celkem rád, protože to nakonec byla jenom nějaká holka v kostýmu, která se jí dost podobala!
+
+message_39:
+      text: \pesNe že bych to hned na první pohled nepoznal...\! Jenom falešný fanoušek by nedokázal rozpoznat falešné ZLATÍČKO!
+
+message_40:
+      text: \pesHele, dávej bacha!\! to je můj růžový pětkovec. Sám ho tady pěstuju...\! Samozřejmě je to i ZLATÍČČINA oblíbená kytka! #zní blbě
+
+message_41:
+      text: \pesKdyž se jeho růst vymkne kontrole, je v podstatě nezastavitelný, protože se dokáže přichytit skoro všude.
+
+message_42:
+      text: Na první pohled ti tohle připadalo jako otravná osoba...\!<br>Ale ve skutečnosti je to jen socha. #přiroz
+
+#SNAKE
+message_43:
+      text: \n<HAD>\SINV[1]Ssssssssssssssss!\SINV[0]\! (To je ale něco!)
+
+#SNALEY
+message_44:
+      text: \n<ŠNEČEK>Ach, panečku! \!Stojím vám v cestě?\!<br>Promiňte.\! Hned uhnu.
+
+message_45:
+      text: \n<ŠNEČEK>Jejda!\! Asi vám stojím v cestě, viďte?\!<br>Ach, pardón.\! Hned vám uhnu.
+
+#TV Girl
+#Coffee Machine quest
+
+#Veggie Kid (Eggplant)
+#Outskirts
+
+message_50:
+      text: \n<ZELENIŇÁČEK>Jsme na dobrodružství!
+
+#Veggie Kid (Onion)
+#Outskirts
+
+message_51:
+      text: \n<ZELENIŇÁČEK>Jsme dobrodruzi!
+
+#Veggie Kid (Potato)
+#Outskirts
+
+message_52:
+      text: \n<ZELENIŇÁČEK>Jsme na cestě! #zachování stejného začátku
+
+#Veggie Kid (Tomato)
+#Outskirts
+
+message_53:
+      text: \n<ZELENIŇÁČEK>Jsme cestovatelé!
+
+#Space Pirate ESO
+#Location: Space boyfriends House
+
+message_54:
+      text: \n<VESMÍRNÉ ESO>KAPITÁN VES-\! Teda... VESMÍRNÝ MILENEC nevytáhl paty z postele od té doby, co ho...\! \QUAKE[1]ona...\QUAKE[0] \!opustila...
+#Location: Frozen Lake
+
+message_55:
+      text: \n<VESMÍRNÉ ESO>Jste vážně odvážní.\! Ani já bych si takhle na KAPITÁNA netrumfl... \!Byli by z vás skvělí VESMÍRNÍ PIRÁTI!
+
+#Space Pirate AMIGO
+#Location: Space boyfriends House
+
+message_56:
+      text: \n<VESMÍRNÝ AMIGO>\SINV[1]Zzzzzzzzz...\SINV[0]
+
+#Space Pirate BRO
+#Location: Space boyfriends House
+
+message_57:
+      text: \n<VESMÍRNÝ BRÁCHA>VESMÍRNÝ MILENČE...\!<br>Co bychom tak pro tebe mohli udělat, brácho?<br>\!Proč už konečně nevylezeš z postele?
+
+#Location: Frozen Lake
+
+message_58:
+      text: \n<VESMÍRNÝ BRÁCHA>Brácho...\! Tyhle \c[3]ZMRZKY\c[0]...\! jsou fakt super.
+
+#Space Pirate KÁMOŠ
+#Location: Space boyfriends backyard
+
+message_59:
+      text: \n<VESMÍRNÝ KÁMOŠ>Kámo...\! Škoda, žes přišel zrovna teď... #blíže orig
+
+#Location: Frozen Lake
+
+message_60:
+      text: \n<VESMÍRNÝ KÁMOŠ>Máme konečně zpátky našeho KAPITÁNA!\! Jo, kámo!
+
+
+#Space Pirate NÁČELNÍK
+#Location: Campsite
+
+message_61:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Písk!\! Od té doby, co se KAPITÁN VES-, teda VESMÍRNÝ MILENEC dostal do čela PIRÁTŮ, je furt hrozná nuda...
+
+message_62:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Vždyť...\! se jen podívejte na to, co udělal s naší lodí!\! Tohle by ještě za KAPITÁNA RŮŽOVOUSA nikdy neprošlo!
+
+#Location: Campsite
+
+message_64:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Písk!\! Že se KAPITÁN VESMÍRŇÁK vzpamatoval!?\!<br>To se musí ihned dozvědět KAPITÁN RŮŽOVOUS!
+#VESMÍRNÝ PIRÁT NÁČELNÍK flies away and becomes N/A
+
+#Space Pirate CÁPEK
+#Location: Space boyfriends backyard (Solar System)
+
+message_65:
+      text: \n<VESMÍRNÝ CÁPEK>Ahoj!\! Tady si VESMÍRNÝ MILENEC vystavoval PLUTA... ale ten se teď ztratil!
+
+#Location: Frozen Lake
+
+message_66:
+      text: \n<VESMÍRNÝ CÁPEK>Ty jo... Nevěřím, že vám všem KAPITÁN zaplatil \c[3]ZMRZKY\c[0]... \!Fňuk...\! Jsem z toho najednou taková citlivka. #sno cones na zmrzky
+
+#Space Pirate TÝPEK
+#Location: Campsite
+
+message_67:
+      text: \n<VESMÍRNÝ TÝPEK>Nazdar, týpci!\! Pracujeme pro VESMÍRNÉHO MILENCE.\! Chybí mi ty staré pirátské časy! #blíže orig
+
+#Location: Frozen Lake
+
+message_68:
+      text: \n<VESMÍRNÝ TÝPEK>Ahoj, týpci!\! Přišli jste si s náma dát \c[3]ZMRZKY\c[0]?
+
+#NÁČELNÍK AFTER SBF IS BACK HOME WITH dad
+
+message_69:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Tak zázračný synek se prý vrátil...\! Ts!\! Schválně, jak dlouho tady vydrží...
+
+#Space Pirate PARŤÁK
+#Location: Space Boyfriend's House
+
+message_80:
+      text: \n<VESMÍRNÝ PARŤÁK>Jediné, co poslední dobou slyším, je jak si všichni stěžujou na nudu.\! To jsem tady jediný, koho celkem to uklízení i baví?
+
+#Location: Space Boyfriend's House
+
+message_81:
+      text: \n<VESMÍRNÝ PARŤÁK>KAPITÁN VESMÍRŇÁK se zase cítí jako své staré já?\! Tak to je skvělá zpráva!\! Až se zbytek posádky zase vydá na cestu, já zůstanu tady v naší pevnosti.\! Někdo tady přece musí uklízet, ne?
+
+#Space Pirate KAMARÁD
+#Location: Space Boyfriend's House
+
+message_82:
+      text: \n<VESMÍRNÝ KAMARÁD>Sice je to teď celkem zlý, ale já neřeším, co říkají ostatní, kamaráde...\! Já KAPITÁNOVI věřím!
+#Location: Frozen Lake
+
+message_83:
+      text: \n<VESMÍRNÝ KAMARÁD>Tahle \c[3]ZMRZKA\c[0] chutná jako vzduch! #přiroz
+
+                        #====NIGHT 2====
+
+#Colony Mole 1 same as night 1-2
+#Colony Mole 2 same as night 1-2
+#Colony Mole 3 same as night 1-2
+#Creepy Cat same as night 1-2
+#Duckie Jr same as night 1-2
+#Ferris same as night 1-2
+#JJ same as night 1-2
+#LARAMIE
+message_88:
+      text: \n<LARAMIE>Zaslechla jsem, že spolu už zase VESMÍRNÍ PIRÁTI cestují! <br>Moc jim to přeju!\! Hmm...\! Zajímalo by mě...\! proč si vůbec říkají piráti?\! Ukradli někdy něco? #přiroz
+#Lone Mole N/A
+#Duckies same as night 1-2
+#Pessi same as night 1-2
+#Pluto N/A
+#PO same as night 1-2
+#Recycle Machine same as night 1-2
+#Scarecrow same as night 1-2
+#Scarecrow Friend 1,2,3 same as night 1-2
+#SMOL same as night 1-2
+#SNAKE same as night 1-2
+#SNALEY N/A
+#SPESO BOYFRIEND N/A
+#TVGIRL
+message_89:
+      text: \n<TELEKUKAČKA>Safra...\! Poslední dobou je to v televizi samá repríza...\!<br>Kdy už budou konečně vysílat něco nového?
+
+#VEGGIE KIDS N/A
+#Space Pirate ESO N/A
+#Space Pirate AMIGO N/A
+#Space Pirate BRO N/A
+#Space Pirate KÁMOŠ
+message_90:
+      text: \n<VESMÍRNÝ KÁMOŠ>\SINV[1]PLUTO...\! Ať jsi, kde si, ukaž se!\SINV[0]
+
+#Space Pirate NÁČELNÍK N/A
+#Space Pirate CÁPEK
+message_91:
+      text: \n<VESMÍRNÝ CÁPEK>KAPITÁN VESMÍRŇÁK a část posádky kamsi odjeli, prý to bylo naléhavé...
+
+message_92:
+      text: \n<VESMÍRNÝ CÁPEK>Ale já a ostatní naši cápci jsme se rozhodli tady zůstat a hledat PLUTA...\!<br>Hmm...\! Kde by tak mohl být? #rod
+
+#Space Pirate TÝPEK
+#Space Pirate PARŤÁK
+message_93:
+      text: \n<VESMÍRNÝ PARŤÁK>Jen tak tak jste to minuli! Zrovna na VESMÍRŇÁKOVĚ nové lodi všichni odletěli!\! Rád vidím, že jsou zase všichni zpátky v plné síle! #blíže orig
+
+message_94:
+      text: \n<VESMÍRNÝ PARŤÁK>Snad se mají dobře!
+
+#Space Pirate KAMARÁD
+message_95:
+      text: \n<VESMÍRNÝ KAMARÁD>KAPITÁN mě požádal, abych opatroval jeho starou loď.\! Je tak hustý, když mi dává rozkazy! #vypouětím vždycky
+
+
+                        #====NIGHT 3====
+
+#Colony Mole 1: Same as Night 1-2
+#Colony Mole 2: Same as Night 1-2
+#Colony Mole 3: Same as Night 1-2
+#Creepy Cat: Show Creepy Cat Picture
+#Duckies: Same as Night 1-2
+#Ferris: Same as Night 1-2
+#JJ: Same as Night 1-2
+#LARAMIE
+message_100:
+      text: \n<LARAMIE>Zaslechla jsem, že KAPITÁN VESMÍRNÝCH PIRÁTŮ náhle úplně zmizel z \c[11]JINOSFÉRY\c[0]...
+
+message_101:
+      text: \n<LARAMIE>VESMÍRNÍ PIRÁTI z toho musí být zas na prášky!\! Jim se snad každým dnem přihodí něco nového... #přiroz
+
+#LONE Mole
+#Location: Forgotten Pier
+message_102:
+      text: \n<KRTEK SAMOTÁŘ>Jsem zase úplně sám!\! Já to tady miluju!
+
+#PESSI: Sprout Mole Village - Stolen quest (Incomplete)
+#Pluto: N/A
+#PO: Same as Night 1-2
+#Recycle: Same as Night 1-2
+#Scarecrow: Same as Night 1-2
+#Scarecrow Friend 1,2,3 same as Night 1-2
+#Smol: Same as Night 1-2
+#Snake: Same as Night 1-2
+#Snaley: Location: N/A
+#Space BF: Frozen Forest quest
+#TV Girl: Same as Night 2
+#Veggie kids: N/A
+#Space pirate ESO
+#Space Pirate Amigo: Last Resort: Same as Night 1-2
+#Space Pirate Bro: Location Last Resort
+message_105:
+      text: \n<VESMÍRNÝ BRÁCHA>Poté, co oděšlo ZLATÍČKO, tak KAPITÁN VES-...\! teda, VESMÍRNÝ MANŽEL utekl a kamsi zmizel...
+
+message_106:
+      text: \n<VESMÍRNÝ BRÁCHA>Vyslali jsme po něm pátračku, ale prý nikde žádné stopy!\! Kde by tak mohl být?
+
+#Space pirate KÁMOŠ
+#Location: Orange Oasis
+message_107:
+      text: \n<VESMÍRNÝ KÁMOŠ>\SINV[1]Ach, PLUTO...\! PLUTO...\! Kde jsi?\!\SINV[0]<br>Uff...\! Tahle poušť je obrovská.\!<br>Jak ho tady máme jako najít? #přiroz
+
+#Space Pirate NÁČELNÍK
+#Location: Last Resort
+message_108:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Bwark!\! Je to tady díra! #překládám
+
+#Space pirate CÁPEK
+#Location: Orange Oasis
+message_109:
+      text: \n<VESMÍRNÝ CÁPEK>Uff...\! Začíná mi chybět posádka...
+
+message_110:
+      text: \n<VESMÍRNÝ TÝPEK>Hff...\! Hff...\! KAPITÁNE...\! vy jste fajn týpek...\!<br>A proto vám i po tom všem věřím!
+
+message_111:
+      text: \n<VESMÍRNÝ PARŤÁK>Ahoj, parťáci!\! Rád zase vidím KAPITÁNA a všechny VESMÍRNÉ PIRÁTY v plné síle!\! Snad je to všechny baví!
+
+#VESMÍRNÝ PIRÁT KAMARÁD: Same as Night 2
+
+                        #====NIGHT 4====
+
+message_130:
+      text: \n<LARAMIE>Zaslechla jsem, že se VESMÍRŇÁKŮV táta, RŮŽOVOUS, po zmizení svého syna vrátil!\!<br>Ach, pořád jen samá dramata!\! Mohlo by to snad být ještě šťavnatější? #srozumitelnější
+
+#Lone Mole: N/A
+#ESSI: Slime Girl's Lair
+
+message_140:
+      text: \n<VESMÍRNÉ ESO>Jupí!\! KAPITÁN je zpátky...\! už zase...\! ale na jak dlouho?
+
+message_141:
+      text: \n<VESMÍRNÝ AMIGO>Potom, co si všechnu bolest procítíš...\! se teprve začne hojit.
+
+#Location: Lost Forest
+message_142:
+      text: \n<VESMÍRNÝ KÁMOŠ>Kámo...\!<br>Tady fakt pochybuju, že by byl PLUTO.
+
+message_143:
+      text: \n<VESMÍRNÝ CÁPEK>Myslím, že jsme se ztratili...\!<br>Taky už je to od domu nějaká ta dálka.
+
+message_144:
+      text: \n<VESMÍRNÝ KÁMOŠ>Fňuk...\! Já věděl, že se k nám KAPITÁN vrátí...\! Vítejte doma, KAPITÁNE. #vypouštím zpátky
+
+message_145:
+      text: \n<VESMÍRNÉ ESO>Fňuk...\! KAPITÁN utekl...\! už zase...
+
+#========================== Message in a bottle ========================
+
+message_160:
+      text: Zde leží vzkaz v lahvi!
+
+message_161:
+      text: Stojí v něm...<br>"Doplňte chybějící slovo do věty."
+
+message_162:
+      text: "Když ti Měsíc v oko padne, jako koláč z pece chladné,<br>víš, že za tím stojí ________." # tohle je blbost
+
+message_163:
+      text: Jak odpovíš?
+
+message_164:
+      text: Napsal jsi svou odpověď a hodil lahev do jezera.
+
+message_165:
+      text: OMORI
+
+message_166:
+      text: AUBRY
+
+message_167:
+      text: KEL
+
+message_168:
+      text: HERO
+
+
+#-----
+
+message_170:
+      text: VESMÍRNÍ PIRÁTI neustále skandují "ahoj". #úvozovky
+
+
+#----
+
+message_200:
+      text: \n<KRTEK STAVITEL>Poté, co odvysílalo ZLATÍČKO poslední díl svého seriálu se sem začali vracet někteří bývalí obyvatelé.
+
+message_201:
+      text: \n<KRTEK STAVITEL>A ani trochu se jim nedivím, je to tady samá lukrativní nemovitost! #přiroz
+
+message_202:
+      text: \n<NOVÝ KRTEK KOLONISTA>Při druhém velkém stěhování jsme přišli o mnoho přátel...\! ale pokrok vyžaduje oběti! #hláška z naší chemie, možná i moje oblíbená
+
+message_203:
+      text: \n<NOVÝ KRTEK KOLONISTA>Tady je to stejně prostornější, než ve \c[11]VESNICI\c[0].\! Vlastně je to tady možná \sinv[1]příliš\sinv[0] prostorné.
+
+message_204:
+      text: \n<VELKÝ KRTKUS>Pán Bůh vám žehnej. #tady se budu muset podívat na kontext (omlouvám se)
+
+message_205:
+      text: \n<NOVÝ KRTEK KOLONISTA>Nevím, jak mi bude sedět život se spolubydlícím...\!<br>Doufám, že za mě bude mýt nádobí.
+
+message_206:
+      text: \n<KRTEK STAVITEL>Stavění pro lepší zítřky...\! Tak to máme my KLÍČKOKRTCI ve zvyku!
+
+message_207:
+      text: \n<NOVÝ KRTEK KOLONISTA>Nevím, jak mi bude sedět život se spolubydlícím...\!<br>Doufám, že za mě bude skládat prádlo.
+
+message_208:
+      text: \n<NOVÝ KRTEK KOLONISTA>Nevím, jak mi bude sedět život se spolubydlícím...\!<br>Doufám, že za mě bude chodit na nákup.

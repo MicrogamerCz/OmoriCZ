@@ -1,0 +1,819 @@
+# =========================================================================================
+# Playing Cards at the Treehouse
+# =========================================================================================
+
+#Play BGM: Hangin' with the boys
+
+message_0:
+      text: \herJo! Přesně to, co jsem potřeboval!
+
+message_1:
+      text: \kelAjaj... To jsou celkem blbý karty.
+
+message_2:
+      text: \marTo nemůžeš říkat jen tak nahlas, KELI!<br>Musíš udržet poker face.
+
+message_3:
+      text: \kel\Com[2]Co to? Jak ses mi dostala za záda, MARI? #blíže orig
+
+message_4:
+      text: \marTeď jsem sem přišla.\!<br>Prinesla jsem vám všem sušenky!
+
+#WHITE FLASH
+
+message_5:
+      text: \marBASILE...\! Ty fotíš?
+
+message_6:
+      text: \basNo... Jo!...\! Hehe...
+
+message_7:
+      text: \kelNotáák...\! To mě vážně musíš fotit když se mi vůbec nedaří?! #blíže orig
+
+message_8:
+      text: \marNemusíš to brát tak vážně, KELI! Jsou to jen karty. #prátelštější
+
+#[White Flash]
+
+message_9:
+      text: \basHehe...
+
+message_10:
+      text: \kelCo?\! Další fotka?\! A co je na tom vůbec tak srandovní?
+
+message_11:
+      text: \kelTajíš nám něco, BASILE?
+
+message_12:
+      text: \basNeboj...\! Za chvilku ti to doje.
+
+#=================Talk to Aubrey==================
+
+message_13:
+      text: Podíval ses na AUBRINY karty.\!<br>Dvě, pět a deset. #asi špatně, karetní názvosloví neznám, omlouvám se
+
+message_14:
+      text: \aubHmm, co myslíš, SUNNY? Co bych měla dělat?
+
+message_15:
+      text: \aubPořád jenom nějaké rozhodování...
+
+#=================Talk to Kel==================
+
+message_16:
+      text: Podíval ses na KELOVY karty.\!<br>Čtyři, šest a šest.
+
+message_17:
+      text: \kelN-Nedívej se, SUNNY...\! Vždyť...\! Tohle je hrůza!
+
+message_18:
+      text: \kelUff...\! Asi zase prohraju, co? #přirozenější
+
+#=================Talk to Basil==================
+
+message_19:
+      text: Podíval ses na BASILOVY karty.\!<br>Spodek a eso.
+
+message_20:
+      text: \bas\sinv[1]Pšššt...\sinv[0]\! Nikomu nic neříkej...
+
+#=================Talk to Hero/Mari==================
+
+message_21:
+      text: \herMARINY sušenky jsou nejlepší, nemyslíš, SUNNY?
+
+message_22:
+      text: \marNo tak, HERO, nebuď pořád tak skromný.<br>Tvoje šušenky jsou přece stokrát lepší! #dle poznámek měním na skromný, odstraňuju aspoň
+
+message_23:
+      text: \herTo si jen myslíš!\! Víte, MARINY sušenky...\!<br>MARINY sušenky v sobě mají více lásky.<br>\!Dokázal bych je jíst nadosmrti!
+
+message_24:
+      text: \marNo tak, HERO... Neztrapňuj mě...
+
+
+#=================Talk to Mari==================
+
+message_25:
+      text: \marJsem ráda, že trávíme zbytek léta zrovna tady.\! Mohli bychom to takhle dělat každý rok.\! Na! Vem si sušenku!
+
+message_26:
+      text: Získal jsi \c[3]MARINU SUŠENKU\c[0].
+
+message_27:
+      text: Zvenku byla dokonale křupavá, a její náplň se ti přímo rozplynula na jazyku.
+
+
+#=================Talk to HERO=================
+
+message_28:
+      text: Podíval ses na HEROVY karty.\!<br>Král, královna a eso.
+
+message_29:
+      text: \herHa ha...\! Tomu říkám štěstí... Viď, SUNNY?
+
+#=================Talk to BASIL=================
+
+message_30:
+      text: \basCopak, SUNNY?\! Chtěl by ses podívat na mé fotky? #přirozenější
+
+message_31:
+      text: \basTak dobře, tady jsou...\! Ale drž kamenný výraz, jasný?
+
+#PHOTO 1 SLIDE
+
+#PHOTO 2 SLIDE
+
+#PLAYER's hand
+
+message_32:
+      text: Podíval ses na své karty.\!<br>Eso a eso.\! Pod psa, jako vždy.
+
+# =========================================================================================
+# Eating Watermelon at the Beach
+# =========================================================================================
+
+#BGM: Hide & Seek
+
+#----CUTSCENE----
+
+message_40:
+      text: \herA... hotovo! Meloun je rozkouskovaný.\!<br>Pojďte, vemte si! #překlep
+
+message_41:
+      text: \marJupí! Díky, HERO!
+
+message_42:
+      text: \marJeště že tady máme takového siláka. #přeloženo
+
+message_43:
+      text: \herAleee... Teď ne, MARI... Haha...
+
+message_44:
+      text: \kel\sinv[1]\{JÓOOOO!!!\!\}\sinv[0]<br>V horkém letním dni se nic nevyrovná pořádnému, šťavnatému kousku melounu!
+
+message_45:
+      text: \kel\com[2]Ham! Ham! Ham! Ham! Ham! Ham!
+
+message_46:
+      text: \aubHam...\| ham...\| ham...\| ham...\| ham...
+
+#*white flash*
+
+message_47:
+      text: \aubHele, nefoť mě, když jím, BASILE!
+
+message_48:
+      text: \basA! Promiň, AUBRY. Jenom jsi mi připadala taková hezká!\! Chvíli počkej, ukážu ti ji.
+
+message_49:
+      text: \aubNo...\! Tak dobře...\! Budu ti věřit, BASILE.
+
+#-----TALK TO AUBREY/KEL---------------
+
+message_50:
+      text: \kel...\! \sinv[2]P-P-P-P-\{P-PFFFFEHH\{HHHH\{HHH!!! #f místo w
+
+message_51:
+      text: \aubNo fuj!\! Přestaň na mě plivat semínka, KELI!
+
+message_52:
+      text: \kelHaha, teď jich máš plný obličej!
+
+message_53:
+      text: \aubTak ty takhle...\! A co řekneš na tohle!?
+
+message_54:
+      text: \aub...\! \sinv[2]P-P-P-P-\{P-PFFFFEHH\{HHHH\{HHH!!! #viz výše
+
+message_55:
+      text: \kelNo fuj, nech toho, AUBREY...<br>Chytnu z tebe \quake[1]breberky!!\quake[0]
+
+#-------TALK TO BASIL------------
+
+message_56:
+      text: \basHej, SUNNY! Nechtěl by ses podívat na tu AUBRYINU fotku?
+
+#PHOTO SLIDE
+
+message_57:
+      text: \basAUBRY je celkem pěkná, nemyslíš?
+
+#-------TALK TO HERO------------
+
+message_58:
+      text: \herNo tak... Vždyť jsme na pláži!\!<br>Měli bychom odpočívat.
+
+
+#-----TALK TO MARI---------------
+
+message_59:
+      text: \marJen ať si hrajou, HERO. Je to jenom sranda.\!<br>Nevzpomínáš snad, jací jsme byli my jako malí?
+
+message_60:
+      text: \marJak jsem ti schválně pod lavicí schovávala brouka, abych tě rozrušila?!\! Tys mě vždycky hrozně bavil.
+
+message_61:
+      text: \herCože? Tos byla ty!?
+
+message_62:
+      text: \marUps...\! Zlobíš se, HERO? Hehe...
+
+#-----TALK TO MARI---------------
+
+message_63:
+      text: \marTak co, SUNNY! Bavíš se?\! Vím, že moc nemáš rád horko, takže jsem ráda, že jsi šel s náma. #blíže orig
+
+message_64:
+      text: \marAle neboj!\! Kdyby ses chtěl pořádně schladit, klidně tě potom můžeme zahrabat.
+
+#BALL
+
+message_65:
+      text: Kopneš do míče?
+
+# =========================================================================================
+# Picnic in the Secret Lake
+# =========================================================================================
+
+#BGM: FARAWAY TOWN Playground
+
+#Screen is Black
+
+message_80:
+      text: \herHmm...\! Všichni už asi spí.
+
+message_81:
+      text: \basTak teď jsme to asi jen my tři.
+
+message_82:
+      text: \marKdo by taky po takovémhle jídle neusl... #chtěl jsem původně napsat "Kdo by taky po takové žranici neusl..."
+
+message_83:
+      text: \basDíky, žes pro nás takhle navařil, HERO. #tohle není pokračování minulé scény
+
+message_84:
+      text: \herAle, není zač...\! Jen si to zkouším.\!<br>Ale jsem rád, že vám chutnalo.
+
+message_85:
+      text: \marJednou z tebe bude světoznámý kuchař a budeš mi vařit samé mňamky!
+
+message_86:
+      text: \herCo?\! Počkej!\! Cože budu!?
+
+message_87:
+      text: \marNo jasně! Já ti věřím, HERO!
+
+message_88:
+      text: \herTak...\! Když myslíš...
+
+#*WHITE FLASH*
+
+message_89:
+      text: \marJsem ráda, že zase víc fotíš, BASILE.\!<br>Řekla bych, že se ti ten tvůj nový koníček dost zalíbil.
+
+message_90:
+      text: \basTo teda!\! Když se to člověk jednou naučí, tak je to super. #přirozenější
+
+message_91:
+      text: \basP-Počkej...\! S touhle fotkou něco je...
+
+message_92:
+      text: \basČuch, čuch...
+
+message_93:
+      text: \basHEKTORE!\! Co má tohle znamenat?!
+
+#Any button wakes PLAYER Up
+
+#----------Talk to MARI-------------
+
+message_94:
+      text: \marPromiň, bráško!\! Snad jsme tě nevzbudili... #rozhodl jsem se změnit bratříčku na bráško a plánuju to změnit i v předchozích dokumentech
+
+message_95:
+      text: \marVypadal jsi tak klidně...\!<br>Jako když jsi byl miminko.
+
+#----------Talk to HERO-------------
+
+message_96:
+      text: \herSUNNY...\! Mohli bysme dát hlavy dohromady?\!<br>Já fakt rád vařím, a MARI říká, že mi to dost jde, ale rodiče chtějí, abych byl doktor...
+
+message_97:
+      text: \herMyslíš, že bych měl být spíš kuchař? #odstraňuju ne
+
+message_98:
+      text: \herHaha...\! Možná...
+
+message_99:
+      text: \herHaha...\! Možná...\! i když...
+
+message_100:
+      text: \her\com[2]Jsme pořád přece mladí! Měli bychom mít velké sny, nemyslíš!?
+
+message_101:
+      text: \her...\! Hmm... ale...
+
+message_102:
+      text: \herMamka k tomu asi bude mít nějaké výhrady.
+
+#After
+
+message_110:
+      text: \herHmm... Tak co se mnou?
+
+#------Talk to KEL-------------
+
+message_103:
+      text: \kel\sinv[1]Chrrrr...\| Chrrrr...\| Chrrrr...\| Chrrrr...
+
+
+#------Talk to AUBREY-------------
+
+message_104:
+      text: AUBRY ze sebe při spánku nevydá jediný zvuk.\!<br>Roztomilé...
+
+#------Talk to BASIL-------------
+
+message_105:
+      text: \basHej, SUNNY!\!<br>Všechny jsem nás vyfotil.\! <br>Koukneš se?
+
+#PHOTO SLIDE
+
+message_106:
+      text: \basTohle mohl být tak skvělý záběr...
+
+message_107:
+      text: \basAle HEKTOR to musel celé zkadit, doslova!
+
+message_108:
+      text: \basUff...\! Možná bych to potom mohl zalepit páskou nebo něco.
+
+#------Talk to HECTOR------------
+
+message_109:
+      text: \n<HEKTOR>\Com[2]Haf, haf!
+
+
+# =========================================================================================
+# RAINY DAY IN STREET
+# =========================================================================================
+
+#BGM: Puddles
+
+#-----Cutscene-----
+
+#AUBREY and KEL are talking outside his house.
+#BASIL and PLAYER walk to them from PLAYER's house direction.
+
+message_130:
+      text: \kelAhoj, SUNNY! Ahoj, BASILE! Co vám to tak trvalo?
+
+message_131:
+      text: \basPromiň...\! Zdrželi jsme se, protože jsme zrovna začali hrát tuhle novou hru, kde se \c[13]DOMÁCÍ KAMÍNKY\c[0]-
+
+message_132:
+      text: \aub\com[2]BASILE, BASILE!\! Vyfoť mě v mojí nové pláštěnce!
+
+message_133:
+      text: \basJo! D-Dobře!\! Chviličku...
+
+#WHITE Flash
+
+message_134:
+      text: \aubLíbí se ti, SUNNY?\! Je růžová... to je moje oblíbená barva!
+
+message_135:
+      text: \kelNo fuj... růžová je hnusná barva. #přirozenější
+
+message_136:
+      text: \aubNe, to teda není, KELI!\Com[2] Ty jsi hnusná barva! #pokus o zachování původního rasistického významu
+
+message_137:
+      text: \kelVždyť... to ani nedává smysl.
+
+message_138:
+      text: \aubJo, vlastně, SUNNY! To mi připomnělo...!
+
+message_139:
+      text: \aubS MARI jsme se bavily o tom, že bychom si spolu mohly nabarvit vlasy.
+
+message_140:
+      text: \aubMARI by je chtěla fialové.
+
+message_141:
+      text: \kelF-F...Fialové!?
+
+message_142:
+      text: \aubA víš, jaké bych je chtěla já?
+
+message_143:
+      text: \kelPočkat...\! Snažíš se říct, že by sis chtěla obravit vlasy na... růžovou?!
+
+message_144:
+      text: \kelFuj... to je divný...\! Proč by to vůbec někdo dělal?
+
+message_145:
+      text: \aubNo... nevím... Jenom jsem si myslela, že by to vypadalo hezky!\!<br>A MARI si myslí to samé!
+
+message_146:
+      text: \kelHm...\! Já vás dvě a ty vaše střelené nápady asi nikdy nepochopím.
+
+message_147:
+      text: \basJá myslím, že by ti růžová slušela, AUBRY.
+
+message_148:
+      text: \basCo na to ty, SUNNY?
+
+#NOD/SHAKE
+
+message_149:
+      text: \basHmm...\! To bychom jí asi neměli říkat.
+
+message_150:
+      text: \basSUNNY říká, že je to skvělý nápad!
+
+message_151:
+      text: \aubVidíš, dokonce i BASIL a SUNNY se mnou souhlasí...\!<br>Takže ten divný jsi tady ty, KELI!
+
+message_152:
+      text: \kelTss...\! No a...
+
+#------Talk to Aubrey------------
+
+message_153:
+      text: \aubJupí! A je rozhodnuto!
+
+message_154:
+      text: \aubBudu mít růžové vlasy!
+
+message_155:
+      text: \aubAle...\! asi ne někdy teď...\!<br>Tátovi se takovéhle nápady moc nelíbí.
+
+#------Talk to Kel------------
+
+message_156:
+      text: \kelTak vy jste s BASILEM prý hráli jakousi hru s \c[13]DOMÁCÍMI KAMÍNKY\c[0], jo?\! Hmmm...\! Možná bych se o to mohl taky začít zajímat.
+
+message_157:
+      text: \kelMám nápad!\! Co kdybychom šli do \c[11]HOBBEEZ\c[0] a zjistili, jestli tam nemají něco nového?
+
+#------Talk to Basil------------
+
+message_158:
+      text: \basCopak, SUNNY? Chtěl by ses podívat na tu novou fotku? #blíže orig
+
+# Photo SLIDE
+
+message_159:
+      text: \basZvláštní, že se jdeš podívat vždycky, když fotím AUBRY.
+
+message_160:
+      text: \basŽe by...\! se ti možná...\! líbila?
+
+message_161:
+      text: Cítíš, že ti červenají uši...
+
+message_162:
+      text: \basHehe...\! Neboj, neřeknu jí ani slovo!\!<br>Jako hrob!
+
+# Leave
+
+message_163:
+      text: \kelAha, ty chceš jít napřed, SUNNY?\! Neboj, my tě hned dohoníme! #blíže orig
+
+# =========================================================================================
+# Basil's Birthday Party
+# =========================================================================================
+
+#Play BGM: Interior Peaceful (Basil's Theme)
+
+#-----------CUTSCENE--------------
+
+#Hero brings in Birthday cake
+
+message_177:
+      text: \aubVážně na té fotce nechceš být, SUNNY?
+
+message_178:
+      text: \marSUNNY se nerad fotí...\!<br>Ale tak to máme občas všichni, že ano? #blíže orig
+
+#MARI turns to PLAYER
+
+message_179:
+      text: \marJe to úplně v pořádku, SUNNY!\! Brzo si na to jistě zvykneš! Hehe...
+
+message_180:
+      text: \aubTy jo! Tenhle dort vypadá úžasně!\!<br>Tentokrát ses fakt překonal, HERO.
+
+message_181:
+      text: \basJupí... Díky, HERO!\! Zbožňuju jahody. #blíž orig
+
+message_182:
+      text: \aubBASILE, BASILE! Tak co si přeješ?
+
+message_183:
+      text: \kelHej, na to se přece nesmíš ptát, AUBREY!
+
+message_184:
+      text: \kelProtože... by se to potom nestalo.
+
+message_185:
+      text: \aubCo? Tak ono to funguje takhle...?
+
+message_186:
+      text: \aubNo, v tom případě...\!<br>Si přeju...\! aby měl KEL samé jedničky!
+
+message_187:
+      text: \kelHele, to se nesmí! #blíže orig
+
+message_188:
+      text: \basHmm...\! tak přání...?\! Ale...\! Co bych si tak ještě mohl přát?\!<br>Mám tady přece všechno, co bych kdy chtěl!
+
+message_189:
+      text: \bas...
+
+message_190:
+      text: \basAha, už mám nápad! Hehe...
+
+message_191:
+      text: \basMyslím...\! Že si budu přát...
+
+message_192:
+      text: \bas...
+
+message_193:
+      text: \basNeříkám. #tady se mi úplně nic nehodí, nechávám to takhle
+
+message_194:
+      text: \basJe to tajemství!
+
+message_195:
+      text: \aubChjoo...\! Ale... já bych to i tak chtěla vědět...
+
+message_196:
+      text: \herNo tak, pospěšme si, jinak se ty svíčky roztečou!\!<br>Jste připraveni zpívat?
+
+message_197:
+      text: \kelJo, jasná páka!
+
+message_198:
+      text: \herOdstartuješ nám to, MARI?
+
+message_199:
+      text: \marSamozřejmě!
+
+message_200:
+      text: \marTakže...\! Tři, čtyři!...
+
+#BIRTHDAY CAKE SLIDE
+#HAPPY BIRTHDAY SONG
+
+
+message_201:
+      text: \sinv[1]BASIL má narozeniny!\! My máme přání jediný!\n<EVERYONE> #tady nehraje žádná speciální hudba, takže si můžu dovolit to zaměnit za známější Českou písničku
+
+message_202:
+      text: \sinv[1]Štěstí, zdraví! Štěstí zdraví!\! Hlavně to, zdravíííííí!\n<EVERYONE> #viz výše
+
+message_203:
+      text: \kel\sinv[1]\{JUPÍÍÍÍIII!!\!\}\sinv[0]<br>Sfoukni svíčky, BASILE!
+
+message_204:
+      text: \aubA něco si přej...
+
+#CAMERA CLICK
+
+# PHOTOSLIDE
+
+# =========================================================================================
+# The Christmas Gift (VIOLIN)
+# =========================================================================================
+
+#BGM: Mari's Theme
+
+#---------CUTSCENE-------------
+
+#Kel opens up his present.
+
+message_220:
+      text: \kelTy brďo...\! Nový míč!?\! Díky, brácha!
+
+message_221:
+      text: \herNení zač, KELI...\!<br>Nejlepší poděkování by bylo, kdyby sis trochu vytáhl známky...
+
+message_222:
+      text: \kelNoooo... To... určitě!
+
+message_223:
+      text: \herTak, SUNNY... Jsi na řadě.
+
+message_224:
+      text: \marLetos dostaneš jen jeden dárek...\! od nás všech.
+
+message_225:
+      text: \basSice to možná nevypadá na první pohled jako něco extra...<br>ale všichni jsme se na tenhle dárek dlouho skládali.
+
+message_226:
+      text: \aubPřesně tak!\! Já a BASIL jsme kvůli tomu dokonce v létě museli prodávat sušenky a limonádu.
+
+message_227:
+      text: \herA MARI šla na brigádu do pekárny,<br>ale na to si asi vzpomínáš. #no tak to musela být hrůza. o práci v pekárně jsem slyšel... věci
+
+message_228:
+      text: \kelA já?\! Já musel tři měsíce v kuse každé ráno roznášet noviny...
+
+message_229:
+      text: \kel\Com[2]A moc dobře víte, jak moc nesnáším ranní vstávání! #blíže orig
+
+message_230:
+      text: \marNechtěli bychom na tebe nějak moc tlačit...
+
+message_231:
+      text: \herAle už je to nějaký ten pátek, cos přestal hrát na housle.
+
+message_232:
+      text: \basA MARI nám řekla o tom, jak si k ní vždycky sedáš, když hraje na klavír.
+
+message_233:
+      text: \kelA nezapomeňme na to, jak jsme tě jednou přichytili, jak hraješ na tvoje staré, které už ti jsou tak dlouho malé. #pravopis
+
+message_234:
+      text: \aubKaždopádně...\! to byl vlastně BASILŮV nápad...\! ale rozhodli jsme se mu v tom pomoct...\! takže...\! jo!
+
+message_235:
+      text: \marSnad se ti bude líbit, SUNNY.
+
+message_236:
+      text: \marTenhle je od nás od všech, pro tebe.
+
+message_237:
+      text: Otevřel jsi pouzdro od houslí.
+
+#VIOLIN SLIDE
+
+message_238:
+      text: \kel\{\sinv[1]TA-DÁÁÁAA!
+
+message_239:
+      text: \aubNové housle! #tvoje je nadbytečné
+
+message_240:
+      text: \basSnad se ti budou líbit, SUNNY...<br>\!Klidně si je můžeš hned zkusit! #"Běz si je zkusit!" zní dost nepřátelsky / rozkazově
+
+message_241:
+      text: ...
+
+message_242:
+      text: Cítíš v prstech mírné šimrání...\!<br>Skoro jako by...\! si tvé tělo samo od sebe ty housle přivlastnilo.
+
+#WHITE FADE Out, First Note of Duet plays VIOLIN
+#Photo SLIDE
+
+# =========================================================================================
+# White Screen after Memories
+# =========================================================================================
+
+#After exiting from the memory
+#Screen flashes WHITE
+
+#-----------TREEHOUSE-----------
+
+message_260:
+      text: Vzpomněl sis...
+
+message_261:
+      text: Na vůni sušenek, přímo z trouby vytažených...
+
+message_262:
+      text: Vždy voněly o něco líp, když jsi věděl, že je udělala MARI celé sama.
+
+message_263:
+      text: \c[4]HOUSLE\c[0] znovu nabyly svého tvaru.
+
+#-----------Beach-----------
+
+message_270:
+      text: Na vůni melounu.
+
+message_271:
+      text: Vždy chutnal o něco líp, když jsi ho jedl spolu se svými kamarády na pláži.
+
+message_272:
+      text: Část \c[4]HOUSLÍ\c[0] se opravila. #opravila. definitivně opravi
+
+#-----------Secret Lake-----------
+
+message_280:
+      text: Na spaní v MARINĚ klíně.
+
+message_281:
+      text: Vždy to bylo o něco příjemnější, protože jsi věděl... že ať se stane cokoliv, MARI se o tebe postará.
+
+#-----------Rainy Day-----------
+
+message_290:
+      text: Na zvuk deště, padajícího na tvůj deštník.
+
+message_291:
+      text: Zněl o něco mírněji, když jsi kolem sebe měl své kamarády.
+
+#-----------Basil's Birthday party----------
+
+message_300:
+      text: Na BASILŮV úsměv před tím, než sfoukl svíčky na svém narozeninovém dortu.
+
+message_301:
+      text: Ale také sis vzpomněl na to...
+
+message_302:
+      text: Že když si BASIL něco přál, přál sis něco také.
+
+message_303:
+      text: V tu chvíli...\! Sis přál, aby byli všichni šťastní.
+
+#-----------Christmas----------
+
+#add message_260
+
+message_304:
+      text: Na úzkost v srdci, když jsi do rukou poprvé vzal své nové housle, a spustil...
+
+message_305:
+      text: Nevadilo ti, že ti bylo tak úzko...
+
+message_306:
+      text: Protože ti věřili.
+
+message_307:
+      text: A...
+
+message_308:
+      text: Tys je v žádném případě nechtěl zklamat.\!<br>Protože byli tví kamarádi. #"byli"... to je smutné... celá tahle hra je vlastně smutná
+
+message_309:
+      text: Poslední část \c[4]HOUSLÍ\c[0] se opravila. #snad bližší orig
+
+message_310:
+      text: Získal jsi \c[4]HOUSLE\c[0].
+
+message_311:
+      text: Získal jsi \c[4]NOTY\c[0].
+
+message_312:
+      text: Ve strunách jsou zapletené kousky černých vlasů.
+
+message_313:
+      text: Papír je zmačkaný a nasáklý krví...\!<br>ale pořád se z něj dá něco přečíst.
+
+
+#-----------Upon examining the Violin Stand with a fixed VIOLIN----------
+
+#message_310:
+#      text: Your eyes begin to well up.
+
+#message_311:
+#      text: You felt tingling in your fingers...\!<br>And...\! as if on its own...\! your body readied the VIOLIN...\!<br>and began to play.
+
+message_319:
+      text: Prázdný stojan.\!<br>Položíš na něj své \c[4]NOTY\c[0]? #na noty je nadbytečné
+
+message_320:
+      text: Položil jsi \c[4]NOTY\c[0] do stojanu. #položil místo vložil
+
+message_400:
+      text: Pódium je připraveno.\!<br>Chceš jít hrát na \c[4]HOUSLE\c[0]?
+
+message_420:
+      text: Chceš odemknout krabici? #pokud vím, toy box jsme přeložili jenom jako krabice
+
+#-----------CATTAIL----------
+
+message_600:
+      text: \whoVíte, MARINY sušenky...\| MARINY sušenky v sobě mají více lásky.\| Dokázal bych je jíst nadosmrti!
+
+message_601:
+      text: \whoMelouny...\| mám na létě nejraději...
+
+message_602:
+      text: \whoJsme pořád přece mladí!\| Měli bychom mít velké sny, nemyslíš!?
+
+message_603:
+      text: \whoHmm...\| tak přání...?\| Ale...\| Co bych si tak ještě mohl přát?\| Mám tady přece všechno, co bych kdy chtěl!
+
+message_604:
+      text: \whoLetos dostaneš jen jeden dárek...\| od nás všech.
+
+message_605:
+      text: \whoVypadal jsi tak klidně...\|<br>Jako když jsi byl miminko.
+
+message_607:
+      text: \whoAha, ty chceš jít napřed?\| Neboj, my tě hned dohoníme! #konzistence
+
+#LAKE COOKIES
+
+message_608:
+      text: MARINY sušenky.
+
+message_609:
+      text:

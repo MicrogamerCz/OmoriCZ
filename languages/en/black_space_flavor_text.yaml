@@ -1,0 +1,766 @@
+
+# =========================================================================================
+# BASIL SHOE INTERIOR: 98
+# ========================================================================================
+
+#Door
+
+message_500:
+      text: Jsi si jistý, že tam cheš jít? #neutrálnější
+
+# =========================================================================================
+# BLACKSPACE ENTRANCE: 264
+# ========================================================================================
+
+#Laptop
+
+message_50:
+      text: Obrazovka se na tebe dívá nazpět.
+#Door
+
+message_501:
+      text: "Černé dveře před sebe vrhají vratký stín.\\!<br>Co uděláš?"
+
+message_502:
+      text: "Uvnitř je úplně bílo."
+
+# =========================================================================================
+# MISC
+# ========================================================================================
+
+message_510:
+      text: Je ti špatně...
+
+message_511:
+      text: Teď nemůžeš jít ven.
+
+message_512:
+      text: Je ti špatně...\! Možná by nebylo od věci jít na záchod.
+
+# =========================================================================================
+# BLACKLETTERS
+# ========================================================================================
+
+message_550:
+      text: Je zde díra.
+
+message_551:
+      text: Je zde díra.
+
+message_552:
+      text: Je zde díra.\! Šáhneš do ní?
+
+message_553:
+      text: Cítíš studený vánek.
+
+message_554:
+      text: Cítil jsi, jak tě někdo chytl za ruku.
+
+message_555:
+      text: Je zde díra.\! Podíváš se dovnitř?
+
+message_556:
+      text: Uvnitř nic nevidíš.
+
+message_557:
+      text: Je zde díra.\! Půjdeš dovnitř?
+
+message_558:
+      text: Část poličky je odkryta.\!<br>Je zde díra.\! Podíváš se dovnitř?
+
+message_570:
+      text: Získal jsi kazetu s nadpisem "ZROD".
+
+message_571:
+      text: Fotky tvých kamarádů.\! Všechny obličeje jsou začmárané. #tady zrovna upřesnění není
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# POND
+
+message_0:
+      text: Vidíš kluka vkládajícího něco lesklého do truhly.
+
+message_1:
+      text: Vidíš kluka plačícího v rohu svého pokoje.
+
+message_2:
+      text: Vidíš kluka, praskajícího klouby na své ruce.
+
+message_3:
+      text: Vidíš kluka dívajícího se z okna.
+
+message_4:
+      text: Vidíš dva kluky a psa, hrající si venku.
+
+message_5:
+      text: Vidíš kluka zavírajícího dveře.
+
+message_6:
+      text: Vidíš kluka hledícího na zeď.
+
+message_7:
+      text: Vidíš kluka rycího tužkou do lavice. #tužkou, ne propiskou
+
+message_8:
+      text: Vidíš kluka snažícího se něco zakopat.
+
+message_9:
+      text: Vidíš kluka sedícího v temné místnosti.\!<br>Kluk lže, znova a znova. #blíže orig
+
+message_10:
+      text: Vidíš kluka sedícího za klavírem.\!<br>Zahraje pár not a pak si cosi zamumlá.
+
+message_11:
+      text: Vidíš kluka převracejícího peřiny.
+
+message_12:
+      text: Vidíš kluka hledícího na své prsty.\! <br>Vzlyká bolestí.
+
+message_13:
+      text: Vidíš muže zavírajícího dveře svého auta. Odjíždí.
+
+message_14:
+      text: Vidíš muže zoufale se snažícího skácet strom na svém dvoře.
+
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# Cardboard Boxes
+
+message_20:
+      text: Křičíš do krabice, ale nikdo tě neslyší. #nemám ústa a musím kričet moment
+
+message_21:
+      text: Slyšíš MAMKU jemně plakat.\!<br>\"Neboj... SUNNY...\! My tě ochráníme...\!<br>Všechno bude v pořádku...\"
+
+message_22:
+      text: Slyšíš MAMKU jemně plakat.\! <br>\"Kde...\! kde máš housle?\"
+
+message_23:
+      text: Zevnitř krabice na tebe něco mluví.
+
+message_24:
+      text: \fn<OMORI_GAME>Byla to nehoda. Byla to nehoda. Byla to nehoda. <br>Byla to nehoda. Byla to nehoda. Byla to nehoda. <br>Byla to nehoda. Byla to nehoda. \quake[1]Byla to nehoda. \quake[0]
+
+message_25:
+      text: Našel jsi zápisník.\! Je celý popsán <br>jednou větou pořád dokola.
+
+message_26:
+      text: \fn<OMORI_GAME>\quake[1]Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já.\quake[0] Za všechno můžu já. #přirozenější, a takhle se tyhle věci projevují v češtině
+
+# ========================================================================================
+
+message_35:
+      text: Po pohledu do krabice zjistíš, že je prázdná.
+
+# =========================================================================================
+# Black Space Misc
+# ========================================================================================
+
+message_27:
+      text: Had bez kůže.\! Byl pečlivě nařezán a položen rovně na délku. #blíže orig
+
+message_28:
+      text: Zazvoníš...\! ovšem nic neslyšíš.
+
+message_29:
+      text: Dort.\! Sníš ho?
+
+message_30:
+      text: Při kousání slyšíš praskání kostí.
+
+message_31:
+      text: Zpomalíš...\! a všimneš si, že ti chybí stoličky.
+
+message_32:
+      text: Bílá orchidej.
+
+message_33:
+      text: Chtěl by sis zaplavat?
+
+message_34:
+      text: Chtěl bys přestat plavat?
+
+message_36:
+      text: \n<MALIČKÁ>\}Pomoc...
+
+message_37:
+      text: \n<MALIČKÁ>\}OMORI... Jsem smutná...
+
+message_38:
+      text: Tady něco bývalo.
+
+message_39:
+      text: Máš strach.
+
+#Behind the Waterfall: 285
+
+message_40:
+      text: Prázdná fotka.
+
+message_41:
+      text: Fotka tebe.
+
+#Lil Basil Food
+
+message_42:
+      text: Našel jsi ☐☐☐!
+
+message_43:
+      text: Získal jsi ☐☐ ☐☐!
+
+message_44:
+      text: Snědl jsi něco. #bez trí teček
+
+message_47:
+      text: Získal jsi "KLÍČOVOU" INGREDIENCI!
+
+#Desks
+
+message_45:
+      text: V lavici je vyrytý KLÍČKOKRTEK. #Kelova lavice!!!
+
+#Doors
+
+message_46:
+      text: Tyto dveře jsou zamčený "KLÍČOVOU" INGREDIENCÍ.
+
+message_48:
+      text: Odemkl jsi dveře.
+
+# ========================================================================================
+
+message_100:
+      text: \basAch...\! Konečně jsi přišel...\! Vážně se ti omlouvám.\! Možná už je na tohle moc pozdě... ale pokus se mě prosím zachránit...\! Slíbíš mi to, SUNNY?
+
+# =========================================================================================
+# LOST FOREST 1: 266
+# ========================================================================================
+
+#Fast KEL
+
+message_101:
+      text: \n<KEL>AHOJ, OMORI!\^
+
+#Deer skull
+
+message_102:
+      text: \n<JELENÍ HLAVA>Poznáš ještě svůj domov?
+
+#Beach
+
+message_103:
+      text: Chtěl bys doplavat zpět na pevninu?
+
+message_104:
+      text: Horko.
+
+message_105:
+      text: \n<KRAB>Nemůžu se dočkat, až budu opálený!
+
+message_106:
+      text: KRAB umírá.
+
+message_107:
+      text: Palma.
+
+# =========================================================================================
+# LOST FOREST 2: 267
+# ========================================================================================
+
+message_110:
+      text: Korouhvička ukazuje na západ.
+
+message_111:
+      text: Korouhvička ukazuje na sever.
+
+message_112:
+      text: Korouhvička ukazuje na východ.
+
+# =========================================================================================
+# Looping Forest: 270
+# ========================================================================================
+
+message_120:
+      text: Snědl jsi STEAK.
+
+message_121:
+      text: Létající zrcadlo.\! Jsi sám.\!<br>Chtěl by sis zahrát na schovku?
+
+message_122:
+      text: 5...\| 4...\| 3...\| 2...\| 1!
+
+message_123:
+      text: Mám tě!
+
+message_124:
+      text: Chtěl by sis zahrát znova?
+
+message_125:
+      text: Něco jsi viděl, ale usoudil jsi, že to není nic pro tebe.
+
+message_126:
+      text: Jsi příliš plný na to, abys běžěl.
+
+# message_127:
+#       text: You don't know why you did that.
+
+message_127:
+      text: \n<zlačko>sem dkonalá #blíž orig
+
+message_128:
+      text: \n<zletičko>o hoho
+
+message_129:
+      text: \n<zlačítko>oči mam tady
+
+# Mirror break
+
+message_115:
+      text: \n<ROZBITÝ OMORI>5...\| 4...\| 3...\| 2...\| 1!
+
+# =========================================================================================
+# Cloud Walkway: 284
+# ========================================================================================
+
+message_130:
+      text: \n<KLÍČKOMORI>\}Hlad...
+
+message_131:
+      text: \n<KLÍČKOMORI>\}Prosím peníze...
+
+message_132:
+      text: Dáš KLÍČKOMORIMU DVACET DOLARŮ?
+
+message_133:
+      text: Nemáš DVACET DOLARŮ.
+
+message_134:
+      text: \n<KLÍČKOMORI>\}Dínky...
+
+message_135:
+      text: \n<VELKÁ KAPSA>A jde se tančit!
+
+message_136:
+      text: Chtěl by sis zatančit?
+
+message_137:
+      text: Neumíš tančit.
+
+message_138:
+      text: PLUTO vypadá dnes nesvůj.\!<br>Usoudil jsi, že je lepší ho nechat na pokoji. #přirozenější
+
+message_139:
+      text: \n<LOOMY>A! Můj starý brachu!\! Mám schopnost se rychle přesouvat pomocí záchodů!
+
+message_140:
+      text: \n<LOOMY>DEJ MI BABU a ukážu ti to, OMORI!
+
+message_141:
+      text: Tuhle osobu neznáš.
+
+message_142:
+      text: \n<LOOMY>dej mi BABU, OMORI! #malé písmena
+
+message_143:
+      text: \n<LOOMY>Notak, dej mi BABU! #přátelštější ráz, malá písmena
+
+message_144:
+      text: Toužíš vidět své kamarády. #blíže orig, pravopis
+
+# =========================================================================================
+# Playground: 283
+# ========================================================================================
+
+message_145:
+      text: \n<TEN S PIŇATOU>\sinv[1]\{\{JUPÍÍÍÍÍÍÍIIIIII!!
+
+# =========================================================================================
+# Kel Pool: 395
+# ========================================================================================
+
+message_150:
+      text: Získal jsi DVACET KORUN! #když už chceme z toho udělat čechy...
+
+message_151:
+      text: Vítej v PENĚŽNÍM PROSTORU.\!<br>Zde je povolen vstup pouze KELOVI.
+
+# =========================================================================================
+# Hideous Creature: 288
+# ========================================================================================
+
+message_155:
+      text: Bratře...\! Jsem tak ráda, že jsi tady... #tohle je nějaká variace somethingu
+
+# =========================================================================================
+# Hell: 274
+# ========================================================================================
+
+#Mannequin MARI repeating dialogue
+
+message_160:
+      text: Podívej se na to, co jsi provedl. #lépe sedí situaci
+
+# =========================================================================================
+# Ladder Room: 275
+# ========================================================================================
+
+#Daddy longlegs
+
+message_165:
+      text: \n<TATÍK DLOUHONOŽKA>Aha...\! už jsi celkem hluboko.\!<br>Měl by ses však vrátit, dokud stále můžeš. #přirozenější
+
+# =========================================================================================
+# Player Room with Hell Mari: 296
+# ========================================================================================
+
+message_170:
+      text: \n<HERO>Ahoj, OMORI!\! Máš hlad?
+
+message_171:
+      text: \n<HERO>Zrovna jsem chtěl něco uvařit, ale chybí mi pár ingrediencí.\! Co kdybys pro mě nějaké našel a přinesl? #přirozenější
+
+message_172:
+      text: \n<HERO>Našel jsi něco, co bych mohl uvařit?\!<br>Dej mi chvilku a hned to bude!
+
+message_173:
+      text: \n<HERO>Hmm...\! Tak tohle nedopadlo úplně nejlépe, ale je mi blbé to vyhazovat, takže... #přirozenější
+
+message_174:
+      text: \n<HERO>Dobrou chuť!
+
+# =========================================================================================
+# Aubrey School: 374
+# ========================================================================================
+
+message_180:
+      text: V cestě ti stojí PLYŠOVÝ LILEK.
+
+message_181:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Přijmul jsi můj milostný dopis...<br>To znamená že spolu jdeme na rande, že jo?\aub #zní lépe
+
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Mám tě ráda, OMORI! Prosím, pojď se mnou na rande!\aub
+
+message_183:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Budu navždy s tebou!\aub
+
+message_184:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Včera jsi řekl, že spolu můžeme ven, tak si tě na dnešní odpoledne půjčím, jo?\aub
+
+message_185:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hehe... Čekal jsi dlouho?\! Víš, není slušné nechat dámu dlouho čekat... Pojď!\aub
+
+message_186:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Ten blbec KEL mi zase ukradl a schoval můj PLYŠOVÝ LILEK...\!<br>Pomůžeš mi ho najít, viď?\aub
+
+message_187:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]Jsi tady pozdě, OMORI!\! Co ti tak dlouho trvalo?\aub
+
+message_188:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: OMORI...\! Jsem-\aub #přeloženo
+
+message_189:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Počkej... Co jsou zač všechny tyhle holky?\aub
+
+message_190:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Jsem na rande s OMORIM!\aub
+
+message_191:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]Ne, JÁ jsem na rande s OMORIM!\aub
+
+message_192:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: No, nemůžeme přece být všichni na rande s OMORIM...\aub
+
+message_193:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Cože?\aub
+
+message_194:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Vypadá to, že jinak to nepůjde.\aub #lépe sedí v situaci
+
+message_195:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: Uff...\! Uff...\! Uff...\aub #lépe se hodí
+
+message_196:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Hff...\! hff...\! hff...\aub #viz výše
+
+message_197:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Ty...\! Jsi celkem silná...\aub
+
+message_198:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: Tobě to taky...\! nejde zas tak špatně...\aub
+
+message_199:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]Ale teď je na čase tohle jednou pro vždy vyřešit!\aub
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Vzdej to už!\aub
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \com[2]Tobě se nikdy nevzdám!\aub
+
+message_202:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Tohle...\! přece nikam nevede...\aub
+
+message_203:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Už nemůžu...\! Jsem tak unavená...\aub
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Je jen jeden způsob, jak bychom tohle mohli vyřešit...\aub
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]OMORI!\aub
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]Se kterou z nás půjdeš na rande!?\aub
+
+message_207:
+      text: AUBRY VLEVO #chtěl bych se vyhnout slovu "pravá," mohlo by to vyznít jako opravdová, tak měním obě
+
+message_208:
+      text: AUBRY VPRAVO #viz výše
+
+message_209:
+      text: ...\! Zřejmě jsi celou tu dobu spal... #blíže orig
+
+# =========================================================================================
+# Behind the Waterfall: 285
+# ========================================================================================
+
+message_210:
+      text: \n<BEZTVÁŘE>I když něco schováš, pořád to tam je.
+
+message_211:
+      text: \n<BEZTVÁŘE>Promiň, ale nepamatuju si, kdo ji.
+
+message_212:
+      text: BEZTVÁŘÍ mezi sebou mluví tichým šepotem.
+
+message_213:
+      text: \n<BEZTVÁŘE>Jsi starší, OMORI...\!<br>Ale ne moudřejší.
+
+message_214:
+      text: \n<BEZTVÁŘE>Myslel jsem, žes nás opustil a místo nás máš teď ty své nové kamarády.\!<br>Rádi tě zase vidíme.
+
+message_215:
+      text: \n<BEZTVÁŘE>Snad ses bez nás bavil.
+
+message_216:
+      text: \n<BEZTVÁŘE>Viděl jsem, že tady na tebe někdo čeká.\!<br>Měl bys jít za ním. #přidáno jít
+
+message_217:
+      text: \n<BEZTVÁŘE>Pozor na to zábradlí.
+
+message_218:
+      text: \n<BEZTVÁŘE>Jak dlouho nás tady necháš?
+
+message_219:
+      text: \n<BEZTVÁŘE>Neopouštěj nás.
+
+# =========================================================================================
+# Herosaurus: 397
+# ========================================================================================
+
+message_230:
+      text: \n<HEROSAURUS>Jsi stále schopen mě přijmout?
+
+# =========================================================================================
+# FEAR (Heights): 322
+# ========================================================================================
+
+message_300:
+      text:  Z venku na tebe dívá zlověstná záře.\!<br>Něco tě k ní zvlášťně přitahuje. #zlověstná záře, vyhneme se zápotockému a zároveň to bude znít dobře. (glow je sice spíše záře, ale nebudeme tady cpát nějakou rudou záři, nejsme žádné JZD)
+
+message_301:
+      text: Dveře jsou zamčené. #nadbytečné tyto. a "rudá záře" pobavila
+
+# =========================================================================================
+# TOMBSTONES
+# ========================================================================================
+
+message_400:
+      text: OMOCAT
+
+message_401:
+      text: ARCHEIA
+
+message_402:
+        text: TDS
+
+message_403:
+        text: MELONKID
+
+message_404:
+        text: OCEAN
+
+message_405:
+        text: SLEEPYKUYA
+
+message_406:
+      text: YIN
+
+message_407:
+        text: EMS
+
+message_408:
+        text: MINCED
+
+message_409:
+        text: PEDRO
+
+message_410:
+        text: RAI
+
+message_411:
+      text: ROCHELLE
+
+message_412:
+        text: KIM
+
+# =========================================================================================
+# MARI IS HOME: 413
+# ========================================================================================
+
+message_310:
+      text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
+
+message_311:
+      text: \OMORI...\!  Myslím, že nás tvoje ségra ignoruje.\! Možná by sis s ní měl promluvit.
+
+message_312:
+      text: \kelNemůžeme mít přece piknik bez MARI! #oprava významu
+
+message_313:
+      text: \herUž dlouho nebyla doma...\! Potřebuje si zvyknout.
+
+# =========================================================================================
+# DREAM: 504
+# ========================================================================================
+
+message_315:
+      text: \n<ZELENIŇÁČEK>Už zase zmizel můj oblíbený POLŠTÁŘ!\!<br>Já bez něj prostě neusnu...
+
+message_316:
+      text: \n<ZELENIŇÁČEK>Tak co, už jsi ho našel? #přirozenější
+
+message_317:
+      text: Našel jsi POLŠTÁŘ.
+
+message_318:
+      text: \n<ZELENIŇÁČEK>Tohle není můj POLŠTÁŘ...\! ale i tak děkuju!
+
+message_319:
+      text: \n<SCHOVÁVAČ POLŠTÁRŮ>Říkají mi SCHOVÁVAČ POLŠTÁŘŮ! A ve schovávání polštářů jsem mistrem!
+
+message_320:
+      text: \n<KLÍČKOKRTEK>Aha, tys ho našel.\! Zapomeň na to, s tím SCHOVÁVAČEM POLŠTÁRŮ... Došel jsem k tomu, že by bylo lepší, kdybych schovával něco jiného.
+
+message_321:
+      text: \n<KLÍČKOKRTEK>OMORIHO. #tady neznám kontext
+
+
+message_575:
+      text: Videokazeta s nadpisem "OMORI".\! Pustíš si ji? #pokud se nepletu, po zvednutí ji stejně hra přehraje. proto zde nemá cenu dávat "pick up"
+
+message_576:
+      text: Videokazeta s nadpisem "BASIL".\! Pustíš si ji? #šlo by i "Přehraješ ji?"
+
+
+#SPIDER WEB HALLUCINATION
+
+message_233:
+      text: V cestě ti stojí obří pavučina.
+
+
+#BASIL Stuff
+
+message_250:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \who\fn<OMORI_GAME>...
+
+#INCUBATION
+
+message_251:
+      text: Zde je MARI.
+
+message_252:
+      text: Zde je HERO.
+
+message_253:
+      text: Zde je BASIL.
+
+message_254:
+      text: Zde je AUBRY.
+
+message_255:
+      text: Zde je KEL.
+
+
+#---- FEAR spiders
+
+message_260:
+      text: Zevnitř krabice se ozývá šepot. #jsem si jistý, že šepot je nepočítatelný
+
+message_261:
+      text: \}\n<???>\fn<OMORI_GAME>Poznáváš ještě svůj domov?
+
+message_262:
+      text: \}\n<???>\fn<OMORI_GAME>MARI už dlouho nebyla doma...

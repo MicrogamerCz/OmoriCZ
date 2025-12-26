@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Adrian)
+# =========================================================================================
+
+#Quest intro
+
+message_1:
+      text: \n<CHLÁPEK S JABLKAMA>Uff...\! Uff...\! Uff...\! Uff...\! \Com[2]Pijte \c[3]JABLEČNOU ŠŤÁVU\c[0]!
+
+message_2:
+      text: \n<CHLÁPEK S JABLKAMA>Slyšeli jste někdy, že...<br>“Jablko denně, drží zdraví pevně?”
+
+message_3:
+      text: \n<CHLÁPEK S JABLKAMA>To platí i pro \c[3]JABLEČNOU ŠŤÁVU\c[0]!
+
+message_4:
+      text: \n<CHLÁPEK S JABLKAMA>\c[3]JABLEČNÁ ŠŤÁVA\c[0] podporuje hydrataci!\! Obsahuje zdravé rostlinné extrakty...\! Dokonce i podpoří váš mozek!
+
+message_5:
+      text: \n<CHLÁPEK S JABLKAMA>Jsem přesvědčen, že jinak nemá žádné nevýhody!
+
+#If any ORANGE JUICE is inventory:
+message_6:
+      text: \n<CHLÁPEK S JABLKAMA>Je tamto ve tvé kapse \c[3]POMERANČOVÁ ŠŤÁVA\c[0]?\!<br>\Com[2]Fuj, to je ale hnus!\! Proč bys tohle dobrovolně pil?!
+
+message_7:
+      text: CHLÁPEK S JABLKAMA vyhodil tvou \c[3]POMERANČOVOU ŠŤÁVU\c[0]...
+
+message_8:
+      text: \n<CHLÁPEK S JABLKAMA>Ha! To mu ukáže!
+
+message_9:
+      text: \n<CHLÁPEK S JABLKAMA>Takže... Chtěli byste si koupit nějakou tu \c[3]JABLEČNOU ŠŤÁVU\c[0] za $2,00?\$
+
+#[Yes/No]
+
+#if yes
+
+message_100:
+      text: Získal jsi \c[3]JABLEČNOU ŠŤÁVU\c[0]!
+
+message_10:
+      text: \n<CHLÁPEK S JABLKAMA>Ano! \Com[2]pijte \c[3]JABLEČNOU ŠŤÁVU\c[0]!\! Je zdravá!
+
+
+#if no
+message_11:
+      text: \n<CHLÁPEK S JABLKAMA>Dobře...\! Nevadí...\!<br>Pokud si místo ní nekupujete \c[3]POMERANČOVOU ŠŤÁVU\c[0]...
+
+#Buy more from Adrian than Brayden:
+
+message_12:
+      text: \n<CHLÁPEK S JABLKAMA>Uff...\! Uff...\! Ha!\! Jak jsem říkal...\! \c[3]JABLEČNÁ ŠŤÁVA\c[0] je mnohem lepší, než \c[3]POMERANČOVÁ ŠŤÁVA\c[0]!\! Můj bratr brzy pozná svou hloupost v plné sílé!
+
+#Buy more from Brayden than Adrian:
+
+message_13:
+      text: \n<CHLÁPEK S JABLKAMA>Můj bratr nepřestane remcat o tom svém stánku s \c[3]POMERANČOVOU ŠŤÁVOU\c[0]...
+
+message_14:
+      text: \n<CHLÁPEK S JABLKAMA>Uff...\! To je jedno...\! Uff...\! Vždy budu věrný \c[3]JABLEČENÉ ŠŤÁVĚ\c[0]!\! Ten mi nikdy nevezme!
+
+#Not enough dollars
+
+message_15:
+      text: \n<CHLÁPEK S JABLKAMA>Hmm...\! Vypadá to, že ti chybí pár drobnách na výtečnou sklenku \c[3]JABLEČNÉ ŠŤÁVY\c[0]...
+
+#While wearing an Orange Headband
+
+message_16:
+      text: \n<CHLÁPEK S JABLKAMA>Počkat, je tohle...\! \c[13]ORANŽOVÁ ČELENKA\c[0]...\! na tvé hlavě?\! Odmítám ti prodat \c[3]JABLEČNÝ DŽUS\c[0] než tu věc sundáš!
+
+#After buying 5 Apple juices
+
+message_101:
+      text: \n<CHLÁPEK S JABLKAMA>\{\{\sinv[1]HŮŮŮŮ-HÁÁÁÁÁÁÁÁ!!
+
+message_17:
+      text: \n<CHLÁPEK S JABLKAMA>Vem si tento dar, za to, že jsi tak dobrý zákazník!\! Je to \c[13]ČERVENÁ ČELENKA\c[0]. Má stejnou barvu, jako jablka!
+
+message_18:
+      text: \n<CHLÁPEK S JABLKAMA>Hmm! Vidím, že jeden z tvých přátel nosí \c[13]ORANŽOVOU ČELENKU\c[0]...\! No, tentokrát to prominu, ale opravdu jen tentokrát!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHe he...\! Promiňte...
+
+message_20:
+      text: Získal jsi \c[13]ČERVENOU ČELENKU\c[0]!

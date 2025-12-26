@@ -1,0 +1,82 @@
+
+# =========================================================================================
+# Lost Son
+# ========================================================================================
+
+#Talk to Mr DUCKIE
+
+message_0:
+      text: \n<PAN KACHNIČKA>Nerad vás obtěžuji, ale neviděli jste někde náhodou mého syna?\! Na vteřinku jsme se otočili a on zas kamsi utekl.
+
+message_1:
+      text: \n<PAN KACHNIČKA>Mohli byste po něm poohlídnout?\!<br>Od pohledu ho hned poznáte.\! Vypadá na chlup stejně, jako já! Haha!
+
+#Talk to DUCKIE Jr
+
+message_2:
+      text: \n<KACHNIČKA ML.>Ty hvězdy jsou ale krásné, viďte?\!<br>Nedělá mi problém se v nich ztratit.
+
+message_3:
+      text: \n<KACHNIČKA ML.>Na mé rodné planetě jich bylo vidět v noci sotva pár...
+
+message_4:
+      text: \n<KACHNIČKA ML.>Až vyrostu, bude ze mě VESMÍRNÝ KAPITÁN!\!<br>A budu se na hvězdy moct takhle koukat kdykoliv se mi zachce!
+
+message_5:
+      text: \n<KACHNIČKA ML.>A, sakra...\! Jak dlouho už tady jsem?
+
+message_6:
+      text: \n<KACHNIČKA ML.>Rodiče o musí mít hrozné starosti...\!<br>Měl bych rychle vyrazit domů!
+
+#KACHNIČKA ML. walks off
+
+message_7:
+      text: \n<PAN KACHNIČKA>Hele, to jste zas vy! Dík, že jste toho našeho darebáka odchytli...
+
+message_8:
+      text: \n<PAN KACHNIČKA>Mohl bys konečně přestat utíkat, ty jeden rošťáku?<br>Tohle měla být dovolená!\!<br>Ale zatím si kvůli tobě nemůžeme dovolit odpočinout...
+
+message_9:
+      text: \n<KACHNIČKA ML.>Tak dobře...\! Promiň, tati...
+
+message_10:
+      text: \n<PAN KACHNIČKA>Díky, cestovatelé.\! Můj syn by vám na poděkování chtěl dát malý dárek.\! <br>Jen do toho, KACHNIČKO.
+
+message_11:
+      text: \n<KACHNIČKA ML.>Jdu na to!
+
+message_12:
+      text: Získal jsi \c[5]PAMPELIŠKU\c[0].
+
+message_13:
+      text: \n<PAN KACHNIČKA>To je můj kluk!\! Příště až půjdeš ven se nám prosímtě ozvi!
+
+message_14:
+      text: \n<PAN KACHNIČKA>Nechceš snad, aby se o tebe mamka znovu obávala, ne?
+
+message_15:
+      text: \n<KACHNIČKA ML.>Nechci...
+
+message_16:
+      text: \n<PAN KACHNIČKA>Super! A teď už spolu zase můžeme strávit nějaký ten šťastný rodinný čas!\! Napřed ale běž za maminkou.
+
+message_21:
+      text: \n<PAN KACHNIČKA>Konečně nějaký ten šťastný rodinný čas!
+
+#KACHNIČKA ML. walks to mom
+
+#QUEST complete
+
+#After-Quest Dialogue: Talk to Mrs. DUCKIE or KACHNIČKA ML..
+
+message_17:
+      text: \n<KACHNIČKA ML.>Mami, může je později jít zase koukat na hvězdy?
+
+message_18:
+      text: \n<PANÍ KACHNIČKOVÁ>Jasně že můžeš, broučku.\!<br>S taťkou se k tobě rádi přidáme.
+
+message_19:
+      text: \n<KACHNIČKA ML.>Jupí!
+
+message_20:
+      text: \n<PANÍ KACHNIČKOVÁ>Ten nás darebák prostě nedokáže zůstat chvilku v klidu.\! Pořád by jen někde trajdal venku!

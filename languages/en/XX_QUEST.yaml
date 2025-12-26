@@ -1,0 +1,1052 @@
+# =========================================================================================
+# QUEST TRACKER
+# =========================================================================================
+
+#Intro 1:
+#MARI says this as her first message depending on who is LEADER:
+#Note: The first time you talk to a new MARI, she'll have an intro message that takes priority over this message.
+
+# =========================================================================================
+
+#If OMORI is leader:
+message_0:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAhoj, OMORI! Kamenná tvář jako obvykle, viď?\!<br>Za mě by ses měl víc usmívat! Vždycky se mi líbil tvůj úsměv.
+
+#If AUBREY is leader:
+message_1:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marNo ahoj, AUBRY! Vypadáš dneska krásně.<br>\!Líbí se mi, jak moc se staráš o svoje vlasy.
+
+#If KEL is leader:
+message_2:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marNazdar KELI, jak se máš! Vypadá, žes zase o kousek porostl.\! Možná jeden den budeš tak vysoký jako HERO, hehe...
+
+#If HERO is leader:
+message_3:
+    faceset: MainCharacter_Mari
+    faceindex: 7
+    text: \marNo ahoj, fešáku!\. A nebo bys raději ode mě slyšel...\!<br>Jak se máme, krásný pane?
+
+# =========================================================================================
+
+#Intro 2:
+#MARI says this after Intro 1.
+
+# =========================================================================================
+
+message_10:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \marTakže... chtěl bys, abych ti s čímkoliv pomohla?<br>Bude tě to stát jen tvou lásku!
+
+# =========================================================================================
+
+#Outro:
+#MARI says this after you exit the QUEST TRACKER menu.
+
+# =========================================================================================
+
+message_15:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marSnad jsem ti alespoň trochu pomohla.<br>Jsem tady pro tebe, kdybys mě potřeboval.
+
+# =========================================================================================
+
+#Outro 2 - Scarecrow Gift: - UNUSED
+#If you complete the STICK IN THE MUD SIDE QUEST, MR. SCARECROW will give extra gifts to you through MARI.
+
+# =========================================================================================
+
+message_20:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marNashledanou, PANE STRAŠÁKU... Užívejte si dobrodružství!\.\^
+
+#message_21:
+#    text: Získal jsi \c[3]\itemget\c[0]!
+
+#message_22:
+#    faceset: MainCharacter_Mari
+#    faceindex: 6
+#    text: \marDej si, OMORI! Zasloužíš si to!
+
+#[RANDOM ITEM LIST / % CHANCE]
+#Tofu 15%
+#Cherry Soda 15%
+
+#Fries 10%
+#Ramen 10%
+#Tasty Soda 10%
+#Blueberry Smoothie 10%
+#Rubberband 10%
+#Air Horn 10%
+
+#Life Jam 5%
+#Watermelon Juice 5%
+
+# =========================================================================================
+
+#Quest Completed:
+
+# =========================================================================================
+
+#message_25:
+#    faceset: MainCharacter_Mari
+#    faceindex: 6
+#    text: \marYou completed this quest already!<br>Looks like you don't need my help after all, hehe...\.\^
+
+# =========================================================================================
+
+#Quest Name: STUFFED TOY
+
+# =========================================================================================
+
+#This quest never has a Quest Accepted message, as you have to complete it before you have access to the Quest Tracker.
+#However, it still appears in the COMPLETE category with the Quest Completed message.
+
+message_26:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marNašel jsi AUBRYN \c[13]PLYŠOVÝ LILEK\c[0]!\. Z toho asi KEL neměl moc velkou radost, viď?\.\^
+
+# =========================================================================================
+
+#Quest Name: BASIL'S HOUSE
+
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marNechtěli jste náhodou jít navštívit BASILA u něj doma?\. Dneska s váma asi nepůjdu, ale rozhodně doufám, že si to užijete!\.\^
+
+message_31:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marTak běžtě, a přeju hodně zábavy!\. Kdyžtak víte, kde mě najít.\.\^
+
+# =========================================================================================
+
+#Quest Name: MISSING
+
+# =========================================================================================
+
+#Quest Accepted 1:
+
+#message_35:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marAle ne... BASIL z ničeho nic zmizel...<br>Není po něm tady ani stopy!\.\^
+
+#message_36:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marMožná je tady ale způsob, jak bychom ho mohli najít...<br>Nevíš snad něco, co my ne, OMORI?\.\^
+
+#Quest Accepted 2 (Night 2: Deep Well+):
+
+#message_37:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marAch... O čem byl tenhle?<br>Aha, no jasně! Náš kamarád BASIL se ztratil!\.\^
+
+#message_38:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marMusí být nějaký způsob, jak bychom ho mohli zachránit...<br>Nevíš, kde bychom mohli začít, OMORI?\.\^
+
+#Quest Completed: !!![QUEST IS DELETED FROM QUEST TRACKER]!!!
+
+
+# =========================================================================================
+
+#Quest Name: CAPTAIN OF THE SPACE PIRATES
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_40:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marAle ne! Vypadá, že někdo omylem vyhodil tu KAZETU VESMÍRNÉHO MILENCE.\. Nemohla by být někde na \c[11]SMETIŠTI\c[0]?\.\^
+
+#After getting SBF'S MIXTAPE:
+
+message_41:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marSuper! Konečně jste našli tu \c[4]VÝJIMEČNOU KAZETU\c[0].\. Tak teď už ji jen stačí vrátit VESMÍRNÉMU MILENCI!\.\^
+
+#Quest Completed:
+
+message_42:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marFuj... To byla teda akce... ale naštěstí je všechno v pohodě.\. Doufejme, že bude mít KAPITÁN VESMÍRŇÁK teď aspoň na chvíli pokoj.\.\^
+
+message_43:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marRychle, OMORI! ROSA má vaši \c[4]VÝJIMEČNOU KAZETU\c[0]!\! Nesmíte ji nechat utéct!\^
+
+# =========================================================================================
+
+#Quest Name: FRONT-ROW TICKETS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_45:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marZdá se, že jste našli \c[4]LÍSTKY\c[0] na dost slibné představení.\. Jestli máte čas, být váma bych se tam rozhodně šla kouknout!\.\^
+
+#After being thrown in SW Dungeon:
+
+message_50:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marMožná se zdá, že není ze \c[11]ZLATÍČČINA HRADU\c[0] útěku, ale nezoufejte.\. Nějaká cesta ven být musí!\.\^
+
+#After reaching SW Garden:
+
+message_55:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marVypadá, že KLÍČKOKRTCI připravují jakousi velkou akci...\. Copak by mohlo ZLATÍČKO plánovat tentokrát?\.\^
+
+#message_56:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marVšichni ti KLÍČKOKRTCI, kteří blokovali vstup, se někam rozutekli! Mohli byste se zkusit poptat, zda někdo neví o tajném východu..\.\^
+
+#Quest Completed:
+
+message_60:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marZdá se, že jste unikli ze ZLATÍČČINÝCH spárů,\. ale opravdu jen tak tak. Doufejme, že už se nikdy naše cesty nestřetnou s jejími.\.\^
+
+# =========================================================================================
+
+#Quest Name: MISSING FRIENDS
+
+# =========================================================================================
+
+#After getting Kel:
+
+message_75:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marRáda vás dva zase vidím spolu!<br>\.AUBRY a HERO musí být taky někde poblíž.<br><br>KELI, tys říkal, že bychom AUBRY mohli najít na pátém patře, ne?\. Být váma, tak bych začla tam!\.\^
+
+#Quest Completed:
+
+message_80:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marJupí! Jsem ráda, že jste zase všichni spolu!\.\^
+
+# =========================================================================================
+
+#Quest Name: HECTOR THE ROCK
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_85:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSakra... KELŮV domácí kamínek, \c[13]HEKTOR\c[0], mu vypadl z kapsy.\. To mě mrzí, KELI. Doufám, že se vám ho ale podaří najít!\.\^
+
+message_86:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHEKTOR už má možná novou rodinu, ale za mě je s náma \c[13]HEKTOR JR\c[0] opravdu šťastný.\. Neodepři mu to, KELI.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: DAISY'S DILEMMA
+
+# =========================================================================================
+
+#Quest Accepted:
+
+
+message_90:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marAch... SEDMIKRÁSKA se snáží získat pozornost svého nápadníka pomocí \c[4]KYTIČKOVÝCH PUZZLÍ\c[0].\. To je ale roztomilé!\. Pokud se nepletu, viděla jsem MÍKALA jedny kdysi vyhodit.\. Možná, že se vám je ještě povede najít!\^
+
+#After getting FLOWER PUZZLE:
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marJé, vy jste našli \c[4]KYTIČKOVÉ PUZZLE\c[0]!\. Nesháněla se po nich náhodou SEDMIKRÁSKA, kvůli tomu jejimu nápadníkovi?\. No, za mě je celkem jasné, o koho se jedná.\. \}<br>(odkašlávání) Je to NEB... Hehe...\.\^
+
+message_96:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marJupí! SEDMIKRÁSKA má konečně \c[4]KYTIČKOVÉ PUZZLE\c[0], které by mohla dát NEBOVI, ale odhodlá se k tomu vůbec?\. To vše se dozvíte v příštím díle!\.\^
+
+# =========================================================================================
+
+#Quest Name: STICK IN THE MUD
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_100:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marKamarádi PANA STRAŠÁKA jsou rozházení po celém \c[11]ORO-BINCI\c[0].\. Měli byste jim pomoct se znovu setkat. Připadá mi takový osamělý...\.\^
+
+
+# =========================================================================================
+
+#Quest Name: STRANGE REQUEST
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_105:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTELEKUKAČKA po vás chce, abyste ji sehnali pár divných věcí z jakéhosi \c[4]DIVNÉHO SEZNAMU\c[0].\. Divné, co?\.\^
+
+#After getting DOOHICKEY, THINGAMABOB, and WHATCHAMACALLIT:
+
+message_110:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marVypadá, že máte všechno, o co si TELEKUKAČKA říkala na svém \c[4]DIVNÉM SEZNAMU\c[0].\. Měli byste jí je donést.\. Určitě z nich složí něco úžasného...\. a divného.\.\^
+
+message_111:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTakže se TELEKUKAČKA celou dobu snažila jen opravit svůj kávovar.\. Dala vám aspoň okoštovat?\.\^
+# =========================================================================================
+
+#Quest Name: THE B.E.D.
+
+# =========================================================================================
+
+#Quest Accepted
+
+message_115:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marPODEZŘELÝ KRTEK hledá \c[4]P.O.S.T.E.L.\c[0], viď?\! Myslím, že by o ní rozhodně něco mohl vědět STAROSTA KRTEK! Našli byste ho ve sklepě, kde pracuje se svým synem.\.\^
+
+#After talking to MAYOR MOLE:
+
+message_120:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSTAROSTA KRTEK se neustále bojí o svého syna.\! Kdybychom mu ho našli, mohl by nám pomoct!\.\^
+
+#After getting B.E.D.:
+
+message_125:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTak jste se po zvláštním skluzu událostí konečně dostali k \c[4]P.O.S.T.E.L.I.\c[0]!\! Je ale dobrý nápad ji dávat PODEZŘELÉMU KRTKOVI?\.\^
+
+message_126:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTakže, PODEZŘELÝ KRTEK teď vlastní \c[4]P.O.S.T.E.L.\c[0]...\. Kdo ví, co s ní plánuje dělat...\.\^
+
+# =========================================================================================
+
+#Quest Name: SWEATY SNACK
+
+# =========================================================================================
+
+#Quest Accepted w/o TOFU:
+
+message_130:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marJakýsi hrozně upocený KLÍČKOKRTEK se shání po kousku \c[3]TOFU\c[0].\! Jak je to možné? Vždyť je tady úplně všude!\.\^
+
+message_131:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marTo teda nevím, jestli bude tomu SPORTOKRTKOVI s takovýma výdajema stačit na jídlo jen kousek \c[3]TOFU\c[0].\. Vůbec se nedivím, že je tak unavený.\.\^
+
+#message_132:
+#      text: You got \c[3]TOFU\c[0]!
+
+#Quest Accepted W/ TOFU:
+
+#message_135:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marJakýsi hrozně upocený KLÍČKOKRTEK se shání po kousku \c[3]TOFU\c[0].\! Vy už ale přece nějaké máte, vždyť je tady úplně všude!\.\^
+
+# =========================================================================================
+
+#Quest Name: FASCINATING LITERATURE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_140:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDEMIHO už nudí všechny jeho knížky a měl by zájem o nějaké poutavější čtení...\. Kdyby tady někde byla knihovna, možná byste mu nějaké mohli najít.\.\^
+
+#After getting INTERESTING BOOK:
+
+message_146:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTy jo! Tahle vaše \c[4]ZAJÍMAVÁ KNÍŽKA\c[0] vypadá dost zajímavě.\. To by beztak bylo něco pro DEMIHO!\.\^
+
+message_145:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marVypadá, že DEMIHO ta knížka, kterou jste mu dali, na dost dlouho zabaví.\. Až tak byla zajímavá.\.\^
+
+# =========================================================================================
+
+#Quest Name: SON OF A SPACE PIRATE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_150:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTak se nám po celém tom mecheche se ZLATÍČKEM kapitán VESMÍRNÝCH PIRÁTŮ opět vytratil...\. Možná by vás tyhle \c[4]BATERKY\c[0] k němu mohly nějak dovést.\.\^
+
+#message_151:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marKampak mohl jít? Doufám, že je v pořádku...
+
+#After defeating SPACE EX-HUSBAND:
+
+message_155:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTy jo! Že jste porazili VESMÍRNÉHO EX-MANŽELA na vrcholu hory?\. To zní...\. velice dramaticky...\. Doufám, že už se vrátil domů.\. Možná byste se mohli ujistit a navštívit ho!\.\^
+
+message_156:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marZdá se, že si KAPITÁN VESMÍRŇÁK konečně uvědomil, že se celý jeho život nemusí točit jen kolem ZLATÍČKA.\. Jsem si jistá, že už co nevidět zase bude prolétávat širými galaxiemi!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: CARE PACKAGE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_160:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marVidím, že jste se rozhodli ujmout šlechetného úkolu předání balíčku od BRATROKRTKA obyvatelům \c[11]KLÍČIKRTČÍ KOLONIE\c[0].\. Don't you dare fail him!\.\^
+
+message_161:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marVážně v tom \c[4]KŘEHKÉM BALÍČKU\c[0] bylo 99 kousků \c[3]TOFU\c[0]?\. BRATROKRTEK BRATROKRTKA zná tak dobře...\.\^
+
+# =========================================================================================
+
+#Quest Name: GHOST PARTY
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_165:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDUCH S KLOBOUKEM odmítá odstartovat večírek bez plného počtu hostů, a tak mu je budete muset zajistit.\. Vy přece taky chcete zažít \c[11]VEČÍREK DUCHŮ\c[0], ne snad?\.\^
+
+message_166:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDíky vám se všichni hosté ne příliš dochvilně dostavili na VEČÍREK DUCHŮ...\. no, lepší pozdě než vůbec!\. Tak proč se k nim nepřidat?\.\^
+
+message_167:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marUrčitě vás ten \c[11]VEČÍREK DUCHŮ\c[0] musel hrozně bavit.\. To bych do vás neřekla, že umíte takhle tančit! Kde jste se to naučili?\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Itchy
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_170:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marThe brachiosaurus SCOTT can't scratch an itch in a specific spot...\. I guess...\. that leaves...\. it up to you...\.\^
+
+message_171:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marThe itch has been scratched!\. SCOTT better be thankful.\. Not just anyone would do that for him.\.\^
+
+# =========================================================================================
+
+#Quest Name: BERLY'S LOST BALL
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_175:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marVAN odhodil BERLYIN \c[4]ZTRACENÝ MÍČEK\c[0] kamsi do \c[11]ROZLEHLÉHO LESA\c[0].\. Nemohl doletět zas tak daleko.\.\^
+
+#After getting BERLY'S BALL:
+
+message_180:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marSkvěle! Našli jste BERLYIN \c[4]ZTRACENÝ MÍČEK\c[0].\. Slyšela jsem, že vám prý chce dát něco na oplátku.\. <br>To bych do ní teda neřekla!\.\^
+
+message_181:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTy jo! BERLY ti vážně dala \c[4]TVRDOHLAVÝ DIPLOM\c[0]?\. To ji teď beztak nenechá pár dní spát!\.\^
+
+# =========================================================================================
+
+#Quest Name: THE CONVICTION OF ORANGE JOE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_185:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marCelá ta léta se přece POMERANČOVÝ JOE nepřestal pohledávat po svém ztraceném bratrovi.\. Jeho odhodlání je tak inspirující...\. Ale stejně, kdo ví, jak to s ním bude?\. Možná, že je ten jeho bratr blíž, než si myslí...\.\^
+
+message_186:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \mar\sinv[1]Naděje a vytrvalost! Naděje a vytrvalost!\sinv[0]\. Řekni to se mnou, OMORI!\. \sinv[1]Naděje a vytrvalost! Naděje a vytrvalost!\sinv[0]\.\^
+
+# =========================================================================================
+
+#Quest Name: A GOOD LISTENER
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_190:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSVÍČKA ztratila svého \c[4]PLYŠOVÉHO MEDVÍDKA\c[0] a teď ho nemůže najít.\. (vzdechnutí)...\. Kdo bude teď naposlouchávat jejím strastem?\.\^
+
+#After getting \c[4]TEDDY BEAR\c[0]:
+
+message_195:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marHele! Ten váš \c[4]PLYŠOVÝ MEDVÍDEK\c[0] vypadá skoro jako ten, kterého SVÍČKA ztratila.\. Měli byste ji ho vrátit...\.<br>Určitě se jí po něm moc stýská.\.\^
+
+message_196:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marSVÍČKA musí mít vážně radost z toho, že je ten její \c[4]PLYŠOVÝ MEDVÍDEK\c[0] zpátky.\. Teď už konečně nebude osamělá.\.\^
+
+# =========================================================================================
+
+#Quest Name: THE WHEREABOUTS OF DUCKIE JR.
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_200:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marAle ne! KACHNIČKA ML. se ztratil!<br>\.Jeho rodiče o něj musí mít strach...\.\^
+
+#After talking to DUCKIE JR.:
+
+message_205:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marFuj... Zdá se, že byl KACHNIČKA ML. hlavou úplně jinde.\. Ty jsi takový občas taky, OMORI.\. Měli byste zkontrolovat, jestli se dostal bezpečně zpátky domů!\.\^
+
+message_206:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marFuj... Zdá se, že byl KACHNIČKA ML. hlavou úplně jinde.\. Ty jsi takový občas taky, OMORI!\.\^
+
+# =========================================================================================
+
+#Quest Name: MARINA'S OPERATION
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_210:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMARINA po vás chce, abyste ji našli \c[4]KRYSÍ MASO\c[0], prý ho potřebuje pro svoje nové tělo...\. Zní to sice trochu divně, ale ona je přece odborník...\. Aspoň myslím...\.\^
+
+#After getting RAT MEAT:
+
+message_215:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marNašli jste to \c[4]KRYSÍ MASO\c[0], po kterém se MARINA sháněla!\. Asi byste ji ho měli dát dřív, než se začne kazit...\.\^
+
+message_216:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDoufám, že se MARINĚ líbí její nové tělo.\. I když...\. jejím experimentům se asi moc líbit nebude...\.\^
+
+
+# =========================================================================================
+
+#Quest Name: MEDUSA'S EXPERIMENT
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_220:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMEDŮZA po vás chce, abyste ji našli \c[4]SOPEL\c[0] pro její nové tělo...\. Zní to sice trochu divně, ale ona je přece odborník...\. Aspoň myslím...\.\^
+
+#After getting SNOT:
+
+message_225:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marNašli jste ten \c[4]SOPEL\c[0], po kterém se sháněla MEDŮZA!\. Asi byste jí ho měli dát, dřív než to tady celé kontaminuje...\.\^
+
+message_226:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marAha... Tak MEDŮZA si to tělo dělá pro sebe...\. Teď se nedivím, že vypadá tak vypracovaně.\.\^
+
+# =========================================================================================
+
+#Quest Name: MOLLY'S ANALYSIS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_230:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMOLLY po vás chce, abyste ji našli \c[4]ŠROT\c[0] pro její nové tělo...\. Zní to sice trochu divně, ale ona je přece odborník...\. Aspoň myslím...\.\^
+
+#After getting SCRAP METAL:
+
+message_235:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marNašli jste ten \c[4]ŠROT\c[0], po kterém se MOLLY sháněla!\. To by mě zajímalo, jestli vážně chce mít tělo celé z oceli...\.<br>Nebylo by pro ni příliš těžkopádné?\.\^
+
+message_236:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marZdá se, že MOLLY vůbec nevadí být jenom hlava.\. Vlastně ji i celkem chápu.\. Aspoň toho teď musí o tolik méně řešit.\.\^
+
+# =========================================================================================
+
+#Quest Name: PRESENT FOR PALMIE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_240:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDoufám, že se PALMINCE líbí ta její \c[4]DĚKOVNÁ VYKOPÁVKA\c[0].\. Je rozhodně... unikátní.\.\^
+
+message_241:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marBURÁK a ŽELÉ by chtěli PALMINCE dát dárek za to, že se o ně postarala.\. Není v \c[11]POMERANČOVÉ POUŠTI\c[0] náhodou nějaké místo, kde se dají sehnat všelijaké zvláštnosti?\.\^
+
+
+# =========================================================================================
+
+#Quest Name: WEAK MINDS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_245:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marKITE KID thinks one of the pinwheels in the \c[11]FLOATING FOREST\c[0] is broken.\. I wonder if there's any way to fix it.\.\^
+
+message_246:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marThe pinwheels seem to all be spinning now.\. You know what KEL always says.\. If it doesn't work...\. throw something at it!\.\^
+
+# =========================================================================================
+
+#Quest Name: THE CALL OF INSPIRATION
+
+# =========================================================================================
+
+#Quest Accepted:
+
+#whats this for?
+message_250:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marBERLY říkala, že se shání po prvotřídních surovinách...\. na vytvoření dokonalé zbraně!\.\^
+
+message_251:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marTy jo, tahle \c[13]PARÁDNÍ NUDLE\c[0] je o dost parádnější než normální \c[13]PLAVACÍ NUDLE\c[0]!\. Určitě je teď taky o dost silnější!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: PESSI'S THING
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_255:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marZdá se, že PESSI ztratil něco vzácného.\.<br>Možná byste mu mohli pomoct a zkusit provést rekonstrukci ve \c[11]VESNICI KLÍČKOKRTKŮ\c[0].\.\^
+
+
+#After getting PESSI'S THING:
+
+message_261:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marJupí! Vzali jste zpátky \c[4]PESSIHO VĚC\c[0] od ROSY.\.<br>Aha... Už chápu...\. To je jedna z těhle věcí.\. No, proč bych ho za to soudila?\. Běžte mu ji vrátit.\.\^
+
+message_260:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marPESSI snad bude v té frontě čekat nadosmrti...\. Neměli bychom ji říct, že už to zkončilo?\.\^
+
+# =========================================================================================
+
+#Quest Name: WEEPING WILLOW
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_265:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marBohyně tohoto jezera není poslední dobou moc šťastná.\. Možná, že by ji nějaký pořádný vtip zpravil náladu!\. Být váma bych si je psala do \c[4]KNÍŽKY SE VTIPY\c[0].\.\^
+
+message_266:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marVětšina vtipů, co jsem tady slyšela, nejstojí za nic...\. ale musí tady být alespoň jeden, který by stál za něco víc.\.\^
+
+message_267:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOn ji vážně ani jeden z těch vašich vtipů nerozesmál?\. No, humor je koneckonců subjektivní.\.\^
+
+# =========================================================================================
+
+#Quest Name: MISSING
+
+# =========================================================================================
+
+#MARI's dialogue for the BASIL IS MISSING quest will first display this text if you talk to her directly after the cutscene at the picnic:
+
+#Forest Playground
+message_270:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marKdepak by ten BASIL mohl být?\. Myslela jsem, že byl s tebou, OMORI...\. Však jsi s ním byl naposledy doma, ne?\. Možná by to chtělo provést rekonstrukci.\.\^
+
+#Path to Basil (II)
+message_271:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBASILŮV dům je přesně tímhle směrem dál.\. Doufám, že mu nic není...\. Však víš, jak mu je, když je sám...\.\^
+
+#==========================
+#After you visit BASIL's house (after getting Hangman), MARI's dialogue for the BASIL IS MISSING quest changes depending on the map you are in.
+
+#Forest Playground
+message_272:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marKdepak by ten BASIL mohl být?\. Že by někde v \c[11]ROZLEHLÉM LESE\c[0]?\. BASIL by přece takhle z ničeho nic nebral roha...\. Co když se mu něco stalo...\.\^
+
+#Path to Basil (II)
+message_273:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marTak nakonec BASIL nebyl nikde v \c[11]ROZLEHLÉM LESE\c[0]...\. Zajímá by mě, kam se mohl zatoulat.\.\^
+
+#Kite Kid
+message_274:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marProč by sem BASIL vůbec chodil? Pro mě za mě tady není nic moc extra.\. Jenom stromy, větrníky a vítr.\.\^
+
+#Orange Oasis
+message_275:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marMyslíš, že by se tady mohl BASIL nějak zatoulat?\. Jsem si jistá, že by mě pozdravil, kdyby tudy šel.\. A kolik KARAMELOVÝCH JABLÍČEK bych mu hned na potkání dala! A je mi fuk, že nemá rád sladké!\.\^
+
+#Rain town
+message_276:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marI když tady BASIL asi nikde není, rozhodně by se mu tady líbilo.\. A on by se zase rozhodně líbil ZELENINÁČKŮM.<br>Jen představ...\. BASILA jak čte ZELENINÁČKŮM pohádku před spaním...\. Tak roztomilé!\.\^
+
+#Otherworld campsite
+message_277:
+        faceset: MainCharacter_Mari
+        faceindex: 2
+        text: \marŽe by BASIL vylezl po tom žebříku až do \c[11]JINOSFÉRY\c[0]?\. Mohli byste se zkusit zeptat okolo, jestli ho někdo neviděl.\.<br>VESMÍRNÍ PIRÁTI vypadají, že se celkem vyznají.\.\^
+
+#Frozen Lake
+message_278:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marTady jsem BASILA nikde neviděla, a myslím, že by sem stejně ani nechodil.\. Nemá moc rád studené počasí...\.\^
+
+
+#Junkyard IV
+message_279:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marJe tady skvělý výhled na celé \c[11]SMETIŠTĚ\c[0]...\. a přesto po BASILOVI nevidím ani stopu.<br><br>Je to ale celkem zvláštní...\. Myslím, že jsem ho viděla někde u KEMPU...\. ale možná už se jenom pletu.\.\^
+
+#Junkyard IX  (Same as Junkyard IV)
+message_280:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marJe tady skvělý výhled na celé \c[11]SMETIŠTĚ\c[0]...\. a přesto po BASILOVI nevidím ani stopu.<br><br>Je to ale celkem zvláštní...\. Myslím, že jsem ho viděla někde u KEMPU...\. ale možná už se jenom pletu.\.\^
+
+#Pyrefly IV
+message_281:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marNapadlo mě...\. že BASIL možná někam jen hodně spěchal...\. Ale kam? A proč by nám to neřekl?\.<br>Jen doufám, že se mu nic nestalo... a že je v bezpečí, ať už je kdekoliv.\.\^
+
+#Pyrefly to SM town
+message_282:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \mar\sinv[1](vzdechnutí)...\sinv[0]\. Koukla jsem se už všude, ale po BASILOVI ani stopa...\. Nesmíme to ale vzdát...\. BASIL nás potřebuje!\.\^
+
+#Sproutmole Town I
+message_283:
+        faceset: MainCharacter_Mari
+        faceindex: 0
+        text: \marHele! Ty \c[4]LÍSTKY\c[0], které jste našli, by teď přišly vhod!\. Ale nejdřív bych se být váma podívala po BASILOVI.<br><br>Myslíte, že KLÍČOKRTCI ví něco, co my ne?\. Líná huba, holé neštěstí!\.\^
+
+#Underground Dungeon
+message_284:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marCo když se BASIL nějak zapletl se ZLATÍČKEM a ona ho zavřela?\. Tohle místo je tak obří...\. Musí tady přece někde být!\.\^
+
+#Servant's Quarter (Same as Underground Dungeon)
+message_285:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marCo když se BASIL nějak zapletl se ZLATÍČKEM a ona ho zavřela?\. Tohle místo je tak obří...\. Musí tady přece někde být!\.\^
+
+#==========================
+#After the Swim switch, MARI will play the same dialogue across all picnics. This should override any previous unique dialogue.
+
+#The following picnics will only ever play this new generic dialogue:
+message_286:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHmm... BASIL se ztratil, viď?\. Nemohl by být někde tady v okolí?\. Ty ho přece znáš lépe než my, OMORI!\.\^
+
+message_287:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marSafra...\. Tak nakonec se BASIL neukázal ani ve ZLATÍČČINĚ ZÁMKU.\. Kde jinde by tak mohl být?\.\^
+
+#Last Resort
+#Last Resort Elevator
+#Construction
+#End of the Highway
+#Baking Room
+
+#==========================
+#After going into SGL, the entire quest string will disappear across all picnics, so these MARI will never display the quest.
+
+#Marina Room 3
+#Medusa Maze 1
+#Molly Main Room
+#Path to Basil (BS)
+#Frozen Forest VII
+#Frozen Forest IX
+
+# =========================================================================================
+
+#Quest Name: LEAFIE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_400:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOMORI...\. Tys... kývl LISTÍKOVI na to, s těma zajíčkama?\. AUBRY se na tebe bude zlobit.\.\^
+
+#Quest Complete:
+
+message_401:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marNemůžu říct, že bych z tebe měla nějak extra radost...\. ale gratuluju...\. teď je z tebe ZAJÍČKOVRAH.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Rain town
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_402:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marNezdá se vám, že prší příliš?\. Musí být způsob, jak bychom těm ZELENINÁČKŮM pomohli...\.\^
+
+#Quest Complete:
+
+message_403:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marNedělejte si hlavu z toho, co se stalo \c[11]DEŠŤNÉMU MĚSTEČKU\c[0].\. Chtěli jste jim přece jen pomoct...\. nebo snad ne?\.\^
+
+#Quest Complete II:
+
+message_408:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marZELENINÁČKŮM už je zase dobře.\. Doufám, že vyrostou a budou z nich velcí a silní ZELENINÁCI!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Squizzards
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_404:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marFARMÁŘE JIMA poslední dobou zlobí ČAROLIHNĚ.\. Běžte mu pomoct se těch potvor zbavit!\.\^
+
+#Quest Complete:
+
+message_405:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMOŘSKÉ KRÁVY jsou tak roztomilé!\. A teď, když je na farmě méně ČAROLIHNÍ, vsadila bych se, že budou všechny mít hned světlejší bůůůůůdoucnost, hehe.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Feed Humphrey
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_406:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTy brďo! \c[4]OBROVSKÝ ŠEK \c[0] v hodnotě 1000000 MUŠLÍ!\. Nevím sice kde je tady nejbližší banka, ale znám někoho, na koho MUŠLE celkem fungujou.\.\^
+
+#Quest Complete:
+
+message_407:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marBENDA je teď najezený a šťastný.\. Všechno je zase v pořádku!\. Když máš hlad, nejsi to ty.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Mari after collecting black letters
+
+# =========================================================================================
+
+#Quest Accepted:
+
+#message_410:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marMěl jsi toho teď hodně na práci! Pojďme do \c[14]POKOJE SOUSEDŮ\c[0] a zahrajme si karty! Zasloužíš si na chvilku odpočinout!\.\^
+
+#Quest Complete:
+
+#message_411:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marJsem ráda, že sis mohl zase zahrát, vyhrál jsi? No nic, doufám, že tě to bavilo!\.\^
+
+# =========================================================================================
+
+#Quest Name: Mari after collecting black letters in the fog
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_420:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: \marSlyšela jsem někoho mluvit o jakémsi opuštěném domě, jižně od hřiště.\. To by mě zajímalo...\. jestli je doopravdy opuštěný, hehe...\.\^

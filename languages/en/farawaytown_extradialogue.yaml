@@ -1,0 +1,174 @@
+
+# =========================================================================================
+# Faraway extra dialogue
+# =========================================================================================
+
+#SECRET LAKE CUTSCENE - DAY 3 AFTER GETTING AUBREY:
+
+#Intro
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTak vy jste si tohle místo srazu vzali za své?
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubJo... A co s tím?
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelNo...\! Vlastně nic. Ani se ti nedivím.
+
+#Kel walks up 1 step
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJe to tady celkem fajn...
+
+#*KEL walks to lake*
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVoda je tady sice trochu tmavší, ale pořád si pamatuju, jak jsme se ještě nedávno tady koupali ostošest! #přiroz
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: \aubVypadá to tady úplně stejně, jako tehdy...\! Jenom ti to tehdy nevadilo. #přiroz
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelHa ha... Možná jo, možná jo.\!<br>Tak... proč jsme se tady tím pádem přestali koupat?
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubTy už si nevzpomínáš?\! MARI chtěla, abychom sem přestali chodit, potom co se SUNNY málem utopil...
+
+#*KEL jumps*
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelNo fakt, na to jsem úplně zapomněl! #přiroz
+
+#*HERO walks to lake*
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herS KELEM jsme skákali z támhleté sochy do vody, a když jsme SUNNYMU řekli, aby se přidal...\! zarazil se a spadl do ní.
+
+#*HERO turns to player*
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: \herPamatuješ si to, SUNNY?\! Stalo se to všechno celkem rychle...
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: \herA i když jsme byli přímo ve vodě, nebyli jsme to my, kdo tě zachránil. #přiroz
+
+#*KEL turns to PLAYER*
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNe, to MARI,..\! Skočila tam za tebou dříve, než jsme se my dva vůbec nadali.
+
+#*AUBREY walks to front of pier*
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubNikdy nezapomenu na to, jak tě vynášela ven.\! A když tě položila a tys konečně otevřel oči, položila se na tebe a rozbrečela se.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aub...\! Takovou jsem ji nikdy předtím ani potom nezažila...
+#*HERO walks right in front of PLAYER*
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herMARI tě měla vážně ráda, SUNNY.\! Ale to ty přece víš, ne?
+
+
+# =========================================================================================
+# Sleepover final messages - Day 3 night after basil's memories
+# =========================================================================================
+
+#Examine sleeping Kel
+
+#1st talk
+#message_20:
+#      text: Even though KEL is just as you remember him...\!<br>you still can tell he has grown while you were gone.\!<br>Something about that hurts, but you don't know why.
+
+#2nd talk
+message_21:
+      text: KEL tady pro tebe vždy byl.\! A i když je občas trochu bezohledný, víš, že má dobré srdce.
+
+message_22:
+      text: Nejvíce ze všeho chce, aby byli všichni kolem něj šťastní.\! Kdykoliv jsi potřeboval povzbudit, mohl jsi s ním počítat.
+
+message_23:
+      text: Bude ti opravdu chybět.
+
+#1st talk
+#message_24:
+#      text: Loud, angry, violent...\! AUBREY has changed a lot...\!<br>But, she still hardly makes a noise when she sleeps.
+
+#2nd talk
+message_25:
+      text: AUBRY vždy poslouchala své city.\!<br>A přestože je občas nerada dává najevo,<br>přes její činy se stejně vždy projeví.
+
+message_26:
+      text: Není lehké ji pochopit...\! Ale jsi si jistý, že se vždy bude snažit dělat to správné ze všech sil.
+
+message_27:
+      text: Bude ti opravdu chybět.
+
+#1st talk
+#message_28:
+#      text: HERO looks peaceful...\! but you can't help but worry.\!<br>For a moment, you wonder what his life would have been like if MARI was still there.
+
+#2nd talk
+message_29:
+      text: Na HERA byl vždy spoleh.\! Je moudrý, schopný, laskavý a vždy dává ostatní na první místo.
+
+message_30:
+      text: Vždy by ti pomohl, i kdyby si tím sám ublížil.
+
+message_31:
+      text: Bude ti opravdu chybět.
+
+
+#RECYCLEPATH AFTERWARDS
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelSUNNY...\! Uff...\! SUNNY...?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubHej, seš v pohodě?\! Už asi tak... pět minut čumíš do prázdna...
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herHaha...\! Co sis představoval, SUNNY?
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herMěl jsi při tom takový klidný výraz...

@@ -1,0 +1,213 @@
+
+# =========================================================================================
+# Hidden Library
+# ========================================================================================
+
+#Messages in Hidden Library
+
+message_0:
+      text: Pozoruhodná kniha.\! Přečteš si kousek?
+
+#========================================================================================
+# THE RIDE HOME
+#========================================================================================
+
+message_1:
+      text: \"Jeden po druhém postupně všichni při jízdě domů usli.\! <br>Koneckonců byli po tak dlouhém dni na pláži všichni<br>dost unavení.\"
+
+message_2:
+      text: \"☐☐☐ usnul první, po něm brzy všichni ostatní.\"
+
+message_3:
+      text: \"Při západu slunce spadne ☐a hlava <br>omylem na ☐☐☐☐☐☐o rameno.<br><br>To ho vzbudí,<br>on se ovšem neodváží otevřít oči.\"
+
+message_4:
+      text: \"Předstírá, že spí a zadrží dech.\! <br>Zaposlouchá se do zvuku cesty.\"
+
+message_5:
+      text: \"Na své kůži cítí něžný dotek slunce. Náhle ho zarazí svědění jeho nosu, opáleného ze včerejška.\"
+
+message_6:
+      text: \"Je šťastný...\! velmi, velmi šťastný...\! <br>A sám sobě odpřísáhne, že ať už se stane cokoliv,<br> na tuto chvíli nikdy nezapomene.\"
+
+
+#========================================================================================
+# Tracks:
+#========================================================================================
+
+message_20:
+      text: \"Kaluž džusu obklopuje koberec.\"
+
+message_21:
+      text: \"Nad ní nestojí nikdo jiný než ☐☐☐, držící v rukou <br>načatý džus.\"
+
+message_22:
+      text: \"Rozhlédne se kolem a vidí, jak všechny jeho přátele popadne ten stejný, zklamaný výraz.\! S pocitem viny se zakuckaně pousměje.\"
+
+message_23:
+      text: \"V pouhém okamžiku mizí <br>náhle ☐☐☐ dveřma.\"
+
+message_24:
+      text: \"Malinké černé kotě se projde po koberci a na své cestě pokojem zanechá několik mokrých, žvatlavých stop.\"
+
+message_25:
+      text: \"☐☐☐☐v obličej zrudne. Okřikne ☐☐☐, <br>ovšem ten je už dávno pryč.\"
+
+message_26:
+      text: \"☐☐☐☐ podá ☐☐☐☐ pár mokrých ubrousků.\"
+
+message_27:
+      text: \"Asi tady jsou vážně jediní dospělí...\! a pokud to tady neuklidí v čas, bude po koberci.\! A s ☐☐☐ si to vyřídí později...\"
+
+
+#========================================================================================
+# Hottest Day of Summer:
+#========================================================================================
+
+message_40:
+      text: \"Byl parný, letní den, a jediné, co se honilo ☐o hlavou bylo proč sem nemohli jít i zítra.\"
+
+message_41:
+      text: \"Na zahradě byl totální čurbes.\"
+
+message_42:
+      text: \"Dřevěná prkna poházena po celé ploše.\! <br>Stopy po barvě, důsledkem ☐☐☐☐☐vy a ☐☐☐☐☐☐vy práce pokrývaly trávu.\"
+
+message_43:
+      text: \"☐ celé dny koukal na ☐☐☐☐ nesoucího prkna sem a tam z pickupu svého táty.\"
+
+message_44:
+      text: \"Koukal na to, jak se ☐☐☐ pořád dokola trefoval kladivem do prstů, a poznačil si, že ☐☐☐☐ už hodinu odmítala slést po žebříku dolů.\"
+
+message_45:
+      text: \"'Budu jim dělat psychickou podporu.', pomyslel si ☐, leže tiše ve stínu svého oblíbeného stromu.\"
+
+message_46:
+      text: \"Ovšem věděl, že to tak nebude.\"
+
+message_47:
+      text: \"Brzy ho budou jeho přátelé prosit o pomoc, a on jim ji nebude moct odepřít.\"
+
+message_48:
+      text: \"Ten dům na stromě je přece pro všechny, takže by bylo spravedlivé, kdyby také dal ruku k dílu.\"
+
+message_49:
+      text: \"☐ to ví a souhlásí s tím...\! i když nerad.\!<br>Pomalu vyskočí nahoru a vydá se vstříc nepořádku.\"
+
+message_50:
+      text: \"Ví, že by si měl odpracovat svůj podíl.\!<br>Akorát že na něj musel vyjít ten nejparnější den léta.\"
+
+#========================================================================================
+# School Day:
+#========================================================================================
+
+
+message_70:
+      text: \"Letos měl ☐ štěstí a byla mu přidělena lavice ledle malého okýnka.\"
+
+message_71:
+      text: \"Každý den přes něj ☐ tiše zíral ven...\! Na stíny stromů, na mraky obklopující oblohu...\"
+
+message_72:
+      text: \"Byl myšlenkama zcela jinde...\! ve vlastním světě, vlastním příběhu, vlastním dobrodružství.\"
+
+message_73:
+       text: \"Už to pro něj bylo zvykem.\!<br>Nedělalo mu potíže se v sobě ztratit.\"
+
+message_74:
+      text: \"A dnešek byl den, jako každý jiný.\! ☐ prázdně civěl na mraky, tančící po obloze, jen po jednom, neustále dál.\"
+
+message_75:
+      text: \"Přičemž jej kamarádské plácnutí po zádech vytrhne z jeho běsnění.\! ☐ uhne pohledem od okna pryč.\"
+
+message_76:
+      text: \"☐☐☐ se usměje.\! Naznačí, že skončilo vyučování, a že je čas jít na oběd.\! Dnes servírují pizzu, a tak by <br> tam měli vyrazit rovnou, aby na ně vůbec zbylo.\"
+
+message_77:
+      text: \"☐u začne kručet v břiše.\! Jednou naposledy upře pohled na okénko.\"
+
+message_78:
+      text: \"Jeho dobrodružství holt bude muset počkat na další den.\"
+
+
+#========================================================================================
+# Statue at the Lake:
+#========================================================================================
+
+
+message_90:
+      text: \"Zapadá slunce.\! Podivuhodná socha svým pohledem střeží hladinu jezera.\! Kdysi možná měla jakýsi význam, i když dnes už byly její vryty dávno zaceleny časem.\"
+
+message_91:
+      text: \"Každopádně ji jistě nevadí <br>dnešní návštěvníci jezera.\! I když ji používají jako skákací prkno.\"
+
+message_92:
+      text: \"Bratři začnou jednotlivě jeden po druhém skákat.\"
+
+message_93:
+      text: \"☐☐☐☐ skáče první.\! Po něm je na řadě ☐☐☐.\! <br>Poté zase ☐☐☐☐.\! A pak znovu ☐☐☐.\"
+
+message_94:
+      text: \"Bratři radostně apelují na ☐, aby skákal s nimi. Po opatrné úvaze se k nim ☐ rozhodne přidat.\"
+
+message_95:
+      text: \"☐ kostrbatě vyjde na sochu a upře pohled na morkou hladinu.\! Slyší, jak mu buší srdce.\! Začne mu pískat v uších.\"
+
+message_96:
+      text: \"Cítí se, jako by ho měly jeho nohy každou chvíli zradit.\! Pokusí se zkrotit svůj dech...\"
+
+message_97:
+      text: \"Přičemž cítí, jak mu něco leze po pravém rameni. Otevře oči a vidí velkého, černého pavouka.\"
+
+message_98:
+      text: \"V jediném okamžiku ztrácí všechen smysl a vrhne se do jezera.\! Voda naplní jeho nos.\! Začne sebou mrskat, ovšem voda ho přemůže.\"
+
+message_99:
+      text: \"Je příliš slabý, příliš beznadějný...\! a nebo si to jen myslí.\"
+
+message_100:
+      text: \"☐ zavře své oči...\! <br>a vyčkává, než ho bratři přijdou zachránit.\"
+
+#========================================================================================
+# Saturday Morning Cartoons:
+#========================================================================================
+
+message_110:
+      text: \"Všichni opět přišli na návštěvu.\!<br>Je sobotní ráno.\"
+
+message_111:
+      text: \"Od sedmi do jedenácti hodin ráno spolu šestičlenná skupinka pojedla vynikající domácí snídani při sledování televize.\"
+
+message_112:
+      text: \"Je to jejich oblíbená část týdne.\"
+
+message_113:
+      text: \"☐ upře pohled na hodiny.\! 8:00.\! Ještě dvě hodiny.\"
+
+message_114:
+      text: \"V deset hodin přijde jeho učitel. Do té doby se může s ostatníma dívat.\"
+
+message_115:
+      text: \"☐ se ušklebí.\! Co z počátku viděl jako naplňující koníček pro něj nyní nebyl nic víc než otravnou povinností.\"
+
+message_116:
+      text: \"Mohl by zde být s nimi, se všemi ostatními, ale ne. On jediný musí chybět a vše propásnout.\"
+
+message_117:
+      text: \"Kéž by měl alespoň hodinu navíc.\"
+
+message_118:
+      text: \"Kéž by ty housle nikdy nevzal do rukou...\"
+
+#========================================================================================
+# Piano Room
+#========================================================================================
+
+message_200:
+      text: Něco se otevřelo.
+
+message_220:
+      text: Hory knih, zapomenutých ve větru času.\!<br>Knihovníci těchto prostorů již dávno nejsou mezi námi.
+
+message_221:
+      text: Tato část zdi ti připadá dutá.

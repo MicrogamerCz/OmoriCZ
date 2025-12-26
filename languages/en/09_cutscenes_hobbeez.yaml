@@ -1,0 +1,265 @@
+# =========================================================================================
+# Cutscene: Kel at the Door
+# =========================================================================================
+
+#Trigger: Defeating SPACE EX-BOYFRIEND
+
+message_0:
+      text: \who\Sinv[1]Halóooooo...\! Halóoooooo?\!<br>SUNNY?\! Jsi tam?\who\sinv[0]
+
+message_1:
+      text: Tady tvůj starý kámoš, KEL!\! Pamatuješ si mě? \who #přiroz, změna pořadí
+
+message_2:
+      text: Takže, jsem...\! si...\! Všiml jsem si té cedule s nápisem "NA PRODEJ" před vaším domem...\! a...\! no...\! moje mamka taky říkala, že se budete brzo stěhovat.\kel #přiroz
+
+message_3:
+      text: A tak mě napadlo...\! jestli bys se mnou nechtěl jít ještě jednou ven, než se odstěhuješ... nebo něco tak...\! jako za starých časů, že?\kel #přiroz
+
+message_4:
+      text: ... ... ...\! <br>\sinv[1]Halóoooo?\! SUNNY?\! Jsi tam?\kel
+
+#Switch to PLAYER'S LIVING ROOM REVERSE (map780)
+#[OPEN THE DOOR / DO NOTHING]
+
+# =========================================================================================
+# Cutscene: First Day with Kel
+# =========================================================================================
+
+#Trigger: Choose [OPEN THE DOOR or DO NOTHING]
+
+message_5:
+      text: Jsi si jistý?\!<br>Tohle rozhodnutí nelze vzít zpět.
+
+#YES/NO
+
+message_6:
+      text: Jsi si opravdu jistý? #blíže orig
+
+#YES/NO
+
+#Trigger: Choose [OPEN THE DOOR]
+#OMORI opens the door.
+#OMORI walks out
+#Screen flashes white
+#Kel intro animation
+
+#Switch to FARAWAY TOWN - PLAYER'S STREET
+#PLAYER is standing on his porch.
+
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \Com[2]Ty jo, tys... vážně vylezl!\kel
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Teda...\! Chtěl jsem říct...\kel
+
+#KEL puts his hand behind his head.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Víš co, řeknu ti to na rovinu, SUNNY.\! <br>Nečekal jsem, že dnes vyjdeš ven, a proto nemám žádný bojový plán.\kel #říká se to tak opravdu? nepamatuju si, že bych tuto frázi někdy slyšel. ale nevím, jak to přeložit, aby to znělo lépe, tak to tak vezmu
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Aha, mám nápad! Půjdeme do \c[11]HOBBEEZ\c[0]!\!<br>To je ten hobby obchod v \c[11]OBCHOĎÁKU\c[0].\kel #náměstí na obchoďák
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Pamatuješ kudy, viď?\!<br>Jako malí jsme tam přece chodili pořád.\kel
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Tak na co čekáme?\kel #jsem si jistý, že tady v ČJ čárka není
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \Com[2]\{JDE SE NA VĚC!!\}\kel #přiroz, přátelětější
+
+#Trigger: Choose [DO NOTHING]
+#Switch to original living room map
+#Walk 3 steps any direction
+
+message_19:
+      text: Aha...\! Dobře... Chápu.\!<br>...\! Tak... alespoň jsem to zkusil...\kel #přiroz
+
+
+# =========================================================================================
+# Cutscene: Scooter Gang
+# =========================================================================================
+
+#Trigger: Enter proximity in Crossroads
+
+
+message_30:
+      text: \{\{\Com[2]UHNĚTE, ŠPRTI!!\who
+
+#The Scooter Gang passes through.
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: To jsou... oni.\!<br>Snad se s nima znova neuvidíme.\kel
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Tahle tlupa jsou jen samé problémy<br> a dneska bych se bez nich nejraději obešel!\kel #banda na tlupa
+
+
+# =========================================================================================
+# Cutscene: This is Hobbeez
+# =========================================================================================
+
+#Trigger: Enter Hobby Shop
+
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tak...\! Zase v \c[11]HOBBEEZ\c[0]!\kel
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Asi už jsi tady nějaký ten pátek nebyl...\! ale popravdě se to ani moc nezměnilo!\kel #nějaký ten pátek
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Pořád ty samý starý věci...\! <br>hry s KAPITÁNEM VESMÍRŇÁKEM, filmy se ZLATÍČKEM, pár \c[13]DOMÁCÍCH KAMÍNKŮ\c[0]...\! akorát, že všechno už je to dneska retro!\kel #přiroz
+
+#KEL has an idea.
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: A...\! Když už jsme tady, asi bych měl něco koupit HEROVI.\! Teď už je na výšce, ale zítra by se měl vrátit na návštěvu.\kel
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Studuje medicínu, tak že bych mu koupil třeba...\!<br>léky?\kel
+
+#KEL puts his hand behind his head.
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Ne, to je otřesný nápad.\kel #zkrášlení
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Co kdybys ten dárek vybral ty, SUNNY?\!<br>Pojďme se podívat, co tady mají!\kel #přiroz
+
+# =========================================================================================
+# Cutscene: Buying Hero's Gift
+# =========================================================================================
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \{\Com[2]POČKEJ, STŮJ, SUNNY!!\}\kel
+
+message_58:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Vím, že už jsi u mě dlouho nebyl, ale teď možná není nejlepší chvíle, he he...\!\kel #křížová výprava proti "heh heh"
+
+
+#Trigger: Examine book in Hobby Shop.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tohle...\! Ano!\! To je dokonalé!\!<br>STARONOVÁ KUCHAŘKA TATÍKA ČIPA!\kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Uf, to je ale název.\kel
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: HERO jednu měl, když jsme byli malí, <br>ale náš pes, HEKTOR, ji roztrhal.\kel
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Ten bude mít takovou radost, až tohle uvidí...\kel
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Ale ještě předtím...\!<br>Se musíme zeptat na tu nejdůležitější otázku!\!<br>Kolik...\! stojí?\kel #blíže orig
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ... \kel
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \Com[2]20 korun!?\! To je ale zlodějina!\kel #tohle bude asi působit směšně, chce to zjistit, jak to tady funguje a změnit částku
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Safra! Nechal jsem peněženku doma...\!<br>Err...\! Půjčil bys mi, SUNNY?\!<br>Pak ti to splatím, slibuju.\kel
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Díky, kámo! Věděl jsem, že na tebe je spoleh!\kel
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hej, PANE PRODAVAČI! Chtěli bychom koupit tuhle kuchařku, prosím!\kel
+
+message_80:
+      text: KELI! Jak se máš?\!<br>Už jsi k nám dost dlouho nezavítal, nemyslíš?\n<PRODAVAČ> #změna všech "shopkeep" na "prodavač
+
+#Pedro hair flip
+
+message_81:
+      text: Á, STARONOVÁ KUCHAŘKA TATÍKA ČIPA!\!<br>To máte skvělý vkus!\n<PRODAVAČ> #přiroz
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Jo, brácha z ní kdysi vařil!\!<br>Ty sušenky byly ze všech nejlepší.\kel #přiroz
+
+message_83:
+      text: Dalšího fanouška TATÍKA ČIPA člověk jen tak často nepodká.\!<br>20 korun prosím!\n<PRODAVAČ> #dolary na koruny a bez čárky
+
+#Currency noise
+message_84:
+      text: Díky, pánové!\! Užijte si ji!\n<PRODAVAČ>
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Fakt díky, SUNNY! HERO si ji určitě zamiluje!\kel
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOd 18 let, jo?\! To je na HERA moc násilné!\! To by se mu určitě nelíbilo.

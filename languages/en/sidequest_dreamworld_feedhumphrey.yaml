@@ -1,0 +1,125 @@
+
+# =========================================================================================
+# Feed Humphrey
+# ========================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36 #replace
+      text: \herZdravím, PANE CENILE! Přišli jsme vás pozdravit!
+
+message_1:
+      text: \jawHERO...\! Opravdu jsi to ty?
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38 #replace
+      text: \herAno, zajisté!\! Jak se vám daří?
+
+message_3:
+      text: \jawPodnikání je na tom bídně, HERO...\! \quake[1]Opravdu bídně.\quake[0]
+
+message_4:
+      text: \jawOde dne, cos odešel, začalo všechno jít do kytek.\!<br>Investoři s náma sekli, stavba se úplně zasekla a ztrácíme zákazníky na všech frontách!
+
+message_5:
+      text: \jawVšechna tato znamení mě vedou ke stejnému závěru! <br>\!Tohle není ta cesta, po které jsem se měl ve svém životě vydat...
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39 #replace
+      text: \herTo neříkejte, PANE CENILE!\!<br>Vždyť jste nejlepší...\! a zároveň jediný šéf, kterého jsem kdy zažil!
+
+message_7:
+      text: \jawNemysli si, že bych se schválně srážel, nebo tak něco.\!<br>Život mi jen ukazuje, co pro to!
+
+message_8:
+      text: \jawMám spoustu jiných úspěšných podniků, ale...\! <br>\c[11]KONEČNÁ\c[0] byla mojí jedinou opravdovou vášní, víš?
+
+message_9:
+      text: \jawAno...\! Už jsem se definitivně rozhodl...<br>\!Je na čase odstoupit.
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]Počkat, PANE CENILE!\! Nemůžete se vzdát své-
+
+message_11:
+      text: \jawNa, HERO...\!<br>Tohle máš za všechno, cos pro mě udělal.
+
+message_12:
+      text: Získal jsi \c[4]OBŘÍ ŠEK\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47 #replace
+      text: \herEhm!\! Dobře, tedy.\! Vřele vám děkuji.
+
+message_14:
+      text: \jawJe tady...\! ještě něco.\!<br>HERO,\| Chci...\| aby ses \c[11]KONEČNÉ\c[0] ujmul ty.
+
+message_40:
+      text: \n<KROKOĎÁK>Zde máte kravatu, šéfe.
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]C-Cože?\! Jste si jistý?\! Vždyť je mi jen patnáct!
+
+message_16:
+      text: \jawHERO!\! S ničím jsem si v životě snad jistější nebyl!\! Tohle neříkej ostatním, ale...\! vždy jsi byl můj oblíbenec.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \herPANE CENILE...
+
+message_18:
+      text: \jawHehe...\! a tímto je vše vyřešeno.\!<br>Je tady však...\! jedna poslední věc, kterou bych potřeboval udělat.
+
+message_19:
+      text: \jaw\{\sinv[1]\Com[2]JEDE SE NA DOVOLENOU!!\sinv[0]
+
+message_20:
+      text: \jawStarej CENIL si konečně užije trochu srandy!\!<br>Jednou se ještě uvidíme! Ne, abych ti chyběl, HERO!
+
+message_28:
+      text: \jaw\Com[2]\Sinv[2]\{\{CEHEHE\{HEHEHE\{HEHEHE!!\Sinv[0]
+
+
+#Talk to Humphrey
+
+message_21:
+      text: \hum\sinv[1]Áááááááá...\! To byl tak příjemný šlofík.\!<br>A bolest bříška je ta tam.\! Ale pořád mám \quake[1]tak...\| velký...\| hlad...
+
+message_22:
+      text: \hum\sinv[1]Hej, hej, hej!\sinv[0]\! Cítím cosi naprosto vynikajícího!\! Není to náhodou ten \c[4]OBŘÍ ŠEK\c[0], co tam máte?\!<br>Mohl bych...\! možná...\! maličko ochutnat?
+
+#[Nod/Shake]
+#[Nod]
+message_23:
+      text: Dal jsi BENDOVI HERŮV \c[4]OBŘÍ ŠEK\c[0]...
+
+message_24:
+      text: \hum\sinv[1]\{VYYYYNIIIII...\{\Com[2]KA-JÍ-CÍ!!\sinv[0]\}
+
+#BENDA opens his mouth and burps
+
+message_25:
+      text: \hum\sinv[1]Tak tomuhle říkám pořádný servis!\sinv[0]
+
+#BENDAS stomach gurgles
+
+message_26:
+      text: \humA... Je to!\! Tak teď, když jsem konečně sytý <br>, bych měl být vevnitř zase v běžném pořádku...
+
+#note: Humphrey becomes re-accessible as a map
+
+#[Shake]
+
+message_27:
+      text: \humAch...\! Vždyť vypadá tak mňamózně...
+
+
+message_29:
+      text: \humAch...\! skoro...\! \quake[1]Ňak, ňak...\quake[0]

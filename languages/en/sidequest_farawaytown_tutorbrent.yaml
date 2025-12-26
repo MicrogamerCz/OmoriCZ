@@ -1,0 +1,154 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Brent
+# =========================================================================================
+
+#Examine and take Math Tutor Flyer:
+
+message_0:
+      text: Na zdi visí nabídka brigády.\! Chceš si ji přečíst?
+
+#Yes/No
+
+#If Yes
+
+message_1:
+      text: “HLEDÁME POMOC S DOUČOVÁNÍM!\! Hledáme matimaticky zdatného doučovatele pro mého syna BRENTA!\! $20,00 na den!\! V případě zájmu prosím doneste tento leták na naši adresu!”
+
+message_3:
+      text: Chceš strhnout \c[4]ZELENÝ LETÁK\c[0] ze zdi?
+
+#yes/no
+
+#yes
+message_4:
+      text: Na zadní straně je nakreslena cesta k domu.
+
+#show map
+
+#Examine Brent's House Door:
+message_5:
+      text: \n<ŘEDITELKA ŠKOLY>Zdravím! Jak vám mohu pomoci?
+
+message_100:
+      text: Dal jsi ŘEDITELCE ŠKOLY \c[4]ZELENÝ LETÁK\c[0].
+
+message_101:
+      text: \n<ŘEDITELKA ŠKOLY>Á, už to chápu! Vy jste tady na to doučování, viďte?!
+
+message_6:
+      text: \n<ŘEDITELKA ŠKOLY>Hmm...\! Koukám, že je vás tady celkem dost, ale za mě vypadáte docela důvěryhodně...
+
+message_7:
+      text: \n<ŘEDITELKA ŠKOLY>Možná vám to půjde líp, když dáte hlavy dohromady, kdo ví...\! V tom případě si ale budete muset rozdělit odměnu! Hahaha!
+
+message_8:
+      text: \n<ŘEDITELKA ŠKOLY>Pojďte prosím dál.\! BRENT už na vás čeká nahoře v pokoji.
+
+message_200:
+      text: \n<ŘEDITELKA ŠKOLY>Mějte se jako doma!\! BRENT na vás čeká ve svém pokoji.
+
+#Talk to BRENT
+
+message_9:
+      text: \n<CHYTROLÍN>Ahoj, vy jste ti moji noví doučovatelé, že?\!<br>Rád vás poznávám. Já jsem BRENT.\!<br>Začneme rovnou?
+
+message_10:
+      text: \n<CHYTROLÍN>Dobře. Tady tenhle pracovní sešit mi dává nejvíc zabrat.
+
+message_11:
+      text: \n<CHYTROLÍN>Pomůžete mi s ním?
+
+#MATH WORKSHEET
+
+message_12:
+      text: \n<CHYTROLÍN>Tenhle příklad mi nejde do hlavy.
+
+message_13:
+      text: 4 x 51 =
+
+message_14:
+      text: A) 244
+
+message_15:
+      text: B) 204
+
+message_16:
+      text: C) 404
+
+message_17:
+      text: \n<CHYTROLÍN>A co s tímhle?
+
+message_18:
+      text: 5 x 3 + 15 - 1 + 6 / 2 =
+
+message_19:
+      text: A) 32
+
+message_20:
+      text: B) 33
+
+message_21:
+      text: C) 34
+
+message_22:
+      text: \n<CHYTROLÍN>Nejtěžší mi přijde tenhle.
+
+message_23:
+      text: -3x + 4 = 7x + 24. Kolik se rovná "x"?
+
+message_24:
+      text: A) 2
+
+message_25:
+      text: B) 2.8
+
+message_26:
+      text: C) -2
+
+message_1000:
+      text: NÁHODNÁ MOŽNOST
+
+#Correct choice:
+
+message_27:
+      text: \n<CHYTROLÍN>Aha...\! \sinv[1]Chápu...\sinv[0]\! Už tomu rozumím!
+
+#Incorrect choice:
+
+message_28:
+      text: \n<CHYTROLÍN>Hmm...\! Není správně 32?
+
+message_29:
+      text: \n<CHYTROLÍN>Hmm...\! Byl jsem si jistý, že to je 204!
+
+message_30:
+      text: \n<CHYTROLÍN>Ohh...\! Myslel jsem, že je správně -2...
+
+message_31:
+      text: \n<CHYTROLÍN>He he...\! Vy mě zkoušíte, že?\!<br>Takhle mi zlepšujete vlastně i kritické myšlení!\!<br>Ty jo...\! Vy jste ale chytří...
+
+#After completing Math WORKSHEET
+
+message_32:
+      text: \n<CHYTROLÍN>Uf...\! Jsem na tom o dost líp, než předtím...\! Díky moc!
+
+#After completing Math WORKSHEET
+
+message_33:
+      text: \n<ŘEDITELKA ŠKOLY>Ahoj, BRENTE! Tak jak to jde?
+
+message_34:
+      text: \n<ŘEDITELKA ŠKOLY>Á! Koukám, že už máte hotovo!
+
+message_35:
+      text: \n<ŘEDITELKA ŠKOLY>Skvělá práce, doučovatelé...\! Tady máte odměnu za vaši pomoc!
+
+message_36:
+      text: \n<ŘEDITELKA ŠKOLY>Určitě dorazte i zítra!
+
+message_37:
+      text: \n<ŘEDITELKA ŠKOLY>Zdravím.\! Jste tady na to doučování?\! Ne? Tak nic...
+
+message_50:
+      text: Uff...\! Matematika...

@@ -1,0 +1,58 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Perfectheart and Sweetheart (Post-Game)
+
+#Sweetheart: sweeping with maid outfit
+message_0:
+      text: \swh\Com[2]Na co čumíte vy čtyři!?
+
+message_1:
+      text: \n<DOKONALÍČKO>Učím ZLATÍČKO domácí práce!\!<br>Zvládá to...\! svým vlastním tempem...\! byla by z ní celkem hezká služka, nemyslíte? Hoho!
+
+message_2:
+      text: UNUSED MESSAGE
+
+message_3:
+      text: \n<DOKONALÍČKO>Ano, ano! Že je ta ze všech nejhezčí?
+
+message_4:
+      text:  \n<DOKONALÍČKO>Viď, ZLATÍČKOŠTĚ??\! OHOHOHO!
+
+message_5:
+      text: \n<ZLATÍČKOŠTĚ>\Com[2]Ts!
+
+#Talk again
+
+message_6:
+      text: \n<DOKONALÍČKO>Cože?\! Tak ty mě vyzíváš na souboj?\!<br>Ale...\! To nechceš...\! Jsi si jistý?
+
+#[Nod/Shake 1]
+
+#[nod 1]
+message_7:
+      text: \n<DOKONALÍČKO>Aha...\! Tak takhle...\! Myslím, že by bylo fér, kdybych tě varovala...\! Takže...\! Se ptám ještě jednou...\!<br>Jsi si opravdu jistý, že mě chceš vyzvat?
+
+#[Nod/Shake 2]
+
+#[nod 2]
+message_8:
+      text: \n<DOKONALÍČKO>Jsi si opravdu opravdu jistý?
+
+#Nod/Shake 3]
+message_9:
+      text: \n<DOKONALÍČKO>... \!<br>Tak budiž...\! Je-li tohle, co si přeješ.\!<br>Nebudu se krotit.
+
+#Shake
+message_10:
+      text: \n<DOKONALÍČKO>Ano...\! To je moudré rozhodnutí.
+
+#Defeating Perfectheart
+message_11:
+      text: \n<NEDOKONALÍČKO>Hmmm...\! Gratuluji.\! Vyhráli jste.\! Tím pádem už asi nejsem nadále dokonalá. \!Škoda, nemyslíte?
+
+#Submersible Karaoke
+
+message_12:
+      text: \spxh\Com[2]Všichni ztracení milenci...\!<br>Tahle...\! je pro vás.

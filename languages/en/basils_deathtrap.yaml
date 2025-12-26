@@ -1,0 +1,524 @@
+# =========================================================================================
+# Cutscene: BASIL's DEATHTRAP DIALOGUE
+# =========================================================================================
+
+#Talk to Basil
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basOMORI!
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \bas...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basVážně...\! jsi to ty!\!<br>Ještě, že jsi tady... Hned se mi ulevilo. #blíže orig
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basSnažil jsem se najít cestu ven...\! ale je to tady obrovské.\!<br>Pořád jsem se jen ztrácel... a tak jsem to...<br>prostě vzdal... #blíže orig
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basPromiň...\! Možná jsem se měl víc snažit...
+
+message_5:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basCelou dobu jsem se tady bavil tím, že jsem si projížděl své \c[4]FOTOALBUM\c[0]...
+
+message_6:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basVždy, když jsem se bál, tak jsem se podíval na všechny naše společné vzpomínky...
+
+message_7:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basVěděl jsem, že mě přijdeš zachránit, OMORI!<br>Jsi přece můj nejlepší kamarád!
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basUrčitě se odsud dostanu, teď když jsi tady se mnou!\!
+
+message_9:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basVypadá to tady sice nebezpečně, ale... věřím ti...
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basJdu za tebou, OMORI!
+
+# =========================================================================================
+# Cutscene: GOOD/BAD ROUTE: Lost Forest Progression
+# =========================================================================================
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basVíš, OMORI...\! Napadlo mě...\!<br>Nevíš ty náhodou, jak jsem se sem dostal?
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basSnažil jsem si to vybavit, ale nepovedlo se...\!<br>Myslím...\! Že jsem se díval na fotku...\!<br>Fotku nějakých \quake[1]\fn<OMORI_GAME>rozbitých houslí... #basil si tady zřejmě není jistý, přidávám nějakých
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basNebo...\! hmm...\! Nezdálo se mi to jenom?\! Sám nevím... #přirozenější
+
+message_23:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basAha...\! Vlastně tam myslím bylo ještě něco...
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHmm...\! to...\! to ale asi nic.\!<br>Pospěšme si rychle odsud!
+
+# =========================================================================================
+# Cutscene: Upon entering/respawning with BASIL at the Stump Arena
+# =========================================================================================
+
+message_29:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAhoj OMORI... #Basil zde Omoriho zjevně zdraví
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basNecítil jsem se tady bezpečně, proto jsem se schoval... Mám takovou radost, žes mě našel zrovna ty.
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basJak se jinak všichni mají?\!<br>Snad jste se o mě moc nebáli...\!<br>Nemůžu se dočkat, až se s nima zase uvidím!
+
+# =========================================================================================
+# Cutscene: Upon entering Forest Stump.
+# =========================================================================================
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basV-Víš...\! OMORI...\! Přemýšlel jsem nad tím, a...\! Musím ti něco říct...\!<br>Vyslechl bys mě?
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOMORI...?
+
+# =========================================================================================
+# Cutscene: Upon entering Hallway Stump.
+# =========================================================================================
+
+message_50:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basJsi v pořádku, OMORI?\! Chováš se jaksi divně...
+
+message_51:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basStalo se něco, když jsem byl pryč?
+
+# =========================================================================================
+# Cutscene: Upon entering Spider Stump.
+# =========================================================================================
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basVíš...\! Promiň, že to na tebe teď vytáhnu, ale...\!<Br>Poslední dobou mi něco nedá pokoj...
+
+message_61:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basNěco...\! umm...\! ohledně MARI...\!<br>Víš, o čem mluvím, ne?
+
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basAu!\! Je tady tolik brouků...\! Vůbec se mi tohle nelíbí... #přirozenější
+
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAu!\! To hrozně bolí...\! Myslím, že mě koušou!\! Au! Nemůžu je ze sebe dostat!
+
+message_64:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basJe jich tady na mě moc! Zakousávají se do mě! OMORI! Pomoc!!
+
+# =========================================================================================
+# Cutscene: Watermelon Stump
+# =========================================================================================
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basOMORI...\! Ne...\! Neztratil ses?<br>To... To je v pořádku, neboj, já tě nebudu soudit!
+
+# =========================================================================================
+# Cutscene: Upon entering Dark Hand Stump.
+# =========================================================================================
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basP-Počkej...\! Já...\! Promiň, OMORI.\!<br>Poslední dobou se... necítím moc dobře.
+
+message_81:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basNěco se děje...\!<br>Musím ti něco říct...\!<br>Prosím...\! OMORI...\! poslechneš si mě?
+
+# =========================================================================================
+# Cutscene: Upon entering Raft Stump.
+# =========================================================================================
+
+message_90:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOMORI...\|\^ Vůbec se mi tohle nelíbí...\|\^<br>Nepřipadá mi to tady moc bezpečné.\|\^ #blíže orig
+
+message_91:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basAle...\|\^ aspoň, že jsem tady s tebou.\|\^ Haha...\|\^
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basVlastně...\|\^ poslední dobou nedokážu přestat nad něčím přemýšlet...\|\^<br>Vyslechl by sis mě?\|\^
+
+# =========================================================================================
+# Cutscene: Upon entering Elevator Stump.
+# =========================================================================================
+
+message_100:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basVýtah?\! To by mě zajímalo, kam by mohl jet.\! Možná by nás mohl závest zpátky domů!
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basV-Vlastně...\! když už jsme tady...\!<br>Mohl bych ti něco říct?\! OMORI?
+
+# DING SFX
+
+message_102:
+      text: Kam bys chtěl jet?
+
+message_103:
+      text: JINOSFÉRA
+
+message_104:
+      text: ROZLEHLÝ LES
+
+message_105:
+      text: VESNICE KLÍČKOKRTKŮ
+
+message_106:
+      text: HLUBOKÁ STUDNA
+
+message_111:
+      text: ČERNÝ PROSTOR
+
+# Aftermath
+
+message_107:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basPočkej, OMORI.\! Asi... jsem se zasekl.
+
+message_108:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basMohl bys mi prosím pomoct?
+
+#
+
+message_109:
+      text: \basHnnn...\| Gggg...\| Huahhh...\| O... MORI...
+
+# =========================================================================================
+# Cutscene: Upon entering Mercy Stump.
+# =========================================================================================
+
+message_110:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOMORI...\! Tady to nevypadá moc bezpečně...\!<br>Že bychom zkusili najít nějakou jinou cestu ven?...
+
+# =========================================================================================
+# Cutscene: Upon entering Friends Stump.
+# =========================================================================================
+
+message_120:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basOMORI...\!<br>Chtěl bych ti něco říct...\!<br>Pořád mi něco straší v hlavě...
+
+message_121:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basJsme tam já a ty, my dva...\! a...\! stojíme...\!<br>Stojíme vedle sebe... #jasnější, že je to jeho vidina
+
+message_122:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas...\! a MARI...\! MARI je tam s náma taky,...\! ale... #viz výše
+
+#HERO walks in the screen
+
+#Basil exclamation mark icon
+
+message_123:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHERO! Jsi to ty?!\! Copak tady děláš?
+
+message_124:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basDívej, OMORI! HERO je tady taky!\! Pojďme za ním!
+
+#FOLLOW HERO
+
+message_125:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basKELI!\! AUBRY!\! Já vás tak rád vidím!!
+
+message_126:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basJak jste se měli?\! Chyběl jsem vám? Hehe...
+
+#Aubrey and KEL do their tag poses.
+
+message_127:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basP-Počkejte...\! Co...\! Co to děláte?
+
+message_128:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOMORI!--
+
+#Screen goes black.
+
+# =========================================================================================
+# Cutscene: Upon entering RED SPACE
+# =========================================================================================
+
+message_134:
+      text: Prst.
+
+#Stump exit
+
+message_130:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOMORI...\! Jsi nějaký... chladný...\!<br>Nezlobíš se na mě?
+
+message_131:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\{\Com[2]AAAAA! \Com[2]CO SE TO DĚJE!?
+
+message_132:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]\{OMORI!!\! POMOŽ MI!!!
+
+#Talk to Basil
+
+#Repeat message_132
+
+message_133:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]\{PROSÍM!!!!
+
+#OMORI CUTS BASIL
+
+
+# =========================================================================================
+# Cutscene: Upon entering Black Space Entrance.
+# =========================================================================================
+
+message_140:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basJe tohle východ?\! To byla teda rychlovka... haha...\!
+
+message_141:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basJsem tak rád, že jsi můj kamarád, OMORI.\!<br>Ty dokážeš vždycky všechno vyřešit...\!<br>To na tobě opravdu obdivuju.
+
+message_142:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basVíš, OMORI...\! Vlastně...\! Promiň, ale...\!<br>Než odejdeme, je tady...\! umm...
+
+message_143:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basChtěl bych ti něco říct...
+
+message_144:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basJe to...\! o MARI...
+
+#Spotlight on Exit disappears
+
+message_145:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]C-Cože?\! Co je stalo!?\! \Com[2]T-Ten východ zmizel!
+
+message_146:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basNe...\! OMORI...\!<br>Copak si teď počneme?
+
+#When OMORI talks to BASIL, he CUTS him instead.
+
+message_147:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basO-OMORI... !
+
+message_148:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basO-OMORI, pomož mi!
+
+# =========================================================================================
+# NEUTRAL ROUTE: Upon entering Black Space Entrance.
+# =========================================================================================
+
+message_150:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHele, východ!\! Konečně jsme venku, OMORI!
+
+message_151:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basPojďme! Všichni na nás čekají!
+
+#INSIDE THE TREEHOUSE
+
+message_160:
+      text: kočka
+
+message_161:
+      text: toust
+
+message_162:
+      text: hračka
+
+message_163:
+      text: hra
+
+message_164:
+      text: televize
+
+message_165:
+      text: kniha
+
+#---
+
+message_166:
+      text: datum
+
+message_167:
+      text: toust?
+
+message_168:
+      text: zábava
+
+message_169:
+      text: karty
+
+message_170:
+      text: tíha
+
+message_171:
+      text: vaření
+
+#---
+
+message_172:
+      text: léto
+
+message_173:
+      text: kamarád
+
+message_174:
+      text: pryč
+
+message_175:
+      text: sušenky
+
+message_176:
+      text: kel
+
+message_177:
+      text: klika
+
+#---
+
+message_180:
+      text: \n<MARI?>Rozšiř svou mysl, OMORI!
+
+message_181:
+      text: \n<MARI?>Rozšiř!
+
+message_182:
+      text: \n<MARI?>Rozšiř svou mysl!
+
+message_183:
+      text: \n<MARI?>Rozšiř, OMORI!
+
+message_184:
+      text: \n<MARI?>\fn<OMORI_GAME>Rozšiř...
+
+message_185:
+      text: \n<MARI?>\}\}\fn<OMORI_GAME>Rozšiř...
+
+message_186:
+      text: \n<MODRODÍVKA>Nemluv se mnou.
+
+message_187:
+      text: \n<MODROMRAK>Běž za mrakem!
+
+message_188:
+      text: Vzhůru nohama.
+
+message_189:
+      text: \n<SKELE>Tancuj, kůže! #BLADE RUNNER REFERENCE ??!?!??!?!?!?!?1?!?!1?!1?!1
+
+message_190:
+      text: Pořádně sis zdříml.

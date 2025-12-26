@@ -1,0 +1,99 @@
+#==================================================================
+
+#KEL ERRANDS
+
+#==================================================================
+#PIZZA
+#==================================================================
+
+message_0:
+      text: \n<PIZZAŘ>Vítejte v \c[11]GINOVĚ PIZZERII\c[0]!\!<br>Co to bude?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelDobrej! Přišel jsem vyzvednout objednávku!
+
+message_2:
+      text: \n<PIZZAŘ>Aha!\! A jakou?\!<br>No...\! Nechtěl byste...\! pizzu?\! Mňam mňam...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelMamka dneska ráno objednala \c[3]HERO SANDWICH\c[0]!\! Já ho mám jenom vyzvednout.
+
+message_4:
+      text: \n<PIZZAŘ>Jo...\! Tak takhle...\! Vy jste ta rodina, co si pořád objednává sandwiche...\! a ne pizzu...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelAle...\! je to...\! přece na menu, ne snad?
+
+message_6:
+      text: \n<PIZZAŘ>Hmm...\! jo...\! máš recht...\! Asi...
+
+message_7:
+      text: \n<PIZZAŘ>Dobře! Hned to bude!
+
+#KEL turns to PLAYER.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVíš...\! Nevím, jestli jsem ti tohle ještě neříkal, ale proto má můj brácha přezdívku HERO...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelMožná bys čekal že ji má protože by udělal kdysi něco hustýho, nevím, třeba zachránil šťenátko...\! ale ne...\!<br>Prostě miluje sandwiche!
+
+message_10:
+      text: \n<PIZZAŘ>Tak tady je ten váš \c[3]HERO SANDWICH\c[0].\! Dobrou chuť!
+
+#KEL turns to PIZZA MAN.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSuper, díky!
+
+#KEL turns to PLAYER.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelTak, teď už můžeme zpátky, SUNNY!\!<br>Jen si řekni až budeš chtít jít!
+
+#==================================================================
+#BAKERY
+#==================================================================
+
+message_20:
+      text: \n<PAN PEKAŘ>Vítejte v naší rodinné pekárně! Co byste si přáli?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelDobrej! Přišel jsem vyzvednout objednávku!
+
+message_22:
+      text: \n<PAN PEKAŘ>Hmm...\! Vlastně ano!\! Vaše matka říkala, že přijdete... no, i když jsem čekal, že o trochu dřív.\! Nevadí, hned jsem zpátky!
+
+#MR. BAKER walks into door and then walks back out.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVěděls, že tahle pekárna patří MICHAELOVÝM rodičům?\!<br>No, nejde to moc poznat, protože pořád na hlavě nosí tu jeho otřesnou blonďatou paruku...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelJá bych řekl, že se až moc snaží vyčnívat!
+
+message_25:
+      text: \n<PAN PEKAŘ>Tady je Vaše objednávka!\! Dobrou chuť a nashledanou!
+
+#message 11
+#message 12

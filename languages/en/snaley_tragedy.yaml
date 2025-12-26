@@ -1,0 +1,126 @@
+# =========================================================================================
+# ** ŠNEČEK Arc 1 - Construction
+# =========================================================================================
+
+message_0:
+    text: \n<ŠNEČEK>Přátelé, rád vás opět vidím!\! Skvělé počasí, že?
+
+message_1:
+    text: \n<ŠNEČEK>Vypadáte velmi silně. A já bych taky chtěl být velmi silný!\! Pomůžete mi?
+
+#YES
+message_2:
+    text: \n<ŠNEČEK>Tak to se budu pořádně snažit!
+
+#NO
+message_3:
+    text: \n<ŠNEČEK>Ale já bych chtěl být silný, stejně jako vy...
+
+#let him live
+
+message_4:
+    text: \n<ŠNEČEK>Ty jo, vy to máte vážně na háku!\! Na oplátku si vemte tohle \c[3]KAFE\c[0]!\! Dostal jsem ho od mých kamarádů, a teď je vaše!
+
+message_5:
+    text: \n<ŠNEČEK>A nyní zalezu do této hrozivě vypadající jeskyně a budu trénovat svou mysl a své tělo.\! Až se znovu potkáme, budu zase o něco silnější!
+
+# =========================================================================================
+# ** ŠNEČEK Arc 1 - Cave
+# =========================================================================================
+
+
+message_6:
+    text: \n<ŠNEČEK>Přátelé, rád vás opět vidím!\! Skvělé počasí, že?
+
+message_7:
+    text: \n<ŠNEČEK>Od našeho posledního setkání jsem nabyl dost na síle.\! Mohl bych si na vás vyzkoušet své nové schopnosti?
+
+message_9:
+    text: \n<ŠNEČEK>Díky! Cítím se zase o něco silněji...\! Na oplátku si vemte tohle \c[3]KAFE\c[0]!\! Dostal jsem ho od mých kamarádů, a teď je vaše!
+
+message_10:
+    text: \n<ŠNEČEK>A nyní přejdu přes tento nebezpečně vypadající most, abych mohl své \c[1]DOVEDNOSTI\c[0] dále hnát k dokonalosti.\! Až se znovu potkáme, budu zase o něco silnější!
+
+# =========================================================================================
+# ** ŠNEČEK Arc 1 - Bridge
+# =========================================================================================
+
+message_11:
+    text: \n<ŠNEČEK>Přátelé, rád vás opět vidím!\! Skvělé počasí, že?
+
+message_12:
+    text: \n<ŠNEČEK>Má mysl a tělo jsou v dokonalé harmonii. Taky jsem se naučil svou ultimátní \c[1]DOVEDNOST\c[0]!\! Myslím, že tohle si vyžaduje další zkoušku.\! Nemyslíte snad?
+
+
+# =========================================================================================
+# ** ŠNEČEK Arc 1 - Bridge
+# =========================================================================================
+
+
+message_16:
+    text: Získal jsi \c[3]KAFE\c[0]!
+
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 1
+#----------------------------
+
+message_21:
+   text: >
+    \>ŠNEČEK: \<Wow! My first battle!\! Here I come!
+
+message_22:
+    text: >
+     \>ŠNEČEK: \<Battles are harder than they look...\! I gotta try harder!
+
+message_23:
+    text: >
+     \>ŠNEČEK: \<Sigh...\! I don't know if I'm cut out for this...
+
+message_24:
+    text: >
+     \>ŠNEČEK: \<Okay, please stop! That's enough!
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 2
+#----------------------------
+
+message_25:
+    text: >
+     \>ŠNEČEK: \<I taught myself some \c[1]SKILLS\c[0] since our last battle!\! You'd better watch out!
+
+message_26:
+    text: >
+     \>ŠNEČEK: \<\sinv[1]Wasn't that cool!?\sinv[0] I'm awesome!
+
+message_27:
+    text: >
+     \>ŠNEČEK: \<I can do \c[1]FOLLOW-UP SKILLS\c[0] too! Watch this!
+
+message_28:
+    text: >
+     \>ŠNEČEK: \<How was that!?\! One of these days, I'll be as strong as you!
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 3
+#----------------------------
+
+message_29:
+    text: >
+     \>ŠNEČEK: \<I'd bet I'm almost as strong as you now!\! You'd better take this seriously!
+
+message_30:
+    text: >
+     \>ŠNEČEK: \<Heh! You aren't the only ones who can use EMOTIONS!
+
+message_31:
+    text: >
+     \>ŠNEČEK: \<And now it's time for my \sinv[1]\c[1]ULTIMATE SKILL\c[0]\sinv[0]!
+
+message_32:
+   text: >
+    ŠNEČEK is SAD...
+
+message_33:
+   text: >
+    ŠNEČEK is HAPPY!

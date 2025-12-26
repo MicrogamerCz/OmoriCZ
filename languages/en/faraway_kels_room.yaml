@@ -1,0 +1,117 @@
+# =========================================================================================
+# Farawaytown: Kels Room
+# =========================================================================================
+
+#=========================Kels Room==============================
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelDěje se něco, HERO?
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelAha... Už vím...\! Beztak je tady někde nějaký pavouk.\!<br>Neboj, HERO! Na mě je spoleh!
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelKde je ten mrňavej...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kelA-ha! Mám ho!
+
+#*squish SFX*
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelTak a je to, HERO.\! Buď v klidu.\!<br>Už je pryč!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her\}...\! Ukaž mi ho.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCo?\! Řekls něco, HERO?
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \herUkaž mi toho pavouka.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelA jo...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelNa, dívej.\! Vidíš?\! Je mrtvej.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelA teď ho půjdu spláchnout, jo?
+
+#*KEL LEAVES THE ROOM*
+#*Toilet flush SFX*
+#*KEL comes back*
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]A... Jsem zpátky!\sinv[0]\! Což ten pavouk už nikdy nebude!\! Hustý, co?!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ...
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ... ... ... ... ...
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herUff...\! Ještě že tak...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHERO...\! Zdá se mi, že se ten tvůj strach z pavouků časem zhoršil...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelVážně by ses na něm měl pokusit zapracovat!\! Co kdyby se tady nějaký objevil a já byl zrovna pryč?
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: \herAhh... M-Myslíš, že by se to mohlo stát? #citoslovce
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelBrácho...\! Teď se tady cítím já jako ten starší!

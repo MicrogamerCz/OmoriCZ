@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Slimegirls: Marina's Body
+# ========================================================================================
+
+#Talk to Marina:
+
+message_0:
+      text: \n<MARINA>\Com[2]Zatraceně!\!<br>Já věděla, že jsem tamtomu ZLATÍČKU neměla věřit.\!<br>Jak mám teď sakra odchytnout všechny ty rozuteklé pokusné králíky?!
+
+message_1:
+      text: \n<MARINA>Ale...\! Co už...
+
+message_2:
+      text: \n<MARINA>Aspoň si ZLATÍČKO vyžere, co si navařila...\! \quake[1]Kikiki~\quake[0]
+
+message_3:
+      text: \n<MARINA>Hele, vás si pamatuju!\! Ještě se na mě zlobíte, kvůli tomu včerejšímu mecheche s nohama a rukama?\! Ééé...\! Nebrala bych si to tolik osobně.<br>Jen jsem měla zrovna blbou chvíli.
+
+message_4:
+      text: \n<MARINA>Potřebovala bych sehnat nějaké hodně kvalitní MASO.<br>\!Třeba \c[4]MYŠÍ MASO\c[0], to by bylo perfektní!
+
+message_5:
+      text: \n<MARINA>Možná, byste mohli zkusit ulovit nějaké ty MYŠI LABORATORNÍ, co tady všude pobíhaj...\! To snad zvládnete, ne?
+
+#Talk to Marina with Rat meat: Cutscene: Marinas Body forms
+
+message_6:
+      text: \n<MARINA>\Com[2]Ty brďo! Vy jste mi fakt přinesli \c[4]MYŠÍ MASO\c[0]?\!<br>Vy děcka nejste vůbec špatný!\! Možná vás dokonce odsud nechám odejít živé!
+
+message_7:
+      text: \n<MARINA>S tímto konečně můžu získat zpět své tělo! \quake[1]Kikiki~\quake[0]
+
+#FADE IN FADE OUT WITH SFX
+
+message_8:
+      text: \n<MARINA>\sinv[1]Ááááááááá...\! To bylo skvělé protažení...\!<br>To je ale skvělé, mít zase zpátky své končetiny~\sinv[1]
+
+message_9:
+      text: \n<MARINA>Cože?\! Na co čumíte?\!<br>Aha, vlastně.\! Když ti někdo pomůže, tak se mu vlastně máš nějak odvěčit, ne?\! Tak dobře...
+
+#Marina burps
+
+message_10:
+      text: \n<MARINA>Hmm...\! Tady. Vemte si tohle. \quake[1]Kikiki~\quake[0]
+
+message_11:
+      text: Získal jsi \c[13]PRST\c[0]!
+
+message_12:
+      text: \n<MARINA>A teď jsme si kvit!
+
+#Quest complete
+
+#After-Quest Dialogue:
+
+message_13:
+      text: \n<MARINA>Konečně se můžu vrátit ke svým experimentům!\!<br>Kde jsem nechala tu motorovku~? \quake[1]Kikiki~\quake[0]

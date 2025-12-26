@@ -1,0 +1,60 @@
+# =========================================================================================
+# Delivery for Brother
+# ========================================================================================
+#Talk to Family Mole 1
+
+message_1:
+      text: \n<BRATR KRTEK>Hej, vy tam!\! Vypadáte, jako ostřílení cestovatelé...\! Byli byste mi ochotni pomoct?\! Můj brácha bydlí v té \c[11]KOLONII KLÍČKOKRTKŮ\c[0] v \c[11]JINOSFÉŘE\c[0].
+
+message_2:
+      text: \n<BRATR KRTEK>Chtěl bych mu poslat \c[4]KŘEHKOU ZÁSILKU\c[0], ale...\! Bojím se, že by se ztratila.\! Mohli byste ji mu doručit?
+
+#[Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<BRATR KRTEK>Děkuji, podivné bytosti!\!<br>Jsem si jistý, že si toho bude vážit.\! Tady ji máte.
+
+message_4:
+      text: Získal jsi \c[4]KŘEHKOU ZÁSILKU\c[0].
+
+message_16:
+      text: \n<BRATR KRTEK>Zajistěte, že se k němu bezpečně dostane!
+
+#[Shake]
+message_5:
+      text: \n<BRATR KRTEK>Aha, rozumím...\! Tak dobře...
+
+#Talk to Sprout Mole 1
+
+message_6:
+      text: \n<BRATR KRTEK>Co?\! Že pro mě máte balíček?
+
+message_7:
+      text: Dal jsi BRATRU KRTKOVI \c[4]KŘEHKOU ZÁSILKU\c[0].
+
+message_8:
+      text: \n<BRATR KRTEK>...\! Hele, je od mého bratra!\!<br>Ty jo, uvnitř je 99 kousků \c[3]TOFU\c[0]! To je ten nejlepší dárek, co jsem kdy dostal!\!<br>Fňuk... On ví, jak na mě...
+
+message_9:
+      text: \n<BRATR KRTEK>Díky za doručení!\!<br>Víte, tohle jsem si šetřil na horší časy...\! ale teď, když mám ten \c[4]KŘEHKÝ BALÍČEK\c[0], ho už nepotřebuju.
+
+message_10:
+      text: Získal jsi \c[3]ŽIVÝ DŽEM\c[0].
+
+message_11:
+      text: \n<BRATR KRTEK>Mmm...\! Srk...\! \c[3]TOFU\c[0]...\! Tak...\! vynikající...
+
+#Quest complete
+
+#After quest dialogue:
+
+#Talk to Family Mole 1
+message_12:
+      text: \n<BRATR KRTEK>Doručili jste ten balíček?<br>\!Je v něm tolik \c[3]TOFU\c[0], že by se z něj dalo žít snad rok!\!<br>Jsem si jistý, že to ocení.\! Kamaráde, už mi tak chybí...
+
+#Talk to Sprout Mole 1
+message_13:
+      text: \n<BRATR KRTEK>Mmm...\! Srk...\! \c[3]TOFU\c[0]...\! Tak...\! vynikající...
+
+message_15:
+      text: \n<BRATR KRTEK>Safra, už mi to \c[3]TOFU\c[0] došlo.

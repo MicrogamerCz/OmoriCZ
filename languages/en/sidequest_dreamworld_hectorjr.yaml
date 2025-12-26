@@ -1,0 +1,105 @@
+
+# =========================================================================================
+# Take my son
+# ========================================================================================
+
+#Collect Hector for Excavation Lv1
+
+
+message_18:
+      text: Našel jsi \c[13]HEKTORA\c[0].
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 23
+      text: \kelAch...\! \c[13]HEKTOR\c[0]?!\! Je tohle možné? Jsi to vážně ty?\!<br>Pojď, \c[13]HEKTORE\c[0]! Šup zpátky do kapsy!\!<br>Jako za starých časů!
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>...\! Ach...\! KELI...\! Můj starý brachu...\! Promiň.\! Obávám se, že se věci změnili a já tě již nemohu doprovázet.\! Víš...
+
+# More pet rocks appear in their holes
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Mám rodinu.
+
+#[HEKTOR JR. hops out of his hole.]
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>\Com[2]Počkej!\! \c[13]HEKTORE MLADŠÍ\c[0]!\! Co děláš?\!<br>...\! Že by ses k nim chtěl přidat?\!<br>Že život je víc, než jen trčet tady?
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Ach, \c[13]HEKTORE MLADŠÍ\c[0]...\! Já...\! Já ti rozumím...\!<br>I já kdysi byl ve tvé situaci.\!<br>Přeji vám mnoho společných dobrodružství!
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Běž za nima, \c[13]HEKTORE ML.\c[0]...\! Šup do jeho kapsy!
+
+message_6:
+      text: Získal jsi \c[13]HEKTORA ML.\c[0].
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Ano...\! Přesně tak.\!<br>Fňuk...\! Hádám, že zde se spolu loučíme.\!<br>Díky, že jsi na mě nikdy nezapomněl, KELI.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>A \c[13]HEKTORE ML.\c[0]...\! Ty na sebe dávej pozor!\!<br>Hlavně nezapomínej na svou rodinu!\! Vždy tady pro tebe budeme.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Doufám, že až se příště potkáme, tak z tebe bude velký, tvrdý šutr!
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelNeboj, HEKTORE!\!<br>Já se o \c[13]HEKTORA ML.\c[0] dobře postarám!
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>O tom nemám pochyby, KELI...\!<br>Jen ho prosím zkus neztratit, jako mě, ano?
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16 #replace
+      text: \kelNeboj...\! Přísahám!
+
+#[Quest Complete]
+#After-Quest Dialogue:
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>\c[13]HEKTORE ML.\c[0]...\! Dávej na sebe pozor!\!<br>Hlavně nezapomínej na svou rodinu!\! Vždy tady pro tebe budeme.
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>Doufám, že až se příště potkáme, tak z tebe bude velký, tvrdý šutr!
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelNeboj, HEKTORE!\!<br>Já se o \c[13]HEKTORA ML.\c[0] dobře postarám!
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HEKTOR>O tom nemám pochyby, KELI...\!<br>Jen ho prosím zkus neztratit, jako mě, ano?
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16 #replace
+      text: \kelNeboj...\! Přísahám!

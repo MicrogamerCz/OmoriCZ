@@ -1,0 +1,628 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Leave
+# =========================================================================================
+
+#Trigger: Enter proximity of Slime Girls Lobby.
+
+#SWEETHEART is walking toward the open elevator.
+
+message_0:
+      text: \{STŮJ!!\!\}<br>Kampak kampak, panenko?\n<MEDÚZA>
+
+message_1:
+      text: Jen chceme zaplatit, miláčku.<br>Copak nevidíš, jak se MARINA vzteká?\n<MOLLY>
+
+message_2:
+      text: \{\quake[1]KDE JSOU MOJE PENÍZE, PANÍ?!?!<br>DEJTE MI MOJE PENÍZE!!!!\n<MARINA>
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Ajaj... Už zase ZLATÍČKO a ty její mořské čarodějnice!\her
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Tak do tohohle se zamotat fakt nehodlám.\!<br>Padáme odsud!\kel
+
+message_5:
+      text: Ani krok, děti.\!<br>Musím vás opravit...\! neboť se vážně mýlíte.\! <br>Nejsme čarodějnice...\! nýbrž ctitelky vědy!\n<MOLLY>
+
+#MEDÚZA turns to MOLLY.
+
+message_6:
+      text: Obávám se, že je to dost časté nedorozumění.\!<br>Lidé mají většinou strach z toho, co nechápou.\n<MEDÚZA> #že by odkaz na pravdu?
+
+message_7:
+      text: Ale..\! vlastně asi chápu, proč si o nás myslí, že jsme čarodějnice...\n<MEDÚZA>
+
+#MEDÚZA turns to MOLLY.
+
+message_8:
+      text: Hele? Proč koukáte všichni na mě?!\n<MARINA>
+
+message_9:
+      text: Ale krom toho tady máme o něco větší problém.\n<MEDÚZA>
+
+#MEDÚZA turns to SWEETHEART.
+
+message_10:
+      text: To je pravda!\! Kam si jako myslíš, že jdeš...\!<br>\sinv[1]ZLATÍČKO, miláčko?\n<MOLLY>
+
+message_11:
+      text: Dlužíš nám velký pytel MUŠLÍ!\n<MARINA>
+
+#SWEETHEART turns to SLIME GIRLS.
+
+message_12:
+      text: \com[2]Ts! Děláte, jako byste byly něčeho takového hodny!\swh
+
+message_13:
+      text: Jediné, co jsem po vás chtěla bylo, abyste mi vyrobili dokonalého partnera...\!<br>ale jediné, co se vám zatím povedlo, bylo mě třikrát zklamat, a to pokaždé jinak!\swh
+
+#SWEETHEART turns to elevator.
+
+message_14:
+      text: A pokud opravdu po těch MUŠLÍCH tak prahnete...\!<br>tak si je vemte od těchle děcek!\swh
+
+message_15:
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+
+#SWEETHEART walks into elevator. Elevator doors close.
+
+message_16:
+      text: \{KAM SI MYSLÍŠ, ŽE JDEŠ?!\n<MARINA>
+
+message_17:
+      text: \quake[1]\{BENDO!\! ZASTAV JI! HNED!!\n<MARINA>
+
+#Screen shakes, and a burp is heard.
+#BENDA appears in front of MARINA.
+
+message_18:
+      text: \sinv[1]Kukykuk!\sinv[0]\! Přišel jsem vám oznámit, že o ZLATÍČKO... jsem se postaral.\n<BENDA> #přiroz
+
+message_19:
+      text: Ještě, že jste si o to řekli!\! Už jsem se bál, že to moc dlouho nevydržím...\n<BENDA> #přiroz
+
+message_20:
+      text: A mimochodem...\! Tohle vás asi nepřekvapí...\! ale ZLATÍČKO s sebou mělo dohromady přesně 0 MUŠLÍ.\!<br>Nula!\! Ani jednu!\n<BENDA>
+
+message_21:
+      text: Což...\! je poměrně nemilé...<br>protože už začínám mít hlad...\! \quake[1]jako vlk...\quake[0]\n<BENDA> #trochu zlověstnější
+
+#MARINA is surprised.
+
+message_22:
+      text: \{TA KRÁVA NÁS PODVEDLA!!\!\}<br>Mě se na ní něco nelíbilo už od začátku.\n<MARINA> #přiroz
+
+#MEDÚZA looks at MARINA.
+
+message_23:
+      text: Hmm... No, zas tak špatně na tom ale nejsme.\!<br>Řekla přece, že by to za ni tyhle děti měli být schopné pokrýt.\n<MEDÚZA>
+
+#MARINA is surprised.
+
+message_24:
+      text: No jo, fakt!\! Tak v tom případě by se to mělo vyrovnat.\n<MARINA>
+
+#MARINA walks up to party.
+
+message_25:
+      text: Co z nich prodáme jako první?\n<MARINA>
+
+#MEDÚZA jumps.
+
+message_26:
+      text: Nebuď takový barbar, MARINO!\!<br>Určitě to myslela tak, že nám ty děcka zaplatí...<br>ne, že bychom je měli prodat!\n<MEDÚZA>
+
+#MOLLY turns to children and walks up.
+
+message_27:
+      text: Takže, miláčci...\!<br>Buďte hodní a dejte nám náš slíbený velký pytel MUŠLÍ!\n<MOLLY>
+
+#KEL, AUBREY, and HERO are nervous.
+
+message_28:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: C-Cože?\! N-No...\! jo...\! vlastně...\!<br>Jen by mě zajímalo...\! Kolik že vám je vlastně dlužna?\kel #ohledně tohohle je doslovný překlad, tato fráze v češtiě moc není
+
+message_29:
+      text: Tak... Spočítejme si to!\n<MOLLY>
+
+#MOLLY turns around. MEDÚZA and MARINA join to discuss.
+
+message_30:
+      text: \}Poplatek za konzultaci... počáteční poplatek... zahajovací poplatek... kontrolní poplatek... poplatek za údržbu... náklady... poplatek za záruku... poplatek za odpad... doprava... spropitné... poplatek za zrušení objednávky... poplatek za poškození... poplatek za pozdní zaplacení...\n<MOLLY> #změna pár položek
+
+#MOLLY turns around.
+
+message_31:
+      text: Tak to mluvíme o častce okolo...<br>\!1000000 MUŠLÍ.\n<MOLLY> #přiroz
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \quake[1]\com[2]\{1000000 MUŠLÍ?!?!\!\}<br>\quake[0]Kde bychom je jako vzali?!\aub
+
+#if you somehow have 634626246329 clams - tato hra mě neustále překvapuje
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \quake[1]\com[2]\{1000000 MUŠLÍ!?!?\!\}<br>\quake[0]To vám nemůžeme jen tak dát!\aub #přiroz
+
+message_33:
+      text: ...\! Vážně?\n<MOLLY>
+
+message_34:
+      text: ...\. ...\. ... \n<MEDÚZA>
+
+message_35:
+      text: ...\. ...\. ...\. ...\. ... \n<MARINA>
+
+message_36:
+      text: Tak...\! To je opravdu smůla.\n<MOLLY>
+
+message_37:
+      text: \quake[1]\Com[2]\{BENDO!!\! UZAVŘI VÝCHODY!!!\n<MARINA>
+
+
+#Lights go off. When returned SLIME GIRLS are in their battle sprites.
+
+message_39:
+      text: To je opravdu smůla, děti...\! Vkročili jste do špatné velryby.\n<MARINA>
+
+message_40:
+      text: Někdo to zaplatit musí.\n<MARINA>
+
+#MARINA walks up.
+
+
+message_42:
+      text: Řekla bych, že drsné časy vyžadují drsná řešení.\n<MARINA> #přiroz
+
+message_43:
+      text: Co vy na to, sestry?\n<MARINA> #návaznost na změnu výše
+
+#MARINA goes up to HERO.
+
+message_44:
+      text: \sinv[1]Ale...\! Tohohle by byla škoda prodat, na to je moc hezký... Nemslíš, MOLLY?\n<MEDÚZA>
+
+#MOLLY goes up to OMORI.
+
+message_45:
+      text: \sinv[1]No... Mě se spíš líbí tenhle tichý.\! Byl by z něho dobrý mazlíček.\n<MOLLY>
+
+#AUBREY jumps.
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{OPOVAŽ SE HO DOTKNOUT!\}\!<br>A koukejte nás pustit! Nic jsme vám přece neudělali!\aub
+
+message_47:
+      text: \sinv[1]Áhle, tady máme nějakého rebela!\! Tenhle je pro tebe jako dělaný, MARINO! \sinv[1]Fufufu...\sinv[0]\n<MOLLY> #blíže orig
+
+message_48:
+      text: Ha.\! No...\! Možná by stačilo prodat jen jednoho.\n<MARINA>
+
+#MARINA grabs KEL.
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: H-Hej!\! Pusťte mě!\kel
+
+#SLIME GIRLS float in air, lifting KEL up.
+
+message_50:
+      text: Jestli nechcete platit MUŠLEMA...<br>\!tak nám holt zaplatíte rukama a nohama!\n<MARINA> #změna pořadí
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KELI!! NÉÉÉ\{ÉÉÉEEEE\{EEEE!!\her
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \{NECHTE MĚ BÝT!!\kel #variace
+
+message_116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \{\quake[1]DEJTĚ MĚ ZPÁTKY NA ZEM!!\kel #variace
+
+message_66:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: ...\| \quake[1]\Com[2]\{HAAAA\Com[2]\{AAAAA\Com[2]\{MMMMMM!!!\kel
+
+#KEL bites MARINA.
+
+message_53:
+      text: Au!\! Co to sakra mělo znamenat?! On mě kousl!\n<MARINA>
+
+#SLIME GIRLS float back down.
+
+message_54:
+      text: Klid, MARINO... \sinv[1]Fufufu~!\sinv[0]\! <br>Vždyť je to jenom malinký kousanec!\n<MOLLY>
+
+message_55:
+      text: \quake[1]\{ZA TOHLE ZAPLATÍŠ, TY SPRATKU!!!\n<MARINA>
+
+#MEDÚZA looks at party.
+
+message_56:
+      text: Jejda, MARINA vypadá zvlášť rozzuřeně!\! <br>Nečekala bych, že by si naše malá kořist dovolila protestovat.\n<MEDÚZA>
+
+#HERO jumps.
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Kamarádi...\! Vypadá, že se odsud budeme muset vybojovat!\her
+
+#KEL runs behind HERO.
+#Camera pans to SLIME GIRLS.
+
+message_58:
+      text: Aha...\! takže vy byste chtěli bojovat?\n<MOLLY>
+
+#MOLLY takes step toward party.
+
+message_59:
+      text: Je pravda, že už jsem dlouho nebyla na lovu!\n<MOLLY>
+
+#MEDÚZA takes step toward party.
+
+message_60:
+      text: Ano... Vypadá, že naší kořisti trochu chybí kázeň.\! <br>Už bylo na čase, aby tyto děcka někdo naučil, jak se správně chovat!\n<MEDÚZA> #přiroz
+
+message_61:
+      text: Na kořist jste dost vybíraví...\!<br>\sinv[1]Nechcete, abychom vás prodali...\! Nechcete, abychom si z vás udělali mazlíčky...\!<br>Měli byste si uvědomit svoje postavení...\n<MARINA> #blíže orig
+
+message_62:
+      text: No...\! Co...\! My jsme s tím v pohodě.\n<MARINA>
+
+message_63:
+      text: Vždy to jde i jinak. \sinv[1]Fufufu~ \n<MOLLY>
+
+message_64:
+      text: A pokud nám budete pořád odporovat...<br>tak nám nedáváte na výběr.<br>\!Obávám se, že...\n<MEDÚZA>
+
+message_65:
+      text: \{Z NICH BUDEME MUSET NADĚLAT KAŠI!!!\n<MARINA>
+
+# =========================================================================================
+# Cutscene: Sweetheart's Leave
+# =========================================================================================
+
+#Trigger: Defeat Slime Girls.
+
+message_90:
+      text: Hff...\! hff...\!<br>Sakra...\! Co se to s náma stalo?\!<br>Tenhle souboj jsme měli zvládnout levou zadní!\n<MARINA>
+
+message_91:
+      text: Hff...\! Kašlu na lovení...\! Na tohle už nemám léta.\! Raději... hff...\! se teď už budu soustředit jenom na výzkum.\n<MOLLY>
+
+message_92:
+      text: Tak, panenky...\! Vypadá, že opravdu už nejsme ve formě.\! <br>Kéž bychom byly jen o 200 let mladší...\n<MEDÚZA>
+
+#Screen shakes.
+
+message_93:
+      text: Nerad vás ruším...\!<br>ale moje chuť tady každou chvílí..\n<BENDA> #zní lépe
+
+message_117:
+      text: \quake[1]roste...\! \{a roste...\! \{A ROSTE...\! \{A ROSTE!!\n<BENDA> #zní lépe
+
+message_94:
+      text: Jo, jasný, BENDO... Slyšíme.\n<MARINA> #přiroz
+
+#MARINA turns to MOLLY.
+
+message_95:
+      text: MOLLY, dej BENDOVI pár MUŠLÍ.\n<MARINA>
+
+#MOLLY turns to MARINA.
+
+message_96:
+      text: Hm? Já ho krmila minule!\! A stejně mám průvan v peněžence...<br>všechny MUŠLE jsem dala do programu na tu poslední zakázku.\n<MOLLY>
+
+#Screen shakes.
+
+message_97:
+      text: \sinv[1]Začínám mít... \quake[1]\{HLAD!\n<BENDA> #přiroz
+
+#MARINA is sweaty.
+#MARINA turns to MEDÚZA.
+
+message_98:
+      text: No tak dobře...\! Co ty, MEDÚZO?\n<MARINA>
+
+message_99:
+      text: No, já...\! nečekala, že by na BENDU přišel hlad tak brzo.\! A jestli si dobře vzpomínám, nejsi náhodou na řadě ty, MARINO?\n<MEDÚZA> #tady jsem si všiml, že medúza zůstala medusou, měním všuse
+
+#Screen shakes.
+#MARINA is nervous.
+
+message_100:
+      text: Jsem?\n<MARINA>
+
+#MARINA turns around.
+
+message_101:
+      text: Já myslela, že je na řadě MOLLY.\n<MARINA>
+
+#MOLLY walks one step toward MARINA.
+
+message_102:
+      text: Jsem si jistá, že tentokrát je na řadě MEDÚZA.\n<MOLLY> #jméno
+
+#BENDA appears in front of SLIME GIRLS.
+
+message_103:
+      text: \sinv[1]Ale ale...\sinv[0]<br>Vypadá, že jste v celkem slepé uličce, nemyslíte?\n<BENDA>
+
+message_104:
+      text: A jestli mě nenakrmíte...\!<br>\quake[1]Tak se holt budu muset nakrmit sám!\n<BENDA>
+
+#Screen shakes.
+#BENDA's interior swallows a potted plant.
+#SLIME GIRLS are sweaty.
+
+message_105:
+      text: \{\quake[1]NÉÉÉÉÉÉÉÉEEEE!! MŮJ NÁBYTEK!!\n<MEDÚZA>
+
+message_106:
+      text: Co si teď počnem!?\! BENDA všechno pohltí!\n<MARINA> #blíže orig
+
+message_107:
+      text: Hmmm...\! Možná... bychom mohli naplánovat útěk?\n<MEDÚZA>
+
+message_108:
+      text: Už jsme si toho prošli tolik...\! Víte co, možná už je na čase natáhnout ploutve...\n<MOLLY>
+
+#BENDA's face appears below SLIME GIRLS.
+
+message_109:
+      text: \sinv[1]\{KÚU\{KÝY-\{KÚUUU\{UUUUUK!!!\n<BENDA> #konsistence
+
+#BENDA swallows SLIME GIRLS.
+
+message_110:
+      text: \quake[1]\{ÁÁÁÁÁ\{ÁÁÁÁÁÁÁÁÁÁÁ\{ÁÁAAAA\{AAAAA!!!!\n<SLIZOVÉ HOLKY>
+
+message_111:
+      text: Mňam...\! \com[538]Plody moře...\n<BENDA>
+
+message_112:
+      text: \sinv[1]\{VYNI...\{\Com[2]KAJÍCÍ!!\n<BENDA>
+
+#Camera pans to party.
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: BENDA je jak utržený ze řetězu!\kel #z na ze (omylem jsem napsal BEDNA) - no to je super, tak to bude asi nová přezdívka
+
+message_114:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \{JAK SE ODSUD DOSTANEME?!\aub
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Hlavně v klidu, všichni. Pojďme se ohlédnout po východu!\her
+
+# =========================================================================================
+# Cutscene: BENDA Hungry (Cont.)
+# =========================================================================================
+
+#Trigger: Enter proximity of big BENDA. (Elevator)
+#Elevator turns his head
+
+message_130:
+      text: \sinv[1]Přátelé! Vy vypadáte ale mňamózně!...\n<BENDA>
+
+#KEL jumps.
+
+message_131:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]Dost, BENDO!\! Nesnědl jsi toho už dost?\! Nakrmíme tě potom, slibujeme!\aub
+
+message_132:
+      text: ALe...\! Vždyť mě můžete přece nakrmit už teď!\! <br>Jen...\! \quake[1]mě nechte vás sníst.\n<BENDA>
+
+#Multiple BENDA appear and surround party.
+
+message_133:
+      text: \sinv[1]Hostina se chystá!\! Hostina se chystá!\!<br>\{A VAŠE SMRT JE JISTÁ!!\n<BENDA> #tak tohle teda musím ocenit, s tímhle bych nepřišel, skvělá práce
+
+#Party looks around.
+#AUBREY is sweating.
+
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: Nejez nás prosím, BENDO!<br>Nechceme být tvoje sváča!\kel #přiroz
+
+message_135:
+      text: Na to už je trochu pozdě, nemyslíte?\!<br>To jste si měli uvědomit, než jste mi dobrovolně vlezli do pusy! \quake[1]Ňak, ňak!\quake[0]\n<BENDA>
+
+#HERO looks back.
+
+message_136:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Je to marný...\!<br>Nevím, jestli je cesty ven...\her
+
+message_137:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: To neříkej, HERO!\aub
+
+message_138:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Jo, takhle to přece skončit nemůže!\kel #pravopis
+
+message_139:
+      text: \quake[1]Ňak, ňak, ňak, ňak, ňak, ňak, ňak, ňak!!\quake[0]\n<BENDA>
+
+message_140:
+      text: \sinv[1]Ale, neprotestujte, děti!\n<BENDA>
+
+message_141:
+      text: I když...\!<br>Jídlo vždycky chutná o něco líp, když si ho velryba připraví sáma!\n<BENDA> #benda je velryba, bylo by trochu divné, kdyby mluvil o lidech
+
+message_142:
+      text: Ale teď už se prosím nehýbejte...\n<BENDA>
+
+message_143:
+      text: \sinv[1]Příprava je již hotová...\n<BENDA>
+
+message_144:
+      text: \sinv[1]Večeře se nese...\!<br>\quake[1]\{A...\. VY JSTE HLAVNÍ CHOD!!\n<BENDA>
+
+#Uvula
+
+# =========================================================================================
+# Cutscene: Before Uvula
+# =========================================================================================
+
+message_180:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herHff...\! Hff...\! Nemá to cenu...
+
+message_181:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herJak se odsud jako máme dostat,<br>když nás BENDA pořád polyká?
+
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aubOMORI...\! Bojím se...\! Proč jsme do tohohle vůbec šli?
+
+message_183:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelNeboj se, AUBRY. My se z toho nějak dostaneme!\!<br>Už jsme přežili tolik prekérních situací! #vyklubat se se z tomto kontextu zřejmě nepoužívá, druhá věta blíže orig
+
+message_184:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herPřesně... Teď se nesmíme vzdát!\!<br>Nějaká cesta ven se najde...
+
+message_145:
+      text: \sinv[1]Kampak jdete?\. \quake[1]Ňak, ňak!\quake[0]\n<BENDA>
+
+# =========================================================================================
+# Cutscene: Last Blackletter
+# =========================================================================================
+
+#Trigger: Defeat BENDA.
+#BENDA blows party and Blackletter out of blowhole.
+
+message_160:
+      text: \quake[1]Bl\{éé\{éee!\!!\}\}\quake[0]<br>Blaf...\! tak tomu bych teda neřekl hladké trávení!\n<BENDA> #f na konci citoslovce
+
+#BENDA rumbles.
+#Screen shakes.
+#BENDA burps, then closes back mouth.
+
+message_161:
+      text: Hmm...\! z ničeho nic...\! jsem nějaký ospalý...\!<br>\}Myslím...\! \}\sinv[1]Že si na chvilku zdřímnu.\n<BENDA>
+
+#BENDA sinks into lake.
+#Camera pans to party.
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Hff...\! hff...\! Tak to bylo... hff...\! o fous.\her
+
+message_163:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Hff...\! jo.\!<br>Nikdy nepodceňuj prázdný žaludek...\kel
+
+#AUBREY walks one step away.
+
+message_164:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: To bylo opravdu děsivé... \}Hff...\aub
+
+message_165:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ale víte co?... \}Hff...\aub
+
+#AUBREY turns to party.
+
+message_166:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Aspoň jsme se z toho nakonec spolu dostali! \}Hff...\aub
+
+#AUBREY turns around.
+
+#message_167:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: Wherever BASIL is...\! he's probably all alone.\aub
+
+#AUBREY turns to party.
+
+#message_168:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 5
+#      text: We need to hurry and find him!\! I bet he could use a big hug right now!\aub
+
+#message_169:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: Yeah, I bet he could!\! When we're all together again, we should all give him a big ol' hug! Heh, heh!\kel
+
+#message_170:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 37
+#      text: Aww...<br>It's nice to see you two getting along so well for a change.\!<br>I could hug both of you right now!\her
+
+#AUBREY and KEL are surprised and start sweating, and look away from each other.
+
+#message_171:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 6
+#      text: H-Huh!?\! Me and KEL...\! G-Get along?\aub
+
+#message_172:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 30
+#      text: W-What are you talking about, HERO?\! Stop being weird!\kel
+
+#message_173:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 38
+#      text: Haha...\! Relax you two. I'm just playing around...\her
+
+#HERO looks out the cave.
+
+#message_174:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: Hold on, BASIL... We're almost there. I can feel it.\her
+
+#message_175:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 36
+#      text: We'll all be together soon...\her

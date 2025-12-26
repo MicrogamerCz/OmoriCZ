@@ -1,0 +1,81 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 1
+# =========================================================================================
+
+#Talk to Jesses Dad at Hobbeez
+message_0:
+      text: \n<VRÁSKA>\sinv[1]Hmm...\! Hmmm...\! Hmmmmmmm...
+
+message_1:
+      text: \n<VRÁSKA>Kruci písek!\! Pro co že to tady vlastně jsem?...
+
+message_2:
+      text: \n<VRÁSKA>Hej, vy tam!\! Jste mladí, že jo?\! Pomohli byste zoufalému staříkovi, jako jsem já?
+
+message_3:
+      text: \n<VRÁSKA>Můj syn JESSE zítra slaví desáté narozeniny a chtěl bych mu dát dárek, který by se mu líbil.
+
+message_4:
+      text: \n<VRÁSKA>Nemohli byste se tady porozhlídnout a něco mu vybrat?
+
+#Examine Videogame
+message_5:
+      text: Nově vydaná videohra s názvem \c[4]SUPER ULTRA POŽÍRAČ KRTKŮ - POMSTA KRTKŮ III\c[0].
+
+message_6:
+      text: Obsahuje násilí, nadávky, užívání drog, hazard, rychle blikající světla a nahotu.\! Chtěl bys ji vybrat?
+
+#Cutscene: Jesse's dad goes home
+
+message_7:
+      text: \n<VRÁSKA>Tak...\! tohle vás děcka dneska zajímá?...
+
+message_8:
+      text: \n<VRÁSKA>\c[4]SUPER ULTRA POŽÍRAČ KRTKŮ - POMSTA KRTKŮ III\c[0]?\! No, popravdě nevím, co na tom vidíte, ale budiž!
+
+message_17:
+      text: \n<VRÁSKA>Tohle jsem našel při zametání...\! <br>Klidně si to vemte!
+
+message_18:
+      text: Získal jsi \c[4]MUŠLI\c[0].
+
+message_9:
+      text: \n<VRÁSKA>\quake[1]Á!\!\quake[0] Ta cena...\! Fuj...\! Chudák moje peněženka...
+
+message_10:
+      text: \n<VRÁSKA>Uff...\! No...\! Jestli se mu to bude líbit, tak na tom vůbec nezáleží!
+
+message_11:
+      text: \n<VRÁSKA>Díky za pomoc, hochu!
+
+message_12:
+      text: \n<VRÁSKA>Víš...\! Na takovýhle věci by se mi hodil nějaký dvorní odborník.
+
+message_13:
+      text: \n<VRÁSKA>Můj syn se se mnou o svých koníčcích nebaví... Jak mám jinak ale vědět, co zrovna letí?!
+
+message_14:
+      text: \n<VRÁSKA>Žijeme v menším domku, na jihu odtud.\! <br>Je to ten s hnědou střechou.
+
+message_15:
+      text: \n<VRÁSKA>Budu rád, když se u nás někdy zastavíte!
+
+#Talk to Jesse's DAD
+
+message_16:
+      text: \n<VRÁSKA>Zdravím!
+
+message_19:
+      text: \n<VRÁSKA>Vypadá to celkem nadějně, nemyslíš?
+
+message_30:
+      text: \n<PRODAVAČ>Á...\! \c[4]SUPER ULTRA POŽÍRAČ KRTKŮ\c[0] <br>\c[4]POMSTA KRTKŮ III\c[0]...\! Skvělá volba!\! Cením váš vkus!
+
+message_31:
+      text: \n<PRODAVAČ>Počkejte, tu hru musíte přece zaplatit!
+
+#home
+
+message_32:
+    text: \n<VRÁSKA>Ahoj! Vy jste ti mladíci z obchodu!\! Můj syn je nahoře v pokoji, ale moc nemusí cizí lidi...

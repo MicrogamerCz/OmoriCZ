@@ -1,0 +1,212 @@
+# =========================================================================================
+# Cutscene: CAPT. SPACEBOY
+# =========================================================================================
+
+#Trigger: Defeating SPACE EX-BOYFRIEND
+
+message_0:
+      text: Co to? Co se stalo?\! Kde to jsem?\! Kdo jste?\who #cože na co to
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Zdravíme! Jak se máte?\her
+
+message_2:
+      text: Ach, také zdravím...\! Jsem KAPITÁN VESMÍRŇÁK!\!<br>Rád vás pozná-\cap
+
+message_3:
+      text: \quake[1]Au, můj hrudík!\quake[0]\cap
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ó ne, jste v pořádku?\!<br>Víte, předtím jste se trochu utrhl z řetězu a tak jsme vás museli...\aub
+
+message_5:
+      text: Ach...\! Už tomu rozumím...\! Musela se mě zmocnit má druhá tvář.\cap
+
+message_6:
+      text: Omlouvám se. To, co jste udělali, bylo dost možná ospravedlnitelné.\!<br>Jen doufám, že jsem vám nezpůsobil příliš moc problémů.\cap #přirozenější
+
+message_7:
+      text: Poslední dobou se nedokážu ovládnout.\!<br>Snažím se udržet své emoce na uzdě co nejlépe, co to jde, ale...\cap
+
+message_8:
+      text: ZLATÍČKO...\! Byla mou životní láskou...\!<br>Skoro si nedokážu představit svůj život bez ní.\cap
+
+message_9:
+      text: Dalo by se říct, že jsem trochu ztracený.\cap
+
+message_10:
+      text: Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] je plná našich oblíbených písniček.\! Tolik lásky a úsilí jsem do ní dal...\cap
+
+message_11:
+      text: Děkuji, že jste mi ji vrátili.\!<br>Jsou to koneckonců přece příjemné vzpomínky.\cap
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Eh... není zač...\! No, možná trochu.\kel #aby to sedělo do češtiny
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Jo, rádi jsme pomohli!\aub
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Vy si teď hlavně odpočiňte.\her
+
+message_15:
+      text: Obávám se, že odpočinek není schopen vyléčit zlomené srdce.\! Musím se z tohohle dostat nějak jinak...\cap
+
+message_16:
+      text: KAPTITÁNE SP- teda, VESMÍRNÝ MILENČE!\spb #přeloženo
+
+message_17:
+      text: Omlouvám se, ale mám pro vás opravdu hrozné zprávy.\!<br>Vaše oblíbená planeta, PLUTO, utekla a nemůžeme ji nikde najít.\spb #velké Vás jen ve formálních dopisech
+
+message_18:
+      text: Prosím, nezlobte se! Strašně se omlouváme!\spd #přir
+
+message_19:
+      text: Prosím, smilujte se...\spb #bližší orig
+
+message_20:
+      text: Aha.\cap
+
+message_21:
+      text: Nechte to být.\! Mě by taky nebavilo stát pořád na místě a točit se dokola.\! Když PLUTO nechce být planeta, nemusí.\cap #chtěl bych zachovat to, že Pluto není planeta
+
+message_22:
+      text: C-Cože?\! Fakt??\! Vy se na nás nezlobíte?\spb
+
+message_23:
+      text: To myslíte vážně, KAPITÁNE VES- teda, VESMÍRNÝ MILENČE?\spd
+
+message_24:
+      text: To rozhodně.\! Svolejte zbytek posádky.\!<br>Vydáme se k \c[11]LEDOVÉMU RYBNÍKU\c[0] a dáme si pár \c[3]SNO-CONES\c[0].\cap #rybník je o 2 pokoje vedle, nemá smysl letět
+
+message_25:
+      text: Ležení v posteli zlomené srdce nezpraví, <BR>ale pár \c[3]SNO-CONES\c[0] s přáteli by mohlo alespoň pomoct!\cap
+
+message_26:
+      text: Jo, a už mi nemusíte říkat VESMÍRNÝ MILENEC.\!<br>Jsem KAPITÁN VESMÍRŇÁK!\cap
+
+message_27:
+      text: Počkat, znamená to, že?\spd
+
+message_28:
+      text: \{\sinv[1]\Com[2]JUUUUU... \|\{PÍÍÍÍ\{ÍÍÍÍÍÍÍ!!\sinv[0]\spd
+
+message_29:
+      text: KAPITÁN je zpátky! To musí všichni slyšet!\!<br>Jdeme, kámo!\spd
+
+message_30:
+      text: Jasná páka!\spb
+
+message_31:
+      text: Nemůžu vám dostatečně poděkovat za to, co jste pro mě udělali.\cap
+
+message_32:
+      text: Kdo ví, co by se stalo s mojí posádkou, kdybyste se tady neukázali?\cap
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Ale, není zač!\!<br>Jsme rádi, že se zase cítíte být sám sebou.\aub #-jen +být
+
+message_34:
+      text: Ne, vážně, děkuji.\! Kdybyste kdykoliv potřebovali pomoc od VESMÍRNÝCH PIRÁTŮ, máte naši přízeň.\cap
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herTeda...\! Nevěřím, že jsem na tohle byl schopen zapomenout, ale...\! Vlastně hledáme našeho kamaráda BASILA.
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herNa hlavě nosí \c[4]VĚNEC\c[0] a má u sebe neustále své \c[4]FOTOALBUM\c[0].\! Neviděl jste ho?
+
+message_41:
+      text: ...\! Ne, obávám se, že neviděl...\!<br>Ale kdybych ho spatřil, jistě se to ihned dostane k vám.\cap
+
+#AUBREY looks away.
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: BASIL...\! Ach, kde by tak mohl být?\aub
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Fňuk...\! Fňuk, fňuk...\aub
+
+#CAPT. SPACEBOY is surprised.
+
+message_48:
+      text: \Com[2]Ah...\! No tak, prosím neplakejte, malá paní!\cap
+
+#CAPT. SPACEBOY walks up to AUBREY.
+
+message_49:
+      text: Vemte si tohle.\cap
+
+#AUBREY turns back.
+
+message_50:
+      text: Získal jsi \c[4]SNO-CONE TICKET\c[0]!
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 12
+      text: Fňuk...\! fňuk... fňuk...\! fňuk...\! \quake[1]Eeeeehhh...\quake[0]\aub
+
+#Everyone turns to AUBREY and is surprised.
+
+message_52:
+      text: Ajaj...\! Prosím... Neplakej!\!<br>Errr...\! Na, vem si i tohle!\cap
+
+#CAPT. SPACEBOY walks to book shelf.
+#CAPT. SPACEBOY walks to AUBREY.
+
+message_53:
+      text: Získal jsi \c[4]JÍZDENKU\c[0].
+
+message_54:
+      text: Na tuhle jsem jezdíval kdysi, když jsem byl jestě dítě...\!<br> dávno předtím, než jsem se stal VESMÍRNÝM PIRÁTEM.\cap
+
+message_55:
+      text: A pokud jsem já kdysi jezdil vlakem a nakonec skončil jako král vesmíru, vám se určitě povede najít vašeho kamaráda.\cap
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 12
+      text: Fňuk... fňuk...\! Tak...\!<br>fňuk...\! Dobře...\aub
+
+message_57:
+      text: KAPITÁNE, jste připraven?\!<br>Všichni na vás čekají!\spg #viz výše
+
+message_58:
+      text: A! Ano, vydržte, už jdu!\cap
+
+#CAPT. SPACEBOY walks to door, but turns back.
+
+message_59:
+      text: Nezoufejte, malá paní!\!<br>A kdyby toho na Vás bylo moc, nějaký ten \c[3]SNO-CONE\c[0]\!<br> by tomu mohl rozhodně pomoct.\cap
+
+#CAPT. SPACEBOY turns toward the door.
+
+message_60:
+      text: Nesmím ovšem nadále zdržovat.\!<br>Přeji vám ve všem hodně štěstí, a ještě jednou děkuji!\cap
+
+message_61:
+      text: Tohle sice vypadá jako \c[3]ŠŤÁVA\c[0], ale chutná to odporně! #blíže orig
+
+
+message_100:
+      text: Tady nic není. #přirozenější

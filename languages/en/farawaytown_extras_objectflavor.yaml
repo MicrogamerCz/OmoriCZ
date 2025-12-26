@@ -1,0 +1,85 @@
+
+# =========================================================================================
+# FARAWAY TOWN Object Flavor Text
+# =========================================================================================
+
+# Gino's Dinner
+
+#Dining tables:
+message_1:
+      text: Tenhle stůl je ulepený.
+
+
+# Consumable items
+
+# Donut
+message_100:
+      text: \c[3]KOBLIHA\c[0] byla měkká, nadýchaná a velice sladká.
+
+# Candy
+message_101:
+      text: \c[3]BONBÓNY\c[0] se ti dobře kousaly a chutnaly po ovoci. #konzistence
+
+# Salad
+message_102:
+      text: \c[3]SALÁT\c[0] chutnal jako tráva.
+
+# Bread
+message_103:
+      text: \c[3]CHLEBA\c[0] byl voňavý a křupavý... a trochu... návykový? #blíže orig
+
+# Chocolate
+message_104:
+      text: \c[3]ČOKOLÁDA\c[0] byla trochu krémová a trochu oříšková. Rozplynula se ti na jazyku. #Rozplynula
+
+# Pizza Slice
+message_105:
+      text: \c[3]PIZZA\c[0] byla horká a celá pokryta sýrem. Kéž bys jí měl víc...
+
+# Hero Sandwich
+message_106:
+      text: \c[3]HERO SENDVIČ\c[0] obsahoval dokonalý mix masa a zeleniny. Ty jo... #sendvič
+
+# Caramel Apple
+message_107:
+      text: \c[3]KARAMELOVÉ JABLKO\c[0] bylo lepivé a sladké, a přitom zároveň křupavé a kyselé.
+
+# Whole Pizza
+message_108:
+      text: \c[3]CELÁ PIZZA\c[0] byla horká a pokryta sýrem. Stačila ti, jsi plný.
+
+# Pie
+message_109:
+      text: Máslové okraje \c[3]KOLÁČE\c[0] dokonale doplňují jeho ovocnou náplň.
+
+# Big Bag of Candy
+#message_110:
+#      text: There was so much \c[3]CANDY\c[0], it barely fit in your mouth.
+
+# Slice of Cake
+message_111:
+      text: \c[3]DORT\c[0] byl malý a skromný, ale chuťově bohatý. #překlep. pokud to neměl být dort na motiv horsta fuchse
+
+# Hamburger
+message_112:
+      text: Ingredience \c[3]HAMBURGERU\c[0] je k sobě bezvadně hodily. Jen tam chyběl sýr...
+
+# Tasty Soda
+message_113:
+      text: \c[3]CHUTNÁ SODOVKA\c[0] ti svou šumivou a nostalgickou příchutí zalila pusu. #pokud vím, tak soda v češtině neznamená to samé, co v AJ
+
+# Orange Joe
+message_114:
+      text: Kombinace \c[3]POMERANČOVÉ ŠŤÁVY\c[0] a \c[3]KAFE\c[0] vytvořila dost podivnou příchuť.
+
+# Apple Juice
+message_115:
+      text: Na \c[3]JABLEČNÉ ŠŤÁVĚ\c[0] šlo poznat, že byla z těch nejzralejších jablek, které jsou k dostání.
+
+# Orange Juice
+message_116:
+      text: Na \c[3]POMERANČOVÉ ŠŤÁVĚ\c[0] šlo poznat, že byla z těch nejzralejších pomerančů, které jsou k dostání.
+
+# Coffee
+message_117:
+      text: \c[3]KAFE\c[0] bylo horké a hořké, jak jsi čekal. Nenapadá tě, proč by tohle vůbec někdo pil.

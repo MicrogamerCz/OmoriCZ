@@ -1,0 +1,244 @@
+
+# =========================================================================================
+# Sidequest: Fix Pipe
+# =========================================================================================
+
+#Fix Pipe 1: Find in hardware store
+
+message_1:
+      text: \n<MRZUTÝ CHLAPÍK>Hej, ty! Jak se daří?\!<br>Mně dneska naprosto skvěle!
+
+message_2:
+      text: \n<MRZUTÝ CHLAPÍK>A víš proč?\! Protože konečně nadešel den, kdy opravím tu ruplou trubku!
+
+message_3:
+      text: \n<MRZUTÝ CHLAPÍK>Všechno to začalo pár týdnů zpátky...\! V rohu obýváku se mi objevila dost nepříjemná louže...\!<br>Kdo ví, jak se tam vůbec dostala...
+
+message_4:
+      text: \n<MRZUTÝ CHLAPÍK>Ze začátku to nebyla taková hrůza, ale den co den se zvětšovala...
+
+message_5:
+      text: \n<MRZUTÝ CHLAPÍK>A abych pravdu řek, už jsem si asi zvykl na ten neustálý zvuk kapání a promočený koberec...
+
+message_6:
+      text: \n<MRZUTÝ CHLAPÍK>Ale víš co?\! Dneškem se vše mění...\! Ano!\! Konečně jsem vyrazil sem do \c[11]OPRAVSI!\c[0]\! Nářadí mám...\!<br>a teď...\! mám na to, si to opravit!
+
+message_7:
+      text: \n<MRZUTÝ CHLAPÍK>Fuj...\! Promiňte za můj proslov.\!<br>To pitomé kapání už mi začíná lést do mozku.
+
+message_8:
+      text: \n<MRZUTÝ CHLAPÍK>Bydlím hned vedlo toho \c[11]KOSTELA\c[0], jihozápadně odsud. \!<br>Rád se o tuhle výjimečnou událost podělím s hosty!
+
+# EXAMINE VANCES HOUSE DOOR AFTER TALKING TO HIM IN HARDWARE STORE
+
+message_9:
+      text: \n<MRZUTÝ CHLAPÍK>Hej, děcka!\! Jste tady akorát na čas, abyste viděli, jak jednou pro vždy opravím tu pitomou trubku!\! Jen pojďte dál!
+
+#Go in Vance's Dad's HOUSE
+
+# Cutscene: Is it fixed? 1
+
+message_10:
+      text: \n<MRZUTÝ CHLAPÍK>Ještě nějaké ty závěrečné úpravy, a konečně budu mít od té krávy pokoj...
+
+#Fixing Noise
+
+message_11:
+      text: \n<MRZUTÝ CHLAPÍK>\SINV[1]Á...\! konečně... To uklidňující ticho...\SINV[0]
+
+#Water Spout
+
+message_12:
+      text: \n<MRZUTÝ CHLAPÍK>\sinv[1]Brr, brr...
+
+message_13:
+      text: \n<MRZUTÝ CHLAPÍK>Sakryš...\! Takže zítra bude asi druhé kolo...
+
+#============================================
+#Fix Pipe 2
+#============================================
+
+#Talk to Vances dad at hardware store
+
+message_14:
+      text: \n<MRZUTÝ CHLAPÍK>\sinv[1]Brr... Brr...
+
+message_15:
+      text: \n<MRZUTÝ CHLAPÍK>Hej, děcka... Jak se daří?\!<br>Mně celkem dobře...
+
+message_16:
+      text: \n<MRZUTÝ CHLAPÍK>Ta kapající trubka už mi pije krev.\! Včera večer jsem s ní ještě něco zkoušel, ale všechno jsem to jenom zhoršil!\! Možná by nebylo od věci sehnat nějakého odborníka...
+
+message_17:
+      text: \n<MRZUTÝ CHLAPÍK>Ts...\! Ne...\! Co to blábolím?!\! Tohle mi má pýcha nedovolí!\! Musím ji opravit sám!
+
+message_18:
+      text: \n<MRZUTÝ CHLAPÍK>\Com[2]Však já si na tebe přijdu, ty pitomá trubko!
+
+message_19:
+      text: \n<MRZUTÝ CHLAPÍK>\Com[2]\quake[1]JÁÁÁÁ\{ÁÁÁÁ\{AAAAA\{AAAAAAA!!!
+
+#Vance's dad runs out the DOOR
+
+#Examine Vance's House Door after talking to him in Hardware STORE
+
+message_20:
+      text: \n<MRZUTÝ CHLAPÍK>Hej, to jste zase vy!\!<br>Chce mi dělat mentální podporu nebo co?
+
+message_21:
+      text: \n<MRZUTÝ CHLAPÍK>Ha, ha...\! Toho si fakt vážím.
+
+message_22:
+      text: \n<MRZUTÝ CHLAPÍK>Jen pojďte dál!\! Už ji mám skoro opravenou!
+
+#Cutscene: Is it fixed? 2
+
+#Fixing noises
+
+message_23:
+      text: \n<MRZUTÝ CHLAPÍK>\Com[2]\SINV[2]JAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+
+message_24:
+      text: \n<MRZUTÝ CHLAPÍK>Dobře ti tak!
+
+message_26:
+      text: \n<MRZUTÝ CHLAPÍK>...
+#Water Spout
+
+#Vance's dad begins shaking
+
+message_25:
+      text: \n<MRZUTÝ CHLAPÍK>\quake[1]ÁÁÁÁÁÁÁ\{ÁÁÁÁÁ\{ÁÁÁÁÁ\{AAAAAA\{AAA!!!\quake[0]
+
+#Vance's Dad runs through the wall
+
+#============================================
+#Fix Pipe 3
+#============================================
+
+#Talk to Vance's dad (Hardware)
+
+message_30:
+      text: \n<MRZUTÝ CHLAPÍK>\sinv[1]Brr... Brr...
+
+message_31:
+      text: \n<MRZUTÝ CHLAPÍK>Uff...
+
+message_32:
+      text: \n<MRZUTÝ CHLAPÍK>Hej, to jste zase vy...
+
+message_33:
+      text: \n<MRZUTÝ CHLAPÍK>Jak se daří?\! Mně dost blbě...
+
+message_34:
+      text: \n<MRZUTÝ CHLAPÍK>Víte co?\! Ta trubka zase rupla...
+
+message_35:
+      text: \n<MRZUTÝ CHLAPÍK>A jaksi...\! jsem si prý nenávratně poškodil barák...
+
+message_36:
+      text: \n<MRZUTÝ CHLAPÍK>Kdo by to byl řek?
+
+message_37:
+      text: \n<MRZUTÝ CHLAPÍK>Uff...\! Selhal jsem...
+
+message_38:
+      text: \n<MRZUTÝ CHLAPÍK>\}Já jen...\! Fňuk...\! Chtěl, aby na mě byli pyšní...
+
+message_39:
+      text: \n<MRZUTÝ CHLAPÍK>...
+
+message_40:
+      text: \n<MRZUTÝ CHLAPÍK>\Com[2]Urf!\! Musím se vzpamatovat!\!<br>Je to jenom jedna blbá trubka! To zvládnu!
+
+message_41:
+      text: \n<MRZUTÝ CHLAPÍK>Sehnal jsem si nové nástroje a jsem připraven na další kolo!
+
+message_42:
+      text: \n<MRZUTÝ CHLAPÍK>Hlavně hlavu vzhůru!\!<br>\Com[2]Ano! Já na to mám!
+
+message_43:
+      text: \n<MRZUTÝ CHLAPÍK>Jdu si pro tebe, trubko...\!<br>Zbavím se toho kapání jednou a provždy!
+
+#Examine Vance's House Door after talking to him in Hardware Store:
+
+message_44:
+      text: \n<MRZUTÝ CHLAPÍK>Hff...\! Hff...\! Hff...\! Hff...
+
+message_45:
+      text: \n<MRZUTÝ CHLAPÍK>H-Hej...\! To jste zase vy...
+
+message_46:
+      text: \n<MRZUTÝ CHLAPÍK>Přišli jste sem, protože o mě máte strach?
+
+message_47:
+      text: \n<MRZUTÝ CHLAPÍK>Fňuk...\! To je od vás ale milé...
+
+message_48:
+      text: \n<MRZUTÝ CHLAPÍK>Jen pojďte dovnitř!\! Tentokrát se mi to povede!\!<br>Cítím to v kostech!
+
+#Cutscene: It's Finally Fixed
+
+#Fixing Noises
+
+message_50:
+      text: \n<MRZUTÝ CHLAPÍK>Teď už to musí fungovat!\! Prostě musí!
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBRY>...\! Tady...\! Mám to v malíku...
+#Aubrey goes to the Pipe
+
+#Fixed Noise
+
+message_52:
+      text: \n<MRZUTÝ CHLAPÍK>Cože?
+
+message_53:
+      text: \n<MRZUTÝ CHLAPÍK>Nevěřím svým očím...\! Je opravená!\! Fakt, že je opravená!\!<br>\Com[2]Mám takovou radost, že asi budu brečet!
+
+message_54:
+      text: \n<MRZUTÝ CHLAPÍK>Jste úžasní!\! Víc, než úžasní!\! Fenomenální!\!<br>Jak bych vám za tohle mohl poděkovat?!
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \n<AUBREY>To...\! no...\! T-To... nic není...\! My jsme v pohodě.
+
+message_56:
+      text: \n<MRZUTÝ CHLAPÍK>Fňuk... \!Všichni...\!<br>Díky, že jste mi v těchto těžkých časech pomohli...
+
+message_64:
+      text: \n<MRZUTÝ CHLAPÍK>Naoplátku si prosím vemte tohle \c[4]CDčko\c[0].\! Našel jsem ho v díře ve zdi!
+
+message_57:
+      text: \n<MRZUTÝ CHLAPÍK>Víte, mám dvě děcka asi stejně staré, jako jste vy.\!<br>Jmenují se VANCE a KIM!
+
+message_58:
+      text: \n<MRZUTÝ CHLAPÍK>S jejich mamkou jsme se rozvedli, když byli ještě malí...
+
+message_59:
+      text: \n<MRZUTÝ CHLAPÍK>Nevídám je tak často, jak bych chtěl, takže je aspoň rozmazluju \c[3]BONBÓNAMA\c[0], když to jde! He he...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \n<AUBRY>Oh, takže, vy jste táta KIM a VANCE?
+
+message_61:
+      text: \n<MRZUTÝ CHLAPÍK>To teda, a jsem na to hrdý!\! I když pořád dělají nějaké problémy... alespoň se o sebe dokážou postarat!
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \n<AUBRY>Haha...\! Ano...\! to je dobře...
+
+message_65:
+      text: \n<MRZUTÝ CHLAPÍK>Každopádně bych řekl, že si teď zasloužím nějaký ten odpočinek - a to bez kapání!
+
+message_66:
+      text: \n<MRZUTÝ CHLAPÍK>Ještě jednou díky.\! U mě doma jste vždy vítáni!
+
+message_67:
+      text: \n<MRZUTÝ CHLAPÍK>Dnes večer jdeme s dětma na večírek k sousedům!\! Jídlo zdarma je vždycky super!

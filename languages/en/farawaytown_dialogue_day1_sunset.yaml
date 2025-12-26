@@ -1,0 +1,296 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>A-A...\! Ahoj...\! \SUNNY... #na jistotu jméni
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>Rád tě konečně zase vidím...\! Haha...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \n<BASIL>P-Proč... se na mě tak díváš?
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 36
+      text: \n<BASIL>U-Um...\! SUNNY?\! Je...\! Je všechno v pořádku?
+
+#========================== ANGEL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_10:
+      text: \n<ANDĚL>\Com[2]Co čumíš!?\! Jsem tady stálý zákazník! Musím dohnat všecky nejnovější komiksy, než zas začne škola! #interpunkce
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_20:
+      text: \n<ŠÁRA>...
+
+#========================== THE MAVERICK================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_30:
+      text: \n<STŘEMHLAV>\Com[2]Aha!\! No jistě, kdo jiný než KEL a SUNNY!
+
+message_31:
+      text: \n<STŘEMHLAV>Možná jste dříve dneska viděli, jak jsem byl pokořen...\! ovšem teď přišel čas, abych se já, \Com[2]STŘEMHLAV, opět předvedl!
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCože? O co ti zas jde, MICHAELI?
+
+message_33:
+      text: \n<STŘEMHLAV>Grr...\! Běž s těmi svými kecy k čertu!
+
+message_34:
+      text: \n<STŘEMHLAV>\Com[2]\{KELI!\!\Com[2] VYZÝVÁM VÁS NA ZÁVOD!\} #zastaralé "thee" bych nahradil vykáním a když se tady dívám, tak musím opravit i pravopis
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kel...Opravdu?\! Na závod?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelJá ti nevím...\! Jsem celkem rychlý, víš...
+
+message_37:
+      text: \n<STŘEMHLAV>\Com[2]Ha!\! To si možná myslíš!\!<br>Ale jen počkej, až spatříš výsledek mého měsíce dlouhého úsilí! #vypouštím h z hah
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelNe, teď fakt, MICHAELI.\! Vážně tě chci varovat...\!<br>Jsem rychlý.\! Jako \SINV[1]FAKT\SINV[0] rychlý.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNebo víš co, mám nápad!\! Aby to bylo trochu víc fér, dovolím ti místo běhání jet na svojí koloběžce!
+
+message_40:
+      text: \n<STŘEMHLAV>\{\Com[2]NEPODCEŇUJ MĚ!!\}
+
+message_41:
+      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\!<br>\Com[2]Chci vidět pořádnou výzvu!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kelUff...\! Tak ty toho vážně nenecháš?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPromiň, SUNNY.\! Hned to bude.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and THE MAVERICK who are on the other side of the track.
+
+
+message_44:
+      text: \n<STŘEMHLAV>\Com[2]\{\SINV[1]PŘŘŘŘŘIIIIPRRRRRAAAAAAAAAVIIIIIIIT!!\SINV[0]
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPozor...
+
+message_46:
+      text: \n<STŘEMHLAV a KEL>\Com[2]\SINV[1]ST\{AA\{AAA\{AAAR\{RRRRT!!\SINV[0]
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
+
+message_47:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! Počkej...\!<br>Ještě...\! hff...\! Ještě jednou...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelTo asi ne, MICHAELI...\!<br>Však... už je stejně celkem pozdě, nemyslíš?
+
+message_49:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...
+
+#THE MAVERICK's wig falls off and he picks it up and puts it back on.
+
+message_50:
+      text: \n<THE MAVERICK>Hff...\! huff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
+
+message_51:
+      text: \n<THE MAVERICK>Hff...\! Já...\! hff...\! musím...\! hff...\! zachránit...\! svou čest...\! hff...
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelMožná jindy...\! Se SUNNYM už musíme jít...\! Tak se měj, MICHAELI!
+
+#cutscene ends
+
+message_53:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>K čertu s tebou, KELI...\! Hff...
+
+message_54:
+      text: \n<STŘEMHLAV>Tohle není tvůj poslední střet se...\! \Com[2]STŘEMHLAVEM... hff...
+
+#========================== SHORT HAIR GIRL================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_60:
+      text: \n<KRÁTKOVLÁSKA>Myslím, že jsem dnes našla toho pravého...\!<br>Snad si mě všimne!
+
+#========================== FASHIONABLE MOM================================
+
+#Location: Candy Shop
+
+message_70:
+      text: \n<ELEGANTNÍ MATKA>Čokoláda je nejlepší kamarádka každé dívky!\!<br>I když...\! diamanty jsou taky dost vysoko na žebříčku... #překlep
+
+#========================== STRANGE MAN================================
+
+#Location: FARAWAY PARK
+
+message_80:
+      text: \n<PODIVÍN>Všechna ta špína na této planetě...\! Dělá se mi z ní mdlo...\!<br>Kéž bych ji všechnu mohl...\! prostě setřít.
+
+#========================== OLD BEARDY===============================
+
+#Location: Graveyard
+
+message_90:
+      text: \n<DĚDEK>Tady je celkem klid, neřekl bys?\! Vůbec tady nejde slyšet ten povyk z ulice...
+
+message_91:
+      text: \n<DĚDEK>He...\! Tady jdou slyšet jen bloudící duše...\!<br>A já! #vypouštím h a překlep
+
+message_92:
+      text: \n<DĚDEK>Co tak koukáš?\!<br>\{\Com[2]JÁ JSEM JEŠTĚ ŽIVEJ!
+
+message_93:
+      text: \n<DĚDEK>\SINV[2]\Com[2]GUA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0] #w na u
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_100:
+      text: \n<DVOJČE>\SINV[1]S našima chodíme do \c[11]KOSTELA\c[0] vždycky tak jednou do týdne...\SINV[0]
+
+message_101:
+      text: \n<DRUHÉ DVOJČE>\SINV[1]Někdy dvakrát...\SINV[0]
+
+message_102:
+      text: \n<DVOJČE>\SINV[1]Nebo třikrát...\SINV[0]
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_110:
+      text: \n<POLLY>Za chvilku bude večere.\!<br>Buďte tu jako doma! #překlad druhé věty
+
+#After cutscene: Awkward Dinner
+message_111:
+      text: \n<POLLY>Asi bych se vám mohla představit, že?\!<br>Vlastně nejsem nikdo... jen sestřička, co se stará o BASILOVU BABIČKU.
+
+message_112:
+      text: \n<POLLY>A před pár měsíci mě BASILOVI rodiče najali, abych se starala i o něj, protože pořád odjíždějí pracovat kamsi do zahraničí.
+
+message_113:
+      text: \n<POLLY>Snažím se pro BASILA dělat, co můžu, ale...
+
+message_114:
+      text: \n<POLLY>Od té doby co jsem se sem nastěhovala mám pocit, jako by se mi pořád vyhýbal...
+
+message_115:
+      text: \n<POLLY>Nevím, jestli něco nedělám špatně...
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_120:
+      text: \n<KNĚZ>Hmm...\! Většinou nenechávám lidi se prát při kázání...\! ale přišlo mi, že jste řešili něco důležitého.
+
+message_121:
+      text: \n<KNĚZ>Ta AUBRY sem chodí každý týden už pár let v kuse, ale nikdy s nikým nemluví.
+
+message_122:
+      text: \n<KNĚZ>Párkrát jsem se ji snažil oslovit...<br>ale pořád mě posílá...\! err...\! někam...
+
+message_123:
+      text: \n<KNĚZ>Připadá mi, že se s něčím trápí.\! Rozhodně by potřebovala nějakého kamaráda.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_130:
+      text: \n<HOLKA S CULÍKEM>Ahojky!\! Slyšela jsem z kuchyňe jakýsi rachot.\!<br>Že by tátův \c[4]ZÁSNUBNÍ PRSTEN\c[0] zase spadl do dřezu?<br>\!To je dost obvyklé...
+
+message_131:
+      text: \n<HOLKA S CULÍKEM>On ale neví, že o tom já vím... Hehe...
+
+message_132:
+      text: \n<HOLKA S CULÍKEM>A jinak, já se jmenuju SÁRA!\! Ráda vás poznávám!
+
+#Talk to SARAH again
+
+message_133:
+      text: \n<HOLKA S CULÍKEM>Od té doby, co mamku chytla ta zdravá krize tady u nás doma nemáme už žádné sladkosti...\! ale...
+
+message_134:
+      text: \n<HOLKA S CULÍKEM>Mrkev a celer nejsou zas tak špatné...\! když se namočí do dresinku...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_140:
+      text: \n<MATLÁK>Hmm...\! Děcka, neviděly jste tady někde pytlík brambůrků?\! To se mi přece nemůže jen zdát, že jsem před pár dny jeden kupoval... #význam druhé věty
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_150:
+      text: \n<PANÍ S CULÍKEM>Chtěla jsem, abychom tento týden začali jíst zdravě, ale z té vůně z \c[11]GINOVY PIZZERIE\c[0] se mi tak sbíhají sliny... #přiroz
+
+message_151:
+      text: \n<PANÍ S CULÍKEM>Uff...\! Možná trocha pizzy jednou za čas nevadí... #přiroz
+
+#==========================The Maverick's Dad===============================
+
+#Location: Church
+
+message_160:
+      text: \n<ŠVIHAČKA>Ach, panečku...\! Fňuk...\!<br>Náš nejmladší syn s náma už zase nechtěl do \c[11]KOSTELA\c[0]...
+
+message_161:
+      text: \n<ŠVIHÁK>Uff...\! MICHAELI...\! Kde jsi?\!<br>Proč musíš mamince pořád dělat starosti?

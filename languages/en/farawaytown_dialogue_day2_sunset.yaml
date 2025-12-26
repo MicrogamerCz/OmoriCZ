@@ -1,0 +1,312 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 2 - SUNSET
+#=========================================================================================
+
+
+#=========================BASIL==============================
+
+#Location: BASIL'S ROOM IN BED
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 12
+      text: \n<BASIL>\}SUNNY...\! Z tohohle...\! už není útěku... nebo snad je?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelChudák BASIL... Poslední dobou žije jako ve zlém snu...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herBASILE...\! Musíš být unavený.\! Prosím, odpočívej...\! Zítra pro tebe zase zajdeme.
+
+#=========================ANDĚL==============================
+
+#Location: Angel's Bedroom
+
+#ADD FWAAAAA
+message_10:
+      text: \n<ANDĚL>\Com[2]\sinv[1]\{\{ÁÁAAAA!! VÝTRŽNÍCI!!
+
+message_11:
+      text: \n<ANDĚL>Aha... To jste jen vy.
+
+message_15:
+      text: \n<ANDĚL>Hej, počkejte!\! \SINV[2]Fufufu...\!\SINV[0]<br>teď je za mě ta správná chvíle na odvetu!\!<br>\Com[2]Tak pojďte!
+
+#[Battle: Angel]
+
+#player win
+message_12:
+      text: \n<ANDĚL>Hm... já si stejně začínal jen proto, abych okoukal vaše slabé místa... Příště vás vyhrát nenechám!
+
+#player lose
+message_13:
+      text: \n<ANDĚL>Hm... Že jste mě nechali? Jde to poznat... Možná jsem děcko, ale nejsem blbej!
+
+#=========================CHARLIE==============================
+
+#Location: Charlie's Bedroom
+
+#Charlie explanation mark
+
+message_20:
+      text: \n<ŠÁRA>\}... Ahoj...\! Já jsem...\! ŠÁRA...
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel\com[2]Počkat...\! Ty jsi ŠÁRA?\! Celou dobu jsem si myslel, že se jmenuješ SÁRA...
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelAhojky, ŠÁRO!\! Já jsem KEL... a tohle jsou SUNNY a HERO!
+
+message_23:
+      text: \n<ŠÁRA>\}...\! Ahoj...\! všichni...\! Hehe...
+
+
+#=========================KIM==============================
+
+#Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
+
+message_30:
+      text: \n<KIM>\}AUBREY...\! Why won't you tell me what's wrong?
+
+message_31:
+      text: \n<KIM>\Com[2]Ah!\! Grumble... grumble...\!<br>Ugh... It's just you two...\! What makes you think you can barge into people's rooms like this!?
+
+message_32:
+      text: \n<KIM>You must've made friends with my mom, huh?\!<br>She lets in anyone who listens to her talk...
+
+#====================STŘEMHLAV==============================
+
+#Location: The Maverick's Bedroom
+
+message_40:
+      text: \n<STŘEMHLAV>I am sensing an evil presence coming from inside my home...\! Maybe I'm overthinking it...\! But I can never be too careful...
+
+message_41:
+      text: \n<STŘEMHLAV>Sigh...\! My brother and sister are a real drag, aren't they?\! Everyone here is the same!
+
+message_42:
+      text: \n<STŘEMHLAV>Ah... So you have conquered the great evil.\!<br>What did it cost you?\! I can still see the pain in your eyes.
+
+
+#====================VANCE==============================
+
+#Location: Vance's Bedroom (Mom's House)
+
+message_50:
+      text: \n<VANCE>Ham...\! Ham...\! Ham...
+
+message_51:
+      text: \n<VANCE>A, nazdar. Jak je?
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCo? Jaktože jsi tak v klidu... Bych čekal, že bys nás vyzval na souboj, nebo tak něco
+
+message_53:
+      text: \n<VANCE>Hmm... Ne, ani proti vám nic moc nemám. Jenom dělám to, co KIM.
+
+message_54:
+      text: \n<VANCE>Jsem jen o rok starší, ale kvůli mojím vousům mi to nikdo nevěří...
+
+message_55:
+      text: \n<VANCE>Vím, že je hrozná kecka, ale má dobrý srdce. A já? No, jestli je ona srdce, tak já jsem svaly! Gahaha...
+
+#====================ARTIST==============================
+
+#Location: Artist's house
+
+message_60:
+      text: \n<MALÍŘKA>Připravuji svůj nový obraz, ale upřímně nevím, jak začít... Sehnat dobré nápady je dřina! Měla bych se na to umění vykašlat a jít dělat chovatelku do zoo nebo něco takového...
+
+#====================SHORT HAIR GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_70:
+      text: \n<KRÁTKOVLÁSKA>Měla bych mu napsat milostný dopis a říct mu, co k němu cítim...
+
+#====================FASHIONABLE MOM==============================
+
+#Location: SHORT HAIR GIRL's House (Pick up furniture quest)
+
+message_80:
+      text: \n<ELEGANTNÍ DÁMA>Můj kávovar je přímo v kuchyni. Ale opatrně... Je dost těžký!
+
+#====================INTIMIDATING GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_90:
+      text: \n<DĚSIVÁ HOLKA>Ahoj!\! Já jsem BRANDI...\! Dneska jsem přijela z koleje.\! A už teď mi chybí městský život!\! Je tady hrozné ticho...
+
+#====================SCHOOL PRINCIPAL==============================
+
+#Location: Hardware Store looking at flowers
+
+message_100:
+      text: \n<ŘEDITELKA ŠKOLY>Občas se tady chodím jen dívat na kytky. Přemýšlím o tom, že bych jednu domů koupila, ale slyšela jsem, že by prý lákala mravence...
+
+message_101:
+      text: \n<ŘEDITELKA ŠKOLY>Už to horko je dost... Nechci si představovat, jaké by to bylo s mravenci!
+
+#====================STARÝ VOUSÁČ==============================
+
+#Location: Graveyard (Lost dentures quest)
+
+message_110:
+      text: \n<STARÝ VOUSÁČ>Pomoc!\! Moe suby sou f čudu!!\! Naši byfte mi je!?
+
+#After finding teeth:
+
+message_112:
+      text: \n<STARÝ VOUSÁČ>Díky, kluci.\! Ti duchové si ze mě občas utahují!
+
+message_113:
+      text: \n<STARÝ VOUSÁČ>Nemyslí to zle...\! Ale v tomhle věku už mě to taky moc nebere...
+
+#====================CRIS'S MOM==============================
+
+#Location: Supermarket
+
+message_120:
+      text: \n<POŘÁDNÁ AMERIČANKA>\SINV[1]Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\SINV[0]
+
+#====================CURTSEY==============================
+
+#Location: Pharmacy
+
+message_130:
+      text: \n<HEZKÁ HOLKA>PANÍ CANDICE mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]...
+
+message_131:
+      text: \n<HEZKÁ HOLKA>Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
+
+#====================KAREN==============================
+
+#Location: Supermarket
+
+message_140:
+      text: \n<PANÍ S COPÁNKY>Hmmm... Já nikdy nevařila pro oslavu plnou hostů... Možná jsem si nastavila moc vysokou laťku...
+
+message_141:
+      text: \n<PANÍ S COPÁNKY>Měla bych koupit něco kvalitní, nebo se soustředit, aby toho bylo hodně? A jakou značku bych měla kupovat?
+
+message_142:
+      text: \n<PANÍ S COPÁNKY>A jsou zelené a červené cibule stejné?
+
+message_143:
+      text: \n<PANÍ S COPÁNKY>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
+
+message_144:
+      text: \n<CHECKERS GUY>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+
+message_145:
+      text: \n<PANÍ S COPÁNKY>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+
+#====================KELŮV TÁTA==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room watching TV
+
+message_150:
+      text: \n<KELŮV TÁTA>Chtěl jsem mamce pomoct s vařením, ale ty víš, jaká je v kuchyni...
+
+#After Cutscene: Kel's Mom
+#Location: Kel's Dining Room
+
+message_151:
+      text: \n<KELŮV TÁTA>Nezapomeň mamce pochválit večeři!
+
+#After Cutscene: Convincing Kel's Mom:
+#Location: Kel's Living Room
+
+message_152:
+      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chybel! Určitě se brzo ale uklidní...
+
+message_153:
+      text: \n<KELŮV TÁTA>Jen si z toho nedělejte hlavu! Určitě to bude v pohodě.
+
+#KELŮV TÁTA leaves to KEL'S PARENT'S ROOM.
+#Examine KEL'S PARENT'S ROOM.
+
+message_154:
+      text: Dveře jsou zamčené.
+
+#====================KELOVA MAMKA==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room
+
+message_160:
+      text: \n<KELOVA MAMKA>Dobře, můžeš jít...\! Ale buď před večeří zpátky!
+
+message_161:
+      text: \n<KELOVA MAMKA>
+
+#====================Kim and Vance's Mom==============================
+
+#Location: Kim's House
+
+
+message_171:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Můj syn a moje dcera už tady měli dávno být! Mají snad něco důležitějšího na práci, než být s jejich maminkou?!
+
+
+
+#====================Polly==============================
+
+#Location: Basil's House
+message_180:
+      text: \n<POLLY>Všimla jsem si, že BASIL rád chodí do parku, ale když jsem se tam šla podívat, nikde jsem ho neviděla...
+
+message_181:
+      text: \n<POLLY>Jeho babičce není nejlíp...\!<br>Chtěla jsem ho... připravit na to, co nás asi nemine, ale když jsem mu to začala vysvětlovat, vyděsil se a utekl... Uff... Doufám, že je v pořádku...
+
+#====================SARAH==============================
+
+#Location: Sarah's House
+
+message_190:
+      text: \n<HOLKA S CULÍKEM>Rodiče se ještě nevrátili. Už je pozdě... Kdepak by mohli být?
+
+#talk again
+
+message_191:
+      text: \n<HOLKA S CULÍKEM>Snažím se jíst zdravě, ale došel nám farmářský dresink... Jak mám teď snášet mrkev a celer?
+
+message_192:
+      text: \n<HOLKA S CULÍKEM>Láska je fuj...
+
+#====================SARAH'S DAD==============================
+
+#Location: Candy Shop (Anniversary chocolate quest)
+
+message_200:
+      text: \n<NEŠIKA>\sinv[1]Jsi teď tak krásná, že bych ti hned dal pusu!!\sinv[0]
+
+#====================SARAH'S MOM=============================
+
+#Location: Gino's Pizza (Anniversary Pizza quest)
+
+message_210:
+      text: \n<PANÍ S CULÍKEM>Ale! Už se zase červenám......\!<br>Na tohle výročí nikdy nezapomenu!
+
+#====================SEAN=============================
+
+#Location: Supermarket
+#ref 140 - 145

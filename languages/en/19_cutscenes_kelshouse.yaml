@@ -1,0 +1,314 @@
+# =========================================================================================
+# Cutscene: Kel's MOM
+# =========================================================================================
+
+#Trigger: Enter KEL's House.
+
+message_0:
+      text: KELI!\! HERO!\! Kde jste byli tak dlouho?\!<br>Víte, kolik je? Měla jsem o vás takový strach!\n<KELOVA MAMKA> #opravuji "maka" na mamka v celém dokumentu, přirozenější
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Promiň, mami... Něco nás trochu zdrželo...\!<br>Ale hlavně, že jsme našli BASILA a je v pořádku.\her
+
+message_2:
+      text: \Com[2]Ts!\! Jen abyste věděli... Celý týden jsem chystala rošt na dnešní večeři...\n<KELOVA MAMKA>
+
+#KELOVA MAMKA looks in direction of dining room.
+
+message_3:
+      text: A...\! fňuk...\! Už úplně vychladnul.\n<KELOVA MAMKA>
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: No tak, mami...\! Neplakej, prosímtě...\her
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Nedělej si s tím hlavu, mami. Na co máme přece mikrovlnky?!\kel
+
+message_6:
+      text: \com[2]\sinv[1]Áááááaaac\{hhh!\! MÁ UBOHÁ VEČEŘE!!\n<KELOVA MAMKA>
+
+#KELŮV TÁTA walks up to KELOVA MAMKA.
+
+message_7:
+      text: No tak, zlato... Hlavu vzhůru...\n<KELŮV TÁTA> #lásko si říkají spíše milenci, manželé si budou říkat zlato
+
+message_8:
+      text: Dnešek je přece velký den... Neměla bys být smutná.\n<KELŮV TÁTA>
+
+#KELŮV TÁTA looks at HERO.
+
+message_9:
+      text: Dívej! HERO se vrátil z vysoké!\n<KELŮV TÁTA>
+
+#KELŮV TÁTA walks up to HERO.
+
+message_10:
+      text: Rád tě zase vidím, chlape.\n<KEL's DAD>
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Díky, tati.\her
+
+message_12:
+      text: Fňuk...\n<KEL's MOM>
+
+message_13:
+      text: Ale jo. Tvůj táta má pravdu. Teď nestojí za to fňukat.\n<KELOVA MAMKA>
+
+#KELOVA MAMKA walks up to HERO.
+
+message_14:
+      text: Jsem ráda, že jsi zase zpátky, HERO! <br>Všem jsi nám hrozně chyběl!\n<KELOVA MAMKA> #pravopis
+
+#Screen shakes. Everyone is surprised.
+
+message_15:
+      text: \sinv[1]\Com[2]BÉÉÉ\{ÉÉ\{ÉÉÉE\{EEEE\{EEEEE!!!\who
+
+message_16:
+      text: Aha... SALLY se asi zrovna vzbudila!\! Jdu ji přebalit.\n<KELOVA MAMKA>
+
+#KELOVA MAMKA walks toward the staircase entrance and walks O.S.
+#KELŮV TÁTA walks to Dining Room then turns back.
+
+message_17:
+      text: Vy už beztak máte hlad, co, kluci?\! <br>Už bychom si mohli dát večeři, co myslíte?\n<KELŮV TÁTA>
+
+#KELŮV TÁTA walks O.S.
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Super! Dám něco ohřát!\kel
+
+# =========================================================================================
+# Cutscene: Sleepover at Player's
+# =========================================================================================
+
+#Trigger: Examine Microwave with food.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Uf...\! Tak teď, když je zase všechno v cajku... <br>bychom si konečně mohli trochu odpočinout.\her #fuj na uf
+
+#HERO turns to PLAYER.
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Rád tě vidím, SUNNY!\! <br>Opravdu jsme se neviděli už dlouho!\her
+
+#HERO turns to KEL.
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: No, a tebe samozřejmě taky rád vidím, KELI.\her #blíže orig tónu
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Takže, SUNNY, mamka mi říkala, že se budeš stěhovat! To musí být opravdu vzrušující, viď!\her
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: No, to určitě je.\! Zítřek je jeho poslední den s náma.\kel #těžko bude Sunny vzrušený, když není s Aubrey!
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Vím, že z toho stěhování máš asi nervy, ale vážně to není taková hrůza, brzo si zvykneš.\! <br>Možná ti to i prospěje, SUNNY.\her
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: S novým místem se toho taky dost naučíš,<br>a máš ještě k tomu čistý štít!\! Sice mě to trochu mrzí, ale<br>pokud zůstaneme pořád v kontaktu, bude to v pohodě.\her
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Uff...\! Rozhodně spolu máme ale dost vzpomínek.\! Občas mi ty dny chybí...\!<br>To lenošení...\! Žraní...\! Pití šťávy...\kel
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Jo, tentokrát jsme dělali všecko spolu.\!<br>Chodili jsme spolu do parku, k rybníku, na pláž...\! Ale nejvíc mi z toho upřímně chybí, jak jsme chodili k tobě, SUNNY!\her
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Vy jste tam měli snad všechno...\!<br>Velká televize, nejnovější hračky, klavír...\!<br>a hlavně ten dům na stromě!\her
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Přesně! Ten dům na stromě byl super!\! <br>To by mě zajímalo, jestli tam pořád stojí.\! Jak to s ním je, SUNNY?\kel #přirozenější
+
+#Microwaved food is done.
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: A, jídlo už je asi hotové!\! Vezmeme si ho do obýváku.\!<br>Tam si můžeme povídat dál!\her #přirozenější
+
+# =========================================================================================
+# Cutscene: Convincing Kel's MOM
+# =========================================================================================
+
+#Enter KEL'S Living Room.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Mimochodem, HERO...\!<br>BASIL včera dal SUNNYMU svoje \c[4]FOTOALBUM\c[0]!\!<br>Chtěl by ses na něj podívat? \kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Ty tady máš BASILOVO \c[4]FOTOALBUM\c[0]?\!<br>Klidně, můžeme při tom jíst!\her
+
+#Slide: Basil's PHOTO ALBUM (Faraway - Missing Photos)
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Škoda, že některé fotky chybí...\! AUBRY ho BASILOVI nedávno vzala, ale podařilo se nám ho dostat zpátky.\! Asi si ty zbylé nechala.\kel #blíže orig
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: ... ... ...\her
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Je s tebou něco, HERO? Seš v pohodě?\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Jo...\! J-Jenom že...\! No...\! <br>Na ani jedné z těchle fotek není MARI.\her
+
+#KEL is surprised.
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: No jo, fakt... Není.\kel
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Uff...\! Ale i tak mi vrací dost hezkých vzpomínek.\! Všechno bylo jednodušší, když jsme byli děti... Haha...\her
+
+#HERO turns to PLAYER.
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: SUNNY, něco bych po tobě chtěl.\her
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Nemohli bychom se ještě jednou naposledy podívat k tobě, než se odstěhuješ?\her
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: To je supr nápad!\!<br>Ale nejdřív bychom se měli zeptat mamky.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Asi na nás bude naštvaná, že nechceš <br>být s ní a tak.\! Však ji znáš...\kel #překlep, tohle je mířeno primárně na hera
+
+#KELOVA MAMKA comes in with SALLY.
+
+message_82:
+      text: \Com[2]Fuj! To byla ale kakastrofa!\!<br>Ale teď už je SALLY zase čistá!\n<KELOVA MAMKA>
+
+message_83:
+      text: \sinv[1]Pve\{ee!\!\} Ubuu\}uuu...?\n<SALLY> #pokračování křížové výpravy na dvojté vé
+
+#KEL gets up and goes to SALLY.
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Ahoj, SALLY...\!<br>\{\sinv[1]BAF!\kel
+
+message_85:
+      text: \sinv[1]\Com[2]BÉÉÉ\{ÉÉÉÉ\{EEEE\{EEE\{EEE!!!\n<SALLY>
+
+message_86:
+      text: Nech toho, KELI! Bojí se tě!\n<KELOVA MAMKA>
+
+#HERO is sweating and looks at KELOVA MAMKA.
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Hm...\! Takže...\! No...\! Víš...\! Mami...\! Napadlo nás, že bychom mohli na noc k SUNNYMU, když se pozítří stěhuje.\her
+
+#KELOVA MAMKA is surprised.
+
+message_88:
+      text: Cože?\! Vždyť jste teprve teď přišli!\! A už je tak pozdě...\! <br>Co kdybyste radši chvilku strávili se svou mamkou?\n<KELOVA MAMKA>
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Dívej, já tady budu celý zbytek léta, to SUNNY odjíždí!\!<br>My toho ještě spolu stihneme dost...\her
+
+#KELŮV TÁTA walks up to KELOVA MAMKA.
+
+message_90:
+      text: Za mě ať si za ním klidně jdou.\! Já přece SUNNYHO taky dlouho neviděl!\n<KELŮV TÁTA>
+
+message_91:
+      text: Už je to nějaký ten pátek, co měli takovou příležitost.\! Já bych je pustil.\n<KELŮV TÁTA>
+
+#KELOVA MAMKA turns around.
+
+message_92:
+      text: \sinv[1]Uff...\sinv[0]\! No tak dobře.\! Užijte si to, kluci...\n<KELOVA MAMKA>
+
+message_93:
+      text: Ale HERO mi bude celý příští týden pomáhat s nádobím!\n<KELOVA MAMKA>
+
+#HERO is surprised.
+
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: D-Dobře...\! To... se dá zvládnout.\her
+
+message_95:
+      text: \Com[2]Hm!\! Tak jo... Můžete jít!\n<KELOVA MAMKA>
+
+#KELOVA MAMKA turns to the side.
+
+message_96:
+      text: Pojď, SALLY. Ať si ti tvoji bráchové klidně jdou.\! <br>S náma nechtějí mít nic společného, viď, SALLY?\n<KELOVA MAMKA>
+
+#KELOVA MAMKA walks O.S.
+
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: Ach, mami...\her
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelMusím se ještě nachystat!\! Stavíme se ještě ke mně do pokoje!

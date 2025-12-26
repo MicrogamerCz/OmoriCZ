@@ -1,0 +1,548 @@
+# =========================================================================================
+# Cutscene: Neighbors Room Intro, DAY 0 PART 1
+# =========================================================================================
+
+#Area Block
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: No tak! Tamtudy se přece nejde na hřiště!\aub #pokus o zachování "přátelštějšího" rázu
+
+#TRIGGER: ENTER NEIGHBORS ROOM
+
+#upon seeing OMORI, AUBREY runs across the cards to greet him.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Ahoj, OMORI! Už jsme se těšili, až přijdeš!\!<br>Zahraješ si s náma karty?\! <br>Zrovna chystáme novou hru!\aub #přirozenější
+
+#AUBREY looks behind her.
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Jejda!\! Ale ne...\! Tak teda asi nakonec nic...\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Kruci písek!... \Com[2]Co to mělo bejt, AUBRY!?\!<br>Zkazila si nám karty!\!<br>A zrovna, když jsem vyhrával!\kel #za mě plynulejší
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: No tak, KELI, nerozčiluj se.\!<br>Je to přece jenom hra.\her #zní přirozeněji
+
+#KEL looks at HERO
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Ale nekecej, HERO!<br>\!To říkáš jenom proto, žes prohrával!\kel
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\her
+
+# =========================================================================================
+# Aubrey's Dialogue before Omori gives her the PlantEgg
+# =========================================================================================
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubPročpak je na mě \n[3] pořád tak zlý!?\! <br>Slyšel jsi o tom, jak mi teď nedávno ukradl můj \c[13]PLYŠOVÝ LILEK\c[0] a kdesi ho schoval? #Nezněl by plysový lilek lépe? Vycpaný se myslím více užívá u skutečných zvířat, které byly zabity a vycpány. Sice by to slovo tady asi taky sedělo, ale když nad tím popřemýšlím, tak mi tam plyšový sedí lépe.
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubProč by to dělal?\! Neposeda jeden\! <br>Co jsem mu kdy vůbec udělala!? #za mě zní přirozeněji
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubMohl bys mi ten \c[13]PLYŠOVÝ LILEK\c[0] najít, \n[1]?\! Prosííím?
+
+
+# =========================================================================================
+# Kel's Dialogue
+# =========================================================================================
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelTy jo, \n[1], koukej, co jsem našel!
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelDomácí kamínek... Hustej, že?
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 35
+    text: Malinký domácí kamínek na tebe kouká z \n[3]ovy KAPSY.
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{BUDE SE JMENOVAT \c[13]HEKTOR\c[0]!!\}
+
+message_126:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kel\}Jo a, jen tak mezi náma...\!<br>Můžeš se s ním vidět kdykoliv se podíváš do mého VYBAVENÍ přes MENU!
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kel\SINV[1]Achhhhjooooo...\sinv[0]\!<br>AUBRY vždycky dostane všecko, co si zamane. #za mě originíl zní, že Kel Aubrey závidí a Achhhhjooooo za mě ten ráz zachovává lépe.
+
+# =========================================================================================
+# Hero's Dialogue
+# =========================================================================================
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herJak se máš, \n[1]? Už tady na tebe čekáme! #zachování přátelštějšího rázu
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \her\n[3] a \n[2] se spolu zase nepřestanou prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #osobně si myslím, že pytel blech lépe sedí
+
+# =========================================================================================
+# Cutscene: STUFFED TOY
+# =========================================================================================
+
+#TRIGGER: OMORI finds AUBREYs Stuffed Toy, and returns the Stuffed toy to AUBREY
+
+message_27:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Že by?\! Není to snad...?\aub #zní přirozeněji
+
+#AUBREY does a twirl.
+
+message_28:
+      text: AUBRY ti vytrhla \c[13]PLYŠOVÝ LILEK\c[0] z kapsy.
+
+#AUBREY turns to KEL.
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hej, KELI!\! Koukej! Můj \c[13]PLYŠOVÝ LILEK!\c[0]\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \Com[2]Sakra!...\! Jak jsi ho našla?\kel
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: OMORI mi ho našel!\!<br>Ještě že mám i skutečné kamarády!\aub #přirozenější, lépe zachovává původní význam (lucky for me)
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Dobře ti tak, KELI.\!<br>Neměl by sis dovolovat na ostatní.\her
+
+#KEL looks at HERO.
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Ale vždyť si AUBRY začala...\!<br>Dělela si srandu z toho znamínka<br>na mojem...\kel #vypuštěním "to" ta věta za mě zní přirozeněji
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Na tvojem...\! čem?!\aub
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: ...\kel
+
+#HERO looks at AUBREY
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: AUBRY...\her
+
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: No, tak dobře...\aub #za mě přidáním "no" zní věta lépe
+
+# =========================================================================================
+# Aubrey's Dialogue after Omori gives her PlantEgg
+# =========================================================================================
+
+message_38:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubDíky, \n[1]! Věděla jsem, že je na tebe spoleh.\!<br>Jsi nejlepší!
+
+# =========================================================================================
+# Hero's Dialogue after Omori gives Aubrey PlantEgg
+# =========================================================================================
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herJsem rád, že se to vyřešilo.\! Ti dva snad nikdy nedají pokoj. #zní přirozeněji
+
+message_43:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herMARI a BASIL nás pozvali na piknik na hřišti!\!<br>Nechtěl bys za nima?
+
+message_40:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herTakže, všichni...\!<br>Pojďme za BASILEM a MARI! #plynulejší
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herV pořádku!\! Počkáme tady.
+
+message_42:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herTak co, \n[1]!\! Jsi připraven vyrazit?
+
+#IF YOU GO TO WHITE SPACE AND THEN RETURN TO NEIGHBOR'S ROOM
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herVítej zpátky, OMORI!\! Můžeme vyrazit??
+
+#DAY 1 PYREFLY
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herTakže, všichni...\!<br>Pojďme najít BASILA!
+
+#AFTER SGL
+
+message_52:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herTakže, všichni...\!<br>Pojďme objevovat okolí!
+
+# =========================================================================================
+# Cutscene: STUMP ENTRANCE
+# =========================================================================================
+
+#TRIGGER: ENTER STUMP ENTRANCE
+
+#KEL, HERO, and OMORI pop out of the stump.
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\sinv[1]JUPÍ!! KONEČNĚ ČERSTVÝ VZDUCH!!\!\}<br>A ta nádherná příroda!\! Tak už pojďme!\kel
+
+#KEL, HERO, and OMORI start walking to FOREST PLAYGROUND.
+  #AUBREY is off screen
+
+message_59:
+      text: \Com[2]Hej, počkejte chvilku!\aub #Aubrey tady v originále mluví ke všem třem
+
+  #AUBREY pops out of the stump half-way
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Pomozte mi! Zasekla jsem se!\aub #pravopis
+
+#HERO begins walking toward stump but is blocked by KEL.
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \SINV[1]Kouzelné slůvko?\SINV[0]\kel
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: KELI, přestaň blbnout a koukej mi pomoct!\aub
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: No tak jo... \}dobře.\kel
+
+#KEL pulls AUBREY out of the stump.
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Hm!\! To teda trvalo!\aub #více mi sedí to přidané teda
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Tak pardón, princezno...\kel
+
+# =========================================================================================
+# Cutscene: Mari and Basil
+# =========================================================================================
+
+#TRIGGER: enter Forest Playground
+
+#AUBREY runs to MARI.
+
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \{MARI! BASILE!\aub
+
+message_87:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Ahoj AUBRY! Ahoj všichni!\!<br>Jak se dneska máte?\mar
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{KEL NA MĚ ZASE BYL ZLÝ!!\aub
+
+message_89:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: No tak!\! Už zase...\! Jak je to možné?\mar
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: Ts, já nebyl na nikoho zlý!\! AUBRY je zase jenom uplakaná.\kel #zní přirozeněji
+
+message_91:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: No KELI!\! To je celkem přesvědčivý argument.\! <br>Teď nevím, komu mám věřit!!\mar #"Jako" v této větě znělo mírně dětinsky na Mari, nakonec jsem to trochu předělal, abych zachoval původní význam
+
+message_92:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \{NO MNĚ!!\kel\}
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{NE! VĚŘ MNĚ!!\aub\}
+
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: (ufff)\! Tak už se konečně zklidněte, vy dva.\!<br>\}Proč to vždycky dopadá takhle?\her
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Hlavu vzhůru, HERO! To bys nebyl ty, kdyby ses pořád nechoval tak zodpovědně...\mar 
+
+message_96:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: To mě na tobě vážně bere... hehehe...\mar
+
+message_97:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: No tak, MARI!\! Teď ne...\her
+
+message_98:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš jaký jsi hezký když se zarazíš?!\mar #plynulejší
+
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: ...\her
+
+message_100:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Hehehe...\mar
+
+message_101:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Zatímco jsme na vás čekali, projížděla jsem si s BASILEM jeho \c[4]FOTOALBUM\c[0]!\! Chtěli byste se přidat?\mar
+
+message_102:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Jasně!\!<br>Koneckonců...\! jsou to přece naše fotky, ne?\aub
+
+message_103:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{BASILE, BASILE! KOUKEJ NA TOHLE!!!\kel
+
+#Kel does a pose
+
+message_104:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]No tak, BASILE! Vyfoť mě!\kel
+
+#Short pause
+
+message_105:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Promiň, KELI. Já si ostatní fotím vždycky jen když to nečekají!\bas
+
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Ty je rád fotíš když to nečekají a chovají se přirozeně, že, BASILE?\her
+
+message_107:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Jo...\! Na tom, jak si všichni jen žijeme své životy je cosi tak kouzelného.\! Přesně takové chvíle bych chtěl zachytit!\bas
+
+message_108:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Takže prostě...\! máme dělat že tam nejsi?\kel
+
+message_109:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Haha...\! No, asi by se to tak dalo říct.\bas
+
+message_110:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Dobře! To zní jako hračka!\kel
+
+#Kel looks away.
+
+message_111:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Ukázal bys nám teda svoje \c[4]FOTOALBUM\c[0], BASILE?\mar
+
+message_112:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: No tak dobře...\! i když na něm nic moc není.\bas
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: No tak, BASILE! Proč o sobě pořád pochybuješ?!\!<br>Ty fotky jsou určitě suprovní!\aub
+
+message_114:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: Más pravdu, AUBRY.\!<br>Promiň...\! Zkusím si pro příště možná trochu víc věřit.\bas
+
+#Basil takes out PHOTO ALBUM.
+#Party surrounds Basil, except Kel.
+
+message_115:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Tak.\! Takhle bychom na něj měli všichni vidět.\bas #lépe zachovává původní význam, plynulejší
+
+message_116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Tyhle fotky jsou vážne kouzelné, BASILE.\!<br>Umíš vždycky skvěle vystihnout moment!\her
+
+message_117:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Díky...\! Vlastně nejsou ani všechny moje.\!<br>MARI mi přece občas krade foťák.\bas #sem bych dal buď občas nebo ráda. obě mi nezní dobře
+
+message_118:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Ale opravdu jenom občas!\mar
+
+message_119:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Hele, mám nápad!\! Nechtěli byste ke mně přijít na návštěvu?\bas #přirozenější
+
+message_127:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Zrovna jsem zasadil pár nových klíčků a chtěl bych je hrozně někomu ukázat.\! Pojďte! Jsou vážně hezké!\bas
+
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Jistě! To bude zábava!\! Pojďme!\kel #za mě přirozenější
+
+#Hero walks 1 step down.
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Jižně od hřiště, že?\her
+
+message_122:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Jo, tamtudy!\bas
+
+message_123:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marHmm...\! Myslím, že vás v tom zrovna dneska nechám.\! Užijte si to!\mar
+
+message_130:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marAle jestli budete někdy unavení, můžete se kdykoliv zastavit na piknik!
+
+message_131:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: S občerstvením můžete vždycky počítat...\! a můžete si taky pomocí mého košíku ULOŽIT HRU!\mar
+
+message_132:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herDíky, MARI!\! Ty jsi vždycky tak hrozně obětavá!
+
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Měj se, MARI! Na viděnou!\aub #přirozenější
+
+message_125:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Tak si to užijte!<br>\!Kdyžtak víte, kde mě najít!\mar
+
+# =========================================================================================
+# NEIGHBOUR'S ROOM DOOR
+# =========================================================================================
+
+message_200:
+      text: Tví kamarádi na tebe čekají.

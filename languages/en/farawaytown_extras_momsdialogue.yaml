@@ -1,0 +1,150 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MOM'S VOICEMAIL
+
+                  #Examine phone
+message_0:
+      text: \"Ahoj SUNNY, tady MAMKA.\! Pořád jsem ve městě a chystám věci pro ten nový dům.\! Máš už sbaleno?\"\n<MAMČIN VZKAZ>
+
+message_1:
+      text: \"Za pár dní přijedou stěhováci, a tak jsem ti připravila seznam domácích prací, které bys měl stihnout, než odjedeme.\"\n<MAMČIN VZKAZ> #povinnosti na práce
+
+message_2:
+      text: \"A promiň!\! Trochu jsem něco popletla!\"\n<MAMČIN VZKAZ> #přiroz
+
+message_3:
+      text: \"Zapomněla jsem dodavateli elektřiny říct, že budeme potřebovat trochu více času, a proto ti možná v noci nepůjde proud.\"\n<MAMČIN VZKAZ>
+
+message_4:
+      text: \"Jinak...\! Chápu, že jsi z toho stěhování možná vystresovaný, ale myslím, že by nám změna rozhodně přišla vhod!\"\n<MAMČIN VZKAZ> #lépe se hodí pro mámu
+
+message_5:
+      text: \"Vím, že jsi dlouho s nikým nemluvil, ale možná by ses měl rozloučit se svými starými kamarády.\"\n<MAMČIN VZKAZ> #viz výše
+
+message_6:
+      text: \"KEL s tebou chce mluvit už od té doby, co si všiml, že je náš dům na prodej.\! Volá nám každý týden už několikátý měsíc v řadě!\"\n<MAMČIN VZKAZ>
+
+message_7:
+      text: \"Připadá mi trochu osamělý...\! Možná bys k němu mohl na návštěvu.\!<br>Dobře, to je všechno!\! Mám tě ráda!\! Měj se, broučku!\"\! \quake[1]\}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: Máš hlad.
+
+message_9:
+      text: Náhle máš STRACH.
+
+#Examine Fridge
+
+message_10:
+      text: Díváš se do ledničky a vidíš...\! \c[4]STUDENÝ STEAK\c[0].\! Vezmeš si ho?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: Získal jsi \c[4]STUDENÝ STEAK\c[0].\!<br>Mohl by sis ho nejdříve ohřát.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: Vložil jsi \c[4]STUDENÝ STEAK\c[0] do mikrovlnky.
+
+                #Examine Steak Knife
+message_13:
+      text: Vzal jsi \c[13]NŮŽ NA STEAK\c[0] do ruky.
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: \c[4]OHŘÁTÝ STEAK\c[0] je hotový.
+
+                # Examine BED
+
+message_15:
+      text: Velmi, velmi příjemná postel.\!<br>Chtěl bys jít spát?
+
+
+# =========================================================================================
+# MAMČIN VZKAZs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: Na zrcadle je přilepený papírek
+
+message_21:
+      text: Na zdi je přilepený papírek.
+
+#First line always
+
+message_22:
+      text: \"Ahoj, SUNNY! Píšu ti já, MAMKA.\"\n<MAMČIN VZKAZ>
+
+#Bathroom mirror
+
+message_23:
+      text: \"Nezapomeň si každý den mýt zuby!\"\n<MAMČIN VZKAZ>
+
+#Living Room
+
+message_24:
+      text: \"Kdybys vyšel ven, nezapomeň se rozhlížet na přechodu!\"\n<MAMČIN VZKAZ> #rozhlížet
+
+#Bedroom
+
+message_25:
+      text: \"V ledničce jsem ti nechala jídlo.<br>Máš tam \c[4]STEAK\c[0]... tvůj oblíbený!\"\n<MAMČIN VZKAZ>
+
+#last Line always
+
+message_29:
+      text: \"Mám tě ráda.\"\n<MAMČIN VZKAZ>
+
+
+#Day 1:
+
+message_50:
+      text: \"Ahoj SUNNY, tady MAMKA.\!<br>Jak se máš?\! Jedl jsi něco?\"\n<MAMČIN VZKAZ>
+
+message_51:
+      text: \"Doufala jsem, že bych dneska mohla přijít, ale v obchodě s nábytkem mají zrovna slevy, a víš, jak nečemu takovému nemůžu odolat!\"<br>\"Ty to ale na těch pár dní sám zvládneš, viď?\!<br>Koneckonců už jsi přece velký!\"\n<MAMČIN VZKAZ> #přiroz
+
+message_52:
+      text: \"Nezapomeň dodělat ty domácí práce.\! Na tom stolečku vedle tvých dveří jsem ti dala seznam.\! Dobře, to je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
+
+#Day 2:
+
+message_55:
+      text: \"Ahoj SUNNY, tady MAMKA.\! Jak se máš?\! Ani jendou mi ještě ani jednou nezavolal ani neodpověděl na tyhle vzkazy.\! Jestli mě budeš dále ignorovat, zase o tebe budu mít strach!\"\n<MAMČIN VZKAZ> #tón
+
+message_56:
+      text: \"Doufám, že sis dobře rozložil ty domácí práce...\! Ani já bych je za jeden den všechny nestihla!\"\n<MAMČIN VZKAZ>
+
+message_57:
+      text: \"A byl jsi u toho KELA?\! Jestli ne, nevadí... chápu.\! Máš holt svoje tempo...\"\n<MAMČIN VZKAZ>
+
+message_58:
+      text: \"Mimochodem, mohl bys z té skříně, kterou máme dole, vzít to, co bys chtěl s sebou?\! Zbytek asi vyhodíme.\"\n<MAMČIN VZKAZ> #srozumitelnější
+
+message_59:
+      text: \"Za dva dny tě teda přijedu vyzvednout.\!<br>To je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ> #dny
+
+#Day 3:
+
+message_60:
+      text: \"Ahoj SUNNY, tady MAMKA.\! Tak zítra je den D!\!<br>Stěhováci by měli přijet hned ráno.\! Dala jsem jim klíče, takže se jich kdyžtak nelekej, kdyby už byli vevnitř."\n<MAMČIN VZKAZ> #tak kdyby s měkkým i je mi novinka...
+
+message_61:
+      text: \"Hlavně se ujisti, že máš všechno nachystané.\! Hned ráno na tebe budu čekat v autě před domem.\! Jen vylez ven, až budeš hotový.\"\n<MAMČIN VZKAZ>
+
+message_62:
+      text: \"Dobře, to je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
+
+#Day 4:
+message_66:
+      text: \"Ahoj SUNNY, tady MAMKA.\! Už čekám venku, takže až budeš připravený, jedeme.\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ>

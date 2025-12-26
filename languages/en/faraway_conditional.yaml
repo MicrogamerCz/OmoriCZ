@@ -1,0 +1,178 @@
+# =========================================================================================
+# Farawway town Conditional changes
+# =========================================================================================
+
+# =========================================================================================
+#If opened door on Day 1 of Faraway town
+# =========================================================================================
+
+#Cutscene: Pyrefly Intro
+#Enter Pyrefly Forest
+#KEL: Ugh... I hate this place... It gives me the heebie-jeebies...
+#AUBREY: Don't be such a baby, KEL. They're just bugs!
+#KEL: Aaaah! There's a huge bug in your hair!
+#AUBREY: W-What? Where? Get it off! Get it off!
+#KEL: Haha! Just kidding! Look who's the scared one now.
+#AUBREY: Hmph! That's not very funny, KEL...
+                    #>>>>>> changes to >>>>>>
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelUff... \!Já to tady nesnáším... Z tohohle místa se mi zvedá žaludek... #konzistence
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubAle, nebuď takový strašpytel, KELI. Vždyť jsou to jenom brouci!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kel\{\Com[2]\QUAKE[1]Ááááaaaa!!\}\!<br>\Com[2]Máš ve vlasech obřího pavouka!!\QUAKE[0]
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \aub\{\Com[2]\QUAKE[1]C-Cože?! \!Kde?! \!\Com[2]Sundej ho!!\}\QUAKE[0]
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\Com[2]\QUAKE[1]Sundej ho ze mě než tě nakopnu do kaďáku!\QUAKE[0]
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelFuj... \!V klidu, AUBRY... \!To byla jenom sranda... #"z tebe srandu" je na úkor Aubrey, což tohle rozhodně je, ale původně tato dopoběď tak vyznít neměla
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubJejdanane! \!Promiň! \!Nevím, co mě to popadlo... #blíže orig
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubKaždopádně to nebylo moc vtipný, KELI...\!<br>Raději se mi omluv, než- #blíže orig
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelJo, jo... Promiň...
+
+#TVGIRL:
+#TVGIRL: Dang... All they've been showing lately is re-runs... When is something interesting going to show up?
+                                      #>>>>>> changes to >>>>>>
+message_10:
+      text: \n<TELEKUKAČKA>Zrovna začali vysílat nový pořad! \!<br>Je na můj vkus sice trochu moc dramatický, ale o to víc je zajímavý...<br>\!Už teď jsem z něj úplný blázen! #rod
+
+
+# =========================================================================================
+#If opened door on Day 2 of Faraway town
+# =========================================================================================
+
+#I LOVE PICKLES!
+#MARI'S PICNIC
+#Location: SWEETHEART'S CASTLE - PRISON B1
+#In MARI's Intro Dialogue,
+#KEL: Awww... Yuck! I hate pickles! Next time, can you sneak in some jam instead?
+                        #>>>>>> changes to >>>>>>
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kel\{\Com[2]Mňam!! \Com[2]Miluju okurky!\} #vypouštím "já" a rovnou se zbavuju i překlepu
+
+#BERLY PUNCH:
+#Only triggers once.
+#Before playing her usual dialogue, BERLY punches leader.
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\Com[2]Hej! Co to jako bylo?! #přiroz
+
+message_22:
+      text: \berNevím... \!Se mi jenom tak zachtělo...
+
+#SAD EXPRESSION (DAY 3 ONLY):
+#MARI'S PICNIC
+#Only triggers once.
+#After playing her usual dialogue, MARI says:
+
+message_23:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marOMORI... Jsi v pořádku?
+
+message_24:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marPoslední dobou mi připadáš takový skleslý..\!<br>Děje se něco?
+
+
+# =========================================================================================
+#After entering piano room in FARAWAY TOWN
+# =========================================================================================
+#Grand Pianos appear all over DREAM WORLD.
+#Grand Pianos can be played in any order.
+
+#Locations:
+
+#VAST FOREST: Forest Playground
+#SWEETHEART'S CASTLE: In the Ballroom
+#JUNKYARD: Near the Couch? Somewhere that looks cool
+#LAST RESORT: Mr Jawsum's Room
+#ORANGE OASIS: In the middle of the desert
+#FROZEN FOREST ENTRANCE: In the middle of the snow-covered field
+
+#Upon examining a piano:
+
+message_40:
+      text: Křídlový klavír. \!<br>Uprostřed lišty je vyryto slovo \"OMORI\".
+
+message_41:
+      text: Sedneš si k němu?
+#yes/no
+#PIANO (1)
+
+message_42:
+      text: Hlavou se ti dvě jisté noty...<br>\!Připravil jsi ruce ke hře.
+
+#PIANO (2)
+message_43:
+      text: Hlavou se ti ozývají noty...<br>\!Připravil jsi ruce ke hře.
+
+#PIANO (3)
+message_44:
+      text: Začneš si vybavovat část melodie...<br>\!Připravil jsi ruce ke hře.
+
+#PIANO (4)
+#same text as Piano 3
+
+#PIANO (5)
+#same text as Piano 3
+
+#PIANO (6)
+message_45:
+      text: Vzpomněl sis na povědomou melodii... \!<br>Ruce se ti hýbou samy.
+
+#After playing the piano, it will disappear.
+
+
+
+#Finding all the Pianos will trigger Cutscene: Piano and Violin
+
+#OMORI sitting at the piano.
+#Camera zooms to MARI at entrance of room. MARI walks up to him.
+#MARI turns over to face PLAYER on the chair.
+
+message_46:
+      text: \marÁ! Ahoj, SUNNY... \!<br>Vidím, že ses v tom čtení not celkem zlepšil, haha!
+
+message_47:
+      text: \marZrovna zkoumáš tu novou písničku, kterou se učím... \!Líbí se ti?
+
+message_48:
+      text: \marJsem si celkem jistá, že existuje i předělávka pro klavír a housle...
+
+message_49:
+      text: \marNenaučíme se ji hrát spolu?

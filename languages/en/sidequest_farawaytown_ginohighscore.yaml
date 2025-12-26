@@ -1,0 +1,49 @@
+# =========================================================================================
+# Sidequest: Gino's High score
+# =========================================================================================
+
+#Examine Gino's arcade machine
+
+message_1:
+      text: \n<BREJLOVEC>Já...\! To konečně dokázal...\! Už tady nějaký ten pátek hraju <br>POŽÍRAČE KRTKŮ a konečně se mi podařilo překonat světově nejlepší skóre...
+
+message_2:
+      text: \n<BREJLOVEC>S tím, že...\! o téhle hře tak 20 let už nepadlo slovo...\!<br>ale i tak!\! Je to úspěch, na který jsem pyšný!
+
+message_3:
+      text: \n<BREJLOVEC>Hej, ty jsi ten prcek, který mi přinesl chybějící součástku do AUTOMATU, viď?!
+
+message_4:
+      text: \n<BREJLOVEC>Nechtěl by sis zahrát POŽÍRAČE KRTKŮ?
+
+#Yes/No
+
+#If yes
+message_5:
+      text: \n<BREJLOVEC>Super!\! Tak já ti ustoupím... na chvilku.
+
+#If No
+message_6:
+      text: \n<BREJLOVEC>Dobře!\! Tím víc ho zbyte pro mě!
+
+#GINO moves one step to the left.
+
+#Exit game after beating Gino's Score:
+
+message_7:
+      text: \n<BREJLOVEC>Já...\! Nevěřím svým čtyřem očím...\! Tys...\! Překonal můj rekord!\! A mé sny jsou ty tam...
+
+message_8:
+      text: \n<BREJLOVEC>To mi to skóre vydrželo...\! Ani jsem to nestihl oslavit!
+
+message_9:
+      text: \n<BREJLOVEC>Fňuk...\! No...\! Teď není čas na truchlení!\! <br>Tahle chvíle patří jen tobě!\! Zaslouženě sis získal místo největšího šampiona v POŽÍRAČI KRTKŮ!
+
+message_10:
+      text: \n<BREJLOVEC>Na, vem si tohle.\! Nezapomeň, je z tebe celebrita!
+
+message_20:
+      text: \n<BREJLOVEC>Vzpomeň si na mě, až budeš slavný, bráško!
+
+message_30:
+      text: Hra s názvem "POŽÍRAČ KRTKŮ".\!<br>Zahrát si stojí $1,00.

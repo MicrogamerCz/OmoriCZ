@@ -1,0 +1,534 @@
+# =========================================================================================
+# Cutscene: Stolen PHOTO ALBUM
+# =========================================================================================
+
+#Trigger: Examine BASIL's House Door.
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Tak...\! Díky, že jste mě doprovodili.\bas
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: No problem-o!\!<br>Kdybys po mně někdy něco chtěl, stačí říct, jo?<br>\!Zatím se měj, BASILE!\kel
+
+#KEL and PLAYER begin walking.
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: D-Dobře...\! ...\bas
+
+#BASIL walks one step forward.
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 41
+      text: \Com[2]\{POČKEJTE!! PROSÍM, NEODCHÁZEJTE JEŠTĚ!!!\bas
+
+#KEL turns around.
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: Teda...\! Chtěl jsem říct...\! Já... Promiňte.\! Něco bych po vás chtěl.\bas
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Jasná páka, BASILE! Co bys potřeboval?\kel
+
+message_6:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: No...\! Víte...\!<br>Někdo mi vzal něco, co pro mě hodně znamená.\bas #přirozenější
+
+#BASIL walks one step back.
+
+message_7:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: ... ... ... \bas
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Když...\! jsme...\! ještě byli kamarádi...\!<br>Rád jsem nás všechny fotil, pamatujete si to, že?\bas
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Samozřejmě, že si to pamatuju.\!<br>Ty fotky pro tebe byly všechno!\kel
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: Tak...\! Dobře...\! No...\! AUBRY...\! <br>mi vzala moje \c[4]FOTOALBUM\c[0] a...\bas
+
+#KEL walks one step forward.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{AUBRY TI UKRADLA \c[4]FOTOALBUM\c[0]!?\kel
+
+message_12:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: No...\! A...\! Nechce mi ho vrátit...\bas
+
+#KEL turns around.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{KREATURA JEDNA!!\}\kel #"kráva" tady Kel absolutně říct nemůže
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Nedělej si starosti, BASILE.<br>\!Na mě a SUNNYHO se můžeš spolehnout.\kel
+
+message_15:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Aha...\! Tak dobře...\! Díky...\bas
+
+#KEL turns toward BASIL.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Mimochodem...\! K tomu, co jsi před chvilkou řekl...\kel
+
+#KEL walks up to BASIL.
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Pořád jsme kamarádi.\! Nezapomeň na to, okej?\kel #přeložen zbytek věty
+
+message_18:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text:  ...\! Dobře.\bas
+
+#KEL walks back to PLAYER.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Takže SUNNY! Není čas ztrácet čas!\! Musíme přece najít to \c[4]FOTOALBUM\c[0].\! V \c[11]PARKU\c[0] by možná mohly být nějaké stopy!\kel
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Tak...\! Se mějte.\bas
+
+# =========================================================================================
+# Cutscene: Charlie & Angel Intro
+# =========================================================================================
+
+#Trigger: Walk in proximity of Charlie.
+
+#KEL looks around.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Hmm, AUBRY tady asi zrovna není...\kel
+
+#KEL is surprised and walks up to CHARLIE.
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Počkat! Tebe znám. Ty jsi ŠÁRA, viď?\! <br>Občas jsem tě viděl bavit se s AUBRY.\kel
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Nevěděla bys, kde bychom ji našli?\kel
+
+#CHARLIE turns to face KEL.
+
+message_43:
+      text: ...\cha
+
+#CHARLIE turns away.
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Víš, ŠÁRO...<br>Vidím na tobě, že nejsi taková, jako ona.\kel
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: AUBRY BASILOVI vzala něco důležitého a nechce mu to vrátit.\! Nemohla bys nám pomoct?\kel
+
+message_46:
+      text: ...\cha
+
+#CHARLIE shakes a nearby tree.
+#ANGEL comes out of the tree and poses.
+
+message_47:
+      text: \{\Com[2]KDO, CO, KDE, KDO!?\}<br>Co se zase děje?!?!\who #přirozenější
+
+#ANGEL turns to KEL.
+
+message_48:
+      text: Aha!\! Kdo jiný, než KEL a ten divnej s nožem.\!<br>Konečně soupeři hodni se postavit veliké a vznešenému ANDĚLOVI.\who #angel je kluk
+
+#ADD FWEFWEFWEFWE
+
+message_49:
+      text: Nadešel čas vašeho pádu!\ang
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: ANDĚLI, na tohle fakt nemáme čas...\! <br>Musíme najít AUBRY.\! <br>Víš, kde je?\kel #viz výše
+
+message_51:
+      text: Tak vy hledáte AUBRY...\! \Com[2]Zajímavé!\! <br>Řeknu vám všechno, co vím...\!<br>ale budete mě nejdřív muset porazit v boji!\ang
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: V boji!?\! Ale...\! Já...\! se nechci rvát s dítětem...\kel
+
+#ADD FWEFWEFWEFWE
+
+message_53:
+      text: Ani se mě nedotknete a už budete na zemi!\!<br>\Com[2]\{TAK POJĎTE!!\! \Com[2]SKOLÍME JE, ŠÁRO!!\ang #upřesněn význam
+
+#CHARLIE sighs and walks toward ANGEL and poses.
+
+# =========================================================================================
+# Cutscene: Charlie & Angel's Loss
+# =========================================================================================
+
+#ANGEL falls to the floor.
+
+#ADD FWAAAAAAAAAAAAAA
+
+message_70:
+      text: Jak je tohle možné!? Všechen ten trénink mi byl nakonec k ničemu!\ang
+
+#CHARLIE looks at ANGEL.
+
+message_71:
+      text: ...\cha
+
+message_72:
+      text: Au, moje hlava...\ang
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Neměl sis začínat.\kel #viz výše
+
+#ANGEL jumps up.
+
+message_74:
+      text: \Com[2]\{TY OTRAVO!!!\ang
+
+#KEL is frustrated.
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Uff...\! Dost srandiček, ANDĚLI, teď vážně.\! <br>Porazili jsme vás, tak nám teď řekni, kde najdeme AUBRY.\kel #viz výše
+
+message_76:
+      text: Hm!\! No, slib je slib...\! <br>Řeknu vám, co vím.\ang #blíže orig
+
+#LOSE CONDITION
+
+message_95:
+      text: \ang\com[2]\{\{HA! KELI, TY JEDEN BLBE!!
+
+message_96:
+      text: \angJak se dalo čekat, souboj vyhrává ANGEL a CHARLIE!
+
+message_97:
+      text: \angMistr by na mě byl pyšný.
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kel\}Uff...\! Tak tohle mám za to, že nechci ubližovat dětem.
+
+message_99:
+      text: \ang\com[2]Cože? Cos to říkal!?\! Nehledej si výmluvy, KELI! Vyhráli jsme naprosto férově a na plné čáře!\! Viď, ŠÁRO? #viz výše
+
+message_100:
+      text: \n<ŠÁRA>...
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Dost srandiček, ANDĚLI, teď vážně.\! Musíš nám říct, kde bychom našli AUBRY.\!\kel
+
+message_102:
+      text: \angEEEEH...\! S tebou není žádná sranda...\! Nedivím se, že nám AUBRY říkala, abychom se tobě vyhýbali. #blíže orig, přirozenější
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \kelHele, tohle je vážná věc, ANDĚLI!\! Vážná a dost dospělá věc!\! Nechceš snad, aby se do tohohle zapletl nějaký dospělák, ne?
+
+message_104:
+      text: \angUff...\! No...\! Tak dobře. Řeknu vám, co vím, ale asi se vám to stejně nebude líbit.
+
+#BOTH
+
+message_77:
+      text: Popravdě...\ang #přirozenější
+
+message_78:
+      text: AUBRY je...\! někde...\! v \c[11]PŘEDALEKÉ LHOTĚ\c[0]...\! myslím.\ang
+
+#KEL jumps.
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Sakra, ANDĚLI!\! Jestli sis z nás celou dobu utahovala, tak si mě-\kel #převedení do min času
+
+message_80:
+      text: Řekla jsem, že vám řeknu všechno, co vím!\! <br>A pravda je, že vím velký kulový!\ang
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: ANDĚLI...\! Jestli nám teď hned neřekneš, kde je...\!<br> tak všem povím o tom, jak jsi tehdá na letním táboře počůrala postel.\kel
+
+#ANGEL is surprised, and jumps.
+
+message_82:
+      text: \Com[2]Co!? C-C-C-Cože!?<br>To ne! Ty není fér!\ang #přirozenější
+
+#ANGEL turns around.
+
+message_83:
+      text: Každopádně, stejně nic nevím!\ang
+
+message_84:
+      text: Mohl by ses zeptat mého mistra, STŘEMHLAVA.\! Ten ví všechno, v něm je všechna moudrost!\! Sám mi to řekl!\ang #přirozenější
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: STŘEMHLAV?\!<br>Ale ne...\! Ty myslíš tam toho divného, toho... MICHAELA?\kel
+
+message_86:
+      text: \Com[2]Neříkej mu tak!\! <br>Přece víš, jak by ho to urazilo.\ang
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Aha...\! takže... on...\!<br>Kde bych toho MICHA-, tedy, uh, STŘEMHLAVA, našel?\kel
+
+message_88:
+      text: Řeknu vám, co vím...\! ale nejdřív...\! mě budete muset porazit v boji!\ang
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: A nebo... bych všem mohl povědět o tom, jak-\kel
+
+message_90:
+      text: \{\{\quake[1]GAH!! \ang
+
+message_91:
+      text: Tak dobře, řeknu vám to.\! Mistr šel ke kašne na \c[11]NÁMĚSTÍ\c[0].\!<br>Prý tam šel za nějakýma holkama...\!<br>na rande nebo co...\ang
+
+message_92:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Uff...\! no fuj.\kel
+
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Pojď, SUNNY. Je čas jít na \c[11]NÁMĚSTÍ\c[0]...<br>Řekl bych, že tady už nemáme co dělat.\kel
+
+message_94:
+      text: \ang\sinv[1]\{FÚÚÚÚ\{AAAAAA\{AAAAAAAA!!! #odstranění w
+
+# =========================================================================================
+# Cutscene: The Maverick Intro
+# =========================================================================================
+
+#Trigger: Walk in proximity of The Maverick.
+
+#MAVERICK is at the fountain, with one girl on each arm.
+
+message_110:
+      text: A pak jsem mu řekl... Nejsem STŘÍDMLAV.\! <br>Ale \Com[2]STŘEMHLAV!\mav #lepší něco, než nic
+
+message_111:
+      text: Ale, \Com[2]STŘEMHLAVE, ty jsi tak vtipný!\n<GIRL>
+
+message_112:
+      text: Ho-ho! Ty jo, to byla ale skvělá historka, \Com[2]STŘEMHLAVE!\n<GIRL 2>
+
+message_113:
+      text: \sinv[1]No tak, holky... prosímvás! Stačíte mě všechny vůbec?...\sinv[2]\mav
+
+#KEL walks up.
+
+message_114:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: MICHAELI...\! Co tady děláš?\kel
+
+message_115:
+      text: \Com[2]A!\mav
+
+#THE MAVERICK walks toward KEL and flips his hair.
+
+message_116:
+      text: Kdo jiný, než KEL!\! Můj...\! \Com[2]úhlavní nepřítel!\mav #zní lépe
+
+#THE MAVERICK does a lame pose.
+
+message_117:
+      text: Že bys konečně přišel uznat svou prohru?\mav
+
+message_118:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Na tohle nemám čas ani chuť, MICHAELI.\!<br>Hledáme AUBRY. Neviděls ji tady někde?\kel
+
+#THE MAVERICK starts to sweat.
+
+message_119:
+      text: N-Neříkej mi tak!\! <br>To jméno jsem již dávno odhodil!\mav
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Tak víš kde je, nebo ne, MICHAELI?\kel
+
+message_121:
+      text: To si to zatracené jméno nemůžeš odpustit?!\! <br>Jak si dovoluješ takhle si ze mě utahovat!!\mav #přirozenější
+
+message_122:
+      text: JÁ, \Com[2]STŘEMHLAV, si tohle líbit nenechám!\! <br>\Com[2]\{PŘIPRAVTE SE NA VAŠI SKÁZU!\mav #pravopis
+
+message_123:
+      text: \{\Com[2]SLEDUJTE, DÁMY!\!\}<br>Sledujte jak s touhle nulou vytřu podlahu!\mav
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Prosím, MICHAELI...\! Zbytečně si neubližuj.\! <br>Ptám se tě ještě jednou, kde-\kel
+
+message_125:
+      text: \{\Com[2]POJĎ NA MĚ, TY HULIBRKU!!<br>NEBUĎ POSERA!!!\mav
+
+message_126:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Uff...\! Fakt je tohle nutné?\kel
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Tak budiž...\! SUNNY... Pojďme ho zkrotit.\kel
+
+# =========================================================================================
+# Cutscene: The Maverick's Loss
+# =========================================================================================
+
+#Defeated by THE Maverick
+
+message_149:
+      text: \mavByl jsi úctihodným soupeřem, KELI...\! ale teď konečně nadešel čas tě dorazit. #blíže orig
+
+#Trigger: Defeat THE MAVERICK
+
+#THE MAVERICK is defeated on the floor.
+
+message_150:
+      text: Ne...\! tohle přece nemůže být můj konec...\mav
+
+message_151:
+      text: Lidé Země...\mav
+
+message_152:
+      text: \{DEJTE MI VAŠI SÍLU!!\mav #vím, že tohle je reference na něco ale neznám originál přeložen do čestiny
+
+#THE MAVERICK strikes his final pose.
+
+message_153:
+      text: \Com[2]\sinv[1]HAA\Com[2]\{AAAAJ\Com[2]\{ÁÁÁÁÁÁ\Com[2]\{ÁÁÁÁAAAAA!!!\mav
+
+message_154:
+      text: Fuj, co je tohle za hňupa? Ten je ale trapnej.\n<GIRL>
+
+message_155:
+      text: Tohle nemá cenu ani té dvoustovky. Pojďme raději pryč...\n<GIRL 2> #přirozenější
+
+#The girls walk O.S.
+#THE MAVERICK looks where the girls left and walks 1 step forward.
+
+message_156:
+      text: D-Dámy!\! Prosím, vraťte se!\mav
+
+message_157:
+      text: Klidně vám zaplatím ještě víc!\mav
+
+message_158:
+      text: ... \!Uff...\mav
+
+#His wig falls off, but he fixes it.
+
+message_159:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: MICHAELI...\kel
+
+#THE MAVERICK turns away from KEL.
+
+message_160:
+      text: \Com[2]\{TOHLE JMÉNO NIKOMU TADY NEPATŘÍ!!\mav
+
+message_161:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Prosím... Už od tebe nikdy v životě nic nebudu chtít.\! <br>Jen nám řekni, kde je AUBRY a my ti dáme pokoj!\kel #blíže orig
+
+message_162:
+      text: ...\mav
+
+#THE MAVERICK turns to KEL.
+
+message_163:
+      text: Tak fajn.\!<br>Vím, kde byste ji našli... a taky vám to řeknu...\! <br>pod jednou podmínkou...\mav #přirozenější
+
+message_164:
+      text: Musíte mi říkat mým pravým jménem, \Com[2]STŘE-\mav
+
+#KEL turns to PLAYER.
+
+message_165:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Hele, kašleme na to.\kel #zní lépe
+
+message_166:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Pojďme najít KIM.<br>Ta by to měla vědět.\kel
+
+message_167:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: S VANCEM se nedokážou nabažit sladkého...\! A tak bych řekl, že by mohli být někde poblíž \c[3]CUKRÁRNY\c[0].\kel

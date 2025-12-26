@@ -1,0 +1,410 @@
+# =========================================================================================
+# QUEST TRACKER - INTRO
+# =========================================================================================
+
+message_0:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marAhoj, \n[1]! Ahoj všichni!<brl>\!Jak se dneska máte?
+
+message_1:
+    faceset: 02_AUBREY_OW
+    faceindex: 6
+    text: >
+        \aubHi, MARI!
+
+message_2:
+    faceset: 02_AUBREY_OW
+    faceindex: 3
+    text: >
+        \aub\Com[1000]\{\n[3]'s being mean to me again!\}
+
+message_3:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marOh, no! Not again!<brl>How could he!
+
+message_4:
+    faceset: 03_KEL_OW1
+    faceindex: 0
+    text: >
+        \kel\Com[1000]\{PSHHH, I'm not being mean!\}<brl>It's just AUBREY's being all whiny...
+
+message_5:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marHmmm... \!Well \n[3], you've made a very convincing point!<brl>Now I don't know who to believe!
+
+message_6:
+    faceset: 03_KEL_OW1
+    faceindex: 0
+    text: >
+        \kel\Com[1000]\{BELIEVE ME!\}
+
+message_7:
+    faceset: 02_AUBREY_OW
+    faceindex: 3
+    text: >
+        \aub\Com[1000]\{NO, BELIEVE ME!!\}
+
+message_8:
+    faceset: 04_HERO_OW
+    faceindex: 2
+    text: >
+        \herSigh...<brl>Come on, you two. Settle down...<brl>\}
+
+message_9:
+    faceset: 04_HERO_BATTLE
+    faceindex: 17
+    text: >
+        \her\}Why does it have to always be like this...\{
+
+message_10:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marAwwww, chin up, \n[4]! Look at you, being all responsible.
+
+message_11:
+    faceset: 05_MARI_OW
+    faceindex: 7
+    text: >
+      \marI really like that about you, hehe...
+
+message_12:
+    faceset: 04_HERO_OW
+    faceindex: 0
+    text: >
+      \herAhh, come on, MARI! Not now...
+
+message_13:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+      \marOh \n[4], you know I'm just teasing.<brl>You're so cute when you get all flustered!
+
+message_14:
+    faceset: 04_HERO_OW
+    faceindex: 2
+    text: >
+      \her. . .
+
+message_15:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marHehehe... It's really nice of you guys to drop by!
+
+message_17:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+      \marI'll be around whenever you need me.\!<brl>If you're ever stuck or don't know what to do, just talk to me, and I'll try my best to help!
+
+# =========================================================================================
+# QUEST TRACKER - OMORI IS LEADER
+# =========================================================================================
+
+message_18:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marAhoj, OMORI! Kamenná tvář jako obvykle, viď?\!<br>Za mě by ses měl víc usmívat! Vždycky se mi líbil tvůj úsměv.
+
+# =========================================================================================
+# QUEST TRACKER - KEL IS LEADER
+# =========================================================================================
+
+message_19:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+      \marNazdar KELI, jak se máš! Vypadá, žes zase o kousek porostl.\! Možná jeden den budeš tak vysoký jako HERO, hehe...
+
+# =========================================================================================
+# QUEST TRACKER - AUBREY IS LEADER
+# =========================================================================================
+
+message_20:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marNo ahoj, AUBRY! Vypadáš dneska krásně.<br>\!Líbí se mi, jak moc se staráš o svoje vlasy.
+
+# =========================================================================================
+# QUEST TRACKER - HERO IS LEADER
+# =========================================================================================
+
+message_21:
+    faceset: 05_MARI_OW
+    faceindex: 7
+    text: >
+      \marNo ahoj, fešáku.
+
+# =========================================================================================
+# QUEST TRACKER - DEFAULT
+# =========================================================================================
+
+message_22:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marTakže, s čím byste dneska potřebovali pomoct?
+
+message_23:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marTakže, s čím byste dneska potřebovali pomoct?
+
+# =========================================================================================
+# LOST BALL
+# =========================================================================================
+
+message_24:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marVy jdete do \c[11]ROZLEHLÉHO LESA\c[0] hledat \c[4]BERLYIN MÍČEK\c[0], <brl>že?\! Dávejte pozor! Je to tam samá potvora!
+
+message_25:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marPokud si nejste jistí s tím, jak se bránit, mohli byste si zkusit přečíst tuhle \c[4]KNÍŽKU O BITVÁCH\c[0], kterou jsem našla!\! Je hned vedle mě, kdybyste ji potřebovali.
+
+message_26:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marSuper, našli jste \c[4]BERLYIN MÍČEK\c[0]! Má z vás hroznou radost, prý vám dokonce chce dát něco na oplátku.\!<brl>To bych do ní teda neřekla!
+
+# =========================================================================================
+# MISSING GRANDSON
+# =========================================================================================
+
+message_27:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+        \marAle ne! BASIL se ztratil? Jeho BABIČKA říkala, že šel směrem k \c[11]NÁDRAŽÍ\c[0], pokud se nepletu.\! Být váma bych začala tam.
+
+message_28:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marZdá se, že BASIL jel \c[4]VLAKEM\c[0], takže to asi budete muset někde sehnat \c[4]JÍZDENKU\c[0]!\! Tak šup do fronty! Trpělivost je výsada, víte?
+
+message_29:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marSafra... Bez té \c[4]JÍZDENKY\c[0] toho BASILA nenajdete...
+
+message_30:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \mar(vzdechnutí)... Máte sice \c[4]JÍZDENKU\c[0], ale \c[4]VLAK\c[0] už bohužel odjel.
+
+message_31:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+      \marTak co byste tady ještě dělali?
+
+# =========================================================================================
+# KEVIN
+# =========================================================================================
+
+message_32:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+      \marPromiň, KELI. Nemám tušení, kde by \c[13]HEKTOR\c[0] mohl být.\! Ale jsem si jistá, že se nakonec někde najde...
+
+# =========================================================================================
+# DAISY'S DILEMMA
+# =========================================================================================
+
+message_33:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \marJé, SEDMIKRÁSKA chce nadchnout svého nápadníka \c[4]KYTIČKOVÝMI PUZZLEMI\c[0]! Jak roztomilé!
+
+message_34:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+      \mar\c[4]KYTIČKOVÉ\c[0] puzzle se hledají celkem těžko, ale nebylo by hezké ji zkusit pomoct?
+
+
+# =========================================================================================
+# WEAK WINDS
+# =========================================================================================
+
+message_35:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+       \marKLUK S DRAKEM říká, že se rozbil jeden z větrníků.\! Kéž by se našel někdo, kdo by na něj mohl vylést a zjistit, co s ním je...
+
+# =========================================================================================
+# TRAIN PASS TROUBLES
+# =========================================================================================
+
+message_36:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marVypadá, že někdo zapomněl svoji \c[4]JÍZDENKU\c[0] v \c[11]JINOSFÉŘE\c[0]!\! Tam by se dalo dostat skrz žebřík na \c[11]VÝCHODĚ LESA\c[0].
+
+message_37:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marA co kdybyste se zkusili zeptat VESMÍRNÝCH PIRÁTŮ, těch, co bydlí na severu \c[11]JINOSFÉRSKÉHO KEMPU\c[0]? Ti se tady beztak vyznají.
+
+
+message_38:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marNo ne! Zdá se, že VESMÍRNÝ MILENEC omylem vyhodil svou \c[4]VYJÍMEČNOU KAZETU\c[0]!\! Musí být někde na \c[11]SMETIŠTI\c[0]!
+
+message_39:
+    faceset: 05_MARI_OW
+    faceindex: 1
+    text: >
+        \marNa zahradě VESMÍRNÉHO MILENCE je zkratka ke \c[11]SMETIŠTI\c[0].\! Být váma bych začla tam.
+
+message_40:
+    faceset: 05_MARI_OW
+    faceindex: 4
+    text: >
+        \marAle ne! ROSA vám ukradla tu \c[4]VYJÍMEČNOU KAZETU\c[0] a nechce vám ji vrátit...\! Musí přece být způsob, jak si přesvědčit...
+
+message_41:
+    faceset: 05_MARI_OW
+    faceindex: 5
+    text: >
+        \marVYDÍRÁNÍ? Jak jsi mohl??\! Měl by ses za sebe stydět, OMORI!
+
+message_45:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marHehe, dělám si srandu!
+
+message_46:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marSkvěle, konečně jste našli tu \c[4]VYJÍMEČNOU KAZETU\c[0]!\! Tak teď už ji jen stačí vrátit VESMÍRNÉMU MILENCI!
+
+# =========================================================================================
+# STICK IN THE MUD
+# =========================================================================================
+
+message_47:
+    faceset: 05_MARI_OW
+    faceindex: 6
+    text: >
+        \marKamarádi PANA STRAŠÁKA jsou rozptýleni po celém \c[11]ORO-BINCI\c[0].\!<br>Měli byste je zase dát dohromady.\! Připadá mi takový osamělý...
+
+
+# =========================================================================================
+# STRANGE REQUEST
+# =========================================================================================
+
+message_48:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marTELEKUČKA vám řekla, abyste ji sehnali pár věcí z jakéhosi \c[4]DIVNÉHO SEZNAMU\c[0] plného divných věcí.\! Divné, co?
+
+# =========================================================================================
+# THE B.E.D.
+# =========================================================================================
+
+message_49:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marPODEZŘELÝ KRTEK hledá \c[4]P.O.S.T.E.L.\c[0], viď?\! Myslím, že by o ní rozhodně něco mohl vědět STAROSTA KRTEK! Našli byste ho ve sklepě, kde pracuje se svým synem.
+
+message_50:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marSTAROSTA KRTEK se neustále bojí o svého syna.\! Kdybychom mu ho našli, mohl by nám pomoct!
+
+message_51:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marTak jste se po zvláštním skluzu událostí konečně dostali k \c[4]P.O.S.T.E.L.I.\c[0]!\! Je ale dobrý nápad ji dávat PODEZŘELÉMU KRTKOVI?
+
+
+# =========================================================================================
+# TOFU TIDBIT
+# =========================================================================================
+
+message_52:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marJakýsi hrozně upocený KLÍČKOKRTEK se shání po kousku \c[3]TOFU\c[0].\! Jak je to možné? Vždyť je tady úplně všude!
+
+
+# =========================================================================================
+# CONGRATULATIONS - SPACE EX-BOYFRIEND
+# =========================================================================================
+
+message_53:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marSkvělá práce, přátelé!\! Díky vám je mezi VESMÍRNÝMI PIRÁTY a <brl>zase všechno v pořádku, a dokonce jste i našli \c[4]JÍZDENKU\c[0]!
+
+message_54:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+        \marPokud si pohnete, možná, že ten vlak ještě dostihnete!
+
+message_55:
+    faceset: 05_MARI_OW
+    faceindex: 2
+    text: >
+         Škoda, že ten vlak už odjel...
+
+# =========================================================================================
+# QUEST TRACKER - QUEST COMPLETE
+# =========================================================================================
+
+message_42:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+        \marTohle jsi přeče už splnil!<brl>Tak nakonec možná moji pomoc ani nepotřebuješ, hehe.
+
+message_43:
+    faceset: 05_MARI_OW
+    faceindex: 3
+    text: >
+
+
+# =========================================================================================
+# QUEST TRACKER - END
+# =========================================================================================
+
+message_44:
+    faceset: 05_MARI_OW
+    faceindex: 0
+    text: >
+        \marDoufám, že jsem aspoň trochu pomohla.<brl>Kdybyste mě potřebovali, budu tady!

@@ -1,0 +1,42 @@
+
+# =========================================================================================
+# Sidequest: Trash Pick-Up
+# =========================================================================================
+
+#Talk to Old Lady
+message_0:
+      text: \n<STARÁ PANÍ>Zdravím, mladíci!\! Jestli se aspoň trochu díváte pod nohy, asi jste si všimli, že se nám tady válí dost \c[4]ODPADU\c[0].
+
+message_1:
+      text: \n<STARÁ PANÍ>Kdybyste na nějaké narazili, donesli byste je prosím ke mně, abych se jich mohla řádně zbavit?
+
+message_2:
+      text: \n<STARÁ PANÍ>Jen do toho, kluci!\!<br>Zlepšeme tenhle svět, krůček po krůčku!
+
+#Give trash
+message_5:
+      text: \n<STARÁ PANÍ>Zdravím, mladíci!\! Koukám, že u sebe máte nějaký ten \c[4]ODPAD\c[0]!\!<br>Díky moc! Řádně se jich zbavím.
+
+#Talk to Old Lady after picking up some Trash:
+message_6:
+      text: \n<STARÁ PANÍ>Poslední dobou mi to tady připadá o něco čistší...\!<br>Díky vám už můžu v noci klidně spát!
+
+#Talk to Old Lady after picking up all Trash:
+
+message_7:
+      text: \n<STARÁ PANÍ>\SINV[1]Mmmm...\! Ach...\! Citíte ten čerstvý vzduch?
+
+message_8:
+      text: \n<STARÁ PANÍ>Takhle čisté to tady snad nikdy nebylo a je jen díky tomu, že pracně sbíráte ten \c[4]ODPAD\c[0]!\!<br>Jsem vám neskutečně vděčná...
+
+message_9:
+      text: \n<STARÁ PANÍ>A! Tohle mi připomíná...\! když jsem včera sbírala \c[4]ODPAD\c[0] zase já, narazila jsem na tohle!\!<br>Vemte si to prosím ode mě na oplátku.
+
+message_10:
+      text: Získal jsi \c[4]PODIVUHODNÉ CDčko\c[0]!
+
+message_11:
+      text: \n<STARÁ PANÍ>\SINV[1]Mmmm...\! Ach...\! Citíte ten čerstvý vzduch?
+
+message_12:
+      text: Získal jsi \c[4]ODPAD\c[0]?

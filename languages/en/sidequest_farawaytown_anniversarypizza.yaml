@@ -1,0 +1,79 @@
+
+
+# =========================================================================================
+# Sidequest: Anniversary Pizza
+# =========================================================================================
+
+#Talk to Sarahs mom in anniversary day
+
+message_1:
+      text: \n<PANÍ S CULÍKEM>Dnes máme s mým manželem výročí, ale on to za celý den ani jednou nezmínil...\! Zajímalo by mě, jestli na něj náhodou nezapomněl...
+
+message_2:
+      text: \n<PANÍ S CULÍKEM>Ach...\! Možná jsem na něj v poslední době byla příliž tvrdá.\! Teď dost přibírá a já ho za to pořád jenom haním...
+
+message_3:
+      text: \n<PANÍ S CULÍKEM>Snažila jsem se mu nastavit dietu, ale on si to vzal trochu moc osobně...\! Vždyť jen chci, aby se o sebe více staral!
+
+message_4:
+      text: \n<PANÍ S CULÍKEM>Chápe te mě, viďte?
+
+# [yes / no]
+
+# [if yes]
+message_5:
+      text: \n<PANÍ S CULÍKEM>Díky...\! A jelikož máme dneska výročí, hodlám udělat výjímku!\!<br>Je přeci jen patnácté!
+
+message_6:
+      text: \n<PANÍ S CULÍKEM>Pořád mluví o \c[11]GINOVĚ PIZZERII\c[0], jak je to skvělé, či co...\! Přemýšlím, že koupím \c[3]CELOU PIZZU\c[0]\! kterou bychom si mohli celá rodina rozdělit.\! Co vy na to?
+
+#[yes / no]
+
+#if yes a 2nd time
+
+message_7:
+      text: \n<PANÍ S CULÍKEM>\com[2]Ano! Je v pořádku si občas dát něco nezdravého!\!<br>Ale všeho s mírou!
+
+#SARAH'S MOM walks to PIZZAŘ at Ginos
+
+message_8:
+      text: \n<PANÍ S CULÍKEM>Jednu \c[3]CELOU PIZZU\c[0], prosím!
+
+message_20:
+      text: \n<PIZZAŘ>Hned to bude!
+
+message_21:
+      text: \n<PIZZAŘ>Tady máte! Užijte si prosím tuhle vynikající \c[3]CELOU PIZZU\c[0]!\! Mmm...
+
+message_25:
+      text: \n<PANÍ S CULÍKEM>Děkuji!
+
+message_26:
+      text: \n<PANÍ S CULÍKEM>A ještě jednou díky za vaše doporučení!\! Jsem si jistá, že si na ní manžel pochutná!
+
+# [if no choice is picked]
+
+message_9:
+      text: \n<PANÍ S CULÍKEM>Ano, jasně, chápu...
+
+# =========================================================================================
+#Talk to Sarah's Dad after annivery PIZZA
+# =========================================================================================
+
+message_10:
+      text: \n<MATLÁK>Fuj... Tak to nakonec jaksi vyšlo...
+
+message_11:
+      text: \n<MATLÁK>Fňuk... Moje žena je tak starostlivá...\!<br>Mám na ní takové štěstí.
+
+message_12:
+      text: \n<MATLÁK>Dokonce mi koupila mou nejoblíbenější věc...\!<br>Teda...\! samozřejmě, až po ní...
+
+message_13:
+      text: \n<MATLÁK>\Com[2]A to sice \c[3]CELOU PIZZU\c[0] z \c[11]GINOVI PIZZERIE\c[0]!
+
+message_14:
+      text: \n<MATLÁK>Víte co?\! Mám z toho dneška takovou radost...\! Že vám klidně dovolím si vzít \c[3]KOUSEK PIZZY\c[0]!
+
+message_15:
+      text: \n<MATLÁK>Fakt jste mi tam pomohli.\!<br>Kdyby cokoliv, víte, na koho se obracet.\! Máte to u mě!

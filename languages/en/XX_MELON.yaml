@@ -1,0 +1,2765 @@
+# -----------------------------------------------
+# - NEW DIALOGUE: 750+
+# -----------------------------------------------
+
+#SM TOWN Door Guard
+
+message_750:
+    text: \n<KLÍČKOKRTEK>Mhm...\! Ukažte mi vaše \c[4]LÍSTKY\c[0], prosím.
+
+message_751:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubAno, jistě, pane KLÍČKOKRTKU!\!<br>Tady je máte!
+
+message_752:
+    text: AUBRY ti sáhla do KAPSY a vytáhla z ní \c[4]LÍSTKY\c[0].
+
+message_753:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubTady, pane KLÍČKOKRTKU.
+
+message_754:
+    text: \n<KLÍČKOKRTEK>Ó...\! \com[2]Šmankote!\! Nevěřím svým očím...\! Vždyť tohle jsou lístky do první řady!\! Vy...\! jste toho jistě museli pro tuto čest hodně obětovat...\! Klobouk dolů.
+
+message_755:
+    text: \n<KLÍČKOKRTEK>Promiňte, že jste se mi na první pohled nezdáli.\!<br>Když se na vás tak dívám, vlastně jste čtyři nejnormálnější KLÍČKOKRTCI, které jsem kdy viděl.
+
+#SM TOWN Ticket Vendor (Before Show)
+
+message_760:
+    text: \n<KLÍČKOKRTEK>Užijte si první řadu, normální KLÍČKOKRTCI!
+
+#SM TOWN Ticket Vendor (After Show)
+
+message_761:
+    text: \n<KLÍČKOKRTEK>Ty jo! To bylo ale výbušné finále!\!<br>ZLATÍČKO je nejlepší, že?
+
+#Blackletter Video Tape
+
+message_762:
+      text: Získal jsi nenadepsanou kazetu.
+
+#Watering Plants
+
+message_763:
+      text: OMORI získal 1 ŽIVOT.
+
+message_764:
+      text: AUBREY získal 1 ŽIVOT.
+
+message_765:
+      text: KEL získal 1 ŽIVOT.
+
+message_766:
+      text: HERO získal 1 ŽIVOT.
+
+#Molly Entrance Tube
+
+message_767:
+      text: \"MIMO PROVOZ\"
+
+message_778:
+      text: \"ZDE PROBÍHÁ STAVBA\"
+
+#Molly Password Puzzle (Before)
+
+message_768:
+      text: JÁ ❤ MOLLY
+
+message_769:
+      text: HESLO
+
+message_770:
+      text: BENDA
+
+message_771:
+      text: BUM
+
+message_772:
+      text: ROBOT
+
+message_773:
+      text: RADĚJI NIC
+
+#Molly Password Puzzle (After)
+
+message_774:
+      text: BOMBA
+
+message_775:
+      text: BOMO
+
+message_776:
+      text: MOMBA
+
+message_777:
+      text: BUM
+
+# === Night Scares ===
+
+#Fridge
+message_780:
+      text: Uvnitř nic není.
+
+# === Otherworld Ladder Hector ===
+
+message_801:
+      text: Obyčejný kámen.
+
+# === SW Garden Statue ===
+
+message_802:
+      text: \n<PŮSOBIVÁ SOCHA>Řekl jsi "RADĚJI NIC."
+
+# === Vast Forest ===
+
+message_803:
+      text: \n<HOTDOŽÍK>Vypadá, že na zátarasení této cesty jsem ideálně dlouhý.
+
+# === Mustard Sub ===
+
+message_804:
+      text: VESMÍRNÍ PIRÁTI jsou ze svého KAPITÁNA ve vytržení.
+
+# === SW Garden Guards ===
+
+message_805:
+    text: \n<ALEX VÁŽENÝ>Jakožto vážený člen elity znám jednu ze čtyř částí hesla...\! ale o tom vy pravděpodobně nic nevíte.
+
+message_806:
+    text: \n<BRIAN VÝJIMEČNÝ>Dávejte si pozor...\! Nacházíte se v přítomnosti ZLATÍČČINÉ nejváženější elity.\! A já budu tajemství tohoto zámku bránit i vlastním životem!
+
+message_807:
+    text: \n<KAROLÍNA PROSLULÁ>Střežit posvátné heslo není jednoduchý úděl.<br>\!Jednoho dne možná i vy budete moct nést toto břemeno naší elity.
+
+message_808:
+    text: \n<HELENA KATASTROFÁLNÍ>No... Ahoj?\! Já jsem... celkem hrozně zaneprázděna tím, jak tady pořád stojím, a že jsem členka kalamitní elity.\! Chtěli byste jako... s něčím pomoct?
+
+# === KLÍČKOKRTEK Village ===
+
+message_809:
+    text: Chtěl bys pokácet vánoční stromek?
+
+message_810:
+    text: Chtěl bys ustřihnout drát?
+
+# === Last Resort Elevator ===
+
+message_811:
+    text: Použil jsi svou \c[4]HUSTOU VSTUPNÍ KARTU\c[0].
+
+# === Hidden Library ===
+
+message_812:
+    text: Položíš sem své \c[4]NOTY\c[0]?
+
+message_813:
+    text: Všechny slova jsou začmárána.
+
+message_814:
+    text: OMORI se naučil DOVEDNOST \c[1]VERTIGO\c[0].
+
+message_815:
+    text: OMORI se naučil DOVEDNOST \c[1]POSTIHNOUT\c[0]. #"zkryplit" se mi moc nezdálo
+
+message_816:
+    text: OMORI se naučil DOVEDNOST \c[1]UDUSIT\c[0].
+
+# === Otherworld Ladder ===
+
+message_817:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herBASIL tady přece někde musí být.
+
+# === Doom Tomb ===
+
+message_821:
+    text: "1"
+
+message_822:
+    text: "2"
+
+message_823:
+    text: "3"
+
+message_824:
+    text: "4"
+
+message_825:
+    text: "5"
+
+message_826:
+    text: "6"
+
+message_827:
+    text: "7"
+
+message_828:
+    text: "8"
+
+message_829:
+    text: "9"
+
+message_834:
+    text: "0"
+
+# === Slime Girls Lair ===
+
+message_830:
+    text: Dáš svou \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0] BENDOVI?
+
+message_831:
+    text: \n<BENDA>\sinv[1]Óóóóoooo... \sinv[0]\c[4]SLIZOVÁ VSTUPNÍ KARTA\c[0]!
+
+message_832:
+    text: \n<BENDA>\sinv[1]Mňam mňam!\sinv[0]\! Tak...\! Chtěli byste do dolního patra?
+
+message_833:
+    text: \n<BENDA>\sinv[1]Dobře~\! Kdyžtak jsem tady! \quake[1]Ňak, ňak!\quake[0]
+
+# === BS Clearing ===
+
+message_840:
+    text: P-Počkej...\! Prosím, SUNNY...\! Neopouštěj mě...\! \fn<OMORI_GAME><br>Znova ne...\who
+
+# === Last Resort Construction ===
+
+message_850:
+    text: MARI
+
+message_851:
+    text: BASIL
+
+# === FA HIGH FIVE ===
+
+message_860:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Na druhou stranu teď aspoň máme BASILOVO \c[4]FOTOALBUM\c[0]... a stálo nás to jen půl dne!\! To je teprv týmová práce!\! Plácneme si, SUNNY?\kel
+
+message_861:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Víš, SUNNY.\! To, cos udělal, bylo opravdu úžasný...\! jak jsi skočil do toho jezera za BASILEM.\kel
+
+message_867:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: A i když byl opravdový zachránce nakonec HERO, za mě si taky zasloužíš nějakou tu úctu.\! Plácneme si?\kel
+
+message_862:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hej, SUNNY.\! Dík, žes nás včera nechal u tebe přespat...\! a že jsi své poslední dny tady strávil se mnou.\! Jsi opravdový kamarád.\! \com[2]Placáka!\kel
+
+message_863:
+    text: Chtěl bys dát KELOVI placáka?
+
+# === NORTH COAST ===
+
+message_864:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Zklidni svůj tep...\!<br>Neboj.\! Není tak strašidelná, jak se ti zdá.\mar #buď voda, nebo pravda, proto ženský rod neurčitého podmětu
+
+# === SUMMONING ROOM ===
+
+message_865:
+    text: Portál je nyní otevřený.
+
+# === DINO'S DIG ===
+
+message_866:
+    text: NEJLEPŠÍ VOLBA
+
+# === MYSTERY POTION ===
+
+message_868:
+    text: Účinky TAJUPLNÉHO LEKTVARU vyprchaly...
+
+# === SW Servant Quarters ===
+
+message_869:
+    text: NÁHODNÁ MOŽNOST
+
+# === UWH TOLL ===
+
+message_870:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve třech povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro náklaďáky...\! Ale dvojpruh pro náklaďáky!
+
+# === STATIC VOID ===
+
+message_871:
+    text: \n<KLÍČKODĚDEK>Tys mě zabil...
+
+# === LAST RESORT HOTEL ===
+
+message_872:
+    text: Mý vydlábnuté oči.\! Podíváš se dovnitř?
+
+# === Mystery Potion ===
+
+message_993:
+    text: Z jakéhosi důvodu na záchodech TAJUPLNÝ LEKTVAR nepůsobí.
+
+message_994:
+    text: Na AUBRY TAJUPLNÝ LEKTVAR nepůsobí.
+
+message_995:
+    text: Na KELA TAJUPLNÝ LEKTVAR nepůsobí.
+
+message_996:
+    text: Na HERA TAJUPLNÝ LEKTVAR nepůsobí.
+
+message_997:
+    text: Na štítku je napsáno, že TAJUPLNÝ LETKVAR působí jen pod vodou.
+
+message_998:
+    text: The effects of the MYSTERY POTION wore off...
+
+# === NEIGHBOR'S ROOM ===
+
+message_1000:
+    text: Chtěl by ses přidat ke svým kamarádům?
+
+# -----------------------------------------------
+# - UNSORTED
+# -----------------------------------------------
+
+message_607:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Počkej, OMORI.\! Nejdříve bychom měli zkontrolovat BASILA...\her
+
+# -----------------------------------------------
+# - PUZZLE ROOMs (4)
+# -----------------------------------------------
+
+#WEBBED PARTY
+
+# message_511:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 4
+#       text: Hey, watch it!\aub
+
+# message_512:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 28
+#       text: Ow.\kel
+
+# message_513:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 40
+#       text: T-there's no rush...\her
+
+# -----------------------------------------------
+# - JUNKYARD III (144)
+# -----------------------------------------------
+
+#KEY
+
+message_343:
+    text: Získal jsi \c[4]KLÍČ OD SMETIŠTĚ\c[0]!
+
+# -----------------------------------------------
+# - JUNKYARD IV (145)
+# -----------------------------------------------
+
+#FIRST THROW EVENT
+
+message_200:
+    text: \n<PAN STŘELÁK>Říkají mi PAN STŘELÁK.\! Jsem zaražen v zemi.\!<br>Střelte po mě něčím...\! a uslyšíte podivný zvuk! #nic lepšího mě nenapadlo
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelTy jo, hustý! To zní jako něco pro mě!
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelMůžu to zkusit, OMORI? Prosím!
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelNo tak, OMORI! PŘEDEJ MI konečně BABU!
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \aubPočkej, OMORI, zajímá mě, co se stane!
+
+#SCARETHROW
+
+message_345:
+    text: \n<PAN STŘELÁK>To byla ale sranda, viď?\! Klidně přijď někdy zas!
+
+message_346:
+    text: \n<PAN STŘELÁK>Teď už toho můžeš nechat.
+
+message_347:
+    text: \n<PAN STŘELÁK>Mě už to opravdu bolí...
+
+message_348:
+    text: \n<PAN STŘELÁK>Prosím... dost...
+
+message_349:
+    text: \n<PAN STŘELÁK>...
+
+message_350:
+    text: \n<PAN STŘELÁK>Jestli toho teď nenecháš, budu tě muset ohlásit kompetentním orgánům.
+
+message_351:
+    text: \n<PAN STŘELÁK>Prosím, přestaň...\! Prosím tě...
+
+message_352:
+    text: \n<PAN STŘELÁK>Dost.\! Nech toho, hned teď!
+
+message_353:
+    text: \n<PAN STŘELÁK>Ts...\! S tebou slova asi nehnou, viď?
+
+message_354:
+    text: \n<PAN STŘELÁK>Uff...\! Vzpomínám na časy, kdy mě lidi ještě poslouchali...\!<br>Víte... na střední si ze mě všichni utahovali, protože nemám nohy.
+
+message_355:
+    text: \n<PAN STŘELÁK>Říkali mi věci jako třeba...\!<br>"Jé, hele! STŘELÁK zase stojí jako tvrdé Y!\! Uděláme si z něho terč, jako na střelnici!"
+
+message_356:
+    text: \n<PAN STŘELÁK>\sinv[1]Óooooo...\sinv[0]\! Děti jsou tak zlé... Jako fakt, fakt že zlé...
+
+message_357:
+    text: \n<PAN STŘELÁK>Ha ha...\! Vždyť po mně jenom hážete balóny!\!<br>Na co si vůbec stěžuju?\!<br>Tohle je nic oproti tomu, čím jsem si za život prošel.
+
+message_358:
+    text: \n<PAN STŘELÁK>Vždycky to začíná zlehka...\! Nejprve to byly \c[5]GUMIČKY\c[0]... pak \c[13]GUMOVÉ MÍČKY\c[0]...\! Jednou po mě letěla i lavice...
+
+message_359:
+    text: \n<PAN STŘELÁK>Jo...\! Nekecám...\! Norámlně po mě hodili lavici, a se mnou to nic neudělalo!\! A od té doby si říkám... že když jsem přežil tamto, přežiju snad cokoliv!
+
+message_360:
+    text: \n<PAN STŘELÁK>Víte...\! Kdybych měl ruce, mohli bychom SI házet, místo toho abyste po mně jenom házeli.
+
+message_361:
+    text: \n<PAN STŘELÁK>Schválně, hoďte mi ten míč.\! Zkusím ho chytnout.
+
+message_362:
+    text: \n<PAN STŘELÁK>Safra...\! Jaksi mi vyjel z ruky...\! Haha...\! <br>Nebojte...\! Příště ho chytnu.
+
+message_363:
+    text: \n<PAN STŘELÁK>Á! Už jsem ho skoro měl!\! Tentokrát jsem byl fakt blízko... Ne snad?\!<br>No tak... Zkuste to znova.
+
+message_364:
+    text: \n<PAN STŘELÁK>Haha...\! Ty jo... To byly časy...
+
+message_365:
+    text: \n<PAN STŘELÁK>Počkat... tak já opravdu nemám ani ruce?\! To by mě zajímalo...
+
+message_366:
+    text: \n<PAN STŘELÁK>Uff...\! Kéž bych se mohl pohnout z místa...
+
+message_367:
+    text: \n<PAN STŘELÁK>Mohl bych procestovat svět...\! usadit se s někým, koho mám rád...\! založit rodinu...
+
+message_368:
+    text: \n<PAN STŘELÁK>Ne...\! Takovéhle neobratné snění je nebezpečné.\!<br>Proč tady musím být zaražený?\!<br>To snad v životě nemůžu zažít nic příjemného?
+
+message_369:
+    text: \n<PAN STŘELÁK>Proč je osud tak krutý? Co jsem komu udělal?\!<br>Tohle není fér...\! Nesnáším to tady...
+
+message_370:
+    text: \n<PAN STŘELÁK>Ach... Co to cítím?\! Zdá se mi, že pláču.\! Řekněte mi, pláču?\!<br>Já to nepoznám, nemám slzné kanálky.\!<br>Uff...\! Víte co, jako bych nic neřekl, jo?
+
+message_371:
+    text: \n<PAN STŘELÁK>Říkají mi PAN STŘELÁK.\! Jsem zaražen v zemi.\!<br>Střelte po mě něčím...\! a uslyšíte podivný zvuk!
+
+# -----------------------------------------------
+# - JUNKYARD VI (147)
+# -----------------------------------------------
+
+#COUCH
+
+message_154:
+    text: Tohle místo ti připadá na relax jako dělané.\!<br>Chtěl by sis odpočinout?
+
+message_155:
+    text: Už musíme jít?
+
+message_156:
+    text: Ještě chvilku...
+
+# -----------------------------------------------
+# - JUNKYARD VIII (149)
+# -----------------------------------------------
+
+#KEY MAGNET, AUBREY SMASH
+
+message_178:
+    text: Elektromagnetické pole ti brání jít dál.
+
+#ROSA
+
+message_341:
+    text: \n<???>Dobře...?\! To bylo ale divný...
+
+# -----------------------------------------------
+# - JUNKYARD IX (150)
+# -----------------------------------------------
+
+#ROSA
+
+message_506:
+    text: \n<ROSA>Mě nikdy nechytneš, ty tyčko!
+
+message_342:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: Rychle, OMORI! Za ní!<br>Tu \c[4]VÝJIMEČNOU KAZETU\c[0] potřebujeme!\kel
+
+# -----------------------------------------------
+# - PYREFLY FOREST (156, 158, 160)
+# -----------------------------------------------
+
+#EMPTY TRACK SPACES
+
+message_51:
+    text: Zde chybí kus kolejí.
+
+message_52:
+    text: Přirazíš sem \c[4]DŘEVĚNÝ KUS KOLEJÍ\c[0]?
+
+#ITEM
+
+message_344:
+    text: Získal jsi \c[4]SIRKY\c[0].
+
+message_625:
+    text: Získal jsi \c[4]DŘEVĚNÝ KUS KOLEJÍ\c[0].
+
+#CANDLE
+
+message_623:
+    text: Na zapálení této svíčky potřebuješ \c[4]SIRKY\c[0].
+
+# -----------------------------------------------
+# - PYREFLY: WILLOW (153)
+# -----------------------------------------------
+
+message_157:
+    text: VTIP O MĚSÍCI
+
+message_158:
+    text: VTIP O STRAŠÁKOVI DO ZELÍ
+
+message_159:
+    text: VTIP O KOLECH #v překladu spíš tříkolce, ale je to i tak o kolech, jakožto... té součásti vozidla
+
+message_160:
+    text: VTIP O TUČNÁCÍCH
+
+message_161:
+    text: VTIP O SÝRU
+
+message_162:
+    text: VTIP O MOŘI
+
+message_163:
+    text: VTIP O STAVBÁCH
+
+# -----------------------------------------------
+
+message_188:
+    text: Hladina vody šimrá.
+
+message_189:
+    text: Hodíš do jezera 10 MUŠLÍ?\$
+
+message_190:
+    text: Nemáš MUŠLE.
+
+message_191:
+    text: ...
+
+message_192:
+    text: Našel jsi prázdnou \c[4]SBÍRKU VTIPŮ\c[0].\! Vezmeš si ji?
+
+message_193:
+    text: Vtipy se vždycky hodí.\!<br>Kéž bys měl \c[4]SBÍRKU VTIPŮ\c[0], do které by sis je mohl zapsat...
+
+message_194:
+    text: Vyni-kající!\!<br>Tento vtip sis poznamenal do \c[4]SBÍRKY VTIPŮ\c[0].
+
+# -----------------------------------------------
+# - PYREFLY: VIII (160)
+# -----------------------------------------------
+
+#DEAD MOLE CLUSTER
+
+message_507:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Co má tohle k sakru bejt?!\!<br>Je to tak... slizké...\! a smrdí jako zhnilé jablka. \kel
+
+message_508:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Za tímhle hrbolem pokračuje les.<br>\!No tak, AUBRY, rozmlať ho na kusy!\kel
+
+message_509:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Copak to slyším? Ty po mě chceš, abych ti pomohla, KELI?\! To je ale vzácnost!\aub
+
+message_510:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Uhni! Však já ti ukážu, jak na to!\aub
+
+message_511:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \Com[2]Ukážu tomuhle hrbolu co proto!\aub
+
+#special charge up AUBREY SMASH + screen shake, but it does not budge
+#pause
+
+message_512:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_513:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub...
+
+message_514:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelTak...\! to je ale trapas.\!<br>Asi bychom si měli najít nějakou jinou cestu kolem.
+
+message_630:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Jo...\! Pojďme na to...\aub
+
+# -----------------------------------------------
+# - PYREFLY: IX (161)
+# -----------------------------------------------
+
+message_800:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \com[2]Kam jdeš, OMORI?!\! Nenechávej mě tady, prosím...\aub
+
+message_515:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: OMORI?\! Nezapomněl jsi na někoho?...\kel
+
+message_516:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: OMORI...\! Možná... bych potřeboval trochu pomoct...\her
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: DUNGEON F1 (182)
+# -----------------------------------------------
+
+#Skeleton
+
+message_380:
+    text: \n<KOSTÍK>Už jsem tady zavřený tak dlouho, že pomalu necítím ruce ani nohy...
+
+message_381:
+    text: \n<KOSTÍK>...\! He?\! Co na mě tak koukáte?
+
+#Contestant moles
+
+message_395:
+    text: \n<SOUTĚŽÍCÍ>Ale ne! Co si teď počneme?!\!<br>Z \c[11]HLADOMORNY\C[0] utéct nedokážeme!
+
+#Mole closest to door
+
+message_517:
+    text: \n<RŮŽOVÝ? KRTEK>\com[2]\sinv[1]\{\{POMOOOOOOOOOOOOOOOOC!!
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: TORTURE ROOM (184)
+# -----------------------------------------------
+
+message_518:
+    text: \n<KRTEK PINGL>Udělal jsem převelikou chybu a nyní za ní budu trpět.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: FOYER (172)
+# -----------------------------------------------
+
+#Gathered moles
+
+message_519:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelŠmankote...\! Koukněte na ten dav!
+
+message_520:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubS takovou se odsud nikdy nedostaneme!\! Nezkusíme radši najít jiný východ?...
+
+message_852:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herHmmm... Možná se to tady za nějakou dobu vylidní...\! Vraťme se sem později.
+
+#'MAXIMUS'
+
+message_244:
+    text: \n<KNÍŽE MAXIMUS>Stůjte, výtržníci!<br>Vím, co jste zač... ale KLÍČKOKRTCI rozhodně ne!\!<br>Ts! Jiste by vás zajímalo, jak jsem to poznal...<br>Víte, já mám na víc, než ti obyčejí HAROLDI a MARŠE!<br><br>Já jsem KNÍŽE MAXIMUS... a nehodlám zostudit svůj velectěný rod!
+
+message_245:
+    text: \n<KNÍŽE MAXIMUS II.>Stůjte, výtržníci! Vím, co jste zač... ale KLÍČKOKRTCI rozhodně ne!<br><br>Ts! Jiste by vás zajímalo, jak jsem to poznal...<br>\!Víte, jsem synem proslulélo, až legendárního bojovníka,<br>KNÍŽETE MAXIMA...<br>Možná jste porazili mého otce, avšak já jsem silnější, než-li on!\! A s ním po mém boku nehodlám zostudit svůj velectěný rod!
+
+message_246:
+    text: \n<KNÍŽE MAXIMUS III.>Stůjte, výtržníci! Vím, co jste zač... ale KLÍČKOKRTCI rozhodně ne!<br><br>Ts! Jiste by vás zajímalo, jak jsem to poznal...<br>\!Víte, jsem synem proslulélo, až legendárního bojovníka,<br>KNÍŽETE MAXIMA II. a vnukem KNÍŽETE MAXIMA......<br>Možná jste porazili mého otce a děda, ovšem tímto jste pouze přilili benzín na oheň mého hněvu!<br><br>A se svým otcem a dědem po boku jsem připraven pomstít svou rodinu!
+
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: ART GALLERY (175)
+# -----------------------------------------------
+
+message_522:
+    text: Tato socha je z krystalizovaných slz ZLATÍČČINÝCH nepřátel.
+
+message_391:
+    text: Stal ses uměním.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: SERVANT'S QUARTER (180)
+# -----------------------------------------------
+
+#Bottom left room
+
+message_523:
+    text: Tento KLÍČKOKRTEK s obdivem hledí na ZLATÍČČIN portrét.
+
+message_524:
+    text: \n<KRTEK PINGL>Kéž by mě taky pověšila na zeď.
+
+#Bottom right room 1
+
+message_525:
+    text: \n<KRTEK PINGL>Sors de ma chambre ou j'appellerai les flics!
+
+message_526:
+    text: \n<KRTEK SLUŽKA>Ó, Francois!\! Nerozumím ti sice ani slovo, ale jsem úplně uchvácena!
+
+#Bottom right room 2
+
+message_527:
+    text: \n<KLÍČKOKRTEK>Safra...\! Jak jsem se do tohohle zapletl?
+
+message_528:
+    text: \n<KLÍČKOKRTEK>Nějaký děsivý KLÍČKOKRTEK, který se prý jmenoval MARŠA mě z ničeho nic vytáhl z domu a řekl mi, že tady budu dělat záskok nějakým druhořadým zaměstnancům.
+
+message_529:
+    text: \n<KLÍČKOKRTEK>Ten přede mnou prý zkončil v \c[11]HLADOMORNĚ\C[0] za velezradu...\! Tady musí být ale fluktuace zaměstnanců...
+
+#Top left room 1
+
+message_530:
+    text: \n<KRTEK PINGL>\com[2]Nedělej si iluze, hňupe!<br>To JÁ si vezmu ZLATÍČKO! #"kretén" je za mě příliš silné slovo
+
+message_531:
+    text: \n<KRTEK PINGL>\com[2]Lžeš, jak když tiskne, bratře!\!<br>To JÁ si vezmu ZLATÍČKO!
+
+message_532:
+    text: \n<KRTEK PINGL>Ale no tak! O tomhle snad není řeč!\! Z nás dvou jsem bez pochyb já ten pohlednější!
+
+message_533:
+    text: \n<KRTEK PINGL>Neblázni, bratře! Vždyť vypadáme oba stejně!\! Já ale vím, že se do mě ZLATÍČKO zamiluje díky... mé osobnosti!
+
+message_534:
+    text: \n<KRTEK PINGL>Ts, ts, ts... To je ale nesmysl, bratře!\! Až uvidí můj \sinv[1]ÉÉÉLEGANTNÍ\sinv[0] nový knír, bude u mě hned pečená vařená!
+
+message_535:
+    text: \n<KRTEK PINGL>Ts! Tak \sinv[1]ééélegantní\sinv[0] knír, jo?!<br>\!Tomu že ty říkáš knír?!\! Vždyť to jsou chlupy z nosu!
+
+message_536:
+    text: \n<KRTEK PINGL>Milý bratře...\! \com[2]Už mi opravdu začínáš lést na nervy!\!<br>Ale neboj... já vím, jak tohle vyřešit!
+
+message_537:
+    text: \n<KRTCI PINGLOVÉ>\{\{BRATŘI KLÍČKOKRTCI!!
+
+message_660:
+    text: \n<KRTCI PINGLOVÉ>\{\{PODVINÁ STVOŘENÍ!!
+
+message_538:
+    text: \n<KRTCI PINGLOVÉ>Kdo z nás dvou má podle vás u ZLATÍČKA větší šanci?
+
+message_539:
+    text: \n<KRTEK PINGL>Ha! Já ti to říkal!\!<br>Jdu ji hned teď požádat o ruku!
+
+message_540:
+    text: \n<KRTEK PINGL>\com[2]To je ale šlendrián! Tomu nevěřím!
+
+message_541:
+    text: \n<KRTEK PINGL>Ha! To se dalo čekat!\!<br>Jdu ji hned teď požádat o ruku!
+
+message_542:
+    text: \n<KRTEK PINGL>To je ale šlendrián! Tomu nevěřím!
+
+message_543:
+    text: \n<KRTEK PINGL>Ach, běda mi!\!<br>Nadešel čas truchlit za mého bratra.
+
+message_544:
+    text: \n<KRTEK PINGL>S tím jeho vzhledem...<br>mi je už teď jasné, že skončí v \c[11]HLADOMORNĚ\C[0].
+
+message_545:
+    text: \n<KRTEK PINGL>Stejně jako náš třetí pratr...
+
+message_546:
+    text: \n<KRTEK PINGL>Nevěřím, že mi ten můj plán vyšel!\! Tak teď mám celý tenhle pokoj pro sebe...
+
+#Meditating mole
+
+message_547:
+    text: \n<KRTEK SLUŽKA>\sinv[1]Hmm... Očisti svou mysl...\!<br>Hmm... Harmonizuj s vesmírem...\!<br>Hmm... Vrať se ke své přírodní formě...
+
+message_548:
+    text: \n<KRTEK SLUŽKA>\sinv[1]Hmm.. Staň se...\! opět \c[3]TOFU\c[0]...
+
+message_549:
+    text: \n<KRTEK SLUŽKA>\com[2]Hej! Vám nevadí, že se tady snažím meditovat?!
+
+message_550:
+    text: \n<KRTEK SLUŽKA>Vy jste ale drzí!
+
+#Table moles
+
+message_551:
+    text: \n<KRTEK PINGL>ZLATÍČKO je tak super...\! Kéž bych tady mohla pracovat nadosmrti!
+
+message_552:
+    text: \n<KRTEK PINGL>ZLATÍČKO je tak děsivé!\! Kéž bych už mohl domů...
+
+#Top left room 2
+
+message_553:
+    text: \n<KRTEK PINGL>Tady kvůli těm dvěma vedle nedá spát!
+
+message_554:
+    text: \n<KRTEK PINGL>Kéž bychom měli strop...
+
+message_555:
+    text: \n<KRTEK PINGL>\sinv[1]Chrááááááááááááp...
+
+#Top right room
+
+message_556:
+    text: \n<KRTEK SLUŽKA>Milý deníčku...\! dneska...\! jsem...\! ...\! ...
+
+message_557:
+    text: \n<KRTEK SLUŽKA>Safra...\! Co že jsem to dneska dělala?
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: BEDROOM (186)
+# -----------------------------------------------
+
+message_558:
+    text: \n<CASTELLA>Hff...\! hff...\! hff...
+
+message_901:
+    text: \n<CASTELLA>Á! Co tady děláte!?\! Prostým KLÍČKOKRTKŮM je do ZLATÍČČINÝCH KOMNAT vstup zakázán... Víte, co vás čeká!
+
+message_902:
+    text: \n<CASTELLA>Aha...\! Počkat...\! Možná byste mi mohli pomoct.
+
+message_559:
+    text: \n<CASTELLA>ZLATÍČKO mi dalo rozkaz vynést tuhle sochu ven, ale zatím jsem s ní nepohla ani o centimetr!
+
+message_560:
+    text: \n<CASTELLA>Kéž by se jenom tahle socha z ničeho nic příhodně roztříštila na několik malinkatých kousků...
+
+message_561:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelPaní...\! Mně připadá... že byste potřebovala ničivou sílu...\! a na to je tady AUBRY odborník!
+
+message_903:
+    text: \n<CASTELLA>AUBRY?\! To je ale na KLÍČKOKRTKA zvláštní jméno...\! I když, ZLATÍČKU poslední dobou už dochází nápady.
+
+message_562:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubPočkat, KELI...\! Není tohle socha KAPITÁNA VESMÍRŇÁKA?\!<br>Tu nemůžu rozbít, to by mě mrzelo...
+
+message_563:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelTs... Však se to ani nedozví!\! KAPITÁN VESMÍRŇÁK a ZLATÍČKO už jsou stejně dávno minulost...\! Žij a nech žít, jak vždycky říkám!
+
+message_564:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubTo neříkáš!\!<br>Ale dobře... Možná bych to mohla zkusít.
+
+message_565:
+    text: \n<CASTELLA>Já zatím budu civět na tuto sochu a doufat, že se aktivují mé psychotronické schopnosti.
+
+message_566:
+    text: \n<CASTELLA>Fuj... zachránili jste mi život!\!<br>Opravdu jsem to měla nechat na odbornících!
+
+#AUBREY READYS
+
+message_635:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubTak dobře...\! Jdu na to...\! A tentokrát...\! Nezklamu!
+
+#SBF STATUE CRUMBLES
+
+message_636:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub...
+
+message_567:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kel...
+
+message_569:
+    text: \n<CASTELLA>Panečku!\! Zvládli jste to!
+
+message_570:
+    text: \n<CASTELLA>No...\! A jde se uklízet!
+
+message_308:
+    text: \n<CASTELLA>Jejda... To je ale překvapení!\!<br>Nakonec by mi stačilo ji zvednou ze zdola!
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: THEATER (168)
+# -----------------------------------------------
+
+message_571:
+    text: \n<KRTEK NA ÚTĚKU>\}Pšt...\! Nejsem tady...\! ...\!<br>Nic jste neviděli.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: BALLROOM (178)
+# -----------------------------------------------
+
+message_572:
+    text: \n<KRTEK VITRUÓZ>\com[2]Ne, ne, ne, ne, ne, ne a ne!\! Tohle opravdu nestačí!\!<br>Ty tam uprostřed vlevo, padáš! Tomuhle vy říkáte zpěv?!\!<br>Plastový plameňák mého bratrance umí zpívat líp jak vy!
+
+message_573:
+    text: \n<KRTEK VITRUÓZ>A vy vzadu si nemyslete, že nevidím, jak při refrénu usínáte!\! Vzpamatujte se, nebo nás ZLATÍČKO všechny zavře do \c[11]HLADOMORNY\C[0]!
+
+message_574:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \n<HERO>Ha...\! Zdá se, že tihle KLÍČKOKRTCI jsou v úzkých...\! Schválně, jestli bychom jim nemohli pomoct.
+
+message_575:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\com[2]Hej, hoši! Nechtěli byste pomoct?\!<br>My jsme tady pomocníci z povolání!
+
+message_576:
+    text: \n<KRTEK VITRUÓZ>Ach, ještě že tak! Odborníci konečně dorazili!
+
+message_577:
+    text: \n<KRTEK VITRUÓZ>Je nezbytné, aby byl sbor připraven na hlavní událost, ale na to prostě nemáme čas!
+
+message_578:
+    text: \n<KRTEK VITRUÓZ>Víte... my KLÍČKOKRTCI při poslechu hudby dost lehce usínáme...\! takže vás asi nepřekvapuje, že nám sboristi pořád usínají!
+
+message_579:
+    text: \n<KRTEK VITRUÓZ>Uff... Obávám se, že se budeme muset přiklonit k...\!<br>\quake[1]alternativním...\!\quake[0] způsobům, jak je udržet při smyslech...
+
+message_580:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelAha!\! Nebojte, pane KLÍČKOKRTKU!<br>\!Vím...\! \quake[1]přesně...\quake[0]\! co máte na mysli!
+
+message_900:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herT-Ty...\! Víš?
+
+message_581:
+    text: \n<KRTEK VITRUÓZ>No ještě že tak! Jsme zachránění!<br>\!To se od vás odborníků ovšem dalo čekat.
+
+message_640:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelNechte to na mě, milý pane!
+
+message_582:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelPane VIRTUÓS...\! Jsem připraven.
+
+message_583:
+    text: \n<KRTEK VITRUÓZ>Děkuji vám, ochotný odborníku!\!<br>Jsme vám všichni dlužni.
+
+message_584:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelTohle půjde raz dva.\! PŘEDEJ MI BABU!\! Vím \quake[1]přesně...\quake[0]\! jak na to.
+
+message_585:
+    text: \n<KRTEK VITRUÓZ>\Com[2]Ano, ano, ano, ano, ano a ano! Vynikající práce!\! S vaší pomocí bude hlavní událost jistě nezapomenutelná!
+
+message_586:
+    text: \n<KRTEK VITRUÓZ>Promiňte, odborníku, ale...\! Smím-li okomentovat situaci... připadá mi, že jste pomalu sám usínal...
+
+message_587:
+    text: \n<KRTEK VITRUÓZ>Ach... Nefunguje to...\! Dá se z tohohle vůbec dostat?...
+
+message_588:
+    text: \n<KRTEK VITRUÓZ>Á, už teď zaznamenávám zlepšení!
+
+message_589:
+    text: \n<KRTEK VITRUÓZ>Ale... jistě to může být l peší!\!<br>Zkusil byste to znovu, odborníku?
+
+message_590:
+    text: \n<KRTEK VITRUÓZ>Á, zdá se, že už je skoro čas na hlavní událost!
+
+message_591:
+    text: \n<KRTEK VITRUÓZ>To znamená, že máme čas jen na jednu poslední zkoušku.\! Zkusíte to s náma ještě jednou?
+
+message_592:
+    text: \n<KRTEK VITRUÓZ>Věřím vám, odborníku!\! Dostaňte nás do formy!
+
+message_593:
+    text: \n<KRTEK VITRUÓZ>Děkuji vám, za vaši snahu.\!<br>Pokusíme se to zvládnout s tím, co máme.
+
+#TANČÍCÍ KRTEKS
+
+message_373:
+    text: \n<TANEČNÍ KRTEK>Uff...\! Taky bych si chtěl zatančit, ale nemám s kým...
+
+message_374:
+    text: \n<TANEČNÍ KRTEK>...\! Nezatančil by si se mnou někdo z vás?
+
+message_375:
+    text: \n<TANEČNÍ KRTEK>Dobře! Nezklamu vás!
+
+message_376:
+    text: \n<TANEČNÍ KRTEK>To byla ale sranda...\! Ach...\! Co je tohle za pocit?\!<br>Srdce mi bije jako o život...
+
+message_377:
+    text: \n<TANEČNÍ KRTEK>Díky, hehe...
+
+message_378:
+    text: \n<TANEČNÍ KRTEK>Zatančíte si se mnou znovu?
+
+message_379:
+    text: \n<TANEČNÍ KRTEK>Jupí...
+
+message_799:
+    text: \n<TANEČNÍ KRTEK>Uff...\! Co jsem komu udělal? Proč musím být tak osamělý?
+
+
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: GARDEN (169)
+# -----------------------------------------------
+
+#First Cutscene
+
+message_594:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]Jupí! Konečně jsme se dostali z RŮŽOVÉHO ZÁMKU!\!\sinv[0]<br>To by mě zajímalo, co je zač ta velká událost, na kterou se všichni chystají...
+
+message_595:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubZvláštní... Nikde tady nevidím ty KLÍČKOKRTKY od vchodu.\! Kam se všichni poděli?
+
+message_596:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \n<HERO>Někde tady musí být skrytý východ!\! Pojďme to tady zkusit prohledat.
+
+#Second Cutscene (Statue Laser)
+
+message_309:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\{\{\quake[1]AUVAJS!! TO BOLELO!!\}\}
+
+message_310:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubJste všichni v pořádku?!\! Co to bylo?!
+
+message_650:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelUff...\! Ten živý plot na nás normálně vystřelil laser!
+
+message_311:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \n<HERO>Hmm...\! Musí se jich nějak jít zbavit...
+
+#Third Cutscene (Throw Platform)
+
+message_312:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelJak chceš, ZLATÍČKO... Řekla sis o to!
+
+message_313:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\com[2]\{\{\sinv[1]HA-JÁÁÁÁ!!
+
+message_314:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 24
+    text: \kel...\! Safra... Netrefil jsem se.
+
+message_315:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 14
+    text: \aubTy hlupáčku!\! Myslíš, že něco trefíš, když budeš jen tak bezmyšlenkově házet?!
+
+message_316:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubCo kdybys jednou zkusil mířit?
+
+message_317:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelCože?\! Mířit?\! To můžu?
+
+message_318:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubNo samozřejně!\! To může každý, i ty, KELI!
+
+message_319:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelTak dobře! Dám do toho maximum!
+
+#Vine Moles
+
+message_597:
+    text: \n<KRTEK ZAHRADNÍK>Tyhle révy budou moje smrt!
+
+message_598:
+    text: \n<KRTEK ZAHRADNÍK>K čertu s těmahle révama! Kéž by mi už daly pokoj!
+
+message_599:
+    text: \n<KRTEK ZAHRADNÍK>Den co den tady kácíme tyhle révy, ale nezdá se mi, že bychom se kamkoliv posouvali.
+
+message_600:
+    text: \n<KRTEK ZAHRADNÍK>Zdá se mi, že vidím na druhou stranu... nebo ne?
+
+message_601:
+    text: \n<KRTEK ZAHRADNÍK>Tyhle révy jsou tvrdé jako já!
+
+message_602:
+    text: \n<KRTEK ZAHRADNÍ>Už tam skoro jsme... snad...
+
+message_603:
+    text: \n<KRTEK ZAHRADNÍK>Kácíme tyhle révy snad pořád...<br>ale ony vždycky prostě dorostou zpátky!
+
+message_604:
+    text: \n<KRTEK ZAHRADNÍK>Šmik... Šmik... Šmik...
+
+message_605:
+    text: \n<KRTEK ZAHRADNÍK>Dávejte pozor, abyste se neřízli! Jsou ostré!
+
+message_606:
+    text: \n<KRTEK ZAHRADNÍ>Co?... To je ale divné...\! Nic nevidím...
+
+#PUZZLE MOLE 1 (Top Left)
+
+message_0:
+    text: \n<ALEX VÁŽENÝ>Pro odhalení skrytého tunelu je třeba odříkat ZLATÍČČINĚ soše čtyři tajná hesla.<br><br>Jakožto členu elity mi samozřejmě bylo jedno svěřeno, a to sice to třetí!
+
+message_1:
+    text: \n<ALEX VÁŽENÝ>Co?\! Tak vy ho chcete znát?\!<br>To ne...\! Omlouvám se...\! Prý ho nemám nikomu říkat...
+
+message_2:
+    text: \n<ALEX VÁŽENÝ>Cože? Že ho vážně potřebujete?\! Jako vážně vážně potřebujete?\!<br>Vážně vážně vážně potřebujete?\! Jako vážně, vážně, vážně, vážně, vážně, vážně, vážně, vážně potřebujete?
+
+message_3:
+    text: \n<ALEX VÁŽENÝ>...\! Hmm...\! Hmmmmmm...\!<br>Tak to asi nemám na vybranou...\!<br>Ale slibte mi, že ho nikomu neřeknete!<br>\Com[2]\{ČESTNÉ PIONÝRSKÉ!
+
+message_4:
+    text: \n<ALEX VÁŽENÝ>A je to!\!<br>Fuj... Už jsem se bál, že bych vám nemohl věřit!<br>A teď...\! pojďte blíž...\!<br>\}Heslo, které mi bylo svěřeno, je...\! "PLNĚNÝ".\!<br>Pochytili jste to?\! Že to nikomu řeknete?
+
+message_5:
+    text: \n<ALEX VÁŽENÝ>Promiňte, ale než vám to tajné heslo řeknu, byste měli být schopni zachovávat tajemství.
+
+#PUZZLE MOLE 2 (Bottom Right)
+
+message_400:
+    text: \n<BRIAN VÝJIMEČNÝ>Pro odhalení skrytého tunelu je třeba odříkat ZLATÍČČINĚ soše čtyři tajná hesla.<br><br>Jakožto členu elity mi samozřejmě bylo jedno svěřeno, a to sice to druhé!
+
+message_6:
+    text: \n<BRIAN VÝJIMEČNÝ>Vy byste ho chtěli znát, že?\!<br>\com[2]Tak to zas prr.\!<br>Musím říct... že jste na KLÍČKOKRTY nějací výřeční...
+
+message_7:
+    text: \n<BRIAN VÝJIMEČNÝ>\com[2]Jak vám mám věřit, že jste opravdu jedni z nás inteligentních, majestátních tvorů?\! Myslíte snad, že bych byl schopen možnému špiónovi prozradit heslo? \!Ha!\! To je ale vtipná představa!
+
+message_8:
+    text: \n<BRIAN VÝJIMEČNÝ>Když tvrdíte, že jste KLÍČKOKRTCI každým coulem, proč mi to teda nedokážete?\! To heslo vám řeknu... pokud uhádnete, nad čím právě teď přemýšlím!
+
+message_9:
+    text: TOFU
+
+message_10:
+    text: ZLATÍČKO
+
+message_151:
+    text: PŘEŽITÍ
+
+message_152:
+    text: \n<BRIAN VÝJIMEČNÝ>\com[2]A-ha!\! Připadali jste mi nějací podezřelí!
+
+message_153:
+    text: \n<BRIAN VÝJIMEČNÝ>Každý ví, že KLÍČKOKRTCI jsou nesmrtelní!<br>\!Stráže! Odveďte tyhle blbouny!
+
+#You are transported to THE DUNGEON cell.
+
+message_401:
+    text: \n<BRIAN VÝJIMEČNÝ>Pro odhalení skrytého tunelu je třeba odříkat ZLATÍČČINĚ soše čtyři tajná hesla.<br><br>Jakožto členu elity mi samozřejmě bylo jedno svěřeno, a to sice to druhé!
+
+message_11:
+    text: \n<BRIAN VÝJIMEČNÝ>Ach...\! Mmm...\! Vynikající \c[3]TOFU\c[0]...
+
+message_12:
+    text: \n<BRIAN VÝJIMEČNÝ>Ach...\! Hmmm...\! Doopravdu se mi honilo hlavou \c[3]TOFU\c[0]...\! ale...\!<br>víte co, vždyť máte pravdu!
+
+message_13:
+    text: \n<BRIAN VÝJIMEČNÝ>Měl jsem přemýšlet nad ZLATÍČKEM!<br>Možná jste ještě větší KLÍČKOKRTCI, než já!
+
+message_14:
+    text: \n<BRIAN VÝJIMEČNÝ>Promiňte, že jsem vám nevěřil.\! Není holt KLÍČKOKRTEK jako KLÍČKOKRTEK!<br><br>Tak...\! teď pojďte blíž...\!<br>\}Heslo, které mi bylo svěřeno, je...\! "MARMELÁDOU".\!<br>Pochytili jste to?\! Že to nikomu neřeknete?
+
+#PUZZLE MOLE 3 (Bottom Left)
+
+message_402:
+    text: \n<KAROLÍNA PROSLULÁ>Pro odhalení skrytého tunelu je třeba odříkat ZLATÍČČINĚ soše čtyři tajná hesla.<br><br>Jakožto člence elity mi samozřejmě bylo jedno svěřeno, a to sice to první!
+
+message_15:
+    text: \n<KAROLÍNA PROSLULÁ>Dnes je ale krásný den tady na zahradě, viďte, bratři a sestry?
+
+message_16:
+    text: \n<KAROLÍNA PROSLULÁ>Á!\! Tak vy byste chtěli znát mé heslo?\!<br>Omlouvám se.\! Obávám se, že to je mimo mou kompetenci. #"I want more life, father"
+
+message_17:
+    text: \n<KAROLÍNA PROSLULÁ>I když...\! by mě možná něco chutného, bílého a hranatého mohlo přesvědčit o opaku...
+
+#Give puzzle mole a consumable
+
+message_20:
+    text: Dáš KAROLÍNĚ PROSLULÉ \c[3]TOFU\c[0]?
+
+#Give mole TOFU
+message_18:
+    text: \n<KAROLÍNA PROSLULÁ>Ach...\! Mmm...\! Vynikající, neodolatelné \c[3]TOFU\c[0]...<br>\!Tak bych ho možná jednou prozradit mohla...
+
+#Give mole anything else
+message_19:
+    text: \n<KAROLÍNA PROSLULÁ>Tak...\! teď pojďte blíž...\!<br>\}Heslo, které mi bylo svěřeno je...\! "SLADKÝ".\!<br>Pochytili jste to?\! Že to nikomu neřeknete?
+
+message_624:
+    text: Nemáš u sebe \c[3]TOFU\c[0].
+
+# message_20:
+#     text: \n<GUARD MOLE>Ugh... Bleh!\! What did you give me!?\!<br>I cannot break my vows over this gruel!
+
+#PUZZLE MOLE 4 (Top Right) MSG 22 - 23
+
+message_403:
+    text: \n<HELENA KATASTROFÁLNÍ>Pro odhalení skrytého tunelu je třeba odříkat ZLATÍČČINĚ soše čtyři tajná hesla.<br><br>Jakožto člence elity mi samozřejmě bylo jedno svěřeno, a to sice to čtvrté!
+
+message_21:
+    text: \n<HELENA KATASTROFÁLNÍ>No a!\! Já vím, že bych tohle heslo měla jako střežit, ale ono má něco společného s jídlem, a když nad ním pořád přemýšlím... <br>Tak mám hrozný hlad! Takový hlad, až okusuju trávník! Věříte tomu?! Už by nám strážcům mohli konečně začít dávat jídlo!
+
+message_22:
+    text: \n<HELENA KATASTROFÁLNÍ>A není "KOBLÍŽEK" stejně celkem pitomé heslo?\! Ještě k tomu, když tak ZLATÍČKUříkal tam ten divnej v modrém?<br>\com[2]Ale!\! To přece není žádné tajemství! To by dokázal uhádnout každý! Vždycky se tady spolu hýčkali, říkali si tak všelijak...<br>A pak to jejich "Proč jsi mě ještě nepožádal o ruku?" a "Promiň, mým kamarádům se náš vztah nelíbí...", a tak to šlo furt dokola a dokola... Uf! To byl voprus!
+
+message_23:
+    text: \n<HELENA KATASTROFÁLNÍ>No co...\! já pořád musím střežit to heslo, ať se děje co se děje...\! A tam ti ostatní nejsou schopni udržet tajemství, i kdyby jim šlo o život!<br>Ts! Přesně tak! Klidně si mě litujte! Už je mi to úplně ukradený!\! Taková hrůza, být tady zavřená v téhle osamělé zahradě a hlídat slovo "KOBLÍŽEK"!\! Jejdanane!
+
+#PASSWORD STATUE PART 1
+
+message_24:
+    text: Upřel jsi pohled na bok sochy.
+
+message_405:
+    text: \n<PŮSOBIVÁ SOCHA>\Com[2]\quake[1]\{\{HEJ!! OČI MÁM TADY NAHOŘE!!!
+
+message_25:
+    text: PŮSOBIVÁ SOCHA ZLATÍČKA na zahradu vrhá znepokojující stín.
+
+message_26:
+    text: \n<PŮSOBIVÁ SOCHA>\quake[1]\{\{HESLO?
+
+#ADJECTIVE
+
+message_27:
+    text: KOUZELNÝ
+
+message_28:
+    text: OHNIVÝ
+
+message_29:
+    text: ROMANTICKÝ
+
+message_30:
+    text: NÁDHERNÝ
+
+#NOUN
+
+message_31:
+    text: PLANETOU
+
+message_32:
+    text: PLAMEŇÁKEM
+
+message_33:
+    text: KRTKEM
+
+message_34:
+    text: ANANASEM
+
+#DESCRIPTOR
+
+message_35:
+    text: NAJEZENÝ
+
+message_36:
+    text: NAMAZANÝ
+
+message_37:
+    text: NAPUCHLÝ
+
+message_38:
+    text: POSEDLÝ
+
+#NOUN (změněny z důvodu rodu)
+
+message_39:
+    text: OBRAZ
+
+message_40:
+    text: ŘÍZEK
+
+message_41:
+    text: KEPORKAK
+
+message_42:
+    text: VÝTAH
+
+#ANSWERS
+
+message_43:
+    text: SLADKÝ
+
+message_44:
+    text: MARMELÁDOU
+
+message_45:
+    text: PLNĚNÝ
+
+message_46:
+    text: KOBLÍŽEK
+
+#PASSWORD STATUE PART 2
+
+message_47:
+    text: \n<PŮSOBIVÁ SOCHA>... A dál?
+
+message_48:
+    text: ...\. ...\. ...\. ...\. ...\.
+
+message_49:
+    text: \n<PŮSOBIVÁ SOCHA>Řekls, \"\v[101] \v[102] \v[103] \v[104]\"\c[0].
+
+message_50:
+    text: \n<PŮSOBIVÁ SOCHA>\Com[2]\quake[1]\{\{ŠPATNĚ!!!
+
+message_404:
+    text: \n<PŮSOBIVÁ SOCHA>\Com[2]\quake[1]\{\{DOBŘE!!!!
+
+message_411:
+    text: \n<PŮSOBIVÁ SOCHA>Ts...\. ...\. ...
+
+message_412:
+    text: Upřel jsi pohled na zadek sochy.
+
+
+# -----------------------------------------------
+# - SW CASTLE: DUNGEON (183)
+# -----------------------------------------------
+
+#BLOCKING SWITCH
+
+message_173:
+    text: \n<KRTEK VĚZEŇ>Ejhle!\! Po několika neúspěšných pokusech jsem konečně venku!\! Teď už mi zbývá jen najít východ a jsem na svobodě!
+
+# -----------------------------------------------
+# - SW CASTLE: SERVANT'S QUARTER (180)
+# -----------------------------------------------
+
+#TOP LEFT ROOM
+
+message_211:
+    text: KLÍČKOKRTEK
+
+message_212:
+    text: JINÝ KLÍČKOKRTEK
+
+# -----------------------------------------------
+# - TRAIN (328)
+# -----------------------------------------------
+
+message_228:
+    text: Tato osoba je zjevně zaneprázdněna.
+
+message_229:
+    text: KAŠE.
+
+message_230:
+    text: \fn<OMORI_GAME>\who\quake[1]Drž...\| se dál...
+
+# -----------------------------------------------
+# - ORANGE OASIS: DINO'S DIG (107 - 110)
+# -----------------------------------------------
+
+#EXCAVATION DINO (107)
+
+message_429:
+    text: BRAMBOROVÁ LŽIČKA (5)
+
+message_430:
+    text: PLASTOVÁ LŽIČKA (10)
+
+message_431:
+    text: DŘEVĚNÁ LŽIČKA (15)
+
+message_432:
+    text: STŘÍBRNÁ LŽIČKA (20)
+
+message_433:
+    text: ZLATÁ LŽIČKA
+
+message_434:
+    text: \n<DINO>Hele, kam jako jdete?\! \com[2]Vy byste nechtěli zažít pořádné \sinv[1]dobrodružství\c[0]!?
+
+message_435:
+    text: Získal jsi DINO DOLAR.
+
+message_436:
+    text: Získal jsi \v[1001] DINO DOLARŮ.
+
+#EXCAVATION DINO (108)
+
+message_439:
+    text: \n<DINO>Chtěli byste si koupit \c[4]LŽIČKU\c[0]?\!<br>Stojí jen 1 DINO DOLAR!
+
+message_441:
+    text: \n<DINO>Zahrabejte si se svou \c[4]LŽIČKOU\c[0] a objevte nespočet zázračných pokladů!
+
+message_444:
+    text: Získal jsi \c[4]BRAMBOROVOU LŽIČKU\c[0].
+
+#EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
+
+message_442:
+    text: \n<DINO>\com[2]Co?!\! Jste si jistí, že jste dohrabali?
+
+message_443:
+    text: \n<DINO>To vás moc teda nechápu, ale budiž!
+
+#STEG DINO
+
+message_428:
+    text: \n<ČAD>To je můj děda.
+
+#SHOP DINO
+
+message_413:
+    text: \n<DINO>Hej! Prodávám tady skvělý zboží! Máte zájem?
+
+# message_414:
+#     text: Would you like to trade your eggs in for \v[115] DINO DOLLARS?
+
+# message_415:
+#     text: You now have \v[1020] DINO DOLLARS.
+
+message_416:
+    text: \n<BRETT>Ty už \c[4]LŽIČKU\c[0] máš, kámo!\! Přijď sem, až se ti rozbije, a uvidíš, co s ní svedu.
+
+message_417:
+    text: Získal jsi \c[4]PLASTOVOU LŽIČKU\c[0].
+
+message_418:
+    text: Získal jsi \c[4]DŘEVĚNOU LŽIČKU\c[0].
+
+message_419:
+    text: Získal jsi \c[4]STŘÍBRNOU LŽIČKU\c[0].
+
+message_420:
+    text: Získal jsi \c[4]ZLATOU LŽIČKU\c[0].
+
+message_421:
+    text: Získal jsi \c[13]BEZPEČNOSTNÍ PŘILBU\c[0].
+
+message_422:
+    text: Získal jsi \c[3]DINOBOBULI\c[0].
+
+message_423:
+    text: Získal jsi \c[3]DINO MELON SODA\c[0].
+
+message_424:
+    text: Získal jsi \c[3]DINO NUGGET\c[0].
+
+message_425:
+    text: Získal jsi \c[3]DINO PASTA\c[0].
+
+message_426:
+    text: Získal jsi \c[5]DINO JAM\c[0].
+
+# message_427:
+#     text: You don't have enough DINO POINTS.
+
+# message_59:
+#     text: Trade DINO EGGS!
+
+message_60:
+    text: KUP SI LŽIČKU!
+
+message_61:
+    text: KUP SI DINO VĚCI!
+
+message_62:
+    text: Co by sis chtěl koupit?
+
+message_63:
+    text: PLASTOVOZ LŽIČKZ (1 DD)
+
+message_64:
+    text: DŘEVĚNOU LŽIČKU (5 DD)
+
+message_65:
+    text: STŘÍBRNOU LŽIČKU (10 DD)
+
+message_66:
+    text: ZLATOU LŽIČKU (15 DD)
+
+message_67:
+    text: BEZPEČNOSTNÍ PŘILBU (30 DD)
+
+message_68:
+    text: DINOBOBULI (10 DD)
+
+message_69:
+    text: DINOMELOUN (10 DD)
+
+message_70:
+    text: DINONUGETKU (10 DD)
+
+message_71:
+    text: DINOPASTU (10 DD)
+
+message_72:
+    text: DINODŽEM (10 DD)
+
+message_73:
+    text: RADĚJI NIC
+
+# -----------------------------------------------
+# - DOUGH DUNGEON (343)
+# -----------------------------------------------
+
+#'Summon Placement'
+
+message_76:
+    text: Vzduchem se táhle vůně čerstvého chleba.
+
+message_77:
+    text: Chtěl bys obětovat \c[3]\v[102]\c[0]?
+
+message_78:
+    text: Našel jsi \c[4]RECEPT NA KATASTROFU\c[0].\! Vezmeš si ho?
+
+message_383:
+    text: Chtěl bys vrátit \c[4]RECEPT NA KATASTROFU\c[0] na své místo?
+
+message_407:
+    text: V ruce držíš \c[4]RECEPT NA KATASTROFU\c[0].
+
+message_79:
+    text: Chtěl bys obětovat \c[4]KRTKA\c[0]?
+
+message_298:
+    text: Položil jsi \c[3]\v[102]\c[0]... ale nic se nestalo.
+
+message_299:
+    text: Zvedl jsi \c[3]\v[102]\c[0] zpět.
+
+#SACRIFICE OBJECTS
+
+message_74:
+    text: Vezmeš do ruky \c[3]\v[102]\c[0]?
+
+message_75:
+    text: V ruce držíš \c[3]\v[102]\c[0].
+
+message_88:
+    text: Vrátíš \c[3]\v[102]\c[0] zpět na své místo?
+
+message_80:
+    text: \n<TATÍK CHIP>TATÍK CHIP vidí, že se koukáte po těch OVESNÝCH SUŠENKÁCH.\! TATÍK CHIP vás pro vaše vlastní dobro varuje...\! Nedělejte to!
+
+message_81:
+    text: \n<TATÍK CHIP>A teď poslouchejte...\! TATÍK CHIP zachránil již nespočet dobrodruhů svými moudrými radami.
+
+message_82:
+    text: \n<TATÍK CHIP>Být váma bych TATÍKA CHIPA poslechl.
+
+message_83:
+    text: \n<TATÍK CHIP>\quake[1]Pracky pryč...\! od těch...\! \c[3]OVESNÝCH SUŠENEK\c[0].
+
+message_84:
+    text: \n<TATÍK CHIP>Prosím, dobrodruzi...\! TATÍK CHIP vás prosí!\! Nedělejte to!\!<br>Nepokládejte za něco tak zbytečného své mladé životy!
+
+message_85:
+    text: Navzdory varování TATÍKA CHIPA sis vzal \c[3]OVESNÉ SUŠENKY\c[0].
+
+message_86:
+    text: \n<TATÍK CHIP>Ach ne! Tak tohle je konec!\! Tak tohle je opravdu konec!\!<br>Na tohle se TATÍK CHIP nedokáže dívat!
+
+message_87:
+    text: \n<TATÍK CHIP>Hmm...\! TATÍK CHIP by vás teď měl varovat před ZLOMYSLNÝM CHIPEM...\! ale zdá se, že i ZLOMYSLNÝ CHIP je na vás krátký.<br>TATÍK CHIP je tedy asi k ničemu.
+
+#'TATÍK CHIP'
+
+message_179:
+    text: \n<TATÍK CHIP>\sinv[1]Hoho!\sinv[0]\! TATÍK CHIP vám nese dobré zprávy!
+
+message_180:
+    text: \n<TATÍK CHIP>Za vaši dobromyslnost vám TATÍK CHIP dá něco, co TATÍK CHIP ví, že se vám bude líbit!
+
+message_521:
+    text: TATÍK CHIP ti dal \c[3]CHLEBA\c[0]!
+
+message_181:
+    text: \n<TATÍK CHIP>Já jsem TATÍK CHIP!
+
+#'NEFARIOUS Chip'
+
+message_406:
+    text: \n<ZLOMYSLNÝ CHIP>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
+
+#'KRTEK' in DOOM TOMB
+
+message_182:
+    text: \n<KRTEK>VYMĚNIT #tohle je asi nepoužito ale s touhle hrou si upřímně nedokážu být jistý
+
+message_183:
+    text: \n<KRTEK>VYMĚNIT
+
+message_184:
+    text: \n<KRTEK>\quake[1]\{\{CO TO MÁ PROPÁNA ZNAMENAT?!?!
+
+message_185:
+    text: \n<KRTEK>VYMĚNIT
+
+message_186:
+    text: \n<KRTEK>VYMĚNIT
+
+message_187:
+    text: \n<KRTEK>VYMĚNIT
+
+#'DOUGHIE & BISCUIT': Pre-Battle - UNUSED > jupí.
+
+message_213:
+    text: \n<DOUGHIE>...
+
+message_214:
+    text: \n<DOUGHIE>Are you a ghost?
+
+message_215:
+    text: \n<BISCUIT>That seems likely.\! It would appear that some of our haunted pastries have found their way back to us.
+
+message_216:
+    text: \n<DOUGHIE>Perhaps they are here to exact their revenge?\! That would be most...
+
+message_217:
+    text: \n<BISCUIT>...Unfortunate.
+
+#'DOUGHIE & BISCUIT': Post-Battle - UNUSED
+
+message_218:
+    text: \n<DOUGHIE>Oh, you weren't ghosts after all.
+
+message_219:
+    text: \n<BISCUIT>Well, this is awkward.\! This spiritual venture has been fun and all, but I do think it is about time we moved on.
+
+message_220:
+    text: \n<BISCUIT>Meet us below, we will have an escape prepared for you.
+
+message_221:
+    text: \n<DOUGHIE>Apologies for the troubles.
+
+#'DOUGHIE & BISCUIT' - UNUSED
+
+message_222:
+    text: \n<DOUGHIE>I really don't know why I thought you were ghosts.
+
+message_223:
+    text: \n<BISCUIT>Baking was fun, but I quite enjoyed our battle as well.
+
+#'DOUGHIE & BISCUIT': Escape (Doom Entrance: 114) - UNUSED
+
+message_224:
+    text: \n<DOUGHIE>See you later.
+
+message_225:
+    text: \n<BISCUIT>Or see you never?
+
+message_226:
+    text: \n<DOUGHIE>Whichever the case...
+
+message_227:
+    text: \n<BISCUIT>Farewell.
+
+# -----------------------------------------------
+# - FROZEN FOREST (140)
+# -----------------------------------------------
+
+message_293:
+    text: \n<CEDULE>"Zmrzlé srdce se možná roztaje, ale rozbité zůstane navždy rozříštěno..."
+
+message_294:
+    text: \n<CEDULE>"Nehledejte mě...<br>Teď už žiji jen pro zimu..."
+
+message_295:
+    text: \n<CEDULE>"Zde není co pohledávat... Bežte pryč!"
+
+message_296:
+    text: \n<CEDULE>"Vypadněte! Ponechejte mě mému mizernému osudu!"
+
+message_297:
+    text: \n<CEDULE>"Vidím, že jste to stále nevzdali.<br>Doufám, že dostanete omrzlinu a zdechnete."
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY: CONSTRUCTION (204) - UNUSED
+# -----------------------------------------------
+
+message_249:
+    text: Most je sice v dezolátním stavu, ale s \c[4]NÁŘADÍM\c[0] bys ho možná mohl vrátit do provozu.
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY (203)
+# -----------------------------------------------
+
+#FIRST TOLL
+
+message_384:
+    text: \n<MÝTNÝ KROKOĎÁK>Tenhle pruh je jen pro náklaďáky, prcku.<br>Vrať se, až si najdeš nějaké kamarády!
+
+message_385:
+    text: \n<MÝTNÝ KROKOĎÁK>\{\{\sinv[1]Keh heh!
+
+message_386:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve dvou povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro náklaďáky...\! Ale dvojpruh pro náklaďáky!
+
+message_387:
+    text: \n<MÝTNÝ KROKOĎÁK>Buď se tady ukážete ve čtyřech, nebo se vrátíte stejným směrem, odkud jste přišli.
+
+message_388:
+    text: \n<MÝTNÝ KROKOĎÁK>...\! Ty máš opravdu tři kamarády?\!<br>Ts... No tak dobře... Jen si běžte.
+
+message_389:
+    text: \n<MÝTNÝ KROKOĎÁK>Snad u sebe máte dost MUŠLÍ... Keh heh...
+
+#GATE SNAKES
+
+message_390:
+    text: \n<MÝTNÝ HAD>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (Takhle mi hadi chrápeme.)
+
+message_165:
+    text: \n<MÝTNÝ HAD>Fuj!\! Konečně si můžu odpočinout...\! Ssssssstát pořád takhle narovnaně je fakt oprusssssssss!
+
+message_166:
+    text: \n<MÝTNÝ HAD>Jsssssssssem sice had, ale nejsssssssem jedovatý!\!<br>Ba naopak, jsem celkem přátelský!
+
+message_167:
+    text: \n<MÝTNÝ HAD>Ulehčete mi mé trápení.
+
+#TOLL GATE 1, PRIZE WHEEL
+
+message_89:
+    text: \n<MÝTNÝ KROKOĎÁK>Tady vás bude mýto stát...\! Vydržte...\! \v[1012] MUŠLÍ!\! Máte na to, nebo ne?
+
+message_90:
+    text: \n<MÝTNÝ KROKOĎÁK>Zdravím, přátelé!\! Rád vás poznávám, keh heh.
+
+message_91:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak vy byste chtěli dál?\! No... tak dobře!\! Ale když už tady jste, co kdybychom si to trochu okořenili?
+
+message_92:
+    text: \n<MÝTNÝ KROKOĎÁK>Otočte si tímhle kolem!
+
+message_93:
+    text: \n<MÝTNÝ KROKOĎÁK>\{\sinv[1]SKVĚLÁ PRÁCE, KÁMO!
+
+message_94:
+    text: \n<MÝTNÝ KROKOĎÁK>Mýto vás bude stát \v[1012] MUŠLÍ.\! Co vy na to?
+
+message_95:
+    text: \n<MÝTNÝ KROKOĎÁK>\v[1012] MUŠLÍ!?\! To je ale šťastné číslo!
+
+message_96:
+    text: \n<MÝTNÝ KROKOĎÁK>A taky tolik bude stát vaše mýtné.\!<br>Tak co, zaplatíte?
+
+message_97:
+    text: \n<MÝTNÝ KROKOĎÁK>\com[2]\{\{\sinv[1]A MÁME TADY VÍTĚZE! JUPÍ!!!
+
+message_98:
+    text: \n<MÝTNÝ KROKOĎÁK>\v[1012] MUŠLÍ je má poslední nabídka!<br>No tak, jiná už nebude!\$ #konečná?
+
+message_99:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak se mi to líbí!<br>\!Rád jsem s vámi spolupracoval...\! dacani.
+
+message_100:
+    text: \n<MÝTNÝ KROKOĎÁK>Ts...\! Za utíkání vam neslevím, děcka.
+
+message_101:
+    text: \n<MÝTNÝ KROKOĎÁK>Chviličku...\!<br>To mi nějak nesedí...\!<br>Budete si muset zatočit znova.
+
+message_102:
+    text: \n<MÝTNÝ KROKOĎÁK>Co takhle ještě jednou si zatočit?
+
+message_103:
+    text: \n<MÝTNÝ KROKOĎÁK>Ale! Na to snad máte!<br>\!A jestli ne, zavolejte rodičům!
+
+message_104:
+    text: \n<MÝTNÝ KROKOĎÁK>Ach, to je ale škoda...\! Holt kdo nehraje, nevyhraje.
+
+message_105:
+    text: \n<MÝTNÝ KROKOĎÁK>Ale no tak...\! Nebojte se.
+
+message_106:
+    text: \n<MÝTNÝ KROKOĎÁK>Těpéro... #to nejde přeložit
+
+message_107:
+    text: \n<MÝTNÝ KROKOĎÁK>Hele hele hele! Kampak jdeš, kamaráde?
+
+message_108:
+    text: \n<MÝTNÝ KROKOĎÁK>Teď se koukej pěkně vrátit...<br>Tady se platí mýtné, kamaráde!\!<br>\com[2]Vysol MUŠLE nebo vypadni!
+
+#TOLL GATE 2
+
+message_109:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak ty bys chtěl zvednout závoru, viď?\!<br>To bych rád!\! Ale stálo by mě to 2000 MUŠLÍ.\$
+
+message_110:
+    text: \n<MÝTNÝ KROKOĎÁK>Vy jste ale chytráci! \v[1001] MUŠLÍ je přímo zlodějina!\!<br>\}...\! Ha...\! To je jako kráct miminu \c[3]BONBÓN\c[0]...
+
+message_111:
+    text: \n<MÝTNÝ KROKOĎÁK>To u sebe vážně nemáte 2000 MUŠLÍ?<br>To je ale smůla...\! Opravdová smůla...
+
+message_112:
+    text: \n<MÝTNÝ KROKOĎÁK>Ale to nevadí!\! Vůbeec!<br>Víte, mám pro vás skvělý způsob, jak se z tohohle dostat!
+
+message_113:
+    text: \n<MÝTNÝ KROKOĎÁK>Takže...\! Stačí jen podepsat tenhle papír, tenhle papír, tenhle papír, tenhle papír...\! A hle! \v[979] MUŠLÍ, rovou na ruku!
+
+message_114:
+    text: Podepíšeš papíry?
+
+#[YES/NO]
+
+message_115:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak tady je máte!\! 2000 MUŠLÍ!\! Lehké jak facka!
+
+message_116:
+    text: \n<MÝTNÝ KROKOĎÁK>A mimochodem...\! Bacha na ten úrok.\!<br>A nezapomeňte splácet, brzy příjdeme...
+
+message_117:
+    text: \n<MÝTNÝ KROKOĎÁK>Ale no tak, nedělejte fóry!
+
+message_118:
+    text: \n<MÝTNÝ KROKOĎÁK>Chtěli byste teda otevřít?\!<br>Bude vás to stát 5000 MUŠLÍ.\$
+
+message_119:
+    text: \n<MÝTNÝ KROKOĎÁK>Hele, vy jste ty děcka, do podepsaly tu půjčku!\!<br>Věřte mi... Jednou mi poděkujete!
+
+message_120:
+    text: \n<MÝTNÝ KROKOĎÁK>Nemáte dost MUŠLÍ, že?\! To je v pohodě...<br>To se někdy stane každýmu.
+
+message_121:
+    text: \n<MÝTNÝ KROKOĎÁK>Co je za problém?\! Tak že jsem zvedl mýtné?
+
+message_122:
+    text: \n<MÝTNÝ KROKOĎÁK>Jo, to teda zvedl.\! A co s tím?
+
+message_123:
+    text: \n<MÝTNÝ KROKOĎÁK>Mějte se!
+
+message_124:
+    text: \n<MÝTNÝ KROKOĎÁK>Koukám, že se snažíte přelést tu bránu!\!<br>Slezte z ní! Tohle je soukromý majetek!
+
+message_168:
+    text: \n<MÝTNÝ KROKOĎÁK>Dobře, dobře.\!<br>Na... tady máte 3000 MUŠLÍ, jen pro vás!
+
+message_169:
+    text: \n<MÝTNÝ KROKOĎÁK>Ha!...\! Vraťte se, až budete mít na kontě víc MUŠLÍ...
+
+message_170:
+    text: \n<MÝTNÝ KROKOĎÁK>Chtěli byste otevřít bránu?\!<br>Bude vás to stát 10000 MUŠLÍ.\$
+
+message_171:
+    text: \n<MÝTNÝ KROKOĎÁK>Já si klidně počkám.
+
+message_172:
+    text: \n<MÝTNÝ KROKOĎÁK>...
+
+#TOLL GATE 3
+
+message_125:
+    text: \n<MÝTNÝ KROKOĎÁK>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
+
+message_126:
+    text: \n<MÝTNÝ KROKOĎÁK>Co? Kde to jsem?
+
+message_127:
+    text: \n<MÝTNÝ KROKOĎÁK>Sakra!
+
+message_128:
+    text: \n<MÝTNÝ KROKOĎÁK>Ne, šéfe, já nespal... Já jen-
+
+message_129:
+    text: \n<MÝTNÝ KROKOĎÁK>Aha... Vy nejste šéf, vy jste jen nějaký děcka...\!<br>Asi chcete otevřít bránu, co?
+
+message_130:
+    text: \n<MÝTNÝ KROKOĎÁK>Víte co? Řeknu vám to na rovinu... Tyhle ceny jsou jeden velkej podfuk. \!Stálo by vás to 3000 MUŠLÍ, ale být váma bych to raději nějak obešel.<br>Chcete teda otevřít?\$
+
+message_131:
+    text: \n<MÝTNÝ KROKOĎÁK>Fakt?\! To vám nevadí, rozhazovat takovýhle částky?
+
+message_132:
+    text: \n<MÝTNÝ KROKOĎÁK>Vy se v těch penězích snad topíte...
+
+message_133:
+    text: \n<MÝTNÝ KROKOĎÁK>Tak, máte otevřeno.
+
+message_134:
+    text: \n<MÝTNÝ KROKOĎÁK>Nemáte?\! To se nedivím...<br>Radši se otočte, děcka. Stejně to tam je jenom samý žralok, nic víc.
+
+message_135:
+    text: \n<MÝTNÝ KROKOĎÁK>Dobrý nápad.\! Šetřete si radši na kolo nebo něco takovýho.
+
+message_136:
+    text: \n<MÝTNÝ KROKOĎÁK>Hele, jste zpátky!\! Mýtné stojí 3000 MUŠLÍ, tak jako vždycky.\$
+
+message_137:
+    text: \n<MÝTNÝ KROKOĎÁK>Ta dnešní mládež je teda něco...
+
+message_138:
+    text: \n<MÝTNÝ KROKOĎÁK>Hele, pracky pryč!<br>Jestli se tomu cokoliv stane, tak je po mně!
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY: TAXI RIDE (211)
+# -----------------------------------------------
+
+message_139:
+    text: \n<TAXIKÁŘ>Hej, prcku! Nechceš někam jet? Znám jedno fakt hustý místo!
+
+message_140:
+    text: \n<TAXIKÁŘ>Říkáj mu \c[11]KONEČNÁ\c[0]!\! Je to nejžhavější, nejlepší místo široko daleko. Fakt poklad...\!<br>Beztak jsi o ní už slyšel!
+
+message_141:
+    text: \n<TAXIKÁŘ>Za jednorázový poplatek 3000 MUŠLÍ tě tam odvezu!<br>No tak... Jen se neboj!\! Já nekoušu...\! většinou...
+
+message_142:
+    text: Cena za taxík byla opravdové hausnumero.\! Škoda že nemáš, s kým by ses na ni složil...
+
+message_143:
+    text: \n<TAXIKÁŘ>Hmm... Pár MUŠLÍ ti schází...\!<br>Nevadí... Tak já si vezmu všechno, co máš! Keh heh!
+
+message_144:
+    text: \n<TAXIKÁŘ>Hmm... Pár MUŠLÍ ti schází...\!<br>Nevadí... Tak já si vezmu všechno, co-
+
+message_145:
+    text: \n<TAXIKÁŘ>Ty jo... Ty u sebe fakt žádné nemáš?\!<br>Tak na tebe musel někdo ušít pořádnou boudu.\! Lituju tě.
+
+message_146:
+    text: \n<TAXIKÁŘ>Hej, prcku!\! Chceš odvést zpátky do \c[11]HLUBOKÉ STUDNY\c[0]?<br>Bude tě to stát jen 1500 MUŠLÍ.
+
+# -----------------------------------------------
+# - SLIME GIRLS LAIR: WATER SLIDE (230)
+# -----------------------------------------------
+
+### NO LONGER USED ###
+
+# message_53:
+#     text: Which way do you want to go?
+
+# message_54:
+#     text: Left
+
+# message_55:
+#     text: Right
+
+# message_56:
+#     text: Down
+
+message_292:
+    text: Vítejte na MEDŮZINĚ skluzavce!\!<br>Vybírej mezi proudy pomocí ŠIPEK!
+
+### NO LONGER USED ###
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (221)
+# -----------------------------------------------
+
+#TUMOR SIGN 1
+
+message_231:
+    text: EXPONÁT\! ZVLÁŠTNÍ RŮSTOVÉ\!<br>VLASTNOSTI\! SCHOPEN REGENERACE
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (222)
+# -----------------------------------------------
+
+#CHIMERA SIGN
+
+message_626:
+    text: POZOR\! NESAHAT NA SKLO
+
+#TUMOR SIGN 2
+
+message_164:
+    text: EXPONÁT\! ZVLÁŠTNÍ RŮSTOVÉ\!<br>VLASTNOSTI\! SCHOPEN PŘEMĚNY NA MOST
+
+#BUNNY SIGN
+
+message_232:
+    text: EXPONAT\! ZAJÍČKOVSKÉ\!<br>VLASTNOSTI\! MĚKKÝ A PRUŽNÝ
+
+#RECEPTION BENDA
+
+message_233:
+    text: \n<RECEPČNÍ BENDA>Vítejte!\! MARINA momentálně nepřijímá hosty...\! ale pokud se vám exponáty líbí, klidně si vlezte do klece a počkejte na další experiment!
+
+message_234:
+    text: \n<RECEPČNÍ BENDA>Poznáte, že je hotový, až ustane řev.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (225)
+# -----------------------------------------------
+
+message_372:
+    text: \n<BENDA>Mám rád tohle místo!
+
+message_621:
+    text: \n<BENDA>Zaslech jsem, že tady jsou vynikající MELOUNY, a tak jsem je všechny snědl!\ Mmm... vy-ni-ka-jí-cí!
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (250)
+# -----------------------------------------------
+
+message_235:
+    text: \n<BENDA>Přišli jste si zaplavat?\! Já taky!
+
+message_236:
+    text: \n<BENDA>Hele, koukejte na mě, lidi!
+
+message_237:
+    text: \n<BENDA>Víte o tom, že my BENDOVÉ jsme schopni ustát proud vodopádu?\! Sledujte!
+
+message_238:
+    text: \n<BENDA>Jejda!\! Tak možná až na tamtoho...<br>\!Nevadí! To je holt přirozený výběr.
+
+message_239:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelVíte, co mě napadlo!\!<br>Kdybychom... sehnali dost BENDŮ-
+
+message_905:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubTak bychom... si z nich mohli udělat most na druhou srandu!
+
+message_906:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\com[2]Hele, to jsem chtěl říct já!
+
+message_240:
+    text: \n<BENDA>Za mě má MEDŮZIN experiment čtrnáct krát sedm plus čtyřicet čtyři děleno jedenáci mínus dva procentní šanci úspěchu!
+
+message_241:
+    text: \n<BENDA>Biologie je sice můj nejméně oblíbený předmět, ale to mě nikdy nezastavilo! #spíš "worst" jakože je v něm ze všech předmětů nejhorší, ale to mi nezní zas tak dobře
+
+message_242:
+    text: \n<VELKÝ KRTKUS>Já jsem VELKÝ KRTKUS.
+
+message_243:
+    text: \n<VELKÝ KRTKUS>Za to, že jste mě skryli, vás odměním velikým pokladem.
+
+message_904:
+    text: \n<VELKÝ KRTKUS>Můj úděl je hotov.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (231)
+# -----------------------------------------------
+
+message_327:
+    text: \n<BENDA>Všichni moji kamarádi odešli stavět most...\! však já jim ukážu, postavím ještě větší most!
+
+message_328:
+    text: \n<BENDA>Kdybyste narazili na nějaké BENDY, co nemají nic na práci, pošlete mi je sem, prosím.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (230)
+# -----------------------------------------------
+
+message_397:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Hff...\! hff...\! hff...\her
+
+message_398:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Byl bych...\! rád...\! kdybyste to...\! už zabalili...\!\her
+
+message_399:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Nemusíte spěchat...\! Jen se mi zdá...\! že je mi...\! hrg...\! už trochu blbě...\her
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY MAIN ROOM (236)
+# -----------------------------------------------
+
+message_147:
+    text: \n<MOLLY>\com[539]Ahoj, MARINO...\!<br>\com[539]Přišlas mě zase okráct?<br><br>\com[539]Tak tentokrát se nenechám.\! \com[539]Přichystala jsem ti něco \com[539]extra speciálního... \sinv[1]Fufufu~
+
+message_149:
+    text: \n<MOLLY>\com[539]Jak jistě víš, \com[539]jsem většinou dost zaneprázdněna.\!<br>\com[539]Ale ty jsi, koneckonců, moje sestra.<br><br>\com[539]Dám ti přístup \com[539]k mému pokoji...\!<br>pokud \com[539]vyřešíš \com[539]tenhle můj dáreček. #to formátování těchle dialogů je bolest
+
+message_150:
+    text: \n<MOLLY>\com[539]\com[539]Snad se brzo uvidíme, miláčku...\!\com[539] pokud to vůbec přežiješ!
+
+#TERMINAL INTERACTION
+
+message_392:
+    text: \"DRUH... RÉBUS\"<br>\"TÉMA... VZORY\"<br>\"OBTÍŽNOST... LEHKÁ\"
+
+message_393:
+    text: \"DRUH... RÉBUS\"<br>\"TÉMA... PAMĚŤ\"<br>\"OBTÍŽNOST... TĚŽKÁ\"
+
+message_394:
+    text: \"DRUH... RÉBUS\"<br>\"TÉMA... KVÍZ\"<br>\"OBTÍŽNOST... STŘEDNÍ\"
+
+message_496:
+    text: Chtěl bys aktivovat tento rébus?\!<br>Dokud jej nevyřešíš, nemůžeš aktivovat jiný.
+
+message_497:
+    text: \"DRUH... RÉBUS\"<br>\"STATV... VYŘEŠEN\"
+
+#PASSWORD PUZZLE (Bomb Collision)
+
+message_498:
+    text: Chtěl bys zadat heslo?
+
+message_622:
+    text: \n<AMPLION>Si myslíte, jací jste chytří, co?
+
+message_907:
+    text: Jaké je heslo?
+
+#WIRE PUZZLE (Wire Events)
+
+message_499:
+    text: Chtěl bys přestřihnout \c[8]červený drát\c[0]?
+
+message_500:
+    text: Chtěl bys přestřihnout \c[11]modrý drát\c[0]?
+
+message_501:
+    text: Chtěl bys přestřihnout bílý drát?
+
+message_502:
+    text: Chtěl bys přestřihnout \c[3]zelený drát\c[0]?
+
+#BUTTON PUZZLE (Bomb Collision)
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Do toho!\! Věříme ti!\aub
+
+message_504:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Ty to zvládneš! Ukaž tomuhle rébusu co proto!\kel
+
+message_505:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Zvládneš to! My ti věříme!\her
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM RIGHT 2 (238)
+# -----------------------------------------------
+
+#WELCOME HUMPHRIES
+
+message_445:
+    text: \n<RECEPČNÍ BENDA>Vítejte!\! Právě stupujete do MOLLYHO zkušebního střediska, kde provádí všelijaké pokusy a analýzi!
+
+message_477:
+    text: \n<OPERÁTOR BENDA>Z našich testů vychází, že KLÍČKOKRTCI rostou z \c[3]TOFU\c[0]!\! Kdo by to byl řek?!
+
+message_478:
+    text: \n<OPERÁTOR BENDA>Ach... Tyto výsledky jsou vskutku nečekané...\! S těmito poznatky možná budu moct přijít na tajemství věčného života!
+
+message_479:
+    text: \n<OPERÁTOR BENDA>Panečku! S těmito výpočty musí být něco špatně!\!<br>...\! Počkat...\! Špatně jsem si to vypočítal...\!<br>Tak není.
+
+message_480:
+    text: \n<OPERÁTOR BENDA>Zkoumáme svět, protože o něm málo víme...\! ale z našeho výzkumu máme jen víc a víc otázek!\!<br>Je to začarovaný kruh!
+
+message_481:
+    text: \n<OPERÁTOR BENDA>BENDA volá BENDU... Slyšíme se?
+
+message_482:
+    text: \n<OPERÁTOR BENDA>Mhmm...\! Ano...\!<br>A zkoušel jste ho vypnout a zapnout?
+
+message_483:
+    text: \n<OPERÁTOR BENDA>MOLLY nám pořád kecá do výzkumu, proto toho většinou moc nestihneme...<br><br>Kéž by mě převeleli do MEDŮZINA sektoru...\!<br>Tam většinou končí všichni čtveráci...<br>Prý tam mají dokonce i skluzavku!
+
+message_484:
+    text: \n<OPERÁTOR BENDA>Moje řeč...\! Podle živého kamerového záznamu právě teď na něčem pracuje ve své "dílně"...\! Jo, dobre...\!<br>Budu to pozorovat dál.
+
+message_485:
+    text: \n<OPERÁTOR BENDA>Vypadá, že se MARINA zrovna pohádala s nějakým zákazníkem.\! To vůbec nevypadá dobře...
+
+#Teleport Object
+
+message_396:
+    text: \n<KLÍČKOKRTEK>Nevěřím, že jsem se k tomuhle dobrovolně přihlásil. #lepší by za mě bylo "upsal", ale možná by se ti líbil orig. význam víc
+
+#FIRST BENDA (Pattern)
+
+message_446:
+    text: \n<BENDA>Zdravím, návštěvníci!\! Chcete vidět něco hustýho?\!<br>Tenhle stoj je schopen dálkové teleportace!
+
+message_454:
+    text: \n<BENDA>Díky síle moderní technologie jsem schopen tohoto KLÍČKOKRTKA přesunout na druhou stranu pole!\! Sledujte!
+
+message_455:
+    text: \n<BENDA>\com[2]Cože?! Jaká chyba?!\! ...\!<br>Někdo se mi v tom beztak zase hrabal.<br><br>Uff...\! Vsadil bych se, že v tom má prsty MOLLY...\!<br>Takovéhle psí kusy u ní nejsou neobvyklé...
+
+message_456:
+    text: \n<BENDA>Safra, MOLLY!\! Vdžyť to dneska ráno všechno tak skvěle šlo...
+
+#SECOND BENDA (Pattern)
+
+message_447:
+    text: \n<BENDA>Zdravím, návštěvníci!\! Jsem vedoucí experimentu přesunu druhu BENDA-přes-BENDU!\! Přišli jste přesně v čas! Právě provádíme náš poslední test!
+
+message_448:
+    text: \n<BENDA>Jste připraveni, hoši?\! Jde se na to, přesně podle plánu!
+
+message_449:
+    text: \n<BENDA>Tohle... Tohle nebylo v plánu...
+
+message_451:
+    text: \n<BENDA>Kam se všichni poděli?
+
+message_457:
+    text: \n<BENDA>Zde probíhá test!
+
+message_458:
+    text: \n<BENDA>Nemůžu se dočkat, až všem ukážeme výsledky našeho výzkumu!
+
+message_459:
+    text: \n<BENDA>Jsem připraven!
+
+message_460:
+    text: \n<BENDA>Měl jsem se ještě předtím podívat do poznámek...
+
+message_476:
+    text: \n<BENDA>Připravte se na údiv!
+
+#FOURTH BENDA (Pattern)
+
+message_452:
+    text: \n<BENDA>Á! Zdravím, návštěvníci!\! Po několika měsících tvrdé práce jsem konečně zkonstruoval první hologram BENDY na světě!<br>Že vypadá úplně, jako opravdový?\!<br>Fňuk...\! Pyšnější snad být nemůžu...
+
+message_453:
+    text: \n<BENDA>MOLLY mi řekla, ať tady dál stojím, ale nevím proč!
+
+#THIRD BENDA (Pattern)
+
+message_461:
+    text: \n<BENDA>Hmm...\| Uf...\| Uch...\| Hrm...\| É?
+
+message_462:
+    text: \n<BENDA>Co? Proč na mě tak koukáte?\!<br>Nevidíte, že tady mám něco na práci?
+
+message_463:
+    text: \n<BENDA>...
+
+message_700:
+    text: \n<BENDA>Vlastně... mě teď něco napadlo!\! Co kdyby jeden z vás proběhl po tamté ocelové desce?\!<br>Jen bych něco potřeboval vyzkoušet.
+
+message_701:
+    text: \n<BENDA>Co kdybyste si to mezi sebou probrali, nebo odhlasovali?
+
+message_702:
+    text: Kdo pomůže BENDOVI s jeho experimentem?
+
+message_465:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Tak dobře... když myslíš, OMORI.\! Dávej si ale pozor!\! Tohle se mi vůbec nezdá.\aub
+
+message_466:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Cože?\! Já?\! Tak dobře... i když se mi tohle vůbec nezdá.\aub
+
+message_467:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Co?! Proč já?!\!<br>Tak jo... i když se mi to vůbec nezdá.\kel
+
+message_468:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Nechte to na mě...\! I když se mi to vůbec nezdá.\her
+
+message_469:
+    text: \n<BENDA>Pospěšte si! Nemáme na to celý den!
+
+message_470:
+    text: \n<BENDA>\com[2]A-ha! Já věděl, že je jeden z těch ostnů porouchaný...
+
+message_471:
+    text: \n<BENDA>Kdybych u sebe teď měl kafe, usrkl bych si z něho!
+
+message_472:
+    text: \n<BENDA>Děkuji za to, že jste dobrovolně riskovali své životy ve jménu vědy.
+
+message_473:
+    text: \n<BENDA>Tak... Teď bych to asi měl jít zpravit.
+
+message_474:
+    text: \n<BENDA>Hmm...\| Uf...\| Uch...\| Hrm...\| É?
+
+message_475:
+    text: \"DRUH... KONZOLE\"<br>\"STAV... ROZBITÝ\"
+
+message_174:
+    text: OMORI
+
+message_175:
+    text: AUBRY
+
+message_176:
+    text: KEL
+
+message_177:
+    text: HERO
+
+message_450:
+    text: \n<BENDA>Hele! To zas prr, kamaráde. Ještě nemáme hotovo!\! Musíš je projít všechny!
+
+# -----------------------------------------------
+# - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
+# -----------------------------------------------
+
+message_486:
+    text: \n<CHYTRÝ BENDA>Jak řekla jednou jedna moudrá velryba...<br>"Spočítání tvých nepřátel tě dovede k vítězství!"\! nebo nějak tak to bylo...
+
+message_608:
+    text: \n<CHYTRÝ BENDA>Would you like some assistance?
+
+message_609:
+    text: \n<CHYTRÝ BENDA>Když se podíváte na tuhle obrazovku, jistě si všimnete čtyř teleportačních přístrojů. A když zpočítáte, kolik je v každé místnosti nepřátel, zjistíte jejich pořadí!
+
+# -----------------------------------------------
+# - SLIME GIRLS: LOST ROOM 4 (247)
+# -----------------------------------------------
+
+message_487:
+    text: \n<CHYTRÝ BENDA>Jak řekla jednou jedna moudrá velryba...<br>"Pořadí cesty vás dovede k řešení!"\! nebo nějak tak to bylo...
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
+# -----------------------------------------------
+
+message_329:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelHele, to jsou zas tihle!\! Potřebujeme tvoje kouzlo, HERO!
+
+message_330:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \n<HERO>A jo, máš pravdu!
+
+message_331:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \n<HERO>Ahm...\! Zdravím, PANE PÁSOROBOTE...\! Já a mí společníci by po vás vyžadovali změnu směru jízdy pásů.\! Byl byste vy a vaši přátelé hodný a pomohl nám, prosím?
+
+message_332:
+    text: \n<PAN PÁSOROBOT>\quake[1]Bzzz...\! Hmm...\! Slušný...\quake[0]
+
+message_333:
+      text: \n<PAN PÁSOROBOT>\quake[1]Padej...\quake[0]
+
+message_334:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \n<HERO>C-Cože? To je divné...\! Vždyť to předtím zabralo...
+
+message_335:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kelAle, hlavu vzhůru, HERO!\! Možná mu prostě ruplo v bedně nebo něco!
+
+message_336:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubMohl bys to říct ještě víc nahlas?\! Tak teď se na nás bude zlobit ještě víc!
+
+message_337:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelHej, šrote!<Br>Koukej nám otočit směr těchle pásů, jo?
+
+message_338:
+      text: \n<PÁSOROBOT>\quake[1]Bzzzzzz!\! Á...\! Hmm...\! Drzý...\!<br>Hehe...\! Úplně jako MOLLY...\quake[0]
+
+message_339:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub...\! Nevěřím, že tohle zabralo.
+
+message_340:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelTak vidíš!<br>Už tenhle PŮVAB taky celkem zvládám!
+
+message_382:
+    text: \n<HERO>DEJ MI BABU! Vím, jak na to!
+
+message_999:
+    text: Nyní ti všichni PÁSOROBOTI změní směr.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM LEFT 1 (239)
+# -----------------------------------------------
+
+message_488:
+    text: \n<BENDA>MOLLY řekla, abychom si na záda napsali písmena a stáli v tomhle pořadí!
+
+message_489:
+    text: \n<BENDA>Nebo aspoň myslím, že to po nás chtěla...
+
+message_490:
+    text: \n<BENDA>Já si jsem celkem jistý, že bych se měl vyměnit s tím vedle tebe...
+
+message_491:
+    text: \n<BENDA>A když říkám "vedle tebe", myslím tebe, toho přede mnou... ne nějakou teoretickou osobu, dívající se na nás skrz obrazovku.
+
+message_492:
+    text: \n<BENDA>Tohle je beztak jeden z těch MOLLYNÝCH šílených rébusů...
+
+message_493:
+    text: \n<BENDA>Ta holka si ze všech jenom ráda utahuje. Kdyby se dala na něco lepšího, víte, jak by pak svět vypadal?!
+
+message_494:
+    text: \n<BENDA>Ještě že jsem se ujistil, než jsem na sebe napsal to "Mko"... jinak bychom tady měli dvě "Bčka"...
+
+message_495:
+    text: \n<BENDA>Což by asi bylo celkem blbý, nemyslíte?
+
+# -----------------------------------------------
+# - SLIME GIRLS LAIR: MEDUSA (231, 250)
+# -----------------------------------------------
+
+#FLOATIE HUMPHRIES 1
+
+message_57:
+    text: \n<BENDA>Samozřejmě! Nečekal bych, že se mě zeptáte!
+
+message_58:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelHej, BENDO! Nechtěl bys za svým kamarádou BENDOU k vodopádu?
+
+message_610:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+
+message_611:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+
+message_612:
+    text: \n<MOST Z BENDŮ\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+
+message_613:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+
+#FLOATIE HUMPHRIES 2
+
+message_614:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
+
+message_615:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
+
+message_616:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
+
+message_617:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+
+message_618:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+
+message_619:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+
+message_620:
+    text: \n<MOST Z BENDŮ>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+
+# -----------------------------------------------
+# - RECYKLOSEKTAŘ: RANDOM DIALOGUE (341)
+# -----------------------------------------------
+
+message_250:
+    text: \n<RECYKLOSEKTAŘ>Koš je můj pastýř, nebudu zbytečně dělat nepořádek.
+
+message_251:
+    text: \n<RECYKLOSEKTAŘ>Sbírá odpadky v travnitých nivách.<br>Vodí mě na čistá místa u vod.
+
+message_252:
+    text: \n<RECYKLOSEKTAŘ>Čistého mě udržuje.<br>Cestou čistoty mě vede pro své jméno.
+
+message_253:
+    text: \n<RECYKLOSEKTAŘ>Nechť nás rozložitelná vidlička osvobodí od hříchu a dovede do života čistého.
+
+message_254:
+    text: \n<RECYKLOSEKTAŘ>Nechť jsme jednoho dne zrecyklováni a uvedeni do světa bez odpadků.
+
+message_255:
+    text: \n<RECYKLOSEKTAŘ>Ach, velký koši na nebesích, očisti nás od našich odpadků!
+
+message_256:
+    text: \n<RECYKLOSEKTAŘ>Nechť ve mě přebývá duch gumové rukavice,<br>ať jsem blíž velikému koši ve světe čistém.
+
+message_257:
+    text: \n<RECYKLOSEKTAŘ>Neboť koš svatý tak miloval svět, že dal svou jednorozenou gumovou rukavici, aby žádný, kdo v něj věří nešpinil, ale měl život bez odpadků...
+
+message_258:
+    text: \n<RECYKLOSEKTAŘ>Bratři a sestry, je třeba se smířit s tím, že jsme všichni odpad.
+
+message_259:
+    text: \n<RECYKLOSEKTAŘ>A přestože jsme odpad, pokud jsme rozložitelní, nalezne se pro nás spása.
+
+# -----------------------------------------------
+# - RECYKLOSEKTAŘ: END PRAYER (341)
+# -----------------------------------------------
+
+message_260:
+    text: \n<RECYKLOSEKTAŘ>Ve jménu rozložitelné vidličky...\!<br>Redukce, opětovné použití, recyklace.
+
+# -----------------------------------------------
+# - RECYKLOSEKTAŘ: DEFEATED (341)
+# -----------------------------------------------
+
+message_261:
+    text: \n<RECYKLOSEKTAŘ>Odpusť mi, koši...\! neboť jsem špinil...
+
+message_262:
+    text: \n<RECYKLOSEKTAŘ>Odpadky mě přemohly!\! Odpusť mi, koši svatý! Jsem nečistý a nejsem hoden světa bez odpadků!
+
+message_263:
+    text: \n<RECYKLOSEKTAŘ>Ale ne! Zapomněl jsem dezinfekci doma!
+
+message_264:
+    text: \n<RECYKLOSEKTAŘ>Vím, že je naš vůdce, ale nepřipadá vám stavět tady horu odpadků trochu protichodné?
+
+message_265:
+    text: \n<RECYKLOSEKTAŘ>Fňuk... Fňuk...\! Fuuuuj...\!<br>Jsem nějaký špinavý. Musím se jít domů osprchovat.
+
+message_266:
+    text: \n<RECYKLOSEKTAŘ>Hej...\! Tobě to bude asi jedno, ale...<br>já v tyhle bláboly doopravdy nevěřím.
+
+message_267:
+    text: \n<RECYKLOSEKTAŘ>Dotáhla mě sem moje holka...\! Jí takovéhle věci berou, to recyklování a tak...
+
+message_268:
+    text: \n<RECYKLOSEKTAŘ>Sakra... Cítím se ztraceně...
+
+message_269:
+    text: \n<RECYKLOSEKTAŘ>Hele, nesuďmě, jo?!<br>Já to dělám jenom, abych dostal stipendium...
+
+# -----------------------------------------------
+# - RECYKLOSEKTAŘ: MISC (341)
+# -----------------------------------------------
+
+#Group of RECYKLOSEKTAŘS
+
+message_281:
+    text: \n<RECYKLOSEKTAŘ>Pohlédněte na naši obrovskou armádu a bojte se!\! Bez věřících tak věrných, jako máme my, nás nikdy neporazíte!
+
+message_247:
+    text: \n<RECYKLOSEKTAŘ>I když jste...\! celkem působivý.
+
+message_248:
+    text: \n<RECYKLOSEKTAŘ>Vraťte se, až nás budete přesahovat počtem!\! Tehdy teprve nastane náš souboj.
+
+message_282:
+    text: \n<RECYKLOSEKTAŘ>Ajaj...\! vypadá, že je vás nakonec opravdu víc.
+
+message_283:
+    text: \n<RECYKLOSEKTAŘ>Zdá se, že nám nezbývá nic jiného, než se vzdát...\! Tak pojďme.\! Co říkáte na grilovačku, dneska večer u mě?
+
+message_284:
+    text: \n<PŘESVĚDČENÝ? RECYKLOSEKTAŘ>No, asi bychom...\! teda taky měli jít.
+
+#Block guy
+
+message_285:
+    text: \n<RECYKLOSEKTAŘ>Tuto nezničitelnou zábranu jsem stavěl osm hodin.\! Chtěl bych vidět, jak se přes ni marně snažíte dostat!
+
+message_286:
+    text: \n<RECYKLOSEKTAŘ>Aha...
+
+#HERO charm
+
+message_287:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Tohle místo není pro tebe...\! Co kdybychom se o tyhle magory postarali, dokud to ještě jde?\her
+
+message_288:
+    text: \n<RECYKLOSEKTAŘ>Jo, asi máš pravdu.
+
+message_289:
+    text: \n<RECYKLOSEKTAŘ>Rád bych s tebou šel, ale myslím, že pro mě už není místo...
+
+message_290:
+    text: \n<RECYKLOSEKTAŘ>Spolčit se se špinavým plastožroutem?\! To já nikdy!\!<br>...\! I když...\! Možná, kdyby mi to řekl někdo trochu šaramantnější...
+
+message_291:
+    text: \n<RECYKLOSEKTAŘ>Měl bych se nad sebou zamyslet...
+
+# -----------------------------------------------
+# - RECYKLOSEKTAŘ: BILLY CHALLENGED (341)
+# -----------------------------------------------
+
+message_270:
+    text: \n<RECYKLOCESTA>Zdravím...\! Vítejte na vrcholu hory odpadků.
+
+message_271:
+    text: \n<RECYKLOCESTA>To jsem já...
+
+message_272:
+    text: \n<RECYKLOCESTA>RECYKLOCESTA...
+
+message_273:
+    text: \n<RECYKLOCESTA>Jediný, jemuž bylo dáno hovořit v košově jménu!
+
+message_274:
+    text: \n<RECYKLOCESTA>Včera jsem měl sen.
+
+message_275:
+    text: \n<RECYKLOCESTA>Duše gumové rukavice mi v něm řekla, že pro nás již tento svět není.\! Jak pravil koš svatý na nebesích, musíme se snažit...
+
+message_276:
+    text: \n<RECYKLOCESTA>Dosáhnout světa bez odpadků, kde můžou lidé spolu s rozložitelnými materiály soužít na věky věků!
+
+message_277:
+    text: \n<RECYKLOCESTA>Vám dětem muselo trvat se dostat až na tento vrchol...\! ale obávám se, že zde vaše cesta končí.
+
+message_278:
+    text: \n<RECYKLOCESTA>Koneckonců jste jen odpad...\!<br>hladoví, nesmysluplní plastožrouti!
+
+message_279:
+    text: \n<RECYKLOCESTA>Nechť je síla rozložitelné vidličky se mnou!
+
+message_280:
+    text: \n<RECYKLOCESTA>Připravte se na \com[2]recyklaci!
+
+# -----------------------------------------------
+# - RECYCULTIST: BILLY RECYCLED (341)
+# -----------------------------------------------
+
+message_300:
+    text: \n<RECYKLOCESTA>Ne...\! Jak je tohle možné?\! Vždyť...\! jste všichni jen odpad...
+
+message_301:
+    text: \n<RECYKLOCESTA>Byl nám přece zaslíben svět bez odpadků...\! Že by nás koš svatý opustil?
+
+message_302:
+    text: \n<RECYKLOCESTA>Ne...\! Musel jsem špatně pochopit jeho znamení.\! Koš svatý přece nechybuje.
+
+message_303:
+    text: \n<RECYKLOCESTA>To já jsem musel chybovat...
+
+message_304:
+    text: \n<RECYKLOCESTA>Počkat...\! Už to chápu!
+
+message_305:
+    text: \n<RECYKLOCESTA>Koš svatý se mi snažil říct, že žádný svět bez odpadků není!\! Jediné co můžeme dělat, je se starat o tento svět, co nejlépe, co to jde...
+
+message_306:
+    text: \n<RECYKLOCESTA>Ano...\! Bratři a sestry!\! Svět bez odpadků není na nebesích, nýbrž zde, tam, kde stojíme.
+
+message_307:
+    text: \n<RECYKLOCESTA>Musíme tento svět zbavit odpadků!
+
+# -----------------------------------------------
+# - RECYCULTIST: CLEANED TRASH (341)
+# -----------------------------------------------
+
+message_320:
+    text: \n<RECYKLOCESTA>Modleme se...
+
+message_321:
+    text: \n<RECYCULTIST>Koši svatý, jenž jsi na nebesích, posvěť se jméno tvé.
+
+message_322:
+    text: \n<RECYCULTIST>Přijď čistoto tvá, buď vůle tvá, jako ve světě bez odpadků, tak i na zemi.
+
+message_323:
+    text: \n<RECYCULTIST>Rukavici vezdejší dej nám dnes, a odpusť nám naše viny, neboť i my uklízíme po našich vinících.
+
+message_324:
+    text: \n<RECYCULTIST>A neuvěď nás v pokušení, ale zbav nás odpadu.
+
+message_325:
+    text: \n<RECYCULTIST>Ve jménu rozložitelné vidličky...
+
+message_326:
+    text: \n<RECYCULTIST>Redukce, opětovné použití, recyklace.

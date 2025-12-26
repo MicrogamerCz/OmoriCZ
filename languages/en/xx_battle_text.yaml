@@ -1,0 +1,2628 @@
+# =========================================================================================
+# Battle Quotes
+# =========================================================================================
+
+# Plot Armor
+
+message_1000:
+   text: >
+    OMORI nepodlehl.
+
+message_1001:
+   text: >
+    OMORI nepodlehne.
+
+message_1002:
+   text: >
+    Omdlel jsi...
+
+# ============Enemy:
+
+# COMMENT
+
+message_1:
+   text: >
+    VESMÍRNÝ EX-MILENEC už ŠŤASTNĚJŠÍ být nemůže!
+# COMMENT
+
+message_2:
+   text: >
+
+# GETTING WEAKER (25%)
+
+message_3:
+   text: >
+
+# AFTER DEFEAT
+
+message_4:
+   text: >
+
+# AFTER VICTORY
+
+message_5:
+   text: >
+
+
+# ============Enemy:  KLUK S DRAKEM
+
+# Before Kid's Kite "FLY- Part 2"
+
+message_10:
+   text: >
+    \>KLUK S DRAKEM: \<A teď vám ukážu pravou sílu mě a mého draka!
+
+# Before Kid's Kite "Repair"
+
+message_11:
+   text: >
+    \>KLUK S DRAKEM: \<Vy si opravdu myslíte, že nás porazíte?
+
+message_12:
+   text: >
+    \>KLUK S DRAKEM: \<Tak to se ještě zamyslete!
+
+# GETTING WEAKER (25%)
+
+message_13:
+   text: >
+    \>KLUK S DRAKEM: \<Ne... To snad není možné...
+
+message_14:
+   text: >
+    \>KLUK S DRAKEM: \<Vítr...\!<br>Slábne!
+
+
+# AFTER DEFEAT
+
+message_15:
+   text: >
+    \>KLUK S DRAKEM: \<Ale my se svým drakem máme nerozbitelné pouto...
+
+message_16:
+   text: >
+    \>KLUK S DRAKEM: \<Jak ?
+
+
+# AFTER VICTORY
+
+message_17:
+   text: >
+    \>KLUK S DRAKEM: \<Haha! Přesně, jak to vítr předpověděl!\! Já a můj drak jsme nezastavitelní.
+
+
+# ============Enemy:  PLUTO
+
+# Before Strong Attack
+
+#message_18:
+#   text: >
+#    \>PLUTO: \<\<<br>\sinv[2]WOEWO\{EWEOWEOWEOW!!!
+
+# Getting Weaker
+
+message_19:
+   text: >
+    \>???: \<\<<br>\sinv[2]GWAH\{AHAHAH\{AHAHA!!!
+
+message_20:
+   text: >
+    \>???: \<\<<br>Toť krásná ukázka síly!
+
+# After Defeat
+
+message_21:
+   text: >
+    \>???: \<\<Ts...\!<br>Zabojovali jste dobře.
+
+message_22:
+   text: >
+    \>???: \<\<Ale...\! Hff...\! hff...\!<br>Já tak snadno nepodlehnu...
+
+# After Victory
+
+message_23:
+   text: >
+    \>???: \<\<Ts...\!<br>Zabojovali jste dobře...\! ale schází vám trénink.
+
+
+
+# ============Enemy:  VESMÍRNÝ EX-MILENEC
+
+# Getting Weaker (50%, Before Enraged):
+
+message_25:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Á!\! Jaktože se ještě hýbete?!
+
+message_26:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Já...\! Já vás nenechám mě skolit!
+
+# Before ‘Bullet Hell' (25%):
+
+message_27:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Uhněte mi z cesty, pozemšťané!
+
+message_28:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Tohle je mé poslední varování!
+
+# After Defeat:
+
+message_29:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Uff...\! Mé srdce...
+
+message_30:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Tak...\! bolí...
+
+# After Victory:
+
+message_31:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Měli jste se trochu víc zamyslet, než jste se mi rozhodli postavit.
+
+message_32:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Jste jen pozemská spodina, nic víc!
+
+# ============Enemy: SPROUT MOLE EATER
+
+# Before ‘Ram':
+
+message_33:
+   text: >
+    \>KRÁL PLAZIVKA: \<<br>\quake[1]\}Kiškiěkiěkiěkiě...
+
+# Getting Weaker:
+
+message_34:
+   text: >
+    \>KRÁL PLAZIVKA: \<<br>\quake[1]\}Ssssssssssssssssssss...
+
+# After Victory:
+
+message_35:
+   text: >
+    \>KRÁL PLAZIVKA: \<<br>\quake[1]\}KIŠKIŠKIŠKIŠKIŠKIŠKIŠ!!
+
+# ============Enemy:  Bandito Mole
+
+# Before ‘B.E.D.':
+
+message_36:
+   text: >
+    X
+
+# Before ‘Dynamite':
+
+message_37:
+   text: >
+    X
+
+# Getting Weaker:
+
+message_38:
+   text: >
+    X
+
+# After Defeat
+
+message_39:
+   text: >
+    X
+
+# After Victory
+
+message_40:
+   text: >
+    X
+
+# ============Enemy:  KNÍŽE MAXIMUS 1
+
+# Before Strong Attack:
+
+message_41:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Hle! Předvedu vám techniku, kterou můj rod již celá pokolení zdokonaluje...
+
+message_42:
+   text: >
+    \>KNÍŽE MAXIMUS: \<<br>MŮJ ULTIMÁTNÍ ÚTOK!
+
+message_43:
+   text: >
+    \sinv[1]RÁÁÁÁ\{áÁÁÁÁ\{ÁÁÁÁÁÁ!!
+
+# Getting Weaker
+
+message_44:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Ne...\! Já...\!<br>Nesmím selhat.
+
+message_45:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Můj syn se beze mě neobejde!
+
+# After Defeat
+
+message_46:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Ne...\! Tohle nemůže být můj konec.
+
+message_47:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Můj syn...\! Mě pomstí...
+
+message_48:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Odplata vás nemine!
+
+# After Victory
+
+message_49:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Náš rod je v boji již celí pokolení nevyrovnatelný!
+
+message_50:
+   text: >
+    \>KNÍŽE MAXIMUS: \<Jak hloupé od vás bylo mě vyzívat!
+
+# ============Enemy:  Sir Maximus 2
+
+# Before Strong Attack:
+
+message_51:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Hle, síla mých předků!
+
+message_52:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Cítím po boku svého otce!
+
+message_53:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<<br>Tohle je náš ultimátní úzok!
+
+message_54:
+   text: >
+    \sinv[1]RÁÁÁÁ\{áÁÁÁÁ\{ÁÁÁÁÁÁ!!
+
+# Getting Weaker
+
+message_55:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Ne... Nesmím zostudit jméno svého otce!
+
+# After Defeat
+
+message_56:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Otče...<br>Odpusť mi.
+
+message_57:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Omlouvám se...\!<br>Zklamal jsem tě.
+
+# After Victory
+
+message_58:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Můj otec je konečně pomsťen!
+
+message_59:
+   text: >
+    \>KNÍŽE MAXIMUS II.: \<Tohle je veliký den pro můj rod!
+
+# ============Enemy:  Sir Maximus 3
+
+# Before Strong Attack
+
+message_60:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Hle, síla mých předků!
+
+message_61:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Můj otec a jeho otec mi stojí po boku! Tohle je náš ultimátní útok!
+
+message_62:
+   text: >
+    \sinv[1]RÁÁÁÁ\{áÁÁÁÁ\{ÁÁÁÁÁÁ!!
+
+# Getting Weaker
+
+message_63:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Ne... Nesmím zostudit svého otce a jeho otce!
+
+# After Defeat
+
+message_64:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Otče... Děde...
+
+message_65:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Omlouvám se...\!<br>Zklamal jsem vás.
+
+# After Victory
+
+message_66:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Má rodina je konečně pomstěna!
+
+message_67:
+   text: >
+    \>KNÍŽE MAXIMUS III.: \<Tohle je veliký den pro můj rod!
+
+# ============Enemy:  ZLATÍČKO
+
+# Before Strong Attack (Before Ecstatic):
+
+message_68:
+   text: >
+    \sinv[1]\{OHOHOH\{OHOHOHO!!\}
+
+# Getting Weaker (75%)
+
+message_69:
+   text: >
+    \>ZLATÍČKO: \<Tak vy si dovolujete proti mě pozvednout své pěsti?!
+
+message_70:
+   text: >
+    \>ZLATÍČKO: \<Blázni!\! Měli byste přede mnou být přiraženi na kolenou!
+
+# Getting Weaker (50%, Ecsatatic):
+
+message_71:
+   text: >
+    \>ZLATÍČKO: \<Oho!\! Má krása a ??? nezná hranic ani konce...
+
+message_72:
+   text: >
+    \>ZLATÍČKO: \<Škoda, že už jí víc nezažijete!
+
+# Getting Weaker (20%, Manic):
+
+message_75:
+   text: >
+    \>ZLATÍČKO: \<Ts! Vidím, že se ještě držíte.
+
+message_76:
+   text: >
+    \>ZLATÍČKO: \<Švábi toho hodně vydrží, jak vidím!
+
+message_77:
+   text: >
+    \sinv[1]\{OHOHOH\{OHOHOHO!!\}
+
+# Before Strong Attack (Manic):
+# Use 3 times
+
+message_78:
+   text: >
+    \sinv[1]\{OHOHOH\{OHOHOHO!!\}
+
+# After Defeat
+
+message_79:
+   text: >
+    \>ZLATÍČKO: \<Ne...\! Tak tomuhle...\!<br>říkají porážka?
+
+message_80:
+   text: >
+    \>ZLATÍČKO: \<<br>Tohle nemůžu přijmout...\!<br>Ne, tohle nepřijmu!
+
+message_81:
+   text: >
+    \>ZLATÍČKO: \<<br>Nejste nic víc než jen prostá spodina!
+
+# After Victory
+
+message_82:
+   text: >
+    \sinv[1]\{OHOHOH\{OHOHOHO!!\}
+
+message_83:
+   text: >
+    \>ZLATÍČKO: \<Tohle byla hračka!\! Nejste nic víc než jen prostá spodina!
+
+message_112:
+   text: >
+    \>ZLATÍČKO: \<<br>Do \c[11]HLADOMORNY\c[0] s váma!
+
+
+
+# ============Enemy:  Reverse Mermaid
+
+# Before Strong Attack:
+
+message_84:
+   text: >
+    \>REVERSE MERMAID: \<Síla rodí se útrap z.
+
+# Getting Weaker:
+
+message_85:
+   text: >
+    \>MOŘSKÁ PANNA NARUBY: \<Slabinou největší naší je se vzdávání.
+
+# After Defeat:
+
+message_86:
+   text: >
+    \>MOŘSKÁ PANNA NARUBY: \<Součástí jeho jen nýbrž, života opakem není smrt.
+
+# After Victory:
+
+message_87:
+   text: >
+    \>MOŘSKÁ PANNA NARUBY: \<Nevyhraje prohrávat neumí kdo.
+
+# ============Enemy:  Mr. Jawsome
+
+# Intro
+
+message_88:
+   text: >
+    \>PAN CENIL: \<Hoši...\! ukázali byste těmto dětem prosím východ?
+
+
+# Before ‘Summon Henchmen':
+
+message_89:
+   text: >
+    \>PAN CENIL: \<POTŘEBUJEME POSILY, SLYŠÍŠ?!
+
+message_90:
+   text: >
+    \>PAN CENIL: \<A TO HNED\quake[1]TEĎ!
+
+# Before ‘Give Orders':
+
+message_91:
+   text: >
+    \>PAN CENIL: \<CHCI TYHLE DĚCKA IHNED PRYČ, ROZUMÍŠ?!
+
+message_92:
+   text: >
+    \>PAN CENIL: \<KROKOĎÁK, který je odsud odžene dostane pizzu...\!<br>\quake[1]a zaplatím za ní!
+
+# Getting Weaker:
+
+message_93:
+   text: >
+    \>PAN CENIL: \<Jak jakože nám dochází poskoci?!\! Vždyť to je nemožné!
+
+# After Defeat:
+
+message_94:
+   text: >
+    \>PAN CENIL: \<Tak vy se necháte podat partičkou dětí?!
+
+message_95:
+   text: >
+    \>PAN CENIL: \<NA CO VÁS VŮBEC MÁM?!
+
+# After Victory:
+
+message_96:
+   text: >
+    \sinv[2]\{CEHE\{HEHE\{HE!!!
+
+message_97:
+   text: >
+    \>PAN CENIL: \<Takhle dopadá každý, kdo si dovoluje na PANA CENILA!
+
+# ============Enemy:  PLUTO EXPANDED
+
+# Intro
+
+message_98:
+   text: >
+    \>PLUTO: \<Hle...\!<br>Má konečná forma.
+
+message_99:
+   text: >
+    \>PLUTO: \<\Cítíte...\! to horko?
+
+# Before Strong Attack:
+
+message_100:
+   text: >
+    \>PLUTO: \<\<Ts...\!
+
+# Getting Weaker 50%):
+
+message_101:
+   text: >
+    \>PLUTO: \<\<...\! Á.\! Rozumím.
+
+message_102:
+   text: >
+    \>PLUTO: \<\<Všichni jste značně posílili.
+
+message_103:
+   text: >
+    \>PLUTO: \<\<Avšak...\! já také.
+
+# After Defeat:
+
+message_104:
+   text: >
+    \>PLUTO: \<\<Hm.\! Skvělá práce, děti.\!<br>Mnoho jste se toho naučili.
+
+message_105:
+   text: >
+    \>PLUTO: \<\<Ale...\!<br>Tohle ještě není můj konec.
+
+# After Victory
+
+message_106:
+   text: >
+    \>PLUTO: \<\<Omlouvám se, děti.
+
+message_107:
+   text: >
+    \>PLUTO: \<\<Měli byste si za svou snahu pogratulovat.
+
+# ============Enemy:  Abbi
+
+# Before Strong Attack:
+
+message_108:
+   text: >
+    X
+
+# Getting Weaker:
+
+message_109:
+   text: >
+    \>ABBI: \<\fn<OMORI_GAME>\quake[1]Ngh...
+
+# After Defeat:
+
+message_110:
+   text: >
+    \>ABBI: \<\fn<OMORI_GAME>\quake[1]Prosím...\! Prokažte ABBI milost...
+
+# After Victory:
+
+message_111:
+   text: >
+    \>ABBI: \<\fn<OMORI_GAME>\quake[1]Sbohem...
+
+# ============Enemy:  Slime Girls
+
+# Before Strong Attack:
+
+
+
+message_113:
+   text: >
+    X
+
+# Getting Weaker (75%):
+
+message_114:
+   text: >
+    \>MEDŮZA: \<Ts...\! Vy děcka toho vydržíte víc, než bych řekla.
+
+message_115:
+   text: >
+    \>MARINA: \<A vy víte, co to znamená.\! Je čas přitlačit na pilu!
+
+message_116:
+   text: >
+    \>MOLLY: \<Ó...<br>Tohle je taková zábava~!
+
+# MEDŮZA's Special Move (50%):
+
+message_117:
+   text: >
+    \>MARINA: \<Hej, MEDŮZO!<br>Myslíš na to, na co já?
+
+message_118:
+   text: >
+    \>MEDŮZA: \<Ano, sestro...\! Myslím, že je čas na změnu.
+
+message_119:
+   text: >
+    \>MOLLY: \<Jen se uvolněte, děti...\!<br>Nebude to ani trochu bolet~
+
+# After Defeat:
+
+message_120:
+   text: >
+    \>MARINA: \<Vy děcka... toho vydržíte víc, než bych řekla.
+
+message_121:
+   text: >
+    \>MOLLY: \<Ts...\! Tohle nemá cenu.
+
+message_122:
+   text: >
+    \>MEDŮZA: \<Uff...\! A jsme v háji...\! Jak teď máme jako nakrmit BENDU?
+
+# After Victory:
+
+message_123:
+   text: >
+    \>MARINA: \<Teď patříte nám!
+
+message_124:
+   text: >
+    \>MOLLY: \<Pšt, miláčci...<br>Neplakejte...\! Brzo si zvyknete~
+
+message_125:
+   text: >
+    \>MEDŮZA: \<Nejdříve bych rozebrala toho malého.\! Do toho, panenky.
+
+# ============Enemy:  ROBOTÍČKO
+
+# Getting Weaker
+
+message_126:
+   text: >
+    \>ROBOTÍČKO: \<TXkgbGlmZSBpcyBzdWZmZXJpbmch
+
+# Getting Weaker
+
+message_127:
+   text: >
+    \>ROBOTÍČKO: \<SGVscC4uLiBtZS4uLgo=
+
+# After Defeat
+
+message_128:
+   text: >
+    \>ROBOTÍČKO: \<<br>V2h5Pw==
+
+# After Victory
+
+message_129:
+   text: >
+    \>ROBOTÍČKO: \<Tm8sIEkgZGlkbid0IG1lYW4gdG8h
+
+# ============Enemy:  MUTANTÍČKO
+
+# Before Strong Attack:
+
+message_130:
+   text: >
+    \>MUTANTÍČKO: \<\}\sinv[1]Blé...?
+
+# Getting Weaker:
+
+message_131:
+   text: >
+    \>MUTANTÍČKO: \<\}\sinv[1]Blů...?
+
+# After Defeat:
+
+message_132:
+   text: >
+    \>MUTANTÍČKO: \<\}\sinv[1]Blóóóooo...
+
+# After Victory:
+
+message_133:
+   text: >
+    \>MUTANTÍČKO: \<\sinv[1]Blé!
+
+# ============Enemy:  SUPERZLATÍČKO
+
+# Intro
+
+message_134:
+   text: >
+    \>SUPERZLATÍČKO: \<<br>Pamatujte, děti...\! Tohle jste si způsobily samy!
+
+# Getting Weaker (50%):
+
+message_135:
+   text: >
+    \>SUPERZLATÍČKO: \<Ó...\! Jste poměrně silné.
+
+message_136:
+   text: >
+    \>SUPERZLATÍČKO: \<Zdá se, že to bude chtít víc zabrat.
+
+# Getting Weaker (25%):
+
+message_137:
+   text: >
+    \>SUPERZLATÍČKO: \<Hm?\! C-Co je tohle?\! Kapka potu?
+
+message_138:
+   text: >
+    \>SUPERZLATÍČKO: \<Ach...\! Tomu nevěřím.
+
+# After Defeat:
+
+message_139:
+   text: >
+    \>SUPERZLATÍČKO: \<Á.\! Přemohli jste mě.
+
+message_140:
+   text: >
+    \>SUPERZLATÍČKO: \<Budiž tedy.\! Vím, kdy přiznat prohru.
+
+# After Victory:
+
+message_141:
+   text: >
+    \>SUPERZLATÍČKO: \<Já vám říkala, že tohohle budete litovat, děti.
+
+message_142:
+   text: >
+    \>SUPERZLATÍČKO: \<Nenuťte mě vám to dokazovat znova.
+
+# ============Enemy:  PREJSEK
+
+# Before ‘Muffled Scream':
+
+message_143:
+   text: >
+    \>PREJSEK: \<<br>\}\quake[1]Pššt...\! Ticho... TICHOUČKO...
+
+# After Defeat
+
+message_144:
+   text: >
+    \>PREJSEK: \<<br>\}\quake[1]Pššššššššt...
+
+# ============Enemy:  ZLOMYSLNÝ CHIP
+
+# Before ‘Cookie Hell':
+
+message_145:
+   text: >
+    \sinv[1]\{A... JE TO!!!\}\sinv[0]<br>Přímo z trouby!
+
+# Getting Weaker:
+
+message_146:
+   text: >
+    \>ZLOMYSLNÝ CHIP: \<Mamma-mia...
+
+message_147:
+   text: >
+    \>ZLOMYSLNÝ CHIP: \<...\! Je tady..\!<br>nějak horko, nemyslíte?
+
+# After Defeat:
+
+message_148:
+   text: >
+    \>ZLOMYSLNÝ CHIP: \<Molto triste...
+
+# After Victory:
+
+message_149:
+   text: >
+    \sinv[1]\{\{JAHŮ! UÁÁÁÁÁ!!\}\}
+
+# ============Enemy:  OPLATEK & TĚSŤĚNKA
+
+# Getting Weaker (75%):
+
+message_150:
+   text: >
+    \>TĚSŤĚNKA: \<Je nám souzeno tady péct na věky větů...\! ne, OPLATKU?
+
+message_151:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohooo...
+
+# Getting Weaker (50%, Depressed):
+
+message_152:
+   text: >
+    \>TĚSŤĚNKA: \<Dochází nám zásoby! Co teď, OPLATKU?!
+
+message_153:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohooooooo!
+
+# Getting Weaker (25%, Miserable):
+
+message_154:
+   text: >
+    \>TĚSŤĚNKA: \<Dochází nám všecho!\! Už nemáme skoro nic...
+
+message_155:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohooo...
+
+# After Defeat:
+
+message_156:
+   text: >
+    \>TĚSŤĚNKA: \<Došly nám zásoby...\! Co si počneme bez ingrediencí?
+
+message_157:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohooooo...
+
+# After Victory:
+
+message_158:
+   text: >
+    \>TĚSŤĚNKA: \<OPLATKU! Stal se zázrak!\!<br>Bohové nás zachránili!
+
+message_159:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohooooo!
+
+message_160:
+   text: >
+    \>TĚSŤĚNKA: \<Tak zpátky k pečení... \sinv[1]čerstvého chleba...\! čerstvý chleba...\! čerstvý chleba...\sinv[0]
+
+message_161:
+   text: >
+    \>OPLATEK: \<\sinv[1]Ohoo...
+
+# ============Enemy:  VESMÍRNÝ EX-MANŽEL
+
+# Before ‘Calm Down':
+
+message_162:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Necítím nic...\! Jsem chladný...\! jako led...
+
+# Getting Weaker (25%):
+
+message_163:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<<br>
+
+# After Defeat:
+
+message_164:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<<br>Ta bolest...\! Cítím ji...
+
+# After Victory:
+
+message_165:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<<br>Necítím nic...\!<br>Jsem chladný...\! jako led...
+
+# ============Enemy:  AUBRY (Fake Fight):
+
+# After Attack (Knife):
+
+message_166:
+   text: >
+    \>AUBRY: \<\quake[1]Gá!\quake[0]\! Co to...
+
+message_167:
+   text: >
+    \>AUBRY: \<Tys...\! Tys na mě vytáhl nůž?!
+
+# ============Enemy:  ŠÁRA
+
+# If ANDĚL gets knocked out:
+
+message_168:
+   text: >
+    \>ŠÁRA: \<...
+
+# ============Enemy:  ANDĚL
+
+# Before ‘Quick Attack':
+
+message_169:
+   text: >
+    \>ANDĚL: \<Tohle mě naučil můj mistr...<br>\!Tak teď jste v tom!!!
+
+message_170:
+   text: >
+    \sinv[1]\{FWWW\{WWA\{AA!!!
+
+# Getting Weaker:
+
+message_171:
+   text: >
+    \>ANDĚL: \<Ha. Překvapuješ mě, KELI!
+
+message_172:
+   text: >
+    \>ANDĚL: \<Rozhodně bys byl pro mého mistra hodným soupeřem!
+
+# After Defeat:
+
+message_173:
+   text: >
+    \>ANDĚL: \<Fňuk..\! Za...\!<br>Za tohle zaplatíte...
+
+# After Victory:
+
+message_174:
+   text: >
+    \sinv[2]\{FWEFWE\{FWEFWE!!!
+
+message_175:
+   text: >
+    \>ANDĚL: \<Učení mého mistra nebylo nazmar!
+
+# ============Enemy:  STŘEMHLAV
+
+# Before ‘Charm':
+
+message_176:
+   text: >
+    \>STŘEMHLAV: \<Ach, KELI, ty blázne...\! proti STŘEMHLAVOVI nemáš šanci!
+
+# Getting Weaker (75%):
+
+message_177:
+   text: >
+    \>STŘEMHLAV: \<Ts...\! To není vůbec špatný...
+
+message_178:
+   text: >
+    \>STŘEMHLAV: \<Ale tenhle souboj teprve teď začíná!
+
+# Getting Weaker (60%):
+
+message_179:
+   text: >
+    \>STŘEMHLAV: \<Ha, přesně, co jsem od vás čekal!
+
+message_180:
+   text: >
+    \>STŘEMHLAV: \<Musím ti říct, KELI...\! Zatím cos ty blbl a sportoval...
+
+message_181:
+   text: >
+    \>STŘEMHLAV: \<Jsem se já připravoval přesně na tuhle chvíli.
+
+message_182:
+   text: >
+    \>STŘEMHLAV: \<Nikdy se mi nevyrovnáš!
+
+message_183:
+   text: >
+    \>STŘEMHLAV: \<<br>Tohle je tvůj konec, KELI!
+
+# Getting Weaker (50%):
+
+message_184:
+   text: >
+    \>STŘEMHLAV: \<Ha! To na víc už nemáte?!
+
+message_185:
+   text: >
+    \>STŘEMHLAV: \<Zatím jste zažili jen 10% mé síly!
+
+message_186:
+   text: >
+    \>STŘEMHLAV: \<<br>HLE..\! MÁ KONEČNÁ FORMA!
+
+# Getting Weaker (40%):
+
+message_187:
+   text: >
+    \>STŘEMHLAV: \<Už svého rozhodnutí lituješ, co?!
+
+message_188:
+   text: >
+    \>STŘEMHLAV: \<Jsem na tebe prostě příliš hustý...
+
+message_189:
+   text: >
+    \>STŘEMHLAV: \<A ty jsi jenom prachobyčejná nula!
+
+# Getting Weaker (30%):
+
+message_190:
+   text: >
+    \>STŘEMHLAV: \<Už je to jen... \!Hff...\! otázka času, než podlehnete únavě!
+
+message_191:
+   text: >
+    \>STŘEMHLAV: \<Mému vítězství nelze zabránit!
+
+# Getting Weaker (20%):
+
+message_192:
+   text: >
+    \>STŘEMHLAV: \<Hff...\! Uznávám...\! Že jste na mě udělali celkem dojem...\! ale pořád mi nesaháte ani po paty!
+
+# Getting Weaker (10%):
+
+message_193:
+   text: >
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...
+
+message_194:
+   text: >
+    \>STŘEMHLAV: \<Ne...\!<br>Tohle je nemožné!\! Nepředvídatelné!
+
+message_195:
+   text: >
+    \>STŘEMHLAV: \<\quake[1]<br>Absolutně nepřípustné!
+
+# After Defeat:
+
+message_196:
+   text: >
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Hff...\! Fíííí...
+
+message_197:
+   text: >
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Fíííí...
+
+message_198:
+   text: >
+    \>STŘEMHLAV: \<Á...\! Ne...\!<br>Takhle to nesmí zkončit!
+
+# After Victory:
+
+message_199:
+   text: >
+    \>STŘEMHLAV: \<Cože...\! Já vás porazil?\!<br>Teda...
+
+message_200:
+   text: >
+    \>STŘEMHLAV: \<To se dalo čekat! Haha!\!<br>Bojte se mě, jsem STŘEMHLAV!
+
+# ============Enemy:  Kim
+
+# Before ‘Big Punch':
+
+message_201:
+   text: >
+    \>KIM: \<Ten tvůj ksicht mi už leze na nervy!
+
+# Getting Weaker:
+
+message_202:
+   text: >
+    \>KIM: \<Ukážu ti, že výška není všecko!\! Nepodám se takovým šprtům, jako jste vy!
+
+# After Defeat:
+
+message_203:
+   text: >
+    \>KIM: \<Grr... Grr...\!<br>Stejně... jste šprti...
+
+# After Victory:
+
+message_204:
+   text: >
+    \>KIM: \<Ha... Neměli jste šanci.
+
+# ============Enemy:  Vance
+
+# Before ‘Candy Throw':
+
+message_205:
+   text: >
+    \>VANCE: \<<br>Deset let staré bonbóny na vás!
+
+# Getting Weaker:
+
+message_206:
+   text: >
+    \>VANCE: \<Auvajs...\! To bolí.
+
+# After Defeat:
+
+message_207:
+   text: >
+    \>VANCE: \<Safra...\! Já jen chtěl karamelku...
+
+# After Victory:
+
+message_208:
+   text: >
+    \>VANCE: \<Tak... co...\! Dáte nám ty karamelky?
+
+# ============Enemy:  AUBRY (Church):
+
+# Before ‘Power Hit':
+
+message_209:
+   text: >
+    \>AUBRY: \<<br>KELI...\! SUNNY...\!<br>Na tohle je pozdě!
+
+message_210:
+   text: >
+    \>AUBRY: \<<br>Vy už pro mě nic nezajímáte!
+
+# Getting Weaker (25%):
+
+message_211:
+   text: >
+    \>AUBRY: \<<br>Proč ses ukázal zrovna teď?
+
+message_212:
+   text: >
+    \>AUBRY: \<<br>Proč...\! Proč teď?
+
+# After Defeat:
+
+message_213:
+   text: >
+    \>AUBRY: \<<br>Uff...
+
+message_214:
+   text: >
+    \>AUBRY: \<<br>Zapomeňte na to...\!<br>Na vás dva už nemám čas.
+
+# After Victory:
+
+message_215:
+   text: >
+    \>AUBRY: \<<br>Ts.
+
+message_216:
+   text: >
+    \>AUBRY: \<<br>Dobře ti tak, KELI.
+
+message_217:
+   text: >
+    \>AUBRY: \<<br>A teď...\! mi dejte pokoj.
+
+# ============Enemy:  AUBRY & Scooter Squad (Lake):
+
+# Getting Weaker (75%):
+
+message_218:
+   text: >
+    \>ANDĚL: \<Já a můj mistr jsme celou dobu trénovali pro přesně tuhle chvíli...
+
+message_219:
+   text: >
+    \>STŘEMHLAV: \<Podruhé se váma ztrapnit nenecháme!
+
+message_220:
+   text: >
+    \>VANCE: \<KIM... Jdem na to?
+
+message_221:
+   text: >
+    \>KIM: \<Jasná páka, VANCI!\! Tihle šprti to mají zpočítaný!
+
+# Getting Weaker (50%):
+
+message_222:
+   text: >
+    \>STŘEMHLAV: \<ANDĚLI, nezapomeň mé učení! Udělej ze svých slabin sílu!
+
+message_223:
+   text: >
+    \>ANDĚL: \<Ano, mistře!<br>Nezklamu tě!
+
+# Getting Weaker (25%):
+
+message_224:
+   text: >
+    \>VANCE: \<KIM... jsi v pohodě?
+
+message_225:
+   text: >
+    \>KIM: \<Hff...\! Hff...\! Ha!\! Neboj, VANCI... Ještě jsem nezkončila!
+
+# Before ‘Hooligan Strong Energy':
+
+message_226:
+   text: >
+    \{\sinv[2]TAK TEĎ SE PODRŽTE, ŠPRTI!!!
+
+# After Defeat:
+
+message_227:
+   text: >
+    \>STŘEMHLAV: \<Hff...\! Hff...\!<br>Je...\! Je tohle sen?
+
+message_228:
+   text: >
+    \>ANDĚL: \<Jak...\! Jak je tohle možné?!
+
+message_229:
+   text: >
+    \>KIM: \<Nevěřím, že nás porazili...
+
+message_230:
+   text: >
+    \>VANCE: \<KIM... Mám hlad. \!<br>Můžem už jít?
+
+message_231:
+   text: >
+    \>AUBRY: \<... ... ...
+
+# After Victory:
+
+message_232:
+   text: >
+    \>STŘEMHLAV: \<Hff...\! Hff...\!<br>Je...\! Je tohle sen?
+
+
+message_233:
+   text: >
+    \>ANDĚL: \<Vyhráli jsme, mistře, vyhráli jsme!
+
+message_234:
+   text: >
+    \>KIM: \<Dobře vám tak, šprti.
+
+message_236:
+   text: >
+    \>VANCE: \<KIM... Mám hlad... Pojďme někam na jídlo.
+
+message_237:
+   text: >
+    \>AUBRY: \<...\! Heh.
+
+message_238:
+   text: >
+    \>AUBRY: \<KELI...\! SUNNY...\!<br>Mazejte odsud.
+
+
+# ============Enemy:  Basil
+
+message_239:
+   text: >
+    \>BASIL: \fn<OMORI_GAME>SUNNY...
+
+message_240:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Z tohohle není cesty ven, viď?
+
+message_244:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Pověz mi, SUNNY...
+
+message_245:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Myslíš, že je tohle ode mě sobecké?
+
+message_249:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Ty mě snad nesnášíš?
+
+message_250:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>SUNNY...
+
+message_251:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Prosím...\! nech toho...
+
+message_252:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>\quake[1]Proč?!\! Proč mě nenecháš být?!
+
+message_254:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Přestaň mi v tom bránit,<br>SUNNY.
+
+message_255:
+   text: >
+    \>BASIL: \<\fn<OMORI_GAME><br>Já...\! Už toho mám všeho dost!...
+
+# ============Enemy:  RECYKLOCESTA
+
+# Before ‘Summoning':
+
+message_256:
+   text: >
+    \>RECYKLOCESTA: \<<br>Spojme se, bratři!<br>KOŠ SVATÝ je při nás!
+
+# Before ‘Throw Trash':
+
+message_257:
+   text: >
+    \>RECYKLOCESTA: \<<br>Pryč s tebou, bordeláři!
+
+message_258:
+   text: >
+    \>RECYKLOCESTA: \<<br>Podlehni síle GUMOVÉ RUKAVICE!
+
+# Getting Weaker:
+
+message_259:
+   text: >
+    \>RECYKLOCESTA: \<<br>Ach, KOŠI SVATÝ na nebesích...
+
+message_260:
+   text: >
+    \>RECYKLOCESTA: \<<br>Daruj mi prosím sílu zrecyklovat naše nepřátele!
+
+# After Defeat:
+
+message_261:
+   text: >
+    \>RECYKLOCESTA: \<<br>Ach, proč, KOŠI SVATÝ?
+
+message_262:
+   text: >
+    \>RECYKLOCESTA: \<<br>Proč jsi nás opustil?!
+
+# After Victory:
+
+message_263:
+   text: >
+    \>RECYKLOCESTA: \<<br>Ha! Bylo nám dáno vítězství!
+
+message_264:
+   text: >
+    \>RECYKLOCESTA: \<<br>Chvalme všichni KOŠ SVATÝ na nebesích!
+
+# ============Enemy:  Extras
+
+# VESMÍRNÝ EX-MILENEC Return to ANGRY
+
+message_265:
+   text: >
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Můj hněv nelze zkrotit...<br>Mě nezklidníte!
+
+# ZLATÍČKO Return to HAPPY
+message_266:
+   text: >
+    \>ZLATÍČKO: \<Tohle nemá žádnou cenu, vy blázni!\! Mou pozitivní náladu nezhatíte!
+
+# OPLATEK and TĚSŤĚNKA Return to SAD
+message_267:
+   text: >
+    \>TĚSŤĚNKA: \<\sinv[1]<br>Čerstvý chleba...\! Čerstvý chleba...\! Každý den jenom čerstvý chleba...
+
+message_268:
+   text: >
+    \>OPLATEK: \<\sinv[1]<br>Ohooooooooo...
+
+# SUPERZLATÍČKO Hitting an emotion weakness
+message_269:
+   text: >
+    \>SUPERZLATÍČKO: \<\sinv[1]Ts... Ts...\sinv[0]\! Dáváním svých emocí najevo mi jen pomáháte vás lépe číst.
+
+# Snow ANDĚL Pierce Heart Skill
+message_270:
+   text: >
+    \>SNĚŽNÝ ANDĚL: \<\quake[1]Acta deos numquam mortalia fallunt...
+
+# PREJSEK Muffled Scream
+message_271:
+   text: >
+    \>PREJSEK: \<\quake[1]\}Mhm...\! Mmhhhhh...\!<br>Prmmm...\! \quake[1]MMMMMMMHHHHHHH!!\quake[0]
+
+# ============Enemy:  BENDA
+# BENDA Swarm Intro
+message_272:
+   text: >
+    \>BENDA: \<\sinv[1]<br>Hostina se chystá! Hostina se chystá!<br>Vaše smrt je jistá!
+
+# Before transforming into a lump
+message_273:
+   text: >
+    \>BENDA: \<\sinv[1]Poslední bitva začíná!\| Jste nás schopni porazit, spojíme-li se?
+
+# Before swallow 1
+message_274:
+   text: >
+    \>BENDA: \<\sinv[1]Jen bych vás chtěl varovat... abyste si zacpali nosy!\| Jdeme do mého břicha!
+
+# Before swallow 2
+message_275:
+   text: >
+    \>BENDA: \<\sinv[1]Ať už rychleji anebo pomaleji...\| Čím víc se bráníte, tím s váma hlouběji!
+
+# Before Swallow 3
+message_276:
+   text: >
+    \>BENDA: \<\sinv[1]Relaxujte, vždyť není čeho se bát.\| Hej, OMORI... nechtěl by sis taky něco dát?
+
+# Before Swallow 4
+message_277:
+   text: >
+    \>BENDA: \<\sinv[1]Tahle hostina bude přímo nádherná!\| Mám vás osmažit, restovat, nebo upéct do černa?
+
+# Before Swallow (Generic 1)
+message_278:
+   text: >
+    \>BENDA: \<\sinv[1]Jen se unavíte, dále řvouce.\| Obávám se, že tohle nemá konce.
+
+# Before Swallow (Generic 2)
+message_279:
+   text: >
+    \>BENDA: \<\sinv[1]Už dál nekřičte, vždyť nevědomost je krásná.\| Kolikrát si tímhle ještě projdem?
+
+#Before BENDA Abort
+message_323:
+   text: >
+    \>BENDA: \<\sinv[1]Jen klidně bojujte, ale přestože chcete...\| Z mých útrob cestu nikdy nenajdete!
+
+# Uvula Intro
+message_280:
+   text: >
+    \>BENDA: \<<br>Ha! Mě nikdy neporazíš, ty nulo!
+
+#Uvula Shit Talk
+message_281:
+   text: >
+    \>BENDA: \<<br>Ha! Jsem nejlepší!
+
+# ============Enemy:  Fears
+
+# ============Enemy:  Fear of Heights
+
+# Getting the \n[8]s attention
+
+message_282:
+   text: >
+    \>???: \<SUNNY...
+
+# Encouragement
+
+message_283:
+   text: >
+    \>???: \<Zhluboka se nadechni...\!<br>Neboj.\! Nejou tak strašidelné, jak se ti zdají.
+
+# SUNNY! kašlu vám na proměnné! gains CALM DOWN
+message_284:
+   text: >
+    Vzpamatoval ses... a vzpomenul, jak se UKLIDNIT.
+
+# CALM DOWN reminder
+
+message_285:
+   text: >
+    \>???: \<Pamatuj, SUNNY...\! Stačí se jenom UKLIDNIT...
+
+# ============Enemy:  Fear of Bugs
+
+# Getting the \n[8]'s attention
+message_286:
+   text: >
+    \>???: \<Tohle nemá moc smysl... co, SUNNY?
+
+# Encouragement
+message_287:
+   text: >
+    \>???: \<Vidím, že se toho děje celkem dost...
+
+message_288:
+   text: >
+    \>???: \<Musíš si přestat dělat hlavu z maličkostí...\! a uvědomit si, na čem opravdu záleží!
+
+# \n[8] gains FOCUS
+message_289:
+   text: >
+    Pročistil jsi své myšlenky... a vzmpomenul, jak se SOUSTŘEDIT.
+
+# CALM DOWN before FOCUS reminder
+message_290:
+   text: >
+    \>???: \<Vím, že není lehké se SOUSTŘEDIT, když jsi rozrušený.\! Zhluboka se nadechni...
+
+# ============Enemy:  Fear of Drowning
+
+# CALM DOWN reminder.
+message_291:
+   text: >
+    \>???: \<Zklidni svůj tep...\!<br>Neboj.\! Není tak strašidelná, jak se ti zdá.
+
+# Encouragement
+message_292:
+   text: >
+    \>???: \<Musíš jít dál.\!<br>Nevzdávej se.\! Ať už se ti to zdá jakkoliv nemožné...
+
+# \n[8] gains PERSIST
+message_293:
+   text: >
+    Šel jsi naproti hlasu... a vzpomenul sis, jak VYDRŽET.
+
+# BASIL is struggling
+message_294:
+   text: >
+    Cítíš, jak sebou BASIL kope...<br>Nemůžeš sebou pohnout!
+
+# BASIL falls unconscious
+message_295:
+   text: >
+    BASIL se přestal hýbat.
+
+# ============Tutorial SPROUT MOLES
+# ANGRY MOLE
+message_296:
+   text: >
+    \>HERO: \<Á! Tenhle KLÍČKOKRTEK se zjevně VZTEKÁ! \!KLÍČKOKRTCI cítí EMOCE stejně, jako my.
+
+message_297:
+   text: >
+    \>HERO: \<A protože se VZTEKÁ, má vyšší ÚTOK.
+
+message_298:
+   text: >
+    \>HERO: \<Ale na druhou stranu nižší OBRANU!
+
+
+message_299:
+   text: >
+    \>AUBRY: \<Čímž se nám snažíš říct, že je teď správná chvíle zaútočit! \!Pojď, OMORI!\! Na něj!
+
+# HAPPY MOLE
+message_300:
+   text: >
+    \>HERO: \<Á! \!Jasně... \!Tenhle KLÍČKOKRTEK má RADOST!
+
+message_301:
+   text: >
+    \>HERO: \<V tom případě má větší šanci trefit naše slabiny a víc nám ublížit.
+
+message_302:
+   text: >
+    \>HERO: \<Ale zároveň má vyšší šanci se minout!
+
+# SAD MOLE
+message_303:
+   text: >
+    \>HERO: \<Hmm... \!Tenhle KLÍČKOKRTEK mi připadá nějaký SMUTNÝ... \!Vidíte, jak je schoulený v klubíčku?
+
+message_304:
+   text: >
+    \>HERO: \<To znamená, že nám zas tolik neublíží...<br><br>A taky že část poškození vstřebá jeho ŠŤÁVA místo ŽIVOTŮ.
+
+message_305:
+   text: >
+    \>KEL: \<To je ale smutné...\!<br>Pojďme mu ukončit jeho trápení!
+
+# YE OLD SPROUT MOLE
+message_306:
+   text: >
+    \>HERO: \<Všiml sis něčeho nového, OMORI?
+
+message_307:
+   text: >
+    \>HERO: \<Dole bys měl vidět novou lištu s číslem.
+
+message_308:
+   text: >
+    \>HERO: \<Tohle je naše společná ENERGIE!
+
+message_309:
+   text: >
+    \>HERO: \<Když ji spolu využijeme, porazíme naše protivníky o dost rychleji!\! ZAÚTOČ a uvidíš!
+
+message_310:
+   text: >
+    \>HERO: \<Všiml sis té bubliny, která se ti při útočení ukázala?\! To je NÁSLEDNÝ ÚTOK!
+
+message_311:
+   text: >
+    \>HERO: \<Chvíli po tom, co ZAÚTOČÍŠ můžeš využít ENERGII na NÁSLEDNÝ ÚTOK.
+
+message_312:
+   text: >
+    \>HERO: \<Prostě zmáčkni jednu ze šipek, a uvidíš!
+
+message_313:
+   text: >
+    \>HERO: \<Fuj...\! Kamaráde...\!<br>Ten nám dává ale zabrat.
+
+message_314:
+   text: >
+    \>HERO: \<Všiml sis, že se nám zvedla ENERGIE, když na nás zaútočil?
+
+message_315:
+   text: >
+    \>HERO: \<Se vstřebaným poškozením nám taky stoupá ENERGIE!\! Berte to jako příležitost se vrátit zpátky do hry!
+
+message_316:
+   text: >
+    \>HERO: \<Super... Jsme plní ENERGIE!\! Tohle je skvělá chvíle na náš speciální útok!
+
+message_317:
+   text: >
+    \>HERO: \<OMORI...\! Potom, co zaútočíš, stiskni klávesu \DII[down] a UVOLNI ENERGII!
+
+message_318:
+   text: >
+    \>HERO: \<Snad jste všichni připraveni!
+
+message_319:
+   text: >
+    \>HERO: \<Pojďme na to...<br>Ukažme mu, co jsme zač!
+
+# ============Fears extra
+message_320:
+   text: >
+    NĚCO tě tahá dolů...
+
+message_321:
+   text: >
+    Cítíš, jak ti jede mráz po zádech...
+
+message_322:
+   text: >
+    Prodíráš se temnotou a plaveš výš a výš...
+
+message_340:
+   text: >
+    \>???: \<SUNNY...\! Je v pořádku se občas bát.
+
+message_341:
+   text: >
+    \>???: \<Jsem tady s tebou.\!<br>Zhluboka se nadechni a otevři oči.
+
+
+message_344:
+   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA. #proč je to tady třikrát...
+
+message_345:
+   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA.
+
+message_346:
+   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA.
+
+message_347:
+   text: >
+    \>CHLÁPEK S DŽEMEM ŽIVOTA: \<Použijte \c[3]DŽEM ŽIVOTA\c[0]!\!<br>Fakt funguje!
+
+
+# =========================================================================================
+# Battle Quotes: SW
+# =========================================================================================
+
+message_350:
+   text: >
+    HAROLD získal \v[1001] ZKN!
+
+message_351:
+   text: >
+    HAROLD nabyl nové úrovně!
+
+message_352:
+   text: >
+    LUCIUS získal \v[1002] ZKN!
+
+message_353:
+   text: >
+    LUCIUS nabyl nové úrovně!
+
+message_354:
+   text: >
+    MARŠA získal \v[1003] ZKN!
+
+message_355:
+   text: >
+    MARŠA nabyl nové úrovně!
+
+message_356:
+   text: >
+    TEREZ získal \v[1004] ZKN!
+
+message_357:
+   text: >
+    TEREZ nabyl nové úrovně!
+
+# message_358:
+#    text: >
+#     MARSHA's party rolls initiative...
+
+# message_359:
+#    text: >
+#     LUCIUS's party rolls initiative...
+
+message_360:
+   text: >
+    Parta \v[1003] vrhá kostku...
+
+# message_361:
+#    text: >
+#     THERESE's party rolls initiative...
+
+message_362:
+   text: >
+    20! Parta \v[1003] má navrch!
+
+message_363:
+   text: >
+    1! OMORIHO parta má navrch!
+
+message_364:
+   text: >
+    \v[1002]! Šanci má každý!
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+message_400:
+   text: >
+    \>KROKOĎÁK: \<Kdo ti řekl, že můžeš opustit své místo?\! Mazej zpátky do práce!
+
+message_401:
+   text: >
+    \>KROKOĎÁK: \<Ty už seš zase zpátky?\! Budeme ti muset ukázat, co proto!
+
+message_402:
+   text: >
+    \>KROKOĎÁK: \<Tak tohle už je vrchol!\! PAN CENIL z tebe nebude mít radost.
+
+message_403:
+   text: >
+    \>KROKOĎÁK: \<Takže, kamaráde... Tentokrát se přeze mě nedostaneš.
+
+message_404:
+   text: >
+    \>KROKOĎÁK: \<Ty kazisvěte malej...\! Co to vyvádíš dneska?
+
+message_405:
+   text: >
+    \>KROKOĎÁK: \<Už to znáte, hoši.\! Osmdesát-šestka, jak obvykle.
+
+message_406:
+   text: >
+    \>KROKOĎÁK: \<Co tady děláš? Porušuješ smlouvu!
+
+message_407:
+   text: >
+    \>KROKOĎÁK: \<Vy jste najednou dva?! Tak to s šéfem sekne!
+
+message_408:
+   text: >
+    \>KROKOĎÁK: \<Vy jste najednou tři?! Tak to s šéfem sekne!
+
+message_409:
+   text: >
+    \>KROKOĎÁK: \<Už zase odcházíš od práce? Tak teď bude opravdu zle, ka haha...
+
+message_410:
+   text: >
+    \>KROKOĎÁK: \<Tebe snad baví se pořád nechávat vyhazovat?!
+
+message_411:
+   text: >
+    \>KROKOĎÁK: \<Hej, prcku! Naval \v[1001] MUŠLÍ a necháme tě tentokrát jít.
+
+message_412:
+   text: >
+    \>KROKOĎÁK: \<Rád jsem s tebou spolupracoval.
+
+message_413:
+   text: >
+    \>KROKOĎÁK: \<Ts, ts... Promiň, kámo.<br>Nemáš jich dost!
+
+message_414:
+   text: >
+    \>KROKOĎÁK: \<Ts, ts... To je ale smůla!
+
+# ============PLUTO EXPANDED
+# =====After Using Flex
+message_415:
+   text: >
+    \>PLUTO: \<Skvělé zlepšení, mladý KELI!\! Už \c[1]ZATÍNÁŠ\c[0] raz dva!
+
+# ============SPROUT MOLE EATER
+# =====Summoning and eating sprout moles
+message_416:
+   text: >
+    Objevil se KLÍČKOKRTEK!
+
+message_417:
+   text: >
+    KRÁL PLAZIVKA snědl KLÍČKOKRTKA!
+
+# ============JUNKYARD EXTRA
+
+message_418:
+   text: >
+    KEL se hrabe odpadky.
+
+message_419:
+   text: >
+    KEL nic nenašel.
+
+message_420:
+   text: >
+    KEL našel \c[5]PLECHOVKU\c[0]!
+
+message_421:
+   text: >
+    KEL našel kousek \c[3]TOFU\c[0].
+
+message_422:
+   text: >
+    KEL našel \c[5]GUMIČKU\c[0]!
+
+message_423:
+   text: >
+    KEL našel kousek \c[3]ČOKOLÁDY\c[0]!
+
+message_424:
+   text: >
+    KEL našel plechovku \c[3]VIŠŇOVÉ SODOVKY\c[0]!
+
+message_425:
+   text: >
+    KEL hraje automaty.
+
+message_426:
+   text: >
+    KEL vyhrál \v[1002] MUŠLÍ!
+
+message_427:
+   text: >
+    KEL prohrál \v[1002] MUŠLÍ...
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+
+message_446:
+   text: >
+    \>BOSS: \<\sinv[1]Hwehwehwe!\sinv[0]\!<br>Vy slaboši!\! Tomuhle že říkáte útok?!
+
+message_447:
+   text: >
+    \>BOSS: \<Hele, to trochu bolelo!\! Ts!\! Tohle mě už nebaví...
+
+message_448:
+   text: >
+    \>BOSS: \<Grr...\!<br>Tak teď jste mě ROZVZTEKALI...
+
+message_449:
+   text: >
+    \>BOSS: \<Je čas na můj speciální útok!
+
+message_450:
+   text: >
+    \{\{\sinv[1]\quake[1]TĚLO!!\sinv[0]
+
+message_445:
+   text: >
+    \>BOSS: \<CO?!\! JAKTOŽE SE POŘÁD HÝBETE?!
+
+# ============ZLATÍČKO
+message_451:
+   text: >
+    \sinv[1]\{ACH, HERO!\{ MŮJ HERO!!\}
+
+message_452:
+   text: >
+    \sinv[1]\{TVŮJ ÚSMĚV MI ŠÁLI SRDCE!\}
+
+message_453:
+   text: >
+    \sinv[1]\{TEĎ UŽ BUDE JEDINĚ MŮJ!!\}
+
+# ============HERO AFRAID OF SPIDER BUNNY
+message_454:
+   text: >
+    HERO se bojí pavouků!
+
+# ============ZLATÍČKO DONUT
+message_455:
+   text: >
+    Jak si dovolujete mi před očima jíst \c[3]KOBLIHU\c[0]!
+
+# ============MUSSEL KEL FLEX
+message_456:
+   text: >
+    SVALKA vidí KELA \c[1]ZATÍNAT\c[0] svaly a cítí se zastíněně...
+
+# ============BENDA POISON
+message_457:
+   text: >
+    Na zemi kape žaludeční kyselina...
+
+message_458:
+   text: >
+    Žaludeční kyselina tě slévá!
+
+# ============Uvula Shit Talk
+message_459:
+   text: >
+    \>BENDA: Nejste nic víc, než maso, tak mi dovolte vás sníst.
+
+message_460:
+   text: >
+    \>BENDA: Nebojujte, pochoutky.\! Je to marné!
+
+message_461:
+   text: >
+    \>BENDA: Proto bych si neměl hrát s jídlem.
+
+message_462:
+   text: >
+    \>BENDA: Mňam, mňam, mňam...\! Čas na gábl!
+
+message_463:
+   text: >
+    \>BENDA: Silnější se přiživují na slabších.\! To jste nikdy neslyšeli?\! Tak funguje příroda!
+
+message_464:
+   text: >
+    \>BENDA: Vyčkejte prosím, než budete ztráveni.\! Je zde řada, tak prosím vydržte.
+
+message_465:
+   text: >
+    \>BENDA: Bojujou snad ti ostatní?\! Chovejte se trochu, pochoutky!
+
+# ============KLUK S DRAKEM Repair
+message_469:
+   text: >
+    KLUK S DRAKEM opravuje svého draka.
+
+# ============KLUK S DRAKEM Wind
+message_470:
+   text: >
+    Vítr zuří.
+
+message_471:
+   text: >
+    Vítr drží.
+
+message_472:
+   text: >
+    Vítr je slabý.
+
+# =========================================================================================
+# HANGING BODY SOMETHING
+# =========================================================================================
+
+message_501:
+   text: >
+    Dělá se ti špatně.
+
+message_502:
+   text: >
+    Sevřely se ti plíce.
+
+message_503:
+   text: >
+    Cítíš, jako by se ti něco topilo v žaludku.
+
+message_504:
+   text: >
+    Cítíš se, jako by ti mělo srdce brzo vyskočit z hrudi.
+
+message_505:
+   text: >
+    Tvé prsty se nechtějí přestat třást.
+
+message_506:
+   text: >
+    Slábneš v kolenou.
+
+message_507:
+   text: >
+    Z čela ti teče pot.
+
+message_508:
+   text: >
+    Začínají se ti přivírat oči.
+
+message_509:
+   text: >
+    Slyšíš, jak ti buší srdce.
+
+message_510:
+   text: >
+    Slyšíš, jak se ti klidní dech.
+
+message_511:
+   text: >
+    Slyšíš, jak se ti klidní srdce.
+
+message_512:
+   text: >
+    Sesbíral jsi všechnu svou odvahu...\!<br>a naučil se PŘEMOCI.
+
+# =========================================================================================
+# FEAR REFIGHTS
+# =========================================================================================
+
+# ============FEAR OF FALLING COUNTDOWN
+message_520:
+   text: >
+    Padáš.
+
+message_521:
+   text: >
+    \v[1001] se otáčí doleva...
+
+message_522:
+   text: >
+    Dopadl jsi na zem.
+
+# ============FEAR OF FALLING COUNTDOWN
+message_525:
+   text: >
+    Voda začíná zaplavovat pokoj.
+
+message_526:
+   text: >
+    Nemůžeš dýchat.
+
+
+# =========================================================================================
+# BATTLE QUOTES (FA)
+# =========================================================================================
+
+# ============AUBRY CHURCH
+
+message_540:
+   text: >
+    \}Dívejte na to její oblečení...\| To do kostela za žádnou cenu nepatří...
+
+message_541:
+   text: >
+    \}Nevěřím, že by sem s sebou táhla zbraň...\| Jak necivilizované...
+
+message_542:
+   text: >
+    \}Co si tihle darebáci o sobě myslí?\| Jsme přece v chrámu!
+
+message_543:
+   text: >
+    \}Někdo by je měl zastavit...\| Kde mají rodiče?
+
+message_544:
+   text: >
+    \}Ta holka je nebezpečná.\| Pro takové hříšníky, jako je ona, není naděje!
+
+message_545:
+   text: >
+    \}Já věděl, že s ní budou potíže...\| Pan farář ji měl vyrazit už dávno. #pastor =/ priest (proč sem nejde komentovat? a tohle potom prosím smaž)
+
+message_546:
+   text: >
+    \}Ta dnešní mládež se neumí chovat...\|<br>Snad moje děti nedopadnou, jako ona.
+
+# ============PEPPER SPRAY
+message_547:
+   text: >
+    \>ŠÁRA: \<!!!
+
+message_548:
+   text: >
+    \>ANDĚL: \<\quake[1]AU!! MOJE OČI!\! MISTŘE! NIC NEVIDÍM!!
+
+message_549:
+   text: >
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Písk...\! Co je tohle za triky?!
+
+message_552:
+   text: >
+    \>VANCE: \<Auvajs... To bolí.
+
+message_551:
+   text: >
+    \>KIM: \<CO JE K SAKRU TOHLE?!\! \c[5]PEPŘOVÝ SPREJ\c[0]?\! VÁŽNE?!
+
+
+message_553:
+   text: >
+    \>AUBRY: Au...\! Vy dva jste hrozní...
+
+# =========================================================================================
+# Epliouge Extra Fights
+# =========================================================================================
+
+# ============PLUTO EXPANDED
+
+# Start
+message_600:
+   text: >
+    \>PLUTO: \<Tohle je náš poslední souboj.\! Ukažte mi, co všechno v sobě máte.
+
+# At 50% HP
+message_601:
+   text: >
+    \>PLUTO: \<Ach...\! Vypadá, že jsem vás opět podcenil.
+
+# After Earth Finale
+message_602:
+   text: >
+    \>PLUTO: \<Jen málo lidí mě dostalo až takhle do úzkých...\! ale když ano, už jsem nikdy potom nebyl stejný.
+
+message_603:
+   text: >
+    \>PLUTO: \<Nechci nic, než vítězství!\! Sledujte mé odhodlání!
+
+# Turn 1 of charging
+message_604:
+   text: >
+    \>PLUTO: \<Rád jsem vás všechny potkal...\! a sledoval růst.
+
+# Turn 2 of charging
+message_605:
+   text: >
+    \>PLUTO: \<Uznávám vaši sílu...\! a již vás nevidím, jako děti.
+
+message_606:
+   text: >
+    \>PLUTO: \<Tento souboj je můj...\! Mému rozsudku neutečete!
+
+# Before Meteor
+message_607:
+   text: >
+    \>PLUTO: \<Snad se setkáme v příštím životě.\! Sbohem.
+
+# Charging
+message_608:
+   text: >
+    PLUTO začal chystat svůj ultimátní útok!
+
+message_609:
+   text: >
+    PLUTO dále chystá svůj ultimátní útok...
+
+message_610:
+   text: >
+    PLUTO dochystal svůj ultimátní útok!
+
+# Pluto Victory
+message_611:
+   text: >
+    \>PLUTO: \<Nebuďte SMUTNÍ.\! Všichni jste až do konce zůstali ctihodnými bojovníky.
+
+# Pluto Defeat
+message_612:
+   text: >
+    \>PLUTO: \<Neuvěřitelné...\! I ve své plné síle...\! jsem byl přemožen.
+
+message_615:
+   text: >
+    \>PLUTO: \<Bylo mi ctí, s vámi zápasit.\! Vaše vítězství je zcela zasloužené.
+
+# Pluto's presence
+message_613:
+   text: >
+    Žár PLUTOVÝCH svalů tě přemáhá!
+
+message_614:
+   text: >
+    Všichni SMUTNÍ člené party zeslábli.
+
+# ============KLUK S DRAKEM Epilouge
+message_620:
+   text: >
+    \>KLUK S DRAKEM: \<My a vítr jsme jedno!
+
+message_621:
+   text: >
+    \>KLUK S DRAKEM: \<Dokud fouká, jsme nezastavitelní!
+
+# ============VESMÍRNÝ EX-MANŽEL
+# An image appears
+message_630:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Hle! Ukazuje se mi jakási vzpomínka!
+
+# Happy Memories
+message_631:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... a mé ZLATÍČKO...\! jak se spolu líbáme na jejím překrásném pódiu! #šlo by možná "své" místo "mé"? prosím smazat tento komentář
+
+message_632:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... a mé ZLATÍČKO...\! jak spolu sledujeme noční oblohu!
+
+message_633:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... a mé ZLATÍČKO...\! jak se díváme do svých očí!
+
+# Sad Memories
+message_634:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... samotného...\! jak vyhazuju svou \c[4]VÝJIMEČNOU KAZETU\c[0]...
+
+message_635:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... samotného...\! jak pláču ve své obrovské posteli...
+
+message_636:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... samotného...\! jak držím v rukou fotku svého drahého ZLATÍČKA...
+# Angry Memories
+message_637:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím mé ZLATÍČKO... jenže...\! se po mně ohání svým žezlem!
+
+message_638:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím mé ZLATÍČKO... jenže...\! v náručí jiného!
+
+message_639:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím mé ZLATÍČKO... jenže...\! hážě mými věčmi po pokoji!
+
+# Beggining of Fight: Mechanic indication
+message_640:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Zbyly mi jen vzpomínky...
+
+message_641:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Ale už ani ty ze mě nedostanou cit.
+
+# Correct answer: Happy
+message_642:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Ach...\! Stále si těch časů cením...
+
+# Correct answer: Sad
+message_643:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Ach...\! Nevěřím, že je opravdu pryč...
+
+# Correct answer: Angry
+message_644:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<ÁÁÁ!\! CO SI TO DOVOLUJE, TOHLE MI UDĚLAT?!
+
+#message_645:
+#   text: >
+#    \>VESMÍRNÝ EX-MANŽEL: \<I GAVE HER MY HEART AND SHE THREW IT AWAY SO EASILY!
+
+# Wrong answer
+message_646:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Uff...\! Nikdo nedokáže pochopit rozměry mého žalu.
+
+message_647:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Ale pokud nic nebudu cítit...\! tak už neucítím ani bolest.
+
+# Changing back to neutral
+message_648:
+   text: >
+    \>VESMÍRNÝ EX-MANŽEL: \<Ne! Musím si zachránit svůj ŽIVOT.\! Musím se stát... za jedno s ledem...
+
+# ============Mutant Heart
+# Start
+message_660:
+   text: >
+    \>MUTANTÍČKO: \<\}A...\! Ajoj...
+# Happy
+message_661:
+   text: >
+    \>MUTANTÍČKO: \<\}\sinv[1]RADOST...\. prosím!
+# Sad
+message_662:
+   text: >
+    \>MUTANT HEART: \<\}\sinv[1]SMUTEK...\. prosím...
+# Angry
+message_663:
+   text: >
+    \>MUTANT HEART: \<\}\sinv[1]ZUŘIT...\. prosím.
+
+# Wrong
+message_664:
+   text: >
+    \>MUTANTÍČKO: \<\}\quake[1]Blé...\| Špatně!
+
+# =========================================================================================
+# BROKEN FEAR SKILLS
+# =========================================================================================
+
+# ============CALM DOWN (Something)
+
+message_750:
+   text: >
+    Pokusil ses UKLIDNIT...\|<br>ale lapeš po dechu.
+
+# ============FOCUS (Something)
+
+message_751:
+   text: >
+    Pokusil ses SOUSTŘEDIT...\|<br>ale přemohla tě nevolnost.
+
+# ============PERSIST (Something)
+
+message_752:
+   text: >
+    Pokusil ses to VYDRŽET...\|<br>ale nedokážeš se přestat třást.
+
+
+# =========================================================================================
+# CHERISH
+# =========================================================================================
+
+message_806:
+   text: >
+    Vzpomněl sis na KELOVY povzbudivá slova.
+
+message_807:
+   text: >
+    Vzpomněl sis na AUBRYINO přání.
+
+message_808:
+   text: >
+    Vzpomněl sis na HERŮV slib.
+
+message_809:
+   text: >
+    Vzpomněl sis na BASILOVU naději.
+
+message_810:
+   text: >
+    Vzpomněl sis na MARINU prosbu.
+
+message_801:
+   text: >
+    \>KEL: \<Kamarádi...\! Kamarádi by tam pro sebe měli vždycky být. 
+
+message_802:
+   text: >
+    \>AUBRY: \<Doufám, že tam budeš mít klid...\| nebo...\| aspoň radost.
+
+message_803:
+   text: >
+    \>HERO: \<Naposledy...<br><br><br>\>HERO: \<Jsme udělali chybu v tom, že jsme se opustili, zrovna když jsme se nejvíc potřebovali.<br>\>HERO: \<Tentokrát...\| zůstaneme spolu.
+
+message_804:
+   text: >
+    \>BASIL: \<Možná by jednou...\| zase všechno mohlo být, jako kdysi.
+
+message_805:
+   text: >
+    \>MARI: \<Ty si to odpustíš...\|<br>Že... SUNNY?
+
+
+#-------
+
+message_900:
+    text: >
+      \fn<OMORI_GAME>Všem jsi způsobil tolik utrpení...\|<br>avšak nic se sebou neděláš.
+
+message_901:
+    text: >
+      \fn<OMORI_GAME>A nic z toho ani nemáš.
+
+message_902:
+    text: >
+      \fn<OMORI_GAME>Tví kamarádi ti nikdy neodpustí.
+
+message_903:
+    text: >
+      \fn<OMORI_GAME>Opustí tě, stejně jako jsi ty opustil je...\! přesně tak, jak si zasloužíš.
+
+message_904:
+    text: >
+      \fn<OMORI_GAME>Říkáš si, že nechceš nikomu být na obtíž...
+
+message_905:
+    text: >
+      \fn<OMORI_GAME>Ale doopravdy jsi sobec.\! Jenom necheš, aby na tobě ostatní nezáviseli.
+
+message_906:
+    text: >
+      \fn<OMORI_GAME>Co si o nich vlastně myslíš?\! Jak dlouho je o tebe ještě necháš starat?
+
+message_907:
+    text: >
+      \fn<OMORI_GAME>Říkáš, že ti na nich záleží, jenže akorát lžeš.\! Nikdy jsi pro nikoho nic neudělal.
+
+message_908:
+    text: >
+      \fn<OMORI_GAME>Jsi k ničemu...\| ne, jsi ještě méně, než k ničemu.\!<br>Jsi zkažený.
+
+message_909:
+    text: >
+      \fn<OMORI_GAME>Lidé jako ty si nezaslouží žít.
+
+message_910:
+    text: >
+      \fn<OMORI_GAME>Tví kamarádi se mýlí.\! Ten člověk, kterého mají rádi, nejsi vůbec ty.
+
+message_911:
+    text: >
+      \fn<OMORI_GAME>Lhal jsi jim, jen aby ses před nima ochránil.
+
+message_912:
+    text: >
+      \fn<OMORI_GAME>Jsi lhář a nic víc...\! a až poznají pravdu...
+
+message_913:
+    text: >
+      \fn<OMORI_GAME>Budou tě nenávidět, stejně jako nenávidíš sebe.
+
+message_914:
+    text: >
+      \fn<OMORI_GAME>Až budou znát pravdu, už ti nikdy nebudou věřit.
+
+message_915:
+    text: >
+      \fn<OMORI_GAME>Ať uděláš cokoliv, bude to zbytečné.
+
+message_916:
+    text: >
+      \fn<OMORI_GAME>Všechno jenom ztěžuješ.\! Bylo by lepší, kdybys umřel.
+
+
+message_917:
+    text: >
+      \fn<OMORI_GAME>Bylo by lepší umřít.
+
+message_918:
+    text: >
+      \fn<OMORI_GAME>Zabil jsi MARI.\! Měla tě ráda, a tys ji zabil.
+
+message_919:
+    text: >
+      \fn<OMORI_GAME>HERO ji měl rád, a tys ji zabil.
+
+message_920:
+    text: >
+      \fn<OMORI_GAME>AUBRY ji měla ráda, a tys ji zabil.
+
+message_921:
+    text: >
+      \fn<OMORI_GAME>KEL ji měl rád, a tys ji zabil.
+
+message_922:
+    text: >
+      \fn<OMORI_GAME>BASIL ji měl rád, a tys ji zabil.
+
+message_923:
+    text: >
+      \fn<OMORI_GAME>Měl jsi ji rád... a zabil jsi ji.
+
+message_924:
+    text: >
+      \fn<OMORI_GAME>Měl bys prostě umřít.
+
+message_925:
+    text: >
+      Chceš utéct.
+
+
+#BATTLE EMOTION
+
+message_926:
+    text: >
+      VESMÍRNÝ EX-MILENEC se VZTEKÁ!
+
+message_927:
+    text: >
+      VESMÍRNÝ EX-MILENEC ZUŘÍ!
+
+message_928:
+    text: >
+      VESMÍRNÝ EX-MILENEC BĚSNÍ!
+
+message_929:
+    text: >
+      ZLATÍČKO má RADOST!
+
+message_930:
+    text: >
+      ZLATÍČKO je NADŠENÉ!
+
+message_931:
+    text: >
+      ZLATÍČKO prožívá MÁNII!
+
+message_932:
+    text: >
+      NEPEČENÁ DVOJČATA jsou SMUTNÁ...
+
+message_933:
+    text: >
+      NEPEČENÁ DVOJČATA jsou v DEPRESÍCH...
+
+message_934:
+    text: >
+      NEPEČENÁ DVOJČATA TRPÍ...
+
+message_935:
+    text: >
+      CHLÁPEK S DŽEMEM ŽIVOTA tě polil \c[3]DŽEMEM ŽIVOTA\c[0]!
+
+message_936:
+    text: >
+      \>CHLÁPEK S DŽEMEM ŽIVOTA: \<Užijte si vaši ochutnávku zdarma!\! A teď nashle, haha!
+
+message_937:
+    text: >
+
+message_938:
+    text: >
+      VESMÍRNÝ EX-MILENEC již nemůže mít RADOST nebo VZTEK!
+
+message_939:
+    text: >
+      ZLATÍČKO již nemůže být SMUTNÉ nebo VZTEKLÉ!
+
+message_940:
+    text: >
+      NEPEČENÁ DVOJČATA již nemůžou mít RADOST nebo VZTEK!
+
+#=======
+#DOROTHI ON TRAIN
+
+message_941:
+    text: >
+      \>???: \<\fn<OMORI_GAME>SUNNY...
+
+message_942:
+    text: >
+      \>???: \<\fn<OMORI_GAME>SUNNY...\| SUNNY...\| SUNNY...
+
+message_943:
+    text: >
+      \>???: \<\fn<OMORI_GAME>SUNNY...\| Promiň...
+
+message_944:
+      text: >
+        \>???: \<\fn<OMORI_GAME>SUNNY...\. Promiň...
+
+#=======
+#ŠNEČEK
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 1
+#----------------------------
+
+message_950:
+   text: >
+    \>ŠNEČEK: \<Jupí, můj první souboj!\! A jde se na to!
+
+message_951:
+    text: >
+     \>ŠNEČEK: \<Ty jo, to je ale fuška.\!<br>Dejte mi prosím ještě jeden pokus!
+
+message_952:
+    text: >
+     \>ŠNEČEK: \<Nevím, jestli na tohle mám...
+
+message_953:
+    text: >
+     \>ŠNEČEK: Dobře, to by stačilo.\!<br>Děkuji vám.
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 2
+#----------------------------
+
+message_954:
+    text: >
+     \>ŠNEČEK: Od toho, co jsme se naposledy viděli, jsem se naučil pár nových DOVEDNOSTÍ!\! Být váma bych si dával bacha!
+
+message_955:
+    text: >
+     \>ŠNEČEK: To bylo hustý, že?!
+
+message_956:
+    text: >
+     \>ŠNEČEK: Taky jsem se naučil, jak dělat NÁSLEDNÉ ÚTOKY!\! Koukejte na tohle!
+
+message_957:
+    text: >
+     \>ŠNEČEK: To bylo ale něco!\! Jsem skoro tak silný, jako vy!
+
+#----------------------------
+# ** IN BATTLE: ŠNEČEK 3
+#----------------------------
+
+message_958:
+    text: >
+     \>ŠNEČEK: Už jsem se těšil, kdy vám zase budu moct ukázat, co nového jsem se naučil!\! Tentokrát se nekroťte!
+
+message_959:
+    text: >
+     \>ŠNEČEK: Nejste jediný, komu jsou EMOCE vhod!
+
+message_960:
+    text: >
+     \>ŠNEČEK: Jste opravdu silní\! ale teď přišla správná chvíle na můj ultimátní útok!
+
+message_961:
+   text: >
+    ŠNEČEK je SMUTNÝ...
+
+message_962:
+   text: >
+    ŠNEČEK má RADOST!

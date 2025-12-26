@@ -1,0 +1,467 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Wedding
+# =========================================================================================
+
+#Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Konečně jsme venku!\kel
+
+#KEL LOOKS AROUND
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Ty brďo, co je tohle za ozdoby?\kel
+
+#AUBREY looks at KEL.
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Vypadá, že se tady bude někdo vdávat!\aub
+
+#HERO looks to the side and is surprised.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ajaj! Už to začíná!\!<br>Rychle, schovejme se!\her
+
+#Party hides.
+#Camera pans to stage.
+
+message_4:
+      text: Vítáme všechny diváky a divačky!\smm #tady není úplně nejlepší nápad to přeložit doslovně
+
+message_5:
+      text: Dnešní den nemá v dějínách našeho království obdoby.\smm #den je den, jenž je nadbytečné
+
+message_6:
+      text: Po čtyřiceti dvou sezónách <br>\"ZLATÍČKA HLEDÁ ZLATÍCKO\"...\!<br>Nadešel čas odvysílat poslední díl.\smm
+
+#Audience awwws.
+
+message_7:
+      text: Bylo...\! fňuk...\! to vskutku skvělé...\! fňuk...\!<br>A všem vám děkujeme za to, že jste se dívali.\smm
+
+message_9:
+      text: Už od prvního vysílání...\!<br>jsme nepřetržitě ZLATÍČKU hledali dokonalého partnera...\smm
+
+message_10:
+      text: Ale pokaždé...\!<br>se ZLATÍČKU nepodařilo najít svou pravou životní lásku.\smm #menší úprava
+
+message_11:
+      text: Ale tentokrát věříme...\!<br>že jsme se překonali.\smm
+
+message_12:
+      text: Tohle je...\! chvíle všech chvil...\!<br>Zde...\! se začínají psát nové dějiny.\smm
+
+message_13:
+      text: Zhasněte, prosím...\smm
+
+#Lights dim.
+
+message_8:
+      text: \{POSLEDNÍ DÍL PRÁVĚ ZAČÍNÁ!\smm #přirozenější
+
+message_14:
+      text: \{\Com[2]NECHŤ ZAČNE SVATBA!!\smm
+
+#Curtain opens, revealing Sprout Mole Choir singing for SWEETHEART's WEDDING.
+
+message_15:
+      text: Prosím, uvítejte...\!<br>\{\Com[2]ZLATÍČČINA DOKONALÉHO PARTNERA!!\smm
+
+#Camera pans to end of aisle. SWEETHEART bursts from a cake at the end of the aisle.
+#Audience gasps.
+#Camera pans to SMM.
+#SMM jumps.
+
+message_16:
+      text: Ano! Vskutku!\!<br>Tak teď už to víte!\smm
+
+message_17:
+      text: Bylo to přece celou dobu jasné!\smm
+
+message_18:
+      text: Jediný partner dosti dokonalý pro ZLATÍČKO...\smm
+
+#Camera pans to SWEETHEART.
+
+message_19:
+      text: \{...je ona samotná!\smm
+
+#Audience cheers and hollars.
+#SWEETHEART Ohohohs a lot
+
+message_20:
+        text: \{\{\{\Com[2]\quake[1]TICHO!!\quake[0]\swh
+
+#Audience stops.
+
+message_21:
+      text: Takže...\! Dovolte mi začít obřad.\swh #trochu pompéznější
+
+#Wedding song begins and SWEETHEART walks down the aisle alone. Camera follows.
+
+message_22:
+      text: \}Vážení a drazí... Dnes se zde setkáváme...\smm #blíže orig
+
+#Camera pans to party.
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HAHAHAHAHAHAHAHAHAHAHAHA!!\}\!<br>ZLATÍČKO si bere sama sebe! To je ale trapný!\kel
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Nesměj se jí, KELI!\! Vlastně...\! ji celkem lituju.\aub
+
+#Camera pans to the stage.
+
+message_25:
+      text: ...\! Má kdokoliv přítomen nějakou námitku k tomuto sňatku?\smm #námitku, ne poznámku
+
+message_26:
+      text: Mluvte nyní, nebo mlčte nadosmrti!\smm
+
+#Pause with no noise.
+
+message_27:
+      text: V tom případě...\!<br>Vás prohlašuji za...\!<br>ZLATÍČKO a ZLATÍČKO!\smm
+
+message_28:
+      text: A nyní je čas na novomanželský poli-\smm
+
+message_29:
+      text: \quake[1]\{\{\Com[2]JÁ MÁM NÁMITKU!!\quake[0]\who #viz výše
+
+message_30:
+      text: \Com[2]\{HNED TUTO SVATBU ZASTAVTE!!\who #přirozenější
+
+#Camera pans to party.
+#AUBREY is at the end of the aisle.
+#AUBREY takes off her Sprout Mole mask.
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Nedělej to, ZLATÍČKO!\!<br>Tahle svatba je jeden velký trapas...\! Chápu, že mít se ráda je důležité...<br>ale co je moc, to je moc!\aub #rod
+
+#Camera pans to SWEETHEART.
+#SWEETHEART jumps.
+
+message_32:
+      text: \{UŽ ZASE TY!!\}<br>Jak si dovoluješ sem vůbec znovu vkráčet?!\swh
+
+message_33:
+      text: \{\{\Com[2]STRÁŽE!?\! \Com[2]STRÁŽE!?!?\swh
+
+#Camera pans to AUBREY.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: ZLATÍČKO... Děláš velikou chybu.\!<br>Nemužeš si vzít sama sebe...\aub
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Rozhodně se pro tebe někdo najde...\! Já to vím!\aub
+
+#KEL jumps.
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \}AUBRY, co to děláš...?\!<br>S takovou zase skončíme v \c[11]HLADOMORNĚ\C[0]...\kel #přirozenější
+
+#Camera pans to SWEETHEART. Guards are behind her now.
+
+message_37:
+      text: Ts...\! Ty nic nechápeš, trapná HEROVA fanynko.\swh #nevím, jestli náhodná se jen tak v češtině používá
+
+#SWEETHEART turns around.
+
+message_38:
+      text: Kdysi jsem byla malá princezna.\!<br>Také jsem věřila, že se pro mě kdosi na tomto světě najde...\swh
+
+message_39:
+      text: Ale to už je dávno minulost.\swh
+
+message_40:
+      text: Už nevěřím na pravou lásku!\!<br>A už nikdy nikoho nebudu mít ráda!\swh
+
+message_41:
+      text: \Com[2]Jediná osoba, kterou kdy budu mít ráda, jsem já!\swh
+
+message_42:
+      text: STRÁŽE, CHOPTE SE JÍ!!\swh #přirozenější
+
+#Guards walk forward.
+#Camera pans to HERO, who is now next to AUBREY. KEL and OMORI are behind them. They are closer to the stage now.
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Hele...\! HERO...\! Tohle není dobrý nápad...\kel #přirozenější
+
+#HERO takes off his Sprout Mole mask.
+
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: \{\Com[2]ZLATÍČKO, POSLOUCHEJ!!\}<br>Tohle není vůbec třeba!\her
+
+#Camera pants to SWEETHEART.
+
+message_45:
+      text: C-Cože?\! Je to snad?\swh
+
+message_46:
+      text: \sinv[1]HERO!\! Můj hrdina si pro mne nakonec přišel!\swh
+
+message_47:
+      text: \sinv[1]Ach, můj milý HERO...<br>Já věděla, že mě nenecháš samotnou!\swh
+
+#SWEETHEART walks a step forward.
+
+message_48:
+      text: Jak mě tvá slova uchvácejí!\!<br>A i když mezi náma možná už byl konec, mé srdce na tebe nezapomnělo.\swh
+
+#SWEETHEART turns around.
+
+message_49:
+      text: Dám ti jednu poslední šanci.\swh
+
+#SWEETHEART turns to HERO and walks a step forward.
+
+message_50:
+      text: \{VEZMI SI MĚ, HERO... TADY A TEĎ!!\!\} <br>A na oplátku tě nechám i s tvými fanoušky naživu!\swh #blíže orig
+
+message_51:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\{POČKAT, C-COŽE!?!?\!\}<br>Ale... to nemůžu! To je šílenství!\her
+
+#SWEETHEART turns around.
+
+message_52:
+      text: ...\| ...\| ...\swh
+
+message_300:
+      text: \swhCože?\! Ty mě odmítáš...\! znovu?
+
+message_301:
+      text: \swhAle...\! Jak je to možné?
+
+message_302:
+      text: \swh\quake[1]Já...\! tomu...\! nerozumím...
+#SWEETHEART turns toward party.
+#Camera pans to party.
+
+message_53:
+      text: ...\| ...\| ...\| ...\| ...<br>\!Ohohoho...\swh
+
+
+#SWEETHEART ohohohos.
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Ajaj...\! Tak teď bude zle...\kel
+
+message_55:
+      text: Aha...\! Ano...\! Už v tom mám jasno.\swh
+
+message_56:
+      text: Přiznávám...\! že jsem se ohledně tebe mýlila, HERO.\!<br>Myslela jsem, že jsi hoden mé lásky...\! ale...\! zdá se, že mi závidíš úplně stejně jako všichni ostatní!\swh #přirozenější
+
+message_57:
+      text: \Com[2]Ano!\! V tom je ten problém!\! Má nádherná postava...\! Můj okouzlivý úsměv... \!Má kurtoázní osobnost...\! I jen snášet mou blízkost pro vás musí být nesnesitelné!\swh #to teda
+
+message_58:
+      text: Ale...\! Už to nadále nebudete muset snášet.\!<br>Ukončím vaše utrpení... \!a to osobně.\!\swh #nevhodné sice
+
+message_59:
+      text: \{\quake[1]SBOHEM, VY MIZERNÍ UBOŽÁCI!\swh #sweetheart je sice dětinská, ale na takové opakování slov nemá. takové je jedině Franziska Von Karma
+
+#SWEETHEART takes out weapon and whips mace.
+
+message_60:
+      text: \Com[2]\{\sinv[1]ZAVŘU VÁS DO<br>\c[11]HLADOMORNY\C[0] NAVŽDYCKY!!\swh
+
+
+# =========================================================================================
+# Cutscene: Captain Spaceboy's Return!
+# =========================================================================================
+
+#Trigger: Defeat SWEETHEART.
+
+#Party is on stage with SWEETHEART.
+
+message_70:
+      text: Jak je tohle možné?\! Vy...\! Všichni stojíte za nic!\swh
+
+message_71:
+      text: Jak se opovažujete se mi vzpírat...\!<br>Zavřete je do \c[11]HLADOMORNY\C[0]!\!<br>Stráže...\! Stráže!?!?\swh
+
+#Guards sweat and step back.
+#AUBREY walks up.
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Tohle je konec, ZLATÍČKO...\!<br>Svatba se ruší!\aub #ne tvůj, to rozhodně Aubrey nemyslí
+
+message_73:
+      text: N-Ne! Tohle odmítám přijmout.\! Běžte pryč! Nechtě mě na pokoji!\swh
+
+#Spaceship noises are heard above.
+#Party and SWEETHEART look around confused.
+#CAPT. SPACEBOY's ship lands at the end of the aisle. He locks it, making a locked car noise.
+#CAPT. SPACEBOY down the aisle.
+
+message_74:
+      text: \Com[2]Mé ZLATÍČKO!\! Ach, mé ZLATÍČKO!<br>Jak jsem rád, že jsem se sem dostavil včas.\cap
+
+message_75:
+      text: Musíš s tímhlenstím šílenstvím ihned zkoncovat!\cap #blíže orig
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: K-KAPITÁN VESMÍRŇÁK!?\kel
+
+message_77:
+      text: Ty...\! \Com[2]\{TY HŇUPE!!\swh #trošku ten slovník naší babišovy koblihy počešťme, ne?
+
+message_78:
+      text: Snad jsem ti řekla...<br>aby ses přede mnou už nikdy neukázal!\swh
+
+message_79:
+      text: \sinv[1]Ach, ZLATÍČKO!\! Mé ZLATÍČKO!\!<br>Můj sladký, marmeládou plněný koblížku!\cap #tohle celé budeme asi muset dříve nebo později předělat. do teď měním džem na marmeládu, kterou jsou u nás koblihy často plněny
+
+message_80:
+      text: Prosím, prohlédni své srdce a dej mi druhou šanci.\cap #spíš "mé" srdce, ne?
+
+message_81:
+      text: Neměl jsem tě nechat tak dlouho samotnou.\cap
+
+message_82:
+      text: Ty jeden...\! O co se to pokoušíš?\swh #jeden
+
+message_83:
+      text: Promiň, že jsem tohle neudělal dřív.\cap #přirozenější
+
+#CAPT. SPACEBOY holds up ring, gets on his knees and pulls out a ring.
+
+message_84:
+      text: \{\sinv[1]VEZMI SI MĚ, ZLATÍČKO!!\}<br>Teď a tady, na tomhle pódiu!\cap #přirozenější
+
+message_85:
+      text: Ach... páni!\! Takhle z ničeho nic...!\!<br>Jak...\! Jak...\! Jak...\! \Com[2]\sinv[1]Jak romantické!\swh #panečku má za mě takový dětinský ráz, který sweetheart jistě má, ale zrovna tady by se projevovat neměl
+
+message_86:
+      text: KLÍČKOKRTKU MICHALE...\! Přikazuji ti, abys nás ihned oddal!\swh
+
+message_87:
+      text: Ano! Rozkaz, Vaše Veličenstvo!\smm #vaše veličenstvo
+
+message_88:
+      text: \}Vážení a Drazí! Dnes se setká-\smm #konzistence
+
+message_89:
+      text: Kašli na ty formality, MICHALE! <br>Pravá láska nemůže přece čekat!\swh
+
+#SMM sweats.
+
+message_90:
+      text: A-Ano, má princezno!\smm
+
+message_91:
+      text: Tedy...\smm
+
+message_92:
+      text:Prohlašuji vás za...<br>\!\{\Com[2]ZLATÍČKO A VESMÍRNÉHO MANŽELA!\smm #asi se pak budu muset podívat na formality svatby, už jsem dlouho na žádné nebyl
+
+message_93:
+      text: A nyní je čas na novomanželský polibek!\smm
+
+#SWEETHEART and SPACEHUSBAND kiss.
+
+message_94:
+      text: \sinv[1]Ach ZLATÍČKO...\!<br>Pojďme spolu procestovat vesmír...<br>a nechat všechno tohle za námi!\n<VESMÍRNÝ MANŽEL>
+
+message_96:
+      text: \sinv[1]Ano! Ano, můj manželi!<br>\!Půjdu kamkoliv, půjdeš-li tam se mnou!\swh
+
+message_97:
+      text: Dovol nám odejít, ZLATÍČKO!<br>Byli jsme bez sebe příliš dlouho.\n<VESMÍRNÝ MANŽEL>
+
+message_98:
+      text: Pojď, má loď již čeká!\n<VESMÍRNÝ MANŽEL>
+
+message_99:
+      text: Ano! Jistě, můj milý!\!<br>Ovšem předtím...\! musím udělat ještě jednu věc.\swh
+
+message_100:
+      text: KLÍČKOKRTKU MICHALE, podej mi to tlačíko!\swh
+
+message_101:
+      text: \Com[2]Jistě, má královno!\smm
+
+#SMM walks out then comes back and hands something to SWEETHEART.
+#SWEETHEART, SPACE HUSBAND, and SMM walk towards aisle.
+#SWEETHEART holds up a button.
+#SWEETHEART turns around.
+
+message_102:
+      text: Tohle všechno už nepotřebujeme!\swh
+
+#SWEETHEART presses button and stage explodes. There is now a big hole in it.
+#SWEETHEART OHOHOHOHO's the whole time.
+#SWEETHEART looks at SBH.
+
+message_103:
+      text: Teď jsem připravena, můj milý.\swh
+
+message_104:
+      text: Konečně můžeme být znovu spolu...\!<br>\sinv[1]Pojď, má královno! Náš kočár čeká!\n<VESMÍRNÝ MANŽEL>
+
+#SWEETHEART and SPACEHUSBAND board his ship and fly away.
+#Camera pans back to party.
+#AUBREY looks at KEL.
+
+message_105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Tak teda šťastný konec...\! Moc se mi nechce věřit, že tohle dobře dopadne.\aub
+
+#KEL looks at AUBREY.
+
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Jo...\! Tohle celé byla celkem ztráca času.\kel
+
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Asi jo...\! Ale to mezi mnou a OMORIM je upřímné, ne jako ti dva... Viď, OMORI?\aub
+
+
+message_109:
+      text: \smmFňuk...\! Kdo by neměl rád šťastné konce?
+
+#==========================================================================================
+# Cutscene: Misc
+# =========================================================================================
+
+message_120:
+      text: Přeješ si skočit do díry? Možná nebude cesty zpět. #blíže orig

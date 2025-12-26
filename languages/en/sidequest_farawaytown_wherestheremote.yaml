@@ -1,0 +1,103 @@
+
+# =========================================================================================
+# Sidequest: Where's the Remote?
+# =========================================================================================
+
+#Remote 1
+
+message_1:
+      text: \n<POŘÁDNÝ AMERIČAN>Nazdar hoši!\! Jak se daří?\! Musím říct, že...\! <br>Se nic nevyrovná trávení času <br>s mým oblíbeným gaučem a televizním seriálem.
+
+message_2:
+      text: \n<POŘÁDNÝ AMERIČAN>Je tady ale něco, co mi tenhle víkend dost leze na mozek...
+
+message_3:
+      text: \n<POŘÁDNÝ AMERIČAN>Vůbec nemůžu najít můj \c[4]DÁLKOVÝ OVLADAČ\c[0] a jsem moc líný se zvednout z gauče.
+
+message_4:
+      text: \n<POŘÁDNÝ AMERIČAN>Kdybste na něj náhodou narazili, donesli byste mi ho prosím? Dík, děcka!
+
+#Examine Couch
+
+message_5:
+      text: Pod gaučem vidíš \c[4]DÁLKOVÝ OVLADAČ\c[0].\! Zvedneš ho?
+
+#Talk to Cris's Dad after getting Remote
+
+message_6:
+      text: \n<POŘÁDNÝ AMERIČAN>Hele, to je můj \c[4]DÁLKOVÝ OVLADAČ\c[0]!
+
+message_7:
+      text: Předal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] POŘÁDNÉMU AMERIČANOVI.
+
+message_8:
+      text: \n<POŘÁDNÝ AMERIČAN>Díky děcka!\! Dejte si na mě tohohle \c[3]POMERANČOVÉHO JOEHO\c[0]!
+
+message_9:
+      text: Získal jsi \c[3]POMERANČOVÉHO JOEHO\c[0]!
+
+#Remote 2
+
+message_10:
+      text: \n<POŘÁDNÝ AMERIČAN>Nazdar!\! Jak se daří?\! <br>Zdá se, že se mi zase povedlo ztratit ten \c[4]DÁLKOVÝ OVLADAČ\c[0]...
+
+message_11:
+      text: \n<POŘÁDNÝ AMERIČAN>Pamatuju si, že jsem šel do koupelny, <br>a když jsem se vrátil, nebylo po něm stopy.
+
+message_12:
+      text: \n<POŘÁDNÝ AMERIČAN>Mohli byste se tady po něm podívat?\! <br>Někde tady musí být!
+
+#Examine Bathroom Cabinet:
+
+message_13:
+      text: Mezi ručníky vidíš \c[4]DÁLKOVÝ OVLADAČ\c[0].\! Vezmeš ho?
+
+message_14:
+      text: \n<POŘÁDNÝ AMERIČAN>Díky moc, děcka!\! Dlouho jsem nad tím usilovně přemýšlel...\! a myslím, že jsem ho omylem vzal s sebou do koupelny<br>a zapomněl ho vzít zpátky!
+
+message_15:
+      text: \n<POŘÁDNÝ AMERIČAN>Ušetřili jste mě od zvedání z tohohle super pohodlného<br> gauče.\! Nejde slovně vyjádřit můj vděk.\! Nabídnětě si další plechovku \c[3]POMERANČOVÉHO JOEHA!\c[0]\! Zasloužíte si ji!
+
+#Remote 3
+
+message_16:
+      text: \n<POŘÁDNÝ AMERIČAN>Nazdar hoši!\! Jak se daří?\! Nechápu, jak je to možné, ale už zase jsem ztratil ten svůj \c[4]DÁLKOVÝ OVLADAČ\c[0]!
+
+message_17:
+      text: \n<POŘÁDNÝ AMERIČAN>Přísahám...\! že jsem s ním tentokrát nic nedělal, jenom jsem s ním usnul v ruce, a když jsem se vzbudil... byl pryč!\! Musí nám tady doma strašit...
+
+message_18:
+      text: \n<POŘÁDNÝ AMERIČAN>Pokud ho někde uvidíte, mohli byste ho sem přinést?\!<br>Díky moc, děcka!
+
+message_19:
+      text: V koláči vidíš zapečený \c[4]DÁLKOVÝ OVLADAČ\c[0].\! Vezmeš ho?
+
+message_20:
+      text: \n<POŘÁDNÝ AMERIČAN>Hele, tady je!
+
+message_21:
+      text: Podal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] AMERICKÉMU CHLÁPKOVI.
+
+message_22:
+      text: \n<POŘÁDNÝ AMERIČAN>Opět jste mě zachránily, děcka!\! A vy už asi víte, co to znamená...\! Tady máte další plechovku \c[3]LIMONÁDOVÉHO JOEHO!\c[0]
+
+message_23:
+      text: \n<POŘÁDNÝ AMERIČAN>Za těch posledních pár dnů jste byli fakt skvělí.\! Nevím, jak vám za to poděkovat!\! A kdybych ten \c[4]DÁLKOVÝ OVLADAČ\c[0] náhodou zase ztratil, tak aspoň vím, na koho se obrátit!
+
+message_30:
+      text: Pod pohovkou vidíš \c[4]DÁLKOVÝ OVLADAČ\c[0].
+
+message_31:
+      text: Mezi ručníky vidíš \c[4]DÁLKOVÝ OVLADAČ\c[0].
+
+message_32:
+      text: V koláči vidíš zapečený \c[4]DÁLKOVÝ OVLADAČ\c[0].
+
+message_33:
+      text: Pořád držíš \c[4]DÁLKOVÝ OVLADAČ\c[0].\!<br>Neměl bys s ním odcházet.
+
+message_50:
+      text: Získal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0].
+
+message_51:
+      text: Získal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0].\! Jak se sem sakra dostal?

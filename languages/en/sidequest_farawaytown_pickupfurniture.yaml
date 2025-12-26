@@ -1,0 +1,78 @@
+
+# =========================================================================================
+# Sidequest: Pick up Furniture
+# =========================================================================================
+
+#Talk to ELEGANTNÍ DÁMA
+message_1:
+      text: \n<ELEGANTNÍ DÁMA>Poslala jsem svého syna do \c[11]OPRAVSI\c[0] koupit novou lampu do obýváku, ale nějak mu to trvá..
+
+message_2:
+      text: \n<ELEGANTNÍ DÁMA>\Com[2]Ach!\!Tyhle věci mu vždycky trvají tak dlouho!\!<br>Kéž by mu někdo řekl, ať si pospíší...<br>\!Na tohle nemám celý den!
+
+#Talk to PODIVÍN / Cutscene: PODIVÍN Leaves
+
+message_3:
+      text: \n<PODIVÍN>Hmm...\! Jakou \c[4]STOJACÍ LAMPU\c[0] bych měl koupit?\!<br>Růžovou?\! Modrou?\! Bílou?\! Tuhle elegantní?\!<br>...
+
+message_4:
+      text: \n<PODIVÍN>Záleží na tom vůbec?\!<br>Stejně jsou za mě všechny \c[4]ODPAD\c[0]...
+
+message_5:
+      text: \n<PODIVÍN>Uff...\! Nesnáším rozhodování...\! Zachvilku mě asi trefí šlak...
+
+message_6:
+      text: \n<PODIVÍN>\Com[2]Cože?!\! A ty seš jako kdo?\! Co chceš?!\!<br>Aha...\! Že mě shání mamka?
+
+message_7:
+      text: \n<PODIVÍN>\Com[2]Vyřiď jí, ať počká!\!<br>Já jsem přece ten, co musel dojít přes celý město pro blbou \c[4]STOJACÍ LAMPU\c[0], která je mi úplně ukradená...
+
+message_8:
+      text: \n<PODIVÍN>Stejně...\! je tak vybíravá!\!<br>Proč si pro ní prostě nedojde sama?!
+
+message_9:
+      text: \n<PODIVÍN>Grr...\! To je hrůza...\!<br>Všechny tyhle \c[4]STOJACÍ LAMPY\c[0] jsou \c[4]ODPAD\c[0]!\! \Com[2]Seš \c[4]ODPAD\c[0], slyšíš!
+
+message_10:
+      text: \n<PODIVÍN>Ha...\! Ano...\! Už mi to všechno dává smysl...\!<br>Tenhle svět...\! \quake[1]Tenhle svět není nic víc, než \c[4]ODPAD!!!\c[0]!\quake[0]
+
+message_11:
+      text: \n<PODIVÍN>Hej, ty...\! Když moje matka tak nutně potřebuje lampu, co takhle ji vybrat za mě?!
+
+message_12:
+      text: \n<PODIVÍN>\Com[2]\{JÁ MÁM LEPŠÍ VĚCI NA PRÁCI!!!
+
+message_30:
+      text: PODIVÍN ti dal $50,00.
+
+message_31:
+      text: Těchle $50,00 bys měl utratit za \c[4]STOJACÍ LAMPU\c[0]...
+
+message_32:
+      text: \n<PRODAVAČ NÁŘADÍ>Hmm...\! tak ty bys chtěl \c[4]STOJACÍ LAMPU\c[0]?\! Ta by byla za $50,00.\! Pořád ji ještě chceš?
+
+message_33:
+      text: \n<PRODAVAČ NÁŘADÍ>Dík za kšeft, hochu.
+
+#Talk to ELEGANTNÍ DÁMA
+
+message_13:
+      text: Předáš ELEGANTNÍ DÁMĚ \c[4]STOJACÍ LAMPU\c[0]?
+
+message_14:
+      text: \n<ELEGANTNÍ DÁMA>Helemse! To je ale krásná \c[4]STOJACÍ LAMPA\c[0]!\!<br>Díky! Máte vytříbený vkus!
+
+message_15:
+      text: \n<ELEGANTNÍ DÁMA>Hmm...\! ale kde by tak mohl být můj synek BILLY?\!<br>Že by se zase naštval a utekl?...
+
+message_16:
+      text: \n<ELEGANTNÍ DÁMA>Uff...\! Je tak náladový...\!<br>Kéž by ze všeho vždycky nedělal takový teátr...
+
+message_17:
+      text: \n<ELEGANTNÍ DÁMA>Každopádně bych vám chtěla poděkovat za tu lampu.\! Klidně kdykoliv přijďte na návštěvu!\! Uvařím vám všem řádný šálek \c[5]KÁVY\c[0]!
+
+message_18:
+      text: Získal jsi \c[4]STOJACÍ LAMPU\c[0]!
+
+message_50:
+      text: Kávovar.

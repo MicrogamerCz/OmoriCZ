@@ -1,0 +1,404 @@
+# =========================================================================================
+# PLUTO ON THE RUN
+# =========================================================================================
+
+message_0:
+    text: \n<VESMÍRNÝ CÁPEK>\Com[2]\{STÁT!! ANI KROK!
+
+message_1:
+    text: \n<VESMÍRNÝ KÁMOŠ>A máme tě, PLUTO!<br>\{TEĎ UŽ NENÍ ÚNIKU!!
+
+#PLUTO runs into snaley and knocks him away
+
+message_2:
+    text: \who\}Ale ne...\! Mé obrovské, svalnaté ruce a nohy mě musely prozradit.
+
+message_52:
+    text: \whoTakovýto konec nesmím připustit.<br>Musím ihned najít skrýš!
+
+#PLUTO looks around in a panic and turns to party
+
+message_3:
+    text: \whoHej, vy tam!\} Hff... Hff...\!<br>Prosím...\! Pomožte mi!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herC-Cože? Ó... no... teda...\! err...
+
+message_5:
+    text: \who\{RYCHLE! UTÍKÁ MI ČAS!!
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelTak ty by ses potřeboval schovat...
+
+#HERO looks around
+#HERO faces away from pluto
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{A-HA! MÁM TO!!
+
+#HERO turns back to PLUTO
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelV klidu vydechni! Mám to pod kontrolou.
+
+# =========================================================================================
+# PLUTO IN HIDING
+# =========================================================================================
+
+#PLUTO is hiding in a crater with plant
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelDobrý, tohle by mělo stačit!
+
+#HERO looks up
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herSafra, už jdou!
+
+#HERO looks at party
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herRychle!... všichni jakoby nic!
+
+#PARTY members surround the crater looking up
+
+#SPACE PIRATES walk in
+
+message_10:
+    text: \n<VESMÍRNÝ KÁMOŠ>\}Hff... Hff...\! Safra! Ztratili jsme ho!
+
+#SPACE PIRATE turns to party
+
+message_11:
+    text: \n<VESMÍRNÝ CÁPEK>Hej, vy děcka! Hledáme velice proslulou a cennou planetu na útěku, jmenuje se PLUTO.\! Je velký, kulatý, takový šedý a má obří svaly.
+
+message_12:
+    text: \n<VESMÍRNÝ CÁPEK>Celkem těžké ho přehlídnout...\!<br>Neviděli jste ho?
+
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 0
+    text: \aubN-Noooo...
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelNéééee...
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herN-Ne? Nevybavuju si, že bychom se s ním někde potkali...
+
+message_16:
+    text: \n<VESMÍRNÝ CÁPEK>Vážně?\! ... ... ... \!No, takový je holt život!\!<br>Pojď, kámo. Jdeme dál.\!<br>Však ho jednou najdem!
+
+#SPACE PIRATES leave
+#KEL turns around
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\}Dobře, pane... Vzduch je čistý.\{
+
+#PLUTO pops out of crater, potted plant drops
+#PLUTO laugh
+
+message_18:
+    text: \who\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_19:
+    text: \whoSkvělé kritické myšlení! Máte můj obdiv!
+
+message_20:
+    text: \whoA také věčné díky.<br>Jak se jmenujete, můžu-li se zeptat?
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herJá jsem HERO, a tohle jsou mí kamarádi, KEL, AUBRY a OMORI.
+
+message_22:
+    text: \whoAha! Skvělé jména pro skvělé mladé lidi!
+
+message_23:
+    text: \pluMé jméno je PLUTO. Jsem planeta na útěku...\!<br>Tulák, dalo by se říct.\! Omlouvám se vám za<br>tenhle malý střet.
+
+message_24:
+    text: \pluVíte...\! Věřím, že mám v životě na víc, než na to, jen být ozdobou na něčím dvorku.
+
+#PLUTO turns up
+#Background below turns into space parallax
+
+message_25:
+    text: \pluToužím po svobodě létat po obloze, jak se mi zachce, tak jako ptáci a hvězdy!
+
+message_26:
+    text: \pluA pokud kvůli tomu musím žít jako tulák, tak budiž.<br>\!Ať mi říkají, jak se jim zachce,<br>dokud si můžu dělat já, co se mi zachce!
+
+#Background below turns to normal
+#PLUTO turns to party
+
+message_27:
+    text: \plu\Com[2]Má duše prahne po svobodě!\!<br>Rozumíte mi... viďte, děti?
+
+#HERO turns to KEL
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herC-Cože! Ty pláčeš, KELI??
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\}Fňuk... Takové syrové emoce...\! Jsem dotknut...<br>\!To byla nádhera, PLUTO...
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 5
+    text: \aub\}Fňuk... Fňuk...\! Co víc říct, KELI.
+
+#HERO turns to AUBREY
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herI ty, AUBRY??
+
+
+message_32:
+    text: \pluA teď...\!<br>Konečně můžu uskutečnit svůj životní sen...\!<br>založím si svůj vlastní dopravní podnik!
+
+message_33:
+    text: \pluBude se jmenovat "PLUTOVA OBĚŽNÁ DRÁHA"!
+
+#message 18
+
+message_34:
+    text: \pluTohle uvědomění mě přímo naplnilo!\!<br>A protože jste mi tak nezištně pomohli, musím vám to alespoň nějak odplatit!
+
+message_35:
+    text: \plu...\! Mhm!\! Od teď jsem PLUTO z "PLUTOVY OBĚŽNÉ DRÁHY".\!<br>Prosím dělejte, jakože jste právě přišli na zastávku.
+
+#PLUTO turns around
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herAha, jo, dobře!\! Tak teda...\! Dobrý den?\! PLUTO?
+
+#PLUTO shake
+#PLUTO turn to party
+
+#message18
+
+message_37:
+    text: \plu\Com[2]\quake[1]\{ZDRAVÍ VÁS \Com[2]PLUTOVA OBĚŽNÁ DRÁHA!!!\}
+
+message_38:
+    text: \plu\Com[2]\{KAM BYSTE SI \Com[2]PŘÁLI \Com[2]ODVÉST<br>DNES,\Com[2]MLADÍ \Com[2]CESTOVATELÉ??
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herÁááaa!
+
+message_40:
+    text: \pluPočkat, bylo tohle příliš?<br>\!Hm.\! Možná bych se měl trochu krotit...\!<br>Zkusme to znova!
+
+#PLUTO turns back
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herNe, to je v pohodě!<br>Rádi bychom do kempu, prosím!
+
+
+message_43:
+    text: \pluTakže do \c[11]JINOSFÉRSKÉHO\c[0] kempu?\!<br>...\! Ach, má první jízda...\! \sinv[1]jak vzrušující!
+
+#PLUTO turn facing away
+#PLUTO shake
+
+message_54:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \kel\}Ale ne... Držte se!...
+
+message_53:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+#PLUTO turn to party
+
+message_42:
+    text: \pluJedna jízda do \c[11]JINOSFÉRSKÉHO\c[0] kempu, už jdu na to!
+
+message_49:
+    text: \pluNezklamu vás, mladí cestovatelé!\!<br>Teď to nechte už jen na mně!
+
+
+# =========================================================================================
+# PLUTO - TAKE OFF
+# =========================================================================================
+
+message_44:
+    text: \pluDržíte se všichni?
+
+message_45:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelPočkat, ještě ne! Musím se chytnout!
+
+message_46:
+    text: \plu3...\! \{2...\! \{1...\! \Com[2]\{\sinv[1]LETÍME!!
+
+# =========================================================================================
+# FLEX
+# =========================================================================================
+
+message_128:
+    text: \pluJak byste ohodnotili vaši jízdu?
+
+message_129:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herPříjemné prostředí a klidná hudba.<br>Za mě pět z pěti hvězd!
+
+message_130:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel\}Hff... Hff...\! To se ti říká!\! Pomalu necítím ruce...
+
+message_131:
+    text: \pluKELI, musím říct... Dost se ti povedlo držet o život.
+
+message_132:
+    text: \pluVidím v tobě velkou sílu, jen se k ní musíš dostat!\! Naučím tě jednu \c[1]DOVEDNOST\c[0], která by ti brzy mohla přijít vhod.
+
+message_133:
+    text: \pluMhm...\! Opakuj po mně.
+
+message_134:
+    text: \plu\Com[2]\{\quake[1]KDYŽ \c[1]ZATNU\c[0] SLAVY, HNED PŘENÁŠÍM SKÁLY!!\}
+
+message_135:
+    text: \pluTeď si to zkus ty!
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]\{KDYŽ \c[1]ZATNU\c[0] SVALY,\} přenáším \}...
+
+message_137:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelSkály?
+
+message_138:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelTy brďo! To bylo úžasný! Cítím se, jako... nevím, Arnold!
+
+message_139:
+    text: \plu\}Hm...\! Ještě by se na tom jistě dalo zapracovat.\! Každopádně...\{
+
+message_140:
+    text: \pluV sobě tu sílu rozhodně máš!<br>\!Zapamatuj si mou lekci a dobře ji využij.
+
+message_141:
+    text: \pluSbohem, děti. Ještě se uvidíme!
+
+message_142:
+    text: KEL se naučil \c[1]ZATNOUT SVALY\c[0]!
+
+# =========================================================================================
+# AFTER SBF
+# =========================================================================================
+
+#message_60:
+#    text: \pluGreetings, children. I sensed you were in need of a ride, so I decided to wait here and \c[1]FLEX\c[0] in the meantime. How about it?
+
+#message_61:
+#    text: \pluExcellent! Hop aboard!
+
+# =========================================================================================
+# PLUTO'S RIDE
+# =========================================================================================
+
+message_47:
+    text: \pluVítejte v PLUTOVĚ FOFRLINCE!<br>Kam vás dnes vaše cesty zavedou?
+
+message_48:
+    text: \pluJasňačka.\! A teď... se usaďte, relaxujte a užijte si cestu.
+
+message_200:
+    text: \pluChcete tedy opravdu \v[1000]?
+
+message_210:
+    text: \pluNechtěli jste do \c[11]JINOSFÉRSKÉHO\c[0] kempu?\! Každopádně se usaďte, relaxujte a užijte si cestu.\! Tuhle platím já!
+
+#YES --> You got it (message 48)
+#NO --> Greetings and welcome... (message 47)
+
+# =========================================================================================
+# SNALEY
+# =========================================================================================
+
+message_100:
+  text: \n<ŠNEČEK>Krásné počasí, viďte?
+
+message_101:
+  text: \n<ŠNEČEK>Ach, panečku! \!Stojím vám v cestě?\!<br>Omlouvám se.\! Hned vám uhnu.
+
+# =========================================================================================
+# PLUTO DOCK
+# =========================================================================================
+
+#SFX DING DONG OR SOMETHING
+message_120:
+  text: Vítejte v PLUTOVĚ FOFRLINCE!<br><br>Přáli byste si počkat na PLUTA?
+
+#BEFORE CUTSCENE
+message_121:
+  text: Prázdná zastávka.
+
+# =========================================================================================
+# LOCATIONS
+# =========================================================================================
+
+message_160:
+  text: JINOSFÉRA
+
+message_161:
+  text: POMERANČOVÁ POUŠŤ
+
+message_162:
+  text: ROZLEHLÝ LES
+
+message_163:
+  text: LES SVĚTLUŠEK
+
+message_164:
+  text: HLUBOKÁ STUDNA
+
+message_165:
+  text: SNĚŽÍTKOVÝ VRCH
+
+#Missing
+message_170:
+  text: Čekal jsi na PLUTA...\! ale nikdo nepřišel.

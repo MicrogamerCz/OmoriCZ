@@ -1,0 +1,452 @@
+# =========================================================================================
+# ** ROKOKO INTRODUCTION
+# =========================================================================================
+#THE ARTIST ROKOKO:
+
+#After defeating Jawsum/Pluto in Last Resort, if you backtrack to Sweetheart's Castle - Fanmail Graveyard, you will notice a hole in the wall.
+
+#ROKOKO is an artist who is an elf.
+
+message_0:
+    text: \n<???>\sinv[1]Le údiv!\sinv[0]\! Ž-Že by...!?
+
+message_1:
+    text: \n<???>Ach, konečně...\! Návštěva...
+
+#*charm pose spinning*
+
+message_2:
+    text: \n<???>\sinv[2]Hyjohehyjohehyjohehyjo!
+
+message_3:
+    text: \n<???>Už jsem tak dlouho sám...\! připadá mi to jako věčnost...\! Avšak...\! konečně...\! mám... publikum!
+
+#*charm pose spinning*
+
+message_4:
+    text: \n<???>\sinv[2]Hyjohehyjohehyjohehyjo!
+
+message_5:
+    text: \n<???>Jistě se ptáte, kdo jsem...
+
+message_6:
+    text: \n<ROKOKO>Já...\! jsem veliký nadcházející umělec, ROKOKO!
+
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelHele, tenhle mi připadá...\! nějakej divnej.\! Pojďme raději pryč.
+
+#*ROKOKO runs to block exit*
+
+message_8:
+    text: \n<ROKOKO>\com[2]Počkejte, nechoďte!\! Prosím, vyslechněte si můj příběh!
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelPromiňte, omluvte...\! nás.
+
+message_10:
+    text: \n<ROKOKO>\{\com[2]\quake[1]PROSÍM, POSLECHNĚTE SI HO! VÍTE, JAK JSEM OSAMĚLÝ?!
+
+#*pause*
+
+message_11:
+    text: \n<ROKOKO>Tak...\! dobře.\! Ach, kde vůbec začít...?
+
+message_12:
+      text: \n<ROKOKO>Na počátku jsem byl já...\! plakající uprostřed vesmíru v únikovém modulu...\! A viděl jsem svou rodnou planetu vybouchnout před mýma očima.
+
+message_13:
+    text: \n<ROKOKO>Doteď to vidím, když zavřu oči...\!<br>Oheň...\| Jen oheň...\| všude...\| a pak tma.
+
+message_14:
+    text: \n<ROKOKO>Když jsem se vzbudil, ocitl jsem se uprostřed pouště...\! obklopen mořem hnědého cukru, o kterém jsem se později dozvěděl, že se jmenuje \c[11]POMERANČOVÁ POUŠŤ\c[0].
+
+message_15:
+    text: \n<ROKOKO>Už jako batole jsem věděl, že jsem poslední přeživší svého druhu...\! poslední elf v celém vesmíru.
+
+#*Party members gather and sit*
+
+message_16:
+    text: \n<ROKOKO>\"Tak tohle bude náš konec...", pomyslel jsem si.
+
+message_17:
+      text: \n<ROKOKO>Avšak...\! čirou náhodou mě našla jedna mladá \c[3]KOBLIHA\c[0] jménem ZLATÍČKO.\! Přivedla mě ke své rodině, kde se o mě starali jako o vlastního.
+
+message_18:
+    text: \n<ROKOKO>Já a ZLATÍČKO...\! My spolu vyrůstali.
+
+message_19:
+    text: \n<ROKOKO>Nebylo to lehké dětství.\! Často jsme se spolu prali, ale vždycky nakonec bylo všechno podle ní...\! A kdybych proti tomu měl jakékoliv námitky...\! Tak...\! ...
+
+message_20:
+    text: \n<ROKOKO>Každopádně jsem se tam naučil běhat!\! V čemž jsem teda poměrně dobrý...\!<br>Ale...\! běhat se taky dá jen, dokud je kam.
+
+message_21:
+    text: \n<ROKOKO>Inu, byly to těžké časy.\! Ale to vše, čím jsem si prošel, se mnou stejně neotřáslo.
+
+
+message_22:
+      text: \n<ROKOKO>Neboť už tehdy jsem věděl, že můj život má smysl.\! Na tuto planetu jsem byl poslán s jasným úkolem...\! a to sice obnovit svůj druh.
+
+#*pause*
+
+message_23:
+    text: \n<ROKOKO>Po tomhle uvědomění mám ve svých vzpomínkách trochu díru, takže poskočíme o pár let dál.
+
+message_24:
+    text: \n<ROKOKO>Jednoho dne...\! jsme se se ZLATÍČKEM do sebe vášnivě zamilovali, zasnoubili a přestěhovali do tohohle obrovského zámku!
+
+message_25:
+    text: \n<ROKOKO>Nešli jsme od sebe odtrhnout... opravdu jsme se měli hluboce rádi!\! V tu dobu jsem pro ni byl schopen všeho, a to fakt, že všeho!
+
+message_26:
+    text: \n<ROKOKO>Byl jsem připraven s ní strávit celý zbytek svého života...\! zestárnout s ní...\! a vychovat s ní stovky, ba dokonce tisíce dětí!
+
+message_27:
+      text: \n<ROKOKO>Hmm... Když nad tím teď přemýšlím, nejsem si jistý, jestli jsem jí to vůbec někdy naznačil.
+
+message_28:
+    text: \n<ROKOKO>Každopádně, zpět ke příběhu...
+
+message_29:
+    text: \n<ROKOKO>Jak jistě víte, všechno někdy končí...\! A čím známější se ZLATÍČKO stalo, tím méně jsme si rozuměli.
+
+message_30:
+    text: \n<ROKOKO>Začaly jí chodit dárky a milostné dopisy od nápadníků z celého vesmíru...\! a všichni toužili mít alespoň šanci jí vyznat svou lásku.
+
+
+message_31:
+    text: \n<ROKOKO>Jakožto její jediný opravdový milenec jsem se proti tomuhle svinstvu postavil... ovšem s ní to nehlo!
+
+message_32:
+      text: \n<ROKOKO>“ZLATÍČKO je pro všechny!”, říkávala...!
+
+message_33:
+    text: \n<ROKOKO>...
+
+message_34:
+    text: \n<ROKOKO>A tak ...\! mě jednou, víte, zrovna jsem spal...\! ...tak mě spolu se svými sluhy svázala a zazdila hluboko ve svém zámku.
+
+message_35:
+    text: \n<ROKOKO>A od toho dne tady bezcílně bloudím...\! jediné, z čeho tady žiju, je KAŠE a staré, prošlé \c[3]TOFU\c[0].
+
+
+message_37:
+      text: \n<ROKOKO>A pár let nato přichází současnost!
+
+message_38:
+    text: \n<ROKOKO>Ano...\! Vy čtyři jste první živé bytosti, které jsem kdy od toho odsudného dne spatřil.
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herAch, pane...\! To je velice...\| zarážející příběh.
+
+#ROKOKO shakes.
+
+message_40:
+    text: \n<ROKOKO>\sinv[1]Fňuk... Ach... ZLATÍČKO...\! Proč jsi mi to udělala?<br>\!Nebyl jsem pro tebe dost dobrý?
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubNo...\! To nás vážně mrzí...\! ale už asi půjdeme.
+
+#party gets up
+
+message_42:
+    text: \n<ROKOKO>\com[2]\quake[1]\{POČKEJTE, TO NENÍ VŠE!
+
+message_43:
+      text: \n<ROKOKO>Ještě jsem se pořád nedostal k tomu hlavnímu!
+
+message_44:
+    text: \n<ROKOKO>\sinv[1]Uff...\sinv[0]\! A za tu dobu, co jsem tady zavřený, jsem měl dost času nad sebou přemýšlet.
+
+message_45:
+    text: \n<ROKOKO>Ten svůj starý sen jsem již dávno zahodil...\!<br>I teď mi připadá nesmyslný a celkem nemožný...
+
+message_46:
+    text: \n<ROKOKO>A tak...\! jsem se rozhodl vše ostatní zahodit a stát se malířem!
+
+#ROKOKO walks to his canvas.
+
+message_47:
+    text: \n<ROKOKO>\sinv[1]Uff...\sinv[0]\! A protože teprve s uměním začínám, dám vám slevu.
+
+#*ROKOKO CHARM stay in pose*
+
+message_48:
+      text: \n<ROKOKO>Mé první mistrovské dílo...\! vás bude stát jen 1000 MUŠLÍ!
+
+#*stop pose*
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herNo...\! Co na to říkáte?\! 1000 MUŠLÍ je celkem pálka, nemyslíte?
+
+message_50:
+    text: \n<ROKOKO>\{\com[2]\quake[1]PROSÍM, NAJMĚTE SI MĚ!
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herHm...\! Zamyslíme se nad tím.
+
+message_52:
+    text: \n<ROKOKO>Ach! Ano, vskutku, samozřejmě! Já na vás nebudu tlačit!
+
+message_999:
+    text: \n<ROKOKO>Já se odsud nehnu, než se rozhodnete!
+
+message_53:
+    text: \$\n<ROKOKO>Mé první mistrovské dílo vás bude stát jen 1000 MUŠLÍ!\! Rozhodli jste se, že mi pomůžete s mou cestou sebepoznání?
+
+#[YES/NO]
+
+
+#[YES]
+#*chaching*
+
+message_54:
+    text: \n<ROKOKO>\{\{\sinv[1]LE NÁDHERA!!
+
+message_55:
+      text: \n<ROKOKO>Prosím, vraťte se za nějakou dobu - jen pokračujte ve svém dobrodružství!\!<br>Dokonalost koneckonců vyžaduje čas!
+
+#[NO]
+
+message_56:
+    text: \n<ROKOKO>Aha...\! To... nevadí...\! \sinv[1]Uff...\sinv[0]\!<br>Jsem si jistý...\! že někdo jiný si mého talentu bude vážit.
+
+#If you try to leave after not paying for COMMISSION:
+
+message_57:
+    text: \n<ROKOKO>\sinv[1]\com[2]\{PŘESTAŇTE MĚ NAPÍNAT!!
+
+#If you try to leave after paying for COMMISSION:
+
+message_58:
+    text: \n<ROKOKO>\sinv[1]\com[2]\{NEZKLAMU VÁS!!
+
+#Upon returning once painting is complete:
+
+message_59:
+    text: \n<ROKOKO>\sinv[1]Le údiv!\sinv[0]\! Tak jste se nakonec vrátili!
+
+message_60:
+      text: \n<ROKOKO> jít obdivovat mé nové dílo.\! Již jsem ho vyvěsil ve své galerii.
+
+#After checking out the painting:
+
+message_61:
+    text: \n<ROKOKO>Tak co? Jste spokojeni s mým mistrovským dílem?
+
+message_62:
+    text: \n<ROKOKO>A jen abyste věděli...\! S rostoucí kvalitou rostou i ceny!
+
+message_63:
+    text: \$\n<ROKOKO>A proto vás tohle mistrovské dílo bude stát \v[1000] MUŠLÍ!\! Budete mi nadále pomáhat s mou cestou sebepoznání?
+
+#After completing all paintings:
+
+message_64:
+    text: \n<ROKOKO>Děkuji, spolubytosti.\! Už jen díky těmhle pár zakázkám zaznamenávám veliké skoky ve své cestě sebepoznání.\! Jo, a taky jsem boháč.
+
+message_65:
+      text: \n<ROKOKO>Víc toho pro vás už nemůžu udělat!\! Cítím se opravdu cele!
+
+#How to Commission Art:
+#ROKOKO will make a total of 6 pieces for you.
+#To commission art from ROKOKO, just talk to him and pay him the amount he asks for. His price will increase with each piece you commission.
+#After you pay ROKOKO, the art will be ready as soon as you exit Sprout Mole Village.
+#When you come back, ROKOKO will tell you that your new art is done and hanging in the gallery. After you check the painting, you can talk to him again. He will ask if you want to commission him for his next piece.
+
+#1st piece: Kid's Drawing
+#Cost: 1000 CLAMS
+
+message_70:
+    text: \"BEZ NÁZVU\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_71:
+    text: \n<POZNÁMKA AUTORA>\"Hele, teprv začínám, jo?.\"
+
+#2nd piece: Gesture (WIP)
+#Cost: 5000 CLAMS
+message_72:
+    text: \"LIDÉ S OVOCEM\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_73:
+    text: \n<POZNÁMKA AUTORA>"Hleďte na můj pokrok!\! Ovšem stále jde znát, že jsem teprve učeň.\! Pro své příští dílo bych se měl zbavit tohohle nováčkovského nádechu."
+
+#3rd piece: Cubist
+#Cost: 10000 CLAMS
+message_74:
+    text: \"LA FIESTA DE CUATRO\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_75:
+    text: \n<POZNÁMKA AUTORA>"Jak pravil každý veliký umělec... realismus je nuda!\! Tohle je zatím můj nejexpresivnější obraz!\! Cítíte v něm mou sebeexpresi?"
+
+#4th piece: Manga Cover (WIP)
+#Cost: 15000 CLAMS
+
+message_76:
+    text: \"OMORIHO PODIVNÉ ESKAPÁDY\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_77:
+    text: \n<POZNÁMKA AUTORA>"Co?! Že jste překvapeni?\! Jak to? To snad nemůžu měnit styly?!"
+
+#5th piece: Renaissance (WIP)
+#Cost: 25000 CLAMS
+
+message_78:
+    text: \"POSLEDNÍ ZJEVENÍ\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_79:
+    text: \n<POZNÁMKA AUTORA>"Řeknu vám to na rovinu.\! I přes to, jak mi tenhle obraz dal zabrat si pořád myslím, že je celkem průměrný.\! Další bude lepší!"
+
+#6th piece: Pixel Art (WIP)
+#Cost: 50000 CLAMS
+
+message_80:
+    text: \"OMORI, AUBRY, KEL A HERO\"<br>\!- Autor - Veliký umělec, ROKOKO
+
+message_81:
+    text: \n<POZNÁMKA AUTORA>"S tímto dílem nabývá mé umělectví kompletně jiných rozměrů.\! Konečně jsem vás zachytil v morku vaší skutečnosti.\! Víc toho pro vás už nemůžu udělat."
+
+
+#NOT HAVING ENOUGH CLAMS
+
+message_1000:
+    text: \n<ROKOKO>Ach...\! Vidím, že vám schází nějaké ty MUŠLE.\! Omlouvám se, ale mé ceny jsou pevné...\! a pracovat zadarmo odmítám!
+
+#THE SCULPTOR KROKOĎÁK:
+#In the construction area in LAST RESORT above MARI's picnic, there will be a sculptor working on a HERO statue. He will remain here until Epilogue after Hero becomes boss of Last Resort.
+
+#Before HERO is in party:
+message_90:
+      text: \n<KROKOĎÁK>Fuj...\! Za chvíli bych měl dokončit tuhle poctu našemu zaměstnanci století.<br><br>Jen se na to koukněte, já a sochy...\! Já bych to do sebe nikdy neřekl, ale šéf mi vždycky věřil!
+
+#After HERO is in party:
+message_91:
+    text: \n<KROKOĎÁK>Ahoj, HERO! Dle šéfova rozkazu dokončuju tuhle tvoji sochu.\! Za mě vypadá taky celkem dobře, smím-li poznamenat...
+
+#After Hero becomes the boss, the KROKOĎÁK will move to his work station.
+#Since Hero is the boss, the KROKOĎÁK will offer to make a statue of OMORI, AUBREY or KEL (since Hero will already be completed.)
+
+message_92:
+    text: \n<KROKOĎÁK>Zdravím, nový šéfe!\! Já vždy říkal, že jste pro něho ten nejlepší nástupce.\! Snad vám tahle práce vyhovuje.
+
+message_93:
+    text: \n<KROKOĎÁK>Víte... vy čtyři mi připadáte jako nerozdělitelná parta, zatímco tahle socha je pořád taková osamělá...
+
+message_94:
+    text: \n<KROKOĎÁK>Kdybyste chtěl, abych vás tady udělal všechny, nemám s tím problém...\! Ale nezapomeňte, že jsem koneckonců jen obyčejný sochař, ne takový zvíře, jako vy.
+
+message_95:
+      text: \n<KROKOĎÁK>I přesto bych vám ale rád vyhověl, šéfe.\! Pořád by to něco stáhlo, zvlášť materiál...\! řekl bych tak 3000 MUŠLÍ na jednu sochu.
+
+message_96:
+    text: \n<KROKOĎÁK>Chtěl byste tedy, abych udělal sochu jednoho z vás?
+
+#[YES/NO]
+message_97:
+    text: \n<KROKOĎÁK>Komu byste chtěl udělat sochu?
+
+#[OMORI/AUBREY/KEL]
+#
+message_98:
+    text: \n<KROKOĎÁK>Jasný, šéfe!\! Zatím si běžte řešit svoje a za nějakou dobu se vraťte!\! Nemělo by to trvat zas tak dlouho, šéfe.
+
+#[NO/NEVERMIND]
+
+message_99:
+      text: \n<KROKOĎÁK>Nevadí! Jak chcete, šéfe...\! ale smím li podotknout, podle mě by se k týhle soše hodil parťák.
+
+message_1002:
+      text: \n<KROKOĎÁK>Nevadí...\! Jak chcete, šéfe...
+
+#Once you pay for your statue, it will be completed as soon as you exit the Last Resort building to Last Resort Entrance.
+
+#After you come back when the statue is complete:
+message_100:
+    text: \n<KROKOĎÁK>Co na to říkáte, šéfe?\! Ta vaše socha hned vypadá o něco méně osaměle.
+message_101:
+    text: \n<KROKOĎÁK>Chtěl byste ještě jednu?\!<br>Stála by vás dalších 3000 MUŠLÍ.
+
+#After OMORI, AUBREY, and KEL statues are complete:
+
+message_102:
+      text: \n<KROKOĎÁK>Co na to říkáte, šéfe?\! Ta vaše socha hned vypadá o něco méně osaměle.
+
+message_103:
+    text: \n<KROKOĎÁK>Víte... mluvil jsem s vašimi kamarády na pikniku, a řekl bych, že by si tohle místo vedle vás všichni jistě zasloužili!
+
+message_104:
+    text: \n<KROKOĎÁK>Chtěl byste teda postavit další?\!<br>Stála by vás 3000 MUŠLÍ.
+
+message_105:
+      text: \n<KROKOĎÁK>Komu byste chtěl udělat sochu?
+#[MARI/BASIL]
+
+#After completing MARI/BASIL statues:
+message_106:
+    text: \n<KROKOĎÁK>Co na to říkáte, šéfe?\! Ta vaše socha hned vypadá o něco méně osaměle.
+
+#*KROKOĎÁK looks at statues*
+
+message_107:
+    text: \n<KROKOĎÁK>Safra... A teď se pro změnu cítím osaměle já...\! Snad toho po vás nechci moc, když se na tohle ptám... ale nemohl bych se k té vaší partě soch taky přidat, šéfe?
+
+#After completing KROKOĎÁK statue:
+
+message_108:
+      text: \n<KROKOĎÁK>Tak, a je to.\! Celá parta je konečně hotová!
+
+#*KROKOĎÁK looks at statues*
+
+message_109:
+      text: \n<KROKOĎÁK>Nic se nevyrovná pohledu na všechny ty vaše obličeje vedle sebe.
+
+message_110:
+    text: \n<KROKOĎÁK>A dík, že jste mi dovolil se k vám přidat, i když jen na téhle soše.\! Vás šest je fakt něco.
+
+message_111:
+    text: \n<KROKOĎÁK>Tady máté mé číslo, šéfe.\! Kdybyste někdy potřeboval pomoct, stačí zavolat.
+
+message_112:
+    text: HERO se naučil DOVEDNOST \c[1]KROKOPOMOC\c[0]!
+#Skill Get common event
+
+#not enough CLAMS
+
+message_1001:
+    text: \n<KROKOĎÁK>Trochu vám schází mušle, šéfe!\! Ale to nevadí, já si klidně počkám.\! Vám ale asi nebude dělat problém vydělat.
+
+#Statues
+
+message_1010:
+    text: Strhující socha tebe.\!<br>Připadá ti divné, vidět svůj obličej v takovéhle velikosti.
+
+message_1011:
+    text: Strhující socha AUBRY.\!<br>Cítíš, jak její radostná nálada rozzařuje okolí.
+
+message_1012:
+    text: Strhující socha KELA.\!<br>Dokonale vyjadřuje jeho osobnost.
+
+message_1013:
+    text: Strhující socha HERA.\! Ty jo...
+
+message_1014:
+    text: Strhující socha MARI.\!<br>Nikdy si nejsi jistý, co se skrývá za tím jejím lišáckým úsměvem...
+
+message_1015:
+    text: Strhující socha BASILA.\!<br>Dokonce i na soše se nedokáže pustit svého foťáku.
+
+message_1016:
+    text: Strhující socha KROKOĎÁKA.\!<br>To je ale fešák...

@@ -1,0 +1,61 @@
+
+# =========================================================================================
+# RABBIT KILLER
+# ========================================================================================
+
+message_1:
+      text: \n<LÍSTEČEK>Víte, co z celého srdce nesnáším?\!<br>\quake[1]Zajíčky.\quake[0]\! Přesně tak.\! \quake[1]ZAJÍČKY.\quake[0]
+
+message_2:
+      text: \n<LÍSTEČEK>Já je prostě tak nesnáším...\!<br>Kdybych si mohl přát cokoliv, <br>přál bych si zneškodnit všechny \quake[1]ZAJÍČKY na SVĚTĚ.\quake[0]
+
+#If you killed at least 1 bunny
+
+message_3:
+      text: \n<LÍSTEČEK>Hej, ty vypadáš, žes už s nějakým tím \quake[1]zajíčkem\quake[0] zatočil.\!<br>Ano, opravdu jen pohledem dokážu zjistit přesně kolik \quake[1]zajíčků\quake[0] jsi kdy zneškodnil.
+
+message_4:
+      text: \n<LÍSTEČEK>Až tak ty \quake[1]zajíčky\quake[0] nesnáším.
+
+message_5:
+      text: \n<LÍSTEČEK>Víš co?...\! Měl bych pro tebe takovou nabídku.\!<br>Kdybys zabil ještě pět \quake[1]králíčků,\quake[0] zajdi zpátky sem a ohlaš se...\! Něco pěkného ti dám.
+
+message_6:
+      text: \n<LÍSTEČEK>Teď běž a zdecimuj ty zatracený \quake[1]zajíčky!\quake[0]
+
+#MEETING GOALS
+
+#Set variable for number of bunnies defeated and the next count
+
+message_7:
+      text: \n<LÍSTEČEK>\Com[2]Výborně!\! Koukám, že ses postaral o více  \quake[1]zajíčků.\quake[0]\!<br>Teď už jich máš na kontě přesně \v[615]!\!<br>Děkuji moc, můj bratře v nesnášení zajíčků.
+
+message_8:
+      text: \n<LÍSTEČEK>No...\! kdybys jich zabil ještě \v[1001],<br>něco bych pro tebe měl...
+
+#DEFAULT TEXT:
+
+message_9:
+      text: \n<LÍSTEČEK>Ahoj, spolubratře v nesnášení zajíčků!\!<br>Z očích ti vyčtu, žes už zabil \v[615] \quake[1]zajíčků\quake[0].
+
+message_10:
+      text: \n<LÍSTEČEK>Musíš jich zneškodnit ještě \v[1001], jestli chceš další odměnu.\!<br>Tak se koukej pustit do dalších \quake[1]zajíčků!\quake[0]
+
+#PRIZES: COTTON BALL, BUNNY EARS, RABBIT FOOT, CONSUMABLES
+
+message_11:
+      text: Získal jsi \c[13]VATU\c[0].
+
+message_12:
+      text: Získal jsi \c[13]ZAJÍČČÍ UŠI\c[0].
+
+message_13:
+      text: Získal jsi a \c[13]ZAJÍČČÍ NOHU\c[0].
+
+#After defeating 50 bunnies
+
+message_15:
+      text: \n<LÍSTEČEK>\Com[2]Skvěle!\! Jak je tady bez těch zajíčků krásně!
+
+message_16:
+      text: \n<LÍSTEČEK>A teď se koukej pustit do dalších \quake[1]zajíčků!\quake[0]

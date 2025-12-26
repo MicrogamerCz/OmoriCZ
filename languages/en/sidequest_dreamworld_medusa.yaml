@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Slimegirls: Medusa's Body
+# ========================================================================================
+
+#Talk to Medusa:
+
+message_1:
+      text: \n<MEDŮZA>Zdravím, panenky~\!<br>Jsem překvapena, že jste pořád celí.\!<br>Jak vzrušující!
+
+message_2:
+      text: \n<MEDŮZA>Jak vidíte, nemůžu sebou moc hýbat, a proto bych na vás měla takovou prosbu.\! Lítá mi tady taková divná kreatůra, říkají ji SOPLOVÁ BUBLINA.
+
+message_3:
+      text: \n<MEDŮZA>Kdybyste z ní získaly nějaké ty \c[4]SOPLE\c[0], mohla bych si z nich zrekonstruovat mé tělo.\!<br>To by vám nemělo dělat problém... viďte, panenky?
+
+#Talk to Medusa with SNOT / Cutscene: Medusa's Body Forms
+
+#FADE IN FADE OUT WITH SFX
+
+message_9:
+      text: \n<MEDŮZA>Panečku!\! Vždyť s tolika \c[4]SOPLY\c[0] bych tady mohla vytapetovat!
+
+message_4:
+      text: \n<MEDŮZA>\sinv[1]Mmmmmmm...\! Skvěle...\!\sinv[0] Oh~!\!<br>Cítím se zase ve své krásné kůži...\!<br>i když zaznamenávám pár...\! drobných...\! změn~\! \sinv[1]Kukuku~\sinv[0]
+
+message_5:
+      text: \n<MEDŮZA>Na, tohle si vemte za vaši snahu.
+
+message_6:
+      text: Získal jsi \c[5]ZÁHADNÝ LEKTVAR\c[0].
+
+message_7:
+      text: \n<MEDŮZA>Jen si lokni, panenko!\!<br>Účinky by měli být ryze...\! zábavné...\! \sinv[1]Kukuku~\sinv[0]
+
+#QUEST complete
+
+#After-Quest Dialogue:
+
+message_8:
+      text: \n<MEDŮZA>Už sis lokl toho \c[5]ZÁHADNÉHO LEKTVARU\c[0]?\!<br>Jen si dej...\! \sinv[1]Kukuku~\sinv[0]

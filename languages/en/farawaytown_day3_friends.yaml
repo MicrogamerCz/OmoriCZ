@@ -1,0 +1,458 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 3 - Friends
+#=========================================================================================
+
+
+#=========================Vending Machine==============================
+#DAY 3: WALKING IN FROM PLAZA TO PARK AFTER GETTING AUBREY
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubVydržte chvilku, chci si koupit pití.\!<br>...\! Hmm...\! Ne...\! Ne...\! Tohle fakt ne...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelCože!\! Tak ty máš žízeň, ale opovrhuješ starým dobrým \c[3]POMERANČOVÝM JOEM\c[0]?\! Jak bys mohla!? #rod
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubFuj! Ty ho ještě piješ?!\! Vždyť je tak přeslazený...\! chutná, jako by byl pro mimina!
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \kelJo? Kdyby byl opravdu pro mimina, myslíš, že by v něm bylo...\! 150mg kofeinu na plechovku!?\! Ha... Zkus si o tom přístě něco zjistit, AUBRY!
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubTs... No a!\! Každý ví, že \c[3]POMERANČOVÝ JOE\c[0] chutná otřesně.\! Nedivila bych se, kdybys byl ten poslední člověk, co tu srajdu pije. #srajda
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kelTak teď už je to osobní!\! Jak si dovoluješ urážet mého drahého přítele \c[3]POMERANČOVÉHO JOEHO\c[0]?!\! Kdys ho vůbec naposledy pila?!\! Uff... Však já ti ukážu!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \aubKELI!\! C-Co to děláš?!
+
+#*KEL pushes AUBREY aside and presses the \c[3]ORANGE JOE\c[0] button*
+#“A can of \c[3]ORANGE JOE\c[0] fell from the VENDING MACHINE.”
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \aub...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHele...\! Podle designu bych tipl, že je tahle plechovka aspoň 5 let stará...\! a... je...\! prošlá...
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubVšak jsem ti to říkala...\! Tenhle blaf si nikdo už nekupuje...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJen nezoufej, můj drahý příteli \c[3]POMERANČOVÝ JOE\c[0]...\! Já tě vypiju, ať už je s tebou cokoliv!
+
+message_12:
+      text: gloglogloglo
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kel\sinv[1]Mmmmmmmmm...\! Vynikající...\sinv[0]
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubTy seš ale...\! hnusnej...
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelHa ha...
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubA dlužíš mi kačku! #křížová výprava proti dolaru
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJo, jo...\! Pak ti ji vrátím!
+
+#=========================MARIS GRAVE ==================================
+
+#Day 3: After visiting Mari's Grave with flowers with Aubrey/Kel/Hero
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubAhoj, MARI...\! To jsem zase já.\! Dneska tady se mnou jsou i SUNNY, KEL a HERO.
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNavštěvuješ MARIN hrob často, AUBRY?
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubJo... Snažím se, i když to ne vždycky vyjde.\!<br>Vy k němu ale taky čas od času chodíte... ne? #vypouštím "snad"
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelNo, občas.\!<br>Ale možná bych k němu měl fakt chodit častěji...
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelA co ty, HERO?\! Jak ti je?
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \her... Jsem v pohodě.\! Jsem rád, že jsme se tady u ní všichni sešli. #k na u
+
+#HERO WALKS TO MARI'S Grave
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herAhoj, MARI...\! Promiň, že jsem k tobě ještě nepřišel.\!<br>Bylo to ode mě celkem sobecké...
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herUž je to tak dávno, ale stejně mi chybíš víc, než kdy jindy.\!<br>Já...\! Promiň, že jsem tam pro tebe nebyl.
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herVážně...\! mě to mrzí...
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubHERO...\! Nebuď na sebe tak tvrdý.
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelJo... A kdybys nás potřeboval, jsme tady pro tebe.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHa...\! Díky...\! Nedělejte si se mnou ale starosti, jo?
+
+message_40:
+      text: Chtěl by sis užít piknik s MARI?
+
+#Turns into Breaktime with picnic at Mari's Grave
+
+
+#=========================After Secret Lake Break time ==================================
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHej, AUBRY!
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubCo chceš, KELI?
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVíš...\! My se spolu hádáme snad furt, nemslíš?
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubJo, to teda... #přiroz
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelAle i přesto jsme kamarádi, ne?
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubJo...\! Asi jsme, no...
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelHm... Není to trochu divný?
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubMožná...\! Nevím...
+
+message_58:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHe he...\! Ale, vy dva...\! To jenom vypovídá o tom, že jste si opravdu blízcí. #he he mi zní přivětivěji
+
+message_59:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herZávidím vám, že oba dokážete být takhle upřímní.\! To je za mě opravdu výjimečné.
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelFakt?\! Zrovna jsem chtěl říct, že mi to přijde dost otravné...
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \aub...\! Uff...\! ty seš takovej blbec.
+
+
+#=========================DAY 2: GO TO KEL AND HERO'S ROOM DAY 2 AFTER CUTSCENE: CONVINCING KEL'S MOM==================================
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelJe čas si ověřit, kdo z nás je doopravdy ten vyšší brácha!
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herUž zase, KELI?\! Čekal jsem, že už bys s tímhle dal pokoj! # by sis na bys
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kelAle no tak, HERO!\! Záda k sobě, jako vždycky!
+
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelTakže SUNNY...\! Kdo z nás dvou je vyšší?
+
+#Choice Kel / HERO
+
+#IF Kel
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHahaha! Tak už jsem konečně ten vyšší! #přiroz
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelTy jo...\! Cítím se, jako by můj život byl hotový...\! A přitom tak prázdný...
+
+message_86:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herAsi ses holt fakt vytáhl, zatímco jsem byl pryč.\!<br>Jen škoda, že se to nepovedlo i tvým známkám...  #blíže orig
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: \kelTy sem netahej, HERO!\! Známky nejsou všecko!
+
+message_88:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHa, ha... víš, že to nemyslím vážně...\! Však si o tobě stejně myslím, že jsi chytrý, KELI!\! Chytrý ve svém vlastním slova smyslu... #tak to tak vypadá, že proti slovnímu spojení "dělám si z tebe srandu" taky vedu křížovou výpravu
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHaha! Moje řeč! #priroz
+
+#If you pick Hero instead
+
+message_90:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herÁáaa, promiň KELI.\! Tak snad příští rok...
+
+message_91:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelKámo...\! Já si byl tak jistý, že letos už se mi to povede... #blíže orig
+
+message_92:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herBeztak za to může všechen ten \c[3]POMERANČOVÝ JOE\c[0] v tvojem těle!\! To ti nikdo neřekl, že kofein brzdí růst?
+
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelAle, neshazuj to na něj!\! Stejně ho vyrovnávám mlíkem!
+
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kelI když mlíko teda ze srdce nenávidím.\! Možná bych je ale někdy mohl smíchat a prostě pít takhle...
+
+message_95:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNo, jen počkej...\! Příští rok, HERO!\!<br>Příští rok to přijde! Já to cítím!
+
+message_96:
+      text: KEL
+
+message_97:
+      text: HERO
+
+
+
+#=========================DAY 1: GO TO KEL AND HERO'S ROOM DAY 2 AFTER CUTSCENE: CONVINCING KEL'S MOM==================================
+
+
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelHej, SUNNY... Zrovna jsem si na něco vzpomněl.
+
+message_111:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelPamatuješ, jak jsme jako malí v noci vylézali z baráku a chodil do \c[11]HOBBEEZ\c[0]?
+
+message_112:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelVždycky se nám potom nechtělo z postele, a MARI s HEREM se nás pořád ptali, proč jsme tak utahaní.
+
+message_113:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelUrčitě něco tušili, ale řekl bych, že našim rodičům nic neřekli...
+
+message_114:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelUž tehdy jsme byli celkem dobrodruzi, nemyslíš? Haha...
+
+#wait time 40 frame
+
+message_115:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelKaždopádně bychom už měli dodělat ten nákup...\! Vždyť na něj mamka čeká celý den!
+
+
+#=========================DAY 3 AFTERNOON: PLAYER AND AUBREY ON THE SWINGS==================================
+
+message_130:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubSUNNY...\! Promiň, že jsem na tebe byla tak hnusná
+
+message_131:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubAsi ve mně prostě hrklo, když jsem tě po tom všem zase viděla...\! což uznávám, že je asi celkem blbá výmluva.
+
+message_132:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubDoufám, že jsi jinak ale v pohodě a tak...\! Určitěs to taky měl těžké.
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubObčas si myslím, že jsem tam pro tebe v tu chvíli měla být já.
+
+message_137:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubA nevím, jestli se vůbec někdy všichni přes tu MARINU smrt dostaneme...\! ale za mě bychom s tím neměli spěchat.
+
+message_138:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubNeměli bychom skrývat své city...\! a rozhodně bychom taky měli být trpěliví.
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubKaždopádně, jsem ti chtěla říct...\! že si tě pořád vážím a tak.
+
+message_135:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubPřemýšlela jsem nad tím hned, co jsem tě viděla, a... jsi nějaký bledý...\! a celkem vyhublý.
+
+message_136:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubSlib mi, že budeš chodit víc ven, až se přestěhuješ, jo?
+
+#=========================DAY 3 DAY: PINWHEEL==================================
+
+message_140:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herHele! Pamatujete si ještě tohle místo?\! Tady někde jsme tě potkali, AUBRY.
+
+message_141:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubJ-Jo, co s ním?
+
+message_142:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelJo, já si na to vzpomínám!\! Brečela jsi tady na tomhle chodníku, protože jsi ztratila botu.
+
+message_143:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kel\sinv[1]Ach... Malá roztomilá AUBRY s její růžovou mašličkou!\!<br>Skoro, jako by to bylo včera...
+
+message_144:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubTs! Tak já ti připadala roztomilá, jo?
+
+message_145:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: \aubTak to je proč jsi do mě furt rýpal!
+
+message_146:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelC-Cože? Jak tě to prosímtě napadlo?
+
+message_147:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]Já do tebe přece nikdy nerýpal!
+
+message_148:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: \aubNo jasně...\! To určitě, KELI.

@@ -1,0 +1,1606 @@
+#=========================================================================================
+# Messages to be replaced
+#=========================================================================================
+
+
+#=========================Location: x==============================
+#== x scene is happening
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubPočkejte chvilku, hoši. Mám celkem žízeň.<br>\!Hmm...\! Jakou bych si měla koupit?
+
+#=========================Location: Kims mom in front of house==============================
+#== Missing shears sidequest
+
+message_20:
+      text: Podal jsi PANÍ S ČERVENÝMA BRÝLEMA \c[4]\c[4]ZAHRADNICKÉ NŮŽKY\c[0]\c[0].
+
+#=========================Location: Cris house==============================
+#== Wheres the remote sidequest
+
+message_30:
+      text: Pod gaučem vidíš \c[4]OVLADAČ OD TELVIZE\c[0].\! Rozhodl ses, že ho tam prozatím necháš.
+
+message_31:
+      text: Mezi ručníky vidíš \c[4]OVLADAČ OD TELVIZE\c[0].\! Rozhodl ses, že ho tam prozatím necháš.
+
+message_32:
+      text: V koláči vidíš \c[4]OVLADAČ OD TELVIZE\c[0].\! ...\! Rozhodl ses, že ho tam prozatím necháš.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHele, ty u sebe máš náš \c[4]OVLADAČ OD TELVIZE\c[0], SUNNY?\!<br>Krást se nemá, víš?
+
+#=========================Location: Fixit==============================
+#== Pick up furniture sidequest
+
+message_40:
+      text: PODIVÍN ti dal $50.00 na \c[4]STOJACÍ LAMPU\c[0].
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Počkej, SUNNY! Nemůžeme prostě odejít s tolika penězma!\! Nejdřív musíme koupit tu \c[4]STOJACÍ LAMPU\c[0]!
+
+message_42:
+      text: \n<PRODAVAČ NÁŘADÍ>Tak vy byste si chtěli koupit \c[4]STOJACÍ LAMPU\c[0], děcka?\! Tak tamta, na kterou se díváte stojí asi...\! tak...\! $50.00.\! Chcete ji, nebo ne?
+
+message_43:
+      text: \n<PRODAVAČ NÁŘADÍ>Super, tady máte vaši zbrusu novou \c[4]STOJACÍ LAMPU\c[0].\!<br>Ale žádný výměny ani vrácení, jo?\! Firemní pravidla.
+
+#=========================Location: Orange Guy in front of OTHERMART=============================
+#== Fruitwarbrayden
+
+#If you are wearing a red headband
+message_51:
+      text: \n<CHLÁPEK S POMERANČEMA>Inu!\! Vidím správně...\! \c[13]ČERVENOU ČELENKU\c[0]...\! Odmítám ti cokoliv prodat, dokud si ji nesundáš!
+
+#After buying 5 Orange juices
+message_52:
+      text: \n<CHLÁPEK S POMERANČEMA>Počkej! Než odejdeš, měl bych pro tebe dárek za to, jaký jsi věrný zákazník!\! A to sice \c[13]ORANŽOVOU ČELENKU\c[0], v barvě pomerančů!\! Co víc si přát?!
+
+#If HERO is wearing a red headband
+message_53:
+      text: \n<CHLÁPEK S POMERANČEMA>Vidím, že jeden z tvých kamarádů nosí \c[13]ČERVENOU ČELENKU\c[0]...\! I když jim běžně neholduju, musím říct, že mu celkem sluší.\! Teď mu to odpustím, ale víckrát už ne!
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herTy jo! Díky!
+
+#Receive orange headband
+message_55:
+      text: Získal jsi \c[13]ORANŽOVOU ČELENKU\c[0]!
+
+#=========================Location: Apple Guy in the park=============================
+#== Fruitwaradrian
+
+#While wearing an Orange Headband
+message_60:
+      text: \n<CHLÁPEK S JABLKAMA>Inu!\! Vidím správně...\! \c[13]ORANŽOVOU ČELENKU\c[0]...\! Odmítám ti cokoliv prodat, dokud si ji nesundáš!
+
+#After buying 5 Apple juices
+message_61:
+      text: \n<CHLÁPEK S JABLKAMA>Počkej! Než odejdeš, měl bych pro tebe dárek za to, jaký jsi věrný zákazník!\! A to sice \c[13]ČERVENOU ČELENKU\c[0], v barvě jablek!\! Jen se za ni nestyď!
+
+#If HERO is wearing an orange headband
+message_62:
+      text: \n<CHLÁPEK S JABLKAMA>Vidím, že jeden z tvých kamarádů nosí \c[13]ORANŽOVOU ČELENKU\c[0]...\! I když jim běžně neholduju, musím říct, že mu celkem sluší.\! Teď mu to odpustím, ale víckrát už ne!
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herTy jo! Díky!
+
+#Receive Red Headband
+message_64:
+      text: Získal jsi \c[13]ČERVENOU ČELENKU\c[0]!
+
+#=========================Location:Vances house =============================
+#== Fix pipe
+
+#Day 1 reward
+message_70:
+      text: \n<CHLAPÍK>Tady máte doláč, děcka.\! Kupte si nějaký \c[3]BONBÓNY\c[0] nebo tak něco.
+
+#Day 2 reward
+message_71:
+      text: Po pohledu do této díry lidského tvaru...\! jsi našel \c[4]MUŠLI\c[0]!
+
+#If pipe is completely fixed
+message_72:
+      text: \n<CHLAPÍK>Dík, že jste mě podpořili v těchto těžkých časech.\! Kéž bych se vám mohl nějak odvděčit...\!<br><br>A! Mám nápad! Vemte si tohle \c[4]CDčko\c[0], které jsem nedávno našel!<br>\! To by mělo stačit!
+
+message_73:
+      text: \n<CHLAPÍK>\sinv[1]Grr, grr...
+
+message_74:
+      text: Podíváš se do díry lidského tvaru...
+
+#=========================Location: Jesses house=============================
+#== Birthday gift 2
+
+#Talk to Jesses dad before you talk to Jesse
+message_80:
+      text: \n<VRÁSKA>Můj synek má dnes narozeniny!\! ...\! Kéž bych ho mohl dostat ven z pokoje a slavit s ním!
+
+message_81:
+      text: \n<VRÁSKA>Uff...\! Vždyť jsem mu dokonce koupil \c[3]DORT\c[0]...
+
+#Talk to Jesses dad after you talk to Jesse
+message_82:
+      text: Získal jsi \c[3]DORT\c[0]!
+
+#=========================Location: Candy store=============================
+#== Anniversary chocolate
+
+
+message_90:
+      text: \n<NEŠIKA>Na! Vemte si nějaké ty \c[3]BONBÓNY\c[0] za vaši pomoc!\! Ženě určitě nebude vadit, když se s váma podělím!
+
+message_91:
+      text: \n<NEŠIKA>Na! Vemte si nějaké ty \c[3]KARAMELOVÉ JABLKA\c[0] za vaši pomoc!\! Ženě určitě nebude vadit, když se s váma podělím!
+
+message_92:
+      text: \n<NEŠIKA>Na! Vemte si nějakou ty \c[3]ČOKOLÁDU\c[0] za vaši pomoc!\! Ženě určitě nebude vadit, když se s váma podělím!
+
+message_93:
+      text: Co je podle tebe nejlepší dárek k výročí?
+
+message_94:
+      text: \c[3]ČOKOLÁDA\c[0]
+
+message_95:
+      text: \c[3]BONBÓNY\c[0]
+
+message_96:
+      text: \c[3]KARAMELOVÉ JABLKA\c[0]
+
+
+#=========================Location: General=============================
+#== Kels blocking you when you need to go elsewhere
+
+message_100:
+      text: Zde nic není.
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPočkat, tamtudy se nejde do \c[11]HOBBEEZ\c[0]!\!<br>Ty si fakt nevzpomínáš, SUNNY?\!<br>Je v \c[11]OBCHOĎÁKU\c[0], na severu odsud!
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNo tak, SUNNY, pojďme nejdřív do \c[11]HOBBEEZ\c[0]!
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHej! Tamtudy není \c[11]BASILŮV DŮM\c[0]!<br>Vzpomínáš, jak jsem tě to učil?\! První dům na ulici, které je přes chodník šikmo od té naší!\!<br>To se snad pamatuje samo, nemyslíš?
+
+message_104:
+      text: Neměl bys v noci ostatní rušit.\! Už je čas jít domů.
+
+message_105:
+      text: Neměl bys v noci ostatní rušit.
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNejdřív tě doprovodím domů!
+
+message_107:
+      text: Chtěl bys pohladit tohoto psa?
+
+message_108:
+      text: KYTARISTOVA krabička na přispěvky je plná peněz!
+
+#=========================Location: Church=============================
+#== Day 1 Church
+
+message_110:
+      text: Chtěl bys jít do \c[11]KOSTELA\c[0]?
+
+message_111:
+      text: Neměl bys ostatní rušit při mši.
+
+message_112:
+      text: Neměl bys ostatní rušit při mši.
+
+
+#=========================Location: Basils house=============================
+#== Dinner with Basil
+
+message_130:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Ham... ham... ham... ham...\!<br>Kde to vázne, SUNNY?!\kel
+
+message_131:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: Dalo nám to s POLLY fakt práci!<br>\!Pojď si rychle sednout, SUNNY! \kel
+
+message_132:
+      text: Večeře od POLLY a KELA.\!<br>Chtěl by sis dát?
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]BAAAASSSIIIIILEEEEEE!\! BAAAASILLLLEEEE!
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelAch jo... Chudák.\! On měl vždycky slabý žaludek.\! Snad mu bude líp...
+
+message_135:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \basPojď se navečeřet, SUNNY!...
+
+#=========================POLLY==============================
+
+#LOCATION: SUNFLOWER
+
+message_140:
+      text: \n<POLLY>Uff...\! Doufala jsem, že bude tady...
+
+
+#=========================FIXIT/BASIL STREET=============================
+#QUEST: PICK UP FURNITURE
+
+message_150:
+      text: Získal jsi \c[4]STOJATOU LAMPU\c[0]!
+
+# Trying to leave the shop without finishing your job
+message_151:
+      text: Hele! Kam si jako myslíš, že jdeš?
+
+message_152:
+      text: Nemáme spolu náhodou dohodu?!\! Oprav obrazovky a dostaneš zaplaceno!
+
+#Rule Explanation
+message_153:
+      text: \n<PRODAVAČ NÁŘADÍ>Pořádně se koukni na tyhle regály... a asi ti brzo dojde, že je v nich úplný binec!
+
+message_154:
+      text: \n<PRODAVAČ NÁŘADÍ>Možná bys čekal, že když je nad každým regálem cedulka, tak že by lidi věděli, kam co patří... ale ne, na to jsou až moc líní...\! Uff...\! Já tak nesnáším dělat prodavače...
+
+message_155:
+      text: \n<PRODAVAČ NÁŘADÍ>Každopádně, podle cedulek zjistíš, kam co patří.\! A tvoje práce je podle nich všecko seřadit, jasný?\! Teď už je to tvoje, kámo.
+
+
+#=========================SHOPPING CENTER=============================
+#map flavor text
+
+message_160:
+      text: Zaparkované auto.
+
+message_161:
+      text: Jejda...
+
+
+#=========================HOBBEEZ=============================
+#Hobbeez
+
+message_170:
+      text: Zajímavý plakát.
+
+message_171:
+      text: Sebral jsi \c[4]HERŮV DÁREK\c[0] z regálu.
+
+message_172:
+      faceset:  MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTys zapomněl, SUNNY?\! Máme u sebe možný dárek pro HERA.\! Nemůžem se prostě sebrat a odejít odsud!
+
+message_173:
+      text: \n<PRODAVAČ>Á... \c[4]SUPER ULTRA POŽÍRAČ KRTKŮ - POMSTA KRTKŮ III\c[0]...\! Nadcházející klasika!
+
+message_174:
+      text: \n<PRODAVAČ>Hele, hochu! Jen tak mimochodem, nechtěl bys můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?
+
+message_177:
+      text: \n<PRODAVAČ>Běžne se prodávají za $25.00...\! ale ty vypadáš, že bys ním uměli...\! a tak se ho vzdám jen za $10.00!\! Co ty na to?\$
+
+message_175:
+      text: \n<PRODAVAČ>Super.\! Se svým \c[13]DOMÁCÍM KAMÍNKEM\c[0] jste skvělá dvojka.\!<br>Dobře se o něj starej!
+
+message_176:
+      text: Will you challenge this monster to a battle?
+
+#=========================Artist=============================
+#ARtists house
+
+message_180:
+      text: \artZdravím!\! Přišel jsi ve správný čas, pokud bys mi chtěl ohodnotit mou práci!
+
+#=========================Pet Rock=============================
+#Pet Rock
+
+message_190:
+      text: Získal jsi \c[13]FEDORU\c[0]...
+
+
+#=========================Shopping center=============================
+#Michaels lunch
+
+message_200:
+      text: \n<HUSTÉ OBOČÍ>Můj syn sekl se školou a teď hraje na kytaru před \c[11]OBCHOĎÁKEM\c[0].\! Možná jsme si spolu moc nesedli, ale pořád nad ním každý den přemýšlím...
+
+message_201:
+      text: \n<KYTARISTA>Jo! Už mám skoro tolik příspěvků, kolik jsem si zadal!\! S tolika penězma budu konečně moct zítra do města!
+
+message_202:
+      text: \n<KYTARISTA>Ty jo, už skoro mám dost peněz, abych mohl odjet do města!...
+
+message_203:
+      text: \n<HUSTÉ OBOČÍ>Uff...\! Tak on se toho nevzdá...
+
+#=========================Other street=============================
+#Charlies mom
+
+message_210:
+      text: \n<BABIČKA SE ŽLUTÝM DRDOLEM>Aha...\! Rozumím...\!<br>Tak v to doufám, že se má dcera brzo ukáže...
+
+#=========================Basils house=============================
+#Basils house day 1
+
+message_220:
+      text: \n<POLLY>Dneska bude na večeři zeleninová polévka!\! Co vy na to?
+
+message_221:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPolívka a ještě k tomu zelenina!?\! To zní výživně a mňamózně!
+
+message_222:
+      text: \n<POLLY>V-Vážně?\! Bála jsem se, že bys byl trochu zklamaný...\! Všichni mi říkají, že vařím celkem nudné jídla..
+
+message_223:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelAle, neřeště, co si myslí ostatní!<br>\!Já rád všecko!\! Ne, já opravdu sním cokoliv, co mi strčíte pod nos!
+
+
+#=========================Park=============================
+#PB and J
+
+message_230:
+      text: \n<SPORTOVEC>Čau...\! Tož... Jak je?
+
+message_231:
+      text: \n<PRETTY BOY>Ale, jde to.\! Procházet se takhle sám po parku mi pomáhá relaxovat a více se soustředit...\! Ale stejně jsem rád, že jsme se potkali...
+
+message_232:
+      text: \n<SPORTOVEC>J-Jo? Vázně?...\!<br>Já.. umm...\! Jsem taky rád, že jsme se... potkali...
+
+#=========================Creepy guy=============================
+#tucker refuse pet rock
+
+#no
+message_240:
+      text: \n<PODIVÍN>A-ha! Jistěže ne!\! Jen se mě bojte!
+
+#=========================BRENT and JOY=============================
+#Brent
+
+message_241:
+      text: Chtěl bys doučovat CHYTROLÍNA?
+
+message_242:
+      text: Chtěl bys doučovat MALOU HOLKU?
+
+message_243:
+      text: Získal jsi $20,00.
+
+message_244:
+      text: KOUPIT
+
+message_245:
+      text: PRODAT
+
+message_246:
+      text: NIC
+
+#=========================Pedros Shop=============================
+#Hobbeez buying pet rock
+
+message_250:
+      text: \n<PRODAVAČ>Nazdar, hochu! Nechtěl by sis koupit můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?\! Před tak pěti lety z nich všechny děcka šílely.<br>Dneska se bežně prodávají za $25,00, ale ty vypadáš, že bys s ním uměl, tak bych ti mohl slevit na $10,00...\! Co ty na to?
+
+message_251:
+      text: \n<PRODAVAČ>Tak dobře... i když tenhle \c[13]DOMÁCÍ KAMÍNEK\c[0] volá tvoje jméno!\!<br>Cítím to.
+
+message_252:
+      text: \n<STARÁ PANÍ>Zde máte $\v[650],00 za vaši pomoc! Hoho!
+
+message_253:
+      text: \n<MATLÁK>\com[2]\{DÍKY, DÍKY, DÍKY!!
+
+message_254:
+      text: \n<MATLÁK>Prosím...\! Nepotřebuju další důvod, za který by na mě mohla být moje žena naštvaná!
+
+#==================Kel graffiti====================
+#Day 2 Graffiti kels house
+
+message_260:
+      text: Pod tebou je napsáno něco křídou.
+
+message_261:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Co to sakra?!... Co se to tady stalo?!<br>\!Kurňa... V tom má beztak prsty AUBRY nebo ta její koloběžková banda...\kel
+
+message_262:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: ...\! SUNNY, buď upřímný! Smrdím?\kel
+
+message_263:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Počkej, SUNNY! Měli bychom HEROVI vybrat nějaký dárek, než půjdeme!\kel
+
+message_264:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: SUNNY... O co se snažíš?\!<br>Nemůžeme prostě odejít bez placení!\kel
+
+
+#====================Save point Faraway=======================
+
+message_270:
+      text: Prázdný piknikový košík.\! Přál by sis ULOŽIT HRU?
+
+message_271:
+      text: Přál by sis pohladit psa?
+
+message_272:
+      text: Pohladil jsi psa.
+
+message_273:
+      text: \n<HODNÝ PEJSEK>\com[2]\{Haf, haf...\{ HAF!
+
+message_274:
+      text: Pes vypadá spokojeně.
+
+message_275:
+      text: \n<HEKTOR>\com[2]\{Haf, haf...\{ HAF!
+
+message_276:
+      text: Nepohladil jsi psa...
+
+#====================Faraway lamp=======================
+
+message_277:
+      text: Předal jsi ELEGANTNÍ DÁMĚ \c[4]STOJATOU LAMPU\c[0].
+
+message_278:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: SUNNY, já se postarám o AUBRY.\! Ty běž pomoct BASILOVI!\kel
+
+message_279:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelÁ! Ty bys tady chtěl pracovat?\! Hustý.\! Tak my zatím půjdem někam jinam.\! Měj se, SUNNY!
+
+message_280:
+      text: Získal jsi tvrdě vydřených $30,00.
+
+message_281:
+      text: \n<PIZZAŘ>Každopádně, tady máš nějaký chechtáky.\!<br>Co takhle si za ně koupit \c[3]PIZZU\c[0]!
+
+message_282:
+      text: Získal jsi tvrdě vydřených $20,00.
+
+message_283:
+      text: Získal jsi \c[13]DOMÁCÍ KAMÍNEK\c[0]!
+
+message_284:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelÁ! Ty bys tady chtěl pracovat?\! Hustý.\! Tak já zatím půjdu někam jinam.\! Měj se, SUNNY!
+
+
+#====================Dreamworld======================= # líbí se mi, jak tady dokument kompletně ztratí jakoukoliv strukturu a začne střídat DW a RW
+
+#When you find the rarebear in Sweetheart Castle
+
+message_290:
+      text: Našel jsi \c[4]PLYŠOVÉHO MEDVÍDKA\c[0]!
+
+#Reward for killing a Squizzard
+
+message_291:
+      text: Získal jsi \v[101] MUŠLÍ!
+
+#====================POLLY 2S after finding Basil=======================
+
+message_300:
+      text: \n<POLLY>Už se o BASILA starám dva roky, ale pořád o něm skoro nic nevím...\! Kéž by se o sobě alespoň jednou rozpovídal.\! Chci mu jen pomoct...
+
+#====================  Pessie =======================
+
+message_310:
+      text: \pes\Com[2]\{\quake[1]JÁ...\| MILUJU...\| ZLATÍČKO!\quake[0]\}
+
+message_311:
+      text: \pesAž tak...\! že jsem sehnal lístky na její nejprestižnější představení, \"ZLATÍČKO HLEDÁ ZLATÍČKA\"!
+
+message_312:
+      text: \pesA přestože se mi nepovedlo sehnat super ultra vzácný lístek do první řady...
+
+message_321:
+      text: \pesMůj velice důvěryhodný prodavač lístků mě ujistil, že budu mít čestné místo!
+
+message_317:
+      text: \pesTaky mě ujistil, že to začne už brzy, a proto tady už několik hodin v kuse čekám!
+
+message_313:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubHmm...\! Myslíte, že bychom mu to měli říct?...
+
+
+message_314:
+      text: \pesJsem si jistý, že už to každou chvíli začne a samotné ZLATÍČKO mě přivede k mému místu!
+
+message_315:
+      text: \pesA...\! protože jsem ten nejvěrnější ZLATÍČČIN fanoušek, jak bych mohl na tuhle akci bez tohohle?!\! Podívejte se na mou nádhernou-
+
+message_316:
+      text: \pes\com[2]\quake[1]\{C-C-C-COŽE!?\! ONA...\| ZMIZELA?!?!
+
+message_318:
+      text: \pesNe...\! Má nejcennější věc...\! Bez ní se přece na mou událost snů nedostanu!
+
+message_319:
+      text: \pesVy čtyři!\! Vy jste určitě menší fanoušci ZLATÍČKA, než já, a proto vás posílám mi tu věc najít a přinést!\! Poznáte ji, až ji uvidíte, o tom není pochyby!
+
+message_320:
+      text: \pes\sinv[1]\{OHO\{OHO\{OHO\quake[1]HYJEJYJJEYJEJE...\quake[0]
+
+message_322:
+      text: \pes\sinv[1]\{VY JSTE JI NAŠLI! MOU DRAHOCENNOU VĚC!
+
+message_911:
+      text: Dal jsi PESSIMU \c[4]PESSIHO VĚC\c[0].
+
+message_323:
+      text: \pesDěkuji...\! Říkám vám ještě jednou...\! Děkuji!\! Ještě jednou vám říkám...
+
+message_324:
+      text: \pesZa vaši obětavou pomoc bych vám chtěl odkázat největší dar.
+
+message_325:
+      text: Získal jsi \c[13]BYSTU ZLATÍČKA\c[0].
+
+message_326:
+      text: \pes\sinv[1]Ach...\! Že je překrásná?
+
+message_327:
+      text: \pes\sinv[1]Nechť vás po zbytek vašich dnů naplní radostí!
+
+message_328:
+      text: \n<PODEZŘELÝ KRTEK>\}Takže...\! Jako bych vám tohle neřek, ale...\! Možná jsem tak trochu spatřil jakéhosi KLÍČKOKRTKA s růžovou mašlí hrabat se v PESSIHO kapse...
+
+message_329:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubKLÍČKOKRTEK s růžovou mašlí?\! \com[2]To zní jako ROSA!
+
+message_330:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelZase ta potvora ROSA!\! No tak, OMORI! Musíme jí přinutit vrátit tu \c[4]PESSIHO VĚC\c[0] ať to stojí, co to stojí!
+
+
+#Sidequest B.E.D. with Rosa and PODEZŘELÝ KRTEK
+
+message_340:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\{\com[2]ROSO!! SPADLA KLEC!
+
+message_341:
+      text: \n<ROSA>Co tady děláte!? \!Jsem naštvaná! Běžte pryč!
+
+message_342:
+      text: \n<ROSA>Kvůli vám mi mé milované ZLATÍČKO uteklo za KAPITÁNEM VESMÍRŇÁKEM...\! \com[2]už zase!
+
+message_344:
+      text: \n<ROSA>Uff...\! ZLATÍČKO bylo jen o pár dveří dál...\! a teď je ode mě několik galaxií daleko!\! Jak se k ní mám jako teď dostat?!\! Vypadám snad, že umím lítat?!
+
+message_345:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herJá... si nejsem jistý, že by to byla naše chyba...
+
+message_346:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel\com[2]ROSO, víme, žes ukradla tu \c[4]PESSIHO VĚC\c[0]! A teď nám ji koukej vrátit!
+
+message_347:
+      text: \n<ROSA>Tak vy zas s tímhle?\! Proč pořád jdete po mých ZLATÍČKOVSKÝCH relikviích?\! Já ji našla úplně férově, takže...
+
+message_348:
+    text: \n<ROSA>\{\com[2]KDO DŘÍV PŘIJDE, TEN DŘÍV MELE!
+
+message_909:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 43
+    text: \herNebojte.\! Nechte to na mě...
+
+message_349:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herHele...\! ROSO...
+
+message_350:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \herCo kdybychom se my dva zkusili doho-
+
+message_351:
+    text: \n<ROSA>\sinv[1]Fuuuuuuj...\sinv[0]\com[2] Ne! Nechci to ani slyšet!
+
+message_352:
+    text: \n<ROSA>Za žádnou cenu ti nedám nejcennější kus v mé sbírce...
+
+message_353:
+    text: \n<ROSA>\{\quake[1]A TEĎ VYPADNI Z MOJEHO DOMU!!
+
+message_354:
+    text: \n<PODEZŘELÝ KRTEK>\}Ha...\! Tak ROSA zas dělá potíže?\!<br>To se dalo čekat... To je prostě ona...
+
+message_908:
+    text: \n<PODEZŘELÝ KRTEK>\}Na.\! Vemte si tohle a ukažte jí to.\!<br>Až to uvidí, není šance, že by vám neodstoupila.
+
+message_910:
+    text: Získal jsi \c[4]ČERNÝ DOPIS\c[0]. #výraz opět ztracen
+
+message_355:
+    text: \n<PODEZŘELÝ KRTEK>\}A teď mě nechte s mou \c[4]P.O.S.T.E.L.\c[0] napokoji.<br>Tady naše spolupráce končí!
+
+message_356:
+    text: \n<ROSA>Tak jste zase zpátky?\! Ts...\! Bavíte mě...\!<br>Tak bezcenná urputnost!
+
+#INSERT OHOHOO 15_cutscenes_herothebachelor.message_145
+
+message_357:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelPozor, nechte to na mně!
+
+message_358:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herPočkej, KELI...
+
+message_359:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herVím, že ROSA není zrovna nejpříjemnější...\! ale mám celkem vážné výhrady proti používání vydírání na to, aby-
+
+message_360:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\{\{\Com[2]HEJ, ROSO!!
+
+message_361:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\{\Com[2]KOUKEJ NA TOHLE!!
+
+message_362:
+    text: KEL vytáhl \c[4]ČERNÝ DOPIS\c[0].
+
+message_363:
+    text: \n<ROSA>K-K-Kdes k tomuhle přišel?
+
+message_364:
+    text: \n<ROSA>\Com[2]Už... jsem se rozmyslela!\!<br>Prosím, milý pane...\! Dám vám cokoliv, co po mně budete chtít!\!<br>Jen mi dejte tu \c[4]ČERNOU OBÁLKU\c[0]!
+
+message_365:
+    text: \n<ROSA>\Com[2]Ach, ano!\! Vy jste chtěl \c[4]PESSIHO VĚC\c[0], viďte?
+
+message_366:
+    text: \n<ROSA>Tak dobře.\! Klidně si ji vem! Je tvoje...<br>A teď mi koukej dát tu \c[4]ČERNOU OBÁLKU\c[0]...
+
+message_367:
+    text: \n<ROSA>\{\{\Com[2]\quake[1]DĚLEJ!!!
+
+message_368:
+    text: Vyměnil jsi \c[4]ČERNOU OBÁLKU\c[0] za \c[4]PESSIHO VĚC\c[0].
+
+message_369:
+    text: \n<ROSA>Teď bych byla ráda, kdybyste odešli z mojeho domu.\!<br>Však už stejně máte to, co jste chtěli, ne?
+
+message_370:
+    text: \n<ROSA>\{\{\Com[2]TÁHNĚTE! SLYŠÍTE, TÁHNĚTE!
+
+message_371:
+    text: \n<ROSA>Vypadněte! Zlobím se na vás!
+
+
+#====================  Faraway =======================
+
+message_380:
+    text: \n<POŘÁDNÝ AMERIČAN>\com[2]Uhni, máš tlustý sklo!\!<br>Nevidíš, že se snažím dívat?!
+
+#==================== Pizza Delivery 2 =======================
+
+message_390:
+    text: Přečteš si vzkaz?
+
+# Heros gift in Hobbeez
+
+message_391:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTyhle \c[4]CDčka\c[0] vypadají celkem hustě, ale myslím, že by se HEROVI líbilo něco trochu víc od srdce!\! Pojďme hledat dál.
+
+# Space boys arcade
+
+message_392:
+      text: Hustý automat...\!<br>ale ty nemáš ani ten $1,00, který po tobě chce, aby sis na něm zahrál.
+
+message_393:
+      text: Zahraješ si?\$
+
+message_394:
+      text: Automat s názvem "VESMÍRNÉ DOBRODRUŽSTVÍ KAPITÁNA VESMÍRŇÁKA".\!<br>Jedna hra stojí $1,00.
+
+# Moms to do list and voice mail
+
+message_395:
+      text: MAMČIN SEZNAM DOMÁCÍCH PRACÍ.\!<br>Domácí práce se ti teď moc dělat nechtějí.
+
+message_396:
+      text: Máš nový vzkaz.
+
+message_397:
+      text: Tady něco bývalo.
+
+message_398:
+      text: Nemáš žádné nové vzkazy.
+
+# Kels house dinner time
+
+message_399:
+      text: Získal jsi \c[4]DOMÁCÍ VEČEŘI\c[0]...\! ale už zestydla.\!<br>V mikrovlnce si ji můžeš zahřát.
+
+# Characters sleeping in bedfort
+
+message_400:
+      text: \sinv[1]Chrrr...\| Chrrr...\| Chrrr...\| Chrrr...\kel
+
+message_401:
+      text: HERO hlastiě spí.
+
+# Going to other places when you need to go to shopping center first
+
+message_402:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelSUNNY! No tak, pojďme aspoň na tu chvilku do \c[11]OBCHOĎÁKU\c[0]!
+
+#Gachapon:
+message_403:
+      text: Kapslový automat.\! Jedna stojí $3,00.\!
+
+message_404:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVíš co, SUNNY? Pojďme nejdřív koupit \c[4]HERŮV DÁREK\c[0].\! Tohle počká!
+
+message_405:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTamtudy ne! Teď jsme zrovna ten \c[11]BASILŮV DŮM\c[0] přešli!
+
+#Note: Placeholder Hero dialogue (takže nepoužitý?)
+message_406:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herHele...\! Jsem rád, že jsme spolu mohli být...\! ale taky je mi trochu blbé takhle nechat mamku samotnou...
+
+message_407:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herCo kdybychom šli do \c[11]OPRAVSI\c[0] a koupili jí tam \c[4]KYTKY\c[0]?!\! Ty by jí určitě udělaly radost.
+
+message_434:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herÁ! Vidím, že už u sebe \c[4]KYTKY\c[0] máš!\! Stejně myslím, že bychom jí měli sehnat čerstvé.\! A \c[11]OPRAVES\c[0] stejně není zas tak daleko.
+
+
+message_408:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel\sinv[1]Ach, HERO...\! Mazánek jako vždycky...
+
+message_409:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herChtěl bys jí je dát ty?
+
+message_410:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herMamce se tyhle \c[4]KYTKY\c[0] určitě budou líbil! Pojďme je hodit ke mně, SUNNY.
+
+message_411:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herAha, chápu... tak to bychom jednu měli mamce koupit!
+
+message_412:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHmm...\! Už je celkem pozdě.\! Po tomhle bychom asi už měli k tobě.\! Co ty na to?
+
+message_413:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \her\sinv[1]Mami... Koupil jsem ti \c[4]KYTKY\c[0]!
+
+message_414:
+      text: \n<KELOVA MAMKA>Ó...\! Ty jsou opravdu pro mě?
+
+message_415:
+      text: \n<KELOVA MAMKA>Jsou krásné.\! Díky.
+
+message_416:
+      text: \n<KELŮV TÁTA>Ha!\! HERO, ty jsi takový slaďák.\! Stejně jak tvůj fotr!
+
+message_417:
+      text: \n<KELOVA MAMKA>Promiň, že jsem se na vás tak zlobila.\!<br>Vím, že tady SUNNY už dlouho nebude...
+
+message_418:
+      text: \n<KELOVA MAMKA>Hlavně zkuste zůstat v kontaktu.\! Čím starší jsi, tím těžší je si najít nové kamarády!
+
+message_419:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMami... Proč musíš říkat něco tak smutného...\! Určitě budeme v pohodě!
+
+message_420:
+      text: \n<KELOVA MAMKA>Jo... Určitě budete.
+
+message_421:
+      text: Dveře jsou zamčené.
+
+message_422:
+      text: \n<KELOVA MAMKA>Měj se, SUNNY.\!<br>A nezapomeň, že u nás jsi vždy vítán! #spíš "u nás jsi vždy vítán"
+
+# Kel telling you to check out the bedfort if you try to leave your bedroom
+
+message_423:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelSUNNY, pojď se kouknout na náš hrad z dek!
+
+# Kel yelling at you to go to his room instead of the other rooms when you first go into his house
+
+message_424:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNemohl bys to v sobě udržet ještě chvilku, SUNNY?\! Fakt ti chci ukázat svůj pokoj!
+
+message_425:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelTam mají pokoj rodiče! Pojďme radši do mojeho!
+
+# With basil taking him other than the path to his house
+
+message_426:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNo tak, nejdříve musíme doprovodit BASILA domů!
+
+# NPC woman sitting behind apple guy
+
+message_427:
+      text: \n<BRUNETA>Ty jo... To je ale výhled.
+
+message_428:
+      text: \n<VRÁSKA>Vypadá, že sem ještě pořád nějaké ty děcka chodí.\! To mi nevadí, ale musím po nich uklízet...
+
+message_429:
+      text: \n<VRÁSKA>No nic, jde se do práce!
+
+
+
+#==================== Dreamworld =======================
+
+message_430:
+      text: \n<KAPITÁN VESMÍRŇÁK>Poslední dobou mě žírají všelijaké city a myšlenky...\! ale tahle chvíle je čímsi tak uklidňující.\!<br>Cítím se smířeně.
+
+message_431:
+      text: \n<CHLÁPEK S PIŇATOU>\sinv[1]\{\{JUPÍÍÍÍÍÍÍÍ!!\^
+
+message_432:
+      text: \n<CHLÁPEK S PIŇATOU>\sinv[1]\{\{JUHŮŮŮŮŮŮŮ!!\^
+
+message_433:
+      text: \n<CHLÁPEK S PIŇATOU>Ach jo...
+
+
+
+
+#==================== Aubrey street before you get Aubrey =======================
+
+message_440:
+      text: \n<ANDĚL>AUBRY se dneska měla jít podívat na nový tanec, který jsem vymyslel...\! Myslíš, že se mi vyhýbá schválně?!
+
+message_441:
+      text: \n<SÁRA>\}...
+
+message_442:
+      text: \n<STŘEMHLAV>AUBRY je špatně?\! \com[2]Jak je to možné?!\! V tomhle musí mít prsty něco děsivějšího...\! Možná jakýsi zlý padouch!\! Musíme ho ihned dopátrat!
+
+message_443:
+      text: \n<KIM>\sinv[1]Grr, grr...\! ...\! Uff...
+
+message_444:
+      text: \n<VANCE>Hlavu vzhůru, KIM. Každý má jednou za čas blbý den.\!<br>Víš, že se AUBRY vždycky potom srovná.
+
+
+# Mincy drawing if you didn't meet her before
+
+message_445:
+      text: Malířka pracně kreslí.
+
+# Day 2 looking at photo album at kels place
+
+message_446:
+      text: Dodíval ses na \c[4]FOTOALBUM\c[0]?
+
+# Hero giving money for flowers in fixit
+
+message_447:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herUps! Dřív, než na to zapomenu...\! tady máš peníze na ty \c[4]KYTKY\c[0] pro moji mamku, SUNNY.\! Tys nečekal, že bych ti na ni dal peníze, viď?
+
+message_448:
+      text: Získal jsi $10,00 od HERA.\! Ty jo...
+
+message_449:
+      text: \n<PRODAVAČ NÁŘADÍ>Chtěli byste nějaké nářadí?
+
+message_450:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNe, jen se díváme! Počkat, nechtěli jsme se podívat na ty \c[4]STOJATÉ LAMPY\c[0]?
+
+message_451:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herJeště než půjdeme bychom měli mamce předat tyhhle \c[4]KYTKY\c[0]!
+
+
+# CDs from Hobbeez, titles to be replaced once the actual titles are set
+
+
+message_452:
+      text: \c[4]BRUTÁLNÍ CDčko\c[0].\! Koupíš si ho za $10,00?
+
+message_453:
+      text: \c[4]ÚTULNÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+
+message_454:
+      text: \c[4]NEBESKÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+
+message_455:
+      text: \c[4]KLIDNÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+
+message_456:
+      text: \c[4]DYNAMICKÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+
+message_466:
+      text: Tohle \c[4]CDčko\c[0] můžeš zaplatit u kasy.
+
+# MATLÁK day 1 sunset when he loses the ring
+
+message_457:
+      text: \n<MATLÁK>No, jsem tady, kdybyste se rozmysleli...\!<br>což doufám, že uděláte, a to brzo!
+
+message_460:
+    text: NIC
+
+message_461:
+    text: Kniha.
+
+
+# Basil in his faraway house day 1
+
+message_462:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 33
+      text: \basSUNNY...\! Teď už je všechno v pořádku, ne snad?
+
+message_463:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 35
+      text: \basSUNNY...\! P-Proč...\! vypadáš tak vyděšeně?
+
+message_464:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVydrž, hned jsem tam!
+
+
+# Gacha!
+
+
+message_465:
+      text: Nemáš $3,00.
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+
+#  Consumables
+message_500:
+    text: Získal jsi \c[3]\itemget\c[0]!
+
+message_501:
+    text: Získal jsi \c[3]\itemget\c[0]!
+
+#  Toys
+message_510:
+    text: Získal jsi \c[5]\itemget\c[0]!
+
+message_511:
+    text: Získal jsi \c[5]\itemget\c[0]!
+
+#  equips
+message_520:
+    text: Získal jsi \c[13]\itemget\c[0]!
+
+message_521:
+    text: Získal jsi \c[13]\itemget\c[0]!
+
+#  key items
+message_522:
+    text: Získal jsi \c[4]\itemget\c[0]!
+
+#  Skills
+message_530:
+    text: character se naučil DOVEDNOST \c[1]skill\c[0]
+
+message_531:
+    text: HERO se naučil DOVEDNOST \c[1]ČAJOVÝ DÝCHÁNEK\c[0]!
+
+message_532:
+    text: HERO se naučil DOVEDNOST \c[1]OBČERSTVENÍ\c[0]!
+
+message_533:
+    text: HERO se naučil DOVEDNOST \c[1]SVAČINA\c[0]!
+
+message_534:
+    text: HERO se naučil DOVEDNOST \c[1]ROZKLEPAT\c[0]!
+
+message_535:
+    text: KEL se naučil DOVEDNOST \c[1]ŠŤÁVY\c[0]!
+
+message_536:
+    text: KEL se naučil DOVEDNOST \c[1]SNĚHOVÉ KOLE\c[0]!
+
+message_540:
+    text: OMORI získal 1 ŽIVOT.
+
+message_541:
+    text: KEL získal 1 ŽIVOT.
+
+message_542:
+    text: AUBREY získala 1 ŽIVOT.
+
+message_543:
+    text: HERO získal 1 ŽIVOT.
+
+# Kels mom when POLLY <3 comes over
+
+message_550:
+      text: \n<KELOVA MAMKA>KELI, kdo je tahle krásná, mladá paní?\! \com[2]Jaktožes mi neřekl, že tady dneska budeme mít tolik hostů?!
+
+# Kel and Aubrey fighting in the pier sunset day 2
+
+message_551:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \n<AUBRY>Kdy už to pochopíš, ty hňupe?!<br>Říkám ti, že to bylo omylem!
+
+message_552:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Co to sakra děláš, AUBRY\! <br>Tak teď jsi zašla příliš daleko!\kel
+
+message_553:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herNo tak, musíme BASILA odnést domů!
+
+# Foe facts in Angels room
+
+message_554:
+      text: Chtěl by sis přečíst \c[4]BYTEVNÍ BLOK\c[0]?
+
+
+# Trying to leave kels house before getting dinner
+
+message_555:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPojďme si dát večeři!
+
+# Trying to go elsewhere without flowers for heros mom
+
+message_556:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herMěli bychom jít pro ty mamčiny \c[4]KYTKY\c[0]...
+
+message_557:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herPočkej, SUNNY! Tyhle \c[4]KYTKY\c[0] bychom přece měli dát mojí mamce!
+
+message_558:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herPočkej, SUNNY. Ještě jsme mamce nekoupili ty \c[4]KYTKY\c[0].
+
+message_559:
+      text: \"Nejlepší mamce na světě."\!<br>\"Od tvého syna, HERA.\"\! Ty jo...
+
+# Trying to go up stairs without Hero, day 2 night
+
+message_560:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \kelKam jdeš, SUNNY?\! HERO na nás čeká v tom pokoji s klavírem!
+
+
+# Basils bathroom
+
+message_561:
+    text: Knížka o kytkách.
+
+# Trying to leave Aubreys house before getting Aubrey
+
+message_562:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herPočkej, SUNNY. Nejdřív bychom měli zkontrolovat AUBRY.
+
+# I forget lol (soucítím)
+
+message_563:
+    text: Nedokážeš se přinutit k návratu. #"nedokážeš se přinutit se vrátit" zní otřesně
+
+# crossroads for when you try to leave basils house on night 3
+
+message_564:
+    text: Chceš jít domů.
+
+#Hobbeez store: picking out a gift for HERO
+
+message_565:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelTyhle komiksy mi vrací samé dobré vzpomínky.\! Jako za mlada, viď, SUNNY?\! HERA nikdy komiksy moc nebraly...
+
+message_566:
+    faceset: MainCharacters_Faraway
+    faceindex: 17
+    text: \kelVětšina těchle DVDček tady jenom sbírá prach...\! A většinu z nich máme určitě kdesi doma...\! kde pravděpodobně taky sbírají prach...
+
+message_567:
+    faceset: MainCharacters_Faraway
+    faceindex: 15
+    text: \kelTyhle panáčky vždycky úplně žral...\! HEROVI se ale nelíbilo, že jsem na nich utrácel peníze za obědy.\!<br>To bych mu radši nepřipomínal...
+
+message_568:
+    faceset: MainCharacters_Faraway
+    faceindex: 16
+    text: \kelTohle je moc drahé, SUNNY!\!<br>Jako dobře, mám rád HERA, ale zas \sinv[1]tak moc\sinv[0] ne!
+
+message_569:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kelI kdybychom je koupili, pochybuju, že by se k HEROVI někdy dostaly...
+
+message_570:
+    faceset: MainCharacters_Faraway
+    faceindex: 22
+    text: \kelTuhle konzoli už mám, SUNNY!\!<br>A druhou bych si asi nedovolil...
+
+message_571:
+      text: Získal jsi \c[4]HERŮV DÁREK\c[0]!
+# =========================================================================================
+# Cutscene: Fake Knife Fight
+# =========================================================================================
+
+#Trigger: Attack AUBREY in battle.
+
+#AUBREY falls to the floor.
+#KIM runs to AUBREY.
+
+message_580:
+      text: AUBRY!\! Proč jsi ustoupila?\kim
+
+message_581:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: SUNNY...\! U sebe má \c[13]STEAKOVÝ NŮŽ\c[0]...\aub
+
+message_582:
+      text: Cože?!\! Pojď, musíme rychle odsud!\kim
+
+message_583:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: Uff...\! Za tohle zaplatíš.\!\aub
+
+#AUBREY and HOOLIGANS run away.
+
+message_584:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Uf, tohle mohlo dopadnout dost blbě...\!<br>Ještě žes u sebe měl ten-\kel
+
+#Kels orders
+
+message_590:
+      text: Získal jsi KELOVU \c[4]OBJEDNÁVKU PEČIVA\c[0]!
+
+message_591:
+      text: Získal jsi KELOVU \c[4]OBJEDNÁVKU "PIZZY"\c[0]!
+
+message_592:
+      text: Dal jsi KELOVĚ MAMCE \c[4]OBJEDNÁVKU PEČIVA\c[0] a \c[4]OBJEDNÁVKU "PIZZY"\c[0].
+
+#Treehouse, talking with characters before getting the  photo
+
+message_593:
+    faceset: MainCharacters_Faraway
+    faceindex: 13
+    text: \kel\sinv[1]Kámo...\! Já býval v kartách mistr...
+
+message_594:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubTak...\! Jako nové...
+
+message_595:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herUž jsem si vzpomněl!\! KEL si sem s sebou vzal toustovač!\! Prý ho tam donesl, abych na něm mohl vařit...\! KEL byl ale divné dítě...
+
+#Graveyard with everyone, if you don't have any flowers
+message_596:
+      text: Nemáš u sebe \c[4]KYTKY\c[0].
+
+#Graveyard with everyone, if you do have flowers
+message_597:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herNa, tyhle jsou pro tebe, MARI.\! Od nás všech...
+
+message_598:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herMám na to...\! Pojďme.
+
+message_599:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: \aubPAN VAJÍČKO je tak špinavý...
+#Talking to yellow bun granny after you are given prescription
+
+message_600:
+      text: \n<BABIČKA SE ŽLUTÝM DRDOLEM>Dneska je venku ale pěkně, nemyslíte?\! Moc už mi nejde chodit, ale i tak jsem si chtěla vyjít na čerstvý vzduch...
+
+message_601:
+      text: \n<BABIČKA SE ŽLUTÝM DRDOLEM>Ale v tomhle stavu opravdu do lékárny nedojdu...
+
+
+#Dreamworld Train station jash
+
+message_603:
+      text: \n<ŠNEČEK>Ahoj! Já jsem ŠNEČEK, notorický smolař!\! Zrovna jsem si chtěl koupit \c[4]JÍZDENKU\c[0], a hádejte co? Prý mají vyprodáno.\! To je ale vtipná náhoda!
+
+#Aubreys mom if you try to talk to her (ano, už asi po čtvré napříč několika dokumenty.)
+
+message_605:
+      text: \n<AUBRYINA MAMKA>...
+
+#Kels dad if you get him meat in the afternoon
+
+message_606:
+      text: \n<KELŮV TÁTA>Všem vám ogriluju \c[3]HAMBURGERY\c[0]!\! Nebojte, učil jsem se!
+
+# Hobbeez buying CDs
+
+message_608:
+      text: Vrátíš \c[4]CDčka\c[0] zpátky?
+
+message_609:
+      text: Tohle \c[4]CDčko\c[0] můžeš zaplatit u pokladny.
+
+message_610:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPočkej, SUNNY! Tos už zapomněl?\! Vždyť jsi teď vzal do ruky \c[4]CDčko\c[0].\!<br>Krást se nemá! A my jsme přece vzorní občané!
+
+#Intro
+message_619:
+      text: \n<PRODAVAČ>Čau, hoši! Vidím, že vás zajímá támhleto \c[4]CDčko\c[0].\! Jedno za $10,00, co vy na to?\$
+#Purchase
+message_620:
+      text: \n<PRODAVAČ>Dík, hoši! Můžete si ho kdykoliv pustit v \c[4]JUKEBOXU\c[0] hned vedle!
+#Insufficient Funds
+message_621:
+      text: \n<PRODAVAČ>Jejda, pardón, na tohle nemáte dost peněz.
+#item selling prompt
+message_622:
+      text: \n<PRODAVAČ>V pohodě. Jen vraťte to \c[4]CDčko\c[0] na ten stůl, ze kterého jste ho vzali!
+#item selling cancel prompt
+message_623:
+      text: \n<PRODAVAČ>Dík, hochu!
+
+message_624:
+      text: Neměl bys odsud odcházet, dokud máš ještě šichtu.
+
+message_625:
+      text: Dal jsi HEROVI \c[4]HERŮV DÁREK\c[0].
+
+message_626:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herMěli bychom jít za MARI...\! Má o tebe takový strach...
+
+message_627:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herNejdříve bychom se měli poohlídnout po BASILOVI.
+
+message_628:
+      text: \n<POLLY>BASIL žije u babičky už od dob, co byl batole.\!<br>Jeho rodiče jsou pořád něčím zaneprázdněni...\!<br>Viděla jsem je na vlastní oči jen jednou.
+
+message_629:
+      text: Chtěl by ses vrátit do \c[11]BÍLÉHO PROSTORU\c[0]?
+
+message_630:
+      text: Podíváš se skrz dírku na klíč?
+
+# Mincy drawing if you did meet her before
+
+message_631:
+      text: MINCY pracně kreslí.
+
+message_632:
+      text: Přečteš si \c[4]POZNÁMKY K PIZZE\c[0]?
+
+message_633:
+      text: \n<RAI>Já jsem RAI!\! Přišel jsem tady sice na karty, ale \c[13]DOMÁCÍ KAMÍNEK\c[0] mám taky!
+
+message_634:
+      text: \n<KELŮV TÁTA>Tebe jsem už dlouho neviděl, SUNNY.\! Jsem rád, žes přišel na návštěvu předtím, než se budete stěhovat!
+
+message_635:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTy už bys chtěl domů, SUNNY?\! Vždyť ještě není tma!
+
+message_636:
+      text: \n<KELŮV TÁTA>Tak \c[4]KYTKY\c[0], HERO?\! Ha...\! Ty vždycky víš, jak na to.
+
+message_637:
+      text: Plakát s nápisem HLEDÁME BRIGÁDNÍKY.\! Možná by ses na něj mohl zeptat zítra.
+
+message_638:
+      text: \n<BREJLOVEC>POŽÍRAČ KRTKŮ je stará, ale docela fajn hra.\! Hraj ji jen co srdce ráčí!\! Já zatím..\! budu upřeně okoukávat tuhle pizzu...
+
+message_639:
+      text: Hodíš do kašny \c[4]MINCI\c[0]?
+
+message_640:
+      text: \c[4]MINCE\c[0] spadla přímo na dno.
+
+message_641:
+      text: Neměl bys odsud odcházet, dokud máš ještě šichtu.
+
+message_642:
+      text: Našel jsi \c[4]MINCI\c[0]!
+
+message_643:
+      text: Našel jsi dollar!\! Dnešek je tvůj šťastný den!
+
+message_644:
+      text: Nabídka brigády.\!<br>Tuhle už sis dneska odpracoval.
+
+message_645:
+      text: Získal jsi tvrdě vydřených $20,00.
+
+message_646:
+      text: Hodíš do kašny 1 MUŠLI?
+
+message_647:
+      text: MUŠLE spadla přímo na dno.
+
+message_648:
+      text: Zvedl jsi \c[5]PERLU\c[0].
+
+message_649:
+      text: Nemáš MUŠLE.
+
+message_650:
+      text: Tohle není ovocná sodovka.
+
+message_651:
+      text: \c[4]ZAHRADNICKÉ NŮŽKY\c[0].
+
+message_652:
+      text: REPLACE WITH PLAYER SHAKING HEAD #tak dobře
+
+message_653:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNo tak, SUNNY\! Musíme zachránit BASILA!
+
+message_654:
+      text: Enter- \DII[ok] # CO TADY DĚLÁ TOHLE???
+
+message_655:
+      text: Escape- \DII[escape]
+
+message_656:
+      text: Šipka nahoru- \DII[up]
+
+message_657:
+      text: Šipka dolů- \DII[down]
+
+message_658:
+      text: Tlačítko A- \DII[cancel]
+
+message_659:
+      text: Shift- \DII[shift]
+
+message_660:
+      text: Zahraješ si s HEKTOREM?
+
+message_661:
+      text: Nechceš ublížit BASILOVI.
+
+message_662:
+      text: \n<VRÁSKA>Jenom tady trochu zametu...
+
+message_663:
+      text: \n<RECYKLOSEKTAŘ>Nedovoluji si odsud odejít, dokud mi to náš vůdce nedovolí!
+
+message_664:
+      text: "$1,00"
+
+message_665:
+      text: "$5,00"
+
+message_666:
+      text: "$10,00"
+
+message_667:
+      text: Kolik bys chtěl přispět?\$
+
+message_668:
+      text: NIC
+
+message_669:
+      text: Nemáš dost peněz.
+
+message_670:
+      text: JUKEBOX.\! Nemáš, co bys v něm pouštěl.
+
+message_671:
+      text: Opravdu chceš STARÉMU BEZĎÁKOVI dát $\v[1167],00?
+
+message_672:
+      text: Opravdu chceš SMRADLAVÉMU BEZĎÁKOVI dát $\v[1167],00?
+
+message_673:
+      text: Opravdu chceš KYTARISTOVI dát $\v[1167],00?
+
+message_675:
+      text: \n<HOLKA S CULÍKEM>Promiň, mamka má dneska blbou náladu.\! Koupila mu dárek, ale pořád není dooma.\! Mohl bys přijít později?
+
+message_676:
+      text: \n<HOLKA S CULÍKEM>Promiň, táta má dneska blbou náladu.\! Koupil jí dárek, ale pořád není doma.\! Mohl bys přijít později?
+
+message_677:
+      text: Chtěl by sis projít \c[4]FOTOALBUM\c[0]?
+
+message_678:
+      text: \n<ŘEZNÍK>S tolika mouchama bych si vážně být tebou \c[4]MASO\c[0] nekupoval!
+
+message_679:
+      text: \n<PAN PEKAŘ>Pozor, aby nám ty mouchy nepřistály na náš vynikající \c[3]CHLEBA\c[0]!
+
+# messages for cancelling out of minigames
+
+message_680:
+      text: Chtěl bys pokračovat s touto brigádou?
+
+message_681:
+      text: \n<PANÍ Z HUBERTA>Už ne práce?\! ...\! OK.\! Tak ne peníze.
+
+#UNUSED
+#message_682:
+#      text: \n<PIZZA MAN>Oh what happened? Didn't get to deliver the pizzas after all? I.... see.
+
+message_683:
+      text: \n<PRODAVAČ NÁŘADÍ>Uff... No a.\! Stejně se to hned zase přehází.
+
+message_684:
+      text: \n<PRODAVAČ>Neotálej!\! Osud tě volá!
+
+
+#LAST RESORT CONSTRUCTION AFTER GETTING HERO
+
+
+message_700:
+      text: \n<KROKOĎÁK>Á! No super, teď budu mít celý den blbou náladu.
+
+message_701:
+      text: \n<KROKOĎÁK>Neříkej mamce, že jsem prohrál, jo?
+
+message_702:
+      text: \n<KROKOĎÁK>Nedělej machra jenom proto, žes vyhrál! Já dneska třeba ani neměl svoje ranní \c[3]KAFE\c[0]...
+
+message_703:
+      text: \n<KROKOĎÁK>Prohrávání je na prd...
+
+
+message_800:
+      text: Chceš to zkusit znovu?
+
+message_801:
+      text: Chceš pokračovat?
+
+
+message_705:
+      text: \n<BREJLOVEC>Dobře! Dávám ti čas, se připravit.\! Zatím budu tady!
+
+message_706:
+      text: \n<PRODAVAČ>Budu vřele čekat na náš souboj.\! Osud volá tvé jméno!
+
+message_707:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Musíme dohonit KIM a VANCE!\kel
+
+
+# If Hero / Aubrey are in the team in fixit when you take a job:
+
+message_708:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herTy jo, SUNNY! Tak ty chodíš na brigády?\! Ty rosteš rychle!\! Tak v tom případě se vrátíme později.\! A pracuj pořádně!
+
+#If you talk to Berly again with pool noodle after declining the first time (co tady dělá ten druhý dialog?)
+
+message_709:
+      text: \berRozmysleli jste se teda?\! Tak dáte mi tu \c[13]PLAVACÍ NUDLI\c[0] nebo co?
+
+message_720:
+      text: \n<VRÁSKA>Hustý singl... můj syn má ale rád jakési videohry...\! Dokázali byste mi nějakou sehnat?

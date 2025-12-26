@@ -1,0 +1,219 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<BENDA>Zde připravuju vstup na novou atrakci, která ale ještě není hotová.\! Přijďte později...\! čímž myslím jakože zítra!
+
+#ŠÉF
+
+message_1:
+    text: \n<ŠÉF>Hej, pamatujete si na mě ještě?\! Já jsem ŠÉF, a vítám vás na ŠÉFOVĚ VÝZVĚ!\! Po svých dnech ztrávených na hřišti jsem se nad sebou hodně zamýšlel.
+
+message_2:
+    text: \n<ŠÉF>A pomocí nejnovějších pokroků ve světu technologie jsem vytvořil výzvu, kterou skolí jedině ti nejhustější soutěžící.
+
+message_3:
+    text: \n<ŠÉF>Čekají na vás tady počítačem simulované souboje, které jste již podstoupili...\! akorát že jsou o dost těžší!
+
+message_4:
+    text: \n<ŠÉF>Máte tedy zájem o ŠÉFOVU VÝZVU?
+
+message_5:
+    text: \n<ŠÉF>\sinv[1]Supr dupr!\sinv[0] Jde se na to.
+
+message_12:
+    text: \n<ŠÉF>Ach jo...\! Tak dobře. Možná příště!
+
+
+
+
+#=====
+
+#AFTER BEATING CHALLENGE
+
+message_13:
+    text: \n<ŠÉF>Ahoj! Jak se máte?\! Vidím, že už jste ŠÉFOVU VÝZVU zdolali...\! Co takhle si jí projít znova?
+
+
+#Pan to teleport the first time.
+
+message_6:
+    text: \n<ŠÉF>\sinv[1]A je to!\sinv[0]
+
+message_7:
+    text: \n<ŠÉF>Je to hned támhle vpravo, u toho teleportéru.\! Váš první souboj začne hned tam. #teleportér
+
+message_8:
+    text: \n<ŠÉF>Jo, a nezapomeňte se předtím občerstvit!\! MARI byla tak hodná, a donesla sem jeden ze svých piknikových košíků...\! a taky by nebylo od věci si u schránky koupit nějaké ty \c[3]SVAČINY\c[0] a \c[5]HRAČKY\c[0], když už je tady.
+
+message_9:
+    text: \n<ŠÉF>Hodně štěstí!\! \com[2]Ukažte jim, co pro to!
+
+
+#===
+
+message_14:
+    text: \n<ŠÉF>Je jistě mnoho různých, kreativnějších způsobů, kterýma byste si tuhle VÝZVU mohli okořenit.
+
+message_22:
+    text: \n<ŠÉF>Za mě stojí za zkoušku používání pouze \c[5]VELKÝCH GUMIČEK\c[0]!
+
+#===
+
+
+#MARI AND BASIL
+
+message_10:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marPřemýšlíte, že byste zkusili tu ŠÉFOVU VÝZVU?\! Tak to hodně štěstí! Budeme vám držet palce.
+
+message_11:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basJsem rád, že si ŠÉF konečně našel svou životní vášeň.\! Měli byste do toho jít! Vím, že to zvládnete!
+
+#RESULTS
+
+message_15:
+    text: \n<ŠÉF>Hele, celkem vám to šlo...\! ale holt není vždycky posvícení.
+
+message_16:
+    text: \n<ŠÉF>Přijďte někdy zas!
+
+message_17:
+    text: \n<ŠÉF>Ty jo! Vám se opravdu povedlo zdolat ŠÉFOVU VÝZVU!\! Gratuluji, frajeři!\! Vážně, jste fakt hustí! #frajer / frajeři lze použít i negativně, zde by šlo jiné slovo ale nic mě nenapadá
+
+message_18:
+    text: \n<ŠÉF>\com[539]\sinv[1]Gratuluji vám!\!\com[539]\sinv[0] Vyhráli jste \c[4]HUSTÝ POHÁR\c[0]!\! \com[539]Vystavím vám ho \com[539]v hlavní místnosti.
+
+message_19:
+    text: \n<ŠÉF>\com[539]\sinv[1]Gratuluji vám!\!\com[539]\sinv[0] Vyhráli jste \c[4]HUSTĚJŠÍ POHÁR\c[0]!\! \com[539]Vystavím vám ho \com[539]v hlavní místnosti.
+
+message_20:
+    text: \n<ŠÉF>\com[539]\sinv[1]Gratuluji vám!\!\com[539]\sinv[0] Vyhráli jste \c[4]NEJHUSTĚJŠÍ POHÁR\c[0]!\! \com[539]Vystavím vám ho \com[539]v hlavní místnosti.
+
+message_21:
+    text: \n<ŠÉF>Skvělá práce!\! Ale schválně, jak se poperete s mým dalším soubojem!
+
+#=====
+
+message_100:
+    text: \c[4]HUSTÝ POHÁR\c[0].\! Je celkem hustý.
+
+message_101:
+    text: \c[4]HUSTĚJŠÍ POHÁR\c[0].\!<br>Je hustější, než \c[4]HUSTÝ POHÁR\c[0].
+
+message_102:
+    text: \c[4]NEJHUSTĚJŠÍ POHÁR\c[0].\! Tenhle je nejhustější.
+
+message_103:
+    text: \c[4]MAŠLE ZA ÚČAST\c[0].\! Není příliš hustá.
+
+
+#===
+
+message_150:
+    text:  MARIN a BASILŮV přepychový stůl pro dva. #změna slovosledu ať je vše jasnější
+
+#===
+
+message_151:
+    text: \n<ŠÉF>Neměli jste na všechny?\! To je v pohodě. Není všem dnům konec! #přiroz
+
+
+#---
+
+#PLUTO AND ZEMĚ FIGHT
+
+
+message_200:
+      text: \n<PLUTO>Á, nečekal bych vás tady, děti.
+
+message_201:
+      text: \n<PLUTO>Můj sen vlastnit dopravní podnik mě již dostal na všelijaká místa po celém širém kosmu...\! Ale přesto se rád vracím domů. #blíže orig
+
+message_202:
+      text: \n<PLUTO>Občas mi chybí mí přátelé...\! třeba tadyhle ZEMĚ.
+
+#ZEMĚ floats DOWN
+
+message_203:
+      text: \n<PLUTO>Já a ZEMĚ jsme kapitola sama o sobě.\! Než nás uzavřeli do téhle sluneční soustavy...\! tak jsme spolu prolétali jednu galaxii po druhé a drtili všechno, co nám stálo v cestě. #ať to zní méně negativně, vesmírní piráti to asi nebyli
+
+message_204:
+      text: \n<PLUTO>Stále na ty časy vřele vzpomínám.
+
+message_205:
+      text: \n<ZEMĚ>...
+
+message_206:
+      text: \n<PLUTO>Copak, ZEMĚ?
+
+message_207:
+      text: \n<PLUTO>Hm...\! Rozumím.
+
+message_208:
+      text: \n<PLUTO>ZEMĚ říká, že bedlivě sleduje celou vaši cestu.\! Říká, že ji váš růst inspiroval...\! a že vás vyzívá na souboj.
+
+message_209:
+      text: \n<PLUTO>Ten náš poslední byl přece vyrušen...\! a tak bychom ho mohli uzavřít zde.\! Co na to říkáte?
+
+message_215:
+      text: \plu\Com[2]\sinv[2]\{GUAHA\{HAHA\{HAHAHAHA!!\} #počeštění
+
+message_210:
+      text: \n<PLUTO>Nakonec jsme se přece ještě jednou dostali na stejný tým!\! Připravte se, děti.\! Vítěžství nebude snadné!
+
+#YES
+
+message_211:
+      text: \n<ZEMĚ>...
+
+message_212:
+      text: \n<PLUTO>Zdá se, že učeň již převýšil učitele.\! Vždy jsem věděl, že tento den přijde...\! i když možná ne tak brzy.
+
+message_214:
+      text: \n<PLUTO>Děkuji, že jste nás pokořily, děti.
+
+message_213:
+      text: \n<PLUTO>Náš čas ve vesmíru také netrvá věčně.\! Ovšem i pro planetu mého věku je důležité se dále učit a růst.\! Ano! To je podstata života!
+
+message_220:
+      text: \n<PLUTO>Běžte dál, děti...\! a sviťte tak, jako svítí nejsvětleší hvězdy všech galaxií!\! Těch, kteří vám věří, je mnoho.\! Víc, než byste čekali!
+
+#NO
+
+message_216:
+      text: Hm.\! Rozumím.\! Možná někdy jindy.\n<PLUTO>
+
+#PLUTO FLOATS UP
+
+#DEFEATING ŠÉF RUSH
+
+message_230:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marGratuluju vám, všichni!\! Tady ode mě máte malý dáreček.\! Zapekla jsem do něj všechnu svou lásku! Hehe...
+
+message_231:
+      text: Získal jsi \c[3]MARINU SUŠENKU\c[0].
+
+message_232:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marOpravdu jste se překonali!\! S BASILEM jsme se na vás dívali skrz tuhle velkou obrazovku.\! Oba dva jsme byli celou dobu napjatí jak kšandy!
+
+message_233:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basNevěřím, že se vám podařilo pokořit ŠÉFOVU VÝZVU!\! Jste fakt nejlepší.\! Jsem tak rád, že mám kamarády tak silné, jako jste vy?. #(no jen si vyber.)
+
+#COOKIE TEXT
+
+message_234:
+      text: \c[3]MARINA SUŠENKA\c[0] byla na povrchu dokonale křupavá a její náplň se ti rozplývala na jazyku. #přiroz
+
+message_235:
+      text: \c[3]MARINA SUŠENKA\c[0] ti přidala 10 ŽIVOTŮ, 10 ŠŤÁVY, 10 ÚTOKU, 10 OBRANY, 10 RYCHLOSTI a 10 ŠŤESTÍ!

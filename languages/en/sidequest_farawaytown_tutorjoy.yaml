@@ -1,0 +1,146 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Joy
+# =========================================================================================
+
+#Examine and take language Tutor Flyer:
+
+message_0:
+      text: Na zdi visí nabídka brigády.\! Přečteš si ji?
+
+#Yes/No
+
+#Yes
+
+message_1:
+      text: \"SHÁNÍME POMOC S DOUČOVÁNÍM! Hledám znalce jazyka<br> na doučování mé dcery, JOY! Nabízím $20,00 na den!\! <br>V případě zájmu přineste tento leták ke mně domů, kde absolvujete krátký pohovor!”
+
+message_2:
+      text: Chceš strhnout \c[4]MODRÝ LETÁK\c[0] ze stěny?
+
+#Yes/No
+
+#Yes
+message_3:
+      text: Na zadní straně je nakreslena cesta k domu.
+#Show map
+
+#Examine Joy's House Door
+
+message_4:
+      text: \n<HUSTÉ OBOČÍ>Dobrý den!\! Co pro vás mohu udělat?
+
+message_100:
+      text: Předal jsi \c[4]MODRÝ LETÁK\c[0] HUSTÉMU OBOČÍ.
+
+message_101:
+      text: \n<HUSTÉ OBOČÍ>Ach ano, vy musíte být JOYINI noví doučovatelé!
+
+message_5:
+      text: \n<HUSTÉ OBOČÍ>Hmm...\! Na pohovor není čas!\! <br>Vy snad zvládáte učivo druhé třídy, ne?
+
+message_7:
+      text: \n<HUSTÉ OBOČÍ>Pospěšte si dovnitř!\! Moje dcera JOY na vás už čeká ve svém pokoji!
+
+#Talk to Joy
+
+message_8:
+      text: \n<MALÁ HOLKA>A-Ahoj... Jmenuji se JOY. Ráda vás poznávám!\!<br>Vy musíte být ti moji noví doučovatelé.\! Začneme hned?
+
+message_9:
+      text: \n<MALÁ HOLKA>Tak tohle je ten pracovní list, na kterém jsem zaseklá...
+
+#Language worksheet
+
+message_10:
+      text: \n<MALÁ HOLKA>Tohle je cvičení mi dělá celkem problém...
+
+message_11:
+      text: Ve větě "Moje tužka někde leží." je podmět
+
+message_12:
+      text: A) Podmět všeobecný
+
+message_13:
+      text: B) Podmět nevyjádřený
+
+message_14:
+      text: C) Podmět vyjádřený
+
+message_15:
+      text: \n<MALÁ HOLKA>Zkusíme další...
+
+message_16:
+      text: Která z následujících vět není zapsána gramaticky správně?
+
+message_17:
+      text: A) Většinu plochy polární oblasti zvané Arktida tvoří Severní ledový oceán.
+
+message_18:
+      text: B) Ničivé tornádo zasáhlo jihovýchodní pobřeží Spojených států Amerických.
+
+message_19:
+      text: C) Po prohlídce Pražského hradu turisté navštívili malebná zákoutí Malé Strany.
+
+message_20:
+      text: \n<MALÁ HOLKA>Tak něco trochu těžšího...
+
+message_21:
+      text: Jaké tvrzení o větě "Na jejich místo ale zastrčila násadu od koštěte a etapu dokončila." je pravdivé?
+
+message_22:
+      text: A) Celá věta neobsahuje žádné nespisovné slovo.
+
+message_23:
+      text: B) Věta obsahuje 1 nespisovné slovo, "koště".
+
+message_24:
+      text: C) Věta obsahuje 2 nespisovná slova, "koště" a "zastrčila".
+
+#Correct choice:
+
+message_25:
+      text: \n<MALÁ HOLKA>Aha, dobře!\! Už to chápu!
+
+#Incorrect choice:
+
+message_26:
+      text: \n<MALÁ HOLKA>Počkat...\! Já myslela, že je správně "A"?
+
+message_27:
+      text: \n<MALÁ HOLKA>Hmm...\! Ale...\! Není správná odpověď "B"?
+
+message_28:
+      text: \n<MALÁ HOLKA>Hmm...\! Wait...\! Není správná odpověď "C"?
+
+message_29:
+      text: \n<MALÁ HOLKA>Aha, už tomu rozumím!\! Vy mě snad zkoušíte...
+
+message_30:
+      text: \n<MALÁ HOLKA>Promiňte, nikdy jsem doučování neměla, nevím, jak to chodí!
+
+#After Completing Language Worksheet:
+
+message_31:
+      text: \n<MALÁ HOLKA>Díky!\! Myslím, že tomu rozumím aspoň o něco víc...\! Hehe...
+
+message_32:
+      text: \n<HUSTÉ OBOČÍ>Ahoj! Ahoj!\! Jak jsi na tom, JOY?\! <br>Byli ti ti doučovatelé alespoň k něčemu?
+
+message_33:
+      text: \n<HUSTÉ OBOČÍ>Á!\! Koukám, že už jsi dodělala ten pracovní list...
+
+message_34:
+      text: \n<HUSTÉ OBOČÍ>Skvělá práce!\! Vy byste se tímhle snad mohli živit!\! <br>Tady máte zaplaceno!
+
+message_35:
+      text: \n<HUSTÉ OBOČÍ>Přijďte prosím i zítra!
+
+message_36:
+      text: \n<HUSTÉ OBOČÍ>Zdravím! Jste tady kvůli mé nabídce o doučování?\! Ne? Ou...
+
+message_37:
+      text: \n<HUSTÉ OBOČÍ>JOY by měla být u sebe v pokoji.\! Díky moc za vaší pomoc!
+
+message_1000:
+      text: Uff...\! Mluvnice...

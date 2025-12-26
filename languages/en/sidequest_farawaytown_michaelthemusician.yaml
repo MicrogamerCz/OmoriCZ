@@ -1,0 +1,63 @@
+
+# =========================================================================================
+# Sidequest: Michael the Musician
+# =========================================================================================
+
+#Intro
+
+message_1:
+      text: \n<KYTARISTA>Čau! Jsem MICHAL, potulný hráč!\! <br>Po letech hraní tady u \c[11]OBCHOĎÁKU\c[0] jsem konečně připraven to dotáhnout dál!
+
+message_24:
+      text: \n<KYTARISTA>Ahoj, to jste zase vy.\! Pořád si snažím vydělat, abych mohl odjet do velkoměsta.
+
+message_2:
+      text: \n<KYTARISTA>Pomůžete mi dosáhnout mého cíle?\! Žádný haléř není nazmar!
+
+message_4:
+      text: Kolik chceš přispět?\$
+
+message_5:
+      text: \n<KYTARISTA>Díky moc!\! Na oplátku vám zahraji mou vlastní píseň!
+
+#Default
+
+message_6:
+      text: \n<KYTARISTA>Už se těším, až si budu moci splnit svoje sny, <br>ale bohužel to znamená opustit mou rodinu...
+
+message_7:
+      text: \n<KYTARISTA>Můj táta nikdy moc nechtěl, abych byl muzikant, ale má sestra JOY vždy trvala na tom, ať do toho jdu.<br><br>Pořád říkala, že to táta pochopí a tak...
+
+message_8:
+      text: \n<KYTARISTA>Haha...\! Podívejte na mě...\! řídil jsem se rady mé sestry.\! <br>Neměl bych spíš já radit jí?
+
+#Cardboard Box
+
+message_9:
+      text: Kartónová krabice s penězi.
+
+#After reaching Donation goal:
+
+message_10:
+      text: \n<KYTARISTA>Ty jo!\! Díky moc za všechno!
+
+message_11:
+      text: \n<KYTARISTA>S posledním darem to vypadá, že odsud konečně budu moct odjet!\! Nemám, co bych balil, tak možná vyrazím rovnou...
+
+message_12:
+      text: \n<KYTARISTA>Asi bych se ale měl se všemi rozloučit...\! ale...\! nevím, jak to vysvětlit mému tátovi...
+
+message_13:
+      text: \n<KYTARISTA>Napřed to raději oznámím mojí sestře...
+
+message_20:
+      text: Přispěl jsi KYTARISTOVI $\v[604].00.
+
+message_21:
+      text: \n<KYTARISTA>Hmm...\! Ještě si budu muset něco vydělat, než budu moct opustit město...
+
+message_22:
+      text: \n<KYTARISTA>Ano!\! Jsem blíž a blíž k tomu, abych si splnil svůj sen!
+
+message_23:
+      text: \n<KYTARISTA>Už jsem skoro tam...\! Ještě trochu a budu si moct splnit svůj sen!

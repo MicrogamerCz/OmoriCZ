@@ -1,0 +1,361 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+#Space Pirate Chief - Otherworld - Inspired me to become a Space Pirate → POPCORN
+
+
+#Goosey - Train Station - Saved my child from danger → 100 CLAMS
+
+message_0:
+    text: \n<HUSKA>Panečku, ty jsi HERO, že?\! Pamatuješ si mě?\! Kdysi dávno jsi vytáhl mé dítě z hluboké propasi!
+
+message_1:
+    text: \n<HUSKA>Tak teď ti to konečně můžu oplatit!
+
+message_2:
+    text: HUSKA sáhla pod své křídlo a podala ti z něj 100 MUŠLÍ.
+
+message_100:
+    text: \n<HUSKA>Jen tak dál, HERO!\!<br>Buď nadále takový svatoušek, jakos byl tehdy!
+
+#Mountain - Train Station - Put out the great wildfire → GRANOLA BAR
+
+message_3:
+    text: \n<HORA>Aha.\! Již jsme se dlouho neviděli, HERO.\! Vlastně naposledy tehdy, když jsi sám uhasil celý ten lesní požár.
+
+message_4:
+    text: \n<HORA>Je mi ctí se s tebou znovu setkat.\! Přijmi prosím tento malý dárek.
+
+message_5:
+    text: HORA otevřela svou pusu a odfoukla z ní do tvé dlaně \c[13]ČTYŘLÍSTEK\c[0].
+
+message_101:
+    text: \n<HORA>Jen tak dál, HERO!\!<br>Buď nadále takový ochránce, jakos byl tehdy!
+
+#Hot Diggity Dog - Train Station - Volunteered at the shelter → HOT DOG
+
+message_6:
+    text: \n<HOTDOŽÍK>Hot...\! do...\! žík TEĎ MI DOŠLO, JAK FUNGUJE JEHO JMÉNO... SAFRA!\! Nevěřím svým očím!\!<br>Jsi to vážně ty, HERO! 
+
+message_7:
+    text: \n<HOTDOŽÍK>Chtěl bych ti poděkovat za všechno to dobrovolničení v útulku.\! Tohle je pro tebe!
+
+message_8:
+    text: HOTDOŽÍK ti jaksi dal \c[3]HOT DOG\c[0].
+
+message_102:
+    text: \n<HOTDOŽÍK>Jen tak dál, HERO!\!<br>Buď nadále tak starostlivý, jakos byl tehdy!
+
+#Smol - Otherworld - Saved my species from the brink of extinction. → PRESENT
+
+message_9:
+    text: \n<MALÍK>Panečku, HERO!\! Tak rád tě zase vidím!
+
+message_10:
+    text: \n<MALÍK>Nikdy nezapomenu, jak jsi náš druh takřka zachránil před vyhynutím!\! Přijmi prosím tento dárek jako poděkování.
+
+message_11:
+    text: MALÍK ti dal vlastnoručně vyrobený \c[13]KAMARÁDSKÝ NÁREMEK\c[0].
+
+message_103:
+    text: \n<MALÍK>Jen tak dál, HERO!\!<br>Buď nadále takový ochránce, jakos byl tehdy!
+
+#Lone Mole - Otherworld - Carried me to safety after The Great Siege → DONUT
+
+message_12:
+    text: \n<KRTEK SAMOTÁŘ>\Com[2]\{Hej, o co se jako-
+
+message_13:
+    text: \n<KRTEK SAMOTÁŘ>Počkat, HERO!?\! Jsi to vážně ty!?\! Tebe jsem neviděl od té doby, co jsi mě odnesl do bezpečí při tom dobývání!<br><br>Připadá mi, že je to už tak dávno...\! ale když jsem viděl, jaký jsi silný, inspiroval jsi mě a od té doby jsem se ti alespoň snažil přiblížit!
+
+message_14:
+    text: \n<KRTEK SAMOTÁŘ>Vem si tenhle dárek.\! Zasloužil sis ho.
+
+message_75:
+    text: KRTEK SAMOTÁŘ ti do dlaně vyplivl \c[3]KOBLIHU\c[0].
+
+message_104:
+    text: \n<KRTEK SAMOTÁŘ>Jen tak dál, HERO!\!<br>Buď nadále takový osvoboditel, jakos byl tehdy!
+
+#Batzy - Sprout Mole Colony - Since you escorted me from one dangerous location to another  → BUTT PEACH SODA
+
+message_15:
+    text: \n<BATZY>Ahoj, HERO!\! Skoro jsem tě nepoznala.<br>Je tady přece taková tma...
+
+message_16:
+    text: \n<BATZY>Vždycky jsem ti chtěla poděkovat za to, jak jsi mě provedl tou nebezpečnou cestou v lese.\! Na! Tohle si vem!
+
+message_17:
+    text: BATZY ti dala \c[3]MERUŇKOVOU SODOVKU\c[0].
+
+message_105:
+    text: \n<BATZY>Jen tak dál, HERO!\!<br>Buď nadále takový zachránce, jakos byl tehdy!
+
+#Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → SNO-CONE
+
+message_18:
+    text: \n<KRTEK Z KRABICE>HERO... Ty ses vrátil!\! Od té doby, cos mi řekl o čem jsou doopravdy Vánoce, je ze mě úplně nový KRTEK.\!<br>Musím ti poděkovat za to, žes mě dovedl k mému novému životu.
+
+message_19:
+    text: \n<KRTEK Z KRABICE>Tohle je jedna z mých nejcennějších věcí, ale chtěl bych ti ji přenechat.
+
+message_20:
+    text: KRTEK Z KRABICE gave you a \c[3]SNO-CONE\c[0].
+
+message_106:
+    text: \n<KRTEK Z KRABICE>Jen tak dál, HERO!\!<br>Buď nadále takovým vůdčím, jakos byl tehdy!
+
+#Skeleton - SW Castle - Slayed the demon king → 300 CLAMS
+
+message_21:
+    text: \n<KOSTÍK>Ach... veliký HERO.\! Opět ses ke mně vrátil.\! Tebe jsem neviděl od té doby, cos tehdy dávno porazil toho krále čertů.
+
+message_22:
+    text: \n<KOSTÍK>Celou dobu tady na tebe čeká odměna.\! Šáhni mi do pravého oka a je tvá.
+
+message_23:
+    text: Sáhl jsi do KOSTÍKOVA pravého oka a vytáhl z něj 300 MUŠLÍ.
+
+message_107:
+    text: \n<KOSTÍK>Jen tak dál, HERO.\!<br>Buď nadále takovým hrdinou, jakos byl tehdy.
+
+#Skeleton - SW Castle - Slayed the reincarnation of the demon king → 301 CLAMS
+
+message_24:
+    text: \n<KOSTÍK>Ach... veliký HERO.\! Opět ses ke mně vrátil.\! Tebe jsem neviděl od té doby, cos tehdy dávno porazil to převtělení krále čertů.
+
+message_25:
+    text: \n<KOSTÍK>Celou dobu tady na tebe čeká odměna.\! Šáhni mi do levého oka a je tvá.
+
+message_26:
+    text: Sáhl jsi do KOSTÍKOVA levého oka a vytáhl z něj 301 MUŠLÍ.
+
+message_108:
+    text: \n<KOSTÍK>Jen tak dál, HERO.\!<br>Buď nadále takovým hrdinou, jakos byl tehdy.
+
+#Tiffany Darling - SW Gallery - Drove the evil spirit out of my house → MANGO SMOOTHIE
+
+message_27:
+    text: \n<MILÁČEK TIFFANY>Panečku! Vážně jsi to ty, HERO!\! Velice jsi mi pomohl.\!<br>Můj život se zcela změnil, poté cos mi z domu vyhnal zlé duchy!
+
+message_28:
+    text: \n<MILÁČEK TIFFANY>Navždy jsem ti dlužná.\! Vem si tento dárek.\! Pro teď by ti měl stačit!
+
+message_29:
+    text: MILÁČEK TIFFANY ti dala \c[3]MANGOVÉ SMOOTHIE\c[0].
+
+message_109:
+    text: \n<MILÁČEK TIFFANY>Jen tak dál, HERO!\!<br>Buď nadále takový andílek, jakos byl tehdy!
+
+#Yin - Orange Oasis -  Helped me gather ingredients for my unlimited cheesecake supply. → WAFFLE
+
+message_30:
+    text: \n<MINA>Ahoj, HERO!\! Dlouho jsme se neviděli, vlastně ani jednou potom, cos mi pomohl sehnat suroviny na tu nekonečnou zásobu tvarohových koláčů.
+
+message_31:
+    text: \n<MINA>Mně stačí ty koláče.\! Ale tobě bych ráda dala tohle!
+
+message_32:
+    text: MINA ti dala \c[3]VAFLI\c[0].
+
+message_110:
+    text: \n<MINA>Jen tak dál, HERO!\!<br>Buď nadále takovým žněčem, jakos byl tehdy!
+
+#Ricoli Ravioli - Orange Oasis - Helped me discover my love of food. → CHEESE WHEEL
+
+message_33:
+    text: \n<RICOLI RAVIOLI>Nazdar, HERO!\! Kolik už je to roků od toho, cos ve mně probudil mou lásku k jídlu?\! Pomohls mi najít můj životní sen a za to ti navždy děkuju!
+
+message_34:
+    text: \n<RICOLI RAVIOLI>Vem si tohle a vůbec se za to nestyď!\! Je to moje oblíbená pochoutka a rozhodně jí mám dost na rozdávání!
+
+message_35:
+    text: RICOLI RAVIOLI ti dal \c[3]KULATÝ SÝR\c[0].
+
+message_111:
+    text: \n<RICOLI RAVIOLI>Jen tak dál, HERO!\!<br>Buď nadále takovým učitelem, jakos byl tehdy!
+
+#Basket Case - Last Resort - Helped file taxes. → CARDBOARD
+
+message_36:
+    text: \n<KOŠÍČEK>Panečku... Jsi to vážně ty, HERO?\! Dostals mě z pořádné patálie, když jsi mi pomohl sepsat to daňové přiznání.\! Upřímně nevěřím, že bych to sám v životě zvládl.
+
+message_37:
+    text: \n<KOŠÍČEK>Opravdu jsi mi zachránil život!\! Vem si tenhle dárek.\! Dlužím ti ho!
+
+message_38:
+    text: KOŠÍČEK ti dal \c[13]ŠPRTSKÉ BRÝLE\c[0].
+
+message_112:
+    text: \n<KOŠÍČEK>Jen tak dál, HERO!\!<br>Buď nadále takový úředník, jakos byl tehdy!
+
+#Silker - Last Resort - Covered work shift at the last minute. → 500 CLAMS, 440 after taxes
+
+message_39:
+    text: \n<HEDVÁB>Ahoj, HERO.\! Tvá přítomnost mi vždycky zpříjemňí pracovní dobu.
+
+message_40:
+    text: \n<HEDVÁB>Nedokážu přestat přemýšlet nad tím, jak jsi mě jednou zaskočil při pohotovostní šichtě.\! Zasloužil by sis taky nějakou laskavost na zpět.\! Vem si tohle!
+
+message_41:
+    text: HEDVÁB otevřel svou peněženku a dal ti z ní 500 MUŠLÍ.
+
+message_42:
+    text: \n<HEDVÁB>Safra...\! Promiň, moje chyba.\! Ještě musím sepsat daně.
+
+message_76:
+    text: HEDVÁB si vzal zpátky 500 MUŠLÍ.
+
+message_77:
+    text: HEDVÁB ti dal 440 MUŠLÍ.
+
+message_78:
+    text: \n<HEDVÁB>Fakt si vážím toho, cos pro mě udělal, HERO.\!<br>Buď nadále takový kamarád, jakos byl tehdy!
+
+
+#Krispy - Casino - Helped to get Jawsum to forgive debt. → CONFETTI
+
+message_83:
+    text: \n<KŘUPEK>Čus, HERO! Ještě jednou dík za to, jak jsi mi posichroval druhy u velkýho šéfa.
+
+message_43:
+    text: \n<KŘUPEK>Nechtěl bych slyšet, cos mu musel říct, aby mi dal pokoj...\! ale vím, žes mi fakt zachránil zadek.
+
+message_44:
+    text: \n<KŘUPEK>Tohle si vem na oplátku... a nestyď se za to.\!<br>Někdy to musíme jít oslavit!
+
+message_79:
+    text: KŘUPEK ti dal \c[5]KONFETY\c[0].
+
+message_113:
+    text: \n<KŘUPEK>Jen tak dál, HERO!\!<br>Buď nadále takový lidumil, jakos byl tehdy!
+
+#Wolf - Saved my marriage.  → 143 CLAMS
+
+message_45:
+    text: \n<VLK>Počkat...\! Ty jsi ten kluk, co mi zachránil manželství!\! HERO, že?\! Nikdy jsem ti za to ani neměl šanci poděkovat.
+
+message_46:
+    text: \n<VLK>S penězma to mám poslední dobou celkem blbé, ale tohle by mi snad nemělo nijak ublížit.\!<br>Snad je to s tebou v pohodě.\! Zasloužíš si to.
+
+message_47:
+    text: VLK sáhl do své kapsy a dal ti 143 MUŠLÍ.
+
+message_114:
+    text: \n<VLK>Jen tak dál, HERO!\!<br>Buď nadále takový smírce, jakos byl tehdy!
+
+#Shamboo - Concierge - Held me accountable for my actions → DYNAMITE
+
+message_48:
+    text: \n<SHAMBOO>Ah...\! You are the boy who held me accountable for my actions.\! I have changed my ways since my past confrontation with you... perhaps for the better.
+
+message_49:
+    text: \n<SHAMBOO>It is not much, but take this from me...\! Please, I insist.
+
+message_50:
+    text: SHAMBOO lifted up his hat and gave you \c[5]DYNAMITE\c[0].
+
+message_115:
+    text: \n<SHAMBOO>Jen tak dál, HERO...\!<br>Buď nadále takový pacesetter jakos byl tehdy...
+
+#Touchdown - Concierge - Awakened my true potential → WATERMELON JUICE
+
+message_51:
+    text: \n<PŘISŤA>Wait just a sec! You're HERO, right?\! I remember you!\! Back when I was still a rookie, your training helped me awaken my true potential.
+
+message_52:
+    text: \n<PŘISŤA>I don't got much on me right now, but I don't like owing people nothin' either.\! Take this and let's call it even.
+
+message_53:
+    text: PŘISŤA gave you \c[3]WATERMELON JUICE\c[0].
+
+message_116:
+    text: \n<PŘISŤA>Jen tak dál, HERO!\!<br>Buď nadále takový influence jakos byl tehdy!
+
+#Hoagie - Club Sandwich - Donated organs to save REUBEN's life → 5000 CLAMS
+
+message_54:
+    text: \n<HOAGIE>Yo, HERO.\! I know you'll never bring this up yourself, but...\! me and REUBEN really owe our lives to you.
+
+message_55:
+    text: \n<HOAGIE>When you said you were going to donate your organs to save REUBEN's life...\! I didn't think you would actually go through with it.
+
+message_56:
+    text: \n<HOAGIE>You're one of a kind and I hope you know that, HERO.\! It's not much, but take this.
+
+message_80:
+    text: HOAGIE reached into his shirt and gave you 5000 CLAMS.
+
+message_81:
+    text: \n<HOAGIE>Wishing you good vibes, HERO.\!<br>Buď nadále takový donor jakos byl tehdy!
+
+#City Slicker - Underwater Highway - Helped me recover through surgery → MILK
+
+message_57:
+    text: \n<MĚSTSKÝ ŠVIHÁK>No to poteš koště!\! Nečekal bych, že se uvidíme znovu tak brzo, HERO!
+
+message_58:
+    text: \n<MĚSTSKÝ ŠVIHÁK>Zrovna jsem se dostal ze špitálu po tom, cos mi pomohl se uzdravit.\! Tohle jsem odtamtud ukradl, ale nikomu to neříkej!\! Je pro tebe!
+
+message_59:
+    text: MĚSTSKÝ ŠVIHÁK ti ze své bundy podal \c[3]MLÉKO\c[0].
+
+message_117:
+    text: \n<MĚSTSKÝ ŠVIHÁK>Jen tak dál, HERO!\!<br>Buď nadále taková opora, jakos byl tehdy!
+
+#Jet Setter - Underwater Highway  - Found and returned stolen bicycle → AIR HORN
+
+message_60:
+    text: \n<PRIMA>Hej hej hej!\! Že by to byl fakt HERO?!\! Hrozně bych ti chtěl oplatit to, jak jsi mi tehdy pomohl dostat zpátky to ukradné kolo!
+
+message_61:
+    text: \n<PRIMA>Jseš hustej týpek, HERO.\! Fakt, ten nejhustější.\! Tady máš dárek, přímo dělaný pro lidi tak husté, jako jsi ty.
+
+message_62:
+    text: PRIMA ti ze svých vlasů podal <br>\c[13]HUSTÉ BRÝLE\c[0].
+
+message_118:
+    text: \n<PRIMA>Jen tak dál, HERO!\!<br>Buď nadále tak spravedlivý, jakos byl tehdy!
+
+#Skull Crusher - Underwater Highway  - Taught how to read → POETRY BOOK
+
+message_63:
+    text: \n<LEBKODRTIČ>Takže, HERO! Přišels pozdravit partu, viď?\! Od té doby, cos mě naučil číst, vidím svět totálně jinak.
+
+message_64:
+    text: \n<LEBKODRTIČ>Tady je ta knížka, na kterés mě to naučil.\! Už jsem si ji přečetl dostkrát, tak si ji klidně vem zpátky.
+
+message_65:
+    text: LEBKODRTIČ sáhl do kapsy a podal ti z ní <br>\c[5]SBÍRKU BÁSNÍ\c[0].
+
+message_82:
+    text: \n<LEBKODRTIČ>Vzdělávání...\! To je teprv nenahraditelný, kámo.
+
+#Brick - Underwater Highway - Saved family restaurant → WHOLE CHICKEN
+
+message_66:
+    text: \n<CIHLA>Nazdar, HERO, jak je?\! Nemůžu nad tebou přestat přemýšlet od toho dne, cos zachránil naši rodinnou restauraci.
+
+message_67:
+    text: \n<CIHLA>Vem si tohle, kámo.\! Naše specialita... musíš ji zkusit!
+
+message_68:
+    text: CIHLA si sundal svůj šátek a podal ti z něj <br>\c[3]CELÉ KUŘE\c[0].
+
+message_119:
+    text: \n<CIHLA>Jen tak dál, HERO!\!<br>Buď nadále takové zlato, jakos byl tehdy!
+
+#SEacow - Underwater Highway - Saved the farm → COMBO MEAL
+
+message_69:
+    text: \n<MOŘSKÁ KRÁVA>HERO!\! Tebe jsem naposledy viděla, když jsi nám zachránil farmu!
+
+message_70:
+    text: \n<MOŘSKÁ KRÁVA>Nikdy jsem neměla příležitost ti to oplatit, hrozně mě to zžíralo... \! Ale teď už můžu!\! Vem si tohle, kamaráde.
+
+message_71:
+    text: MOŘSKÁ KRÁVA ti jaksi dala \c[3]CELÉ MENU\c[0].
+
+message_120:
+    text: \n<MOŘSKÁ KRÁVA>Jen tak dál, HERO!\!<br>Buď nadále takový salám, jakos byl tehdy!

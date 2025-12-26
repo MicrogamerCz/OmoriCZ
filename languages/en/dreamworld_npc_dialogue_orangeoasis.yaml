@@ -1,0 +1,174 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Orange Oasis========================================
+
+                        #====NIGHT 2====
+
+#CROSSANT
+#Location: Oasis: Flip him
+#DINO 1: Dino's Dig - Excavation Mini-Game
+#DINO 2: Dino's Dig - Excavation Shop
+#DINO 3: Dino's Dig
+#DINO 4: Dino's Dig - Itch Quest
+
+#KOBLIBABIČKA 1
+#GRANDMA DONUT HOUSE
+message_0:
+      text: \n<KOBLIBABIČKA>Má vnučka mě moc často nenavštěvuje, ale čas od času mi od ní přijde pohled!\! Vypadá to, že se jí vede dobře! #přiroz
+
+message_1:
+      text: \n<KOBLIBABIČKA>V tomhle věku už moc nevidím, ale nějaké ty tvary ještě<br>rozeznávám.\! A koukám...\! že vy jste parta dost zvláštně vytvarovaných koblih!
+
+message_2:
+      text: \n<KOBLIBABIČKA>\com[2]Cože?\! Říkal jsi něco, synku?\ #odstranění anglického zbytku
+
+#DONUT HOLE
+#GRANDMA DONUT HOUSE
+message_3:
+      text: \n<DÍRA Z KOBLIHY>\sinv[1]Uguuuuu!
+
+#HECTOR THE ROCK: Excavation Quest
+#HECTOR JR: Excavation site quest
+#Jelly: Dream world P&J Quest
+#After Peanut and Jelly quest: (PALMINKA's House)
+message_4:
+      text: \n<MARMELÁDA>Hehe...\! PANÍ PALMINKA bude tak překvapená <br>téhle \c[4]DĚKOVNOU VYKOPÁVKU\c[0]!\! Viď, BURÁKU?
+
+message_5:
+      text: \n<BURÁK>Mhmm!
+
+#HOŘÍCÍ MUŽ
+#Location: Orange Oasis
+
+message_6:
+      text: \n<HOŘÍCÍ MUŽ>...\! Z tvých očí planou starosti...\! Vidím, že tě něco tíží...
+
+message_7:
+      text: \n<HOŘÍCÍ MUŽ>Něco ti povím, kluku.\! Když víš, že tě čeká<br>náročná a těžká cesta...\! nesmíš za žádnou cenu ztrácet naději! #arduous na náročná (sedí lépe)
+
+message_8:
+      text: \n<HOŘÍCÍ MUŽ>Netrácej naději v budoucnost, ani v sebe!\!<br>Ano!\! S dostatkem víry je možné vše!\! A...\! i kdyby vše ostatní <br>selhalo, nezapomeneš, že ti věřím?
+
+#Yes/No
+#Yes
+message_9:
+      text: \n<HOŘÍCÍ MUŽ>Skvěle.\! Přijmi prosím tuto schopnost jako dar. #přiroz
+
+message_12:
+      text: HERO se naučil DOVEDNOST \c[1]PÁLIVÉ JÍDLO\c[0]!
+
+message_11:
+      text: \n<HOŘÍCÍ MUŽ>A teď mě prosím omluv, musím jít.
+#HOŘÍCÍ MUŽ continues running
+message_10:
+      text: \n<HOŘÍCÍ MUŽ>V tom případě...\! ti to budu muset zopakovat!
+
+message_13:
+      text: \n<HOŘÍCÍ MUŽ>Skvěle.\! A teď mě prosím omluv, musím jít.
+#repeat message 7 and 8
+
+#MINA: Lcation: MINA'S CAVE: Ingredients quest
+#MINA'S KID 1: Mina's CAVE
+#MINA'S KID 2: Mina's CAVE
+#MINA'S KID 3: Mina's CAVE
+#MINA'S KID 4: Mina's CAVE
+#MINA'S KID 5: Mina's CAVE  #Mentions shadowy chasm in dreamworld blackspace references
+#MINA'S KID 6: MINA'S CAVE
+#ORANGE JOE: Orange Oasis- Long Lost Brother Quest
+#After lost brothers quest:
+message_20:
+      text: \n<POMERANČOVÝ JOE a POREMANČOVÝ JOE>\sinv[1]Naděje a vášeň!\! Naděje a vášeň! #poremančový
+#PALMINKA
+#Location: PALMINKA's HOUSE
+message_21:
+      text: \n<PALMINKA>Vítejte u mě doma!\! Zde se starám o děti, které nemají kde jinde složit hlavu.
+
+message_22:
+      text: \n<PALMINKA>Poslední dobou je to tady trochu pusté, a mám čím dál větší strach, zda se necítí osaměle...
+
+message_23:
+      text: \n<PALMINKA>BURÁK a MARMELÁDA mi dávají velice zvláštní dárky...\! Co by tak mohli chystat tentokrát? #přiroz
+
+
+                        #====NIGHT 3====
+#Other chars: Same as Night 2
+#HOŘÍCÍ MUŽ: N/A
+
+
+#TOFU CONCONNAADJFKALSF
+
+#intro:
+message_50:
+      text: \n<HYPERFAJNŠMEKR TOFU>Já jsem HYPERFAJNŠMEKR TOFU!\!<br>A miluju všechny druhy \c[3]TOFU\c[0]!
+
+message_51:
+      text: \n<HYPERFAJNŠMEKR TOFU>Každý kousek \c[3]TOFU\c[0] je výjimečný a zaslouží si být dle toho také vychutnán! #blíže orig
+
+message_52:
+      text: \n<HYPERFAJNŠMEKR TOFU>\c[3]TOFU\c[0] není pro každého, ale tím víc ho zbude pro mě !
+
+message_53:
+      text: \n<HYPERFAJNŠMEKR TOFU>Pokud mi dáš 10 kousků \c[3]TOFU\c[0], dám ti za něj jednu SVÁČU, kterou jsem našel na jedné ze svých cest zaměřených na \c[3]TOFU\c[0]! #přiroz
+
+message_54:
+      text: \n<HYPERFAJNŠMEKR TOFU>Vyměníš si se mnou 10 kousků \c[3]TOFU\c[0] za jednu SVAČINU?
+#[YES/NO]
+
+#[YES]
+message_55:
+      text: Dal jsi HYPERFAJNŠMEKROVI TOFU 10 kousků \c[3]TOFU\c[0].
+
+message_56:
+      text: \n<HYPERFAJNŠMEKR TOFU>Výborně! A teď si na oplátku vezměte tuhle oproti \c[3]TOFU\c[0] nepříliš výjimečnou SVÁČU!
+
+message_59:
+      text: Získal jsi \c[3]\itemget\c[0]!
+
+message_58:
+      text: \n<HYPERFAJNŠMEKR TOFU>Snad si ji užijete, stejně jako já těchle velice vyjímečných 10 kousků \c[3]TOFU\c[0]! #blíže orig
+
+#[NO] doesn't need text
+
+#default after:
+
+#message_50
+#message_53
+#message_54
+
+
+message_57:
+      text: \n<HYPERFAJNŠMEKR TOFU>Hele! Vždyď u sebe nemáte 10 kousků \c[3]TOFU\c[0]...
+
+message_60:
+      text: \n<OPRAVDOVÝ KRTEK>Ty voníš jako tatík!\! Žije ještě tatík?\!<br>Naposledy jsem ho viděl, když ho hodili do rituálního trezoru!
+
+message_61:
+      text: \n<OPRAVDOVÝ KRTEK>\com[2]Výtržníci!\! Pryč s vámi, mrtvá KAŠE!
+
+message_62:
+      text: \n<OPRAVDOVÝ KRTEK>Naši páni nespí, proto také nespíme.\! Den sem... den tam... a potom \sinv[1]čerstvý chléb... čerstvý chléb... čerstvý chléb...\c[0] #chleba na chléb
+
+message_63:
+      text: \n<OPRAVDOVÝ KRTEK>Naši páni mají poslední dobou podstatně více zakázek, než obvykle.\!<br>Musí z toho už být na hraně.
+
+
+#After biscuit and doughie defeated
+message_65:
+      text: \n<OPRAVDOVÝ KRTEK>Jak se tatíkovi vede?\! Vrátí se ke mně?
+
+message_66:
+      text: \n<OPRAVDOVÝ KRTEK>\com[2]Návštěvníci!\! Vítejte, živá KAŠE!
+
+message_67:
+      text: \n<OPRAVDOVÝ KRTEK>Bez našich pánů jsme volní!\! Nyní si z tohohle místa uděláme nový domov!
+
+message_68:
+      text: \n<OPRAVDOVÝ KRTEK>Naši páni na nás byli hodní...\! Fňuk...\! Budou mi chybět OPLATKOVY vtipy...
+
+message_70:
+      text: \n<MALÝ KAKTUS>Zdravím vás.\! Díky za rozhovor.
+
+message_71:
+      text: Získal jsi 100 MUŠLÍ!

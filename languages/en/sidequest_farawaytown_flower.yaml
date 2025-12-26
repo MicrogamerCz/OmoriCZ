@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Flower
+# =========================================================================================
+
+#Talk to Charlie
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubCo tady děláš, CHARLIE?\!<br>'Sem nevěděla, že se ti líběj kytky...
+#u líběj se mi nezdá, že by bylo cokoli ze slova spolknuto
+message_2:
+      text: \cha...
+
+message_3:
+      text: CHARLIE ti dala \c[4]KYTIČKOVOU SPONKU\c[0].
+
+#CHARLIE walks O.S.

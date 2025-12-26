@@ -1,0 +1,462 @@
+
+# =========================================================================================
+# Pet Rock Battles - uznávám, že tento soubor je hodně špatný už z mého pohledu
+# =========================================================================================
+
+
+# =========================================================================================
+#KEL- PLUTO
+# =========================================================================================
+
+#before fight
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTy jo! Počkej, SUNNY!\! <br>Ty sis fakt koupil \c[13]DOMÁCÍ KAMÍNEK\c[0]?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelTy brďo!\! Nevěřím svým očím...\! Je to trochu divný, je fakt, že jsme se jich už od mlada nedotkli...\! ale čirou náhodou ten svůj ještě pořád mám!
+
+#KEL takes something out of his pocket.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelA to přímo tady!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelZvláštní náhoda, že jo? #nahrazuju nemyslíš
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHele, mám nápad!\! Co kdybychom si s nima zabojovali?\! Však ty si ještě pamatuješ, jak se to hrálo, ne? #blíže orig
+#yes
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSamozřejmě!\! Na tyhle věci se nezapomíná! #přiroz
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\sinv[1]Kamaráde...\!\sinv[0] Jsem úplně natěšený!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]\sinv[1]\{\{A JDE SE NA VĚC!!
+
+#no
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHaha...\! Neboj.\! I když si to už nepamatuješ, určitě to hned okoukáš, není to žádná věda!
+
+
+#after victory
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelSafra, prohrál jsem...\! No jo, taky už nejsem moc ve formě...\! <br>Neva.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelTobě stejně vždycky šli z nás všech videohry nejlíp!\! Jde vidět, že jsi pořád ten stejný SUNNY, jako tehdy! #přiroz
+
+
+#after loss
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelHa, ha...\! Už nejsi moc ve formě, viď?\! <br>To nevadí.\! Určitě to brzo zas pochytíš.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelVím, že už je to nějaký ten pátek, a tak by opáčko asi nebylo od věci, viď?\! \c[13]DOMÁCÍ KAMÍNKY\c[0] je hra, ve které se tvoje kamínky spojí a společně zápasí proti nepřátelům, a nebo prostě BOJUJOU mezi sebou! #jasnější
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelKdyž budeš svůj \c[13]DOMÁCÍ KAMÍNEK\c[0] nosit jako TALISMAN...\! tak určitě najdeš další hráče, které bys mohl vyzvat!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelA z toho, co jsem slyšel...\! tak jejich vyhlášený šampion nebydlí daleko odsud...\! akorát že nikdo neví, jak vypadá.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelTajemný, co?\! Kdo ví, možná, že na něho někdy narazíme! #přiroz, překlep
+
+
+# =========================================================================================
+#TOMATOGIRL
+# =========================================================================================
+
+#Intro
+
+message_20:
+      text: \n<BAREVNÁ HOLKA>A!\! Všimla jsem si, že máš taky \c[13]DOMÁCÍ KAMÍNEK\c[0]!\! Chtěl by sis ZABOJOVAT?
+
+#yes
+message_21:
+      text: \n<BAREVNÁ HOLKA>Dobře!\! Své RAJČÁTKO trénuju už od mlada!\!<br>Nenechám se tebou skolit!
+
+#player win
+message_22:
+      text: \n<BAREVNÁ HOLKA>Sakra práce...\! Nedělej si z toho hlavu, RAJČÁTKO. Není to tvoje chyba...\! Dělalas, co mohla!
+
+#player loses
+message_23:
+      text: \n<BAREVNÁ HOLKA>Jupí!\! Zvládli jsme to!\! Já věděla, že vyhraješ, RAJČÁTKO!
+
+message_150:
+      text: \n<BAREVNÁ HOLKA>Tak dobře! Kdyby sis ale někdy chtěl zabojovat, stačí říct!
+
+
+# =========================================================================================
+      #MUNCHER KING
+# =========================================================================================
+
+#Intro
+#Reference Farawaytown_dialogue_tucker: messages 16,17,18,20,21
+
+#reward
+message_140:
+      text: \n<PODIVÍN>Odkazuji ti tuto čepici, na již tak chtivě hledíš...\! A teď odejdi!
+
+# =========================================================================================
+#ROSE LAD
+# =========================================================================================
+
+#Intro
+message_35:
+      text: \n<FEŠÁK>Hele, není tohle náhodou \c[13]DOMÁCÍ KAMÍNEK\c[0]?\! Já mám jeden taky!\!<br>Chtěl bys se mnou BOJOVAT? #označení herní mechaniky velkým, přiroz
+#yes
+message_36:
+      text: \n<FEŠÁK>Jupí, to bude sranda! A nešetřeme se!\! Na něj, RŮŽÁKU! Věřím ti!
+#player win
+message_37:
+      text: \n<FEŠÁK>Je ti něco, RŮŽÁKU?\! Tak, tak... Pěkně si odpočiň.
+
+message_38:
+      text: \n<FEŠÁK>Haha... To byla sranda!\! Díky, žes mě vyzval.\! Asi by to chtělo RŮŽÁKA trochu víc vycvičit...
+#player loses
+message_39:
+      text: \n<FEŠÁK>Helemese!\! To byl dobrý souboj, ale vypadá, že by to ještě chtělo trochu potrénovat...\! Zvládli jsme to, RŮŽÁKU!\! Seš nejlepší!
+
+message_40:
+      text: \n<FEŠÁK>Ach jo... Vždyť by byla sranda...\! No nic, tak možná příště!
+
+# =========================================================================================
+      #SAUCY K
+# =========================================================================================
+
+#Intro
+message_42:
+      text: \n<ANDĚL>A hele! Tak ty máš \c[13]DOMÁCÍ KAMÍNEK\c[0]?\! Musíš mě vyzvat na SOUBOJ!\! OMÁČ-K nikdy nebude poražena!<br>Je ten nejlepší \c[13]DOMÁCÍ KAMÍNEK\c[0] na světě a já nemám strach ti to dokázat! #jasnější
+#yes
+message_43:
+      text: \n<ANDĚL>Nevíš, do čeho jdeš...\! Tak pojďme, OMÁČ-KO!\! Jen mu ukaž, co proto!
+#no
+message_44:
+      text: \n<ANDĚL>Ts... Tak dobře, zbabělče!
+#player win
+message_45:
+      text: \n<ANDĚL>\com[2]\{\sinv[1]OMÁČ-KO!!\! NÉÉÉÉ\{ÉEE\{EEE\{EEE!!
+
+message_46:
+      text: \n<ANDĚL>Fňuk...\! Ty jsi ale zlý!
+
+#player loses
+message_47:
+      text: \n<ANDĚL>Co jsem ti říkal?!\! OMÁČ-K je nejlepší!\! <br>Na nás prostě nemáš!
+
+# =========================================================================================
+      #BUNNY
+# =========================================================================================
+
+#Intro
+message_50:
+      text: \n<RAI>Ty jo, ty máš taky \c[13]DOMÁCÍ KAMÍNEK\c[0]\! Já se o ně začal zajímat teprv nedávno...
+
+message_51:
+      text: \n<RAI>Můj je ještě pořád malý, ale jednou z něho určitě bude silák!\! Chtěl by sis ZABOJOVAT?
+
+#yes
+message_52:
+      text: \n<RAI>Supr!\! Pojďme na to, KRÁLÍČKU!\! Spojme síly!
+#player win
+message_53:
+      text: \n<RAI>Safra...\! Tvůj \c[13]DOMÁCÍ KAMÍNEK\c[0] je dost silný.\! Vypadá, že s KRÁLÍČKEM máme co dohánět.
+#player loses
+message_54:
+      text: \n<RAI>Ty jo, my fakt vyhráli?!\! To jsem opravdu nečekal... ale stěžovat si nebudu! Haha!
+
+message_200:
+      text: \n<RAI>Ach jo...\! Ale my s KRÁLÍČKEM potřebujeme trénink...
+
+# =========================================================================================
+      #PAPA CHIP
+# =========================================================================================
+
+#Intro
+message_55:
+      text: \n<DVOJČE>\sinv[1]Á... Vidím, že taky máš \c[13]DOMÁCÍ KAMÍNEK\c[0].
+
+message_56:
+      text: \n<DRUHÉ DVOJČE>\sinv[1]Nechtěl by...\! sis...\! náhodou...\! ZABOJOVAT?
+#yes
+message_57:
+      text: \n<DVOJČE>Hmm...\! Hmm...\! Ty jsi ale sebevědomý...\! Věz, že se vítězem nestaneš jen tak pro nic za nic...
+
+message_58:
+      text: \n<DRUHÉ DVOJČE>TATÍKU ČIPE!\! Ukažme jim naši sílu! #počeštění
+
+#player win
+message_59:
+      text: \n<DRUHÉ DVOJČE>My... jsme prohrály? #přiroz, rod
+
+message_60:
+      text: \n<DVOJČE>Hmm...\! Ano...\! Zdá se, že tento SOUBOJ jsme vskutku prohráli...
+
+message_61:
+      text: \n<DRUHÉ DVOJČE>Škoda...
+
+
+#player loses
+
+message_65:
+      text: \n<DRUHÉ DVOJČE>My... jsme vyhrály? #konzistence
+
+message_66:
+      text: \n<DVOJČE>Hmm...\! Ano...\! Zdá se, že jsme tenhle SOUBOJ vskutku vyhráli...
+
+message_67:
+      text: \n<DRUHÉ DVOJČE>Skvěle.
+
+# If defeated at least 4 pet rock challengers
+#Leave hobbeez
+
+message_71:
+      text: \n<PRODAVAČ>Hej, SUNNY!\! Slyšel jsem, že po celým městě BOJUJEŠ s \c[13]DOMÁCÍ KAMÍNEKY\c[0]!
+
+message_72:
+      text: \n<PRODAVAČ>Kdybys chtěl pořádnou výzvu, znám pár týpků z \c[11]OBCHOĎÁKU\c[0], ti jsou fakt že veteráni...\! dohromady jsou čtyři!
+
+message_75:
+      text: \n<PRODAVAČ>Běžně nováčky na souboj nevyzývají... ale pro tebe by určitě udělali výjimku!
+
+message_73:
+      text: \n<PRODAVAČ>Zkus se tam poptat prodavačů a stálých zákazníků...\! Ti ti určitě dají pořádně zabrat!
+
+# =========================================================================================
+      #OCOTAKO
+# =========================================================================================
+
+#Intro
+message_85:
+      text: \n<CUTE GIRL>O-Ó!\! Ahojky...
+
+message_86:
+      text: \n<CUTE GIRL>Hmmm... Koukám...\! že nosíš \c[13]DOMÁCÍ KAMÍNEK\c[0], což znamená, že mě určitě chceš vyzvat na SOUBOJ!
+
+message_87:
+      text: \n<CUTE GIRL>...
+
+message_88:
+      text: \n<CUTE GIRL>Víš, my veteráni jsme opravdu ostřílení.\! Vážně mě pořád chceš vyzvat?
+#yes
+message_89:
+      text: \n<CUTE GIRL>T-Tak dobře!\! Na něj, OKOTACO!\! Ukážeme jim, co znamená být veterán!
+
+#No
+message_93:
+      text: \n<CUTE GIRL>Tomu rozumím.\! Ale kdyby sis někdy myslel, že jsi připravený, jsem ti k dispozici.
+
+#player win
+message_90:
+      text: \n<CUTE GIRL>M-My...\! jsme prohrály?\! Ty jo...\! To mě vážně překvapuje... #konzistence
+
+message_91:
+      text: \n<CUTE GIRL>Tak to PRODAVAČ rozhodně věděl, koho posílá.\! Vidím, že máš talent.\! Rozhodně to dotáhneš daleko! #blíže orig
+
+#player loses
+message_92:
+      text: \n<CUTE GIRL>Dobrý pokus!\! ZABOJOVAL jsi dobře, ale já a OKOTACO to spolu táhneme už roky!\! Hlavně nepřestávej trénovat... Zlepšíš se, na to vem jed!
+
+
+# =========================================================================================
+      #LIL' G
+# =========================================================================================
+
+#Intro
+message_94:
+      text: \n<BREJLOVEC>Hele, to je \c[13]DOMÁCÍ KAMÍNEK\c[0], viď?!
+
+message_95:
+      text: \n<BREJLOVEC>Pokud jsi sem přišel...\! tak to znamená, že víš o veteránech \c[11]OBCHOĎÁKU\c[0].
+
+message_96:
+      text: \n<BREJLOVEC>A jestli tě sem poslal PRODAVAČ, tak seš asi taky celkem dobrej...\! He, he... #odstranění h
+
+message_97:
+      text: \n<BREJLOVEC>Já jsem taky jedním z nich!\! Překvapil jsem tě?\! Můj opravdový titul je GINO, BOJOVNÍK JAŠÍ!\! Chtěl bys mě vyzvat na SOUBOJ? #přiroz
+
+#yes
+message_98:
+      text: \n<BREJLOVEC>Tak v tom případě...\! ti já, GINO, jeden ze čtyř veteránů \c[11]OBCHOĎÁKU\c[0] ukážu, co to znamená být profíkem!\!<br>Hrr na ně, MALÝ G'!!
+
+#player win
+message_99:
+      text: \n<BREJLOVEC>\com[2]\{MALÝ G'!\! MALÝ G'!\! HALÓ, ŘEKNI NĚCO!! #přiroz
+
+message_100:
+      text: \n<BREJLOVEC>...
+
+message_101:
+      text: \n<BREJLOVEC>Počkat...\! To ty vlastně neumíš, viď? #jasnější
+
+message_102:
+      text: \n<BREJLOVEC>No, tak to byla celkem prda.\! Každopádně ti ale gratuluju!\! Tobě a tvému \c[13]DOMÁCÍMU KAMÍNKU\c[0] se to fakt povedlo!
+
+
+message_103:
+      text: \n<BREJLOVEC>Možná vám ostatní veteráni dají o něco víc zabrat!
+
+
+#player loses
+message_104:
+      text: \n<BREJLOVEC>Ano! Zvládli jsme tom MALÝ G'!\! Ha... Holt není vždycky posvícení.\! Snažili jste se... a na tom přece záleží nejvíc!
+
+message_300:
+      text: \n<BREJLOVEC>\com[2]A-A-A-A-Ale proč ne?
+
+# =========================================================================================
+      #P'terry
+# =========================================================================================
+
+#Intro
+message_105:
+      text: \n<PRODAVAČ NÁŘADÍ>Ha...\! Vidím, že se tady parádíš se svojím \c[13]DOMÁCÍM KAMÍNKEM\c[0]!\! Já ten svůj během pracovní doby většinou nepovolávám...\! ale jestli tě sem poslal PRODAVAČ, tak musíš být fakt dobrej.
+
+message_106:
+      text: \n<PRODAVAČ NÁŘADÍ>Jsi připraven na \sinv[1]opravdovou\sinv[0] výzvu?
+
+#yes
+message_107:
+      text: \n<PRODAVAČ NÁŘADÍ>Jakožto jeden ze čtyř veteránů \c[11]OBCHOĎÁKU\c[0] mám čest, kterou si musím obhájit!\! A pokud chceš SOUBOJ, tak ho máš mít! Jen věz, že se jen tak nenechám!
+
+#player win
+message_108:
+      text: \n<PRODAVAČ NÁŘADÍ>\com[2]To ne! Tohle musí být nějaké nedorozumění...\! P'TERRY...\! Jaktože jsme prohráli?\! \sinv[1]Uff...\sinv[0]\! No nic...\!<br>Tak pátky do práce...
+#player loses
+message_109:
+      text: \n<PRODAVAČ NÁŘADÍ>Dobrej pokus, kluku.\! To byla celkem sranda, ale P'TERRY nakonec stejně vyhrál!\! Snad to příště půjde líp!
+
+message_110:
+      text: \n<PRODAVAČ NÁŘADÍ>Ha! To jsem čekal.
+
+# =========================================================================================
+      #Cool S
+# =========================================================================================
+
+#Intro
+message_115:
+      text: \n<PRODAVAČ>Ach... SUNNY...\! Tak ses nakonec ukázal!\! Slyšel jsem, žes už stihl porazit ty ostatní veterány...
+
+message_132:
+      text: \n<PRODAVAČ>Ano, slyšels dobře...\! řekl jsem...\! ty ostatní veterány!
+
+message_116:
+      text: \n<PRODAVAČ>Už bylo na čase, abych se odhalil!\!<br>Já jsem PRODAVAČ, nejsilnější z veteránů \c[11]OBCHOĎÁKU\c[0]! Tak co, ZABOJUJEME si?
+
+#yes
+message_117:
+      text: \n<PRODAVAČ>Jsi opravdu působivý...\! Za tak krátkou dobu se ti povedlo porazit všechny veterány v okolí...\! až na mě...
+
+message_118:
+      text: \n<PRODAVAČ>SUNNY...\! Je na čase, abych osobně prozkoušel tvé schopnosti!\! ZABOJUJEŠ si se mnou, a to hned teď a tady!
+
+message_133:
+      text: \n<PRODAVAČ>Ha... Já věděl, že to řekneš...
+
+message_121:
+      text: \n<PRODAVAČ>\com[2]\sinv[1]\{\{DO BOJE!!
+
+#player win
+message_122:
+      text: \n<PRODAVAČ>Úžasné...\! Jsi fakt úžasný, SUNNY...
+
+message_123:
+      text: \n<PRODAVAČ>Možná jsi dokonce lepší, než...\! Ne...\! <br>Nic jsem neřekl...
+
+message_124:
+      text: \n<PRODAVAČ>Tady máš svou cenu.
+
+message_125:
+      text: \n<PRODAVAČ>A mimochodem...\! V \c[11]OBCHOĎÁKU\c[0] je ještě jeden veterán, dokonce silnější, než já...
+
+message_126:
+      text: \n<PRODAVAČ>Někteří o ní říkají, že je ta nejlepší BOJOVNICE na světě...\! ale...\! je tajnůstkářka a svou identitu se aktivně pokouší skrývat...
+
+message_127:
+      text: \n<PRODAVAČ>I když...\! kdybys na ni narazil, rozhodně by už z dálky poznala tvou sílu, stejně jako já.
+
+message_128:
+      text: \n<PRODAVAČ>Rozhodneš-li se s ní utkat, je dost možné, že toho budeš litovat...\! ale já ti v tom bránit nebudu.
+
+message_129:
+      text: \n<PRODAVAČ>Buď ale opatrný...\! Je opravdu přebornice...\! ...\! Byl jsi varován.
+
+#player loses
+
+message_130:
+      text: \n<PRODAVAČ>To byl opravdu skvělý souboj, SUNNY!\! S JAŠEM jste oba bojovali jako o život, ale nakonec jsem stejně vyhrál já!
+
+message_131:
+      text: \n<PRODAVAČ>Přesto ti musím pogratulovat.\! Rozhodně ti muselo dát zabrat se dostat takhle daleko!\! Ale řekl bych, že je na čase, abyste si s JAŠEM pořádně odpočinuli!
+
+
+# =========================================================================================
+      #One-Winged Jash
+# =========================================================================================
+
+#Intro
+message_135:
+      text: PANÍ Z HUBERTA civí na tvůj \c[13]DOMÁCÍ KAMÍNEK\c[0].
+
+message_136:
+      text: \n<PANÍ Z HUBERTA>...
+
+message_160:
+      text: \n<PANÍ Z HUBERTA>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
+#player win
+message_137:
+      text: \n<PANÍ Z HUBERTA>DOBŘE.\! VYHRÁLS.
+
+message_143:
+      text: \n<PANÍ Z HUBERTA>VEM SI TOHLE.
+#player loses
+message_138:
+      text: \n<PANÍ Z HUBERTA>...
+
+message_141:
+      text: \n<PANÍ Z HUBERTA>DOBRÁ PRÁCE.
+
+message_142:
+      text: Získal jsi \c[13]KŠILTOVKU S NÁPISEM \"TVRDÝ JAKO KAMÍNEK\"\c[0]! #lepší něco, než nic
+
+#additional pet rock dialogue

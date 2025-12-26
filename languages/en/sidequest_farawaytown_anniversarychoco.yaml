@@ -1,0 +1,166 @@
+# =========================================================================================
+# Sidequest: anniversary CHOCOLATE
+# =========================================================================================
+
+#TRIGGER: Talk to MATLÁK
+
+message_0:
+      text: \n<MATLÁK>Safra... Jsem mrtvý muž...
+
+message_1:
+      text: \n<MATLÁK>Málem jsem zapomněl na to, že s ženou máme dneska výročí...\! tak se tady teď snažím jaksi zmírnit škody... Haha...
+
+message_2:
+      text: \n<MATLÁK>Uvědomil jsem si, že jsem to celkem zmatlal, a proto bych jí chtěl dát dárek, který na ni udělá dojem!
+
+message_3:
+      text: \n<MATLÁK>Akorát že...\! Jako obvykle...\! vůbec nevím, co mám dělat...\!<br>Jakákoliv pomoc by přišla vhod.
+
+message_4:
+      text: \n<MATLÁK>Takže...\! Pomohli byste mi vybrat ten dárek\! Předem děkuji!
+
+#Examine CHOCOLATE / CARAMEL APPLES / CANDY:
+
+# [YES]
+
+message_5:
+      text: \n<MATLÁK>Přesně tak!\! \c[3]ČOKOLÁDA\c[0]!\! Tu si určitě zamiluje!
+
+message_6:
+      text: \n<MATLÁK>Přesně tak!\! \c[3]KARAMELOVÉ JABLKA\c[0]!\! Ty si určitě zamiluje!
+
+message_7:
+      text: \n<MATLÁK>Přesně tak!\! \c[3]BONBÓNY\c[0]!\! Ty si určitě zamiluje!
+
+message_28:
+      text: \n<MATLÁK>Myslíte, že na ni tohle udělá dojem?
+
+message_29:
+      text: \n<MATLÁK>Každopádně díky, že jste mě dostali z tohohle průšvihu...\!<br>Bylo to fakt o fous.
+
+message_30:
+      text: \n<MATLÁK>\sinv[1]\{\{HURÁ!!\sinv[0]
+
+# [No]
+
+message_8:
+      text: \n<MATLÁK>Tak tedy ne...\! Tohle je opravdu důležité rozhodnutí...\! Měli bychom si ho vážně promyslet!
+
+#Cutscene: Sarah's Dad Buys CHOCOLATE
+
+message_9:
+      text: \n<MATLÁK>Dobrý den!\!<br>Jednu \c[3]ČOKOLÁDU\c[0], prosím!\!<br>Pro mou drahou ženu!\! Dnes máme výročí!
+
+message_10:
+      text: \n<MATLÁK>Dobrý den!\!<br>Pár \c[3]KARAMELOVÝCH JABLEK\c[0], prosím!\!<br>Pro mou drahou ženu!\! Dnes máme výročí!
+
+message_11:
+      text: \n<MATLÁK>Dobrý den!\!<br>Jedny \c[3]BONBÓNY\c[0], prosím!\!<br>Pro mou drahou ženu!\! Dnes máme výročí!
+
+message_12:
+      text: \n<PANÍ CANDICE>Jistě!\! Smiley, smiley!\!<br>Děkujeme vám za váš nákup a přijďte zas!\! Smiley, smiley!
+
+message_13:
+      text: \n<MATLÁK>Díky za vaši pomoc, děcka!\!<br>Jdu teda na to...\! Držte mi palce!
+
+message_14:
+      text: \n<PANÍ S CULÍKEM>Ahoj, to jste zase vy.\! Díky, že jste mě přesvědčili mému manželovi koupit \c[3]CELOU PIZZU\c[0].\! Vypadá tak šťastně...\! a já jsem šťastná z toho, že on je šťastný!
+
+message_15:
+      text: \n<PANÍ S CULÍKEM>A k tomu dárku, který mi dal on...
+
+message_16:
+      text: \n<PANÍ S CULÍKEM>Asi zase zapomněl... Víte, v té <br>\c[11]CUKRÁRNĚ\c[0] jsme se seznámili, když jsme byli asi tak staří, jako vy.
+
+message_17:
+      text: \n<PANÍ S CULÍKEM>Tehdy mi taky koupil \c[3]ČOKOLÁDU\c[0]...\! <br>Hehe...\! Prý mi ji koupil proto, že jsem nejkrásnější holka, kterou kdy viděl.
+
+message_18:
+      text: \n<PANÍ S CULÍKEM>Tehdy mi taky koupil \c[3]KARAMELOVÉ JABLKA\c[0]...\! <br>Hehe...\! Prý mi ji koupil proto, že jsem nejkrásnější holka, kterou kdy viděl.
+
+message_19:
+      text: \n<PANÍ S CULÍKEM>Tehdy mi taky koupil \c[3]BONBÓNY\c[0]...\! <br>Hehe...\! Prý mi ji koupil proto, že jsem nejkrásnější holka, kterou kdy viděl.
+
+message_20:
+      text: \n<PANÍ S CULÍKEM>Byla to taková maličkost... A vlastně mě na něm přitahovala hlavně jeho upřímnost a ryzost.
+
+message_21:
+      text: \n<PANÍ S CULÍKEM>Vždycky býval trochu surový, ale jde vidět, že mě má vážně rád...\! Proto je asi v pořádku, když se někdy neshodneme.\! Manželství je přece hlavně o kompromisech!
+
+message_22:
+      text: \n<PANÍ S CULÍKEM>Každopádně vám děkuji za to, že jste mi dneska pomohli.\!<br>Tady máte dárek na oplátku vy.
+
+message_23:
+      text: Získal jsi \c[3]KOUSEK PIZZY\c[0]!
+
+message_25:
+      text: Měl by MATLÁK koupit \c[3]ČOKOLÁDU\c[0]?
+
+message_26:
+      text: Měl by MATLÁK koupit \c[3]BONBÓNY\c[0]?
+
+message_27:
+      text: Měl by MATLÁK koupit \c[3]KARAMELOVÉ JABLKA\c[0]?
+
+message_60:
+      text: \n<PANÍ CANDICE>Vybíráte mezi \c[3]BONBÓNY\c[0], \c[3]ČOKOLÁDOU\c[0] a \c[3]KARAMELOVÝMI JABLKY\c[0]?\! To je teda těžká volba!\! Smiley, smiley!
+
+message_300:
+      text: Vybral jsi \c[3]ČOKOLÁDU\c[0].
+
+message_301:
+      text: Vybral jsi \c[3]BONBÓNY\c[0].
+
+message_302:
+      text: Vybral jsi \c[3]KARAMELOVÉ JABLKA\c[0].
+
+# =========================================================================================
+#Cutscene: Old Love (Triggers when both anniversary Pizza and anniversary CHOCOLATE are complete)
+# =========================================================================================
+
+message_40:
+      text: \n<MATLÁK>Drahá...\! Dneska máme výročí, a tak jsem ti koupil...\!<br>\c[3]ČOKOLÁDU\c[0]!
+
+message_41:
+      text: \n<MATLÁK>Drahá...\! Dneska máme výročí, a tak jsem ti koupil...\!<br>\c[3]KARAMELOVÉ JABLKA\c[0]!
+
+message_42:
+      text: \n<MATLÁK>Drahá...\! Dneska máme výročí, a tak jsem ti koupil...\!<br>\c[3]BONBÓNY\c[0]!
+
+message_43:
+      text: \n<PANÍ S CULÍKEM>Ó! Ty sis vzpomněl?!\!<br>Děkuji ti, drahý...\! To je od tebe tak hezké...
+
+message_44:
+      text: \n<MATLÁK>Je...\! Vážně?!\! Haha!\! No...\! To je!\! Jsem ráda, že si to myslíš!
+
+message_45:
+      text: \n<PANÍ S CULÍKEM>Já pro tebe taky mám dárek...\!<br>A to sice \c[3]CELOU PIZZU\c[0 z \c[11]GINOVY PIZZERIE\c[0]!
+
+message_46:
+      text: \n<MATLÁK>\c[3]CELÁ PIZZA\c[0]!?\! Má drahá! Tos nemusela!\!<br>Tohle je snad nejlepší dárek, který jsem v životě dostal!
+
+message_47:
+      text: \n<PANÍ S CULÍKEM>Já...\! věděla, že se ti bude líbil...\!<br>Byla jsem na tebe poslední dobou tak zlá...
+
+message_48:
+      text: \n<PANÍ S CULÍKEM>A tak mě napadlo... že by tě tvé oblíbené jídlo mohlo rozveselit!
+
+message_49:
+      text: \n<MATLÁK>Ne... Nelituj toho, já tě chápu!\!<br>Já vím, že pro mě chceš jen to nejlepší!
+
+message_50:
+      text: \n<MATLÁK>Promiň, že jsem tak těžký na zvládnutí...
+
+message_51:
+      text: \n<PANÍ S CULÍKEM>Ale nedělej, broučku! Mám tě ráda takového, jaký jsi!\!<br>Co kdybychom si dali pizzu i zítra?!\!<br>Co ty na to?
+
+message_52:
+      text: \n<MATLÁK>Ale drahá! To myslíš vážně?\!<br>\sinv[1]Jsi teď tak krásná, že bych ti hned dal pusu!\sinv[0]
+
+message_53:
+      text: \n<PANÍ S CULÍKEM>\sinv[1]Ale! Už se zase červenám...\sinv[0]
+
+#[Camera pans to SARAH at the living room entrance]
+
+message_54:
+      text: \n<HOLKA S CULÍKEM>Fuj...\! To je ale hnus.\!<br>Raději půjdu zpátky k sobě do pokoje...

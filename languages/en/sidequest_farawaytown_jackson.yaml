@@ -1,0 +1,29 @@
+
+# =========================================================================================
+# Sidequest: Defeat Jackson
+# =========================================================================================
+
+#Examine Jackson Poster
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTy jo! Tahle stvůra vypadá fakt skoro skutečně!\!<br>S ním by ale byla rvačka! #stvůra se mi hodí více
+
+#Battle with Jackson starts
+#Battle with Jackson ends
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kel...\! Halo?\! \n[8]?\!<br>... \!Vnímáš, Sunny?... #tenhle idiom nejde přeložit, dávám sem nejbližší náhradu
+
+#Show a ! exclamation on Kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kel\com[2]Ty jo! Zpoza toho plakátu vypadlo \c[4]CDČKO\c[0]...\!<br>Divný...\! Kdo by ho tam dával?\!<br>Tak...\! že bychom si ho vzali?
+
+message_4:
+      text: Získal jsi \c[4]ŠŤASTNÉ CDČKO\c[0].

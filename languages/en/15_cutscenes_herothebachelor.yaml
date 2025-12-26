@@ -1,0 +1,568 @@
+# =========================================================================================
+# Cutscene: Hero the Bachelor / To THE DUNGEON With You!
+# =========================================================================================
+
+#Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
+
+message_0:
+      text: Někdo! Prosím, pojďte!\! <br>Potřebovali bychom pohledného mladého muže!\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK jumps
+
+message_1:
+      text: Vy... Ano, vy!\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK walks one step forward.
+
+message_2:
+      text: Vy v těch pruhovaných kalhotech.\! Vy \quake[1]přenádherné stvoření!\quake[0]\!<br>Ano... Ohohoho... Ano, vám se jistě zadaří!\n<KNÍRKOKRTEK> #malé v
+
+#HERO sweats.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: C-Cože?\! Ty jo... Já...\! T-Teda, jo, děkuji! <br>J-Já... nemám slov...\her
+
+#KNÍRKOKRTEK walks up to HERO.
+
+message_4:
+      text: Prosím, pane. Že byste nám pomohl?\! <br>Zoufale vyžadujeme vaši pomoc.\n<KNÍRKOKRTEK>
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: No, když jste se zeptal tak hezky... Jak bych Vás mohl odmítnout?\her
+
+#KNÍRKOKRTEK jumps.
+
+message_6:
+      text: Děkuji vám! Děkuji, mladý muži! Jste velmi velkorysý.\! <br>Pojďte prosím za mnou. Šup šup!\n<KNÍRKOKRTEK> #citoslovce
+
+#KNÍRKOKRTEK attempts to push HERO O.S. toward stage.
+#HERO sweats.
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: P-Počkejte! Můžou moji kamarádi se mnou?\her
+
+#KNÍRKOKRTEK is confused, then surprised.
+
+message_8:
+      text: Ach, ano! Vaši kamarádi...!\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK turns to party.
+
+message_9:
+      text: Vy jste se sem přišli podívat na \"ZLATÍČKO HLEDÁ ZLATÍČKA\", že?\!<br>V tom případě byste se měli potkat dost brzy.\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK turns to HERO.
+
+message_10:
+      text: A teď už pojďte, pane! Musíme si pospíšit. Čas běží!\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK and HERO walk O.S.
+
+message_11:
+      text: HERO opustil tvou partu.
+
+#Take seats
+
+message_12:
+      text: Jsi připraven se posadit do první řady?
+
+# =========================================================================================
+# Cutscene: Hero the Bachelor / To THE DUNGEON With You! (Cont.)
+# =========================================================================================
+
+#Trigger: Examine Front Row Seats.
+message_30:
+      text: Zdravíme všechny fanoušky ZLATÍČKA.<br>Omlouváme se za krátké vyrušení.\! <br>Vítejte zpátky na našem pravidelném programu!\smm #přestávka na vyrušení
+
+message_31:
+      text: A se zármutkem vám musíme oznámit tragickou událost, která se před chvílí zde v zákulisí stala...\smm #aby se to neopakovalo
+
+#Curtain opens, revealing a portrait of SNALEY.
+
+message_32:
+      text: Oznamujeme vám nešťastnou smrt <br>SOUTĚŽÍCÍHO Č.3...\smm
+
+message_33:
+      text: Budeme na něj vřele vzpomínat, ač s námi byl jen pár chvílí.\! Byl opravdu jedinečná a nenahraditelná osobnost.\smm #unikátní na jedinečná
+
+#Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
+
+message_34:
+      text: \Com[2]\{\sinv[1]ALE SHOW MUSÍ POKRAČOVAT!!\smm
+
+message_35:
+      text: Prosím potlest pro našeho nového SOUTĚŽÍCÍHO Č.3...\!<br>Přicházejícího k nám až z \c[11]ROZLEHLÉHO LESA\c[0]...\!<br>Náš rytíř na bílém koni...!\smm #zde to nejde do ČJ přeložit
+
+message_36:
+      text: Držte si klobouky, pánové.\!<br>HERO je opravdový štramák, vysoký neuvěřitelných 170 centimetrů!\smm
+
+#Someone whistles.
+
+message_37:
+      text: Mezi jeho zájmy patří pečení, vaření a uklízení...\!<br>A pokud vám ještě nepřipadá jako dokonalý muž, jen si počkejte na jeho působivý úsměv a klidnou osobnost!\smm #mírná na klidná
+
+#Wild applause.
+
+message_38:
+      text: A nyní...<br>je opět čas představit hlavní hvězdu tohoto pořadu!\smm
+
+message_39:
+      text: \{\Com[2]ZHASNĚTE, PROSÍM!!\smm
+
+#The lights dim.
+
+message_40:
+      text: \sinv[1]Oplývá...\| krásou... \|Vyzařuje...\| půvab...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm
+
+message_41:
+      text: Ano!\! Všichni víte, o kom mluvíme!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #ještě to bude chtít nějak dobře přeložit to pod tím
+
+message_42:
+      text: She's the one... \!the only... \!the magnificent...\smm
+
+message_43:
+      text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+
+#The stage curtain opens revealing SW on a lounge chair.
+
+message_44:
+      text: \Com[2]\sinv[2]\{OHOH\{OHOHOHOHO\{HOHOHOHOHO!!!\swh
+
+#Fan laugh
+
+message_45:
+      text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\swh
+
+message_46:
+      text: Překrásný vstup, Vaše Veličenstvo!\smm #vaše veličenstvo
+
+#Wild applause.
+#SWEETHEART jumps off from cake.
+
+message_47:
+      text: \sinv[2]\{\{PŘEEEESNĚ TAK!!\! TO JSEM JÁ!!\swh #přirozenější
+
+message_48:
+      text: Zdravím, mí hloupí, posedlí fanoušci!\swh
+
+message_49:
+      text: \sinv[1]Milujume tě, ZLATÍČKO!<br>Jo, jsi nejlepší!\n<HLOUPÍ POSEDLÍ FANOUŠCI>
+
+message_50:
+      text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
+
+message_51:
+      text: ZLATÍČKO...\! Zde na toto pódium jsme Vám přinesli tři nejlepší nápadníky, které tento svět kdy viděl.\!Bude dnešek ten den, kdy vám jeden z nich padne do oka?\smm #malé v, ale dost možná to změním zpátky
+
+#SMM and SWEETHEART turn to face the CONTESTANTs.
+
+message_52:
+      text: Začněme s pár otázkami.\! <br>Jedna z věcí, které ZLATÍČKO vyžaduje po partnerovi je bezpodmínečná a absolutní poslušnost!\smm
+
+message_106:
+      text: SOUTĚŽÍCÍ Č.1...\! Skládáte ZLATÍČKU slib věrnosti do konce vašeho života?\!<br>SOUTĚŽÍCÍ Č.1! Jak zní vaše odpověď?\smm
+
+#CONTESTANT #1 is confused.
+
+message_53:
+      text: No...\! jo. \!Nevím... \!Asi jo...\n<SOUTĚŽÍCÍ Č.1>
+
+#SMM turns to SWEETHEART.
+
+message_54:
+      text: Předstírání nezájmu, jak vidím!\! Co říkáte na tuto odpověď, ZLATÍČKO?\smm #blíže orig
+
+#SWEETHEART is annoyed.
+
+message_55:
+      text: Mmm... Jen 91 centimetrů?\! To teda ne, ten je až moc malý!\! <br>\Com[2]do \c[11]HLADOMORNY\C[0] s ním!\swh #měním pořadí hladomorny, tohle by mohlo způsobovat problémy, budu se muset na to podívat ne hře
+
+#CONTESTANT #1 starts sweating.
+
+message_56:
+      text: Počkat... C-Cože?\! \c[11]DO H-HLADOMORNY\c[0]?\n<SOUTĚŽÍCÍ Č.1>
+
+#Guards come out and escort CONTESTANT #1 to THE DUNGEON.
+
+message_57:
+      text: \{\sinv[1]PO\{MOOOO\{OOOC!!!\sinv[0]\n<SOUTĚŽÍCÍ Č.1> #více O
+
+#CONTESTANT #2 is sweating.
+#SMM turns to CONTESTANT #2.
+
+message_58:
+      text: A nyní je na řadě SOUTĚŽÍCÍ Č.2.\! Na vás máme stejnou otázku.\! <br>Není žádná správná ani špatná odpověď. Stačí odpověďet upřímně\smm #malé v, přirozenější
+
+message_59:
+      text: SOUTĚŽÍCÍ Č.2...\!<br>Skládáte ZLATÍČKU slib věrnosti do konce vašeho života?\smm
+
+#CONTESTANT #2 is sweating.
+
+message_60:
+      text: No...\! jistě!<br>Pokud mě za to nepošlete do \c[11]HLADOMORNY\C[0]...\n<SOUTĚŽÍCÍ Č.2>
+
+#SWEETHEART is annoyed.
+
+message_61:
+      text: Propána! Tenhle...\! Jeho samotná existence mě uráží.\! <br>Pryč s ním, hoši!\swh
+
+#Guards come out and escort CONTESTANT #2 to THE DUNGEON.
+#HERO starts sweating.
+#SMM turns to HERO.
+
+message_62:
+      text: SOUTĚŽÍCÍ Č.3! Vypadá, že jste nám tu zůstal jako poslední!\!<br>I vás se znvou zeptám na tu stejnou otázku.<br>Nemusíte se samozřejmě bát odpověďet upřímně.\smm #blíže orig, přirozenější
+
+message_63:
+      text: HERO, skládáte ZLATÍČKU slib věrnosti do konce vašeho života?\smm
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: ...\her
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: No... Ne. To mi nezní příliš spravedlivě.\!<br>Proč bych to vůbec dělal?\her #férově na spravedlivě
+
+#SWEETHEART is in love.
+
+message_66:
+      text: Ach...\! Tenhle.\! Je přímo bezvadný!\! <br>Jak je tohle možné?\! Že by se ZLATÍČKO...\! \sinv[1]konečně zamilovalo?\swh
+
+message_67:
+      text: \{\Com[2]TO JE ALE NEPŘEDPOVÍDATELNÝ ZVRAT!\!\}<br>Tohle musí být osud! Pro ZLATÍČKO jako stvořený!\smm #tohle říká sprout mole mike (myslí, že tak se jmenuje)
+
+message_68:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: P-Počkat, vždyť jsem říkal, že-\her
+
+message_69:
+      text: \sinv[1]\{ALE, TO NEVADÍ.\!\}<br>Jak že se jmenuješ?\swh
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: C-Co?\! Jo, já jsem...\! HERO, paní...\her
+
+message_71:
+      text: HERO!\! \Com[2]Můj HERO!\! Musíme ihned do paláce!\swh
+
+message_72:
+      text: Stráže! Vybrala jsem si ženicha.\!<br>\{ODNESTE HO!\swh #ženicha
+
+#Guards come out and walk toward HERO.
+#HERO takes a step back and sweats.
+#HERO turns to the audience.
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KAMARÁDI! PROSÍM... DĚLEJTE NĚCO!!\her
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Ty jo! HERO si bude brát ZLATÍČKO?\!<br>To by mě jaktěživ nenapadlo!\kel
+
+#AUBREY turns to KEL.
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Co to meleš, KELI!? Musíme mu pomoct!\aub #přirozenější
+
+#KEL turns to AUBREY.
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: A jak jako? <br>Já nechci do \c[11]HLADOMORNY\c[0]!\kel
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Uff... KELI. Ty jsi úplně k ničemu.\aub
+
+#AUBREY turns to HERO.
+#AUBREY jumps.
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: HERO!\! Musíš ji odmítnout!\aub
+
+#HERO takes a step back.
+
+message_79:
+      text: \sinv[1]Nadešel čas, HERO! Tvá princezna na tebe čeká!\swh
+
+#ADD Ohohoho
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: No... Pochybuju, že by mě poslechla.\her
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \Com[2]\{DĚLEJ!!\aub
+
+#HERO takes a step back and turns around.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\her
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 44
+      text: Dobře, zkusím to.\her
+
+#HERO turns to SWEETHEART.
+
+message_84:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Promiňte...\! paní...\! ZLATÍČKO?\her
+
+message_85:
+      text: \sinv[1]Ach, ano... Můj miláčku, HERO!<br>Jak toužím jen slyšet tvůj hlas!<br>Řekni mé jméno znovu!\sinv[0]\swh
+
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Ty jo, haha... To je od vás ale pěkné...\! Teda-\her #malé v
+
+message_87:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \}Uff... Proč tohle musím dělat?\her
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Tedy...\!<br>Omlouvám se, ZLATÍČKO, ale...\! Já...\! nemám...\! zájem...\her
+
+message_89:
+      text: Cože? Jak to myslíš, můj princi?\swh
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text:  Já...\! umm...\! Všechno tohle je mě velice těší, ale, víte...<br>Potkali jsme se teprve před chvílí a...\her #velice ohromující na velice těší
+
+message_91:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: No...\! Odmítám Vaši...\! umm...\! nabídku?\her
+
+#Audience gasps.
+
+message_92:
+      text: No tak! Neblázni, HERO! <br>Vskutku, nic bláznivějšího jsem v životě neslyšela!\swh
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Ale...\! Já to myslel vázně.\!<br>Omlouvám se, ZLATÍČKO...\her
+
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Ale já...\! si vás...\! nechci...\! vzít.\her #předělávka blíže orig,
+
+message_95:
+      text: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \swh
+
+message_96:
+      text: Tohle...\! Tohle je nehorázné...\! ...\!<br>Ne...\! Tohle...\! \Com[2]Tohle je rouhání!\swh
+
+message_97:
+      text: \{\Com[2]\QUAKE[1]JAK SE OPOVAŽUJEŠ ODMÍTNOUT ZLATÍČKO!?!?\swh #přirozenější
+
+message_98:
+      text: \{\Com[2]KAŽDÝ MILUJE ZLATÍČKO!!<br>SLYŠÍŠ MĚ!? KAŽDÝ!!\swh #všichni na každý
+
+message_99:
+      text: \{ZAVŘETE HO DO \c[11]HLADOMORNY\C[0]!!\swh
+
+
+#Guards close in on HERO.
+#AUBREY jumps.
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Hej! Dost!\!<br>HERA nám nesmíte vzít, patří k nám!\aub
+
+message_101:
+      text: Co má tohle znamenat?\!<br>Co dělají v publiku nefanoušci ZLATÍČKA?\swh
+
+message_102:
+      text: Aha...\! Rozumím...\! Tím pádem musíte být HEROVI fanoušci!\swh
+
+message_103:
+      text: Ta vaše drzost...<br>Nejdříve ze mě děláte blbce... a potom mi ještě začnete kazit můj vlastní pořad?!\swh
+
+message_104:
+      text: Tady velím já!\swh #přirozenější, ale dost možná by to šlo i lépe. pokud máte nápad, klidně nahraďte
+
+message_105:
+      text: \{\Com[2]STRÁŽE! PRYČ S NIMA!!\swh
+
+#Guards appear from everywhere and pose to arrest.
+
+message_107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Tys tomu dala, AUBRY...\kel #za mě zní lépe
+
+#Guards surround party and screen turns black.
+
+# =========================================================================================
+# Cutscene: Escape THE DUNGEON
+# =========================================================================================
+
+#Trigger: Sent to Sweetheart DUNGEON
+
+
+message_130:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: Ach joo...\! a jsme zavření v \c[11]HLADOMORNĚ\C[0]...\kel
+
+message_131:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Promiňte. Můžu za to všechno já.\her
+
+message_132:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ale ne, HERO...\!<br>Kdo by to byl řek, že se něco takového vůbec stane?\aub
+
+message_133:
+      text: Ohohohoho...\who
+
+#KEL, AUBREY, and HERO are surprised.
+
+#KNÍRKOKRTEK walks in front of jail cell.
+#HERO is surprised and walks up.
+
+message_134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hej, tebe si pamatuju!<br>Ty jsi ten KLÍČKOKRTEK, který mě vyzval, abych se přihlásil do soutěže!<br>\!Nedostal bys nás odsud?\her #odsus
+
+message_135:
+      text: Ohohohoho...\n<KNÍRKOKRTEK>
+
+message_136:
+      text: \sinv[2]OHOH\{OHOH\{OHOH\{OHOH~!!\n<KNÍRKOKRTEK>
+
+message_137:
+      text: \{VY HLUPÁCI!\n<KNÍRKOKRTEK>
+
+message_138:
+      text: Vy si na mě nevzpomínáte!?\n<KNÍRKOKRTEK>
+
+#KNÍRKOKRTEK takes off MUSTACHE.
+
+message_139:
+      text: \{\Com[2]JSEM TO CELOU DOBU JÁ!\! ROSA!!\!\}<br>ZLATÍČČINA největší fanynka!\ros
+
+message_140:
+      text: Já vám říkala, že zaplatíte za to, co jste mi udělali!\ros
+
+message_141:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Sakryš! Oni na nás ušili boudu!\kel
+
+message_142:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Měl jsem tušit, žes v tom měla prsty!\kel
+
+message_143:
+      text: Jak se říká... <br>\{POMSTA JE SLADKÁ!!\ros
+
+message_144:
+      text: A teď tady všichni zhynete! Hyňte v \c[11]HLADOMORNĚ\C[0] nadosmrti!\ros
+
+#ROSA walks O.S.
+
+message_145:
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros
+
+message_146:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Safra... Jak se odsud dostaneme?\her
+
+message_147:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Nějaká cesta ven se najde!\!<br>No tak... Pojďme dát hlavy dohromady.\aub
+
+message_148:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Kde bychom vůbec začli?\! <br>Snad by prostě nenechali dveře odemčené...\!<br>nebo snad...?\her
+
+# =========================================================================================
+# Cutscene: The Ugliest
+# =========================================================================================
+
+#Trigger:
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Koukejte, támhle!\aub
+
+#AUBREY does a twirl.
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Východ!\aub
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\sinv[1]JUPÍÍÍÍ!! KONEČNĚ SVOBODA!!\sinv[0]\kel
+
+message_173:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: Pojďme odsud pryč...\!<br>Už v životě nechci vidět KLÍČKOKRTKA.\her
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+#Trigger: Trying to leave after AUBREY says the show is about to start
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Kam jdeš, OMORI?! Musíme se přece podívat na ten pořad!\aub
+
+#Trigger: Trying to leave after ROSA takes HERO
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Počkej, OMORI!\! Nemůžeme přece odejít bez HERA!\aub

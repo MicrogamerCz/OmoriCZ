@@ -1,0 +1,428 @@
+
+# =========================================================================================
+# FARAWAY TOWN Shops
+# =========================================================================================
+
+            #Supermarket
+
+#Intro
+message_1:
+      text: \n<PANÍ Z HUBERTA>AHOJ!\! 你是要 MŇAM \c[3]RYBA\c[0] 吗?\! 是!
+
+#Purchase
+message_2:
+      text: \n<PANÍ Z HUBERTA>OUKEJ!\! 谢谢, 孩子!
+
+message_3:
+      text: \n<PANÍ Z HUBERTA>AHOJ!\! 你是要 \c[3]RYBA\c[0] 吗?\! 是!
+
+message_4:
+      text: Získal jsi \c[4]MASO\c[0].
+
+message_5:
+      text: Získal jsi \c[3]RYBU\c[0].
+#Insufficient Funds
+message_6:
+      text: \n<PANÍ Z HUBERTA>PROMIŇTE.\! MÁLO PENĚZ. #vykání
+#item buying prompt
+message_100:
+      text: \n<PANÍ Z HUBERTA>TAHLE CENA V POHODĚ? $<SHOPTOTAL>.00.\^
+#max item message
+message_101:
+      text: \n<PANÍ Z HUBERTA>NENÍ MÍSTO, PROMIŇTE!\.\^
+#on item list buy ok
+message_102:
+      text: \n<PANÍ Z HUBERTA>KOLIK?\.\^
+#item selling ok
+message_103:
+      text: \n<PANÍ Z HUBERTA>KOLIK?\.\^
+#item selling prompt
+message_104:
+      text: \n<PANÍ Z HUBERTA>TAHLE CENA V POHODĚ? $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_105:
+      text: \n<PANÍ Z HUBERTA>DOBRÁ PRÁCE.
+#item buying cancel
+message_106:
+      text: \n<PANÍ Z HUBERTA>OK.
+
+
+            #Bakery
+
+#Intro
+message_7:
+      text: \n<PAN PEKAŘ>Vítejte v naší rodinné pekárně! Co byste si přál?
+#Purchase
+message_8:
+      text: \n<PAN PEKAŘ>Skvělá volba! Hned vám to zabalím!
+#Insufficient Funds
+message_9:
+      text: \n<PAN PEKAŘ>Na tuhle delikatesu nemáte dost peněz!
+#item buying prompt
+message_80:
+      text: \n<PAN PEKAŘ>Dobře! To bude $<SHOPTOTAL>,00.\.\^
+#max item message
+message_81:
+      text: \n<PAN PEKAŘ>Vidím, že toho víc už neunesete.\.\^
+#on item list buy ok
+message_82:
+      text: \n<PAN PEKAŘ>Kolik byste jich chtěl?\.\^
+#item selling ok
+message_83:
+      text: \n<PAN PEKAŘ>Cože, vy byste chtěl něco prodat nám?
+#item selling prompt
+message_84:
+      text: \n<PAN PEKAŘ>Tak za tohle bychom vám nabídli $<SHOPTOTAL>,00.\.\^
+#item selling cancel prompt
+message_85:
+      text: \n<PAN PEKAŘ>Díky! Přijďte někdy zas!
+#item buying cancel
+message_86:
+      text: \n<PAN PEKAŘ>Cože? Tak nakonec ne?
+
+message_10:
+      text: \n<PANÍ PEKAŘOVÁ>Nazdárek, děti!\! Víte, že mám syna asi stejně starého, jako vy?\!<br>Pořád se jenom někde fláká s těma jeho chuligánama a nosí tu svoji otřesnou blonďatou paruku...
+
+message_11:
+      text: \n<PANÍ PEKAŘOVÁ>Kéž by byl tak zodpovědný, jako jeho starší sourozenci!
+
+message_12:
+      text: \n<PANÍ PEKAŘOVÁ>Tuhle pekárnu tady provozujeme už čtvrtou generací potom, co se sem má mamka přestěhovala přes půl země! #přes oceán dává mysl, když jsme ve spojených státech, ale ne v čr
+
+message_13:
+      text: \n<PANÍ PEKAŘOVÁ>Doufám, že ji po mně jednou mé děti převezmou...\! Pro mě a mého manžela by to znamenalo opravdu hodně!
+
+            #Candy Shop
+
+#Intro
+message_14:
+      text: \n<PANÍ CANDICE>Ahojky! To jsem já!\! Radostná a veselá PANÍ CANDICE!<br>Tak co to dneska bude? Milí zlatí!
+#Purchase
+message_15:
+      text: \n<PANÍ CANDICE>Děkuji! Milí zlatí!
+#Insufficient Funds
+message_16:
+      text: \n<PANÍ CANDICE>Jejdanane...\! Vypadá, že na tohle nemáte!\!<br>Milí zlatí!
+#item buying prompt
+message_70:
+      text: \n<PANÍ CANDICE>Jasňačka! To bude $<SHOPTOTAL>,00.<br>Milí zlatí!\.\^
+#max item message
+message_71:
+      text: \n<PANÍ CANDICE>Promiňte, ale tohle všechno asi neunesete!\!<br>Milí zlatí!\.\^
+#on item list buy ok
+message_72:
+      text: \n<PANÍ CANDICE>Super! A kolik byste jich chtěl? Milí zlatí!\.\^
+#item selling ok
+message_73:
+      text: \n<PANÍ CANDICE>Copak? Vy a prodávat mně? Milí zlatí!\.\^
+#item selling prompt
+message_74:
+      text: \n<PANÍ CANDICE>Za tohle vám asi dám... tolik! Milí zlatí!\.\^
+#item buyin cancel prompt
+message_75:
+      text: \n<PANÍ CANDICE>Díky! Milí zlatí!
+#item buying cancel
+message_76:
+      text: \n<PANÍ CANDICE>Ale, to je v pořádku! Úplně v pohodě!<br>Milí zlatí!
+
+message_77:
+      text: \n<PANÍ CANDICE>Přijďte prosím někdy zas!\! (Nebo bude zle...)
+
+message_78:
+      text: \n<PANÍ CANDICE>Milí zlatí!
+
+            #Pharmacy
+
+#Intro
+message_17:
+      text: \n<LÉKÁRNÍK>Řízli jste se, poškrábali, nebo tak něco?
+
+#Default
+message_18:
+      text: \n<LÉKÁRNÍK>To by mě zajímalo, jak se vede mému BRENTOVI...\!<br>Snad se necítí moc osaměle. #jasnější, že mluví o synovi
+
+#item buying prompt
+message_90:
+      text: \n<LÉKÁRNÍK>Jasně, synku. Bude tě to stát $<SHOPTOTAL>,00.\.\^
+#max item message
+message_91:
+      text: \n<LÉKÁRNÍK>Už toho zjevně víc neuneseš, synku!\.\^
+#on item list buy ok
+message_92:
+      text: \n<LÉKÁRNÍK>Dobře. Kolik bys jich chtěl, synku?\.\^
+#item selling ok
+message_93:
+      text: \n<LÉKÁRNÍK>Ale, vy byste chtěli abych si já koupil něco od vás?\.\^
+#item selling prompt
+message_94:
+      text: \n<LÉKÁRNÍK>Klidně, synku. Za to ti dám $<SHOPTOTAL>,00.\.\^
+#item selling cancel prompt
+message_95:
+      text: \n<LÉKÁRNÍK>Díky! Přijď kdykoliv zas, synku!
+#item buying cancel
+message_96:
+      text: \n<LÉKÁRNÍK>Tak ses nakonec rozhodl jinak, synku?
+#item buying confirmation prompt
+message_97:
+      text: \n<LÉKÁRNÍK>Na, synku... A dávej na sebe pozor!
+#not enough money
+message_98:
+      text: \n<LÉKÁRNÍK>Na tohle ti trochu schází kapitál, synku.
+
+            #Hobbeez
+
+#  data.texts.itemBuyingPromptMessage = 'farawaytown_extras_shop.message_19'
+#  data.texts.itemBuyingConfirmationMessage = 'farawaytown_extras_shop.message_20'
+#   	data.texts.notEnoughMoneyMessage = 'farawaytown_extras_shop.message_21';
+#    data.texts.maxItemMessage = 'XX_GENERAL.message_50';
+#    data.texts.onItemListBuyOkMessage = 'XX_GENERAL.message_52';
+#    data.texts.onItemListSellOkMessage = 'XX_GENERAL.message_53';
+#    data.texts.itemSellingPromptMessage = 'XX_GENERAL.message_55'
+#    data.texts.itemSellingConfirmationMessage = 'XX_GENERAL.message_57'
+#    data.texts.itemBuyingCancelMessage = 'XX_GENERAL.message_58'
+#    data.texts.itemSellingCancelMessage = 'XX_GENERAL.message_59'
+
+
+#Intro
+message_19:
+      text: \n<PRODAVAČ>Nazdar hoši! Kdybyste cokoliv chtěli, řekněte!
+#Purchase
+message_20:
+      text: \n<PRODAVAČ>Díkec.\! Snad vám tohle velice mírně použité zboží dobře poslouží.
+#Insufficient Funds
+message_21:
+      text: \n<PRODAVAČ>Ups, na tohle nemáte dost peněz.\! Sorry, hoši.
+#item buying prompt
+message_40:
+      text: \n<PRODAVAČ>To vás bude stát $<SHOPTOTAL>.00, je to za vás v pohodě?\.\^
+#max item message
+message_41:
+      text: \n<PRODAVAČ>Máš toho u sebe nějak moc, nechci ti dát, co neuneseš!\.\^ #nevím, jestli se tu hodí "strhnout"
+#on item list buy ok
+message_42:
+      text: \n<PRODAVAČ>Určitě, hochu. A kolik?\.\^
+#item selling ok
+message_43:
+      text: \n<PRODAVAČ>HOBBEEZ není jen zájmový krám... je i zastavárna!\!<br>Koupím od vás cokoliv, co nepotřebujete!\! Tak co pro mě dneska máte?
+#item selling prompt
+message_44:
+      text: \n<PRODAVAČ>Co říkáte na $<SHOPTOTAL>,00?\.\^
+#item selling cancel prompt
+message_45:
+      text: \n<PRODAVAČ>Dík, hochu!
+#item buying cancel
+message_46:
+      text: \n<PRODAVAČ>Rozhodl ses jinak?
+
+message_700:
+      text: \n<PRODAVAČ>A kolik že bys mi jich prodal?\.\^
+
+
+            #GINO'S PIZZA
+
+#note: [Purchase Item] will be replaced with the item that the player bought, or make the statement more general
+#Intro
+message_22:
+      text: \n<PIZZAŘ>Vítejte v \c[11]GINOVĚ PIZZERII\c[0]!\!<br>Co to bude?
+#Purchase
+message_23:
+      text: \n<PIZZAŘ>Vynikající volba! Hned to bude!
+#Exclamation mark on PIZZAŘ
+message_24:
+      text: \n<PIZZAŘ>Mmm... ?Purchase Item?...<br>\! Teda, ano, už se nese!
+#Insufficient Funds
+message_25:
+      text: \n<PIZZAŘ>Promiň... Dal bych ti to, kdybych mohl!<br>Vrať se, až na to budeš mít!
+#item buying prompt
+message_50:
+      text: \n<PIZZAŘ>Tak dobře! To tě bude stát... $<SHOPTOTAL>,00.\.\^
+#max item message
+message_51:
+      text: \n<PIZZAŘ>Jsi si jistý, že to všecko uneseš?\!<br>Mně to teda tak nepřipadá...\.\^
+#on item list buy ok
+message_52:
+      text: \n<PIZZAŘ>Tak dobře! A kolik bys chtěl?\.\^
+#item selling ok
+message_53:
+      text: \n<PIZZAŘ>Klidně... Kolik mi jich prodáš?\.\^
+#item selling prompt
+message_54:
+      text: \n<PIZZAŘ>Hmm... Myslíš, že je tohle dost?
+#item selling cancel prompt
+message_55:
+      text: \n<PIZZAŘ>Díkec!
+#item buying cancel
+message_56:
+      text: \n<PIZZAŘ>Aha... Tak nakonec ne?
+
+            #Hardware Store
+
+#Intro
+message_26:
+      text: \n<PRODAVAČ NÁŘADÍ>Vítejte v \c[11]OPRAVSI\c[0]...<br>kde seženeš cokoliv na to, aby sis to \c[11]OPRAVIL SÁM\c[0]!\!<br>Co by tě tak zajímalo?
+#Purchase
+message_27:
+      text: \n<PRODAVAČ NÁŘADÍ>Super! Hned ti to zabalím.
+#Insufficient Funds
+message_28:
+      text: \n<PRODAVAČ NÁŘADÍ>Sorry, kámo. Na to nemáš.
+#item buying prompt
+message_60:
+      text: \n<PRODAVAČ NÁŘADÍ>Co říkáš na tohle? Dohromady $<SHOPTOTAL>,00.\.\^
+#max item message
+message_61:
+      text: \n<PRODAVAČ NÁŘADÍ>Na to přece nemáš místo!\.\^
+#on item list buy ok
+message_62:
+      text: \n<PRODAVAČ NÁŘADÍ>A kolik bys chtěl?\.\^
+#item selling ok
+message_63:
+      text: \n<PRODAVAČ NÁŘADÍ>Kolika se jich zbavíš?\.\^
+#item selling prompt
+message_64:
+      text: \n<PRODAVAČ NÁŘADÍ>To je za mě... asi za tolik.\.\^
+#item selling cancel prompt
+message_65:
+      text: \n<PRODAVAČ NÁŘADÍ>Dobrá práce.
+#item buying cancel
+message_66:
+      text: \n<PRODAVAČ NÁŘADÍ>No... tak dobře.
+
+          #apple guy / orange guy
+
+#item buying prompt
+message_120:
+      text: \n<CHLÁPEK S POMERANČI>Výborně! Co říkáš na tohle?
+#max item message
+message_121:
+      text: \n<CHLÁPEK S POMERANČI>Tolik šťávy neuneseš!
+#on item list buy ok
+message_122:
+      text: \n<CHLÁPEK S POMERANČI>Kolik bys jí chtěl?
+#item selling ok
+message_123:
+      text: \n<CHLÁPEK S POMERANČI>Kolik že mi toho prodáš?
+#item selling prompt
+message_124:
+      text: \n<CHLÁPEK S POMERANČI>To je tak za... $<SHOPTOTAL>,00.
+#item selling cancel prompt
+message_125:
+      text: \n<CHLÁPEK S POMERANČI>Díky!
+#item buying cancel
+message_126:
+      text: \n<CHLÁPEK S POMERANČI>Ne? Vždyť je zdravá...
+
+
+#item buying prompt
+message_130:
+      text: \n<CHLÁPEK S JABLKAMA>Výborně! Co říkáš na tohle?
+#max item message
+message_131:
+      text: \n<CHLÁPEK S JABLKAMA>Tolik šťávy neuneseš!
+#on item list buy ok
+message_132:
+      text: \n<CHLÁPEK S JABLKAMA>Kolik bys jí chtěl?
+#item selling ok
+message_133:
+      text: \n<CHLÁPEK S JABLKAMA>Kolik že mi toho prodáš?
+#item selling prompt
+message_134:
+      text: \n<CHLÁPEK S JABLKAMA>To je tak za... $<SHOPTOTAL>,00.
+#item selling cancel prompt
+message_135:
+      text: \n<CHLÁPEK S JABLKAMA>Díky!
+#item buying cancel
+message_136:
+      text: \n<CHLÁPEK S JABLKAMA>Ne? Vždyť je zdravá...
+
+
+            #Supermarket
+
+#Ponytail Cashier 1
+message_30:
+      text: \n<POKLADNÍ>Dneska je na trhu tolik druhů tamales.\! Mě ale tamty snoboviny nezajímají, mně stačí staré dobré tamales v konzervě!
+
+#Ribbon Cashier 2
+message_31:
+      text: \n<POKLADNÍ>Podle mě je jídlo jen základ pro omáčku.
+
+#Glasses Cashier 3
+message_32:
+      text: \n<POKLADNÍ>Pokud jste ve stresu, doporučil bych vám čaj.\! Earl grey a heřmánek jsou sice dobré, ale za mě je bublinkový čaj pořád ten nej!
+
+#Tall Cashier 4
+message_33:
+      text: \n<POKLADNÍ>Sice do jídla nejsem zas tak zažraný, ale co nadělám, práce je práce.\! Kuřecí nugetky mám ale rád.
+
+#Cashier 5
+message_34:
+      text: \n<POKLADNÍ>Miluju zelené cibule!\!<br>Jsou vynikající a výživné!
+
+
+# =========================================================================================
+# Vending Machines
+# =========================================================================================
+
+#Intro     start at 140
+message_140:
+      text: Výdejní automat.\!<br>Koupíš si \c[3]LAHODNOU SODOVKU\c[0] za 1,00Kč?\$ #koruna
+
+message_142:
+      text: Nemáš dost peněz.
+
+message_144:
+      text: Na \c[3]LAHODNOU SODOVKU\c[0] nemáš dost místa.
+
+message_143:
+      text: Z výdejního automatu vypadla studená \c[3]LAHODNÁ SODOVKA\c[0]!
+
+#Examine when Sold out
+message_141:
+      text: Výdejní automat.\! Všechno je vyprodáno.
+
+# =========================================================================================
+# FA Meat man
+# =========================================================================================
+
+
+#Butcher quotes for shop
+
+message_201:
+      text: \n<ŘEZNÍK>Mám jedinou povinnost, a to sice prodávat \c[4]MASO\c[0]! #přiroz
+
+#Full inventory
+message_202:
+      text: \n<ŘEZNÍK>Tolik \c[4]MASA\c[0] bych neunesl snad ani já!
+
+#Insufficient Funds
+message_203:
+      text: \n<ŘEZNÍK>Nedělá mi problém řezat tohle \c[4]MASO\c[0], ale ceny řezat nehodlám.
+
+#Purchase
+message_204:
+      text: \n<ŘEZNÍK>Tak, tady to máte.\! Užijte si tohle vynikající \c[4]MASO\c[0]!
+
+#on item list buy ok
+message_205:
+      text: \n<ŘEZNÍK>Kolik byste chtěl?\.\^
+
+#item buying prompt
+message_206:
+     text: \n<ŘEZNÍK>Co vy na to? To by bylo za $<SHOPTOTAL>,00.\.\^
+
+
+#itemBuyingConfirmationMessage
+message_207:
+      text: \n<ŘEZNÍK>Jasná páka.
+
+
+#item buyin cancel prompt
+message_208:
+      text: \n<ŘEZNÍK>Tak jste se nakonec rozhodl jinak?
+
+message_209:
+      text: \n<ŘEZNÍK>Snad se uvidíme znova, bylo to s váma fakt \c[4]MASO\c[0]!
+
+#BATINO
+message_300:
+      text: \n<ZAMĚSTNANEC>MANDO mi strká snad každý volný flek.\! No řekni mi, jak mám jako dosáhnout na ten horní regál, když nám došly žebříky?

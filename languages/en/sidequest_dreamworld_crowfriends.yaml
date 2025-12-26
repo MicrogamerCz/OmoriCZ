@@ -1,0 +1,116 @@
+
+# =========================================================================================
+# Crow Friends
+# ========================================================================================
+
+message_1:
+    text: \n<PAN STRAŠÁK>Á, nová tvář.\!<br>Díky, že jsi ochoten mi dát chvilku svého času...
+
+message_2:
+    text: \n<PAN STRAŠÁK>Omlouvám se, ale musím vám předam břemeno, na které již sám nemám.
+#original line was about being "in a rut", which means something else entirely
+message_3:
+    text: \n<PAN STRAŠÁK>Docela nedávno se tudy strašlivou rychlostí prohnala jakási zběhlá planeta.\! Mí tři nejmilejší přátelé se toho polekali a rozutekli se, každý jiným směrem...
+
+message_4:
+    text: \n<PAN STRAŠÁK>Ti tři mí přátelé jsou vrány. Vězte ale, že nejsou příliš přátelské či milé stvoření...
+
+message_5:
+    text: \n<PAN STRAŠÁK>Celkem jsem váhal o tom, zda tento úkol předat někomu jinému, ale pravda je, že tímto polem moc lidí nechodí...
+
+message_6:
+    text: \n<PAN STRAŠÁK>Smím-li se zeptat...\!<br>Byli byste ochotni pomoct mně a mým nejlepším přátelům?
+
+message_7:
+    text: \n<PAN STRAŠÁK>Ach, děkuji ti, člověče!\!<br>Nedokážu popsat, jak si vážím tvé pomoci.
+
+message_8:
+    text: \n<PAN STRAŠÁK>Nyní budu vřele očekávat jejich návrat.\! Neboť jak jistě vidíte... \! Bez nich\! jsem ba sláma na ztrouchnivělé dřevěné tyči.
+
+message_9:
+    text: \n<PAN STRAŠÁK>Chápu...\! To se rozumí.\! Chápu, proč by na vás tato prosba mohla být příliš.
+
+# Talking to Crow WITHOUT Hero as Leader
+
+message_10:
+    text: \n<VRÁNA>...
+
+message_11:
+    text: VRÁNA s tebou nechce mluvit.\!<br>Možná by s ní mohl hnout kdosi...\! půvabnější?
+
+message_12:
+    text: VRÁNA s tebou nechce mluvit.\!<br>Možná by s ní mohl hnout kdosi...\! pohlednější?
+
+message_13:
+    text: VRÁNA s tebou nechce mluvit.\!<br>Možná by s ní mohl hnout kdosi...\! elegantnější?
+
+
+# Talking to Crow 1 with Hero as Leader
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herZdravím, malé stvoření.\!<br>Tvému příteli PANU STRAŠÁKOVI opravdu hrozně chybíš!\!<br>Pokud budeš chtít, pomůžu ti ho najít.
+
+message_15:
+    text: \n<VRÁNA>Krá, krá!\!<br>(Pomožte prosím, pokud to pro vás není příliš práce. Taky mi chybí!)
+# Crows caw, not squawk
+# Talking to Crow 2 with Hero as Leader
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herHej, kamaráde.\!<br>Chtěl bys zavést zpátky za tvým kamarádem, PANEM STRAŠÁKEM?
+
+message_17:
+    text: \n<VRÁNA>Krá!!!!\! (Ano! Ano! Ano! Kde je můj přítel? Zaveď mě za ním!!)
+
+# Talking to Crow 3 with Hero as Leader
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herZdravím, opeřený příteli.\!<br>Chtěl by ses vrátit k PANU STRAŠÁKOVI?\!<br>Nemůže se dočkat, až se znovu shledáte.
+message_19:
+    text: \n<VRÁNA>Krá, krá.\! (Ach, ano. Toho bych si velice vážil.)
+
+# Talking to PAN STRAŠÁK before finding his friends
+
+message_20:
+      text: \n<PAN STRAŠÁK>Ach, přátelé...\! Kam jste to jen mohli skončit?\!<br>Snad jsou v pořádku...
+
+# Talking to PAN STRAŠÁK before finding his friends
+
+message_21:
+    text: \n<PAN STRAŠÁK>Ach, děkuji ti, člověče!\!<br>Nedokážu popsat, jak si vážím tvé pomoci
+
+message_22:
+    text: VRÁNA opustila tvou partu, aby se vrátila ke svému příteli.
+
+message_23:
+    text: \n<PAN STRAŠÁK>Teď počkám, než se vrátí zbytek.\!<br>Neboť jak jistě vidíte... \! Bez nich\! jsem ba sláma na ztrouchnivělé dřevěné tyči.
+
+# Talking to PAN STRAŠÁK after finding his friends
+
+message_24:
+    text: \n<PAN STRAŠÁK>Mí přátelé! Všichni se vrátili!
+
+message_25:
+    text: \n<PAN STRAŠÁK>Nevím, jak vyjádřit můj vděk.\!<br>Nyní nadešel čas, abych se opět odmlčel.
+
+message_26:
+    text: \n<PAN STRAŠÁK>Sbohem, nápomocný člověče.\! Snad se jednoho dne znovu potkáme.
+
+message_29:
+    text: Získal jsi\c[13]PĚTILÍSTEK\c[0].
+
+# Talking to Crows before Quest is Accepted
+
+
+message_27:
+    text: Osamělá VRÁNA se přehrabuje v hlíně.<br>\!Zdá se, že ji příliš nezajímáš.
+
+# Talking to Crows at PAN STRAŠÁK before Quest is Fully Completed
+
+message_28:
+    text: VRÁNA vypadá spokojeně.

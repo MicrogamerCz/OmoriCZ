@@ -1,0 +1,175 @@
+
+# =========================================================================================
+# Bring boy Home
+# ========================================================================================
+
+#Talk to Pinkbeard
+
+message_0:
+      text: \n<RŮŽOVOUS>\Com[2]Ach! Kam zas ten kluk utekl?\!<br>Já mu říkal, že tam to ZLATÍČKO bude samý problém!
+
+message_1:
+      text: \n<RŮŽOVOUS>Vyděl jsi mého syna?\! Jmenuje se KAPITÁN VESMÍRŇÁK, ale kdo ví, jak si nechává říkat teď...\! V té jeho věži mu pořád něco straší...
+
+
+message_100:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Hff...\! Hff...\! Hff...
+
+message_101:
+      text: \n<RŮŽOVOUS>VESMÍRNÝ NÁČELNÍKU! Můj nejdůvěryhodnější pomocníku!\!<br>Tak co?\! Našel jsi ho?
+
+message_102:
+      text: \n<SPACE PIRATE CHIEF>Vypadá to s ním celkem blbě, kapitáne...\! Možná že už zmizel nadobro...\! ale...\! našel jsem tohle.
+
+message_103:
+      text: \n<RŮŽOVOUS>Co je tohle?
+
+message_104:
+      text: \n<RŮŽOVOUS>\com[2]\c[4]BATERKY\c[0]?\! Já tě poslal najít mého syna...\!<br>\quake[1]a tys mi přinesl \c[4]BATERKY\c[0]?!\quake[0]
+
+message_105:
+      text: \n<RŮŽOVOUS>Jak mi ho má tohle pomoct najít!
+
+message_106:
+      text: \n<RŮŽOVOUS>Hmm...\! Nebo že by?
+
+message_107:
+      text: \n<VESMÍRNÝ NÁČELNÍK>Hff...\! Promiňte, kapitáne.\! Jdu ho nadále hledat!<br>\!\}I když mi dost často připadá jako osina v zadku...
+
+message_108:
+      text: Získal jsi \c[4]BATERIE\c[0]!
+
+#Talk to Space ex-husband
+
+message_2:
+      text: \spxhAch, jaké překvapení.\! Vy všichni tady.\!<br>Zdravím.\! Příjemný večer, viďte?
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #replace
+      text: \kelNo...\! Ahoj...\! Teď...\! už...\! jsi VESMÍRNÝ EX-MANŽEL, viď...?\!<br>Nevypadáš...\! nějak moc žhavě...
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubJo...\! Je tady strašná kosa...\! A...\! ty jsi jako...\! v pohodě??
+
+message_5:
+      text: \spxhJá?\! Ale ne, se mnou si nedělejte starosti, děti.\!<br>Mé srdce je zmrzlé.\! Jsem očištěn.\! Jsem chladný, jako led.\!<br>Nic necítím.\! Už nikdy nic neucítím.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40 #replace
+      text: \herAle ne...\! Je na tom ještě hůř, než minule...
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubKAPITÁNE VESMÍRŇÁKU...\! No tak... Pojďte s náma zpátky domů.
+
+message_8:
+      text: \spxhKAPITÁN... VESMÍRŇÁK?\! Kdo to je?\!<br>Já jsem nic\! Jsem očištěn.\! Jsem chladný, jako led.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5 #replace
+      text: \aubUff... S takovou nás nikdy neposlechne...\!<br>Co teď?
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelNení to přece jasný!?\!<br>Musíme z něho všechen ten sníh vybít... jako minule!\!<br>Pojďme na to! My to přece zvládneme!
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5 #replace
+      text: \aub\Com[2]C-Cože!? Jsi si jistý?\! Musí to snad jít i jinak...
+
+message_12:
+      text: \spxhAch...\! Tenhle chlad...\! Jak s ním soucítím...\!<br>Pomalu...\! mi začíná ovládat duši...<br>\!Stávám se...\! jedním s ledem...
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40 #replace
+      text: \herHmm...\! Jindy bych s KELOVÝMI metodami asi nesouhlasila, <br>ale s takovouhle tady brzo umrzne!\!<br>Láska občas bolí...
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #replace
+      text: \kel\Com[2]To jsem chtěl slyšet!\!<br>Neboj, KAPITÁNE VESMÍRŇÁKU! Zachráníme tě!
+
+# Defeat Space Ex-HUSBAND
+
+message_15:
+      text: \spxhFňuk...\! Fňuk...\! \sinv[1]Ohoooooo...
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4 #replace
+      text: \aubKAPITÁNE VESMÍRŇÁKU... Jak se cítíš?
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39 #replace
+      text: \herHele...\! Doufám, že nejsem ten první, co ti tohle říká...\!<br>Ale asi je načase už ZLATÍČKO nechat být a užívat si života!
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19 #replace
+      text: \kelPřesně!\! Jsou i důležitější věci...\! třeba tvoje posádka!\! K sakru, seš přece VESMÍRNÝ PIRÁT!
+
+message_19:
+      text: \spxhMá...\! posádka?\! Ach...\! ano...\! má posádka.\!<br>Skoro jsem na ni zapomněl...\! To je ale hrůza...\!<br>Musí o mě mít takový strach...\! Měl bych se k nim vrátit...
+
+message_20:
+      text: \spxhNa, vemte si tohle...\! Já...\! fňuk...\! už ho potřebovat evidentně nebudu...
+
+message_21:
+      text: Získal jsi \c[13]SVATEBNÍ PRSTEN\c[0].
+
+message_22:
+      text: \spxhTeď už je čas, abych odešel.\!<br>Nedělejte si se mnou starosti... Já se domů dostanu...\!<br>Fňuk...\! Znám cestu zpět.
+
+#CUTSCENE: FATHER AND son
+
+message_23:
+      text: \n<RŮŽOVOUS>\Com[2]Synu!\! Tak tady jsi!\!<br>Kdes byl, kluku?!<br>Hledal jsem tě snad všude!
+
+message_24:
+      text: \spxhAch...\! Ahoj, tati...
+
+message_25:
+      text: \n<RŮŽOVOUS>\Com[2]Co jsem ti o tamté holce říkal?\!<br>Já věděl, že máš na víc...\!<br>Mohl bys alespoň někdy poslouchat svýho fotra!
+
+message_26:
+      text: \spxh...\! Fňuk...\! Jsem unavený...\! Mohl bych prosím jít spát?
+
+message_27:
+      text: \n<RŮŽOVOUS>\Com[2]Bah!\! Dost už!\!<br>Neplýtvej svými city na někom takovém!\!<br>Pravou lásku poznáš, až opravdu bude.
+
+message_28:
+      text: \n<RŮŽOVOUS>Ale do té doby máš pořád svoji posádku... a ještě k tomu mě!
+
+message_29:
+      text: \n<RŮŽOVOUS>Slib mi, že už si nikdy nezměníš jméno, jo?\! Od teď jsi KAPITÁN VESMÍRŇÁK... a to navždy!
+
+message_30:
+      text: \capDobře...\! Fňuk...\! Promiň, tati...
+
+#Quest complete
+
+
+message_32:
+      text: Na zdi visí plastová ryba.
+
+message_33:
+      text: Hmm...\! Chybí v ní \c[4]BATERIE\c[3].
+
+message_34:
+      text: Do plastové ryby jsi vložil \c[4]BATERIE\c[0].
+
+message_35:
+      text: Tento poklop je zatarasený.
+
+message_36:
+      text: Nejříve musíš počkat, než plastová ryba dozpívá.

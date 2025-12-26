@@ -1,0 +1,400 @@
+
+
+#Reach picnic
+#Tag should not be enabled
+
+message_0:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTak...\! Jsme tady. #jsem si jistý, že všechno tohle je nepoužité, nechávám tak
+
+#Hero shakes
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herKamarádi...\! Tohle se mi moc nezdá.
+
+message_2:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marNo tak, HERO! Neříkej že se zrovna ty bojíš!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelPřesně, brácho! A stejně jsi nám to slíbil...
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubSpolu to zvládneme!\!<br>To přece vždycky říkáš ale ty, ne?
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herJo, já vím... ale...
+
+#Spider sfx
+
+message_6:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marNeboj, HERO.\! Všichni jsme tady pro tebe.\!<br>A při nejhorším to udělej alespoň pro mě...\! prosím?
+
+#pause
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \her...\! Aha...\! Tak dobře.
+
+message_8:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\sinv[1]Díky, HERO~ Hehe...
+
+#mari walks to OMORI
+
+message_9:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Veď, bratříčku.\mar
+
+#------------------------------------------------------------------------
+
+#Fog gets closer covering HERO
+#Player walks a bit
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelPočkat...\! Kde je HERO?
+
+message_11:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marSafra... On utekl?\!<br>I po všem tom přemlouvání?
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kel...\! To by HERO neudělal.\!<br>A nebo by nám alespoň řekl, že odchází.
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubNemluvte o tom! Děsí mě to...\!<br>Řekla bych, že na nás čeká u pikniku.\!<br>Nabereme ho později!
+
+message_14:
+      text: Chceš jít hlouběji do mlhy?
+#[YES/NO]
+
+#[YES]
+
+
+#[NO]
+
+
+#------------------------------------------------------------------------
+#Player walks a bit
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 20
+      text: \kelKamarádi... už se mi to taky moc nezdá.\!<br>Začínám mít strach.
+
+message_21:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubKEL?\! A strach?\! To se mi snad zdá...
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: \kelJen že...\! HERO by přece neutekl jen tak pro nic za nic.
+
+message_25:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marVážně by ses chtěl vrátit, KELI?\!<br>Vždyť ses na ten opuštěný dům tak těšil!
+
+message_26:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHERO se o sebe postará...\!<br>Neměj o něj strach!
+
+message_27:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 22
+      text: \kelNo tak dobře...\! Asi máš pravdu.
+
+message_28:
+      text: Chceš jít hlouběji do mlhy?
+
+#[YES/NO]
+
+#[YES]
+
+#[NO]
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubHmm...\! Neměli bychom tím pádem zkusit zajít pro HERA?
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \marAle, ten bude určitě v pořádku...
+
+message_17:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marStejně...\! Za to, jak nám utekl by si zasloužil na nás chvilku počkat!
+
+message_18:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marPojďme, OMORI.\! Musíme jít dál!
+
+
+#------------------------------------------------------------------------
+
+#Fog gets closer covering KEL
+#AUBREY shakes
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\com[2]Au... KELI! Šlápls mi na nahu!
+
+#AUBREY looks behind her.
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubPočkat, co?\! Kam se poděl KEL?
+
+message_42:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marHmm... Že by se vydal zpátky za HEREM?
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubMožná...
+
+#AUBREY looks around
+
+message_44:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubVíte...\! Tenhle les nebyl zas tak strašidelný, když nás tady bylo víc...
+
+message_45:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marChtěla bys zpátky, AUBRY?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aubNo chtěla, ale...\! Ne sama.
+
+message_47:
+      text: Chceš jít hlouběji do mlhy?
+#[YES/NO]
+
+#[NO]
+
+message_48:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marAle...\! AUBRY, neboj.\! Přece jsme toho spolu tolik prošli.\! Zvládneme cokoliv!
+
+message_49:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marA při nejhorším...\!<br>Víš, že tě s OMORIM ochráníme.
+
+message_50:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marViď, OMORI?
+
+#------------------------------------------------------------------------
+#Player walks a bit
+#AUBREY disappears
+#There should be footprints visible at the bottom of the map during this cutscene
+
+message_60:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marPočkat?\! Kde je AUBRY?\!<br>To je ale zvláštní...\! Před chvílí jsem ji ještě držela za ruku.
+
+message_61:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marTak se asi všichni vrátili...\!<br>Co bude tedy s náma, OMORI?\!<br>Chceš jít ještě dál?
+
+#[YES/NO]
+
+message_62:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Dobře! Když ty, tak já taky, bratříčku!\mar
+
+#[NO]
+
+message_63:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: No tak, OMORI...\! Už tam skoro jsme!\mar
+
+message_64:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: A až se vrátíme, všichni tam na nás budou čekat.\mar
+
+message_65:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Slibuju, že na tebe budu dávat pozor!\mar
+
+#------------------------------------------------------------------------
+
+#Go to BASIL's house entrance.
+#BASIL's shadow is in front of the bridge to his house.
+#He walks from the bridge to his house door and fades in.
+
+
+#If you try to go back:
+message_70:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marWhat's the matter, OMORI?\! Did you want to go back?
+#[YES] takes you back to picnic cutscene
+
+#------------------------------------------------------------------------
+
+#Go into BASIL's house.
+#BASIL's ghost looks at you then walks into blackness.
+
+message_80:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTak...\! Jsme konečně tady.
+
+#MARI looks around
+
+message_82:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marTak tady asi nakonec fakt nic není.\!<br>Nevím proč, ale jsem z toho celkem smutná.
+
+#MARI walks up to and sits on the ledge.
+
+message_83:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marPojďme si sednout, OMORI!
+
+#PLAYER gets control
+#talk to MARI
+
+message_84:
+      text: Chtěl by sis sednout s MARI?
+#[YES/NO]
+
+#[YES]
+#OMORI sits on the ledge animation + cutscene
+
+#NO
+#Nothing
+
+message_85:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marTak teď už jsme to jen my dva.\!<br>My už se takhle ale moc často nevídáme, viď?
+
+message_86:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marSe všema je to vždy takové hektické.\!<br>Občas mi chybí ti klidnější chvíle.
+
+#MARI question mark
+
+message_87:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marCo je to s tebou, OMORI? Připadáš mi nějaký roztržitý...
+
+#*Shadow BASIL fades away slowly*
+
+#pause
+message_88:
+      text: Při pohledu dolů nedohlédneš na zem...\| Skočíš?
+
+#[YES/NO]
+
+#[YES]
+message_89:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marPozor, OMORI!\! Vždyť bys tam málem byl spadl!
+
+message_90:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBuď opatrný, jo?\! Nedokázala bych o tebe znovu přijít...
+
+#pause
+
+message_91:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMožná to tady není zas tak bezpečné.\!<br>Asi bychom měli zpátky za zbytkem.
+
+message_92:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marPočkám tam na tebe!
+#MARI leaves
+
+#NO
+message_93:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marTo vypadá hluboce... Ani nedohlédnu na zem...
+#pause
+
+message_94:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMožná to tady není zas tak bezpečné.\!<br>Asi bychom měli zpátky za zbytkem.
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marPočkám tam na tebe!
+
+#MARI leaves
+#PLAYER gets up from the ledge and regains control
+
+#If you try to leave, glitch to PLAYER shaking his head.
+
+#If you examine hole, it says:
+
+message_100:
+      text: Nechceš skočit.
+
+#PLAYER must stab himself.
+
+#When he stabs himself, it plays a special stab animation.
+#Then, he wakes up as PLAYER instead of OMORI.
+
+#------------------------------------------------------------------------
+
+#NO
+
+#Teleport back to “reach picnic” cutscene

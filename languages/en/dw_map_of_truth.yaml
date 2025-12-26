@@ -1,0 +1,172 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \whoOpět jsi přišel hledat pravdu.
+
+message_27:
+    text: \whoKaždá tvá pouť tudy je jiná, než ta předešlá.\! A i když se ti zdá, že se blížíš ke konci své cesty...\! vždy tě přivede zpět sem.
+
+message_1:
+    text: \whoPravda.\! Ta je vždy stejná.
+
+message_2:
+    text: \whoZde bývala cesta k pravdě, ovšem byla již odstraněna. #dvojmezera
+
+message_3:
+    text: \whoByla přesunuta k majáku poblíž mola.
+
+message_4:
+    text: \whoA poté do knihovny hluboko pod zemí.\! A dále do staré stodoly na vzdálené planetě. #trocha variace
+
+message_5:
+    text: \whoA...\! tentokrát...\! bude přímo v srdci rozlehlého lesa. #blíže orig
+
+message_6:
+    text: \whoAť už cestu skryješ jakkoliv, kluk s kytkama si ji vždy najde.\! A tvá drahá sestra, MARI...\! tě k ní vždy přivede. #blíže orig, hlas musí sunnyho obviňovat z toho, že skrývá pravdu
+
+message_7:
+    text: \whoI jakožto duté skořápky se pořád vyvýjí.\! Pokaždé jim narostou křídla...\! a vzlétnou příliš blízko slunci. #blíže orig
+
+message_8:
+    text: \whoJe to pro ně přirozené.\! Jen ony vše moc dobře znají...\! a jedna z nich si to s sebou vzala do hrobu. #blíže orig, přirozenější
+
+message_9:
+    text: \whoA i když zde není smrt žádnou překážkou, vzpomínky se vytrácí pomalu.\! Tvé kamarády již několikrát potkal nešťastný osud.
+
+message_10:
+    text: \whoPřestože jsou znovu a znovu vzkříšeni, ti nejpoznamenější zde zůstanou...\!i kdyby z nich zbyly jen kosti. #blíže orig
+
+message_11:
+    text: \whoTi dávno ztracení spadnou sem...\! na dno \c[11]HLUBOKÉ STUDNY\c[0]...\! a stanou se ničím.
+
+message_12:
+    text: \whoPřestože jsi je opustil, stále touží po tvé péči.\! Jejich duše umí jedině volat o pomoc.\! Lituješ jich?
+
+message_13:
+    text: \whoA co tvá drahá sestra, MARI, se špatným kolenem...\! S další její smrtí by ses nedokázal vypořádat, a tak jsi ji daroval ochranu piknikového ubrusu. #koleno může být maximálně špatné, ne vadné
+
+message_14:
+    text: \whoAvšak je pro ni přirozené se zvednout a chránit.\! A pokaždé, když to udělá, opustí tě a znovu se zrodí...\! díky nesmrtelné duši, kterou jsi jí proklel. #snažím se zachovat tón i význam
+
+message_15:
+    text: \whoDuše, které jsi daroval svým kamarádům...\! jsou křehké a musí být chráněny.\! A proto se nesmí vzbudit. Musí vytrvat ve spánku.
+
+message_16:
+    text: \whoA i přesto...\! je cesta k pravdě blíž tvé drahé místnosti, než kdy byla.\! Povede se ti ji skrýt i tentokrát?
+
+#TRUE
+message_17:
+    text: \whoMožná, že už je příliš pozdě.
+
+#NEUTRAL
+message_18:
+    text: \whoMožná, že se pro tebe ještě najde naděje.
+
+message_19:
+    text: \whoDobře víš, kde najít KLÍČE do toho druhého světa.\! Přestože jsou vždy jiné...\! odemykají ty samé dveře. #blíže orig
+
+message_20:
+    text: \whoTato cesta vede k utrpení...\! ale pokud ji nedojdeš do konce, nebudeš moct jít dál. #přirozenější
+
+message_21:
+    text: \whoPřestože ta věc ještě neukázala svou opravdovou formu, je zlá.\!<br>To ale neuvidíš, pokud se jí nepostavíš. #přirozenější
+
+message_22:
+    text: \whoKdyž ztratíš kontrolu nad svými úmysly, všechno zlo přeteče sem.\! Až se to stane, poznáš to.\! Jednou se to už stalo. #bližší původnímu tónu
+
+message_23:
+    text: \whoAž se to stane...\! vrať se tam, kde se pravda znovu zrodila...\! do srdce lesa.
+
+message_24:
+    text: \whoA stejně, jako vždy předtím...\! pokus se změnit svůj osud. #pravopis
+
+message_25:
+    text: \whoJe ti souzeno opakovat tento začarovaný kruh navždy?\!<br>Nebo se z něj vymaníš?
+
+message_26:
+    text: \whoŽij v tomto světě, dokud můžeš, SNÍLKU.\! Dokud se nezaplní prázdnotou. #blíže orig
+
+
+#----
+
+#BLACK Space
+
+message_30:
+    text: \n<NĚKDO>Už jsi tady zas, SNÍLKU.\! Čemu se mám zavděčit?\! Že ti dochází čas? #blíže orig tónu
+
+message_31:
+    text: \n<NĚKDO>Pravda pro tebe není jednoduchá.\! Kdysi v tobě vyvolávala tvé destruktivní já.<br><br>Tvá současná podoba tohle zmírňue...\! a i když je taky zlá...\! možná je ta lepší z těch dvou. #blíže orig, podoba
+
+message_32:
+    text: \n<NĚKDO>Tohle místo se dosti změnilo od tvé poslední návštěvy.\! Najdeš cestu zpět, nebo nakonec ztratíš sám sebe? #blíže orig, to lose oneself neznamená ztratit se, ale být v něčem velice absorbovaný nebo zešílet
+
+message_33:
+    text: \n<NĚKDO>Bez vlastních KLÍČU jsme nuceni pobývat zde.\! Dveře se pro nás neotevřou.\! Nemáme takové štěstí, jako ty. #blíže orig
+
+message_34:
+    text: \n<NĚKDO>Něco odsud bylo dávno vzato...\! Kam jsi to schoval?\! Jedině ty víš, kde to najít.
+
+message_35:
+    text: \n<NĚKDO>Proč musíš žít v této hrůzné podobě?\! Pravda, je silná a chrání tě...\! ale pokud na ni budeš spoléhat příliš...\! to, co obětuješ, už nikdy nezískáš zpět. #vágnější, jako orig, Inu se nehodí, mírně předěláno
+
+message_36:
+    text: \n<NĚKDO>Zabloudil sem snad ten kluk s kytkama?\! Přišel jsi ho znovu zachránit?\! To má ale štěstí...
+
+message_37:
+    text: \n<NĚKDO>Za jedněmy z těchto dveří čeká vysvobození...\! ovšem v této podobě se ti neotevřou.\! Budeš se tam muset dostat jinak. #vykouopení se zde vůbec nehodí, když už, tak spása, já na podoba, jinudy na jina - pravý způsob je změnit podobu, pravopis. díky wikidictionary... bez tebe bych "jedny" nevyskloňoval...
+
+message_38:
+    text: \n<NĚKDO>Za těmito dveři leží místa nestálá, tvořena roztříštěnými kusy.<br><br>Ztratíš-li se, nezoufej.\! Rudé ruce tě povedou...\! a...\! tvá současná podoba...\! zde nedokáže zemřít. #blíže orig
+
+message_39:
+    text: \n<NĚKDO>Opět ses schoval.\! Naděje, sny, touhy, ambice...\! znamenají pro tebe vůbec něco?
+
+message_40:
+    text: \n<NĚKDO>Možná, že už nad tímto místem nemáš kontrolu...\! ale neztrácej naději, SNÍLKU.\! Stále se najdou někteří, kteří v tebe věří. #odstraěno teď
+
+message_41:
+    text: \n<NĚKDO>Velká moc znamená s sebou nese velké břemeno...\! pro tebe...\! a všechny tvé nejbližší.\! Koho to chráníš?\! A... stojí ti to vůbec za to?
+
+message_42:
+    text: \n<NĚKDO>Hluboce doufám, že se duše dvého kamaráda zrozdí nenarušena.\! Všichni víme, jaký by byl jeho osud, kdyby tomu tak nebylo. #čas, blíže orig
+
+message_43:
+    text: \n<NĚKDO>Prokaž jim prosím milost, SNÍLKU.\! I když se duše, které zde potkáš, nedokážou zhmotnit, jejich řev se stejně nepřestane ozývat. #blíže orig
+
+message_44:
+    text: \n<NĚKDO>Ten kluk s kytkama, který má k pravdě nejblíž...\! jehož oči rudě září...\! Viděl jsem, co jsi mu předtím udělal...\! a proto se modlím, abys ho znovu nenašel. #blíže orig
+
+message_45:
+    text: \who
+
+message_46:
+    text: \who
+
+message_47:
+    text: \who
+
+message_48:
+    text: \who
+
+message_49:
+    text: \who
+
+message_50:
+    text: \who
+
+message_51:
+    text: Dveře nelze otevřít. #nadbytečné tyto
+
+message_52:
+    text: Dveře jsou zamčené. #nadbytečné tyto
+
+message_53:
+    text: Získal jsi KLÍČ.
+
+message_54:
+    text: Odemkneš tyto dveře?
+
+message_55:
+    text: Nemáš KLÍČ, kterým se otevírají tyto dveře.

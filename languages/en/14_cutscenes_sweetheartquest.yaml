@@ -1,0 +1,457 @@
+# =========================================================================================
+# Cutscene: Basil is Still Missing
+# =========================================================================================
+
+#Trigger: Examine bed and choose to sleep.
+#OMORI is on the floor, and gets up. He is surrounded by KEL, AUBREY, and HERO.
+
+#HERO jumps.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: OMORI! Vítej zpátky!\aub
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Vidíš, HERO? Říkal jsem ti, že se není čeho bát.\!<br>OMORI se přece vždycky ukáže, zvlášť když ho potřebujeme!\kel
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Je všechno v pořádku, OMORI?<br>Měli jsme o tebe strach...\aub
+
+#KEL walks towards staircase.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Když jsme tu zase všichni, pojďme hledat BASILA!\!<br>Potřebuje nás!\kel #přirozenější, opravuji dle původního komentáře
+
+#AUBREY jumps.
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Vydrž, KELI! <br>Nejdřív se musíme ujistit, že je OMORI v pořádku!\aub
+
+#AUBREY has an idea.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: A nebo... bys mohl jít sám s HEREM.\aub
+
+#AUBREY looks at OMORI.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: No tak, OMORI! Pojďme na dobrodružství...\aub
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Jen my dva!\aub
+
+#KEL jumps.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Hele, nemůžeš nás tady jen tak nechat!\kel #blíže orig
+
+#HERO looks at AUBREY.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Má pravdu, AUBRY. Jsme tým a musíme držet pospolu, zvlášť teď.\her
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Nikdy nevíš, kdy by ti něčí pomoc přišla vhod.\! <br>Spolu jsme přece silnější!\her #nadbytečné A
+
+#AUBREY looks away.
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Ts! My dva to zvládneme sami.\aub
+
+#AUBREY looks at OMORI.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Ty na mě budeš dávat pozor, viď, OMORI?\aub
+
+#KEL looks at AUBREY.
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Fuj... Nechte si to na jindy.\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Dost, AUBRY. Teď vážně.\!<br>Pojďme říct MARI, že je OMORI v pořádku.\!<br>Víš, jaký o něj má vždycky strach...\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Dobře, dobře... V klidu...\!<br>Jen jsem se chtěla trochu pobavit...\aub
+
+
+# =========================================================================================
+# Cutscene: Sweetheart's Quest for Hearts
+# =========================================================================================
+
+#Trigger: Walk to Stump Entrance
+#A line of four KLÍČKOKRTEKS are walking toward PYREFLY FOREST.
+
+message_30:
+      text: Kamaráde!\! Ach, jak dlouho jsem se na dnešek těšil!\!<br>Jaký krásný den to dnes máme!\n<KLÍČKOKRTEK>
+
+message_31:
+      text: Ach ano, ano!\! Dnes se naše úctihodná princezna ZLATÍČKO konečně opět ukáže na veřejnosti!\n<KLÍČKOKRTEK>
+
+message_32:
+      text: Panečku!\! Mám pocit, že brzo rupnu z toho, jak se těším!\!<br>Tohle bude nejnapínavější pořad, co svět kdy viděl!\n<KLÍČKOKRTEK> #blíže orig
+
+message_33:
+      text: Propána!\! Musíme si pospíšit!\! <br>Máme čtyři \c[4]LÍSTKY\c[0] do přední řady!\!<br>Tuto životní událost si přece nesmíme nechat ujít!\n<KLÍČKOKRTEK>
+
+message_34:
+      text: Počkat... kudy že se vlastně jde?\n<KLÍČKOKRTEK>
+
+#Before Cutscene block
+message_43:
+      text: \n<KLÍČKOKRTEK>Kamaráde!
+
+message_44:
+      text: \n<KLÍČKOKRTEK>Ach ano, ano!
+
+message_45:
+      text: \n<KLÍČKOKRTEK>Panečku!
+
+message_46:
+      text: \n<KLÍČKOKRTEK>Propána!
+
+#KEL is surprised and walks forward.
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Ale ne! Banda ZTRACENÝCH KLÍČKOKRTKŮ!\! \Com[2]Hrr na ně!\kel
+
+#[4 LOST KLÍČKOKRTEKS BATTLE]
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Ty jo, hustý! Měli u sebe jakési čtyři lístky!\kel
+
+#AUBREY jumps.
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Ukaž!\!<br>Hmm... Lístky do první řady k nějakému pořadu... \aub
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Kde účinkuje...\! ZLATÍČKO?\aub
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ta bejvalá od KAPITÁNA VESMÍRŇÁKA?\her
+
+#AUBREY looks at HERO.
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Asi jo! Vypadá to na nějakou soutěž nebo tak něco!\aub
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Jestli půjdeme kolem, měli bychom se tam stavit!\! <br>Máme koneckonců \c[4]LÍSTKY\c[0] do první řady!\aub
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: No...\! tak dobře.\!<br>Kdybychom zrovna šli náhodou kolem...\her
+
+# =========================================================================================
+# Cutscene: Pyreflies Intro
+# =========================================================================================
+
+#Trigger: Enter Pyrefly Forest
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Fuj...\! ...pojďme raději BASILA hledat jinde.\! Z tohohle místa se mi zvedá žaludek.\kel #blíže orig
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: No tak, nebuď takový posera, KELI.\!<br>Tak je tady občas nějaká ta pavučina, no a co?!\aub #přirozenější
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \{\quake[1]ÁÁÁAAAAA!!\!<br>MÁŠ PAVOUKA VE VLASECH!!\kel\quake[0]
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \{\Com[2]C-COŽE? \Com[2]KDE? \Com[2]SUNDEJ HO!!\aub\quake[0]
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Haha! Kecám!<br>A koukej, kdo je nakonec posera!\kel
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Ts! To nebylo moc vtipný, KELI...\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest
+# =========================================================================================
+
+#Trigger: Walk in proximity of SWEETHEART stage.
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Tý jo, koukejte na tohle obří pódium!<br>Je to tady tak úžasné, jak jsem si to představovala!\aub #dlouhé ý
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Pojďme se posadit.<br>Vypadá, že to za chvilku začne!\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#Trigger: Examine Front Row Seats.
+
+#Camera pans to stage.
+#Spot light moves around.
+#SMM walks onto the stage.
+
+message_100:
+      text: Klíčkodámy a klíčkopánové...\!<br>Vítejte na mimořádném díle pořadu...\!<br>\"ZLATÍČKO HLEDÁ ZLATÍČKA!\"\smm
+
+#Applause
+
+message_101:
+      text: Ovšem předtím, než začneme, bychom tento díl chtěli věnovat jednomu našemu druhu, jenž byl žijícím vzorem pro nás všechny. \!<br>Našemu drahému vůdci, KLÍČKODĚDKOVI.\smm
+
+#The curtain opens and a portrait of YE OLD SPROUT is shown.
+
+message_102:
+      text: Byl otcem, kterého si nikdo z nás nezasloužil.\! <br>Uctěme jeho památku minutou ticha.\smm #pravopis
+
+message_103:
+      text: ...\| ...\| ...\| ...\| ...  \smm
+
+message_104:
+      text: Nechť odpočívá v pokoji.\smm
+
+#Curtains close.
+
+message_105:
+      text: \sinv[1]\{A NYNÍ...\. POŘAD ZAČÍNÁ!!\smm
+
+#Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
+
+message_106:
+      text: V minulém díle \"ZLATÍČKA HLEDÁ ZLATÍČKA\" jste viděli...\!<br>jak se naší milované princezně...\! opět...\! nepovedlo zamilovat do ani jednoho nápadníka!\smm #já bych je označil za nápadníky
+
+message_107:
+      text: Tentokrát...\! zde máme tři nové, velice přitažlivé soutěžící!\! Stane se jeden z nich zlatíčko našeho ZLATÍČKA?\! Pojďm si je představit!\smm #zakomponování názvu soutěže
+
+#Contestant #1 comes out and makes a circle around the stage.
+
+message_108:
+      text: SOUTĚŽÍCÍ Č.1 je místní, tedy z VESNICE KLÍČKOKRTKŮ!\smm
+
+message_109:
+      text: Měří neuvěřitelných 914 centimetrů!\! Jeho oblíbené jídlo je \c[3]TOFU\c[0]. Vlastní obrovskou sbírku plastových plameňáků... a baví ho dlouhé procházky úzkými tunely!\smm
+
+message_110:
+      text: \Com[2]\{PROSÍM O POTLESK PRO SOUTĚŽÍCÍHO Č.1!\smm #pravopis
+
+#Applause.
+#Contestant #2 comes out and makes a circle around the stage.
+
+message_111:
+      text: SOUTĚŽÍCÍ Č.2 je... Ano, správně!\! <br>Také místní!\smm
+
+message_112:
+      text: Ale pozor! Měří neuvěřitelných 944 centimetrů!\!<br>Jeho koníčky jsou chůze, běh a plížení!\smm
+
+message_113:
+      text: Jeho oblíbená kombinace barev je hnědá se zelenou a své víkendy tráví válením se ve špinavém prádle!<br>\!Mmm... pikantní.\smm
+
+message_114:
+      text: \Com[2]\{PROSÍM O POTLESK PRO SOUTĚŽÍCÍHO Č.2!\smm #viz výše
+
+#Applause.
+
+message_115:
+      text: A teď je čas na úplně jiné kafe!\smm
+
+#Contestant #3 comes out and makes a circle around the stage.
+
+message_116:
+      text: Neboť SOUTĚŽÍCÍ Č.3 k nám dorazil až z \c[11]JINOSFÉRY\c[0]!\smm
+
+message_117:
+      text: Skoro jako by z nebe spadl... doslova!\!<br>A to mu, podle něj, i podle nás, dává pořádnou jiskru!\! <br>Prosím, potlesk pro ŠNEČÍKA!\smm
+
+#Scattered applause.
+
+message_118:
+      text: A teď...\! přichází chvíle, na kterou jste tak dlouho čekali...\smm
+
+message_119:
+      text: \{\sinv[1]ZHASNOUT SVĚTLA!!\smm
+
+#Lights dim.
+
+message_120:
+      text: \sinv[1]Oplývá...\| krásou... \|Vyzařuje...\| půvab...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm
+
+message_121:
+      text: Ano!\! Všichni víte, o kom mluvíme!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #trochu majestátnější, z "brzy" "teď"
+
+message_122:
+      text: Prosím...\! Velké, vřelé přivítání pro..<br>\!majestátní...\smm #pro
+
+message_123:
+      text: \{\{\{\Com[2]ZLATÍČK-\smm
+
+#Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
+#There is a blackout.
+
+#Screen goes black and re-centers around party.
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ach, ne! Vypadl proud!\!<br>Co si teď počneme? Musím vidět, jak to dopadne!\aub
+
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Já bych to přečkal... KLÍČKOKRTCI ho určitě co nevidět zase nahodí!\her
+
+#Camera pans to area side of stage..
+#KLÍČKOKRTEK runs in.
+
+message_126:
+      text: Pomoc! Nevíme, co dělat!\n<KLÍČKOKRTEK>
+
+#KLÍČKOKRTEK runs in from the other side.
+
+message_127:
+      text: Pomoc! My taky nevíme, co dělat!\n<KLÍČKOKRTEK>
+
+#KLÍČKOKRTEK jumps.
+
+message_128:
+      text: Pomoc!\n<KLÍČKOKRTEK>
+
+#Other KLÍČKOKRTEK jumps.
+
+message_129:
+      text: \{Pomoc!!\n<KLÍČKOKRTEK>
+
+#KLÍČKOKRTEK jumps.
+
+message_130:
+      text: \Com[2]\{\{POMOC!!!\n<KLÍČKOKRTEK>
+
+#Other KLÍČKOKRTEK jumps.
+
+message_131:
+      text: \Com[2]\{\{\{POMOC!!!!\n<KLÍČKOKRTEK>
+
+#Both KLÍČKOKRTEK jump.
+
+message_132:
+      text: \quake[1]\{POOOO\{\Com[2]MOOOOOO\Com[2]\{OOOOC!!!!!\quake[0]\n<KLÍČKOKRTEK>
+
+#Camera pans to party.
+
+message_133:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\! No...\! Možná bychom se tam pro jistotu mohli podívat.\her
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#     - Upon exiting SW Stage:
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ty jo... Tak ten výpadek strhl dokonce i \c[11]VESNICI KLÍČKOKRTKŮ\c[0]!\her
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Co teď, HERO?\aub
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Neboj, AUBRY. Teď je čas abych uplatnil své kutilské schopnosti!\! V tomto případě bychom se měli poohlídnout po...\! záložním generátoru!\her #rozhodně kutilské
+
+#    - There's a room full of treadmills in bottom floor. Map 166
+
+message_153:
+      text: \n<DOZORCE>No tak, hoši, přidejte! Energii vydejte!
+
+message_154:
+      text: \n<KLÍČKOKRTEK>Děláme, co můžeme, pane dozorče!
+
+message_155:
+      text: \n<KLÍČKOKRTEK>Rychleji to nejde!
+
+message_156:
+      text: \n<KLÍČKOKRTEK>Jaktože to pořád nefunguje!? Už mi začíná být blbě.
+
+message_157:
+      text: \n<KLÍČKOKRTEK>Nepřestaňte běhat, spolukrtci!\! Bez práce nejsou koláče! #doláče
+
+message_158:
+      text: Kabel není zapojený do zdi.\! Zapojíš ho? #blíže orig
+
+#YES/NO
+
+message_159:
+      text: \n<DOZORCE>\Com[2]Jak jsem říkal! Pořádná makačka se vždycky vyplatí!<br>\!A koukejte běžet dál!
+
+message_160:
+      text: \n<KLÍČKOKRTEK>Hff... hff... hff... hff...
+
+message_161:
+      text: \n<DOZORCE>Rychlejc, chlapi!\! Musíme překonat naše hranice pro lepší zítřky! #snad "lepší zítřky" nebude další komunista, kterého budeme muset změnit...
+
+message_162:
+      text: Velká, šťastná zásuvka.

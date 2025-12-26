@@ -1,0 +1,515 @@
+# =========================================================================================
+# Cutscene: Basil's Room
+# =========================================================================================
+
+#Trigger: Enter BASIL's Room.
+
+#BASIL is staring out the window.
+#BASIL turns to \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Á...\! SUNNY...\! To jsi jenom ty...\bas
+
+message_1:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Jsem rád, žes přišel.\bas #sem je nadbytečné
+
+message_2:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Fakt...\! Rád tě vidím.\bas
+
+message_3:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Podívej se kolem sebe.\! Ty to vidíš taky, ne snad?\bas
+
+message_4:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Něco...\! za tebou.\bas
+
+#Trigger: \n[8] uses any command input, but \n[8] sprite will back out towards the door.
+
+#\n[8] turns around and examines door.
+#Slide: SOMETHING at the Door
+#Something pushes \n[8] into the room and reveals itself.
+#BASIL's SOMETHING begins pulsing on the floor.
+
+#BASIL turns to window.
+
+message_5:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Přišlo to ten den...\! Kdy MARI umřela.\bas #nadbytečné v
+
+message_6:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Když MARI...\! Když MARI spadla...\bas #emphasis na akci, ne čas
+
+message_7:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: To...\! Tos ty přece neudělal.\bas #emphasis na to
+
+message_8:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: To udělalo tamto za tebou... viď?\bas
+
+#BASIL turns to \n[8].
+
+message_9:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Nejsi zlý, SUNNY.\! Já vím, že nejsi zlý!\bas
+
+message_10:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: A něco takového by přece udělal jen někdo zlý...\bas
+
+#BASIL turns to window.
+
+message_11:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: I po tom všem...\! jsi za mnou konečně přišel.\bas
+
+message_12:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: Ale...\! zítra...\! se stěhuješ.\bas
+
+message_13:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \Com[2]\{\fn<OMORI_GAME>\quake[1]J-JAK MI TO MŮŽEŠ UDĚLAT?!?!?!?!\bas #přiroz
+
+#BASIL turns to \n[8].
+
+message_14:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \Com[2]\fn<OMORI_GAME>To je od tebe zlé, SUNNY.\! \Com[2]Opravdu zlé!\bas
+
+#BASIL's SOMETHING froms around him.
+
+message_15:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: A...\! Teď je to všude kolem nás.\bas
+
+message_16:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Vidíš to, SUNNY?\!<br>Z totohle není cesty ven, viď?\bas #není to o místu, ale situaci
+
+#Trigger: \n[8] attempts to leave again by examining door.
+
+message_17:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: Kam jdeš?!\! <br>\Com[2]Přestaň mě pořád opouštět!\bas
+
+message_18:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \fn<OMORI_GAME>\Com[2]P-Přestaň! \Com[2]Přestaň! \Com[2]Přestaň! \Com[2]Přestaň! \Com[2]Přestaň! \Com[2]Přestaň! \Com[2]Přestaň!\bas
+
+message_19:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \fn<OMORI_GAME>Nechci... být...\! sám...\! Znovu už ne.\! <br>Nesmíš... mě... zase... opustit...\bas
+
+#BASIL turns to window.
+
+message_20:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: \basNe...\! To bys mi neudělal.\! Takový ty nejsi, SUNNY!
+
+#BASIL turns to \n[8].
+message_21:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: \basZa to všechno může to za tebou, že?
+
+message_22:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: \basAha! Támhle!\! Vidíš to?
+
+message_23:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \bas\fn<OMORI_GAME>\Com[2]Běž pryč!\! \Com[2]Nech SUNNYHO být!
+
+message_24:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: \bas...
+
+message_25:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Já tě ochráním za každou cenu, SUNNY.<br>Se mnou můžeš počítat!\bas #ochráním mi zní přirozeněji
+
+message_26:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Když něco zabilo MARI...\!<br>Když mi něco začmáralo všechny ty fotky...\!\bas
+
+message_27:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Nikomu jsem to neřekl...\!<br>Nechtěl jsem, aby si mysleli, žes to udělal ty, SUNNY.\bas
+
+message_28:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: SUNNY...\! SUNNY by přece... něco takového neudělal.\bas
+
+#BASIL cries.
+
+message_29:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: \bas...
+
+message_30:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: \basNeboj, SUNNY...\! Zachráním tě znova.
+
+message_31:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \basTo něco za tebou...\! Zbavím se ho jednou pro vždy.
+
+
+#BASIL pulls PLAYER in.
+#Something follows.
+
+message_32:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: SUNNY...\! Neměj strach.\bas
+
+message_33:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Já mám taky strach, ale...\! jinak to nejde.\bas #za mě to tam sedí víc a nic jiného mě stejně nepadá
+
+# message_34:
+#       faceset: MainCharacter_Basil_Dark
+#       faceindex: 21
+#       text: \fn<OMORI_GAME>Don't you worry, \n[8]... I'll save you...\bas
+
+message_35:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Všechno bude v pořádku...\bas
+
+message_36:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \fn<OMORI_GAME>Všechno...\bas
+
+#BASIL something squishes you tighter sfx
+
+message_37:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \fn<OMORI_GAME>...bude... v pořádku...\bas
+
+# =========================================================================================
+# Cutscene: Light
+# =========================================================================================
+
+#[Save for Map Completion]
+
+# =========================================================================================
+# Cutscene: Mari's Request
+# =========================================================================================
+
+#Talk to MARI at the Piano
+
+
+message_50:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basAhoj, SUNNY.
+
+message_51:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basTak sis našel cestu zpátky domů.
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basNevím, jestli jsem ti tohle někdy na rovinu řekl, ale...\! Omlouvám se za všechno to trápení, co jsem ti způsobil.
+
+message_53:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \basKdyž jsem ti dal to své \c[4]FOTOALBUM\c[0]...\!<br>Opravdu jsem chtěl, aby sis ho nechal.
+
+message_54:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basAle...\! vždycky když ti chci pomoc...\!<br>Se mi jaksi povede ti jenom přidávat starosti.
+
+message_55:
+      faceset: MainCharacter_Basil
+      faceindex: 27
+      text: \basI tehdy...
+
+message_56:
+      faceset: MainCharacter_Basil
+      faceindex: 26
+      text: \bas...
+
+message_57:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basVšechna tahle bolest...\! Ta vina v našich srdcích...
+
+message_58:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \basI když se to snažíš potlačit...\! všechno to jednou vyjde na povrch.
+
+message_59:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basChtěl bych ti říct, že všechno bude v pořádku.\!<br>A taky že nám nezbývá nic jiného, než jít dál.
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basAle...\! to už je jen na tobě.
+
+message_61:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basAUBRY, KEL a HERO jsou skvělí kamarádi.\!<br>Musíš věřit, že nám to odpustí.
+
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basVím, že je těžké tomu uvěřit...\! ale...
+
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basTy fotky v našem albu...\! Nejsou jen fotky.\!<br>Jsou to opravdové vzpomínky.
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 29
+      text: \basNaše vzpomínky!\! Jsou důkazem našeho kamarádství! #možná je to jen puntičkaření, ale to "em" v důkazem tady za mě dělá celkem hodně
+
+message_64:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basTak si těch fotek važ...\!<br>a nezapomeň, na čem ti doopravdy záleží. #tady neměním nic, jen chci říct, že skvělá práce na druhé větě.
+
+message_65:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basHaha...\! Promiň...\! Už ti zase přidělávám starosti...
+
+message_67:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basCesta k budoucnosti bude brzo otevřena, ale jen ty rozhoduješ o tom, co bude dál.
+
+message_68:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basA i když to možná moc neznamená...\! Budu ti držet palce.
+
+#BASIL walks off to street to right.
+#PLAYER turns right.
+#BASIL runs back to PLAYER and hugs him.
+
+message_69:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basSUNNY...
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basPojďme spolu vytvořit nějaké nové vzpomínky. #měním z tázací, tady by asi v češtině nebyla použita.
+
+#Talk to MARI at the Piano
+
+message_80:
+      text: SUNNY...\! Už je to skoro tady.\mar
+
+message_81:
+      text: Tenhle týden pro tebe nebyl lehký.\!<br>Musíš už být vyčerpaný...\mar
+
+message_82:
+      text: Všichni občas děláme chyby...\!<br>A před jednou takovou chybou už hodně dlouho utíkáš.\mar
+
+message_83:
+      text: Otevřít se je občas těžké,<br>Ale ty si to odpustíš, viď?\mar
+
+#pause
+
+message_90:
+      text: Ty to zvládneš, SUNNY.\!<br>Dostat se sem tě stálo už tolik úsilí...\!<br>A teď ti zbývá jen jediné. \mar #"toho stálo už tolik" naznačuje, že něco ztratil, ale naopak, za těch pár dní jen a jen získával svůj život zpátky. tohle je spíše o úsilí.
+
+message_91:
+      text: Nezapomeň, že na tebe budu dávat dál pozor.\!<br>A dokud si na mě vzpomeneš, budu s tebou...\mar
+
+# =========================================================================================
+# Cutscene: Basil's Hospital Room - UNUSED
+# =========================================================================================
+
+#Trigger: Enter proximity of SOMETHING.
+
+#message_110:
+#      faceset: MainCharacters_Faraway
+#      faceindex: 17
+#      text: \Com[2]\n[8], you're awake!\!<br>A-Are you sure you should be moving like that?\kel
+
+#message_111:
+#      faceset: MainCharacters_Faraway
+#      faceindex: 31
+#      text: Careful, \n[8]... You shouldn't be walking yet...<br>Your wound might reopen...\her
+
+#\n[8] falls to his knees.
+#Everyone runs to \n[8].
+
+#faceset: MainCharacters_Faraway
+#      faceindex: 6
+#      text: \Com[2]\n[8]! \n[8]!\! \Com[2]Are you okay?\!...\! \Com[2]Say something...\aub
+
+#message_113:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_114:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_115:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_116:
+#      faceset: MainCharacter_Mari
+#      faceindex: 21
+#      text: .............................................................................................<br>\!I...\n<\n[8]>
+
+
+# =========================================================================================
+# Cutscene: Balcony End
+# =========================================================================================
+
+#before arriving at the Balcony (black screen)
+
+# =========================================================================================
+# Cutscene: Leave for the City
+# =========================================================================================
+
+#Trigger: Wake up in \n[8]'s House on 4th day.
+
+#through phone:
+
+message_140:
+      text: Ahoj, broučku! Už máme všechno sbalené a můžeme vyrazit!\!<br>Počkáme na tebe v autě.<br>Přijď, až budeš připravený!\n<MOM> #přeloženo
+
+#SOMETHING is following you.
+
+#Trigger: Exit \n[8]'s House.
+
+#There is a car waiting in front of \n[8]'s house.
+
+#Trigger: Examine Car.
+
+#Car leaves.
+
+
+# =========================================================================================
+# Cutscene: Not Your Problem
+# =========================================================================================
+
+message_150:
+      text: Chceš se podívat do BASILOVA pokoje?
+
+message_161:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Prosím tě... SUNNY.\! Na tohle by ses neměl dívat.\her
+
+message_163:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Vždyť se máš dneska stěhovat...\!<br>A začínat s čistým štítem.\her
+
+message_164:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: My se o to tady postaráme.\her
+
+message_165:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Jen běž...\!<br>\fn<OMORI_GAME>My to zvládneme.\! Snad...\her
+
+#2nd talk
+
+message_151:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Jen běž...\! My to zvládneme.\! Snad...\her
+
+#KEL does not turn to you
+message_166:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: BASILE, proč...?\! Proč jsi to udělal?\kel #přiroz pořadí slov
+
+message_171:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: SUNNY...\! Proč se nám tohle děje znovu?\kel #v orig "keep happening" naznačuje, že tohle není poprvé...
+
+#AUBREY does not turn to you
+message_167:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 47
+      text: Promiň, BASILE.\! Prosím, odpusť mi...\aub
+
+message_168:
+      text: Je čas jít do svého nového domovu.
+
+message_169:
+      text: MAMČINO auto čeká.
+
+#POLLY does not turn to you
+message_190:
+      text: \n<POLLY>Proč...\! Proč jsem tak neschopná? #pointa je, že si myslí, že tomuhle mohla předejít a neudělala to. na něco byla, a ve své roli dle jejího mínění selhala.
+
+# =========================================================================================
+# Cutscene: In Front of Basil's Door
+# =========================================================================================
+
+message_170:
+      text: Chceš otevřít BASILOVY dveře?
+
+# =========================================================================================
+# Cutscene: In Front of Basil's Door
+# =========================================================================================
+
+message_180:
+      text: Při pohledu dolů nedohlédneš na zem...\| Skočíš?
+
+#YES/NO

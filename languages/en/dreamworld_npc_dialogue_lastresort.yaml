@@ -1,0 +1,584 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============LAST RESORT / UNDERWATER HIGHWAY / ABYSS========================
+
+
+                        #====NIGHT 3====
+
+#ABBI
+#Location:Abyss
+#Abyss (Boss) - Tentacle Quest
+#Check sidequest_dreamworld_tentacle
+
+#DEALER JASH
+#Location: LAST RESORT
+#SHOP QUEST yaml
+
+#PINKBEARD
+#Location: Last Resort
+
+#ADD ARG!!!!!!!
+message_0:
+      text: \n<RŮŽOVOUS>Tak tohle je teda zklamání. Na to, jak si to tady všichni vychvalují, tak to není nic moc.\! \Com[2]Chci zpátky svý MUŠLE, ROZUMÍTE!? #přiroz
+
+#FISHBOY
+#Location: Last Resort
+message_1:
+      text: \n<RYBÁČEK>Chytání a starání se o ryby je můj nejoblíbenější koníček.\!<br>Zabíjí to čas a je docela odměňující.
+
+
+#GOYLE THE CRAB
+#Location: Last Resort
+#Faces up, faces down when talked to
+message_3:
+      text: \n<KRAB GOYLE>Nedívejte se na mě, jsem šereda!
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Check DREAM WORLD EXTRAS BLACKSPACE yaml
+
+#CHLÁPEK S HOT DOGY
+#Location: Last Resort
+message_4:
+      text: \n<CHLÁPEK S HOT DOGY>\SINV[1]\c[3]HOT DOG\c[0]...\! Kupte si \c[3]HOT DOG\c[0]...\SINV[0] #překep
+
+message_5:
+      text: \$\n<CHLÁPEK S HOT DOGY>Chceš \c[3]HOT DOG\c[0]? Jen za 100 MUŠLÍ...\!<br>No tak... jsou mňamózní.\$
+
+message_6:
+      text: Získal jsi \c[3]HOT DOG\c[0].
+
+message_7:
+      text: \n<CHLÁPEK S HOT DOGY>Notak...\! vždyť jsou tak mňamózní. #přiroz
+
+message_36:
+      text: \n<CHLÁPEK S HOT DOGY>Nemáš na něj dost MUŠLÍ...
+
+#LAMB
+#Location: Last Resort
+message_8:
+      text: \n<OVEČKA>Rozhodli jsme se sem jet na svatební cestu, protože nám nabídli zadarmo pokoj a k tomu luxusní welness zážitek! #jasnější - celé je to z jakéhosi důvodu zadarmo. jak si cenil vlatně z tohohle vydělává?
+
+message_9:
+      text: \n<OVEČKA>\Com[2]A luxusní to je jak sedátka v tramvaji!\!<br>Vždyť se nám tu loupe barva ze zdi! #přiroz a lepší přirovnání jsem nenašel
+
+#WOLF
+#Location: Last Resort
+message_10:
+      text: \n<VLK>Upřímně je to tady celkem fajn.\!<br>Na to, že jsme tady zadarmo, tak to není tak špatné...\! i přesto, že v tom bazénku venku straší.
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_11:
+      text: \n<ŠARLOT>Ahoj, já jsem ŠARLOT...\! Tuhle kavárnu jsem založila spolu s mýma sestrama...\! Ale protože nám moc nenese, většina z nich teď pracuje v \c[11]KONEČNÉ\c[0].
+
+message_12:
+      text: \n<ŠARLOT>Teď už jsem tady jenom já a ELEONORA...
+
+message_13:
+      text: \n<ŠARLOT>\sinv[1]Aach jo...\sinv[0]\! Kéž by se k nám vrátily.\!<br>Co bych udělala pro to, abych je zase slyšela zpívat! #citoslovce, přiroz
+
+#JULIA
+#Location: Last Resort
+message_14:
+      text: \n<JULIE>Začala jsem tady pracovat s příslibem dobrého platu, ale zatím jsem nedostala jedinou výplatu!
+
+#LUCY
+#Location: Last Resort
+message_15:
+      text: \n<LUCY>\}Chybí mi mé sestry z \c[11]HOŘČICOVÉ PONORKY\c[0]...
+
+#PAM
+#Location: Last Resort
+message_16:
+      text: \n<PAM>Promiňte, mladistvým \c[3]OVOCNOU ŠŤÁVU\c[0] nalívat nesmím.
+
+#RITA
+#Location: Last Resort
+message_17:
+      text: \n<RITA>Mě a mým sestrám patří malá kavárna východně odsud.\! Doporučovala bych vám se tam jít podívat.\! Vaří tam úžasně!
+
+#SADIE
+#Location: MUSTARD SUBMERSIBLE
+#Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
+
+#SHARK PICKLE
+#Location: Last Resort
+message_18:
+      text: \n<ŽRALOČÍ OKUREK>Chtěli byste se něco dozvědět o ŽRALOCÍCH anebo OKURKÁCH?\!<br>Za \c[3]CELÉ MENU\c[0] vám řeknu, co vím!
+#yes/no (only if combo meal is in inventory)
+
+#yes
+message_19:
+      text: \n<ŽRALOČÍ OKUREK>Díkec! \!<br>O čem byste se teda chtěli dozvědět víc?
+
+message_20:
+      text: O ŽRALOCÍCH
+
+message_21:
+      text: O OKURKÁCH
+
+message_22:
+      text: \n<ŽRALOČÍ OKUREK>Super!\! Řeknu vám, co vím...
+
+
+#Shark
+
+message_23:
+      text: \n<ŽRALOČÍ OKUREK>Žraloci umí plavat jen dopředu.<br>\!Nepřipadá vám to povzbudivé?\! Mně teda jo...
+
+message_100:
+      text: \n<ŽRALOČÍ OKUREK>Žraloci mají několik vrstev zubů...\! což jim při jezení okurek možná trochu zavazí!
+
+message_101:
+      text: \n<ŽRALOČÍ OKUREK>Žraloci nemají kosti!\! Doopravdy jsme z lidských uší a nosů!
+
+message_102:
+      text: \n<ŽRALOČÍ OKUREK>Ačkoliv si to většina lidí myslí, žraloci se lidma neživí...\! až na žraloky tygří...\! Ti by snědli snad cokoliv...
+
+
+#PICKLES
+message_24:
+      text: \n<ŽRALOČÍ OKUREK>14. listopad je Mezinárodní den okurek.<br>\!Nezapomeňte si teda 14. listopadu jednu dát!
+
+message_104:
+      text: \n<ŽRALOČÍ OKUREK>Snědli jste až moc okurek?\! Klidně je zahrabejte do země a přijďte si pro ně, až budete zase moct!\! Jen nesmíte zapomenout, kam jste je zahrabali...
+
+message_105:
+      text: \n<ŽRALOČÍ OKUREK>V některých kulturách jsou okurky používány při dvorních rituálech.\! Ale o tom vám víc neřeknu!
+
+message_106:
+      text: \n<ŽRALOČÍ OKUREK>Zdá se vám, že máte kurděje?\! Tak to jste asi nejedli dost okurek!
+
+
+
+
+
+#SEACOW
+#Location:Underwater Highway
+message_25:
+      text: \n<MOŘSKÁ KRÁVA>No... \!Bůů?
+
+#SEACOW FARMER
+#Location:Underwater Highway- Hunt Squizzards Quest
+#Check Seacow farmer (Hunt Squizzards) yaml
+
+#KROKOĎÁK
+#Location: Last Resort - Break Room
+message_26:
+      text: \n<KROKOĎÁK>Všem vám nesu pizzu! #dost možná bude od šéfa
+
+#KROKOĎÁK
+#Location: Last Resort - Construction
+message_27:
+      text: \n<KROKOĎÁK>Hff... \!Hff... \!Bolí mě záda... \!Na tohle už jsem starej.
+
+#KROKOĎÁK
+#Location: Last Resort - Break Room
+message_28:
+      text: \n<KROKOĎÁK>Hodnoty akcií padají... \!Teda, rostou, a to nebezpečně rychle!
+
+#KROKOĎÁK
+#Location: Last Resort - Casino
+#KROKOĎÁK is on his tiny phone.
+message_29:
+      text: \n<KROKOĎÁK>\}Ne... \!To myslíš vážně?... \!Už zase... \!<br>Ale, nedělej si z toho hlavu... \! To se vyřeší...
+
+#KROKOĎÁK
+#Location: Last Resort- Bathroom (Looking at Mirror)
+message_30:
+      text: \n<KROKOĎÁK>Nazdar, fešáku...
+
+#KROKOĎÁK
+#Location: Last Resort Entrance
+#KROKOĎÁK is on his tiny phone.
+message_31:
+      text: \n<KROKOĎÁK>\}Jo, jo... \!Mhm... \!Jasně... \!Koho?... \!Jasně, jdu na to.
+
+#KROKOĎÁK
+#Location: Last Resort Entrance
+#KROKOĎÁK is on his tiny phone.
+message_32:
+      text: \n<KROKOĎÁK>\}Ano, pane... \!Ano, pane... \!Ano, pane... \!Ano, pane... \!Ano... \!Rozkaz...
+
+#SLIME 1
+#Location:
+#[INCOMPLETE]
+
+#SLIME 2
+#Location:
+#[INCOMPLETE]
+
+#SLIME 3
+#Location:
+#[INCOMPLETE]
+
+#SLIME 4
+#Location:
+#[INCOMPLETE]
+
+#SLIME 5
+#Location:
+#[INCOMPLETE]
+
+                        #====NIGHT 4====
+
+#ABBI
+#Location: Abyss
+#Abyss (Boss) - Tentacle Quest
+#Same as NIGHT 3.
+
+#DEALER ASH
+#Location: Last Resort
+#Same as NIGHT 3.
+
+#PINKBEARD
+#Location: Space Captains House- Bring Boy Home Quest
+#Check DREAM WORLD SIDEQUEST PINKBEARD
+
+#FISHBOY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#GOYLE THE CRAB
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#CHLÁPEK S HOT DOGY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#LAMB
+#Location: ORANGE OASIS
+message_33:
+      text: \n<OVEČKA>Chtěli jsme na svatební cestu do \c[11]KONEČNÉ\c[0]...<br>což se nám moc nevydařilo, a proto jsme raději jeli vlakem sem do \c[11]POMERANČOVÉ POUŠTĚ\c[0]!
+
+message_34:
+      text: \n<OVEČKA>Nevím, co jsem čekala...\! ale je...\!<br>dost pomerančová. #vtip ztracen :(
+
+#WOLF
+#Location: ORANGE OASIS
+message_35:
+      text: \n<VLK>Hff... hff... \! Je tady hrozné horko.\! Mají tady někde aspoň penzion?
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_80:
+      text: \n<ŠARLOT>Ahoj, já jsem ŠARLOT!\! Tahle kavárna patří mě a mým sestrám!
+
+message_81:
+      text: \n<ŠARLOT>Kasu obsluhuje ELEONORA, takže pokud máte zájem o vynikající \c[3]CELÉ MENU\c[0], promluvte si s ní!
+
+message_82:
+      text: \n<ŠARLOT>Jo, a ty zpěvačky jsou taky moje sestry!\!<br>Že mají krásné hlasy?
+
+
+#JULIA
+#Location: Mustard Submersible
+message_85:
+      text: \n<JULIE>Odešla jsem z \c[11]KONEČNÉ\c[0] a vrátila se sem!\! Hlavně mojim sestrám neříkejte, jak moc mi chyběly!\! \SINV[1]Ufufu!\SINV[0]
+
+#LUCY
+#Location: Mustard Submersible
+message_90:
+      text: \n<LUCY>\}Ahoj... Jsem ráda zpátky...\! Snad se vám to tady líbí!
+
+#PAM
+#Location: Mustard Submersible
+message_95:
+      text: \n<PAM>Chyběly mi ŠARLOT a ELEONORA, a tak jsem se vykašlala na \c[11]KONEČNOU\c[0]...\! ale vypadá to, že mě předběhly.
+
+message_96:
+      text: \n<PAM>Asi bych teď měla mít starosti ohledně MUŠLÍ...\!<br>ale já jsem hlavně ráda, že jsme zase spolu.\! Však to nějak přežijem!
+
+#SADIE
+#Location: Mustard Submersible
+#[Incomplete]
+
+#SHARK PICKLE
+#Location:Underwater Highway
+#Same as NIGHT 3.
+
+#POKER FACE
+#Location: Last Resort
+#POKER FACE: I got a mean poker face...
+
+#SEACOW
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#SEACOW FARMER
+#Location: Underwater Highway - Hunt Squizzards Quest
+#Same as NIGHT 3.
+
+#MR. JAWSUM
+#Location: Last Resort
+#Check DREAM WORLD QUEST DIALOGUE.
+#After Cutscene: Feed Humphrey 1
+#Location: N/A
+
+#KROKOĎÁK
+#Location: Forest Playground
+message_60:
+      text: \n<KROKOĎÁK>\SINV[1]Hop! \!\}A-\{Hop! \!\}A-\{Hop! \!\}A-\{Hop!\SINV[0]
+
+#KROKOĎÁK
+#Location: Mustard Submersible
+#KROKOĎÁK is on his tiny phone.
+message_61:
+      text: \n<KROKOĎÁK>\}Jo jo...\! Tři objednávky...\! Jo jo...\! Jo jo...\! Nevím...\! Mohl bych se zeptat...\!<br>Aha, takže teď chcete čtyři...
+
+#KROKOĎÁK
+#Location: Last Resort
+message_62:
+      text: \n<KROKOĎÁK>Šéf není tak energetický, jako obvykle...\!<br>Zajímalo by mě, jestli se něco neděje...
+#After Cutscene: Feed Humphrey 1
+message_63:
+      text: \n<KROKOĎÁK>\Com[2]Zdravím, pane HERO!\! \Com[2]Přeji hezký den, pane! #dekapita(liza)ce
+
+#KROKOĎÁK
+#Location: Last Resort - Break Room Stock Guy
+#Same as DAY 3.
+#After Cutscene: Feed Humphrey 1
+message_64:
+      text: \n<KROKOĎÁK>Za tu krátkou dobu, co HERO převzal šéfovo křeslo, nám začal několikanásobně růst hrubý výdělek!
+
+message_65:
+      text: \n<KROKOĎÁK>S takovýmhle tempem...\! bychom jeden den mohli vydělávat víc, než utrácíme! #prodělávání je pouze, když se nevydělává nic, není to synonymum utrácení
+
+#KROKOĎÁK
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_66:
+      text: \n<KROKOĎÁK>Díky HEROVU vedení je naše obchodní strategie lepší, než kdy předtím!\! Jdeme na vrchol, bejby!
+
+#KROKOĎÁK
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_67:
+      text: \n<KROKOĎÁK>Nejste z toho chození unavený, ŠÉFE?\!<br>Klidně vás ponesu.
+
+#KROKOĎÁK
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_68:
+      text: \n<KROKOĎÁK>\}Říkal jsi, že...\! Mhmm...\! Ne, ty to nechápeš...\! To je fiskálně nemožné...\! Fiskálně, ne fyzikálně! #vtip lépe vyzní
+
+#KROKOĎÁK
+#Location: Last Resort
+message_69:
+      text: \n<KROKOĎÁK>Jak se máte, šéfe?\! Nechtěl byste \c[5]GUMIČKU\c[0] zadara?\!<br>Bez starostí, tahle je na mě!
+
+message_70:
+      text: \n<KROKOĎÁK>Vy byste asi chtěl další \c[5]GUMIČKU\c[0], že?\!<br>Jen si ji vemte!\! Pro vás cokoliv, šéfe.
+
+message_71:
+      text: \n<KROKOĎÁK>Vy musíte mít teda rádi \c[5]GUMIČKY\c[0]...\!<br>což samozřejmě není nijak špatné.\! Já mám \c[5]GUMIČEK\c[0] dost!
+
+message_72:
+      text: \n<KROKOĎÁK>Tenhle váš výraz znám!\! Tak se tváří někdo, kdo by chtěl další \c[5]GUMIČKU\c[0]!\! Na, šéfe!\! S tím, co jste pro nás udělal, je tohle opravdu maličkost!
+
+message_73:
+      text: \n<KROKOĎÁK>Tak co, šéfe?\! Líbí se vám tyhle moje \c[5]GUMIČKY\c[0]?\!<br>Jsou celkem fajn, nemyslíte?\! Kdybyste chtěl, klidně vám seženu další...
+
+#Repeats infinitely:
+message_74:
+      text: \n<KROKOĎÁK>Na, šéfe!\! Vemte si ještě jednu \c[5]GUMIČKU\c[0]!\!<br>Jen si ji užijte!
+
+message_75:
+      text: Získal jsi \c[5]GUMIČKU\c[0]!
+
+#SLIME 1
+#Location:
+#extras_shop
+
+message_120:
+      text: Chtěl by sis poslechnout tuhle HUDEBNÍ MUŠLI?
+
+message_121:
+      text: Chtěl bys zavřít tuhle HUDEBNÍ MUŠLI?
+
+#BIKER gang
+
+message_125:
+      text: \n<MĚSTSKÝ ŠVIHÁK>Respektujte své okolí!
+
+message_126:
+      text: \n<PRIMA>Mějte se rádi!
+
+message_127:
+      text: \n<LEBKODRTIČ>Buďte na sebe hodní!
+
+message_128:
+      text: \n<CIHLA>Dávám na charitu!
+
+message_130:
+      text: \n<ŽABÁK>\}\quake[1]Kvák...\quake[0]\! (Čekáš snad na něco?)
+
+#MUSCLE Sign
+
+#OMORI
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelVypadáš přímo suprově, OMORI! #všechno tady bylo nepřeloženo, překládám
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubTo je ale fešák!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOMORI, ty posiluješ?
+
+#AUBREY
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]Jéee, AUBREY... Ty jsi ale nádherná...
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herChtěl byste něco, pane?\! \c[3]OVOCNOU ŠŤÁVU\c[0]?\! \c[1]MASÁŽ\c[0] zad?\! Krutony?
+
+message_155:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubPáni!\! Tak tohle by bylo super každý den!
+
+#KEL
+message_156:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelTo jsem já, KEL z budoucnosti!\! Budu mít takové svaly, že se mi s nima bude špatně chodí!
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelSuper póza! Ha há!\! Bude ze mě úplný lamač srdcí. Jen počkejte.
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubNo, s takovou teda ne.
+
+#HERO
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: Jedna po druhé, dámy...\! Je mě dost pro všechny.\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\sinv[1]No fuuuuuuj!\sinv[0] Nech toho, HERO.\! Nebo o tom řeknu MARI!
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herT-Tak promiň.
+
+#phone
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\com[2]\{HALÓ? TADY KEL!
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: \kel\{\com[2]\{KDE JE POKOJOVÁ SLUŽBA?
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\{\com[2]\{UŽ ČEKÁM 45 MINUT A POŘÁD NIC!
+
+message_174:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kel\}...\! Ano...\! Aha...\! Aha...\! Tak proto...\! Promiňte.\! Pardón.\! Nashledanou.
+
+message_175:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_176:
+      text: \n<KLÍČKOKRTEK>Haló, kdo je tam?
+
+message_177:
+      text: \n<KLÍČKOKRTEK>Promiňte, máte špatné číslo.
+
+message_178:
+      text: \n<KLÍČKOKRTEK>\com[2]To ti přijde vtipné, ty děcko jedno!?
+
+message_179:
+      text: \n<KLÍČKOKRTEK>Máma mě varovala o lidech jako jsi ty!
+
+message_180:
+      text: \n<NOSKA>\}Noska jede!\! \quake[1]Bzzt...
+
+#HERO BOSS
+message_200:
+      text: Dobrý den, šéfe. Máte super vlasy!\n<KROKOĎÁK>
+
+message_201:
+      text: Dobrý den, šéfe. Skvělý oblek!\n<KROKOĎÁK>
+
+#POTHOLE GUYS
+message_220:
+      text: \n<KROKOĎÁK>Běžte dál, běžte dál... Tady nic zajímavého není.
+
+message_221:
+      text: \n<KROKOĎÁK>Co den, to díra...\! Snad aspoň dostanu zaplacený přesčas. #vypouštím další
+
+message_233:
+      text: \n<KROKOĎÁK>Asfaltuju tady díry...\! ale ony se pořád objevují nové!
+
+#HERO BOSS
+message_222:
+      text: \n<KROKOĎÁK>Jak to jde, šéfe?\! Snad moc nedřete.
+
+message_223:
+      text: \n<KROKOĎÁK>Přišel jste zkontrolovat nás tady nahoře, šéfe?\! To je teprv pořádné vedení.
+
+message_234:
+      text: \n<KROKOĎÁK>Jak se máte, šéfe?\! Díky, že jste to tady převzal a tak.\! Zaslechl jsem, že tam fakt válíte!
+
+message_224:
+      text: \n<KROKOĎÁK>Na cestě sem jsem narazil na svoji mamku, a ona ne a ne mi dát pokoj...\! Prej, že si kazím oči tím, že nosím sluneční brýle vevnitř, říkala...
+
+message_225:
+      text: \n<KROKOĎÁK>Já si tyhle brýle nedokážu jen tak sundat.\! Už jsou skoro jako část mojeho těla!
+
+message_226:
+      text: \n<KROKOĎÁK>Kámo... mamka už zase přišla na návštěvu?\! Už na ni beztak leze syndrom prázdného hnízda. #není to nejlepší překlad, ale to fakt existuje, to znám z minulého roku, co jsme měli psychologii
+
+message_227:
+      text: \n<KROKOĎÁK>Cože? Mamka přišla?\! Musím ji jít pozdravit!
+
+message_228:
+      text: \n<KROKOĎÁK>Jupí! Mamka přišla!
+
+message_229:
+      text: \n<KROKOĎÁK>Safra...\! Zase mamka.
+
+message_230:
+      text: \n<KROKOĎÁK>Sluneční brýle jsou hustý... i vevnitř.
+
+message_231:
+      text: \n<KROKOĎÁK>Ještě jsme ani nedokončili stavby, a už nám sem lezou turisti.\! To nevím, jestli je dobře nebo špatně...
+
+message_232:
+      text: \n<KROKOĎÁK>Opravování je super!

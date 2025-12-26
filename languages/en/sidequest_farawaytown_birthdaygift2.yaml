@@ -1,0 +1,241 @@
+
+# =========================================================================================
+# Sidequest: Birthday Gift 2
+# =========================================================================================
+
+#Talking to Jesse
+message_0:
+      text: Ze sluchátek <br>KLUKA SE SLUCHÁTKAMA hlasitě duní hudba.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelŤuk...
+
+message_2:
+      text: \n<KLUK SE SLUCHÁTKAMA>\Com[2]Ááaa!\! Kdo seš!?\! Co chceš?
+
+message_3:
+      text: \n<KLUK SE SLUCHÁTKAMA>...
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelAha...\! Ahoj!\! Ty jsi JESSE, že?\!<br>My jsme...\! uh...\! My jsme kamarádi tvého taťky...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelChtěl po nás, abychom tě poslali dolů do obýváku na dort!
+
+message_6:
+      text: \n<KLUK SE SLUCHÁTKAMA>Táta že se kamarádí s nějakýma puberťákama?\! Divný...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelProč jsi takový kyselý? Nemáš dneska narozeniny?\!<br>Pojď slavit dolů!\!<br>Táta ti dokonce vybral fakt hustý dárek! #kyselý ksicht tady za mě zas tak nesedí
+
+message_8:
+      text: \n<KLUK SE SLUCHÁTKAMA>\quake[1]Grrrrrrrrrr...\quake[0]\!<br>\Com[2]Vždyť jsem mu říkal, ať mi nic nekupuje!
+
+message_9:
+      text: \n<KLUK SE SLUCHÁTKAMA>\Com[2]Řekněte mu, ať to vrátí, ať je to cokoliv! A vypalte!
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelHele, moc se mi nelíbí, jak se chováš...\!<br>\Com[2]Co máš proti svému taťkovi!?
+
+message_11:
+      text: \n<KLUK SE SLUCHÁTKAMA>...
+
+message_12:
+      text: \n<KLUK SE SLUCHÁTKAMA>Uff...\! Vidíte všechno tohle?
+
+message_13:
+      text: \n<KLUK SE SLUCHÁTKAMA>Tohle...\! mám všechno od mamky.
+
+message_14:
+      text: \n<KLUK SE SLUCHÁTKAMA>Ta už tady nebydlí, ale pořád mi takovýhle věci posílá poštou...
+
+message_15:
+      text: \n<KLUK SE SLUCHÁTKAMA>Ale táta...\! Táta nekráčí s dobou (není in? to si vyber ty)...\! <br>Cokoliv mi koupí stejně nikdy není lepší než to, co už mám.\! Takže...\! vyhazuje peníze vždycky, když mi něco kupuje...
+
+message_16:
+      text: \n<KLUK SE SLUCHÁTKAMA>Takže i když mám narozeniny...\!<br>\Com[2]Tak mi nic kupovat nemusí!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelAle... vždyť to pro tebe dělá, protože chce, protože tě má rád!\!<br>Měl bys jít slavit dolů.\!<br>Víš, co to pro něj bude znamenat?! #spíš "víš, jakou mu to udělá radost?"
+
+message_18:
+      text: \n<KLUK SE SLUCHÁTKAMA>Ale...\! Já...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 23 #insert number here
+      text: \kel\Com[2]Dost! Běž!
+
+#KEL SHAKES CHAIR
+
+message_20:
+      text: \n<KLUK SE SLUCHÁTKAMA>\Com[2]Hej! Co děláš!?
+
+#JESSE gets off the chair
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 21 #insert number here
+      text: \kelTy tady takhle trucuješ protože ho taky máš rád, viď!?\!<br>On tebe přece taky!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 22 #insert number here
+      text: \kelA když už bys ho chtěl nechat ve štychu, zaslouží si aspoň slyšet proč!
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTak mazej do obýváku a promluv si s ním!\!<br>Jinak tě sem nepustím sednout!
+
+message_24:
+      text: \n<KLUK SE SLUCHÁTKAMA>...
+
+message_25:
+      text: \n<KLUK SE SLUCHÁTKAMA>Ts...\! Ty seš tak dotíravý...
+
+message_26:
+      text: \n<KLUK SE SLUCHÁTKAMA>...\! Ale...\! Asi za ním teda půjdu...
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herTy jo, KELI...\! Zachoval ses vážně zodpovědně...
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelMyslíš?
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herJo...\! Jde vidět, žes vyrostl.\! Že bys už opravdu nebyl díte?
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelAle... Jaktože ne?\! Být dospělý není žádná sranda...\! Děti to mají ve všem lepší!
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 41
+      text: \her...\| Tak teda nic...\! Zapomeň, že bych něco říkal...
+
+#JESSE leaves the room
+
+#=======================
+#Cutscene: Jesse's Birthday Gift:
+#=======================
+
+
+message_28:
+      text: \n<VRÁSKA>\{\{\Com[2]\SINV[1]HODNĚ ŠTĚSTÍ, SYNKU!!!
+
+message_29:
+      text: \n<VRÁSKA>Vím, že toho moc nemáme...\!<br>Ale rozhodl jsem se ti dát něco, co se ti bude opravdu líbit...
+
+message_30:
+      text: \n<KLUK SE SLUCHÁTKAMA>Tati...\! Tos nemusel...
+
+message_31:
+      text: \n<VRÁSKA>Na!\! Nová hra... jmenuje se \c[4]SUPER ULTRA POŽÍRAČ KRTKŮ - \c[4]KRTČÍ POMSTA III\c[0]!
+
+message_32:
+      text: \n<VRÁSKA>Všem těmhle novým udělátkům nerozumím, ale napadlo mě, že by se ti mohla líbit!
+
+message_33:
+      text: \n<KLUK SE SLUCHÁTKAMA>Tati...\! Vždyť...\! tahle hra je pro jinou konzoli, než tu, co mám já...
+
+message_34:
+      text: \n<VRÁSKA>Konzoli?...\!<br>Aha...\! Promiň, to mě nenapadlo...
+
+message_35:
+      text: \n<KLUK SE SLUCHÁTKAMA>Tati...\! Já...
+
+message_36:
+      text: \n<VRÁSKA>Synu!\! Vím, že jsme to s mamkou měli těžké...\!<br>ale chci abys věděl, že tady pro tebe jsem taky!
+
+message_37:
+      text: \n<KLUK SE SLUCHÁTKAMA>\com[2]Přestaň o mě mít pořád starosti, tati!\!<br>Jsem úplně v pohodě!\! Měl by sis hledět spíš sebe!
+
+message_38:
+      text: \n<VRÁSKA>JESSE... To po mně nemůžeš přece chtít.\!<br>Vždyť jsi koneckonců můj syn!\! Jak bych o tebe nemohl mít starosti?!
+
+message_39:
+      text: \n<VRÁSKA>I když ti nikdy nekoupím něco tak dobrého, jako mamka...\!<br>nemůžeš se na mě zlobit za to, že to alespoň zkusím, ne?
+
+message_40:
+      text: \n<VRÁSKA>Vždycky když se na tebe podívám, uvědomím si, jak rychle rosteš...
+
+message_41:
+      text: \n<VRÁSKA>A jednou, až budeš starší...\! mě nebudeš potřebovat už vůbec...\! tak mi dovol být součástí tvého života alespoň teď... Prosím.
+
+message_42:
+      text: \n<VRÁSKA>Takže...\! Máš narozeniny...\! ale vím, že jsi poslední dobou raději o samotě...\! klidně si tenhle \c[3]KOUSEK DORTU\c[0] můžeš vzít s sebou do pokoje a sníst si ho tam.
+
+message_43:
+      text: \n<VRÁSKA>Je jahodový...\! tvůj oblíbený...
+
+message_44:
+      text: \n<KLUK SE SLUCHÁTKAMA>...
+
+message_45:
+      text: \n<KLUK SE SLUCHÁTKAMA>To...\! To je v pořádku, tati...\! Sním si ho tady.
+
+message_46:
+      text: \n<VRÁSKA>Vážně?\!<br>Většinou si jídlo přece bereš s sebou...
+
+message_47:
+      text: \n<KLUK SE SLUCHÁTKAMA>...
+
+message_48:
+      text: \n<KLUK SE SLUCHÁTKAMA>\}Fňuk...\! Fňuk...\! Tati...\! Promiň...
+
+message_49:
+      text: \n<VRÁSKA>\Com[2]C-Co se děje, synku!?\! \Com[2]J-Jsi v pořádku?\!<br>Udělal jsem zase něco špatně?!
+
+message_50:
+      text: \n<KLUK SE SLUCHÁTKAMA>\}N-Ne...\! Jsem v pořádku...\!<br>Díky za ten dárek, tati...\! vážně...\! fňuk...\! vážně se mi líbí...
+
+#Talk to Jesse/Jesse's DAD
+
+message_51:
+      text: \n<VRÁSKA>Díky, že jste přesvědčili mého syna, aby přišel dolů.\! Jste fakt kámoši!
+
+message_52:
+      text: \n<VRÁSKA>Dejte si s náma prosím dort!\! Byl ve slevě, protože už zítra bude prošlý...\! ale pořád chutná dobře!
+
+message_53:
+      text: \n<KLUK SE SLUCHÁTKAMA>\}Fňuk...\! Fňuk...\! Tati...
+
+
+#intro text
+
+
+message_55:
+      text: \n<VRÁSKA>Můj syn má dneska desáté narozeniny!\! ...\! Ale ani nevytáhne paty z pokoje!
+
+message_56:
+      text: \n<VRÁSKA>Uff...\! Vždyť jsem mu dokonce i koupil dort...
+
+message_57:
+      text: Získal jsi \c[3]KOUSEK DORTU\c[0]!
+
+message_58:
+      text: Smutný \c[3]KOUSEK DORTU\c[0].
+
+message_59:
+      text: Hořkosladký \c[3]KOUSEK DORTU\c[0].

@@ -1,0 +1,713 @@
+
+# =========================================================================================
+# SOMETHING BATTLE
+# ========================================================================================
+
+message_100:
+      text: Máš strach o život.
+
+message_101:
+      text: Získal jsi \c[4]ŽÁROVKU\c[0].
+
+# =========================================================================================
+# THE LIGHT
+# ========================================================================================
+
+message_110:
+      text: \n<???>Tvé uznání pravdy tě stálo mnoho...\! Ale na vysvobození ještě není pozdě.\! Naštěstí...\! stále trefíš domů. #vykoupení na vysvobození, už jsme u tohohle byli v BS
+
+# =========================================================================================
+# CHILDHOOD HOME
+# ========================================================================================
+
+message_120:
+      text: Bez svých \c[4]HOUSLÍ\c[0] nemůžeš přece odejít.
+
+message_122:
+      text: Telefon, který mi MAMKA vecpala do pokoje.\!<br>Za ním je propracovaný kalendář.\!<br>MARI si plánuje snad všechno...
+
+#Player's Room
+
+message_123:
+      text: Košíky plné dětských hraček.\! Ještě jsem se k nim nedostal, ale jednou je vyhodím.
+
+
+message_124:
+      text: Běžná kytka.\! Není na ní nic extra.
+
+
+message_125:
+      text: Skříň na oblečení...<br>i když teď v ní jsou spíš jenom staré hračky a sladkosti.
+
+
+message_126:
+      text: Stolní lampička.\! MARI má potíže s usínáním, a tak si před spaním čte.\! Tohle světlo po ní většinou musím zhasínat já, vždycky když usne.
+
+
+message_127:
+      text: TÁTŮV starý počítač.\! Dal nám ho, když si do práce koupil notebook.
+
+
+message_128:
+      text: Moje a MARINY učebnice.\!<br>MARI se ještě doučuje, a proto chodí domů pozdě.\!<br>Musí být vyčerpaná... #detail z originálu. chudák Mari...
+
+
+message_129:
+      text: Opravdu velice pohodlná postel...\!<br>Bývala MARINA, ale potom, co si všimla, že se mi špatně spí, mi ji odkázala. #v češtině bych dal přednost tomuto nad opakování slov, ale možná to tak mám jen já...
+
+
+message_130:
+      text: MARINA postel...\! A moje taky, vždycky když jsem měl zlé sny.
+
+
+message_444:
+      text: MARINO oblečení.\! Voní jako čisté prádlo.
+
+
+#piano Room
+
+message_131:
+      text: Jedny z našich dvou kyvadlových hodin.\! Tyhle jsou pořád napřed.
+
+
+message_132:
+      text: Jedny z našich dvou kyvadlových hodin.\! Tyhle jsou pořád pozadu.
+
+
+message_134:
+      text: Křídlový klavír.\!<br>Uprostřed je vyryto slovo "OMORI".
+
+
+message_135:
+      text: MARINA sbírka zpěvníků a not.<br><br><br>Přestože je MARI všude jinde hrozně organizovaná, v tomhle má fakt binec.\! Co stránka, to několik narychlo naškrábaných poznámek. #vypouštím každá
+
+
+message_136:
+      text: Sbírka suvenýrů z dovolených našich rodičů.\! Já nikdy dovolené moc nemusel...\! ale když nad tím tak přemýšlím... nebyly možná zas tak špatné.
+
+
+message_137:
+      text: Knížky, které naši rodiče za ty léta nasbírali.\!<br>Dnes už jsou to jen lapače prachu.
+
+#closet
+
+message_138:
+      text: Zamčená krabice s hračkama.\! Chtěl bys ji otevřít?
+#Yes/No
+
+#kitchen
+
+message_139:
+      text: Kuchyňské prkno.\! Zrovna na tomhle se MARI kdysi řízla do prstu.\! To bylo vlastně poprvé, co jsem ji viděl plakat.
+
+message_140:
+      text: Lednička.\! Plná MAMČINÝCH jídel a TAŤKOVÝCH zbytků...
+
+message_141:
+      text: Starý toustovač.\! MAMKA říká, že je dokonce starší, než já.
+
+message_142:
+      text: Mikrovlnka.\! S touhle jsem toho dost zažil.
+
+message_143:
+      text: Nedopitý šálek kávy.\!<br>Ty vidím vždycky, když má MAMKA nervy.
+
+message_144:
+      text: Špinavé prádlo.\!<br>MARI po mně vždycky chtěla, abych jí ho pomohl skládat.
+
+#parents room
+
+message_145:
+      text: Budík... pro zodpovědné osoby.\!<br>Je pět minut napřed.
+
+message_146:
+      text: TÁTOVA bonsaj.\! Zase vyrostla o něco víc, než když jsem ji naposledy viděl.
+
+message_147:
+      text: Postel rodičů.\! MAMKA spí nalevo a TÁTA vpravo.
+
+message_148:
+      text: Skříň rodičů.\!<br>Dovnitř se nesmím dívat.
+
+message_149:
+      text: Knížky...\! Mám pocit, jako bychom je dostali zdarma k tomuhle domu.
+
+message_150:
+      text: MAMČINY porcelánové vázy.\!<br>Bývalo jich tady víc, jednu jsem rozbil.\!<br>Ale MARI to vzala na sebe...
+
+message_151:
+      text: Rodinné fotky.\! Některé příbuzné vídám častěji na takovýchle fotkách, než naživo.
+
+message_152:
+      text: Košík plný ovoce.\! MARI si stojí za tím, že bychom doma měli pořád mít čerstvé ovoce.
+
+message_153:
+      text: Věšák.\!<br>Tohle je prý TAŤKŮV klobouk, i když jsem ho nikdy neviděl s ním na hlavě.
+
+message_154:
+      text: Ovladač od televize.\! TÁTA je vždycky na nervy, když se ztratí...\!<br>A to i když je většinou jenom zaseklý v gauči.
+
+message_155:
+      text: Pěkná, velká televize.\! Animáky v sobotu ráno bývaly nejlepší.
+
+message_156:
+      text: Stojací lampa.\! Tu před ní jsme s KELEM shodili a rozbili.\! z toho MAMKA nebyla moc nadšená... #blíže orig
+
+message_157:
+      text: Teplý krb.\!<br>Na římce je to samá moje fotka mě jako mimina.\! Já se moc neusmívám...\! a to ani na fotkách.  #blíže orig
+
+message_158:
+      text: MAMČIN domácí telefon.\! Kdysi býval v rodičovském pokoji.
+
+message_159:
+      text: \sinv[1]\}Prrrrrrrr...\n<MEWO>
+
+message_160:
+      text: Hodná kočička.
+
+message_161:
+      text: Naše rodinná fotka...
+
+message_162:
+      text: Ptačí budka.\! Ptáci z ní jí celkem často.
+
+message_163:
+      text: Nikdo není doma.
+
+message_164:
+      text: MAMČINY kytky.\!<br>Spolu s MARI chodí na aranžerský kurz.\!<br>Občas mě rády táhnou s sebou.
+
+message_167:
+      text: Koš.\! MEWO se v něm ráda schovává.
+
+message_168:
+      text: Malé autíčka.\! KEL si je asi zase zapomněl vzít zpátky domů.
+
+message_169:
+      text: Nevkusné ornamenty.\! MAMKA jich ráda kupuje pořád víc a víc...\! A TÁTA musí pořád stavět další poličky, aby se tady vůbec všechny vešly. #tacky na nevkusné
+
+message_170:
+      text: Kaktus.\! Dárek od KELOVA táty, když jsme se sem přistěhovali.\! Už toho přežil hodně...
+
+message_171:
+      text: Botník.\! MAMČINY boty jsou samá špína, jako obvykle.
+
+message_172:
+      text: Velký gauč, na kterém se skvěle usíná.\! Nevím, kdy jsem naposledy vydržel celý film bez toho, abych usnul.
+
+message_173:
+      text: Stolní lampička.\! Ta tady asi byla ještě předtím, než jsme se sem nastěhovali.
+
+message_174:
+      text: Korkové podtácky.\! TÁTA je dostává v práci zadarmo.
+
+message_175:
+      text: Malý šuplík.\! MAMKA pořád neví, co s ním.
+
+message_176:
+      text: Kuchyňská linka.\! Tady spolu dělají MARI a HERO úkoly.
+
+message_177:
+      text: Dřez.\! Nesnáším mytí nádobí.
+
+message_178:
+      text: Plotna.\! MARI často HERA prosí, aby jí něco vařil...\!<br>Ale vždycky toho udělá o něco víc, tak vlastě vaří pro nás všechny.
+
+message_179:
+      text: Tohle je moje židle.
+
+message_187:
+      text: Tohle je BASILOVA židle.
+
+message_188:
+      text: Záchod.\! Na tenhle je vždycky spoleh.
+
+message_189:
+      text: Hygienické potřeby.\! Každý z nás, by měl mít svoje...\! ale my je stejně nejsme schopni navzájem rozpoznat.
+
+message_190:
+      text: Zrcadlo.\! Nerad se do něj dlouho dívám.
+
+message_191:
+      text: Vana.\! O vanách upřímně nemám moc co říct.
+
+message_192:
+      text: Kytičky.\! Měly by vonět a osvěžovat to tady.\! Doteď si nejsem jistý, jestli fungujou. #přiroz
+
+message_193:
+      text: Po podlaze se válí kartonové krabice.
+
+message_194:
+      text: Prázdný věšák.
+
+message_230:
+      text: Stolní lampička.\! Tuhle MAMKA koupila při výprodeji.\! To si pamatuju, protože mě tam s sebou odtáhla...\! v neděli...
+
+message_201:
+      text: Honosné kytky, které nám měly zdobit schody.\! MAMKA je ale později odsunula pryč, protože je MEWO pořád okusovala.
+
+message_202:
+      text: Dřevěná židle.\! Rád na ní sedím a poslouchám, jak MARI hraje na klavír.
+
+message_203:
+      text: Několk stoliček.\! Tyhle vždycky vztyčovali BASIL a HERO proto, aby mohli sedět a poslouchat, jak hraju na housle...
+
+message_204:
+      text: Umělé kytky.\! AUBRY je měla dost ráda.
+
+message_205:
+      text: Umělé kytky.\! Jsou mi celkem ukradené.
+
+message_206:
+      text: Otevřená krabice s hračkama.
+
+message_207:
+      text: Zbytky... zase.
+
+message_208:
+      text: Vždycky jsme mívali velkou zahradu, tak jsem rád, že jsme sem dali ten domek na stromě.\! Je sice o něco dál...\! ale pořád vidím na můj oblíbený strom. #blíže orig. a nevím, mě to dává smysl
+
+message_209:
+      text: Nezapomeň...\| Jsou v krabici. #dle dohody vypouštím "s hračkama"
+
+#REMEMBER TO ADD FAMILY PHOTO
+
+# =========================================================================================
+# CROSSROADS STREET
+# ========================================================================================
+
+message_165:
+      text: KELŮV basketbalový koš.\! Vypadá zbrusu nově.
+
+message_166:
+      text: KEL a HERO zrovna nejsou doma.
+
+
+# =========================================================================================
+# PLAYER'S BACKYARD AND TREEHOUSE
+# ========================================================================================
+
+message_180:
+      text: Baseballová pálka.\! MARI hrávala softball, ale od té doby, co si poranila koleno, s ním musela zkončit.
+
+message_181:
+      text: AUBRYINA plyšová hračka, \"LILÍK\". #konzistence
+
+message_182:
+      text: HEROVY kuchařky.\!<br>Dostal je od MARI na narozeniny.
+
+message_183:
+      text: Kalendář...\!<br>Prázdniny už jsou skoro u konce...
+
+#Changes after you get violin to:
+
+message_184:
+      text: Kalendář...\! Datum předehrávek je už dávno prošvihlé.
+
+message_185:
+      text: Stará televize.\! KEL ji sem donesl, a byl celkem zklamaný, když přišel na to, že nefunguje.
+
+#Only when the tree is there as character set
+#The tree appears over the stump before you grab the broken violin, but disappears after
+#Ocean might not have set this up yet.
+
+message_186:
+      text: Můj oblíbený strom.
+
+message_400:
+      text: Květiny z papíru.\! Tyhle spolu udělali AUBRY a BASIL.
+
+message_401:
+      text: Jojo.\! Jediný trik, cos uměl, byl "walk the dog". #uvozovky (nejsem jojer, jinak bych asi věděl přesný název. hledal jsem ji začátečnické jojo triky, a ty se nepřekládají).
+
+message_402:
+      text: KELOVY staré boty.\! Často si u nás zapomínal své věci.
+
+
+# =========================================================================================
+# MEMORIES
+# ========================================================================================
+
+#Beach Memory:
+message_195:
+      text: MARIN piknikový košík.\!<br>Dnes je v něm sýr a slané sušenky.
+
+#Rainy Memory:
+message_196:
+      text: Osamělý plastový plameňák.\! Vypadá, že se mu v dešti líbí.
+
+message_197:
+      text: Honosná bílá poštovní schránka.
+
+#Picnic Memory:
+message_198:
+      text: Nad jezerem se tyčí znak \c[11]PŘEDALEKÉ LHOTY\c[0].
+
+message_199:
+      text: MARIN piknikový košík.\!<br>Dnes v něm jsou sandviche s džemem a burákovým máslem.
+
+message_200:
+      text: Po trávě se válí několik hraček.\!<br>Možnosti jsou nekonečné!
+
+message_231:
+      text: Naše boty.\! Nesmíme přece zašpinit ten piknikový ubrus...
+
+message_232:
+      text: Z půli dojezený meloun.\!<br>Druhá půlka je v našich žaludcích.
+
+message_233:
+      text: Talíř utřený tak, až se pomalu leskne.\! HERO se vždy postará o to, aby své jídlo KEL dojedl.
+
+message_234:
+      text: Starý toustovač.\! Netoustuje.
+
+message_235:
+      text: Plyšová hračka dívky s růžovýma vlasama.
+
+message_236:
+      text: Po zemi se válí několik hraček.\!<br>Možnosti jsou nekonečné!
+
+message_237:
+      text: Boty, které tady KEL minulý týden zapomněl.
+
+message_238:
+      text: Obyčejný hrad z písku.
+
+message_239:
+      text: Několik plážových hraček.\!Zábava pro všechny!
+
+message_240:
+      text: Barel, ze kterého kdosi udělal koš. #"od ropy" mi působí rochu zvláštně
+
+message_241:
+      text: MARIN plážový batoh.\! Sladěný s HEROVÝM!
+
+message_242:
+      text: HERŮV plážový batoh.\! Sladěný s MARINÝM!
+
+message_243:
+      text: AUBRYINA taška.\! Perfektně jí sedí!
+
+message_244:
+      text: KELŮV batoh.\! Je mu moc velký!
+
+message_245:
+      text: BASILOVA taška přes rameno.\! Je sice trochu malá, ale to mu nevadí!
+
+message_246:
+      text: Moje plastová taška.\! Stačí.
+
+message_247:
+      text: Plavčíkovo stanoviště.\! Dneska mají asi volno.
+
+message_248:
+      text: \"NA PLÁŽI JE ŽIVOT FAJN!\"
+
+message_249:
+      text: Na pláž boty nepatří!\!<br>Chodit v botech v písku je hrůza.
+
+message_250:
+      text: \"ODPOČÍVEJTE, UVOLNĚTE A UŽÍVEJTE!\" #zkusím. lepší něco než nic ("unwind"... jindy by mě něco napadlo. dneska mám totální okno)
+
+message_251:
+      text: Plážové křeslo.
+
+message_252:
+      text: Snězený meloun.\! Byl vynikající.
+
+
+# =========================================================================================
+# GENERAL
+# =========================================================================================
+
+message_0:
+      text: Chtěl by sis projít BASILOVO \c[4]FOTOALBUM\c[0]?
+
+message_1:
+      text: Získal jsi BASILOVO \c[4]FOTOALBUM\c[0].
+
+message_2:
+      text: Získal jsi \c[4]FOTKU\c[0].
+
+# =========================================================================================
+# BASIL'S MEADOW
+# =========================================================================================
+
+#Shadow BASIL in front of the big tree
+
+message_9:
+      text: Ještě nám zbývá naděje...\! protože jsi tady ty.\bas
+
+message_10:
+      text: Věřil jsem ti, když jsi říkal, že se pro mě vrátíš...\! a proto tě prosím...\! věř mi taky.\bas
+
+#message_10:
+#      text: \n[8]...\! You're finally here.\bas
+
+#message_11:
+#      text: I've always dreamed that you would come back for me...<br>But maybe now, it's too late.\bas
+
+#message_12:
+#      text: It's getting hard to breathe lately.\!<br>I'm not sure how much longer I can go on...\bas
+
+message_13:
+      text: Vrata jsou zamčené.
+
+# =========================================================================================
+# PLAYER'S LIVING ROOM
+# =========================================================================================
+
+#Entrance
+
+message_14:
+      text: Dveře jsou zamčené.
+
+#Exit
+
+message_15:
+      text: Rám pokrývá vrstva vlasů.
+
+message_60:
+      text: \n<MAMKA>Má jediná dcera...\| je pryč.\!<br>A ty...\| jsi můj jediný syn.\| Nesmím...\| přijít i o tebe.
+
+message_61:
+      text: \n<MAMKA>Prosím, nezlob, SUNNY...\|<br>Prosím...\| buď hodný...
+
+message_62:
+      text: Z televize září děsivá záře.\!<br>Cítíš, jak tě zvláštně přitahuje. #světlo na záře. popravdě si nemyslím, že měnit záři na světlo je kvůli komoušům nutné
+
+# =========================================================================================
+# HOSPITAL
+# =========================================================================================
+
+#Patient
+
+message_16:
+      text: Tato osoba nedýchá.
+
+message_40:
+      text: Tato osoba zběsile dýchá.
+
+#Television
+
+message_30:
+      text: Vidíš v ní čtyři děti, bavící se s velrybou.
+
+message_31:
+      text: Vidíš v ní čtyři děti ve výtahu.
+
+message_32:
+      text: Vidíš v ní pět dětí, sedících u pikniku.
+
+message_33:
+      text: Vidíš v ní čtyři děti, vylézající po žebříku do vesmíru.
+
+message_34:
+      text: Vidíš v ní tři děti a jednu kaši. #počet
+
+message_35:
+      text: Vidíš v ní čtyři děti, bavící se s velikou sochou.
+
+message_36:
+      text: Vidíš v ní čtyři děti, hrající si v lese.
+
+message_37:
+      text: Vidíš v ní čtyři děti, jedoucí ve vozíku. #přiroz
+
+message_38:
+      text: Je vypnutá. #přednost spisovnosti v důležité scéně
+
+# =========================================================================================
+# RECITAL BACKSTAGE
+# =========================================================================================
+
+#Photos
+
+message_17:
+      text: Něco ti vzalo prst.
+
+#Photos
+
+message_18:
+      text: Něco ti brání se přiblížit.
+
+# =========================================================================================
+# PLAYER'S ROOM
+# =========================================================================================
+
+#Shadow BASIL in room
+
+message_19:
+      text: SUNNY...\! Neboj...\!<br>Všechno bude v pořádku.\bas
+
+#Door
+
+message_20:
+      text: Něco ti ještě chybí.
+
+# =========================================================================================
+# LAMP ROOM
+# =========================================================================================
+
+#Lamp
+
+message_21:
+      text: Přišrouboval jsi \c[4]ŽÁROVKU\c[0].
+
+message_22:
+      text: \c[4]ŽÁROVKA\c[0] osvětluje místnost.
+
+message_54:
+      text: Chtěl bys zvednout tuto fotku?
+
+message_23:
+      text: Chtěl bys přišroubovat \c[4]ŽÁROVKU\c[0]?
+
+#Happy Chair
+
+message_50:
+      text: Je tady příjemný vzduch.
+
+message_51:
+      text: Z venku slyšíš zpívat ptáky.
+
+message_52:
+      text: Vůně čistého prádla naplňuje vzduch.
+
+message_53:
+      text: Na líčkách cítíš, jak hřeje slunce.
+
+message_69:
+      text: MARIN kalendář.\! Dneska jsou předehrávky.
+
+#test in BACKSTAGE
+
+message_300:
+      faceset: MainCharacter_Mari
+      faceindex: 22
+      text: SUNNY...\! Tak jsi konečně tady.\aub
+
+message_301:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Po tomhle už je to všechno jen na tobě.\aub
+
+message_302:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: Víš...\! Než jsme se potkali, moc jsem nezapadala...\aub
+
+message_303:
+      faceset: MainCharacter_Mari
+      faceindex: 27
+      text: A i potom, co jsme se všichni seznámili...\! jsem se pořád bála toho, že mě dříve nebo později opustíte.\aub #přiroz
+
+message_304:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Ale...\! i když všichni měli něco na práci...\! připadalo mi, že ty sis na mě vždycky udělal čas.\aub
+
+message_305:
+      faceset: MainCharacter_Mari
+      faceindex: 23
+      text: Poslouchával jsi mě celé hodiny...\! S tím na tebe byl vždycky spoleh. \aub #vypouštím "mluvit"
+
+message_306:
+      faceset: MainCharacter_Mari
+      faceindex: 26
+      text: Vím, že jsme se posledních pár let neviděli...\! ale vůbec to tak nemusí nadále zůstat.\kel
+
+message_307:
+      faceset: MainCharacter_Mari
+      faceindex: 25
+      text: Lidi mi pořád říkají, že jsem blbý, nebo neopatrný...\! ale jestli ti to na mně nevadí, tak jsem tady vždycky pro tebe!\kel #bezohledný na neopatrný
+
+message_308:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text:  SUNNY...\! My víme, že se nerad stavíš do čela věcí.\her
+
+message_309:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: Všechno tohle muselo být těžké.\her
+
+message_310:
+      faceset: MainCharacter_Mari
+      faceindex: 9
+      text: Ale...\! myslím, že bys do nás klidně mohl dát nějakou tu důvěru taky.\her
+
+message_312:
+      faceset: MainCharacter_Mari
+      faceindex: 24
+      text: To, žes udělal něco špatného... neznamená, že jsi špatný.\kel #přiroz, vypouštím "kdysi"
+
+message_313:
+      faceset: MainCharacter_Mari
+      faceindex: 11
+      text: Musel jsi s tím žít tak dlouho...\! celou dobu jsi to v sobě dusil...\her
+
+message_314:
+      faceset: MainCharacter_Mari
+      faceindex: 8
+      text: A i když je možná lehčí své potíže ignorovat, plakat přece není žádná ostuda.\her #vypouštím "zpočátku"
+
+message_315:
+      faceset: MainCharacter_Mari
+      faceindex: 10
+      text: Život jde dál.\! A všechno můžeš změnit.\her #přiroz.
+
+message_316:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Co se bude dít po tomhle je jen v tvé režii. \aub
+
+message_317:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Ale jsme tady pro tebe, protože chceš, abychom byli.\her #celkem ironicky mně to "potřebuješ" znělo až moc negativne. vypouštím.
+
+message_318:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: A...\! Vážně doufáme, že se nevidíme naposled.\kel #"že se neloučíme" zní lépe, ale nesedí to. loučí se, ale ne navždy
+
+message_319:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Ty to zvládneš, SUNNY!\! A slibuju, že s tebou vydržím až do samého konce!\kel
+
+message_320:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Jo...\! Za mě budeme pořád nejlepší kamarádi.\! Co ty na to?\kel #přiroz
+
+message_321:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Ať už si vybereš cokoliv...\! Vždy ti budeme přát to, co je pro tebe nejlepší.\her
+
+message_322:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Nezapomeň na nás.\! Budeme ti držet palce.\her
+
+message_323:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Ať už své city potlačíš sebevíc...\! vždycky se k tobě nějak vrátí.\! A to, co s nima uděláš...\! bude tvou pravdou.\aub #sebevíc
+
+message_324:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: A SUNNY...\aub
+
+message_325:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Zlom vaz, jasný? Pro mě.\aub #přiroz
+
+message_330:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Věříme ti...\| SUNNY.\aub

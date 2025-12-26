@@ -1,0 +1,630 @@
+# =========================================================================================
+# Cutscene: Breakfast by Hero
+# =========================================================================================
+
+#Trigger: Talk to HERO.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \sinv[1]Dobrééééééé ráno, SUNNY! Vstáváme!\her
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herVšimhl jsem si tohohle SEZNAMU DOMÁCÍCH PRÁCÍ od tvojí mamky a všechno to za tebe vyřešil!\! Snad ti to nevadí!
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: A taky jsem udělal snídani.\!<br>Pojď dolů, než ti to vystydne...\! <br>\Com[2]KEL už si stihl přidat!\her
+
+#Trigger: Talk to KEL.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \Com[2]Krásné ráno, SUNNY!\!<br>Být tebou bych...\! ham...\! začal jíst, dokud ještě je co!\!<br>\}Stejně už po mě moc slaniny nezbylo.\kel
+
+#HERO enters.
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \sinv[1]Nese se další talíř slaniny!\her
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Kamaráde! Ta je všechna pro mě?\! Díkec, brácha! Heh heh!\kel
+
+#Doorbell rings.
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Ham, ham, ham...\! Kdo by to tak mohl...?\! <br>Jdu otevřít.\kel
+
+#KEL walks O.S.
+
+message_7:
+      text: \quake[1]PRR\{\Com[2]RRSSS\{\Com[2]SK\{KK! ZASE TY?!!\kel
+
+#KIM speaks:
+
+message_8:
+      text: \sinv[1]\{FUUUUUU\{UUUUUJW!!\sinv[0]\!\}\}<br>Co se tady děje?! Co má tohle sakra znamenat, KELI?!\who
+
+#HERO is surprised.
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Cože?\! Co se to tam děje?\her
+
+# =========================================================================================
+
+#HERO walks O.S. to Living Room.
+#Trigger: Walk to Living Room
+
+message_10:
+      text: Zatraceně, KELI...\! Teď jsem celá od vajíček...\kim
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: No tak... \!Promiň...\!<br>Ale tebe bych tady rozhodně nečekal.\kel
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Co tady vůbec chceš?\kel
+
+message_13:
+      text: Grr, grr...\! \Com[2]Teď jsem ti to chtěla říct, jenom kdybys mě nechal!\kim
+
+message_14:
+      text: Prostě...\! AUBRY.\kim
+
+message_15:
+      text: Klepeme jí na dveře a pořád nic...\! zadní dveře - taky nic...\!<br>ty šutry, kterýma jsme jí házeli po okně - taky nic...\kim
+
+message_16:
+      text: Včera byla dost naštvaná...\kim
+
+#KIM jumps.
+
+message_17:
+      text: \Com[2]\{A JÁ VÍM, ŽE V TOM MÁTE PRSTY VY!\}<br>Koukejte prozradit, co jste s ní udělali!\kim
+
+#KEL jumps.
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]My nic!\! To ona je ten problém!\kel
+
+#HERO turns to KEL.
+
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Počkej, KELI...\!<br>Jestli je na tom tak špatně, asi bychom jí měli zkusit pomoct.\her
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Je to přece koneckonců AUBRY.\!<br>Vždyť se známe od dětství!\her
+
+#KEL turns to HERO.
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Tys nebyl u toho, když shodila BASILA do jezera.\kel
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Říkal jsem ti...\! že se změnila!\! <br>S lidma, jako je ona, bychom neměli mít nic společného!\kel
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Je sice pravda, že se změnila, ale to neznamená, že bych si jí přestal vážit.\her
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: A i když to možná nedává najevo,<br>určitě si mě váží taky.\!<br>Taková prostě ona je.\her
+
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: S tím bych si nebyl moc jistý...\kel
+
+#HERO jumps.
+
+message_26:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Dneska máme poslední šanci s tím cokoliv udělat, než SUNNY odjede.\! <br>A já to v žádném případě takhle nenechám!\her
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Měli bychom si s ní alespoň promluvit!\her
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: ...\kel
+
+#KEL turns around.
+
+message_29:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: No tak dobře...\! Se SUNNYM se klidně přidáme...\! ale promluvíš si s ní ty.\kel
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Stejně poslouchala vždycky tebe nejvíc...\kel
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Díky, KELI.\her
+
+#HERO walks to KIM.
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: A KIM...\! Dík, že sis přišla říct o pomoc zrovna k nám.\! <br>Jsi dobrá kamarádka.\her
+
+message_33:
+      text: C-Co?\! Err...\! J-Jo, určitě...\kim
+
+message_34:
+      text: ...\kim
+
+message_35:
+      text: \}Grr, grr...\! Grr, grr, grr...\kim
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Co kdybys šla napřed? Uvidíme se tam.\her
+
+message_37:
+      text: T-Tak jo.\! Čau...\kim
+
+#KIM leaves.
+
+# =========================================================================================
+# Cutscene: Aubrey's House
+# =========================================================================================
+
+#Trigger: Examine AUBREY's Door.
+
+#HERO knocks on door.
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Haló?\! Je tam někdo?\her #změněno z "je někdo doma?", protože se to objevuje později
+
+#HERO turns to KEL.
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Když nad tím teď přemýšlím... byli jsme někdy vůbec u AUBRY doma?\her
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Nemyslím.\! To ona vždycky chodila k nám.\! <br>Ne, vážně si nedokážu vybavit, že bychom u ní někdy byli.\kel
+
+#HERO turns around.
+#HERO knocks on door again.
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Haló?\! AUBRY?\! Je někdo doma?\her
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \sinv[1]Haaaaa\{aaaa\{lllll\{óóóóó\}óóó\}óó...?\kel
+
+#Door opens.
+#HERO is surprised.
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Á! Vypadá, že celou dobu bylo otevřeno.\! Pojďme dovnitř.\her
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Ty jo... Tady je ale brajgl...\kel
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Pojďme najít její pokoj.\! Snad s ní vážně nic není.\her
+
+# =========================================================================================
+# Cutscene: Aubrey's Apology
+# =========================================================================================
+
+#Trigger: Enter Aubrey's Room.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Ahoj AUBRY! Jak se máš?\her
+
+#AUBREY turns around and is surprised.
+
+message_69:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: ...\aub
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \Com[2]C-C-C-Co tady k sakru děláte?!\aub
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \{\quake[1]VYPADNĚTE Z MOJEHO POKOJE!!\aub
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Promiň, že jsme ti sem takhle vtrhli... \!A neboj, brzo půjdeme.\her
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Jen jsme se chtěli ujistit, že jsi v pořádku.\her
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: ...\aub
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: Jsem v pohodě!\aub
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Něco jsem zaslechl...\!<br>ale chtěl bych to slyšet i z tvé strany.\! <br>Řekla bys mi prosím, co se stalo včera?\her
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: ...\! Nic.\aub
+
+#KEL jumps.
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]Shodilas BASILA do jezera!\! A ty víš, že neumí plavat!\kel
+
+#AUBREY turns around.
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: T-To byl omyl...\!<br>Jenom...\! jsem ho chtěla odstrčit...\aub
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]\{VŽDYŤ SE MOHL UTOPIT!!\kel
+
+#AUBREY turns back at KEL.
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \com[2]Už jsem ti řekla, že to byl omyl!\aub
+
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: Hele...\! Omlouvám se, jasný?!\aub
+
+#AUBREY takes a step toward KEL.
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: Proč se musíš pořád jenom nad ostatní povyšovat?!\aub
+
+message_85:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: No...\! Že to říká zrovna ta, co BASILA furt otravuje a krade mu jeho věci!\kel
+
+#AUBREY is frustrated.
+
+message_86:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \Com[2]Přestaň o tom mluvit, jako bys věděl, o co běží!\! <br>Pořád ti říkám, že ti do toho nic není.\aub
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: No...\! To teda je.\kel
+
+message_88:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Ty...\! Ty a BASIL...\! A my všichni...\!<br>Jste byli mí nejlepší kamarádi...\kel
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: ...\aub
+
+#HERO walks up.
+
+message_90:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Dobře, dobře...\! Už vidím, v čem je problém...\!<br>Je to prostě hádka jako každá jiná, kterou jste vy dva spolu měli.\her
+
+message_91:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Usmiřte se...\!<br>Vždyť už se vám to povedlo tolikrát!\her
+
+message_92:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: ...\kel
+
+message_93:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: ...\aub
+
+#HERO walks toward AUBREY's photos.
+
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Hele...\ Tak tady zkončily ty fotky s MARI.\her
+
+message_95:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: ... ... ... \aub
+
+message_96:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Jsou...\! Jsou to jediné, co mi po ní zbylo.\aub
+
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Ale to neznamená, že bys je měli BASILOVI brát.\! Jsou to přece jeho fotky.\her
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: No...\! Teď už je to stejně jedno.\! Máme sice tyhle...\!<br>ale zbytek jsem už vyhodila.\aub
+
+message_99:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Teď už by měly být dávno pryč...\aub
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: To není pravda, AUBRY. \!SUNNY je má přímo tady!\kel
+
+#AUBREY is surprised.
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \Com[2]Cože?\! Má?\! Ale jak?\aub
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Vždyť jsem je snad házela do popelnice. \!<br>To byste... se SUNNYM museli...\aub
+
+#KEL is sweating.
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: Haha...\! Vy jste se mi vážně kvůli tomuhle hrabali v popelnici?\aub
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: ...\kel
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: To je...\! celkem odporný.\aub
+
+#KEL puts his hand behind his head.
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Ha...\kel
+
+#HERO looks at AUBREY.
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: AUBRY...\! Pojďme ty fotky s MARI vrátit zpátky do \c[4]FOTOALBA\c[0].\!<br>Všechny tyhle fotky...\! by měly být pospolu.\her
+
+#HERO takes photos down from AUBREY's wall.
+
+message_108:
+      text: HERO ti vzal \c[4]FOTOALBUM\c[0].
+
+#HERO takes PHOTO ALBUM from PLAYER and opens it on the floor.
+
+message_109:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: ...\aub
+
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_111:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: No tak.\! Spolu bychom to měli zmáknout.\her
+
+
+
+# =========================================================================================
+# Cutscene: Aubrey joins the Gang
+# =========================================================================================
+
+#Trigger: Finish sorting photos.
+
+message_132:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Tak.\! Teď jsou všechny zase tam, kde mají být!\her
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Vypadá, že jedna fotka pořád chybí... ale aspoň, že máme ten zbytek!\her
+
+#HERO turns around to KEL and AUBREY.
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Tak...\! Že je vám dvěma hned líp?\her
+
+message_135:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Uff...\! Tehdy to byla fakt sranda, že?\kel
+
+message_136:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Jo...\! To asi jo.\aub
+
+#AUBREY turns around.
+
+message_137:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: ... ... ... ... ... ... \aub
+
+message_138:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: Omlouvám se vám...\! Chovala jsem se jako hrozná kráva.\aub
+
+#KEL looks at AUBREY.
+
+message_139:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Já se ti taky omlouvám, AUBRY...\!<br>Nechoval jsem se k tobě zrovna nejlíp.\kel
+
+message_140:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Dobře! Omluvy přijmuty! Teď zase můžeme být všichni kamarádi!\!<br>\sinv[1]Kdo se chce obejmout?!\her
+
+#KEL is sweaty.
+
+message_141:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \Com[2]No tak, HERO! Teď ne! Seš tak trapnej.\kel
+
+#AUBREY turns away.
+
+message_142:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: J-Já jsem v pohodě... Díky.\aub
+
+#HERO walks toward entrance.
+
+message_143:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Tak teď už nám zbývá jen BASIL.\her
+
+message_144:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Snad se dneska cítí líp.\her
+
+#HERO turns to AUBREY.
+
+message_145:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: AUBRY...\! S tím vším, co vím od KELA...\!<br>Určitě víš, že by ses měla omluvit i němu.\her
+
+message_146:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Jo...\! To vím...\aub
+
+message_147:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: Díky, AUBRY. \!Jsem rád, že jsi zase zpátky. \!<br>A teď s tebou pryč odsud!\her
+
+message_148:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Ts...\! Tak dobře...\aub
+
+message_150:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelHmm...\! Už je to dávno.\! Kam patřila tahle?
+
+message_151:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubCo kdybychom se prostě zeptali SUNNYHO?
+
+message_152:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herTy si je ještě pořád pamatuješ, viď, SUNNY?\! Tys měl vždycky dobrou paměť.

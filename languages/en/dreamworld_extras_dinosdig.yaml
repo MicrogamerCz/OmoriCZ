@@ -1,0 +1,241 @@
+# =========================================================================================
+# Dino's Dig
+# =========================================================================================
+
+#-------------------------
+#Dino intro
+#-------------------------
+message_1:
+      text: \n<DINO>Zdravím, malí dobrodruzi!!\!<br>Vítejte v DINOVĚ KOPU! Já jsem DINO, jeho zakladatel!
+
+message_2:
+      text: \n<DINO>Takže...\! Toužíte po pokladech?\! Jste připraveni si nabrat pořádnou lžíci adrenalinu?\! Jestliže ano, tak to jste tady správně!
+
+
+message_3:
+      text: \$\n<DINO>Neboť jedině zde v DINOVĚ KOPU můžete zažít opravdové vykopávkové dobrodružství... a to jen za 100 MUŠLÍ! #udělal jsi to dost dobře za mě (s první částí si nevím moc rady)
+
+message_4:
+      text: \$\n<DINO>Jste připraveni na všechnu zábavu a nadšení, která vás při kopání čeká?
+
+#[Nod/Shake]
+
+#[Nod]
+message_5:
+      text: \n<DINO>Tak to je přímo \SINV[1]\{\{DINO-TASTICKÉ!!\}\}\SINV[0]
+#Skip to GAME TUTORIAL
+
+#[Shake]
+message_6:
+      text: \n<DINO>Ale... Copak?\!<br>A to jsem vás tipoval na dobrodruhy...
+
+#-------------------------
+#GAME TUTORIAL
+#-------------------------
+message_7:
+      text: \n<DINO>Takže děcka, nejprve si objasníme základní pravidla.\! Tady v DINOVĚ KOPU kopeme výhradně \c[4]LŽIČKAMA\c[0]!
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+message_106:
+      text: \n<DINO>A jelikož žádnou nemáte, tak vám na začátek dám jednu \c[4]BRAMBOROVOU LŽIČKU\c[0] zdarma!
+
+message_8:
+      text: \n<DINO>Vyberte si \c[4]LŽIČKU\c[0], se kterou byste chtěli kopat.
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_100:
+      text: Chtěl bys použít \c[4][VARIABLE] LŽIČKU\c[0]?
+#[YES/NO]
+
+message_9:
+      text: \n<DINO>Skvěle! Takhle to má vypadat!\!<br>Vy se zjevně učíte rychle!
+
+message_10:
+      text: \n<DINO>Na \c[11]POTRAVINOVÁ PYRAMIDA\c[0], našem speciálním výkopu, teď můžete narazit na všelijaké úžasné poklady z celého vesmíru...\! ale nejlepší na tom je... že si můžete nechat cokoliv, co najdete!
+
+message_11:
+      text: \n<DINO>\sinv[1]\com[2]\{A TO JE DINO-GARANTOVÁNO! #více "reklamové"
+
+message_12:
+      text: \n<DINO>Teď vám povím o našem výkopu ještě něco.\! \c[11]POTRAVINOVÁ PYRAMIDA\c[0] má čtyři patra.\! Všichni ze začátku začínají na prvním, avšak když se podaří... #potravinová pyramida
+
+message_13:
+      text: \n<DINO>Tak narazíte na \c[4]PYRAMIDOVÝ KLÍČ\c[0], který otevírá PYRAMIDOVOU BRÁNU do dalšího patra!\! Čím výš jste, tím lepší jsou poklady!
+
+message_14:
+      text: \n<DINO>Ale pozor, je v tom háček!\! Každá \c[4]LŽIČKA\c[0] se postupně opotřebovává a nakonec rozbije.\! \c[4]BRAMBOROVÁ LŽIČKA\c[0] se například rozbije po pěti kopech! #přirozenější (vykopáte 5 vykopávek zní divně, v případě "pokladů" místo vykopávek je to zavádějící, viz další dialogy)
+
+message_15:
+      text: \n<DINO>Pokud se vám vaše \c[4]LŽIČKA\c[0] rozbije, tak váš lov pokladů končí, PYRAMIDOVÉ BRÁNY se za vámi zavřou a začínáte odznova.
+
+message_16:
+      text: \n<DINO>Je vám zatím všechno jasné?
+#[YES/NO]
+
+#[YES]
+#message_5:
+#      text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+
+#[NO]
+#message_10-16
+
+message_17:
+      text: \n<DINO>A teď přišel čas na naše DINO VAROVÁNÍ...\! V \c[11]POTRAVINOVÉ PYRAMIDĚ\c[0] nenarazíte jen na poklady.
+
+message_18:
+      text: \n<DINO>Při vašem lovu dost možná narazíte na potvory, které by se s vámi možná dokonce mohly prát...\! Berte na vědomí, že nejsme zodpovědni za jakékoliv úrazy či jiné příhody, které by se vám u nás mohly stát. Kapišto?
+
+
+message_19:
+      text: \n<DINO>To by teprv byl konec lovu, kdyby vás jedna z těch potvor odkráhlovala!
+
+message_20:
+      text: \n<DINO>Každopádně, to je asi všechno!\! Tak teď už vám zbývá jen vyjít schody, nadechnout se toho čerstvého vzduchu \c[11]POTRAVINOVÉ PYRAMIDY\c[0] a začít kopat! #kop je v pyramidě, vypouštím "kolem"
+
+message_21:
+      text: \n<DINO>\sinv[1]Přeji vám DINO-TASTICKÉ dobrodružství!
+
+#-------------------------
+#GAME end
+#-------------------------
+message_23:
+      text: \n<DINO>\{\Com[2]\sinv[1]LŽIČKA ZNIČENA!\! KONEC LOVU!!!\sinv[0] #lžíce na lžičku pro konzistenci
+
+#[Transport to DINO'S DIG ENTRANCE]
+
+message_24:
+      text: \n<DINO>Tak co, že jste našli fůru super pokladů?\.<br>Snad jste si své DINO-TASTICKÉ dobrodružství naplno užili!
+
+#-------------------------
+#DINO DEFAULT
+#-------------------------
+
+message_25:
+      text: \n<DINO>Zdravím, malí dobrodruzi! Vítejte v DINOVĚ KOPU!
+
+message_26:
+      text: \$\n<DINO>Jste připraveni na další DINO-TASTICKÉ dobrodružství?!<br>Bude vás stát jen 100 MUŠLÍ!
+
+#[Nod/Shake]
+#[Nod]
+message_27:
+      text: \n<DINO>Doufám, že jste všichni připraveni na další DINO-TASTICKÉ dobrodružství!
+
+#[Shake]
+message_28:
+      text: \n<DINO>Ale... Copak?\!<br>A to jsem vás tipoval na dobrodruhy...
+
+#DINO walks to inside of DINO'S DIG
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+#message_106:
+#      text: Since you don't have a SPOON, I'll give you a \c[4]POTATO SPOON\c[0] for free!
+
+message_111:
+      text: \n<DINO>Se kterou LŽIČKOU vyrazíte tentokrát? #nepřeloženo, překládám
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_110:
+      text: \n<DINO>Tak jste ready!\!<br>Pamatujete si ještě všechny naše pravidla?
+#[YES/NO]
+
+#[YES]
+#message 10-21 (same as intro)
+
+
+#[NO]
+message_112:
+      text: \n<DINO>Samozřejmě! Vám to už jistě půjde od ruky!
+
+#message_21 (EVERY TIME)
+
+
+#=====
+#IF YOU DONT HAVE ENOUGH CLAMS:
+
+message_113:
+      text: \n<DINO>Koukej, kámo...\! rád bych ti tohle DINO-TASTICKÉ dobrodružství nabídl zadara, ale my taky musíme z něčeho žít...\! Vrať se, až budeš mít 100 MUŠLÍ, jo?
+
+#-------------------------
+#DINO 2- DINO shops
+#-------------------------
+
+#Default>
+message_29:
+      text: \n<BRETT>Vítej v DINOBCHODĚ!\!<br>Podle mých záznamů máš na kontě \v[1020] DINO DOLARŮ!
+
+message_32:
+      text: \n<BRETT>Jestli si chcete koupit \c[4]LŽIČKU\c[0], jen si řekněte, a já vám hned pomůžu!
+
+#Purchase
+
+message_101:
+      text: \n<BRETT>Chtěl by sis koupit \c[4]PLASTIC SPOON\c[0] (10 KOPŮ) za 3 DINO DOLARY?
+
+message_102:
+      text: \n<BRETT>Chtěl by sis koupit \c[4]WOODEN SPOON\c[0] (15 KOPŮ) for 6 DINO DOLARŮ?
+
+message_103:
+      text: \n<BRETT>Chtěl by sis koupit \c[4]SILVER SPOON\c[0] (20 KOPŮ) for 10 DINO DOLARŮ?
+
+#buy
+message_30:
+      text: \n<BRETT>Bombastická volba! Snad se vydaří! #blíže orig
+
+#Insufficient funds
+message_31:
+      text: \n<BRETT>Promiň, kámo. Na tu nemáš dost DINO DOLARŮ...
+
+#Dino 3
+
+message_33:
+      text: \n<ČED>\c[11]POTRAVINOVÁ PYRAMIDA\c[0] je na ztracené věci jako dělaná.\!<br>Starodávné artefakty...\! Relikvie pohlceny časem...\! a kdovíco ještě! #překládám zbytek věty
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_50:
+      text: Na kopání potřebuješ \c[4]LŽIČKU\c[0].
+
+message_51:
+      text: Našel jsi \c[13]HEKTORA\c[0]!
+
+message_52:
+      text: A další \c[4]LŽIČKA\c[0] z kola ven...
+
+message_53:
+      text: !
+
+message_54:
+      text: Rozbila se ti \c[4]LŽIČKA\c[0]!
+
+message_55:
+      text: Použil jsi \c[4]PYRAMIDOVÝ KLÍČ\c[0].
+
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_120:
+      text: \"DINŮV KOP... NYNÍ S JEŠTĚ VÍCE ZKN!\.<br>PRO ZKN JEDINĚ ZA NÁMA!\" #nejlepší část mojí sekce jsem tu musel nechat...
+
+message_121:
+      text: \n<DINO>\sinv[1]\{\{JAK SE MÁTE, DOBRODRUZI?
+
+message_122:
+      text: \n<DINO>Tak co, už jste zaslechli tu novinku?\! Trochu jsme těm našim potvorám přidali grády... a teď jsou ještě nebezečnější... než kdy dřív!\! A z toho vyplývá co?... #blíže orig
+
+message_123:
+      text: \n<DINO>\sinv[1]\{\{JEŠTĚ VÍCE ZKN!!
+
+message_124:
+      text: \n<DINO>Jen do toho, dobrodruzi! Na co čekáte?
+
+message_125:
+      text: \n<DINO>Běžte napříč svému DINO-TASTICKÉMU dobrodružství již dnes!

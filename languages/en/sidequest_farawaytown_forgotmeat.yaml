@@ -1,0 +1,78 @@
+
+# =========================================================================================
+# Sidequest: Forgot Meat
+# =========================================================================================
+
+#Talk to Kels dad
+
+message_1:
+      text: \n<KELŮV TÁTA>\Com[2]A safra!\! KELI, ten tvůj fotr je ale blbej!\!<br>Jak se mi povede jít na grilovačku bez nejdůležitější ingredience...\! \c[4]MASA\c[0]!
+
+message_2:
+      text: \n<KELŮV TÁTA>Mohl bys rychle skočit do \c[11]HUBERTA\c[0] a vzít tam něco? Nemusí to být nic extra.
+
+message_3:
+      text: \n<KELŮV TÁTA>Tady máš nějaký drobáky...\! Zajdi za tím ŘEZNÍKEM vzadu, on už bude vědět!
+
+message_4:
+      text: Získal jsi $20,00.
+
+#Buy Meat / Talk to PANÍ Z HUBERTA:
+
+message_5:
+      text: \n<PANÍ Z HUBERTA>DOBY  DEN!\! 你是要 maso 吗? 是 $18,00!
+
+#[yes / no]
+
+#if yes
+
+message_6:
+      text: \n<PANÍ Z HUBERTA>OK!\! \}\}谢谢, 孩子!
+
+message_7:
+      text: Získal jsi \c[4]MASO\c[0].
+
+#Talk to Kels dad
+
+message_20:
+      text: Dal jsi KELOVU TÁTOVI \c[4]MASO\c[0].
+
+message_8:
+      text: \n<KELŮV TÁTA>Díky, chlape! Přesně tak jsem si to představoval!\!<br>To budou ale \c[3]HAMBURGERY\c[0]...
+
+message_9:
+      text: \n<KELŮV TÁTA>Večer se klidně stavte.\!<br>Tohle nesmíte vaším chuťovým pohárkům nechat ujít!
+
+message_10:
+      text: \n<KELŮV TÁTA>Ale zatím si běžte užívat dne.\!<br>Vždyť je dneska tak skvělé počasí!
+
+#Talk to Kel's Dad during Sunset
+
+message_11:
+      text: \n<KELŮV TÁTA>Nazdar, chlapi!\! Tady je burger pro každého z vás, jak jsem slíbil!
+
+message_12:
+      text: Získal jsi 4 \c[3]HAMBURGERY\c[0].\! Ty jo...
+
+message_13:
+      text: \n<KELŮV TÁTA>Vás čtyři už jsem dlouho neviděl pohromadě.\! <br>Připomíná mi to, jak jste byli malí, ha ha...
+
+message_14:
+      text: \n<KELŮV TÁTA>A SUNNY!\!<br>Hodně štěstí se zítřejším stěhováním!
+
+message_15:
+      text: \n<KELŮV TÁTA>Nezapomeň se tady sem tam ukázat... <br>\!KEL se bez tebe bude cítit osaměle!
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 19 #insert number here
+      text: \kelAle, tati...\! Nech toho... Ztrapňuješ mě...
+
+message_17:
+      text: \n<KELŮV TÁTA>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+
+message_18:
+      text: \n<KELŮV TÁTA>Dám ti stařeckou radu.\! Čím jsi starší, tím hůř se hledají noví kamarádi...
+
+message_19:
+      text: \n<KELŮV TÁTA>Proto je důležité...\! si těch dobrých vážit.\! Hlavně těch, kteří při tobě budou za každou cenu stát!

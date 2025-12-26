@@ -1,0 +1,75 @@
+# =========================================================================================
+# Blackspace around dreamworld
+# =========================================================================================
+
+#otherworld
+
+#CAPT. SPACEBOY mentions the existence of a BLACK HOLE when he travels too far in the Universe.
+
+
+#PINWHEEL FOREST: KITE KID mentions that sometimes when his eye follows his kite, he catches a glimpse of a DARK VOID in the sky.
+
+message_5:
+      text: \n<KLUK S DRAKEM>Tohle jsem ještě nikomu neřekl...\! ale když se občas dívám na svého draka, na okamžik na obloze spatřím jakousi \c[11]TEMNOU PRÁZDNOTU\c[0].
+
+message_6:
+      text: \n<KLUK S DRAKEM>Kdysi jsem ji vídával méně, teď se to stává častěji.\! Zajímalo by mě, co by to tak mohlo znamenat...
+
+#SPROUT MOLE legend states that there used to be more SPROUT MOLES, but many of them were curious and dug too deep into the ground,
+#reaching a mystical realm we now call the  DEEP PIT. It seems that the location has been lost for centuries.
+#Some say that it mysteriously vanished without a trace.
+
+message_7:
+      text: \n<UČITEL KLÍČKOKRTKŮ>Staré pověsti KLÍČKOKRTKOVSKÉ praví, že naši předci kdysi žili a prospívali ve všech krajích tohoto světa, dokud je nepopadla zvědavost a nedokopali se příliš hluboko.
+
+message_8:
+      text: \n<UČITEL KLÍČKOKRTKŮ>Objevili záhadnou propast, která vsákla stovky, ba dokonce tisíce našich druhů. Od té chvíle je již nikdo nespatřil.
+
+message_9:
+      text: \n<UČITEL KLÍČKOKRTKŮ>Přesné umíštění \c[11]HLUBOKÉ PROPASTI\c[0], jak ji tehdy nazvali, je již století ztracena. Někteří tvrdí, že jak záhadně se objevila, tak taky zmizela. #zní lépe
+
+#ORANGE OASIS: One of MINA's kids mentions the story of the SHADOWY CHASM, a place where all bad kids go.
+
+message_10:
+      text: \n<MININO DÍTĚ>Mamka říkala, že bychom neměli chodit příliš daleko od jeskyně, protože by nás prý spolkla \c[11]STÍNOVÁ TRHLINA\c[0]...\! V té prý skončí všechny zlobivé děti. #blíže orig
+
+#Hitchhiker tells you of a place of no return called THE ABYSS.
+
+message_11:
+      text: \n<STOPAŘ>Zdravím, děti. \SINV[1]Uhuhuhu...\SINV[0]\! Měl bych pro vás takovou zajímavost.\!<br>Znám jedno místo... možná, že jste o něm také slyšeli.
+
+message_12:
+      text: \n<STOPAŘ>Má mnoho jmen...\!<br>třeba \c[11]TEMNÁ PRÁZDNOTA\c[0]...\! \c[11]HLUBOKÁ PROPAST\c[0]...\! nebo \c[11]STÍNOVÁ TRHLINA\c[0]...
+
+message_13:
+      text: \n<STOPAŘ>U nás v \c[11]HLUBOKÉ STUDNĚ\c[0] ji říkáme jednoduše \c[11]PROPAST\c[0].
+
+message_14:
+      text: \n<STOPAŘ>Je hned támhle za koncem dálnice.\! Chtěli byste tam vzít?
+
+#FORGOTTEN PIER: Inhabitants from the FORGOTTEN PIER are speaking from another realm which they call BLACK HOLE, DARK VOID, DEEP PIT,
+#SHADOWY CHASM, or ABYSS. They escape for a bit, but it will always pull them back.
+
+#Common SOMETHINGs are Dream World NPCs that have stayed in BLACK SPACE for a long time.
+
+#message_15:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>When I was young, my mother told me to beware of a place called the \c[11]SHADOWY CHASM\c[0], but I didn't listen...\!<br>Now I'm stuck here forever...
+
+#message_16:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I can linger for a while, but...\!<br>\quake[1]it\quake[0] will always pull me back...
+
+#message_17:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I used to have a friend...\! but the longer we stayed here, he started to...\! turn into something else...\! Oh, how I miss my friend...
+
+#STOPAŘ AT ABYSS
+message_20:
+      text: \n<STOPAŘ>Tak jsme tady...
+
+message_21:
+      text: \n<STOPAŘ>Chtěli byste zpátky do \c[11]HLUBOKÉ STUDNY\c[0]?
+
+message_22:
+      text: \n<VELKÁ ŽLUTÁ KOČKA>Spinkej, maličký.\! Se mnou jsi v bezpečí.
+
+message_23:
+      text: Není cesty zpět.

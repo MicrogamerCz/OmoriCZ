@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Halt, Children!
+# =========================================================================================
+
+#Trigger: Go up to Space boyfriends house
+
+message_0:
+      text: \Com[2]Stát!\!<br>Vstupujete do rajónu...\spg
+
+message_1:
+      text: Kapitána VESMÍRNÝCH PIRÁTŮ...\!<br>Vládce celé SLUNEČNÍ SOUSTAVY...\!<br>Prince celého vesmíru...\spg
+
+message_2:
+      text: Všemi váženého KAPITÁNA VES-\! teda...\! eée...\!<br>Vstupujete do domu... \!VESMÍRNÉHO...\! MILENCE.\spg #one and only na všemi váženého
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Ty jo, tady že bydlí kapitán VESMÍRNÝCH PIRÁTŮ?\!<br>\{TO JE HUSTÝ!!\}\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Já bych taky chtěl být VESMÍRNÝ PIRÁT!\kel
+
+message_5:
+      text: Jo, to...\! To já taky...\! kdysi.\spg
+
+message_6:
+      text: VESMÍRNÝ MILENEC toho už moc nedělá a tak se na něj většina VESMÍRNÝCH PIRÁTŮ vykašlala a odletěla s hlavní lodí.\spg #prodloužení zachovávající původní význam
+
+message_7:
+      text: Teď už jsme jen pár pobudů, co mu musí pomáhat s uklízením a tak.\spg
+
+message_8:
+      text: Včera jsme mu celý den uklízeli pokoj a vynášeli odpadky.\spg #viz výše
+
+message_9:
+      text: Uff...\! Pro tohle jsem snad nepodal v minulé práci výpověď...\!<br>Copak jsem nějaká služka!\spg #minulé - ať je to jasnější, druhá věta přirozenější
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ach, to mě mrzí... To zní hrozně.\!<br>Možná bychom se mu mohli pokusit domluvit.\aub
+
+message_11:
+      text: No, to bych teda být váma nezkoušel.\! KAPITÁN VES-<br>Teda...\! Víte, VESMÍRNÝ MILENEC má dvě tváře.\spg
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Můžeme to alespoň zkusit!\! Člověk nikdy neví...\!<br>Možná by mohl vědět, kam se poděl BASIL!\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: A nebo by mohl vědět kam se poděl můj domácí kamínek, \c[13]HEKTOR\c[0]!\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Jo, j-jasně, to taky.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Tak na co čekáme? Pojďme za ním!\kel
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: A to s vaší prací mě mrzí, pane.\aub #zní lépe a pokud vím, velké v ve slově vaše se objevuje jen v dopisech, tady vyjadřujeme mluvu
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Brzo bude zase všechno v pořádku. Slibuju!\aub
+
+message_18:
+      text: Uff...\! Děkuji, malá paní.\! To doufám, že bude.\spg #taky - to - zní lépe
+
+# =========================================================================================
+# Cutscene: Blackletter here
+# =========================================================================================
+
+#message_40:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \fn<OMORI_GAME>Whoa...\! Anyone feel that?\her
+
+#message_41:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 28
+#      text: Yeah...\! My head was all fuzzy for a second...<br>There must be a MISSING LETTER somewhere in here!\kel
+
+# =========================================================================================
+# Cutscene: Space boyfriend is sick
+# =========================================================================================
+
+#Trigger: Talk to Space boyfriend in bed
+
+
+message_51:
+      text: Kuc...\! Kuc, kuc...\sbf
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Ajaj...\! S KAPITÁNEM VES-\!<br>teda, s VESMÍRNÝM MILENCEM to nevypadá moc dobře.\her
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Nebojte, já se o tohle postarám!\kel
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{\{HEJ, \Com[2]VESMÍRNÝ MILENČE!!\kel
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\{VSTÁVÁME!!!\kel
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: KELI!\her
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Co je?\kel
+
+message_58:
+      text: \}\quake[1]Kuc...\! Uhhh...\! Kuc, kuc...\! Fffhh...\!<br>Mé... drahé...\! ZLATÍČKO...\sbf\quake[0]
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ach... Zní tak smutně.\!<br>Musíme mu nějak pomoct.\aub #ale na ach - citoslovce
+
+message_60:
+      text: \}\quake[1]Kuc, kuc...\! Kuc...\! Ach, mé ZLATÍČKO...\!<br>Kam jsi mi tentokrát utekla?\sbf\quake[0]
+
+#SPACE PIRATE GUY walks in and walks to SPACE BOYFRIEND.
+
+message_61:
+      text: Ale ne... Zase tohle...\!<br>VESMÍRNÉHO MILENCE opět přemáhá žal.\spg
+
+message_62:
+      text: Tady, chlape. Tohle tě určitě zrychtuje.\spg #porychtovat jsem našel jen zřídka, zrychtuje vícekrát
+
+#SPACE PIRATE GUY walks to the CASSETTE PLAYER.
+#SPACE PIRATE GUY is surprised and confused.
+
+message_63:
+      text: Cože?\! Jaktože nic nehraje?\spg
+
+#SPACE PIRATE GUY starts sweating.
+
+message_64:
+      text: Ale ne...\! V kazeťáku nic není!\!<br>S takovou se už nevzbudí vůbec!\! A nebo ještě hůř...\! <br>Se vzbudí... naštvaný.\spg #přirozenější, zachování, že je to ještě horší, kdyby byl naštvaný
+
+message_65:
+      text: Ach jo... To snad ne...\!<br>Kam se ta \c[4]VÝJIMEČNÁ KAZETA\c[0] mohla podít?\spg #za mě zní lépe
+
+#SPACE PIRATE guy has an idea.
+
+message_66:
+      text: Někdo mu ji musel vyhodit když jsme uklízeli!\spg
+
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: O co to tady vůbec jde? Vždyť je to jen kazeta, ne?\kel
+
+message_68:
+      text: No, víš...\! Když není VESMÍRNÝ MILENEC se ZLATÍČKEM, najednou hrozně zesmutní a celé dny v kuse proleží v posteli.\spg
+
+message_69:
+      text: A jediné, co ho z toho dostane, je jeho \c[4]VÝJIMEČNÁ KAZETA\c[0].\! V celém vesmíru je jen jedna.\spg
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Aha, už chápu...\! VESMÍRNÝ MILENEC není nemocný...\!<br>Schází mu jeho láska...\aub
+
+message_71:
+      text: Uff...\! Pokud to s ním takhle půjde dál, tak se nám už nikdy nepovede dát kdysi velikou koalici VESMÍRNÝCH PIRÁTŮ zpátky dohromady...\spg
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Ach...\! jo...\! To je celkem blbý.\kel
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Tak... bereme roha!\kel
+
+#KEL attempts to leave.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Stůj! Kam jako jdeš? Musíme mu přece pomoct!\!<br>Snad víš, jaké je přijít o něco, čeho si vážíš.\aub
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Opovaž se do tohohle zatáhnout \c[13]HEKTORA\c[0]!\kel
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Ne, mluvím o tom, jak jsi mi ukradl můj \c[13]PLYŠOVÝ LILEK!\c[0]\aub
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Cože?\! Já si teda nic takového nepamatuju.\kel #lépe sedí kelovi
+
+message_78:
+      text: Nedaleko odsud leží \c[11]SMETIŠTĚ\c[0], ale je obří!\! Divil bych se, kdybyste tam vůbec našli cokoliv, i když...\spg
+
+message_79:
+      text: \Com[2]Kuc, kuc!\sbf
+
+#Everyone turns to the bed
+
+message_80:
+      text: \quake[1]\}Ach... ZLATÍČKO...\! Má dokonalá bohyně...\sbf\quake[0]
+
+message_81:
+      text: \quake[1]\}Kuc...\! Můj sladký...\! marmeládou plněný... koblížku...\sbf\quake[0]
+
+#AUBREY looks at Space Boyfriend.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Řekla bych, že to s ním je čím dál horší a horší...\aub #zní lépe
+
+#HERO looks at Aubrey.
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Tak co uděláme, OMORI? Pomůžeme mu?\aub
+
+#[Nod (Yes) / Shake (No)]
+
+message_84:
+      text: Díky, borci... Fakt si toho vážím.\!<br>Na, vemte si tohle.\spg
+
+message_85:
+      text: Získal jsi \c[4]KLÍČ KE SMETIŠTI\c[0].
+
+message_86:
+      text: Tímhle klíčem odemknete bránu do \c[11]SMETIŠTĚ\c[0].<br>\!Někde by tam měla být ta \c[4]VÝJIMEČNÁ KAZETA\c[0].\spg
+
+message_87:
+      text: Můžete se tam dostat skrz tajný vstup na zahradě VESMÍRNÉHO MILENCE.\! Dobrá vychytávka, co?\spg
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubAle no tak, OMORI! Vážně potřebuje naši pomoc. \!Kdybys ty byl nemocný a ležel v posteli, nechtěl bys snad, aby ti někdo pomohl?
+
+message_89:
+      text: Snad to s ním bude lepší...\spg
+
+
+# =========================================================================================
+# Cutscene: Missing Pluto
+# =========================================================================================
+
+
+message_110:
+      text: Uff...\! Tak teď jsme to fakt spackali, kámo...\spd
+
+message_111:
+      text: Snad se KAPITÁN nebude moc zlobit až zjistí, že se ztratila jeho oblíbená planeta.\! Však víš, jaký je, když se rozzuří.\spd
+
+message_112:
+      text: Kamaráde, víš, že bychom už mu neměli říkat kapitáne.\!<br>Teď už mu musíme říkat VESMÍRNÝ MILENEC, kapišto?\spb
+
+message_113:
+      text: A jo... vlastně...\spd #tady mi fakt moc nesedí
+
+message_114:
+      text: Uff... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+
+message_115:
+      text: Víš, kámo...\! Občas přemýšlím nad tím, jestli se nám vůbec ještě dá říkat VESMÍRNÍ PIRÁTI.\spd
+
+message_116:
+      text: Od té doby, co se ukázalo to ZLATÍČKO je to tady samá nuda!\! Měli bychom se na tohle vykašlat a najít si opravdovou práci.\spd
+
+message_117:
+      text: Ale nekecej!\!<br>Když nejsi VESMÍRNÝ PIRÁT, co vůbec seš?\spb
+
+message_118:
+      text: Rozhodně se KAPITÁN jednou vzpamatuje a opět s ním vzlétneme ke hvězdám.\! Musíme mu jen věřit!\spb #přidán kapitán
+
+message_119:
+      text: Uff...\! Díky, kámo.\! Díky, že tady pro mě jsi vždycky, kdy tě potřebuju.\spd
+
+# =========================================================================================
+# Cutscene: Pluto Behind a Tree
+# =========================================================================================
+
+#BEFORE BATTLE
+
+message_130:
+    text: Tenhle chlapík vypadá celkem děsivě...\!<br>Vyrušíš ho?
+
+#BEFORE BATTLE
+
+message_131:
+    text: \who...\! Hm.\! Dobrá práce.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_150:
+      text: \quake[1]\}Kuc...\! Kuc...\sbf\quake[0]
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Počkej, OMORI!\! Nejdříve bychom se měli podívat na KAPITÁNA VES-\!<br> teda, VESMÍRNÉHO MILENCE.\aub
+
+message_161:
+      text: Použil jsi \c[4]KLÍČ KE SMETIŠTI\c[0].

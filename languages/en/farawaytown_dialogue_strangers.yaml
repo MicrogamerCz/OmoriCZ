@@ -1,0 +1,108 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+# ===================NĚKDO 1================
+#OLIVE BEANIE, by bus stop
+
+message_1:
+      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Hmm...\! Vypadá, že autobus má dneska zpoždění.
+
+message_2:
+      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>A nebo mám já zpoždění?...
+
+message_3:
+      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Kámo...\! Snad mi zase neujel.
+
+message_4:
+      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Víš, když jsem byl menší, s našima jsme do tohohle parku chodili dost často.\! Pamatuju si ale, že tady bylo jakési jezero se sochou uprostřed...\! Ale nemůžu ho nikde najít.
+
+# ===================NĚKDO 2================
+#Older man with glasses
+
+message_10:
+      text: \n<STAŘEC S BRÝLEMI>Mám tady domluvený sraz, ale zdá se, že se ona osoba opozdila...\! Snad na mě někdo neušil boudu!
+
+# ===================NĚKDO 3================
+#Brown hair lady
+
+message_20:
+      text: \n<BRUNETA>Uhh...\! Potřeboval byste s něčím pomoct?
+
+# ===================NĚKDO 4================
+#Newsreporter
+
+message_30:
+      text: \n<ZPRAVODAJ>Já pracuju v rozhlase ve městě, ale když mám zrovna přestávku, rád si zajedu sem do \c[11]PARKU\c[0].\! Přijde mi to tady tak zvláštně klidné.
+
+# ===================NĚKDO 5================
+#Pencil in hair man
+
+message_40:
+      text: \n<PAN S TUŽKOU>Potřeboval bych sodovku.\! Poslední dobou pracuji na svém novém projektu a potřebuji něco, co by mě nakoplo!
+
+# ===================NĚKDO 6================
+#Glasses boy
+
+message_50:
+      text: \n<BREJLOVEC>Podle mojeho oblíbeného románu udělali komiks!\! ...\! Ale hlavní hrdina nevypadá ani trochu, jak jsem si ho představoval...
+
+# ===================NĚKDO 7================
+#Tall man
+
+message_60:
+      text: \n<NĚKDO>Jsem si celkem jistý, že jsem se ztratil.\! Jak tělem...\! tak i duší.
+
+# ===================NĚKDO 8================
+#Messy hair man
+
+message_70:
+      text: \n<ROZCUCHANEC>Já tak miluju banány.\! Mohl bych se na ně dívat celý den.
+
+message_71:
+      text: \n<ROZCUCHANEC>Včera, když jsem zrovna jeden jedl...\! se mi povedlo najít zarostlé jezero za parkem.
+
+message_72:
+      text: \n<ROZCUCHANEC>Ale po chvilce tam přijela banda chuligánů na koloběžkách a vyrazila mě.
+
+message_73:
+      text: \n<ROZCUCHANEC>\com[2]A ještě k tomu mi vzali a odhodili můj banán!
+
+message_74:
+      text: \n<ROZCUCHANEC>Uff...\! Tohle bych si neměl od nějakých děcek nechat líbit!\!<br>Teď už jsem přece dospělý!\! ...\! No, alespoň adolescent...
+
+
+# ===================NĚKDO 9================
+#Doctor
+
+message_80:
+      text: \n<ODBORNÍK>Takže...\! Jaké léky by mi nejvíc pomohly přežít třicetihodinový let? #"To máte štěstí, že jdu zrovna kolem. Říkají mi, že jsem odborník..."
+
+# ===================NĚKDO 10================
+#Player lookalike
+
+message_90:
+      text: \n<HUBEŇOUR>Na co čumíš, frajere?
+
+# ===================NĚKDO 11================
+#Kel lookalike
+
+message_100:
+      text: \n<NEPOSEDNÝ CHLAPEC>Hraju si se svým nejlepším kamarádem!
+
+# ===================MOVERS================
+
+message_101:
+      text: \n<NĚKDO>\sinv[1]Nashle...\| Nashle...\| Nashle...
+
+message_102:
+      text: \n<NĚKDO>Jakápak bude tvá budoucnost?
+
+message_103:
+      text: \n<NĚKDO>Tvá mamka na tebe čeká venku.
+
+message_104:
+      text: \n<NĚKDO>Je čas se odsud odstěhovat a začít odznova.
+
+message_105:
+      text: \n<NĚKDO>Přeji ti, abys měl dlouhý a šťastný život.

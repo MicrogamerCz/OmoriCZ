@@ -1,0 +1,239 @@
+
+# =========================================================================================
+# Ghost Gathering
+# ========================================================================================
+
+#Talk to Tophat Ghost
+
+message_0:
+      text: \n<DUCH S KLOBOUKEM>Panečku, toť skvělé načasování!\!<br>Zdá se, že jsem se dostal do menší patálie.
+
+message_1:
+      text: \n<DUCH S KLOBOUKEM>Několika svým druhům jsem poslal, zda by se nedostavili na mou vkusnou hostinu...\! ale doteď se neukázal ni jeden host!\! Ni jeden!
+
+message_2:
+      text: \n<DUCH S KLOBOUKEM>Tohle je nepřípustné.\! Prostější duch by se možná rozzlobil, ale mé smysly mi říkají, že se na cestě sem museli ztratit.
+
+message_3:
+      text: \n<DUCH S KLOBOUKEM>Víte...\! když jsem ty pozvánky rozeslal...\! zapomněl jsem tam napsat adresy!
+
+message_4:
+      text: \n<DUCH S KLOBOUKEM>Ale jakožto správný džentlmen a hostitel odmítám tento večírek začít dřív, než přijdou všichni hosté.
+
+message_5:
+      text: \n<DUCH S KLOBOUKEM>Byl byste tak hodný a pomohl mým hostům se sem dostavit?
+
+#[Nod/Shake]
+#[Nod]
+message_6:
+      text: \n<DUCH S KLOBOUKEM>Děkuji, milý pane!\!<br>Zde je pár map se směry k mému večírku, zapečetěné mou KLOBOUKOVOU pečetí schválení.
+
+message_7:
+      text: \n<DUCH S KLOBOUKEM>Doneste tyto mapy prosím ke všem mým hostům.<br>\!Věřím, že se sem rozhodně eventuelně dostaví.
+
+message_8:
+      text: Získal jsi 6 \c[4]DĚSIVÝCH MAP\c[0].
+#[Shake]
+message_9:
+      text: \n<DUCH S KLOBOUKEM>Hm... Toť škoda.\! To byste opravdu nechali starého ducha, jako jsem já, tuto hostinu prožít o samotě?
+#Talk to Beard GHOST
+
+message_10:
+      text: \n<DUCH S VOUSAMA>Hmm...\! Počkat, kam že jsem to šel?\!<br>Safra, má paměť není to, co bývala...
+
+message_11:
+      text: Dal jsi DUCHOVI S VOUSAMA \c[4]DĚSIVOU MAPU\c[0].
+
+message_12:
+      text: \n<DUCH S VOUSAMA>Cože? Co to taM máte?\!<br>Tak ten s tím kloboukem pořádá večírek?\! Fakt, že jo!
+
+message_13:
+      text: \n<DUCH S VOUSAMA>Tak to bych si měl pohnout, aby to tam nevychladlo.\!<br>Už jsem na cestě, bufete zdarma!
+
+#Talk to Glasses GHOST
+
+message_14:
+      text: \n<DUCH S BRÝLEMA>Tady sedím, osaměle hledím...\! uff...\! Konečně mě někdo pozve na večírek a mně se povede tam netrefit...
+
+message_15:
+      text: Dal jsi DUCHOVI S BRÝLEMA \c[4]DĚSIVOU MAPU\c[0].
+
+message_16:
+      text: \n<DUCH S BRÝLEMA>Ó! Nevěřím svým čtyřem očím! Ten s tím kloboukem pořádá večírek?\!<br>Vy jste mi teď fakt zachránili život, víte o tom?\!<br>Měl bych už leťet...\! určitě to tam bude supr!
+
+
+#Talk to Mustache GHOST
+
+message_17:
+      text: \n<DUCH S KNÍRKEM>Neřeště mě!\!<br>Já jsem jen lítající knír, žijící si svůj život!
+
+message_18:
+      text: Dal jsi DUCHOVI S KNÍREM \c[4]DĚSIVOU MAPU\c[0].
+
+message_19:
+      text: \n<DUCH S KNÍRKEM>Ty jo, vydržte chviličku! Copak to tady máme?\!<br>Mapa k večírku toho s kloboukem?\!<br>No to potěš koště... měl bych se tam ihned vydat!
+
+message_20:
+      text: \n<DUCH S KNÍRKEM>\Com[2]Žádný večírek pořádně nezačne, dokud nepřijdu já!\!<br>\quake[1]Hjok, hjok, hjok... chro... hjok, hjok, hjok! \quake[0]
+
+#Talk to Princess GHOST
+
+message_21:
+      text: \n<DUCHOVÁ PRINCEZNA>Propána, zdá se, že jsem se opět ztratila...\!<br>Ach... to jsem celá já.
+
+message_22:
+      text: Dal jsi DUCHOVÉ PRINCEZNĚ \c[4]DĚSIVOU MAPU\c[0].
+
+message_23:
+      text: \n<DUCHOVÁ PRINCEZNA>Panečku! Copak mi to nesete?\!<br>Mapa k večírku pana kníratého? Ano, vzkutku!
+
+message_24:
+      text: \n<DUCHOVÁ PRINCEZNA>Musím si tam ihned pospíšit.<br>Chodit pozdě se na princeznu nesluší!
+
+
+#Talk to Propeller GHOST
+
+message_25:
+      text: \n<DUCH S VRTULKOU>Fňuk... Fňuk... No tak...\!<br>Jaktože jsem se zase ztratil?
+
+message_26:
+      text: Dal jsi DUCHOVI S VRTULKOU \c[4]DĚSIVOU MAPU\c[0].
+
+message_27:
+      text: \n<DUCH S VRTULKOU>Ach... Ahoj...\! Cože? Je tohle mapa?\! Počkat, vidím na ní kloboukovou pečeť!\! Ejhle! Tohle musí být cesta na ten večírek!<br>Děkuji převelice, milý pane!
+
+message_28:
+      text: \n<DUCH S VRTULKOU>Uvidíme se tam!
+
+#Talk to DUCH SE SLAMÁKEM
+
+message_29:
+      text: \n<DUCH SE SLAMÁKEM>Hm, tohle se mi nějak nezdá.\!<br>Musel jsem někde blbě zabočit...
+
+message_30:
+      text: Dal jsi DUCHOVI SE SLAMÁKEM \c[4]DĚSIVOU MAPU\c[0].
+
+message_31:
+      text: \n<DUCH SE SLAMÁKEM>Co je tohle? Mapa?\!<br>Ojej... je na ní dokonce kloboukovská pečeť!\!<br>Teď už bych se tam konečně mohl dostat.
+
+message_32:
+      text: \n<DUCH SE SLAMÁKEM>Děkuji vám, děti!\!<br>Teď už musím vyrazit, už teď jsem dost mimo.
+
+#Talking to other Ghosts before talking to Tophat GHOST
+
+message_33:
+      text: DUCH S VOUSAMA se kolem sebe ztraceně rozhlíží.
+
+message_34:
+      text: DUCH S BRÝLEMA se kolem sebe ztraceně rozhlíží.
+
+message_35:
+      text: DUCH S KNÍRKEM se kolem sebe ztraceně rozhlíží.
+
+message_36:
+      text: DUCHOVÁ PRINCEZNA se kolem sebe ztraceně rozhlíží.
+
+message_37:
+      text: DUCH S VRTULKOU se kolem sebe ztraceně rozhlíží.
+
+message_38:
+      text: DUCH SE SLAMÁKEM se kolem sebe ztraceně rozhlíží.
+
+#Talking to DUCH S KLOBOUKEM before collecting all the Ghosts
+
+message_39:
+      text: \n<DUCH S KLOBOUKEM>Máte 6 \c[4]DĚSIVÝCH MAP\c[0] se směrem k mému večírku.\!<br>Každá z nich má mou kloboukovskou pečeť.
+
+message_40:
+      text: \n<DUCH S KLOBOUKEM>Doneste tyto mapy prosím ke všem mým hostům.<br>\!Věřím, že se sem rozhodně eventuelně dostaví.
+
+#Talking to DUCH S KLOBOUKEM after collecting all ghosts
+
+message_41:
+      text: \n<DUCH S KLOBOUKEM>\Com[2]\{HURÁ! HOSTINA JE ZACHRÁNĚNA!!
+
+message_42:
+      text: \n<DUCH S KLOBOUKEM>A teď...\!<br>\{\Sinv[1]NECHŤ ZAČNE OSLAVA!!\}\Sinv[0]
+
+#GHOSTS DO A DANCE
+
+message_50:
+      text: \n<DUCH S VOUSAMA>Tenhle večírek je senzační!\! Tady je něco, co jsem nabalil na cestě jsem.\! Není to moc, ale víc toho nemám!
+
+message_51:
+      text: \n<DUCH S BRÝLEMA>Ach...\! Tenhle večírek je přesně takový, jak jsem si ho představoval.\! Opět děkuji, že jste mě sem zavedli.\! Tenhle dárek je pro vás!
+
+message_52:
+      text: \n<DUCH S KNÍRKEM>To je ale úžasný večírek!\! DUCH S KLOBOUKEM se s každým dalším večírkem překonává!\! Jsem vám dlužen, přátelé. Na, vemte si tohle!
+
+message_53:
+      text: \n<DUCHOVÁ PRINCEZNA>Toť majestátní oslava!\! A díky patří vám, bez vás bych zde nebyla.\! Přijměte ode mě prosím tento dárek!
+
+message_54:
+      text: \n<DUCH S VRTULKOU>Ojojoj! Nevěřím, že jsem vážně tady!\! A určitě vypadám strašně hustě s tím, kolik se vás tady kolem mě motá...\! Tak to vám musím oplatit!
+
+message_55:
+      text: \n<DUCH SE SLAMÁKEM>Díky, děti!\! Na téhle oslavě si hned víc užívám posmrtného života!\! Tohle si musíte vzít na oplátku, ani nevíte, jak jste mi zlepšili den!
+
+message_56:
+      text: \n<DUCH S KLOBOUKEM>Mí přátelé! Máte mé věčné díky.\! Užijte si prosím tento dárek!
+
+message_57:
+      text: \n<DUCH S KLOBOUKEM>Užijte si naši výbornou společnost!
+
+#==
+
+#beard
+message_60:
+      text: Získal jsi \c[3]VAFLI\c[0].
+
+#glasses
+message_61:
+      text: Získal jsi  \c[4]MRTVÉ BATERKY\c[0].
+
+#mustache
+message_62:
+      text: Získal jsi \c[3]OVOCNOU ŠŤÁVU?\c[0]
+
+#princess
+message_63:
+      text: Získal jsi \c[5]DÁREK\c[0].
+
+#propeller
+message_64:
+      text: Získal jsi \c[5]VELKOU GUMIČKU\c[0].
+
+#sunhat
+message_65:
+      text: Získal jsi \c[3]DŽEM ŽIVOTA\c[0].
+
+#tophat
+message_66:
+      text: Získal jsi\c[13]KLOBOUK\c[0].
+
+
+#==
+
+#beard
+message_70:
+      text: \n<DUCH S VOUSAMA>Tady je ale jídla!
+
+#glasses
+message_71:
+      text: \n<DUCH S BRÝLEMA>Ach...\! Tenhle večírek je přesně takový, jak jsem si ho představoval.
+
+#mustache
+message_72:
+      text: \n<DUCH S KNÍRKEM>\quake[1]Hjok, hjok, hjok... chro... hjok, hjok, hjok!\quake[0]
+
+#princess
+message_73:
+      text: \n<DUCHOVÁ PRINCEZNA>Letošní ozdoby jsou přímo špičkové!
+
+#propeller
+message_74:
+      text: \n<DUCH S VRTULKOU>Určitě teď vypadám strašně hustě...
+
+#sunhat
+message_75:
+      text: \n<DUCH SE SLAMÁKEM>Na téhle oslavě si hned víc užívám posmrtného života!

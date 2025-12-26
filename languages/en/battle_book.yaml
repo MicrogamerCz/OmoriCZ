@@ -1,0 +1,392 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: Průvodce bitvami, napsán mnou samotným (HEREM)!\! Co bys chtěl projít?
+
+message_1:
+    text: STATISTIKU
+
+message_2:
+    text: EMOCE
+
+message_3:
+    text: NÁSLEDNÉ ÚTOKY
+
+message_100:
+    text: DOVEDNOSTI
+
+message_101:
+    text: VÝBAVU
+
+message_102:
+    text: HRAČKY
+
+message_103:
+    text: ÚROVNĚ
+
+#-----
+#STATS
+
+message_4:
+    text: O jakých STATISTIKÁCH by ses chtěl dozvědět víc?
+
+message_5:
+    text: ŽIVOT
+
+message_6:
+    text: ŽIVOT vypovídá o tom, kolik poškození vydržíš, než budeš NA KAŠI.\! Kamarádi, kteří jsou NA KAŠI nemůžou nadále bojovat!
+
+message_7:
+    text: ŠŤÁVA
+
+message_8:
+    text: ŠŤÁVU potřebuješ na používání \c[1]DOVEDNOSTÍ\c[0].\! Různé \c[1]DOVEDNOSTI\c[0] vyžadují odlišný počet ŠŤAVY.
+
+message_9:
+    text: ÚTOK
+
+message_10:
+    text: ÚTOK rozhoduje o velikosti poškození, které bude na protivníka při útoku uvaleno.
+
+message_11:
+    text: OBRANA
+
+message_12:
+    text: Vyšší OBRANA sníží počet poškození, které danou osobu postihne... většinou...
+
+message_13:
+    text: RYCHLOST
+
+message_14:
+    text: RYCHLOST rozhoduje o pořadí, ve kterém vykonávají tví kamarádi a protivníci své akce.
+
+message_15:
+    text: ŠŤĚSTÍ
+
+message_16:
+    text: ŠTĚSTÍ zvyšuje šanci na KRITICKÝ ÚDER, kterým můžeš protivníkovi pořádně hodit klacky pod nohy!
+
+message_17:
+    text: POČET ÚDERŮ
+
+message_18:
+    text: POČET ÚDERŮ ovlivňuje tvou šanci se ztrefit do protivníka.\! Čím nižší je, tím větší je tvá šance minout.
+
+message_19:
+    text: ENERGIE
+
+message_20:
+    text: ENERGIE je společná statistika, pomocí které můžeš poté používat NÁSLEDNÉ útoky.\! Pro více informací si přečti něco o NÁSLEDNÝCH ÚTOCÍCH.
+
+#-----
+#EMOTIONS
+
+message_200:
+    text: O čem ohledně emocí by ses chtěl dozvědět?
+
+message_21:
+    text: PŘEHLED
+
+message_22:
+    text: EMOCE mohou rozhodovat o síle útoků.\! ŠTĚSTÍ přemáhá VZTEK...\! VZTEK přemáhá SMUTEK...\! a SMUTEK přemáhá ŠTĚSTÍ!<br><br>EMOCE také mají vliv na různé STATISTIKY.\! Pro lepší představu se můžeš podívat na SCHÉMA ve tvé KAPSE. #nevztahuje se pouze pro tvé útoky, ale útoky protivníků taky!
+
+message_300:
+    text: A navíc mají EMOCE také vliv na poražené protivníky.\! ŠŤASTNÍ protivníci ti dají více MUŠLÍ a předmětů, zatímco VZTEKLÍ více ZKUŠENOSTNÍCH BODŮ.<br>SMUTNÍ protivníci bohužel nemají žádný bonus, ale je většinou lehčí je porazit. #zmíněny předměty, které byly původně opomenuty
+
+message_23:
+    text: ŠTĚSTÍ
+
+message_24:
+    text: ŠŤASTNÝ bojovník má vyšší ŠTĚSTÍ a RYCHLOST, ovšem nižší POČET ÚDERŮ. #původně text naznačoval, že se vztahuje jak na přátele, tak na protivníky, měním "protivník" na "bojovník" pro univerzálnost
+
+message_25:
+    text: Když je bojovník ještě ŠŤASTNĚJŠÍ, stane se NADŠENÝM.
+
+message_26:
+    text: ŠTĚSTÍ a RYCHLOST NADŠENÉHO bojovníka jsou opět o něco větší, ovšem počet úderů se rovnoměrně sníží také.
+
+message_27:
+    text: SMUTEK
+
+message_28:
+    text: SMUTNÝ bojovník má vyšší OBRANU, ovšem nižší RYCHLOST.\! Část požkození, které by měly utrpět protivníkovy ŽIVOTY jsou absorbovány jeho ŠŤÁVOU.
+
+message_29:
+    text: Když je bojovník ještě SMUTNĚJŠÍ, dostane se do DEPRESE.
+
+message_30:
+    text: Bojovník v DEPRESÍCH má ještě vyšší OBRANU, ovšem o to nižší RYCHLOST.\! Část požkození, které by měly utrpět protivníkovy ŽIVOTY jsou absorbovány jeho ŠŤÁVOU.
+
+message_31:
+    text: VZTEK
+
+message_32:
+    text: VZTEKLÝ bojovník má vyšší ÚTOK, ovšem nizší OBRANU.
+
+message_33:
+    text: Když je bojovník ještě VZTEKLEJŠÍ, začne ZUŘIT.
+
+message_34:
+    text: ROZZUŘENÝ bojovník má ještě vyšší ÚTOK, ovšem rovnoměrně sníženou OBRANU.
+
+#==
+#FOLLOW UP
+
+message_201:
+    text: O čem ohledně NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět?
+
+message_35:
+    text: PŘEHLED
+
+message_36:
+    text: NÁSLEDNÝ ÚTOK je bonusová akce, kterou můžeš ty a tví kamarádi provést po běžném útoku.
+
+message_37:
+    text: Pro provedení NÁSLEDNÉHO ÚTOKU zmáčkni šipku směrem útoku, který si přeješ udělat.
+
+message_38:
+    text: ENERGIE
+
+message_39:
+    text: ENERGIE je společná STATISTIKA, sdílena mezi všemi tvými kamarády.
+
+message_40:
+    text: Všechny NÁSLEDNÉ ÚTOKY, tě stojí 3 body, kromě UVOLNĚNÍ ENERGIE, které stojí 10 bodů. #přiroz
+
+message_41:
+    text: Bitvu začínáš se třemi body, a vždy, když dostane někdo z tvé party poškožení, přibyde jeden.
+
+#OMORI FOLLOW UP
+
+message_42:
+    text: OMORI
+
+message_43:
+    text: O jakém z OMORIHO NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět víc?
+
+message_44:
+    text: ATTACK AGAIN
+
+message_45:
+    text: OMORI útočí podruhé!
+
+message_145:
+    text: OMORI útočí podruhé, a s citem!
+
+message_245:
+    text: OMORI útočí znovu dvakrát, a s citem!
+
+message_46:
+    text: PODRAZ
+
+message_47:
+    text: OMORI se pokusí o podpásovku, čímž protivníkovi sníží RYCHLOST. #původně prázdné, opraveno
+
+message_147:
+    text: OMORI se pokusí o podpásovku, čímž nyní SMUTNÉMU protivníkovi sníží RYCHLOST.
+
+message_247:
+    text: OMORI se pokusí o podpásovku, čímž nyní SMUTNÉMU protivníkovi vážně sníží RYCHLOST.
+
+message_48:
+    text: UVOLNIT ENERGII
+
+message_49:
+    text: Všichni tví kamarádi se s tebou spojí na jeden obrovský útok, který s protivníky vždy pořádně zatřese!
+
+#AUBREY FOLLOW UP
+
+message_250:
+    text: AUBRY
+
+message_50:
+    text: O jakém z AUBRYNÝCH NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět víc?
+
+message_51:
+    text: KOUKNOUT NA OMORIHO
+
+message_52:
+    text: AUBRY se pokusí zaujmout OMORIHO pozornost, a tak na protivníkovi provede silný útok!
+
+message_152:
+    text: AUBRY se pokusí zaujmout OMORIHO pozornost, a tak na stejném protivníkovi provede extra silný útok!
+
+message_252:
+    text: AUBRY se pokusí zaujmout OMORIHO pozornost, a tak na stejném protivníkovi provede extra silný útok, který zanedbává jeho OBRANU!
+
+message_53:
+    text: KOUKNOUT NA KELA
+
+message_54:
+    text: KEL začne rypat do AUBRY, která se začne VZTEKAT.
+
+message_154:
+    text: KEL začne rypat do AUBRY, oba se začnou VZTEKAT, a k tomu se jim zvedne útok.
+
+message_254:
+    text: KEL začne rypat do AUBRY, oba se začnou ZUŘIT, a k tomu se jim zvedne útok.
+
+message_55:
+    text: KOUKNOUT NA HERA
+
+message_56:
+    text: HERO povzbudí AUBRY, což jí udělá RADOST a zvýší OBRANU.
+
+message_156:
+    text: HERO povzbudí AUBRY, což jí udělá RADOST, zvýší OBRANU a doplní 25% jejích ŽIVOTŮ.
+
+message_256:
+    text: HERO povzbudí AUBRY, což jí udělá NADŠENOU, zvýší OBRANU, doplní 75% jejích ŽIVOTŮ a polovinu její ŠTÁVY. #původně mylně mělo radost  místo nadšení opravuju. a páni, nikdy jsem nevědel, že se tohle až tolik zlepší
+
+#KEL FOLLOW UP
+
+message_57:
+    text: KEL
+
+message_202:
+    text: O jakém z KELOVÝCH NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět víc?
+
+message_58:
+    text: PŘIHRÁT OMORIMU
+
+message_59:
+    text: KEL přihraje míč OMORIMU, kterému ubyde jeden ŽIVOT, a poté se ROZESMUTNÍ.
+
+message_159:
+    text: KEL přihraje míč OMORIMU, což způsobí poškození protivníkovi a uděláme OMORIMU RADOST.
+
+message_259:
+    text: KEL přihraje míč OMORIMU, což způsobí vážné poškození protivníkovi. OMORI je poté NADŠENÝ.
+
+message_60:
+    text: PŘIHRÁT AUBRY
+
+message_61:
+    text: KEL přihraje míč AUBRY, která ho odpálí a způsobí náhodnému protivníkovi poškození! #vystřelí na odpálí ve všech třech popisech
+
+message_161:
+    text: KEL přihraje míč AUBRY, která ho odpálí a způsobí náhodnému protivníkovi vážné poškození
+
+message_261:
+    text: KEL přihraje míč AUBRY, která ho odpálí a způsobí náhodnému protivníkovi vážně velké poškození! #vyhýbám se opakování slov
+
+message_62:
+    text: PŘIHRÁT HEROVI
+
+message_63:
+    text: KEL přihraje míč HEROVI, který mu pomůže vybít všechny nepřátele a tím jim způsobit poškození!
+
+message_163:
+    text: KEL přihraje míč HEROVI, který mu pomůže vybít všechny nepřátele a tím jim způsobit vážné poškození!
+
+message_263:
+    text: KEL přihraje míč HEROVI, který mu pomůže vybít všechny nepřátele, tím jim způsobit vážné poškození a zároveň jim snížit ÚTOK!
+
+#HERO FOLLOW UP
+
+message_64:
+    text: HERO
+
+message_203:
+    text: O jakém z HEROVÝCH NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět víc?
+
+message_65:
+    text: ZAVOLAT NA OMORIHO
+
+message_66:
+    text: HERO zavolá na OMORIHO.\! OMORI zaútočí a HERO mu poté povzbuzením doplní 15% ŽIVOTŮ.
+
+message_166:
+    text: HERO zavolá na OMORIHO.\! OMORI zaútočí a HERO mu poté povzbuzením doplní 25% ŽIVOTŮ a 10% ŠŤÁVY.
+
+message_266:
+    text: HERO zavolá na OMORIHO.\! OMORI zaútočí a HERO mu poté povzbuzením doplní 40% ŽIVOTŮ a 20% ŠŤÁVY.
+
+message_67:
+    text: ZAVOLAT NA AUBRY
+
+message_68:
+    text: HERO zavolá na AUBRY.\! AUBRY zaútočí a HERO jí poté povzbuzením doplní 15% ŽIVOTŮ.
+
+message_168:
+    text: HERO zavolá na AUBRY.\! AUBRY zaútočí a HERO jí poté povzbuzením doplní 25% ŽIVOTŮ a 10% ŠŤÁVY.
+
+message_268:
+    text: HERO zavolá na AUBRY.\! AUBRY zaútočí a HERO jí poté povzbuzením doplní 40% ŽIVOTŮ a 20% ŠŤÁVY.
+
+message_69:
+    text: ZAVOLAT NA KELA
+
+message_70:
+    text: HERO zavolá na KELA.\! KEL zaútočí a HERO mu poté povzbuzením doplní 15% ŽIVOTŮ.
+
+message_170:
+    text: HERO zavolá na KELA.\! KEL zaútočí a HERO mu poté povzbuzením doplní 25% ŽIVOTŮ a 10% ŠŤÁVY.
+
+message_270:
+    text: HERO zavolá na KELA.\! KEL zaútočí a HERO mu poté povzbuzením doplní 40% ŽIVOTŮ a 20% ŠŤÁVY.
+
+#-----
+#SKILLS
+
+message_204:
+    text: O čem ohledně \c[1]DOVEDNOSTÍ\c[0] by ses chtěl dozvědět?
+
+message_71:
+    text: UČENÍ SE DOVEDNOSTÍ
+
+message_72:
+    text: \c[1]DOVEDNOSTI\c[0] se naučíš buď s nabývající ÚROVNÍ, děláním vedlejších úkolů a nebo pomocí různých předmětů.\! Některé \c[1]DOVEDNOSTI\c[0], třeba HEROVO \c[1]VAŘENÍ\c[0], mohou být použity i mimo bitvu.
+
+message_73:
+    text: VÝMĚNA DOVEDNOSTÍ
+
+message_74:
+    text: Každý kamarád může umět naráz jen čtyři \c[1]DOVEDNOSTI\c[0].
+
+message_75:
+    text: Pomocí MENU můžeš vybrat, které \c[1]DOVEDNOSTI\c[0] tví kamarádi používají.
+
+#---
+#EQUIPS
+
+message_205:
+    text: O jakém VYBAVENÍ by ses chtěl dozvědět?
+
+message_76:
+    text: ZBRANĚ
+
+message_77:
+    text: ZBRANĚ tvým kamarádům přidávají na ÚTOKU.\!<br>Každý kamarád může mít pouze zbraň určenou pro něj. #blíže orig
+
+message_78:
+    text: TALISMANY
+
+message_79:
+    text: TALISMANY můžou být používány jakýmkoliv z tvých kamarádů.\!<br>Většina TALISMANŮ ti zvyšuje STATISTIKY, i když některé mají i jiné, zvláštní účinky.
+
+#----
+#TOYS
+
+message_80:
+    text: HRAČKY v bitvě mohou pomoct tvým kamarádům anebo ublížit protivníkům.\! Nelze je použít mimo bitvu.
+
+#----
+#LEVELING UP
+
+message_81:
+    text: OMORI a kamarádi, kteří nejsou NA KAŠI získávají na konci každé bitvy ZKUŠENOSTNÍ BODY.\! Po nahromadění jistého počtu ZKUŠENOSTNÍCH BODŮ nabydou vyšší ÚROVNĚ. #blíže orig
+
+message_82:
+    text: Při navýšení ÚROVNĚ se ti a tvým kamarádům zvýší STATISTIKY a občas se také naučí novou \c[1]DOVEDNOST\c[0]! #blíže orig
+
+message_83:
+    text: O počtu ZKUŠENOSTNÍCH BODŮ, které jsou potřeba na nabytí nové ÚROVNĚ, vypovídají fialové ukazatele pod tvými kamarády v MENU.
+
+
+#----
+
+message_1000:
+    text: NAKONEC NIC

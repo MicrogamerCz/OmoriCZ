@@ -1,0 +1,679 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Sproutmole Village / Sweetheart's Castle====================================
+
+
+                        #====NIGHT 2====
+
+#BANDITO MOLE
+#Location: Sprout Mole village
+
+message_0:
+      text: \who\}Třepy, třepy, třep...\! Šup, šup, šup...
+
+#Beautiful Mole
+#Location: Sproutmole Village
+message_1:
+      text: \n<KRÁSNOKRTEK>Jen se na mě podívejte...\!<br>Jsem opravdu nejkrásnější KLÍČKOKRTEK, nemyslíte? #přejmenování
+
+#BOX Mole
+#Location: Sproutmole Village
+
+message_221:
+      text: \n<DÁRKOKRTEK>Vánoce jsou můj oblíbený svátek, tak proč bych je nemohl slavit pořád?
+
+
+message_2:
+      text: \n<DÁRKOKRTEK>A mám zkažené Vánoce...
+
+#BUTLER Mole
+#Location: Check Dream world -dungeon dialogue
+
+#CHEF Mole
+#Location: Sprout Mole Village
+#(TOFU TRIVIA copy)
+message_3:
+      text: \n<KUCHAŘ>Ach ano, vítejte!\! Ty ses sem jistě přišel o největším gastronomickém přehmatu od dob chleba...\! \Com[2]\c[3]TOFU\c[0]!
+
+message_4:
+      text: \n<KUCHAŘ>C'est magnifique!\!<br>Zde jsou tvé každodenní zajímavá fakta o \c[3]TOFU\c[0].
+
+message_5:
+      text: \n<KUCHAŘ>\Com[2]Jak si dovoluješ se rouhat \c[3]TOFU\c[0]!?\!<br>Vypal.\! Hnusíš se mi!
+
+message_6:
+      text: \n<KUCHAŘ>Na to, abys udělal čáru dlouhou jednu míli bys potřeboval přesně dvanáct tisíc, šest set sedmdesát dva kousků \c[3]TOFU\c[0]! #až nebudu v autobuse, přepočítám na KM
+
+message_7:
+      text: \n<KUCHAŘ>Existují čtyři druhy \c[3]TOFU\c[0]...\!<br>tuhé, extra tuhé, měkké a hedvábné! #silken na hedvábné
+
+message_8:
+      text: \n<KUCHAŘ>Tuhé \c[3]TOFU\c[0] se dá restovat, upéct, udělat do kosty, zkrátka snad cokoliv.\! To protože i navzdory změnám tvaru stále absorbuje příchuť! #snad blíže orig
+
+message_9:
+      text: \n<KUCHAŘ>Měkké \c[3]TOFU\c[0] je nejlepší syrové nebo scezené.\! Dává se do dezertů, nápojů a omáček!
+
+message_10:
+      text: \n<KUCHAŘ>Hedvábné \c[3]TOFU\c[0] má krémovou konzistenci. Používá se při pečení a také se dává do dezertů, nápojů a omáček! #viz výše
+
+message_11:
+      text: \n<KUCHAŘ>Uzené \c[3]TOFU\c[0] je skvělá alternativa masa!
+
+message_12:
+      text: \n<KUCHAŘ>\c[3]TOFU\c[0] není vhodné pro osoby trpící ledvinovými kameny, neboť má vysoký obsah sóji!
+
+message_13:
+      text: \n<KUCHAŘ>Nejlepší způsob, jak přidat \c[3]TOFU\c[0] chuť, je jej smažit do zlatova, a poté přidat marinádu.\! V tomto případě z ní absorbuje všechnu příchuť a pomalu se ani neodlepí z pánvičky!
+
+message_14:
+      text: \n<KUCHAŘ>Pokud byste se chtěli dozvědět více o nádherném a majestátním \c[3]TOFU\c[0], klidně se zeptejte znovu.\! Ho-ho! #úplně tady nechi evokovat santu
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+message_20:
+      text: \n<DVOJITÝ KRTEK>Jsme dva!\! Jsme jeden!\! Jsme jedva?
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+message_21:
+      text: \n<HLOUPÝ KRTEK>Tahle zeď je pěkně studená!
+
+#ELDER MOLE
+#Location: Sprout Mole Village
+message_22:
+      text: \n<KRTEK STAROSTA>Pracuji na revolučním vynálezu, který změní život všech obyvatelů této kolonie...\! ne...\! na celém světe! #blíže orig
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village
+message_23:
+      text: \n<KRTEK STAROSTA MLADŠÍ>Poslední dobou se nedokážu pořádně vyspat!\! Kéž bych měl něco, co by mi s tím pomohlo...
+
+#Fall mole: Location Sprout Mole village Note: Check Season mole yaml
+#Family Mole 1: Check Delivery for brother yaml
+
+#Family Mole 2
+#Location: Sprout Mole Village
+message_24:
+      text: \n<RODINNÝ KRTEK>Nesnáším pondělí.
+
+#RODINNÝ KRTEK 3
+#Location: Sprout Mole Village
+message_25:
+      text: \n<RODINNÝ KRTEK>My KLÍČKOKRTCI se neodvážíme odcházet z kolonie po velkém stěhování.\! Nebyla to pro nás lehká doba... #blíže orig
+
+message_26:
+      text: \n<RODINNÝ KRTEK>Hodně z nás to nepřežilo...\! Ztráceli se nám přátelé skoro na každém kroku...\! Rodinám se ztrácely děti!\! Ach, to byla hrůza!
+
+message_27:
+      text: \n<RODINNÝ KRTEK>Ale aspoň je to teď vše v pořádku...\! no, většinou je.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+
+message_30:
+      text: \n<RODINNÝ KRTEK>Přestože jsou KLÍČKOKRTCI inteligentní tvorové, nedělá jim problém se jednoduše stát něčím posedlí.\! Jak jistě vidíte, nedokážu se ovládat.
+
+#GUARD MOLE
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#MAID MOLE
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#KRTEK STRÁŽNÍK
+#Location: Sprout Mole Village
+message_32:
+      text: \n<KRTEK STRÁŽNÍK>Je naší prací sem zavírat všechny zlobivce!
+
+#ROSA
+#Location: N/A
+
+#SPORTOVNÍ KRTEK
+#Location: Sprout Mole Village
+message_33:
+      text: \n<SPORTOVNÍ KRTEK>Hff...\! hff hff...
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#KLÍČKOKRTEK MIKE
+#Location: Sweetheart's Castle
+#[Main Story]
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+message_40:
+      text: \n<KRTEK STUDENT>Hele, koukej, co jsem namaloval!
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+message_41:
+      text: \n<KRTEK STUDENT>M-Myslíš, že budeme pořád kamarádi, potom co odmaturujeme?
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+message_42:
+      text: \n<STUDENT MOLE>Navzdory mému \QUAKE[1]hněvu\QUAKE[0] jsem stále jen krtek v kleci.
+
+#SUE KUCHAŘ 1 & SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+message_43:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Jak si dovoluješ se takhle rouhat?!\! Každý přece ví, že se \c[3]TOFU\c[0] servíruje teplé!
+
+message_44:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Šplouchá ti na maják?\! Každý KLÍČKOKRTEK, kterému to alespoň trochu myslí, by ti řekl, že se \c[3]TOFU\c[0] servíruje studené!
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text:  \herHele, uklidněte se.\! Co takle spolu udělat kompromis?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herKdo ví?\! Možná máte oba pravdu!\! A nebo byste spolu mohli zkusit uvařit \c[3]TOFU\c[0] na způsob, který ještě nikdo před vámi neudělal...\! Jako třeba něco meži teplým a studeným...
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herNevím...\! Že by vlažně?
+
+message_48:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>...
+
+message_49:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\sinv[1]No fůůůůůůuuuuuj...
+
+message_50:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Vlažné \c[3]TOFU\c[0]?\! To je snad ten nejhorší nápad, co jsem kdy slyšel.\!<br>To i studené \c[3]TOFU\c[0] zní líp...
+
+message_51:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Vlažné \c[3]TOFU\c[0]?\! Z toho se mi chce zvracet, jen nad tím přemýšlím.\!<br>To i teplé \c[3]TOFU\c[0] zní líp...
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+message_60:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nemám tucha, co dělám!
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+message_61:
+      text: \n<KRTEK UČITEL>Nemám tucha, co dělám!
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Check SHOP DIALOGUE GUIDE
+
+#WALL MOLE
+#Location: Sprout Mole Village
+
+message_62:
+      text: Tento KLÍČKOKRTEK je přilepen ke zdi vteřinovým lepidlem.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+
+                        #====NIGHT 3====
+
+
+#BANDITO MOLE
+#Location: Sprout Mole Village - B.E.D Trade Quest 1
+#Refer to SIDEQUEST: B.E.D.
+
+#BEAUTIFUL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOX MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BUTLER MOLE
+#Location: Sweethearts Castle
+message_80:
+      text: \n<KRTEK PINGL>Chjo...\! Bez ZLATÍČKA nemá můj život už smysl... #blíže orig
+
+#CHEF MOLE
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Refer to SIDEQUEST: B.E.D.
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Refer to SIDEQUEST: B.E.D.
+
+#FALL MOLE
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#GUARD MOLE
+#Location: Sweetheart's Castle
+message_81:
+      text: \n<KRTEK STRÁŽNÍK>Bez ZLATÍČKA nemá můj život smysl.
+
+#MAID MOLE
+#Location: Sweetheart's Castle
+message_82:
+      text: \n<KRTEK SLUŽKA>Bez ZLATÍČKA nemá můj život smysl.
+
+#KRTEK STRÁŽNÍK
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+message_83:
+      text: \n<ROSA>Po celém tom mecheche kolem svatby se ZLATÍČKO už nikdy nevrátilo!\! \Com[2]Za tohle můžete všechno vy!
+
+#SPORTOVNÍ KRTEK
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Refer to sidequest_BED
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#KLÍČKOKRTEK MIKE
+#Location: Sweetheart's Castle
+message_84:
+      text: \n<KLÍČKOKRTEK MICHAL>Uff...\! Co si počnu, když je zlatíčko pryč... Byla pro mě všechno...
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+
+                        #====NIGHT 4====
+
+
+#BANDITO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 3.
+
+#BEAUTIFUL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOX MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BUTLER MOLE
+#Location: Last Resort
+message_85:
+      text: \n<KRTEK PINGL>Slyšel jsem, že zde nabízí práci. Proto jsem tady...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#CHEF MOLE
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#ELDER MOLE JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#FALL MOLE
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#RODINNÝ KRTEK 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#GUARD MOLE
+#Location: LAST RESORT
+message_86:
+      text: \n<KRTEK STRÁŽNÍK>Slyšel jsem, že zde nabízí práci. Proto jsem tady...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#MAID MOLE
+#Location: LAST RESORT
+message_87:
+      text: \n<KRTEK SLUŽKA>Slyšel jsem, že zde nabízí práci. Proto jsem tady...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#KRTEK STRÁŽNÍK
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+#[Incomplete]
+
+#SPORTOVNÍ KRTEK
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#SPRING MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#KLÍČKOKRTEK MIKE
+#Location: Sweetheart's Castle
+#Same as NIGHT 2.
+
+#STUDENT MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE CHEF MOLE 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+#After Mr.Jawsum leaves Last Resort
+#Location: Slime Girl's Lair
+#Check dreamworld extras slimegirls
+
+#TEACHER MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#===
+
+#THEATER
+
+message_100:
+      text: \n<KLÍČKOKRTEK>Jakožto důvěryhodný filmový kritik jsem usoudil, že ZLATÍČČINA díla jsou všechna nad naše pochopení!
+
+message_101:
+      text: \n<KLÍČKOKRTEK>Kamaráde...\! Ty mi hrozně někoho připomínáš.\!<br>Nebyls náhodou v televizi?
+
+message_102:
+      text: \n<KLÍČKOKRTEK>Ticho! Tohle je můj oblíbený biják!
+
+message_103:
+      text: \n<KLÍČKOKRTEK>Ach, ZLATÍČKO...\! Jsi na tento svět příliš zlatá.
+
+message_104:
+      text: \n<KLÍČKOKRTEK>Viděl jsem každý díl \"ZLATÍČKO HLEDÁ ZLATÍČKA\" alespoň šestkrát! #confused man reading paper strikes again!
+
+message_105:
+      text: \n<KLÍČKOKRTEK>Všude kam jdu, si s sebou beru ZLATÍČKO!\!<br>Pozdrav, ZLATÍČKO!
+
+message_106:
+      text: \n<KLÍČKOKRTEK>Nikdo krom ZLATÍČKA mě nechápe...
+
+message_107:
+      text: \n<KLÍČKOKRTEK>ZLATÍČKO je dokonalé v každém smyslu.\!<br>Udělal bych pro ní \quake[1]cokoliv\quake[0]...
+
+message_108:
+      text: \n<KLÍČKOKRTEK>Miluju ZLATÍČKO tak moc, že si nevzpomenu na to, co bylo před ní.\! Ne, vážně, fakt to nejde!
+
+message_109:
+      text: \n<KLÍČKOKRTEK>\}ZLATÍČKO...\! Jednou budeš moje...\{
+
+#AFTER SW WEDDING
+
+message_110:
+      text: \n<KLÍČKOKRTEK>Fňuk...\! ZLATÍČKU už se to zase povedlo.\! Jsem kompletně dojat.
+
+message_111:
+      text: \n<KLÍČKOKRTEK>Počkat, ty, že jsi HERO? Jakože \sinv[1]ten\sinv[0] HERO ze \"ZLATÍČKA HLEDÁ ZLATÍČKA\"!?\! Jsi opravdu úžasný herec!\! Doopravdy jsem věřil, žes odmítl ZLATÍČKO!
+
+message_114:
+      text: \n<KLÍČKOKRTEK>S koncem \"ZLATÍČKA HLEDÁ ZLATÍČKA\"...\! končí i můj život.
+
+message_120:
+      text: Děsivě realistická panenka ZLATÍČKA.
+
+#SKELETON
+
+message_121:
+      text: Není živý.
+
+message_122:
+      text: Sbírka smrtelných zbraní...\!<br>Jedna chybí.
+
+
+message_130:
+      text: Nazdar, JIMZI! My jsme se ale dlouho neviděli!<br>\!Jak sis užil víkend, kámo?\n<KLÍČKOKRTEK>
+
+message_131:
+      text: Čau, LINDO! Tebe jsem neviděl už snad léta!\!<br>Jak je na tom ten tvůj tatík?\! Začíná mi celkem chybět.\n<KLÍČKOKRTEK>
+
+message_132:
+      text: Čau, SALE! Koukám, že jsi zhubl! Ty se máš!\n<KLÍČKOKRTEK>
+
+message_133:
+      text: JEFFREY! Kamaráde!\! Tebe jsem tak dlouho neviděl.\!<br>Musíme spolu někdy někam zajít.\n<KLÍČKOKRTEK>
+
+
+#SPROUT CROWD
+
+message_200:
+      text: \sprZa tohle místo jsem dal celou všechno \c[3]TOFU\c[0], co jsem měl! #blíže orig
+
+message_201:
+      text: \sprZa tohle místo jsem dal peníze, které jsem si šetřil na vysokou!
+
+message_202:
+      text: \sprZa tohle místo jsem dal svůj dům!
+
+message_203:
+      text: \sprZa tohle místo jsem dal svou duši!
+
+#REST OF CROWD
+
+message_204:
+      text: \spr\sinv[1]ZLATÍČKO... ZLATÍČKO...<br>Žádná jiná pro mě na tomto světě není!\sinv[0]
+
+message_205:
+      text: \sprZLATÍČKO je dokonalé!\! Prostě nemá chybu!
+
+message_206:
+      text: \sprMá láska ke ZLATÍČKU nezná meze!
+
+message_207:
+      text: \sprZLATÍČKO...\! Je bohyně, žijící mezi námi...<br>\!Jaké máme štěstí.
+
+#UNIQUE SPROUT CROWD
+
+message_208:
+      text: \sprJeště ani nezačli, ale už teď se třepu!\! \quake[1]<br>Jaktože mi nejde přestat!?\quake[0]
+
+message_209:
+      text: \spr\"Z\" jako \"ZLATÁ\".\! \"L\" jako \"LÁSKYPLNÁ\".\!<br>\"A\" jako \"ANDĚLSKÁ\".\! \"T\" jako... \"TOFU\". Mňam!\!<br>\"Í\" jako...\! \"INTELIGENTNÍ\"... #zkusím něco
+
+message_210:
+      text: \spr\"Č\" jako \"ČAROVNÁ\".\! \"K\" jako \"KRÁSNÁ\".\!<br>\A "O\" jako \"OVŠEM TA NEJLEPŠÍ\"!
+
+message_211:
+      text: \spr\}Jupí! ZLATÍČKO!
+
+message_212:
+      text: \sprSlyšel jsem, že tady kdysi bývala knihovna...\!<br>ale ZLATÍČKO si nad ní postavilo pódium...\!<br>Stejně, kdo by potřeboval číst, když máme ZLATÍČKO!?
+
+message_213:
+      text: \sprKdyby se rajčata jmenovaly jinak, byly by stejně pořád tak šťavnatá. #není otázka
+
+message_214:
+      text: \sprUž se těším!
+
+message_215:
+      text: \sprKdysi jsem na ZLATÍČKO chodil jen ze srandy...\!<br>a teď jsem to dotáhl až sem...\! Co se to se mnou stalo?
+
+message_216:
+      text: \sprZe začátku jsem byl celkem skeptik, ale teď už začínám chápat, co s tím ZLATÍČKEM všichni mají...
+
+message_217:
+      text: \sprŠel jsem tady se svou rodinou, ale na cestě jsme se od sebe rozdělili...\! Co když je nikdy už neuvidím? #přiroz
+
+message_218:
+      text: \sprZaslechl jsem, že je ZLATÍČKO ve skutečnosti \c[3]KOBLIHA\c[0]...\!<br>To by mě zajímalo, jestli je to fakt pravda... #blíže orig
+
+#Elevator
+message_220:
+      text: No, tak to je trapas. #blíže orig
+
+
+#Doors
+message_225:
+      text: \n<???>Obsazeno!
+
+message_226:
+      text: \n<???>Teď neruš!
+
+message_227:
+      text: \n<???>Lidem vstup zakázán!
+
+message_228:
+      text: \n<???>Tenhle pokoj je pouze pro KLÍČKOKRTKY!
+
+message_250:
+      text: \sprNosit s sebou všude \c[3]TOFU\c[0] vždycky stojí za to.\! Víte, z kolika blbých situací mě už dostalo? #vypouštím vykříčník

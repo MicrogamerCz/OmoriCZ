@@ -1,0 +1,151 @@
+
+# =========================================================================================
+# Seasonal gifts
+# ========================================================================================
+
+#Talk to LETNÍ KRTEK
+message_0:
+      text: \n<LETNÍ KRTEK>Ach, léto...\! písek...\! slunce...\! pláž...\! vlny...\!<br>a hlavně... letní prázdniny!
+
+message_1:
+      text: \n<LETNÍ KRTEK>Konečně, čas na relaxaci a odpočinek...<br>O tom je přece život!
+
+message_2:
+      text: \n<LETNÍ KRTEK>Léto je nejlepší roční období! Souhlasíš?
+
+# [Nod/Shake]
+#[Nod]
+message_3:
+      text: \n<LETNÍ KRTEK>Přesně tak, brácho! Léto je nejlepší! Mám hroznou radost z toho, že souhlasíš!\! Tady ode mě máš dárek... Snad ti dobře poslouží!
+
+message_4:
+      text: Získal jsi \c[13]OPALOVACÍ GEL\c[0].
+
+#[Shake]
+message_5:
+      text: \n<LETNÍ KRTEK>Bůůuuuu!
+
+#Talk to JARNÍ KRTEK
+message_6:
+      text: \n<JARNÍ KRTEK>Ach, jaro...\! Jaro nám přináší krásu!\! Jaro nám přináší radost!\! Jaro nám přináší život!\! Jaro nám přináší svěžího ducha, se kterým můžeme začít svěže od začátku!
+
+message_7:
+      text: \n<JARNÍ KRTEK>Jaro je nejlepší roční období! Souhlasíš?
+
+# [Nod/Shake]
+#[Nod]
+message_8:
+      text: \n<JARNÍ KRTEK>Ano, ano! Jaro je nejlepší! Jsem rád, že se mnou souhlasíš!\!<br>Tady máš ode mě dárek... Užij si ho!
+
+message_9:
+      text: Získal jsi \c[13]KONEV\c[0].
+
+#[Shake]
+message_10:
+      text: \n<JARNÍ KRTEK>Kadim na tebe!
+
+
+#Talk to PODZIMNÍ KRTEK (pro tohohle bych hlasoval já)
+message_11:
+      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! skvělý čas na mazlení se s knížkama...\! a ještě k tomu s Vánocema hned za rohem...\! Kdo by neměl rád podzim?!
+
+message_12:
+      text: \n<PODZIMNÍ KRTEK>Podzim je nejlepší roční období! Souhlasíš?
+
+# [Nod/Shake]
+#[Nod]
+message_13:
+      text: \n<PODZIMNÍ KRTEK>Správně! Podzim je nejlepší! Jsem rád, že se mnou souhlasíš!\! Zde ode mě máš dárek... Snad ti dobře poslouží!
+
+message_14:
+      text: Získal jsi \c[13]HRÁBĚ\c[0].
+
+#[Shake]
+message_15:
+      text: \n<PODZIMNÍ KRTEK>No... tak se alespoň shodneme, že se neshodneme.
+
+#Talk to ZIMNÍ KRTEK
+message_16:
+      text: \n<ZIMNÍ KRTEK>Ach, zima.\! Možná že venku sněží, ale to za mě jen dosvědčuje, že bychom měli zimu trávit s našimi kamarády a rodinou!
+
+message_17:
+      text: \n<ZIMNÍ KRTEK>Schoulit se u teplého krbu...\! Povídat si historky...\! Srkat horkou čokoládu...\! a hlavně... si konečně odpočinout po dlouhém roce!
+
+message_18:
+      text: \n<ZIMNÍ KRTEK>Zima je nejlepší roční období! Souhlasíš?
+
+# [Nod/Shake]
+#[Nod]
+message_19:
+      text: \n<ZIMNÍ KRTEK>Ano! Zima je nejlepší! Tvůj souhlas mi opravdu dělá radost!\! Prosím, vem si tento dárek.\! Zima je přece období dárků!
+
+message_20:
+      text: Získal jsi \c[13]ŠÁLU\c[0].
+
+#[Shake]
+message_21:
+      text: \n<ZIMNÍ KRTEK>Ale...\! To mi teda nedělá radost...
+
+#If Player has already chosen another favorite season:
+
+message_22:
+      text: \n<LETNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro jaro! Ode mě žádný dárek nedostaneš!
+
+message_23:
+      text: \n<LETNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro podzim! Ode mě žádný dárek nedostaneš!
+
+message_24:
+      text: \n<LETNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro zimu! Ode mě žádný dárek nedostaneš!
+
+message_25:
+      text: \n<JARNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro léto! Ode mě žádný dárek nedostaneš!
+
+message_26:
+      text: \n<JARNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro podzim! Ode mě žádný dárek nedostaneš!
+
+message_27:
+      text: \n<JARNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro zimu! Ode mě žádný dárek nedostaneš!
+
+message_28:
+      text: \n<PODZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro jaro! Ode mě žádný dárek nedostaneš!
+
+message_29:
+      text: \n<PODZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro léto! Ode mě žádný dárek nedostaneš!
+
+message_30:
+      text: \n<PODZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro zimu! Ode mě žádný dárek nedostaneš!
+
+message_31:
+      text: \n<ZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro jaro! Ode mě žádný dárek nedostaneš!
+
+message_32:
+      text: \n<ZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro léto! Ode mě žádný dárek nedostaneš!
+
+message_33:
+      text: \n<ZIMNÍ KRTEK>...\! Hm!\! Vidím, že ses místo mě rozhodl pro podzim! Ode mě žádný dárek nedostaneš!
+
+#If Player talks to their chosen favorite season:
+
+message_34:
+      text: \n<LETNÍ KRTEK>Ach, léto...\! písek...\! slunce...\! pláž...\! vlny...\!<br>a hlavně... letní prázdniny!
+
+message_35:
+      text: \n<LETNÍ KRTEK>Konečně, čas na relaxaci a odpočinek...<br>O tom je přece život!\!<br>Léto je nejlepší roční období!
+
+message_36:
+      text: \n<JARNÍ KRTEK>Ach, jaro...\! Jaro nám přináší krásu!\! Jaro nám přináší radost!\! Jaro nám přináší život!
+
+message_37:
+      text: \n<JARNÍ KRTEK>Jaro nám přináší život!\! Jaro nám přináší svěžího ducha, se kterým můžeme začít svěže od začátku!\! Jaro je nejlepší roční období!
+
+message_38:
+      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! skvělý čas na mazlení se s knížkama...\! a ještě k tomu s Vánocema hned za rohem...
+
+message_39:
+      text: \n<PODZIMNÍ KRTEK>Kdo by neměl rád podzim?\! Podzim je nejlepší roční období!
+
+message_40:
+      text: \n<ZIMNÍ KRTEK>Ach, zima.\! Možná že venku sněží, ale to za mě jen dosvědčuje, že bychom měli zimu trávit s našimi kamarády a rodinou!
+
+message_41:
+      text: \n<ZIMNÍ KRTEK>Schoulit se u teplého krbu...\! Povídat si historky...\! Srkat horkou čokoládu...\! a hlavně... si konečně odpočinout po dlouhém roce!\! Zima je nejlepší roční období!

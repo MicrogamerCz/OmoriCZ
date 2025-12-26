@@ -1,0 +1,68 @@
+# =========================================================================================
+# Sidequest: Agree with me!
+# =========================================================================================
+
+#TRIGGER: Talk to Artist
+#Note: Player must talk to ARTIST 3 times consecutively to complete the quest
+
+#          [[[First conversation:]]]
+message_0:
+      text: \artMohla bych tě o něco poprosit?\!<br>Co říkáš na tuhle skicu?\! Trochu křečovitá, nemyslíš...
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_1:
+      text: \artDíky, taky jsem si říkala.
+#[Animation: ARTIST Painting]
+#message_20
+message_2:
+      text: \artÁ... mnohem lepší.
+# [Shake]
+message_3:
+      text: \artVážně?\! Hmm...\! Nevím...\! Pořád mi připadá nějaká zvláštní.
+
+#         [[[Second conversation:]]]
+message_4:
+      text: \artHej, mohl bys na chviličku?\!<br>Přijde mi, že tomuhle mému dílu pořád něco schází.\!<br>Že by postavy neměly dost detailu?
+
+message_5:
+      text: \art...\! A, už vím!\!<br>Co takhle nakreslit něco tady, tady, tady a tady!\!<br>To by šlo!
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_6:
+      text: \artSamozřejmě... Mě to bylo jasné.
+#[Animation: ARTIST Painting]
+#message_20
+message_7:
+      text: \artAch, to je ale krása.\!<br>Ta přidaná hloubka dělá opravdu rozdíl!
+# [Shake]
+message_8:
+      text: \artHmm...\! Jsi si jistý?\!<br>Přijde mi, že by to chtělo ještě trochu detailu...
+
+#          [[[Third conversation:]]]
+message_9:
+      text: \artMohla bych slyšet tvůj názor na můj obrázek?\!<br>Co říkáš na tuhle barvu?\!<br>A měla bych pozadí udělat modře nebo červeně?
+
+message_10:
+      text: \art...\! Počkej, nic neříkej.\!<br>Rozhodně bude lepší červené, že?
+#[Nod (Yes) / Shake (No)]
+# [Nod]
+message_11:
+      text: \artNaprosto souhlasím!\!<br>Červená je nepochybně jasná volba.\!<br>Červená tomuhle obrázku dodá neuvěřitelné rozměry!
+#[Animation: ARTIST Painting]
+#message_20
+message_12:
+      text: \artTak, mé dílo je konečně hotovo!
+#looks at PLAYER
+message_13:
+      text: \artDíky.\! Bez tebe bych to nedokázala.
+
+# [Shake]
+message_14:
+      text: \artOpravdu?\! Myslala jsem, že tam fakt sedí...
+
+
+message_19:
+      text: \artAno... teď už mi to všechno dává smysl!\!<br>\sinv[1]\{NASKOČILA INSPIRACE!!
+#VOILA
+message_20:
+      text: \artA...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}

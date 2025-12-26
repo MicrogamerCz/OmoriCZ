@@ -1,0 +1,34 @@
+
+# =========================================================================================
+# PEANUT AND JELLY
+# ========================================================================================
+
+#Talk to Jelly
+
+message_0:
+      text: \n<ŽELÉ>PANÍ PALMINKA se o nás stará již celá léta...
+
+message_1:
+      text: \n<ŽELÉ>\sinv[1]Pořád je tak hodná a starostlivá...\! <br>Kéž bych ji mohl dát něco vyjímečného jako dárek...
+
+message_2:
+      text: \n<ŽELÉ>Páni!\! Vidím správně? \c[4]DĚKOVNÁ VYKOPÁVKA\c[0]?\! <br>Tu jsem ještě v životě neviděl!\! <br>To by byl dokonalý dárek pro PANÍ PALMINKU... #odstranění zbytku angličtiny
+
+message_3:
+      text: Dáš ŽELÉMU svou \c[4]DĚKOVNOU VYKOPÁVKU\c[0]?
+
+#yes/no
+
+#if yes
+message_4:
+      text: \n<ŽELÉ>Ty mi ji chceš dát!?\! Vážně?! Díky!\!<br>Já zase našel tohle v krbu!\! Možná by ti to k něčemu bylo!
+
+message_5:
+      text: Získal jsi \c[4]LÍSTEK PRO LED-NA-KLÁDĚ\c[0]!
+
+message_6:
+      text: \n<ŽELÉ>Hehe...\! PANÍ PALMINKA bude tak překvapená, až ji dám tuhle \c[4]DĚKOVNOU VYKOPÁVKU\c[0]!
+
+#unused
+message_7:
+      text: \n<BURÁK>Mhmm!

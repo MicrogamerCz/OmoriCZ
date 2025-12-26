@@ -1,0 +1,239 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============PINWHEEL========================================
+                        #====NIGHT 1-1====
+
+#LEMON JASH
+#Shop dialogue guide
+
+#HOT DIGGITY DOG
+#Location: TRAIN STATION
+message_0:
+      text: \n<HOTDOŽÍK>Hot...\! do...\! žík!\! To jsem já!\! Hotdožík!
+
+#KITE KID
+#REFER TO PERFECT WIND SIDEQUEST
+
+#LEAFIE
+#REFER TO RABBITKILLER SIDEQUEST
+
+#SPELLING BEE (tak tohle nevím jak přeložit.)
+#Location: Train station
+message_1:
+      text: \n<SPELLING BEE>A-\!H-\!O-\!J\! J-\!Á\! J-\!S-\!E-\!M\! <br>S-\!P-\!E-\!L-\!L-\!I-\!N-\!G\! B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E!
+
+#Gator Guy 1
+#Location: Train Station
+message_2:
+      text: \n<KROKOĎÁK>Heh heh heh...\!\} heh heh...\!\{ heh... \!\}heh...\{
+
+#Gator Guy 2
+#Location: Train Station
+message_3:
+      text: \n<KROKOĎÁK>Kek kek kek...\!\} kek kek...\!\{ kek... \!\}kek...\{
+
+message_4:
+      text: \n<KROKOĎÁK>Přepínám.
+
+#GIBS
+#Location: Train Station
+message_5:
+      text: \n<PŘÍTULNÝ HRÁČ GIBS>Ahoj, děti!\! Já jsem GIBS, PŘÍTULNÝ HRÁČ!\!<br>Kdysi jsem býval potulný hráč, ale s tím jsem už dávno sekl.
+
+message_6:
+      text: \n<PŘÍTULNÝ HRÁČ GIBS>Byli byste tak hodní a dali mi 5 MUŠLÍ? To by mi<br>fakt pomohlo.\!<br>A když mi je dáte, ukážu vám něco \SINV[1]fakt hustýho\SINV[0]!\$ #hustý - hustýho
+
+message_7:
+      text: \n<PŘÍTULNÝ HRÁČ GIBS>Díky za váš přízpěvek!\! A na oplátku...<br> vám zahraji píseň svého lidu.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubTy brďo, pane!\. To bylo fakt hu-\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub...
+
+message_10:
+      text: Tahle písnička byla podle tebe \SINV[1]celkem hustá\SINV[0].
+
+message_51:
+      text: ANO
+
+message_52:
+      text: Nemáš dost MUŠLÍ.
+
+
+#WISE ROCK
+#Location: East Coast
+message_11:
+      text: \wisZdravím, já jsem MOUDRÝ KÁMEN!\!<br>Za slušné MUŠLE vám dám slušnou radu!
+
+message_12:
+      text: \wisJak moc slušnou radu byste si přáli?\$
+
+message_13:
+      text: \wis... \!Jasně!\! Zde je vaše rada.
+
+message_14:
+      text: \wis...\! Snad vám přijde vhod!
+
+# =========================================================================================
+# BAD ADVICE
+# =========================================================================================
+
+message_20:
+      text: \wisVšechno vám projde, pokud vás při tom někdo nechytne! #přirozenější
+
+message_21:
+      text: \wis\QUAKE[1]\{Neustále \Com[2]\{ŘVĚE \Com[2]\{TEE \Com[2]EEE!!!!\}\}\}\QUAKE[0]
+
+message_22:
+      text: \wisKdyž vám život dá citróny...\! Založte si stánek s \c[3]LIMONÁDOU\c[0] před \c[11]NÁDRAŽÍM\c[0] a vydávejte s každou prodanou \c[3]LIMONÁDOU\c[0] zdarma \c[4]JÍZDENKU\c[0].
+
+message_23:
+      text: \wisPoslouchejte všechny rady.
+
+message_24:
+      text: \wisNebuďte oškliví.
+
+# =========================================================================================
+# OK ADVICE
+# =========================================================================================
+
+message_25:
+      text: \wisNe každá rada je dobrá rada.
+
+message_26:
+      text: \wisPři jezení banánu nikdy nenavazujte oční kontakt.
+
+message_27:
+      text: \wisNení moudré poslouchat rady od kamene.
+
+message_28:
+      text: \wisVaše problémy vás stejně jednou dohoní.
+
+message_29:
+      text: \wisMezi Zemí a Měsícem je přibližně 384400 kilometrů. #zaokrouhlení, má to být přibližně
+
+# =========================================================================================
+# GOOD ADVICE
+# =========================================================================================
+
+message_30:
+      text: \wisPoslouchejte své srdce, ale nebojte se dopřát sluch i mozku!
+
+message_31:
+      text: \wisUdělejte každý den něco, za co budete ten další vděční!
+
+message_32:
+      text: \wisBolest netrvá věčně.
+
+message_33:
+      text: \wisŽivot je krátký, tak se usmívejte, dokud ještě máte zuby!
+
+message_34:
+      text: \wisKdyž ti příležitost nezaklepe na dveře, je dobré si je nejdřív postavit!
+
+message_35:
+      text: Nemáš dost MUŠLÍ.
+
+# =========================================================================================
+# NO ADVICE
+# =========================================================================================
+
+message_36:
+      text: \wisKlidně přijďte kdykoliv zas!
+
+message_37:
+      text: SLUŠNOU RADU (30 MUŠLÍ)
+
+message_38:
+      text: ŠPATNOU RADU (3 MUŠLE)
+
+message_39:
+      text: FAJN RADU ADVICE (10 MUŠLÍ)
+
+message_41:
+      text: ŽÁDNOU RADU
+                        #====NIGHT 1-2====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: Same as Night 1-1
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_40:
+      text: \n<SPELLING BEE>H-\!O-\!W\! A-\!R-\!E\! Y-\!O-\!U\! T-\!H-\!I-\!S\! F-\!I-\!N-\!E\! B-\!E-\!E-\!V-\!E-\!N-\!I-\!N-\!G?\!<br>I-\!S-\!N'-\!T \!T-\!H-\!E \!W-\!E-\!A-\!T-\!H-\!E-\!R \!J-\!U-\!S-\!T \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!A-\!U-\!T-\!I-\!F-\!U-\!L?
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: Same as Night 1-1
+#Gator Guy 2: Same as Night 1-1
+#Gibs: Same as Night 1-1
+
+                        #====NIGHT 2====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: Dialogue is in dreamworld_extras_blackspace yaml
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_50:
+      text: \n<SPELLING BEE>W-\!H-\!Y \!H-\!E-\!L-\!L-\!O \!T-\!H-\!E-\!R-\!E! \!I-\!T'-\!S \!Y-\!O-\!U \!A-\!G-\!A-\!I-\!N!\!<br>H-\!O-\!W \!H-\!A-\!V-\!E \!Y-\!O-\!U \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!N?
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+                        #====NIGHT 3====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: N/A
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+message_60:
+      text: \n<SPELLING BEE>B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!S!
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+
+message_61:
+      text: \n<PAN PAPOUŠEK>\quake[1]Písk.\quake[0] (Fronta začíná tady.)
+                        #====NIGHT 4====
+
+#Lemon Jash: Same as Night 1-1
+#Hot Diggity Dog: Same as Night 1-1
+#Kite Kid: N/A
+#LEAFIE: Same as Night 1-1
+#Spelling Bee:
+#message_70:
+#      text: \n<SPELLING BEE>Dialogue goes here
+
+#Wise Rock: Same as Night 1-1
+#Gator Guy 1: N/A
+#Gator Guy 2: N/A
+#Gibs: Same as Night 1-1
+
+#TRAIN Jash
+message_100:
+      text: \n<NÁDRAŽNÍ JAŠ>\com[2]Stát!\! Dál bez \c[4]JÍZDENKY\c[0] nemůžete!\! To je snad jasný, ne?!
+
+message_101:
+      text: \n<NÁDRAŽNÍ JAŠ>\com[2]Stát!\! Dál bez-
+
+message_102:
+      text: \n<NÁDRAŽNÍ JAŠ>Ty bláho...\! Pravá \c[4]JÍZDENKA\c[0]...\! Tak to vy jste ti poslední pasažéři!\! Už na vás dlouho čekáme.
+
+message_103:
+      text: \n<NÁDRAŽNÍ JAŠ>Tak...\! Za mě dobrý!\! Vítejte na palubě, cestující!
+
+message_104:
+      text: \n<NÁDRAŽNÍ JAŠ>Vítejte na palubě, cestující!

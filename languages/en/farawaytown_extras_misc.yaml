@@ -1,0 +1,727 @@
+# =========================================================================================
+# FARAWAY TOWN Extra
+# =========================================================================================
+
+#Interacting with PLAYER house door
+
+message_0:
+      text: Nikdo není doma.
+
+#KEL at door
+
+message_1:
+      text: \who\Sinv[1]Halóóóoooo...\! Halóoooo?\! Je někdo doma?
+
+message_2:
+      text: Zpoza dveří slyšíš utahaný hlas, který nepoznáváš.
+
+#After Polly Cont. Cutscene
+
+message_3:
+      text: BASIL smělí své \c[4]FOTOALBUM\c[0].\!<br>Třepou se mu ruce...
+
+#Exclamation mark on BASIL
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \basÁ!\! Ahoj, SUNNY...
+
+#Pizza Karaoke
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
+
+message_5:
+      text: Karaoke automat.\!<br>Koho vyšleš zpívat?
+
+message_6:
+      text: Ukázal jsi na KELA.
+
+message_7:
+      text: Ukázal jsi na AUBRY.
+
+message_8:
+      text: Ukázal jsi na HERA.
+#Pick KEL/Aubrey/Hero when applicable
+
+#Flashback to BASIL and PLAYER burying the key at the stump
+#Shoveling noises
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!* Znamená to, že to v té hře není? Asi jo... Tohle zní ale... dost děsivě. Možná jsem rád, že se to nedostalo...
+
+message_9:
+      text: \basHff...\! hff...\! Tak...\! a je to.
+
+message_10:
+      text: \basNow that we've hidden everything, no one will ever find out...
+
+message_11:
+      text: \basD-Don't look so scared, \n[8]...\!<br>At least we have each other...\!<br>I'll protect you! You can count on me!
+
+message_12:
+      text: \basEverything will be okay...\! won't it?
+
+#Rai at GINO'S Pizza
+
+message_13:
+      text: \n<RAI>Já jsem RAI! Jsem takový hudební fajnšmekr.
+
+message_14:
+      text: \n<RAI>Pokud mi pustíte na támhletom \c[4]JUKEBOXU\c[0] nějaké \c[4]CDčko\c[0], vsadím se, že hned poznám interpreta!
+
+message_15:
+      text: \n<RAI>Já jsem RAI! Jsem takový hudební fajnšmekr...\! a fajnšmekr jsem i v karetních hrách!
+
+# =========================================================================================
+# FARAWAY TOWN Extra content
+# =========================================================================================
+
+#CHECKING CLOSET AFTER GETTING SMALL KEY
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCo pohledáváš ve skříni, SUNNY?\! Uklidit můžeš i potom.\! Pojď, užívej si dne!
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTamtudy se přece nejde do \c[11]HOBBEEZ\c[0]! Je to přece v \c[11]OBCHOĎÁKU\c[0], tom na sever, pamatuješ, SUNNY?! #obměna názvu, přiroz
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNo tak, SUNNY, pojďme nejdříve do \c[11]HOBBEEZ\c[0]!
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelTamtudy se nejde k \c[11]BASILOVI\c[0]!\! Pamatuješ, SUNNY? Je to na ulici přes přechod šikmo od té naší.
+
+# =========================================================================================
+# HOME ALONE
+# =========================================================================================
+
+#If PLAYER chooses not to answer the door for KEL, he will be locked in his house and forced to do a house chore. You can only do one house chore per day.
+
+# Piano room locked while doing chores
+
+# WASHING DISHES
+
+message_30:
+      text: Vyhrnul sis rukávy...
+
+message_31:
+      text: Co umyješ jako první?
+
+message_32:
+      text: KOVOVÁ VIDLIČKA
+
+message_33:
+      text: KOVOVÁ LŽIČKA #obě jsou kovové, ne stříbrné
+
+message_34:
+      text: JÍDELNÍ HŮLKY #ať je jasné, že se jedná o ty japonské
+
+message_35:
+      text: PEKÁČ #jeden
+
+message_36:
+      text: PÁNEV #jedna
+
+message_37:
+      text: NABĚRAČKA
+
+message_38:
+      text: MALÁ MISKA
+
+message_39:
+      text: OBŘÍ MISKA #přejmenováno
+
+message_40:
+      text: HONOSNÁ MISKA
+
+message_41:
+      text: ZDOBENÝ TALÍŘ
+
+message_42:
+      text: SKLENICE NA VÍNO
+
+message_43:
+      text: SKLENĚNÝ HRNEK
+
+message_44:
+      text: HRNEK S NÁPISEM \"MÁMA ROKU\" #zní lépe
+
+message_45:
+      text: PUNTÍKOVANÝ HRNEČEK
+
+message_46:
+      text: NUDNÝ TALÍŘ
+
+message_60:
+      text: Vzal jsi do ruky \v[806].
+
+message_80:
+      text: ...\! Ups.\! \v[806] ti spadl a rozbil se.
+
+message_90:
+      text: Snad si toho MAMKA nevšimne...
+
+#After the washing animation is finished:
+
+message_101:
+      text: Umyl jsi \v[806].
+
+message_102:
+      text: Co umyješ teď?
+
+#Menu will pop up again, with the previously chosen item missing. The menu listings are randomized every time.
+
+message_91:
+      text: Nádobí se přímo leskne.
+
+message_92:
+      text: Špinavé nádobí.
+
+message_93:
+      text: Prázdný dřez.
+
+message_110:
+      text: Konečně jsi domyl nádobí.\!<br>Špičky tvých prstů vypadají jako švestky.
+
+message_121:
+      text: Chtěl bys přestat mýt nádobí?
+
+message_122:
+      text: Umyješ nádobí?
+
+message_123:
+      text: Podíval ses na svůj SEZNAM.\!<br>Dnes je na řadě mytí nádobí.
+
+message_124:
+      text: Nádobí je čisté.\!<br>Kéž bys byl taky tak čistý.\!<br>Možná by ses mohl i někdy vykoupat.
+
+#IF YOU EXAMINE DISHES WITH HERO
+message_125:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: \herVypadá, že máš ještě nějaké domácí práce, než odjedeš, SUNNY. #domácí
+
+message_126:
+      faceset: MainCharacter_Basil
+      faceindex: 14
+      text: \herNeboj, já to za klidně udělám za tebe!\! Co jiného bych vůbec takhle ráno dělal.\! Ber to jako dárek na rozloučenou!
+
+message_127:
+      text: Páni... #přeloženo
+
+#  Sweeping
+
+message_130:
+      text: Vzal jsi do ruky \c[13]MAMČINO KOŠTĚ\c[0].\!<br>Náhle vychází najevo, jak doopravdy je podlaha špinavá. #koště
+
+message_131:
+      text: Chtěl bys přestat zametat?
+
+message_132:
+      text: Položil jsi \c[13]MAMČINO KOŠTĚ\c[0].\!<br>Už se nesoustředíš na špínu na podlaze.
+
+message_133:
+      text: Podlaha je konečně čistá.
+
+message_134:
+      text: Podíval ses na svůj SEZNAM.\!<br>Dnes je na řade zametání.
+
+message_135:
+      text: Začneš už teď?
+
+message_137:
+      text: ...\! Je ti trochu špatně.
+
+message_138:
+      text: ...\| ...\| ...
+
+#  Sorting Items
+
+message_140:
+      text: AKČNÍ FIGURKA KAPITÁNA VESMÍRŇÁKA[HRAČKA]
+
+message_141:
+      text: STAVEBNICE[HRAČKA]
+
+message_142:
+      text: PYTLÍK PLNÝ KULIČEK[HRAČKA]
+
+message_143:
+      text: JOJO[HRAČKA]
+
+message_144:
+      text: PLASTELÍNA[HRAČKA]
+
+message_145:
+      text: PRUŽINKA[HRAČKA] #ať je to jasnější. a zjistil jsem, že "slinky" je copyrightované. ještě že to je tady skryté...
+
+message_146:
+      text: PLYŠOVÝ KLÍČKOKRTEK[HRAČKA]
+
+message_147:
+      text: PANENKA ZLATÍČKA[HRAČKA]
+
+message_148:
+      text: OVLADAČ NA AUTÍČKO[HRAČKA]
+
+message_149:
+      text: AUTÍČKO NA DÁLKOVÉ OVLÁDÁNÍ[HRAČKA] #blíže orig, výše též
+
+message_150:
+      text: ROZTRHLÝ DRAK[HRAČKA]
+
+message_151:
+      text: HRACÍ KASA[HRAČKA]
+
+message_152:
+      text: DUHOVÝ XYLOFON[HRAČKA]
+
+message_153:
+      text: MINI HRACÍ KLAVÍR[HRAČKA]
+
+message_154:
+      text: KOVOVÉ KULIČKY[HRAČKA]
+
+message_155:
+      text: MALÝ VĚTRNÍK[HRAČKA]
+#delete the entry below
+message_156:
+      text: KOMIKS \"DOBRODRUŽSTVÍ KAPITÁNA VESMÍRŇÁKA\"[KNIHA]
+
+message_157:
+      text: Kniha \"JAK VYTRHNOUT BENDOVI STOLIČKU\"[KNIHA] #odkaz na původ jména
+#delete the entry below
+message_158:
+      text: Komisk \"ZLATÍČČINA POMSTA\"[KNIHA] #komiks
+#delete the entry below
+message_159:
+      text: OMALOVÁNKY \"DINOUSAUŘÍ KOPÁNÁ\"[KNIHA]
+
+message_160:
+      text: \"PRŮVODCE NAŠÍ SLUNEČNÍ SOUSTAVOU\"[KNIHA]
+
+message_161:
+      text: \"DUETY PRO KLAVÍR A HOUSLE\"[KNIHA]
+
+message_162:
+      text: \"POTRAVINOVÁ PYRAMIDA\"[KNIHA] #konzistence
+#delete the entry below
+message_163:
+      text: \"SKLESLÁ VRBA\"[KNIHA]
+
+message_164:
+      text: \"VOŇAVÁ KNÍŽKA POMERANČOVÉHO JOEHO\"[KNIHA]
+
+message_165:
+      text: STRATEGICKÁ PŘIRUČKA \"DOMÁCÍ KAMÍNKY\"[KNIHA]
+#delete the entry below
+message_166:
+      text: Kniha \"VELKÁ ŽLUTÁ KOČKA\"[KNIHA] #kniha
+
+message_167:
+      text: Kniha \"KLUK A JEHO DRAK\"[KNIHA] #kniha
+#delete the entry below
+message_168:
+      text: Kniha \"HŘIŠTĚ V LESE\"[KNIHA]
+#delete the entry below
+message_169:
+      text: Kniha \"OSAMĚLÝ STRAŠÁK\"[KNIHA]
+
+message_170:
+      text: Kniha \"VÝHODY TOFU\"[KNIHA]
+
+message_171:
+      text: STARÁ PLECHOVKA POMERANČOVÉHO JOEHO[ODPAD]
+
+message_172:
+      text: JEDEN KOUSEK PUZZLÍ[ODPAD]
+
+message_173:
+      text: STARÁ SMRADLAVÁ PONOŽKA[ODPAD]
+
+message_174:
+      text: VRŠEK PERA[ODPAD]
+
+message_175:
+      text: SMOTANÉ DRÁTY[ODPAD]
+
+message_180:
+      text: Do téhle krabice patří HRAČKY.
+
+message_181:
+      text: Do téhle krabice patří KNIHY.
+
+message_182:
+      text: Do téhle krabice patří ODPAD.
+
+message_183:
+      text: Dáš sem \v[810]?
+
+message_184:
+      text: Dáš sem \v[810]?
+
+message_186:
+      text: ...vzal sis \v[810].
+
+message_187:
+      text: Před odchodem jsi položil \v[810].
+
+message_188:
+      text: Před odchodem jsi položil \v[810].
+
+message_191:
+      text: Chtěl bys dál třídit?
+
+message_192:
+      text: Chtěl bys přestat třídit?
+
+message_200:
+      text: Sáhl jsi do kartonové krabice...
+
+message_201:
+      text: ...a našel v něm \v[810]. #dal bych sem "vytáhl jsi z něj" ale tam je změna pádu - ten pak nesedí s názvy předmětů (i tak je tam rozíl 1. a 4.)
+
+message_202:
+      text: Chtěl bys vyhodit \v[810]?
+
+message_203:
+      text: Chtěl bys vyhodit \v[810]?
+
+message_204:
+      text: Dokonale jsi protřídil své staré věci.\! <br>MAMKA z tebe bude mít radost.
+
+message_205:
+      text: Dostatečně jsi protřídil své staré věci.\!<br>Pár věcí je sice mimo, ale to by nemělo moc vadit.
+
+message_206:
+      text: Protřídil jsi své staré věci.\! Mohlo to být lepší, ale to už je asi teď celkem jedno.
+
+message_207:
+      text: Protřídil jsi své staré věci, ale jaksi se ti povedlo je rozházet ještě víc...\! Snad se MAMKA nebude zlobit... #přiroz. proč se s tímhle tak mažu, když tohle 99% lidí neuvidí?
+
+message_136:
+      text: Již držíš \v[810].
+
+message_185:
+      text: Podíval ses na svůj SEZNAM.\!<br>Dnes je na řadě třídění svých starých věcí.
+
+message_190:
+      text: V kartonové krabici už nic není.
+#EXAMINE MARI'S GRAVE WITH FLOWERS
+
+message_208:
+      text: Chtěl bys k MARINIMU hrobu položit \c[4]KYTKY\c[0]? #konzistence
+
+#YES/NO
+
+message_209:
+      text: Dal jsi MARI \c[4]KYTKY\c[0].
+
+#IF YES, CEMETARY (WITH MARI'S THEME) STARTS PLAYING (Forever)
+
+message_210:
+      text: You can't go out right now. REPLACE WITH HEAD SHAKING
+
+message_211:
+      text: Je ti na zvracení...
+
+
+message_236:
+      text: Přání k uzdravení od TÁTY KIM A VANCE. #í
+
+message_237:
+      text: \"Přeji brzké uzdravení.\"\!<br>\"Jako velký gumový míč, určitě se brzo odrazíš zpátky!\" #brzké
+
+message_221:
+      text: Přání k uzdravení od MAMKY KIM A VANCE.
+
+message_252:
+      text: \"Brzy se uzdrav, SUNNY.\"\!<br>\"Kéž by ses s KIM a VANCEM stýkal častěji.\"\!<br>\"Potřebovali by příklad, jako jsi ty!\"
+
+message_222:
+      text: Kytky od BRENTOVY RODINY.
+
+message_238:
+      text: \"Ahoj, SUNNY... Snad se cítíš každým dnem silnější.\"\!<br>\"Přes léto jsi BRENTOVI hodně pomohl.\"\!<br>\"Ve škole se mu daří výborně.\" #bože, jak dlouho byl v bezvědomí?
+
+message_223:
+      text: Kytky od JOYINY RODINY.
+
+message_239:
+      text: \"Ahoj, SUNNY. Uzdrav se prosím brzy.\"\!<br>\"Díky, žes v létě doučoval JOY.\"\!<br>\"Ve všech předmětech se jí skvěle daří.\"
+
+message_224:
+      text: Kytky od CRISINÉ RODINY.
+
+message_240:
+      text: \"Snad se ti daří, SUNNY.\"\!<br>\"V nemocnici se přece nežije zas tak špatně.\"\!<br>\"Je to jen znamení, že by ses měl víc dívat na televizi!\" #"užíváš" se mi tady nelíbí
+
+message_225:
+      text: Kytky od BEBINY RODINY.
+
+message_241:
+      text: \"Díky, žeš mi koupil tu \c[4]STOJAVOU LAMPU\c[0], SUNNY!\"\!<br>\"A svého syna BILLYHO jsem vážně už neviděl.\"\!<br>\"Snad se mu daří...\" #méně cynické ohledně billiho osudu
+
+message_226:
+      text: Kytky od SEANA a KAREN.
+
+message_242:
+      text: \"Přejeme ti rychlé uzdravení, SUNNY.\"\!<br>\"Už jsme se konečně nastěhovali, tak někdy určitě přijď na návštěvu!\"
+
+message_227:
+      text: Přáni k uzdravení od MALÍŘKY.
+
+message_243:
+      text: \"Ahoj, SUNNY. Snad se pomalu ale jistě léčíš.\"\!<br>\"Brzo se uzdrav a přijď na návštěvu.\"\!<br>\"Ráda bych slyšela více tvých názorů...\"
+
+message_228:
+      text: Kytky od SÁŘINY RODINY.
+
+message_244:
+      text: \"Ahoj, SUNNY. Díky za zachránění mého manželství.\"\!<br>\"Určitě se brzo uzdravíš!\"
+
+message_229:
+      text: Kytky od ŠÁRINY RODINY.
+
+message_245:
+      text: \"Milý SUNNY...\! Díky za tvou pomoc v létě.\"\!<br>\"Vřele ti přejeme rychlé uzdravení!\"
+
+message_230:
+      text: Kytky od JESSEHO a jeho táty.
+
+message_246:
+      text: \"Snad se všechno zlepšuje, SUNNY.\"\!<br>\"JESSE se se mnou poslední dobou hodně baví.\"\!<br>\"Tos musel vybrat pořádný narozeninový dárek!\"
+
+message_231:
+      text: Kytky od PRODAVAČE.
+
+message_247:
+      text: \"Nazdar, SUNNY...\"\!<br>\"Posílám dobrou náladu.\"\!<br>\"A nezapomeň, u nás v HOBBEEZ jsi vždy vítán!\"
+
+message_232:
+      text: Dárky k uzdravení od DAPHNE a BOWENA.
+
+message_248:
+      text: \"Vyžij se v tomto chlebu a naber zpět síly.\"\!<br>\"A poté si s námi znovu přijď zahrát...\"
+
+message_233:
+      text: Kytky od KELOVY A HEROVY RODINY... a AUBRY.
+
+message_249:
+      text: \"Přejeme brzké zotavení.\"\!<br>\"Chybíš nám, SUNNY.\" #zkusím
+
+message_234:
+      text: Kytky od MINCY.
+
+message_250:
+      text: \"Díky za to, žes mě motivoval nadále kreslit.\"\!<br>\"Snad se brzo uzdravíš.\"\!<br>\"Pořád nad tebou přemýšlím!\"
+
+message_235:
+      text: Dárek k uzdravení od KIM, VANCE, ŠÁRY, ANDĚLA...<br>a STŘEMHLAVA.
+
+message_251:
+      text: \"Brzy se usdrav, SUNNY!\"\!<br>\"Čekáme na odvetu!\"
+
+message_253:
+      text: Velmi, velmi pohodlná postel...\!<br>Ale teď není čas spát.
+
+message_254:
+      text: Stará televize.\! Z reproduktorů se ozývá tiché bzučení.
+
+message_255:
+      text: Prázdná postel.
+# =========================================================================================
+# FARAWAY TOWN Extra
+# =========================================================================================
+
+#Interacting with KEL house door (night)
+
+message_220:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNa návštěvu je dneska už moc pozdě, ale klidně můžeš přijít někdy jindy!<br>\!Pojď, SUNNY... Doprovodím tě domů!
+
+# =========================================================================================
+# Neutral Route Sleep Prompt
+# =========================================================================================
+message_404:
+      text: Zítra se stěhuješ.\!<br>Co bys chtěl dělat? #konzistence
+message_405:
+      text: VRÁTIT SE DO BÍLÉHO PROSTORU
+message_406:
+      text: SPÁT DO RÁNA
+message_407:
+      text: NIC
+# =========================================================================================
+# Naming Player
+# =========================================================================================
+
+message_400:
+      text: Vidíš chlapce spícího v posteli.\! Jak se jmenuje? #přeloženo
+message_401:
+      text: Nemáš žádné vzkazy.
+message_402:
+      text: Velmi pohodlná postel.\! Chtěl bys jít spát?
+message_403:
+      text: \n<TELEFON>Máte jeden nový vzkaz.
+
+message_410:
+      text: Chlapec se jmenuje \v[1]?
+
+message_500:
+      text: Ach ano, skvělý, propečený stejk.\! Dáš si?
+
+message_501:
+      text: Uff...\! To se tvému žaludku moc nelíbilo... #citoslovce
+
+message_502:
+      text: Musíš si vzít do ruky svůj \c[13]STEAKOVÝ NŮŽ\c[0].
+
+message_503:
+      text: Je ti na zvracení...
+
+message_504:
+      text: \marAhoj, SUNNY! To jsem já, MARI!\!<br>Už jsem konečně zpátky! Ale zapomněla jsem si klíče...\!<br>Otevřel bys mi prosím dveře?
+
+message_505:
+      text: \marSUNNY...\! Jsi tam?\! Je...\! Je mi zima...
+#yes/no choice
+
+message_506:
+      text: Na tohle potřebuješ \c[13]STEAKOVÝ NŮŽ\c[0].
+
+message_600:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelVydrž, SUNNY!\! Nemůžeš ještě domů, vždyť toho musíme ještě tolik stihnout!
+
+message_601:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHlavu vzhůru! Je nový den!
+
+#CEMETARY
+
+message_610:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelMARI...\! Už teď mi připadá, že je to tak dávno. \!Pořád nad ní přemýšlím.\! A ty jistě taky, viď? #tak
+
+message_612:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelVíš...\! když nás MARI opustila...\! HERO...\! HEROVI začalo být všechno jedno.<br><br>Nechtělo se mu ráno vstávat ze školy, dokonce ani jíst nechtěl.\! Přestal se o sebe starat, přestal vařit, péct...
+
+message_613:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelTak to bylo skoro rok.
+
+message_614:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelA naši nevěděli, co s ním.\! Všichni jsme mu nějak chtěli pomoct...\! ale nic nezabíralo.
+
+message_615:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelJeden večer...\! jsem k němu přišel, když byl schovaný pod peřinama a začal jsem mu říkat...
+
+message_616:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelŘíkat o tom, jak nám všem chybí, a jak chceme, aby se zase vzpamatoval...\! Jak o něj všichni máme strach...\! Jak by se MARI nelíbilo ho takhle vidět...
+
+message_617:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelMyslel jsem, že mu to pomáhá...
+
+message_618:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelAle...\! Jenom ho to rozzuřilo.
+
+message_619:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelZ ničeho nic vystřelil ven z postele a začal na mě řvát o všem možném.\! Něco z toho se mě i trochu dotklo...\! ale většinu jsem asi prostě vyblokoval.
+
+message_621:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelUž předtím měl úplně červené oči...\! ale čím víc na mě řval, tím víc plakal.
+
+message_622:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelSnažil jsem se ho uklidnit...\! ale ať jsem řekl cokoliv, bylo to jen a jen horší.
+
+message_623:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelV takovém stavu jsem ho v životě neviděl.\! Vážně mě to překvapilo.\! A bál jsem se tak...\! že...\! jsem se taky rozbrečel. #vypouštím ho, blíže orig
+
+message_624:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNakonec tam přišli naši a šli ho obejmout a uklidnit...
+
+message_632:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelAle...\! na mě se nějak zapomnělo...\! He, he... #blíže orig
+
+message_625:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOd toho dne se ale myslím vzpamatoval... protože ke mně hned potom přiběhl a obejmul mě.\! A pořád se jenom omlouval a omlouval...
+
+message_626:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelA pak...\! se to s ním vážně zlepšilo.\! Začal se o sebe zase starat...\! a začal se pořádně soustředit na školu...\! našel si nové kroužky, kamarády, všecko takové. #přiroz
+
+message_627:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJde mu snad všechno, co dělá, ale i tak se ve všem hodně snaží a za to jsem na něj opravdu hrdý! #vybírám hrdý, na kela se více hodí
+
+message_628:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelIMožná je teď trochu uzavřenější, než dříve...\! Ale já jsem popravdě hlavně rád, že ho máme zpátky. #blíže orig
+
+message_629:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPromiň za ten dlouhý příběh, snad jsem tě neunudil k smrti.\! Nevím, jestli jsem o tohle vůbec někomu řekl.
+
+message_631:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelSice za nic nemůže...\! ale řekl bych, že se HERO viní za MARINU smrt. #přiroz
+
+message_611:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHERO tady vlastně ani jednou nebyl...\! Vážně ani jednou.\! To možná trochu bolí, ale možná je to pro něj tak lepší.\! Já nevím... #přidávám já
+
+message_620:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herPromiň...\! Nevím, jestli na tohle ještě mám.
+
+#RECYCULTIST HQ
+
+message_630:
+      text: Jakási tajuplná síla ti brání odejít.
+
+message_640:
+      text: Na chvíli sis zdříml.\!<br>Měl bys začít dělat ty domácí práce.

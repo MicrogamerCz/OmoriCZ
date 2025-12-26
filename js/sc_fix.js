@@ -1,0 +1,1 @@
+Olivia.SkipCutscene.message = "KLÁVESOU \\DII[escape] PŘESKOČÍŠ TUTO SCÉNU"

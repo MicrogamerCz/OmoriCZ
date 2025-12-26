@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Sidequest: Old Hobo
+# =========================================================================================
+
+#Intro
+
+message_0:
+      text: \n<STARÝ BEZĎÁK>\SINV[2]Ohohoho...\! Zdravím...\! Ehmm...\! \QUAKE[1]He-pčík!\! He-pčík!
+
+message_1:
+      text: \n<STARÝ BEZĎÁK>Ach...\! To máme ale dneska krásný den, viďte?
+
+message_2:
+      text: \n<STARÝ BEZĎÁK>Nemám sice ani floka, ale aspoň že to slunko je zadara!
+
+#Default
+
+message_3:
+      text: \n<STARÝ BEZĎÁK>\quake[1]Ehmm...\quake[0]\! Takže, vážení...\! Byli byste tak hodní, a přispěli mi v této zlé době nějaký ten drobák?
+#After reaching donation goal
+
+message_4:
+      text: \n<STARÝ BEZĎÁK>Ale, to je v pořádku, vážení!\! Mám výtečné zprávy!\!<br>Vypadá to, že jsem si dnes vyplýtval štěstí na zbytek života, protože jsem zakopl o MILIÓNOVÝ ŠEK!
+
+message_5:
+      text: \n<STARÝ BEZĎÁK>Byli jste ke mě tak milí...\! Prosím, přijměte tento dar jako mé poděkování.
+
+#Replace million dollar bill with actual reward for quest
+
+message_6:
+      text: STARÝ BEZĎÁK ti dal $\v[603],00!
+
+message_7:
+      text: \n<STARÝ BEZĎÁK>Vidíte?\! Já říkal, že se vám to vrátí!\!<br>\SINV[2]\QUAKE[1]He-pčík!\! He-pčík!
+
+message_8:
+      text: \n<STARÝ BEZĎÁK>Hm?\! Ptáte se, proč jsem stále tady, když je ze mě teď milionář?
+
+message_9:
+      text: \n<STARÝ BEZĎÁK>Užívám si slunko, jak jinak!\!<br>\sinv[1]Co víc bych tak měl dělat?!\sinv[0]
+
+message_20:
+      text: STARÉMU BEZĎÁKOVI jsi již dal \v[603],00$.
+
+message_21:
+      text: \n<STARÝ BEZĎÁK>Díkec, vážení! Přísahám, že vám to nějak vrátím!\!<br>\SINV[2]\QUAKE[1]He-pčík!\! He-pčík!
+
+message_22:
+      text: Získal jsi $\v[603],00!
+
+# =========================================================================================
+
+message_25:
+      text: \n<STARÝ BEZĎÁK>Ach...\! To máme ale dneska krásný večer, viďte?
+
+message_26:
+      text: \n<STARÝ BEZĎÁK>Nemám sice ani floka, ale aspoň že ten měsíc je zadara!... Alespoň zatím...

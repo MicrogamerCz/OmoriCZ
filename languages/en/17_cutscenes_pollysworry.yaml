@@ -1,0 +1,338 @@
+# =========================================================================================
+# Cutscene: Errand List
+# =========================================================================================
+
+#DAY 2 PART 1: FARAWAY TOWN
+#Trigger: Examine Front Door and open.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\com[2]AHOJ, SUNNY!!\}\!<br>Krásné ráno, he he.\kel #heh v češtině snad vůbec není
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: No...\! Spíš krásné poledne.\! HERO asi nakonec přijede spíš k večeru, tak jsem pro tebe dneska přišel trochu později.\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: MAMKA mě poslala nakoupit na \c[11]NÁMĚSTÍ\c[0], než přijede, a...\! Napadlo mě, že by to mohla být větší sranda, kdybys šel se mnou!\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Půjdeš se mnou, SUNNY?\!<br>No jasně že jo!\! Pojď...\kel
+
+#Upon entering Town PLAZA
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Takže...\! Pokud si to správně pamatuju, měli bychom se stavit v \c[11]GINOVĚ PIZZERII\c[0] a ještě do pekárny v \c[11]HUBERTU\c[0]...\! Veď, SUNNY!\kel #pravopis. a stále oceňuji Hubert
+
+
+# =========================================================================================
+# Cutscene: secret lake Day
+# =========================================================================================
+
+#Trigger: Enter GINO's Pizza.
+
+message_20:
+      text: \c[11]GINOVA PIZZERIE\c[0] je BOMBA!\! Tohle je teprv řádná, umazaná, mazlavá pizza... přesně podle mého gusta!\kim
+
+message_21:
+      text: \Com[2]\{DOBROU CHUŤ!!\kim #přeloženo
+
+message_22:
+      text: Takže...\! ham...\! ham...\! ham...\! Půjdeme dneska na to naše tajné místo?\ang #srazu zní hrozně, bude to jen tajné místo
+
+message_23:
+      text: Vezmu si s sebou svůj rybářský prut!\! Ham...\! Vyrobil jsem si ho sám...\! ham... Ze švihadla a jednoho hustého klacku, který jsem včera našel.\!<br>Myslíš, že bude fungovat, ŠÁRO?\ang
+
+message_24:
+      text: ...\cha
+
+message_25:
+      text: Ha.\! Tak jdem?\! Ham... \! <br>Je to dokonalé místo na rande!\! Ham...\! Rozhodně s sebou vezmu své výjimečné dámy.\mav
+
+message_26:
+      text: Plavání...\! Ham, ham, ham, ham...\! By mohlo... \! <br>Ham, ham, ham, ham, ham, ham, ham, ham...\! <br>být taky celkem fajn.\van
+
+message_27:
+      text: No!\! Ham...\! Zatímco vy tam budete blbnout jak děcka, <br>já budu házet žabky!\kim
+
+message_28:
+      text: Celý týden jsem...\! ham...\! na to hledala ty nejlepší kamínky!\kim
+
+message_29:
+      text: Ha.\! Ham...\! Ať děláš co můžeš, AUBRYIN rekord nepřekonáš!\mav
+
+message_30:
+      text: Sklapni, MICHAELI!\! Děláš, jako by s tam s tebou ty holky...\! ham...\! fakt chtěly bez toho, že bys jim za to platil!\kim #bez i
+
+message_31:
+      text: Říkál jsem ti, že mi máš říkat STŘE- <br>\{\Com[2]\quake[1]AUU!!\! \Com[2]KOUFL FEM FE DO JAFYKA!!\mav
+
+message_32:
+      text: \{\sinv[2]BAHAHAHAHAHAHAHA!!\!\}<br>Ty seš ale nemehlo!\kim
+
+message_33:
+      text: \quake[1]\{FUAAAAAA!! MISTŘE, JSI ZRANĚN!?\ang #pokračuje křížová výprava proti dvojtému vé
+
+message_34:
+      text: \quake[1]\{FA FOFLE FAPLAFÍŠ, KIM!\mav
+
+#SWITCH TO BAHAHAHA
+message_35:
+      text: \{\Com[2]\sinv[2]BAHAH\{AHAHAH\{AHAHAHAHA!!\!\kim
+
+# =========================================================================================
+# Cutscene: We Got the Stuff
+# =========================================================================================
+
+#Trigger: Complete Mini-Game: Shopping and talk to PIZZA MAN in GINO'S PIZZA.
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Nejprve pojďme do pekárny!\! Mamka si tam něco objednala!\kel #přirozenější
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Pečivo...\! máme!\! Sandviče...\! taky máme!\kel #počešťování
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: To by mělo být všecko, a právě v čas.\! <br>Už zapadá slunce!\kel #přirozenější
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Pojďme zpátky ke mně domů.<br>HERO by měl co nevidět přijet!\kel
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Teď už jen musíme pro ty sušenky do pekárny v \c[11]HUBERTU\c[0]!\kel #přirozenější
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Teď už jen musíme vyzvednout naši objednávku do \c[11]GINOVY PIZZERIE\c[0]!\kel #přirozenější
+
+# =========================================================================================
+# Cutscene: Beware of MOM
+# =========================================================================================
+
+#Trigger: Enter proximity of KEL's House.
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Než půjdeme dovnitř...\! bych ti chtěl říct, že se na mě mamka asi bude zlobit s tím, jak dlouho nám trvalo nakoupit.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Vlastně jsem pro to všechno měl dojít už v poledne, <br>ale trochu se mi do toho něco zapletlo...\! <br>No, ty víš, jak to chodí.\kel
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Každopádně mě napadlo, co s tím!\kel
+
+message_83:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Takže...\! Myslím...\! že bys tam měl vejít jako první.\!<br>Když tě uvidí, hned z tebe bude hrozně nadšená.\! <br>Ale hlavně...\! mě zapomene seřvat!\kel
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Vidíš? Výhra v každém případě! Ha, ha!\!<br>Jasný?\! Dobře, jdeme!\kel
+
+# =========================================================================================
+# Cutscene: Dropping off Stuff at Kel's
+# =========================================================================================
+
+#Trigger: Enter KEL's Living Room.
+
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\{\sinv[1]MAMI, SUNNY PŘIŠEL!!\kel
+
+message_101:
+      text: \Com[2]Kde ses tak dlouho flákal, KELI? Vždyť jsem tě vyslala ráno! <br>To je tak těžké dojít pro pár sandwi-\n<KEL'S MOM>
+
+message_102:
+      text: Počkat... tohle že je SUNNY?\! No... musí být!\n<KEL'S MOM>
+
+message_103:
+      text: Tak ráda tě tady zase vidím!\! Ale... jsi tak vyhublý... Jedls pořádně?\n<KEL'S MOM>
+
+#KEL drops off groceries near KEL'S MOM.
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tady je ten nákup, mami!\kel
+
+#KEL turns to PLAYER.
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Rychle, SUNNY! Chci ti ukázat svůj pokoj!\kel #blíže orig
+
+#KEL pushes PLAYER toward the hallway.
+
+message_106:
+      text: \Com[2]Chviličku, mladý muži-\n<KEL'S MOM>
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Ahoj, mami! Uvidíme se na večeři!\kel
+
+# =========================================================================================
+# Cutscene: Kel's Bedroom
+# =========================================================================================
+
+#Trigger: Enter KEL's Room.
+
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tak jsme tady... Měj se jako doma!\!<br>Koukej! Mám tady basketbalový koš a kazeťák,<br>jak jsem si vždycky přál.\! Něco ti pustím!\kel
+
+#KEL walks up to BOOMBOX. BOOMBOX plays fish song.
+
+message_121:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Hustý, co?\kel #přirozenější
+
+#KEL looks at PLAYER.
+
+message_122:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Mamka mi ale nedovoluje ho pouštět moc nahlas, prý by to mohlo vadit SALLY.\kel
+
+#KEL has an idea.
+
+
+message_123:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Počkat!\! Já ti vlastně ještě neukázal SALLY, viď?\kel
+
+#KEL puts hand behind head.
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Ha, ha!\! Víš co, SUNNY?!\! <br>Teď už jsem taky starší brácha!\kel #přirozenější
+
+message_125:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: SALLY je moje mladší sestra.\! Mamka ji asi na večeři vezme ke stolu.\! Je hrozně malá a roztomilá, ha ha!\kel
+
+message_126:
+      text: \Com[2]KELI!\! U dveří je nějaká holka! <br>Prý že jde za tebou!\n<KEL'S MOM>
+
+#KEL is confused.
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hmm? Kdo by to tak mohl být?\kel #blíže orig
+
+# =========================================================================================
+# Cutscene: Polly's Worry
+# =========================================================================================
+
+#Trigger: Talk to POLLY.
+
+message_140:
+      text: Ahoj, KELI... Ahoj, SUNNY...\! P-Promiňte, že ruším.\n<POLLY>
+
+message_141:
+      text: Jen bych potřebovala vědět, kde je BASIL.\!<br>Myslela jsem, že by mohl být s váma.\n<POLLY> #noták, Polly se ještě nezbláznila natolik, aby si spletla Sunnyho a Basila a nevšimla si toho
+
+message_142:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: BASIL?\! Hmm...\! Ne, promiňte.\! Celý den jsme ho neviděli.\kel
+
+message_143:
+      text: Ne, nevadí, v pořádku!\! Určitě...\! Určitě se nakonec ukáže.\! <br>Ráno kamsi utekl a už se neukázal...\n<POLLY>
+
+message_144:
+      text: Kdybyste ho viděli, řekli byste mu prosím, ať se vrátí domů?\!<br>Mám o něj vážně strach.\n<POLLY>
+
+message_145:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Jasně, POLLY!\! Poohlídneme se po něm.\kel
+
+message_146:
+      text: Díky...\! Věděla jsem, že je na vás spoleh!\n<POLLY>
+
+#POLLY walks O.S. through front door.
+
+message_147:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\kel
+
+message_148:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její tlupu.\! <br>Měli bychom se ho pokusit najít, než se setmí.\kel #přirozenější
+
+#KEL turns around.
+
+message_149:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Můžeme ho jít hledat, mami?\! Prosíím?\kel
+
+message_150:
+      text: No...\! Ta holka vypadala, že o něj měla vážně strach.\!<br>\sinv[1]Uff...\sinv[0]\! Dobře.\! Ale koukejte se vrátit na večeři!\n<KEL'S MOM>
+
+message_154:
+      text: Koukejte se vrátit na večeři!\! Minulý rok mi to stačilo!\n<KEL'S MOM>
+
+
+
+# =========================================================================================
+# Cutscene: Polly's Worry v2
+# =========================================================================================
+
+#Trigger: Talk to POLLY, if you have already seen Basil at the park
+
+message_151:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: BASIL?\! Hmm...\! No, dřív jsme ho viděli v parku, ale to už je nějaká chvilka.\kel #přirozenější, blíže orig
+
+message_152:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její tlupu.\!\kel #konzistence
+
+message_153:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Hmmm... Že by BASIL byl někde v \c[11]PARKU\c[0]?\kel
+
+#KEL turns around.

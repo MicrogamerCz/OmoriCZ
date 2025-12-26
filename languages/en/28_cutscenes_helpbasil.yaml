@@ -1,0 +1,343 @@
+# =========================================================================================
+# Cutscene: Polly's Welcome
+# =========================================================================================
+
+#Trigger: Examine Basil's House Door.
+
+message_0:
+      text: Ach... Ještě že jste tady...\n<POLLY>
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Stalo se něco?\her
+
+message_2:
+      text: No...\! BASIL je zpátky, ale...\! <br>Nemluví se mnou.\n<POLLY>
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: No ne...\! Můžeme mu nějak pomoct?\her
+
+message_4:
+      text: To teď nevím.\!<br>Když se vrátil, hned šel k sobě do pokoje a zamkl se tam.\n<POLLY>
+
+message_5:
+      text: A od té chvíle jsem z něho nedostala ani slovo.\!<br>Možná jenom potřebuje být chvilku sám...\! ale...\! Nevím...\!<br>Mám o něho strach.\n<POLLY>
+
+message_6:
+      text: Mohli byste si s ním prosím zkusit promluvit?\n<POLLY>
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Samozřejmě!\! Uděláme, co můžem.\kel
+
+message_8:
+      text: Díky, všichni...\! Až budete připraveni, jen přijďte.\n<POLLY>
+
+# =========================================================================================
+# Cutscene: Basil Won't Leave His Room
+# =========================================================================================
+
+#POLLY walks up the stairs.
+#Trigger: PLAYER goes up the stairs and examines BASIL's Door.
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Ahoj BASILE, to jsem já, HERO.\!<br>Jsou tady se mnou i KEL, AUBRY a SUNNY.\! <br>Přišli jsme za tebou!\her
+
+message_21:
+      text: ...
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Mohli bychom ti... nějak pomoct?\her
+
+message_23:
+      text: ...\| ...\| ...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Jen jsme ti chtěli říct, že jsme tady.\! <br>Kdybys něco potřeboval, řekni, jo?\her
+
+message_25:
+      text: ...\| ...\| ...\| ...\| ...
+
+message_26:
+      text: Uff...\! Možná jenom opravdu potřebuje být o samotě...\!<br>Promiňte, že jsem vás s tímhle otravovala.\n<POLLY>
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelAle, nedělejte si s tím hlavu, POLLY... Tak to má někdy každý.\!<br>Ale jestli jsem si něco z těchle posledních pár dnů vzal... tak to, že by tam pro sebe kamarádi měli vždycky být!
+
+#AUBREY goes to the door.
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Ahoj, BASILE...\! Tady AUBRY.\aub
+
+message_29:
+      text: ... ... ...
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Chtěla bych ti jenom říct...<br>\!Že se ti omlouvám za to, jak jsem se k tobě chovala.\aub
+
+message_31:
+      text: ... ... ...
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Řekneš prosím něco?\!<br>Jen se chceme ujistit, že jsi v pořádku.\aub
+
+message_33:
+      text: ...\| ...\| ...\| ...\| ...
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: ...\aub
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Myslím, že bychom s ním tady měli zůstat.\aub
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: Jo...\! Naposledy jsme udělali chybu v tom, že jsme se opustili, zrovna když jsme se nejvíc potřebovali.\!<br>Tentokrát...\! zůstaneme spolu. \her
+
+#HERO turns to POLLY.
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: POLLY...\! Myslíte, že bychom tady mohli přespat?\her
+
+message_38:
+      text: Ó...\! Vy jste tak milí...\!<br>Jasně, že mohli!\n<POLLY> #spíš "hodní"? tohle je na tobě
+
+message_39:
+      text: Myslím, že by to BASILOVI udělalo radost...\!<br>Určitě by to pro něj znamenalo hodně.\n<POLLY>
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\sinv[1]SUPER!\! ZABÍRÁM SI GAUČ!!\kel
+
+message_41:
+      text: Á, tohle na mě letí nějak moc rychle!\n<POLLY>
+
+message_42:
+      text: Tak dobře. Jestli bude KEL na gauči, vy ostatní budete muset spát na dekách.\! Těch tady máme dost.\n<POLLY>
+
+message_43:
+      text: Dojdu pro ně.\n<POLLY>
+
+#POLLY walks off.
+#AUBREY turns to KEL.
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: Ts...\! A proč bys jako zrovna ty měl mít celý gauč pro sebe?\aub
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \sinv[1]Proč asi!\sinv[0]\! Kdo dřív přijde, ten dřív mele!\kel
+
+#AUBREY hits KEL.
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Auvajs! To bolelo!\kel
+
+# =========================================================================================
+# Cutscene: Stay for Basil
+# =========================================================================================
+
+#Trigger: Examine sleeping quilt.
+
+message_70:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: SUNNY...\! Vím, žes asi nečekal, že tvoje poslední noc tady dopadne takhle.\her
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Chtěl bych ti jenom říct, že i když se zítra stěhuješ...\! já budu tvůj kamarád napořád.\her
+
+message_72:
+      faceset: MainCharacter_Basil
+      faceindex: 44
+      text: Uff...\! To je ale trapný, HERO.\aub
+
+message_73:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Hej! Jenom říkám, co si myslím!\her
+
+message_74:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Ha, ha...\! HERO je hrozná ciťa...\! <br>Což ostatně ty taky, AUBRY.\kel
+
+message_75:
+      faceset: MainCharacter_Basil
+      faceindex: 47
+      text: \{\Com[2]\quake[1]C-COŽES TO ŘEKL?!\aub
+
+message_76:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Haha... \!Je super tady zase být s váma.\!<br>Poslední dobou je to furt samá škola, samé učení.<br>Na kamarády nemám vůbec čas.\her
+
+message_77:
+      faceset: MainCharacter_Basil
+      faceindex: 44
+      text: ...\aub
+
+message_78:
+      faceset: MainCharacter_Basil
+      faceindex: 46
+      text: No...\! Máš vždycky nás...\! Kdyžtak.\aub
+
+message_79:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Vidíš... Já to říkal!\! Kdo je teďka ciťa?!\kel
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 44
+      text: Ts...\aub
+
+message_81:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: Ale jo... má pravdu.\! <br>Vím, že tam pro sebe teď budeme vždycky.\! <br>Stejně, jako je s náma celou dobu MARI.\kel
+
+message_82:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: ...\her
+
+message_83:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Víš... Opravdu doufám, že se ještě uvidíme s BASILEM, než odjedeš, SUNNY.\her
+
+message_84:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Myslím, že by pořádné rozloučení nebylo od věci...\her
+
+message_85:
+      faceset: MainCharacter_Basil
+      faceindex: 46
+      text: Jo...\aub
+
+message_86:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: \sinv[1]Zíííív...\! Kámo... Já jsem ale unavený.\kel
+
+message_87:
+      text: ...\| ...\| ...\kel
+
+message_88:
+      text: \sinv[1]Chráááááp...\kel
+
+#AUBREY is surprised.
+
+message_89:
+      faceset: MainCharacter_Basil
+      faceindex: 47
+      text: Co to...\! Němu se už podařilo usnout?!\aub
+
+message_90:
+      text: \sinv[1]Chráááááp...\| Chráááááp...\| Chráááááp...\| Chráááááp...\kel
+
+message_91:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: To je prostě KEL...\! <br>V tom se třeba ani trochu nezměnil.\her
+
+#HERO turns to PLAYER.
+
+message_92:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: SUNNY...\! Díky za všechno.\! Určitě nebylo lehké vyjít po tak dlouhé době ven z domu... ale vážím si, žes toho pro nás byl schopen.\her
+
+message_93:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: A zítra je den D!\! Doufám, že z toho stěhování nemáš moc velké starosti...\! A i kdyby něco, tak máš nás!\her
+
+message_94:
+      faceset: MainCharacter_Basil
+      faceindex: 14
+      text: Ono se to zlepší.\! Stačí být pořád pozitivní.\her
+
+message_95:
+      faceset: MainCharacter_Basil
+      faceindex: 44
+      text: Hmm...\! Tak zlepší, říkáš...\aub
+
+message_96:
+      faceset: MainCharacter_Basil
+      faceindex: 46
+      text: A SUNNY...\! Až se odstěhuješ...\!<br>Mohl bys...\! nás někdy tak čas od času navštívit.\aub
+
+message_97:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Jo! A mohli bychom všichni spolu třeba na sandwich!\! A nebo do parku...\! nebo na pláž...\! nebo prostě jenom sedět doma a koukat na televizi...\! Kdo ví? Můžeme dělat cokoliv!\her
+
+message_98:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 0
+      text: Ha...\! To zní celkem fajn.\!<br>A myslíš, že by moji noví kamarádi mohli s náma?\aub
+
+message_99:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: No jasně, že mohli, AUBRY! Na to se ani nemusíš ptát!\!<br>Čím víc, tím líp.\her
+
+message_100:
+      text: \sinv[1]Chráááááp...\| No tak...\| <br>Spěte už...\kel
+
+message_101:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 0
+      text: Haha...\! Jo, furt...\aub
+
+message_102:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 0
+      text: Dobrou...\aub
+
+message_103:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Dobrou noc, KELI.\! Dobrou noc, AUBRY.\! Dobrou noc, SUNNY.\!<br>Tak zase ráno...\her
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+#Trigger: Interact with sleeping party.

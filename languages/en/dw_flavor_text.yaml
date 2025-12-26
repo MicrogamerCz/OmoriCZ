@@ -1,0 +1,1503 @@
+
+# =========================================================================================
+# ALL MIRROR
+# =========================================================================================
+
+message_0:
+      text: Vznášející se zrcadlo.\!<br>Tví kamarádi se vřele usmívají za tvými zády.
+
+message_1:
+      text: Vznášející se zrcadlo.
+
+
+# =========================================================================================
+# CATTAIL FIELD ENTRANCE (118)
+# =========================================================================================
+
+#Butt Certificate Flag
+
+message_50:
+      text: \nAUBRYIN \c[4]TVRDOHLAVÝ DIPLOM\c[0].\!<br>\sinv[1]Tak majestátní...\| Tak krásný...
+
+#============================
+
+#White Space - Map 87:
+
+#NEUTRAL ROUTE ONLY
+
+#Day 1 - Lightbulb:
+#[Open Slide]
+message_51:
+      text: Nad tebou impozantně visí černá žárovka.\! Bojíš se jí dotknout.
+#[Close Slide]
+
+#Day 2 - Lightbulb:
+#[Open Slide]
+message_52:
+      text: Nad tebou impozantně visí černá žárovka.\! Máš v sobě touhu ji ze všech sil chránit.
+#[Close Slide]
+
+#Day 3 - Lightbulb:
+#[Open Slide]
+message_53:
+      text: Nad tebou impozantně visí černá žárovka.\! Musíš ji chránit.
+#[Close Slide]
+
+#============================
+
+#North Coast - Map 90:
+
+#Sand Castle:
+message_60:
+      text: Hrad z písku.
+
+#Pail and Shovel:
+message_61:
+      text: Kyblíček a lopatka.
+
+#============================
+
+#Map 92:
+
+#Jungle Gym:
+#message_70:
+#      text: A jungle gym.
+
+#Puzzle:
+message_71:
+      text: Velice obtížné puzzle.\! Všechny dílky jsou bílé. #dílky
+
+#Puzzle:
+message_72:
+      text: Pár autíček.
+
+#Cards:
+message_73:
+      text: Karty pohozené na podlaze.
+
+#Egg:
+message_74:
+      text: Vejce. #tady je lepší vejce než vajco
+
+#Yoyo:
+message_75:
+      text: Jojo.
+
+#Banana:
+message_76:
+      text: Věčný banán.
+
+message_77:
+      text: Lavička.
+
+message_78:
+      text: Stavebnice.
+
+message_79:
+      text: Deštník.
+
+#============================
+
+#Path to Basil - Map 95:
+
+#Watering Pail
+message_84:
+      text: Konev.
+
+message_85:
+      text: Přál by sis zalít kytky?
+
+#Sunflower:
+message_86:
+      text: Slunečnice.
+
+#Lily of the Valley:
+message_87:
+      text: Konvalinky.
+
+#Roses:
+message_88:
+      text: Růže.
+
+#Gladiolus:
+message_89:
+      text: Gladioly.
+
+#Cactus:
+message_90:
+      text: Kaktus.\! Odolný a bdělý.
+
+#White Tulip:
+message_91:
+      text: White tulips.
+
+message_92:
+      text: Kytka.
+
+message_93:
+      text: Kytka?
+
+#============================
+
+#Old Shoe Entrance - Map 97:
+
+#Flowers:
+message_100:
+      text: Květináče s různými rostlinami a kytkami.\!<br>BASIL se rád o ně stará. #ně místo věci
+
+#Bone:
+message_101:
+      text: Velká kost.
+
+message_102:
+      text: Malá kost.
+
+message_103:
+      text: Výživa.
+
+message_104:
+      text: Příbytek.
+
+#============================
+
+#Old Shoe Interior - Map 98:
+
+#Bed:
+message_110:
+      text: Pohodlná postel.
+
+#Fireplace:
+message_111:
+      text: Krb.\! Oheň hřeje.
+
+#Photo:
+message_112:
+      text: Fotka někoho.
+
+message_113:
+      text: Knížky.\! Většina z nich o kytkách.
+
+#============================
+
+#Train Station - Map 105:
+
+#Streetlamp:
+message_115:
+      text: Pouliční lampa.
+
+#Lemonade Cups:
+message_116:
+      text: Skleničky limonády.
+
+#============================
+
+#Train Station - Map 106:
+
+#Construction Stuff:
+message_120:
+      text: Stavební věci.
+
+#============================
+
+#Train Station - Map 107:
+
+message_125:
+      text: Podivné artefakty ze zemí předalekých.
+
+message_126:
+      text: Malé bonbóny.\! Neprodejné.
+
+message_127:
+      text: DINO TIPS...<br>\"Tohle je slibné místo pro výkop pokladu.\!<br>Sežeňte si \c[4]LŽIČKU\c[0] a okuste nekonečné možnosti!\"
+
+message_128:
+      text: DINO EXHIBIT...<br>\"Tohle jsou pozůstatky našich předků.\"
+
+message_129:
+      text: DINO FACT...<br>\"Řada začíná tady!\" #začíná místo končí
+
+message_130:
+      text: DINO DISCLAIMER...<br>\"Zde vystavené artefakty jsou pouze příklady a nijak nereprezentují to, co byste mohli doopravdy vykopat v DINO'S DIG!\"
+
+message_131:
+      text: Příklad místa pro výkop pokladu. #bližší původnímu významu
+
+#============================
+
+#Rain Town - Map 111:
+
+message_135:
+      text: Květináče.\! Některé jsou prázdné.
+
+message_136:
+      text: Rostlinné jesle plné ZELENINÁČKŮ!
+
+#============================
+
+#Map 112:
+
+message_140:
+      text: Ohniště.
+
+message_141:
+      text: Lucerna.
+
+message_142:
+      text: Veliký bochník chleba.
+
+message_143:
+      text: Veliká kobliha.
+
+message_144:
+      text: Knihovna.\!<br>Z jedné ze starých knih vyčnívá fotka...
+#[Show SW Postcard Slide]
+message_145:
+      text: ...\! Založil jsi fotku zpět do knihy.
+
+message_146:
+      text: Pomerančová postel.
+
+message_147:
+      text: Pomerančový stůl.
+
+message_148:
+      text: Pomerančová lucerna.
+
+message_149:
+      text: Pomeranč.
+
+message_150:
+      text: Pomeranče.
+
+message_151:
+      text: Běžná okrasná kytka.\! Není na ní nic zvláštního.
+
+message_152:
+      text: Malá televize.
+
+message_153:
+      text: Fotka jakési pomerančovité bytosti.
+
+message_154:
+      text: Pomerančovitá postel.
+
+message_155:
+      text: Postel.\! Smrdí jako starý chleba. #starý místo prošlý
+
+message_156:
+      text: Sklenice džusu, který je oranžový. #bližší původnímu ýznamu
+
+message_157:
+      text: Překvapivě obyčejná postel.
+
+message_158:
+      text: Postel.\! Smrdí jako statek.
+
+message_159:
+      text: Kecy v kleci.
+
+message_177:
+      text: Letáky populárních turistických atrakcí.\! Jednou z nich je resort jménem \c[11]KONEČNÁ\c[0]. #bližší originálu
+
+message_178:
+      text: \"Navštivte \c[11]KONEČNOU\c[0], nově otevřenou v úchvatné \c[11]HLUBOKÉ STUDNĚ\c[0]!\! Užijte si tento stylový útěk, jen pár kilometrů za městem!\"
+
+message_188:
+      text: \"Utečte do výjimečného světa luxusu a komfortu a odejděte zcela změněn!\" #změněn místo přetvořen
+
+message_179:
+      text: Ovoce běžné velikosti.
+
+#============================
+
+#Map 114:
+
+message_160:
+      text: Náchlební kámen.
+
+message_161:
+      text: Velký náchlební kámen.
+
+#============================
+
+#Map 115:
+
+message_165:
+      text: Plyšová hračka. #místo vycpaná
+
+message_166:
+      text: Velká postel.
+
+message_167:
+      text: Malá postel.
+
+message_168:
+      text: Puzzle.
+
+#============================
+
+#Map 119:
+
+message_175:
+      text: Staré, roztřískané auto.
+
+message_176:
+      text: Staré křeslo.
+
+#============================
+
+#Map 120:
+
+message_180:
+      text: Zeď pokryta pozůstatky pradávné civilizace.
+
+#============================
+
+#Map 123:
+
+message_181:
+      text: Stará televize.\! Zdá se, že nefunguje.
+
+message_182:
+      text: Stará kartonová krabice.
+
+message_183:
+      text: Staré kartonové krabice.
+
+message_184:
+      text: Stará skříň.
+
+message_185:
+      text: Staré kyvadlové hodiny.\!<br>Nezdá se, že by fungovaly. #přirozenější
+
+message_186:
+      text: Stará pneumatika.
+
+message_187:
+      text: Staré pneumatiky.
+
+#============================
+
+#Map 124:
+
+message_194:
+      text: Koní voda.
+
+message_195:
+      text: Zastávka.\!<br>Zdá se, že již nefunguje.
+
+message_196:
+      text: Zastávka PLUTOVY OBĚŽNÉ DRÁHY.\!<br>Počkáš zde na PLUTA?
+
+message_197:
+      text: Stará televize.\! Slyšíš z ní, jak někdo píše na klávesnici.
+
+message_198:
+      text: Socha vyobrazující určitou otravnou osobu.
+
+
+#Changes to this after entering SW castle
+
+message_199:
+      text: Obraz vyobrazující určitou otravnou osobu.
+
+message_200:
+      text: Z tohoto kazeťáku hraje poměrně otravná písnička.
+
+message_201:
+      text: Knihovna plná knížek o určité otravné osobě.
+
+message_202:
+      text: Stůl plný předmětů spjatých s určitou otravnou osobou. #jednou je nadbytečné
+
+message_203:
+      text: Obrazovka s jakýmisi nečitelnými symboly.
+
+message_204:
+      text: Prázdný hrnek.
+
+message_205:
+      text: Šťastná rodina.
+
+message_206:
+      text: Knihovna.
+
+message_207:
+      text: Extra široká postel... jako dělaná pro tříčlennou rodinu.
+
+message_208:
+      text: Knihovna plná DVDček.\! Tahle rodina si nahrává všechno. #vypouštím snad - bližší originálu
+
+#============================
+
+#Map 125:
+
+message_210:
+      text: \"NEJZKONĚNĚJŠÍ KŮŇ - 2. MÍSTO\"
+
+message_211:
+      text: \"NEJMALINKATĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_212:
+      text: \"NEJMENŠÍ KENTAUR - 1. MÍSTO\"
+
+message_213:
+      text: \"NEJVÍCE PIĎI KENTAUR - 1. MÍSTO\"
+
+message_214:
+      text: \"NEJZKONĚNĚJŠÍ KŮŇ - 1. MÍSTO\"
+
+message_450:
+      text: \"NEJVÍCE MINI KENTAUR - 1. MÍSTO\"
+
+message_451:
+      text: \"KENTAUR NEJMENŠÍHO VZRŮSTU - 1. MÍSTO\" #krátký se na výšku nehodí, nahrazuji něčím jiným
+
+message_452:
+      text: \"NEJDROBNĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_453:
+      text: \"NEJKONDENZOVANĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_454:
+      text: \"NEJNEPATRNĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_455:
+      text: \"NEJCUDNĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_456:
+      text: \"NEJKREVETIČTĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_457:
+      text: \"NEJMIKROSKOPIČTĚJŠÍ KENTAUR - 1. MÍSTO\"
+
+message_458:
+      text: \"NEJLIDŠTĚJŠÍ ČLOVEK - CENA ZA ÚČAST\" #tady je to zřejmě myšlěno, že nevyhrál nic
+
+message_459:
+      text: \"NEJVÍCE PIĎI-MIĎI KENTAUR - 1. MÍSTO\"
+
+
+#============================
+
+#Map 126:
+
+message_220:
+      text: Líčící stolek. #ješitnost je doslovný překlad
+
+message_221:
+      text: Dalekohled.
+
+message_222:
+      text: Kazeťák.\! Je prázdný.
+
+message_223:
+      text: Lampička.
+
+message_224:
+      text: Krásný výhled.
+
+message_225:
+      text: Po domě se válí nespočet kartonových krabic.
+
+message_226:
+      text: Knihovna plná moudrosti ze všech koutů světa! #přirozenější
+
+message_227:
+      text: Jizva hněvu a smutku...
+
+#============================
+
+#Map 128:
+
+message_230:
+      text: Zvláštní kontejner. #přidáno zvláštní
+
+#============================
+
+#Map 130:
+
+message_231:
+      text: Hustý basketbalový koš.
+
+message_232:
+      text: Sklenice husté sodovky.
+
+message_233:
+      text: Husté energeťáky.
+
+message_234:
+      text: Hustá taška.
+
+
+#============================
+
+#Map 131:
+
+message_235:
+      text: Automat na \c[3]SNO-CONE\c[0].\!<br>Vypadá, že bere \c[4]SNO-CONE TICKETS\c[0].
+
+message_236:
+      text: \"OMLOUVÁM SE. SYRUP DOŠEL.\"
+
+message_237:
+      text: Automat na \c[3]SNO-CONE\c[0].\!<br>Vložíš do něj \c[4]SNO-CONE TICKET\c[0]?
+
+message_238:
+      text: Z automatu na \c[3]SNO-CONE\c[0] vypadl \c[3]SNO-CONE\c[0].
+
+
+#============================
+
+#Map 132:
+
+message_240:
+      text: Lednička.\! Ale proč?
+
+message_241:
+      text: Studená postel.
+
+message_242:
+      text: Studená polévka.\! Ale proč?
+
+message_243:
+      text: Rybářské pruty.\! Vypadají opotřebovaně.
+
+message_244:
+      text: Mrazák plný ledu.\! Ale proč?
+
+message_245:
+      text: Studená lucerna.
+
+message_246:
+      text: Díra v ledu, na rybaření jako dělaná!
+
+
+#============================
+
+#Map 149:
+
+message_250:
+      text: Plakát připomínající, abys recykloval.
+
+#============================
+
+message_251:
+      text: Zářící rostlina.\! Je studená na dotek. #bližší orig významu
+
+message_252:
+      text: Nezajímavá kniha.
+
+#Map 182:
+
+message_253:
+      text: Obraz KAPITÁNA VESMÍRŇÁKA.\!<br>\Je celý pocákaný c[3]OVOCNOU ŠŤÁVOU\c[0].
+
+#============================
+
+#Map 184:
+
+message_254:
+      text: Zvláštní přístroj.
+
+message_255:
+      text: Skříň plná zvláštních přístrojů.
+
+message_256:
+      text: Podlahu pokrývají neotevřené dárky.
+
+message_257:
+      text: Obří socha ZLATÍČKA.
+#[SW statue face changes to evil one]
+#HEY, EYES UP HERE!!!! ← This message is in XX_MELON
+#[SW statue face changes back to default]
+
+message_258:
+      text: Nápadné aranžmá kytek.\!<br>Vypadá velice okázale. #přirozenější
+
+message_259:
+      text: Nápadná stojací lampa.
+
+message_260:
+      text: Sada růžového čajového nádobí.
+
+message_261:
+      text: Dokonalá jahoda.
+
+message_262:
+      text: Ptačí budka.
+
+message_263:
+      text: Socha ZLATÍČKA.\! V uších ti stále zní její smích.
+      #[Play Oohoho SFX softly]
+
+message_264:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČKO požírající burrito”. #parodie obrazu saturn požírající svého syna
+
+message_265:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “Zlatá chvíle.”
+
+message_266:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “Zrození ZLATÍČKA.”
+
+message_267:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČČIN výkřik.” #jedná se o parodii munchova výkřiku
+
+message_268:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “Mona ZLATÍČKO.”
+
+message_269:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “Stvoření ZLATÍČKA.” #pravopis
+
+message_270:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČKO překračuje řeku Delaware.”
+
+message_271:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČKO s perlou.” #parodie dívky s perlou
+
+message_272:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČČINO odpoledne.”
+
+message_273:
+      text: Dlouhý článek popisující jedno z vystavených uměleckých děl.\!<br>Tohle nese název “ZLATÍČKOVITÁ noc.” #parodie hvězdné noci
+
+message_274:
+      text: \"ZLaTÝčKO jsy má KRÁLOVNA!\! MILUJU a VÁŽÍM SI toho co děláš výc než COKOLYV!... \!pls odpověs\"
+
+message_275:
+      text: \"zamyloval sem si tě uš ot prní chvýle, co sem tě vyděl!!!!\! BUŤ PROSÍM MOE NAŽDYCKY!!!!!\! dobře?\" #lepší bez v
+
+message_276:
+      text: Obrovská sbírka knížek... avšak nic moc zajímavého.
+
+message_277:
+      text: \"milé zlatíčko hrozně tě miluju...\! pojďme spolu mít děti a žít na vždycky.\! to by se my fakt líbilo.\! Děkuji.\"
+
+message_278:
+      text: \"milá ZLATÍČKo miluju tě.\! přijď prosim na návštěvu.\!<br>už tady na TEBE čeká.\"
+
+message_279:
+      text: ZLATÍČČIN trůn.
+
+message_280:
+      text: Na plátně se promítá film.
+
+message_281:
+      text: Část téhle knihovny je prázdná.\! Podíváš se přes ni na druhou stranu?
+
+message_282:
+      text: ZLATÍČČINO oblíbené čajové nádobí.
+
+message_283:
+      text: Bazének.
+
+message_284:
+      text: Prázdné láhve.
+
+message_285:
+      text: \c[3]OVOCNÁ ŠŤÁVA\c[0].\! Nic pro děti.
+
+message_286:
+      text: Věšák na klobouky.
+
+message_287:
+      text: Bedna. #blíže orig
+
+message_288:
+      text: Akcie jdou nahoru.
+
+message_289:
+      text: Akcie jdou dolů.
+
+message_290:
+      text: Skříňka. #blíže orig
+
+message_291:
+      text: Kulečník, nebo spíše biliár.
+
+message_292:
+      text: Polička s různými druhy \c[3]OVOCNÉ ŠŤÁVY\c[0].
+
+message_293:
+      text: Koš.
+
+message_294:
+      text: Kulečníkový stůl. #blíže orig
+
+message_295:
+      text: “O”.
+
+message_296:
+      text: Nachystaná hostina.
+
+message_297:
+      text: Barel.
+
+message_298:
+      text: Krmící areál.
+
+message_299:
+      text: Kýbl mléka.
+
+message_300:
+      text: Zvláštní stroj.
+
+message_301:
+      text: Dost pochybné vybavení.
+
+message_302:
+      text: Obrovská láhev plná tekutin.
+
+message_303:
+      text: Velká zkumavka.
+
+message_304:
+      text: Prasklá zkumavka.
+
+message_305:
+      text: Podivný výrůstek. #přirozenější
+
+message_306:
+      text: Binec.
+
+message_307:
+      text: Bedny. #blíže orig
+
+message_308:
+      text: Socha MARINY.
+
+message_309:
+      text: Socha MEDŮZY.
+
+message_310:
+      text: Socha MOLLY.
+
+message_311:
+      text: Malé zkumavky.
+
+message_312:
+      text: Polička plná věcí na pečení.
+
+message_313:
+      text: Pytle mouky.
+
+message_314:
+      text: Rodinný portrét.
+
+message_315:
+      text: Prázdné plechovky.
+
+message_316:
+      text: Jednoduchá karimatka.\! Laciná, děravá deka.
+
+message_317:
+      text: Jednoduchá karimatka.\! Použitelná, avšak nepříliš pohodlná deka.
+
+message_318:
+      text: Jednoduchá karimatka.\! Měkká, ovšem příliš tenká deka.
+
+message_319:
+      text: Jednoduchá karimatka.\! Měkká deka.\! Dobrá deka.
+
+message_320:
+      text: Jednoduchá karimatka.\! Měkká a načechraná deka.\! Rozhodně lepší, než obvyklá deka. #blíže orig
+
+message_321:
+      text: Jednoduchá karimatka.\! Měkká, jemná a dokonce vyhřívaná deka.\! Úžasné.\! Přál by sis takovou deku mít.
+
+message_322:
+      text: Jednoduchá karimatka.\! Deka z nejlepších materiálů s vyhříváním a chlazením.\! Lepší deku svět nezažil.
+
+#Cactus:
+
+message_350:
+      text: \n<NĚKDO>Domov není tady.
+
+message_352:
+      text: \n<NĚKDO>Tady není domov.
+
+message_353:
+      text: \n<NĚKDO>Domov není tam, kde tady je. #blíže orig
+
+message_354:
+      text: \n<NĚKDO>Tady není, kde domov je. #blíze orig
+
+message_355:
+      text: \n<NĚKDO>Tady není domov, kde tedy je domov? #blíže orig
+
+message_356:
+      text: \n<NĚKDO>Domov není tady, kde tedy je tady? #blíže orig
+
+message_357:
+      text: \n<NĚKDO>Kde je domov?
+
+
+#Sign:
+message_365:
+      text: \”Nepromlouvejte s kytkami. Zmatou vás.\” #trochu více formality
+
+#Lighthouse binoculars:
+message_366:
+      text: Dalekohled.\! Chtěl by ses jím rozhlédnout po okolí? #pravopis
+
+message_367:
+      text: Z druhé strany obrazovky se na tebe něco dívá.
+
+message_368:
+      text: Rozbitá keramika.
+
+message_369:
+      text: Neustlaná postel.\! Léta v ní nikdo neležel.
+
+message_370:
+      text: Starý krb.\! Uvnitř je kompletně černý.
+
+message_371:
+      text: Rozbitá lampa.
+
+message_372:
+      text: Špinavá skříň.\! Je prázdná.
+
+message_373:
+      text: Věšák.
+
+message_374:
+      text: Obyčejná okrasná květina.\! Její listy jsou ztvrdlé a křehké.
+
+message_375:
+      text: Prázdné plechovky.
+
+message_376:
+      text: Židle obrácená ke zdi.
+
+message_377:
+      text: Obrácená stolička.
+
+message_378:
+      text: Nevidíš zde žádné světlo.
+
+message_379:
+      text: Našel jsi \c[4]PRÁZDNÉ BATERKY\c[0].
+
+message_380:
+      text: Malý šuplík.
+
+#Memories
+message_400:
+      text: Plastový plameňák.\! Zdá se, že si užívá deště.
+
+message_401:
+      text: Honosná bílá poštovní schránka.
+
+message_402:
+      text: Nad jezerem se tyčí symbol \c[11]PŘEDALEKÉ LHOTY\c[0].
+
+message_403:
+      text: MARIIN košík.\!<br>Dneska je plný sendvičů s marmeládou a burákovým máslem.
+
+message_404:
+      text: AUBRYIN plyšový lilek.\! Bere si ho s sebou úplně všude. #přeložena druhá věta
+
+#SW ROOM
+
+message_420:
+      text: Poezie.\! Autorem je ZLATÍČKO.
+
+message_421:
+      text: \“Ach.\| Den.\| Jaký to byl den.\| Překrásný den.\”
+
+message_422:
+      text: Našel jsi \c[13]TULÍTKO\c[0]. #pozn. možná by mohl zůstat jako bodypillow?
+
+
+#RED liquid
+
+message_423:
+      text: Tohle není malinovka.
+
+message_424:
+      text: Tohle není jahodový sirup.
+
+message_425:
+      text: Tohle není \c[3]MELOUNOVÁ ŠŤÁVA\c[0].
+
+#SPROUT MOLE
+
+message_426:
+      text: \sinv[1]Šup... Šup... Šup...\sinv[0]
+
+message_427:
+      text: Špinavé prádlo.
+
+#SIGNS
+
+message_500:
+      text: \"Zde končí dálnice.\"
+
+message_501:
+      text: \"KRÁLOVSKÉ LÁZNĚ\"
+
+message_502:
+      text: \"OSOBNÍ PEKLO JEN A POUZE PRO TEBE\" #blíže orig
+
+
+message_503:
+      text: \"POZOR - PROBÍHÁ REKONSTRUKCE\"
+
+message_504:
+      text: \"POZOR - V BAZÉNĚ STRAŠÍ\" #přirozenější
+
+#LAST RESORT
+
+message_505:
+      text: Účty, účty, účty...
+
+message_506:
+      text: Našel jsi \c[3]RYBÍ TACO\c[0].
+
+message_507:
+      text: Obilná šťáva.\! Nic pro děti.
+
+message_508:
+      text: Dýmovnice.
+
+message_509:
+      text: Drahé knihy jen tak pro parádu. #vyhnul bych se neologismům z angličtiny
+
+message_510:
+      text: Velice drahé a kontroverzní umělecké dílo.
+
+message_511:
+      text: Nežije. #přirozenější
+
+message_512:
+      text: \c[4]P.O.S.T.E.L.\c[0]\!<br>Také známa pod názvem \c[4]PLYNO-ODSTRAŇOVACÍ STROJ NA ELEKTŘINU\c[0].
+
+message_513:
+      text: Tento výtah se neotevře.
+
+
+#DEAD SPROUT MOLE
+
+message_520:
+      text: \n<KLÍČKOKRTEK>...
+
+message_521:
+      text: \n<KLÍČKOKRTEK>...\! \}\quake[1]Otočte...\| se... #přirozenější
+
+#INFOMERCIALS
+
+message_530:
+      text: \n<REKLAMA>\}NÝNÍ SI MŮŽETE NECHAT VYRŮST CELOU SBÍRKU SRANDY...\| ZAJÍČCI, VČELIČKY, MEDVÍDCI...\| MILUJU SVÉHO NOVÉHO MAZLÍČKA! MŮŽU HO VZÍT KAMKOLIV...\| PODĚLTE SE...\| PÍSK, PÍSK, PÍSK...\| JESTLI JIM SE LÍBÍ, TAK JÁ HO MILUJU...
+
+message_531:
+      text: \n<REKLAMA>\}TOTÁLNÍ POHODLÍ...\| TEPLÍČKO...\| DO OBOU RUK...\| PŘÍMO PŘED VÁMI...\| OBSAHUJE PĚNU S VYSOKOU HUSTOTOU...\| TO JE ALE NÁPAD...\| ZAVOLEJTE HNED A OBJEDNEJTE JEN ZA 3000 MUŠLÍ...
+
+message_532:
+      text: \n<REKLAMA>\}STOPROCENTNĚ PŘÍRODNÍ...\| NANESTE PODLE NÁVODU...\| PODÍVEJTE SE NA PŘED A PO...\| PŮSOBÍ PŘÍMO SKVĚLE NA BŘIŠNÍ SVALY...\| ZAHOĎTE NEFUNKČNÍ PRODUKTY...\| MILUJU SVŮJ NOVÝ ŽIVOT... #formule na produkty
+
+message_533:
+      text: \n<REKLAMA>\}STOP! JE ZDE LEPŠÍ ZPŮSOB...\| KONEČNĚ BEZPEČNÉ, RYCHLÉ ŘEŠENÍ...\| TO DÁ ROZUM...\| A DOKONCE VE SLADĚNÉM BALENÍ...\| DIV ŽE TOHLE ČLOVĚK VYNALEZL...\| ZVEDNI TEN TELEFON...
+
+message_534:
+      text: Lepivý telefon.
+
+#BALLROOM INSTRUMENTS
+
+message_540:
+      text: Takhle zní buben.
+
+message_541:
+      text: Takhle zní tuba.
+
+message_542:
+      text: Takhle zní trubka.
+
+message_543:
+      text: Hudbostroj.
+
+#===
+
+message_550:
+      text: Zahraješ si automaty?
+
+
+message_552:
+      text: Barevná ruleta.
+
+#---
+
+message_551:
+      text: Panenka bez výrazu si prohlíží tvé rysy.
+
+#---
+
+message_553:
+      text: Tento stroj právě používá někdo jiný. #přirozenější
+
+#---
+
+message_554:
+      text: Dalekohled...<br>\!Jeho objektiv je přelepený páskou. #dalekohled
+
+message_555:
+      text: Líčící stolek...<br>\!V zrcadle ale vypadáš zvlášť nepůsobivě. #viz výše
+
+message_556:
+      text: Knížky...<br>\!Všechny mají přilepené stránky. #blíže orig
+
+message_557:
+      text: Kartonové krabice...<br>\!Jsou tady jen proto, aby zabíraly místo.
+
+message_58:
+      text: Nádherný obraz oblohy s hvězdama...<br>\!Táhne z něj horký plast.
+
+message_59:
+      text: Obří líčící stolek pro ZLATÍČČIN papundeklový ksicht. #viz výš
+
+message_590:
+      text: ZLATÍČČIN soukromý útěk. #tady potřebuju vidět, u čeho se to zobrazuje
+
+# JAWSUM portraits
+
+message_560:
+      text: \"BARON CENIL\"<br>\"189X-192X\" #král je nad knížetem, nahrazuji jiným titulem
+
+message_561:
+      text: \"KNÍŽE CENIL\"<br>\"192X-195X\"
+
+message_562:
+      text: \"PROFESOR CENIL\"<br>\"195X-197X\"
+
+message_563:
+      text: \"DOKTOR CENIL\"<br>\"197X-198X\"
+
+message_564:
+      text: \"PAN CENIL"<br>\"198X-\"
+
+message_565:
+      text: \"HERO"<br>\"199X-\"
+
+message_580:
+      text: Oblíbený hrnek PANA CENILA.
+
+message_582:
+      text: \"PAN CENIL"<br>\"198X-199X"
+
+#---
+#LOCKER ROOMS
+
+message_558:
+      text: Skříň.
+
+message_559:
+      text: Našel jsi \c[3]BALENOU VODU\c[0].
+
+message_566:
+      text: Našel jsi \c[3]PROŠLÉ MLÉKO\c[0].
+
+message_567:
+      text: Našel jsi \c[3]OVOCNOU ŠŤÁVU?\c[0].
+
+message_568:
+      text: Našel jsi \c[5]SBÍRKU POEZIE\c[0].
+
+message_569:
+      text: Skříň.
+
+message_670:
+      text: Krb.\! Oheň je mokrý.
+
+#---
+
+message_581:
+      text: Príma kolo. #trochu variace
+
+
+#---
+
+#snowflakes
+
+#+1 EXP
+message_570:
+      text: Cítíš se o trochu lépe, než předtím.
+
+#+1 CLAM
+message_571:
+      text: Cítíš se o trochu bohatěji, než předtím.
+
+#+1 JUICE
+message_572:
+      text: Cítíš se trochu veselejší, než předtím. #oprava
+
+#+1 HEART
+message_573:
+      text: Cítíš se trochu zdravěji, než předtím.
+
+message_666:
+      text: BASILOVO \c[4]FOTOALBUM\c[0].
+
+message_667:
+      text: Nastoupíš na vlak?
+
+message_668:
+      text: Zavazadlo.
+
+message_669:
+      text: Vlak jede. #blíže orig
+
+
+
+#---
+
+message_680:
+      text: \"HOSTINEC U HRNCE\"\!<br>\"DNEŠNÍ MENU - POMERANČOVÁ ŠŤÁVA, MERUŇKOVÁ SODOVKA, a MLÉKO\"
+
+message_681:
+      text: \"DNEŠNÍ MENU...\! ČERSTVÝ CHLEBA\"\!<br>\"ZÍTŘEJŠÍ MENU...\! ČERSTVÝ CHLEBA\"
+
+message_193:
+      text: Věci na pečení.
+
+message_209:
+      text: Trubička.
+
+message_682:
+      text: Růžová klouzačka.\! Voní po žvýkačkách.
+
+message_683:
+      text: Žlutá houpačka.\! Voní po banánech.
+
+#--- arrow cave
+
+message_685:
+      text: \n<SMUTNÝ OBLIČEJ>\"Měl jsi mě poslechnout.\"
+
+message_686:
+      text: \n<USMĚVAVÝ OBLIČEJ>\"Zvládl jsi to!\! Mám z tebe radost!\"
+
+message_687:
+      text: \n<FROWNY FACE>\"Promiň. Nešlo odolat.\"
+
+#--- treasure Map
+
+message_690:
+      text: Získal jsi \c[4]MAPU K POKLADU\c[0]!
+
+#clams
+message_691:
+      text: Našel jsi 1 MUŠLI!
+
+message_700:
+      text: Míček na dost zvláštním místě.
+
+#--- treasure Map
+
+
+
+#Orange Oasis
+
+message_800:
+      text: Celkem velký banán.
+
+message_801:
+      text: Celkem velké jablko.
+
+message_802:
+      text: Celkem velké hrozny.
+
+#Orange Oasis
+
+message_805:
+      text: Plán pro dvoupatrový dům.
+
+message_806:
+      text: Plán pro dvousetpatrový mrakodrap.
+
+message_807:
+      text: Kradený nábytek a všelijaké blbosti.
+
+
+message_808:
+      text: Zlatý hero sandwich.
+
+message_809:
+      text: O.
+
+message_810:
+      text: Večírek duchů!
+
+message_811:
+      text: Papírové kelímky plné \c[3]LIMONÁDY\c[0].
+
+#SPROUT MOLE COLONY
+
+message_820:
+      text: Podivná skříň. #z mě lépe zní podivná
+
+message_821:
+      text: Podivná lampička. #viz výše
+
+message_823:
+      text: Podivná stojací lampa. #viz výše
+
+message_824:
+      text: Podivný stůl. #viz výše
+
+message_825:
+      text: Obrovské křeslo.
+
+message_826:
+      text: Obrovská televize.
+
+message_830:
+      text: Samá rybí kost.
+
+message_831:
+      text: RYBÁČKOVA karimatka.\! Smrdí po octu a chaluhách.
+
+message_832:
+      text: Kniha o všech možných využitích pro ryby, rybí omáčku, rybí olej a rybí lepidlo.\! Také pár kuchařek. #tady je řeč o dalších knihách
+
+message_833:
+      text: Mořské rostlinky.
+
+message_834:
+      text: Barevné lektvary a nádoby všech možných tvarů a velikostí. #tvarů zachováno
+
+message_835:
+      text: Dlouhé stránky o výzkumu psané jazykem, kterému nerozumíš.
+
+message_836:
+      text: Pofiderní směs. Raději nesahat. #předělávka lépe vystihující originál
+
+message_837:
+      text: Výzkumné rostliny.
+
+message_838:
+      text: Mikroskop.
+
+message_839:
+      text: Knihy plné moudrosti psané jazykem, kterému nerozumíš.
+
+message_840:
+      text: BURÁKOVA postel.
+
+message_841:
+      text: ŽELÉHO postel.
+
+message_842:
+      text: PALMINČINA postel.
+
+message_843:
+      text: Staré obrazy a různé další předměty.
+
+message_844:
+      text: Lednice s chlebovým motivem. Je v ní samý chleba.
+
+message_845:
+      text: PALMINČINA knihovna.
+
+message_846:
+      text: ŽELÉHO knihovna.
+
+message_847:
+      text: BURÁKOVA knihovna.
+
+message_848:
+      text: Toust.
+
+message_849:
+      text: Záhadná polévka.
+
+#CASINO
+
+message_850:
+      text: Zábava pro šťastné i nešťastné.
+
+message_851:
+      text: Líčící stolek...<br>\!V zrcadle vypadáš zvlášť působivě! #menší úprava, stolek
+
+message_852:
+      text: \"ZAMĚSTNANEC MĚSÍCE\"\!<br>Wow...
+
+#Molly
+
+message_855:
+      text: Odpad.
+
+message_856:
+      text: Jaderný odpak.
+
+message_857:
+      text: Nástroje pro... výzkum.
+
+
+#Sculptor
+
+message_860:
+      text: Různé sochařské náčiní.
+
+
+#Yellow Sub
+
+message_900:
+      text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]DŽEM ŽIVOTA\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]COMBO MEAL\c[0]!\" #překlad, dodělat názvy
+
+message_901:
+      text: Reklamy.
+
+message_902:
+      text: \"KAŽDOROČNÍ \c[11]HLUBOKOSTUDNOVÁ\c[0] SOUTĚŽ TANCE A ZPĚVU -<br>1. MÍSTO DRŽÍ PITSTOP PIROUETTES\" #překlad, dodělat název skupiny
+
+message_903:
+      text: Polička plná kytek.\! Voní jako jaro.
+
+
+#SW Gallery
+
+message_910:
+      text: Ze zhora dolů...
+
+message_911:
+      text: \"NEDĚLE SE ZLATÍČKEM\"
+
+message_912:
+      text: \"NOC ZLATÍČKA\"
+
+message_913:
+      text: \"Mona ZLATÍČKO\"
+
+message_914:
+      text: \"VÝKŘÍČKO\"
+
+message_915:
+      text: \"STVOŘENÍ ZLATÍČKA\"
+
+message_916:
+      text: \"ZLATÍČNIKA\"
+
+message_917:
+      text: \"ZROZENÍ ZLATÍČKA\"
+
+message_918:
+      text: \"ZLATÍČKO SE SRDÍČKOVOU NAUŠNICÍ\"
+
+message_919:
+      text: \"ZLATÍČKO PŘEKRAČUJE ŘEKU DELAWARE\"
+
+message_920:
+      text: \"ZLATÍČKO POHLCUJÍCÍ BURRITO\"
+
+message_921:
+      text: \"HOUPAČKA (ZLATÉ ČASY)\"
+
+#======== ORANGE JOE'S Cliff ======
+
+message_922:
+      text: Pomerančový bazén.
+
+#======== Train Baggage ======
+
+message_923:
+      text: Kufr plný malých kostí.
+
+message_924:
+      text: Kufr plný krystalů.
+
+message_925:
+      text: Kufr plný křížků.
+
+message_926:
+      text: Kufr plný pavučin. #blíže orig
+
+message_927:
+      text: Kufr plný bobulí.
+
+message_928:
+      text: Kufr plný hlíny.
+
+#======== Train Baggage ======
+
+message_930:
+      text: Postel pro \c[3]KOBLIHY\c[0].
+
+#LAST RESORT Concierge
+
+message_931:
+      text: AUBRYIN kalendář.\! Je plný pastelkama vyznačených termínů.
+
+#ORANGES
+
+message_932:
+      text: Pomeranče, na kterých jsou napsány poznámky.
+
+message_933:
+      text: \"Mému milému bratru POMERAČNOVÉMU JOEMU.\! Doufám, že se k tobě tato zpráva donese.\! Vrať se prosím domů.\" #tohle je o oraGNe Joeovy, ne oreNGe joeovy, to jsou dvě postavy
+
+message_934:
+      text: Pomerančovité ovoce.
+
+message_935:
+      text: Sklenice oranžového pomerančovitého džusu.
+
+#tire SWING
+
+message_936:
+      text: Houpací pneumatika.
+
+#PANTRY
+message_937:
+      text: Velké zavařovačky plné medu.
+
+message_938:
+      text: Svatá kuchyň.
+
+#Quarters
+
+message_939:
+      text: Postel pro KLÍČKOKRTKY.\! Smrdí jako špinavé prádlo.
+
+#LAST RESORT OUTSIDE
+
+message_940:
+      text: Honosné stoly.
+
+#MARINA office
+
+message_941:
+      text: Plány zdařilého experimentu. #lépe se hodí zdařilého, pak lepší kontrast s nezdařilým
+
+message_942:
+      text: Krabice plná slizu.
+
+message_943:
+      text: Stůl pokrytý slizem.
+
+message_944:
+      text: Rozbitý počítač.
+
+message_945:
+      text: Plány nezdařilého experimentu. #viz výše
+
+message_946:
+      text: Pozůstatky staré kanceláře.
+
+
+#poKE
+
+message_950:
+      text: Dotkneš se skla?
+
+message_951:
+      text: Dotkneš se VELKÉHO TOUSTU?
+
+#orange Oasis
+
+message_952:
+      text: Ty krávo.
+
+#girls bathroom
+
+message_953:
+      text: \n<RŮŽOVÉ ZRCADLO>Ty, má paní,\| jsi v zemi zdejší...\|<br>ze všech nejroztomilejší! #předělávka, správné pohlaví (v holčičích záchodech) a blíže pohádce

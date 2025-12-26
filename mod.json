@@ -1,0 +1,26 @@
+{
+  "id": "1993",
+  "name": "Česká lokalizace pro Omori",
+  "description": "Vytvořili GGabey14, Freedomp, realkens a Micro",
+  "version": "1.0.0",
+  "files": {
+    "plugins": ["js/"],
+    "text": ["languages/en/"],
+    "data": ["data/"],
+    "movies": ["movies/"],
+    "maps": [],
+    "assets": [
+      "img/tilesets/",
+      "img/atlases/",
+      "img/characters/",
+      "img/system/",
+      "img/pictures/",
+      "img/animations/",
+      "img/slotmachine/",
+      "img/faces/",
+      "img/pictures/sequence/"
+    ],
+    "exec": [],
+    "fonts": ["fonts/"]
+  }
+}

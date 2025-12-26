@@ -1,0 +1,48 @@
+# =========================================================================================
+# Endings
+# =========================================================================================
+
+#Save for later: messages 0 - 40
+
+
+# =========================================================================================
+# Balcony End
+# =========================================================================================
+
+#Before arriving at Balcony: (Black screen)
+
+message_41:
+      text: \aubAhoj, OMORI! Kdes celou tu dobu byl?<br>Celou dobu tady na tebe čekáme!
+
+message_42:
+      text: \kelPřesně tak, OMORI! Na co čekáme?<br>Neměl bys nás takhle napínat! #přeloženo
+
+message_43:
+      text: \herAUBRY, KELI! Buďte trpělivý.<br>OMORI nás brzo zase navštíví!
+
+message_44:
+      text: \marNespěchej, OMORI. My nikam nepůjdeme.<br>Víš, kde nás najdeš!
+
+message_45:
+      text: \basVšichni se tě nemůžeme dočkat...\!<br>Pojď, OMORI! Zažijeme spolu na další dobrodružství!
+
+# =========================================================================================
+# Abandon End
+# =========================================================================================
+
+# Already implemented
+
+# =========================================================================================
+# Stab End
+# =========================================================================================
+
+# Already implemented
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+#Naming PLAYER
+
+message_60:
+      text: Vidíš kluka spícího ve svém pokoji...\! Jak se jmenuje? (tohle nemá žádný vliv na hru)

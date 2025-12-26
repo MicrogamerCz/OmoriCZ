@@ -1,0 +1,216 @@
+# =========================================================================================
+# Cutscene: Space Ex-Boyfriend
+# =========================================================================================
+
+#Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
+
+message_0:
+      text: No to potěš koště! Vám se to fakt povedlo!\! Je sice trochu špinavá, ale určitě je to naše \c[4]VÝJIMEČNÁ KAZETA\c[0]\!<br>Fakt děkujeme, borci.\spg #více se hodí určitě
+
+message_1:
+      text: S tímhle se nám snad konečně povede vzbudit VESMÍRNÉHO MILENCE!\spg
+
+#KEL walks up to you.
+
+message_2:
+      text: KEL ti sáhl do KAPSY a <br>vyndal z ní \c[4]VÝJIMEČNOU KAZETU\c[0].
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: No, ohledně něho...\! Tak trochu se k nám dostaly celkem špatné zprávy.\!<br>Slyšeli jsme, že se prý VESMÍRNÝ MILENEC a ZLATÍČKO...\! Že...\! No, že se rozešli.\aub #interpunkce, Aubrey nezní tak jistě
+
+#KEL slowly walks to SPACE BOYFRIEND.
+
+message_4:
+      text: \Com[2]C-Cože? Opravdu?\!<br>Tentokrát už fakt?\!<br>No ne...\! To by ale znamenalo...\spg
+
+message_5:
+      text: Že už nepomůže ani jeho \c[4]VÝJIMEČNÁ KAZETA\c[0]...\! Všechna naděje...\! je ztracena.\spg
+
+#KEL jumps.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]Hej, VESMÍRNÝ MILENČE! Našli jsme tu tvoji \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: ...\kel
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Hele... Aspoň bys nám mohl poděkovat.\kel #mluví k SXBF, hmpf bych vyjádřil jako mírně uražené "hele"
+
+#AUBREY jumps.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: No tak, hlavu vzhůru, VESMÍRNÝ PIRÁTE! Je to koneckonců jen drb...\!<br>a i kdyby to byla pravda, není všem dnům konec.\aub #drb místo fáma, myslím, není všem dnům konec, a i když to nerad znovu používám, tady se asi hlavě vzhůru nevyhnu...
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Lidé se přece z rozchodů vždycky zpamatují!\! <br>VESMÍRNÝ MILENEC bude určitě co nevidět zase svůj.\!<br>Jenom potřebuje nějaký ten čas, aby si zase zvykl.\aub #odstraňuji, že lidé se pořád rozchází - nesedí mi k originálu
+
+#KEL slowly walks to cassette player.
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Mám nápad! Prostě mu tu jeho \c[4]VÝJIMEČNOU KAZETU\c[0] pustíme na plné pecky!\!<br>To ho musí vzbudit!\kel
+
+#HERO jumps.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: No, v tom případě bychom se té \c[4]VÝJIMEČNÉ KAZETY\c[0] možná přece měli zbavit.\! Ty písničky by mu mohli připomínat jejich společnou minulost.\her #odstraňuji opakující se možná
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Podej mi ji, OMORI. U mě bude v bezpečí.\her
+
+message_14:
+      text: HERO ti sáhl do KAPSY.
+
+#HERO is confused.
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Co? Kde je?\her
+
+#KEL opens cassette player.
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KELI!! CO TO DĚLÁŠ!?\her\}
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\quake[1]\{NEEEE\{EEE\{EEEEE\{EEEEE!!!\SINV[0]\her
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \SINV[1]\{VSTÁVAT A CVIČIT, VESMÍRNÝ MILENČE!!\kel\}\}\SINV[0]
+
+#KEL puts the SWEETHEART MIXTAPE in the cassette player.
+#SWEETHEART MIXTAPE song plays.
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Ajaj...\! Tohle dobře nedopadne...\her
+
+message_20:
+      text: \Com[2]\quake[1]Co...\| \Com[2]je...\| \Com[2]tohle za...\sbf\quake[0]
+
+message_21:
+      text: \Com[2]\quake[1]\{\{PEKELNÝ...\sbf\quake[0]
+
+message_22:
+      text: \Com[2]\quake[1]\{\{\{RANDÁL!?!?\sbf\quake[0] #blíže orig
+
+#Screen shakes. SPACE PIRATE guy flies O.S. at an alarming speed.
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Safra, KELI! Koukej, cos zase provedl!\aub
+
+message_24:
+      text: \Com[2]\{\quake[1]FUAHAHA\{HAHA\{HAHA!!\sbf\sinv[0] #náhrada w
+
+message_25:
+      text: \Com[2]\quake[1]\{BOJTE SE! JSEM OPĚT VZHŮRU!!\sbf\quake[0]
+
+message_26:
+      text: ...\! Hm...\! <br>Chviličku prosím.\sbf
+
+#SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
+
+message_27:
+      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]FUAHAHAH\{AHAHAHA!!\sbf\sinv[0] #viz výše
+
+message_28:
+      text: Takhle je to lepší!\! Tak, kde jsem to skončil...?\! Ach ano!\sbf #pravopis
+
+message_29:
+      text: \Com[2]Hlupáci mrňaví!\!<br>Nejdříve vám musím poděkovat za to, že jste mě dostali z tohoto ubohého stavu.\!<br>Už mě nadále nebavilo ležet a dělat, že jsem nemocný.\sbf
+
+message_30:
+      text: Jak říkám...\! <br>\{\quake[1]CITY JSOU PRO NULY!!\sbf\}
+
+message_31:
+      text: Ta kráva, ZLATÍČKO...\!<br>Draze zaplatí za to, že se na mě vykašlala!\sbf #přirozenější, za mě zní lépe
+
+message_32:
+      text: Udělal jsem pro ni cokoliv! Dal jsem jí všechno!\!<br>\{VŠECHNO! SLYŠÍTE!?!?\sbf\} #blíže orig
+
+message_33:
+      text: Ta jedna nevděčná, malá...\! Aughhhhhh... \sbf
+
+message_34:
+      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+
+message_35:
+      text: \quake[1]\{ZAPOMEŇTE NA TO!!\! NA VŠECHNO!!\sbf\quake[0]
+
+message_37:
+      text: Najdu ji...\sbf
+
+message_38:
+      text: \{A PAK PŘIJDE ODVETA!!\sbf\quake[0] #donutím ji zaplatit v češtině nefunguje
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Promiň, ale to ti jen tak neprojde, VESMÍRNÝ MILENČE...\!<br>Nebo spíše...\aub #blíže orig a myslím, že když už ho takhle bude urážet, tak mu asi bude i tykat
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\{\Com[2]VESMÍRNÝ EX-MILENČE!!\aub
+
+message_41:
+      text: Zajímavé.\! Vy mě chcete vyzvat k souboji?\!<br>\{MÁTE VŮBEC TUŠENÍ, KDO JÁ JSEM!?\sxbf #přirozenější
+
+message_42:
+      text: \{JSEM KAPITÁN VESMÍRNÝCH PIRÁTŮ!\sxbf
+
+message_43:
+      text: Vládnu všem planetám sluneční soustavy!\sxbf
+
+message_44:
+      text: \Com[2]Síla celého vesmíru je při mně!\sxbf
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Blá, blá, blá!\! Kecy v kleci... My se tě nebojíme!\kel #dlouhé á lépe nahrazuje původní zvuk
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Jestli chceš někde dělat neplechu,<br> nejdřív se budeš muset dostat přes nás!\her #myslím, že tady se více hodí přes
+
+message_47:
+      text: ...\sxbf
+
+message_48:
+      text: Hm...\! Tak vy takhle.\!<br>Pokud jinak nedáte...\!<br>Tak to holt budeme muset vyřešit po zlém.\sxbf #přirozenější
+
+message_49:
+      text: \{\quake[1]PŘEPERU VÁS VŠECHNY!!\quake[0]\sxbf
+
+message_50:
+      text: \{\{\quake[1]JEN POJĎTE NA MĚ, POZEMSKÁ SPODINO!!\quake[0]\sxbf

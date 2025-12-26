@@ -1,0 +1,352 @@
+# =========================================================================================
+# Cutscene: Last Time at Player's
+# =========================================================================================
+
+#Trigger: Enter proximity of PLAYER's House.
+
+message_0:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: Ty jo...\! teď mi došlo.\kel
+
+message_1:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: Už jsme tady nebyli tak dlouho...<br>a to bydlíme hned vedle.\! Ten čas letí, co?\kel
+
+message_2:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Jo... To teda...\her
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Pojďme dovnitř.\! Hned po tobě, SUNNY!\her
+
+# =========================================================================================
+# Cutscene: Last Time at Player's (Cont.)
+# =========================================================================================
+
+#Trigger: Enter PLAYER's Living Room.
+
+message_10:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: Ty jo! Je tady úplně prázdno!\! <br>Hned to tady vypadá větší.\kel
+
+#HERO walks to the couch area.
+
+message_11:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Tady bývel ten gauč, na kterém jsme se dívali na televizi...\! <br>Chodili jsme sem každý týden a ráno se dívali na animáky.\her
+
+message_12:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Hele, tady je ta skvrna po \c[3]POMERANČOVÉM JOEOVI\c[0]!\! MARI se na mně kvůli ní tak naštvala...\kel
+
+message_13:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: No, protože do ní potom šlápla její kočka a roznesla to po celém baráku!\her #vypouštím ta - Hero je s Mewo jistě dobře obeznámen, a "ta jejich kočka" má pro mě náznak kočky, které nezná
+
+message_14:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: Ha ha...\! Fakt?\kel
+
+#KEL goes to the backyard door.
+
+message_15:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: Ach jo...\!<br>Vypadá, že už je na ten dům na stromě moc pozdě.\kel #dům na stromě
+
+message_16:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: To nevadí.\! Možná bychom mohli přijít i zítra.\her
+
+message_17:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: \Com[2]\{POČKAT, MÁM NÁPAD!!!\!<br>\}Co kdybychom tady prostě přespali?\kel
+
+message_18:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: Vždyť jsme tady přece úplně naposled, ne?\kel #blíže orig
+
+#KEL turns to PLAYER.
+
+message_19:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: A kdy příště budeme moct strávit noc takhle všichni se SUNNYM?\kel #blíže orig
+
+message_20:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Rád bych, ale...\! Mamka z toho asi nebude mít dvakrát radost. \her
+
+message_21:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Ale to přežije!\! Stejně už mě štve, jak mě SALLY každé ráno budí.\! A budeš s ní muset<br>umývat celý týden nádobí, za to si tohle zasloužíš! \kel #začátek přirozenější
+
+message_22:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: No...\! Máš recht.\! Asi se nic nestane.\! <br>A i kdyby, stejně bydlíme hned vedle! \her
+
+message_23:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Kam jdeš, SUNNY?\!<br>Neměl bys nás hosty nechávat o samotě...\kel
+
+message_24:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Pojďme za HEREM do pokoje s klavírem!\kel #přidám klavír. snad nebude blbé, že se to rýmuje
+
+message_25:
+      text: Sám takhle pozdě ven nechceš.
+
+# =========================================================================================
+# Cutscene: Hero on the Piano
+# =========================================================================================
+
+#Trigger: Enter Hallway.
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 15
+      text: Ach, tuhle chodbu si pamatuju!\!<br>Tady vlevo bývala skříň...\!<br>a vpravo jste měli ten klavír.  \her
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: To by mě zajímalo, jestli tam ještě pořád je.\! Půjdu se tam kouknout! \her
+
+message_42:
+      text: HERO opustil partu.
+
+#HERO leaves
+
+# =========================================================================================
+# Cutscene: Hero on the Piano (Cont.)
+# =========================================================================================
+
+#Trigger: Enter Piano Room.
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 15
+      text: Nesuďte mně.\! Už jsem dlouho nehrál.\her
+
+#HERO plays an immaculate piece.
+
+message_61:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 14
+      text: Chvastoune...\kel
+
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 14
+      text: Haha, tak tím pádem mi to asi ještě pořád jde.\her
+
+#HERO turns to PLAYER.
+
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Aha! To mi připomnělo... Hraješ ještě na housle, SUNNY?\her
+
+#HERO looks at empty violin stand.
+
+message_64:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: A...\! Nejsou tady.\! Tak tos je asi už sbalil.\her
+
+message_65:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Vybavuju si jednu písničku, kterou jsi hrával i s MARI...\!<br>Občas ji nedokážu dostat z hlavy, i když doteď ani nevím, jak se jmenuje.\her
+
+message_66:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Hráli jste to pořád dokola.\!<br>Občas to šlo slyšel až u nás!\!<br>Opravdu si nevzpomeneš?\her
+
+#[Trigger: PLAYER attempts to leave the room.]
+
+message_67:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: \sinv[1]Zíííív...\! Kámo, z ničeho nic jsem hrozně ospalý.\! <br>Možná bychom to už pro dnešek mohli zabalit.\kel\sinv[0]
+
+message_68:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Za mě dobrý. Stejně se musím ráno vzbudit brzo, chci běhat!\her
+
+message_69:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Tak kde bychom mohli spát?\! Asi u tebe v pokoji, nemyslíš?\! Pamatuju, žes nerad spával sám.\her
+
+message_70:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Jo, to zní dobře!\!<br>Kdyžtak budu klidně spát i na podlaze!<br>Pojďme pro peřiny!\kel
+
+#KEL runs out.
+
+message_71:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Vydrž, KELI! Počkej na mě!\her
+
+#HERO runs out.
+#PLAYER hears the duet when he is alone.
+
+# =========================================================================================
+# Cutscene: Talking before Bed
+# =========================================================================================
+
+#KEL and HERO are in a bed fort.
+
+message_90:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Hej, SUNNY! Udělali jsme si hrad z dek!\!<br>Snad ti to nevadí.\kel
+
+message_91:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Tohle byl čistě KELŮV nápad, v tomhle já nemám prsty...\her
+
+message_92:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: Mimochodem, HERO... se SUNNYM jsme ti sehnali dárek!\kel
+
+message_110:
+      text: KEL dal \c[4]HERŮV DÁREK\c[0] HEROVI!
+
+message_93:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 13
+      text: STARONOVÁ KUCHAŘKA TATÍKA CHIPA!\! <br>Pamatuješ si ji ještě?\kel
+
+message_94:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: No jasně, že pamatuju!<br>\!Přece jsem chtěl být kuchař, že jo...\!<br>Ale když se na to dívám zpětně, zní to celkem hloupě...\her #blíže orig
+
+message_95:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Hele, vždyť ti to celkem šlo! \!<br>A kuchař můžeš být tak či tak!\kel
+
+message_96:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Ale...\! To je v pořádku.\! Na to už nemám čas. \her #není pro něho vaření spíš nutnost, když žije na koleji?
+
+message_97:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 12
+      text: Ale...\! Ty přece rád vaříš, ne?\!<br>A něco se jíst přece musí!\! Tak...\! Proč ne?\kel
+
+message_98:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: Haha...\! Kéž by to bylo tak jednoduché, KE-\her
+
+message_99:
+      text: ...\| ...\| ...\|<br>\SINV[1]Chrrrr...\| Chrrrr...\| Chrrrr...\kel
+
+message_100:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: ...\her
+
+message_101:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: No jo, usnout mu problém nedělá...\! Tak to měl ale asi vždycky.\her
+
+#HERO looks at PLAYER.
+
+message_102:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Díky, žes nás tady nechal přespat, SUNNY.\her
+
+message_103:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 29
+      text: Musíš to tady mít celkem těžké, sám v prázdném domě...<BR>a ještě k tomu bez MARI...\her
+
+message_104:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 15
+      text: Promiň, že jsem tady nebyl pro tebe...\her
+
+message_105:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 28
+      text: Všechno mi to připadá teď tak jiné...\!<br>ale řekl bych, že ty ses ani trochu nezměnil.\her
+
+message_106:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Celkem mě to i ujišťuje! Haha!\her
+
+#HERO looks away.
+
+message_107:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: Uff...\! Ale ne, opravdu jsem tě znovu rád viděl.\! <br>Kéž by tady s náma byli i BASIL a AUBRY. \her
+
+#HERO is surprised.
+
+message_108:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 31
+      text: K-Každopádně!\! Promiň za dlouhé kecy.\! Vím, už je dost pozdě. <br>Asi už taky brzo usnu.\her
+
+message_109:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: Dobrou noc, SUNNY! Pobavíme se ráno.\her
+
+# =========================================================================================
+# Cutscene:  Player in the Bathtub
+# =========================================================================================
+
+#Trigger: Enter Bathroom.
+
+message_130:
+      text: Chtěl by ses vykoupat.
+
+#Screen turns black. PLAYER is in bath tub.
+
+message_131:
+      text: Cítíš, jak tě něco vsakuje...
+
+message_150:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 30
+      text: \herJsem rád, že se pořád staráte o MARIN klavír.\! Není na něm skoro žádný prach.
+
+message_151:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: \kelJaktože umí HERO pořád tak dobře hrát?\! Já pomalu ani nepřečtu noty...

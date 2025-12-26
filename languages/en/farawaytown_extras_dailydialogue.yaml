@@ -1,0 +1,1889 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - DAY
+#=========================================================================================
+
+# ===================Basil================
+#Examine BASIL's House Door.
+message_0:
+      text: delet this #už zase?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Hmm...\! Nic...\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Možná, že je BASIL zrovna na záchodě, nebo tak něco.\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Nevadí.\! Však se ještě uvidíme.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Teď už pojďme, SUNNY!\! Musíme přece najít to \c[4]FOTOALBUM\c[0]!\! Pojďme se poohlídnout do \c[11]PARKU\c[0]!\kel
+
+#===============ANDĚL=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & ANDĚL Fight)
+
+message_10:
+      text: \n<ANDĚL>Mistr šel ke kašně na \c[11]NÁMĚSTÍ\c[0].\! <br>Prý tam šel s nějakýma holkama...\! <br>na rande nebo cosi...
+
+#===============CHARLIE=====================
+
+#Location: FARAWAY PARK (Cutscene: Charlie & ANDĚL Fight)
+
+message_20:
+      text: \n<ŠÁRA>...
+
+message_21:
+      text: \n<ŠÁRA>....................................
+
+#===============MAVERICK=====================
+
+#Location: Town Plaza
+
+message_30:
+      text: \n<STŘEMHLAV>Dokud pro vás nejsem STŘEMHLAV, tak vám neřeknu, kde je AUBRY!
+
+
+#===============ARTIST=====================
+
+#Location: Artist's house - Agree with me! Quest
+
+message_40:
+      text: \n<MALÍŘKA>Hmmm...\! Tohle dílo...\! je zatím možná mé nejlepší!
+
+#===============Bebe=====================
+
+#Location: Town Plaza (Near the fountain)
+
+message_50:
+      text: \n<BEBE>Přála jsem si, abych jednou našla opravdovou lásku!
+
+#After Cutscene: The Maverick's Loss
+
+message_51:
+      text: \n<BEBE>Ty brďo...\! Ten kluk s bloňdatou parukou je tak hustý...\! Kéž bych byla tak sebevědomá, jako on.
+
+
+#===============Bebe's Mom=====================
+
+#Location: Supermarket
+
+message_60:
+      text: \n<BEBEHO MAMKA>Můj synek, BILLY, má hrozně rád přírodu.\! <br>S kamarádama pořád po městě sbírá a vyhazuje odpadky.
+
+message_61:
+      text: \n<BEBEHO MAMKA>Ráda vidím, že se mladí tak zajímají o naši planetu!
+
+#===============Billy=====================
+
+#Location: Supermarket
+
+message_70:
+      text: \n<BILLY>Všechny tyhle kontejnery by šlo recyklovat a<br>udělat z nich další, dokola a dokola...\! <br>Krásný koncept, co?
+
+#===============BRENT'S MOM=====================
+
+#Location: BRENT'S HOUSE
+
+message_80:
+      text: \n<BRENTOVA MAMKA>Skvělá práce...\! Určitě někdy přijď zas!
+
+#===============HROBNÍK=====================
+
+#Location: GINO'S PIZZA
+
+message_90:
+      text: \n<HROBNÍK>Nazdar, děcka.\! Teď mám zrovna přestávku!
+
+message_91:
+      text: \n<HROBNÍK>GUAHAHAHAHA!! #w na u
+
+message_92:
+      text: \n<HROBNÍK>Už deset minut se snažím rozhodnout, co bych si dal, <br>nevím, co to se mnou dneska je...\! <br>Ale s tím, že jsem u GINA, tak to jistě bude mňamka, ať už to bude cokoliv!
+
+#===============After completing Medication Quest: Charlie's Mom=====================
+
+#Location: Other street in front of her HOUSE
+
+message_100:
+      text: \n<ŠÁŘINA MAMKA>Má dcera mnou občas tak pohrdá...\! <br>To by mně zajímalo, kde je...
+
+message_101:
+      text: \n<ŠÁŘINA MAMKA>Přestože byla vždycky taková tichá, myslím, že si našla nové kamarády.\! <br>Doufám, že na mě nezapomene...
+
+#===============CRIS'S DAD=====================
+
+#Location: Where's the Remote? Couch in Cris's HOUSE
+
+message_110:
+      text: CRISŮV TÁTA nespouští oči z televize.
+
+message_111:
+      text: \n<CRISŮV TÁTA>Vždyť byla 85ka volná! Komu to tam nahráváš!?
+
+#===============CRIS'S MOM=====================
+
+#Location: CRIS'S HOUSE in the kitchen
+
+message_120:
+      text: \n<CRISOVA MAMKA>Koláč chutnal?\! I'm working on perfecting my recipe <br>for the summer-end county fair!\! I've won every year <br>I've entered so far, and this year won't be anything different!\! Ohoho!
+
+#===============CURTSEY=====================
+
+#Location: CANDY SHOP
+
+message_130:
+      text: \n<CURTSEY>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou radost!
+
+#===============Daphne & Bowen=====================
+
+#Location: Supermarket, working at the Bakery
+
+message_140:
+      text: \n<DAPHNE>Čerstvý chleba...
+
+message_141:
+      text: \n<BOWEN>Čerstvý chleba...
+
+message_142:
+      text: \n<DAPHNE A BOWEN>Nedal by sis čerstvý chleba?
+
+#===============Gino=====================
+
+#Location: Gino's Pizza: Sitting at table
+
+message_150:
+      text: \n<GINO>Ahoj, ahoj!\! Já se jmenuju GINO!
+
+message_151:
+      text: \n<GINO>Ne...\! Nepatří mi to tady...\! ale na narozeniny mi tady dávají <br>\c[3]CELOU PIZZU\c[0] zdarma, což je celkem fajn.
+
+
+#===============Hector (Dog)=====================
+
+#Location: Player's Street
+
+message_160:
+      text: \n<HEKTOR>Haf! Haf! Haf! Haf!\! Haf! Haf! Haf! Haf! Haf! Haf!\! <br>(I'm a good boy!)
+
+#===============JOCK=====================
+
+#Location: FARAWAY PARK, running around the basketball court OPĚT DUPLIKÁT Z JINÉHO DOKUMENTU. UŽ DOST.
+
+message_170:
+      text: \n<SPORTOVEC>Hff...\! Hff...\! Čau!\! Jak je?\! Hff...\!<br>Co ty tady, KELI?<br>Ty bydlíš někde tady?
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelTy jo! Tebe jsem tady nečekal, JIRKO!
+
+message_172:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kel\SUNNY, tohle je JIRKA. Je kapitán našeho školního fotbalového týmu!\! Já nevěděl, že hraješ i basketbal!
+
+message_173:
+      text: \n<SPORTOVEC>No...\! Hff...\! Jsem jen přišel zabíjet čas.\! Mám to spíš jako koníček. Ale ty se budeš pokoušet letos dostat do basketového týmu, ne?\! Tak to bys mě mohl něco přiučit!
+
+message_174:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelJo, jasně! To zní jako sranda...! Ale... raději jindy.\! Tady SUNNY, můj kamarád z dětství, se bude za pár dní stěhovat, tak jsem s ním chtěl strávit alespoň celý ten dnešek, než odjede.\! Ale rozhodně se spolu pak uvidíme!
+
+message_175:
+      text: \n<SPORTOVEC>Jasný, však něco domluvíme na příštý týden.\!<br>Stejné místo, stejný čas?
+
+message_176:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelFajn! Zní dobře! Tak čau!
+
+#After talking again
+
+message_177:
+      text: \n<SPORTOVEC>Hff...\! Hff...\! Hff...\! Hff...
+
+
+#===============JESSE'S DAD=====================
+
+#Location: FARAWAY PARK, sweeping the ground
+
+message_190:
+      text: \n<VRÁSEK>Čau hoši! Rád vás vidím.\! Jen tady zametán, sbírám \c[4]ODPADKY\c[0], šůruju...\!<br>Však to znáte...\! šichta jako každá jiná.\! Uff...\! Tolik úklidu...\! Jak má tohle zvládnout jeden člověk!
+
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's House - Tutoring Joy Quest
+
+#After completing Tutoting joy quest
+message_200:
+      text: \n<JOY>Tatínek je na mě přísný, protože můj brácha, MICHAL, přestal chodit do školy a stal se z něj muzikant...\! Občas hraje na kytaru na \c[11]NÁMĚSTÍ\c[0]!\!<br>Je fakt skvělý!
+
+#===============JESSE'S DAD=====================
+
+#Location: Joy's Dad - Tutoring Joy Quest
+
+message_210:
+      text: \n<JOYIN TÁTA>Skvělá práce! Vy byste snad mohli to doučování mít jako brigádu!\!<br>Prosím, přijďte zítra zas!
+
+
+#===============KAREN=====================
+
+#Location: Hardware store: After Picking up paint quest
+
+message_220:
+      text: \n<KAREN>Pojďte k nám prosím na návštěvu, pokud budete mít čas!\! Chtěli bychom za dva dny uspořádat kolaudaci.\! Byli bychom rádi, kdybyste se přidali!
+
+
+#===============KATIE=====================
+
+#Location: Hobbeez - Pet Rock Fight
+
+message_230:
+      text: \n<KATIE>Tenhle obchod je sice malý, ale je tady hodně vzácných a cenných sběratelských předmětů.\! Však sem na ně chodí i lidi až z města!
+
+
+#===============KIM AND VANCE'S DAD =====================
+
+#Location: Hardware Store- Fix Pipe Quest 1
+
+#After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
+message_240:
+      text: \n<VANCŮV TÁTA>Grr, grr...\! Trubka zas rupla...
+
+message_241:
+      text: \n<VANCŮV TÁTA>Safra...\! Tak asi zas zítra...
+
+
+#===============KIM AND VANCE'S MOM =====================
+
+#Location: Other Street - Missing Shears Quest
+
+#Kim's Mom moves to Kim's Mom's house living room after Missing Shears Quest. Šmikping Bonsai.
+
+message_250:
+      text: \n<KIM'S MOM>Šmik, šmik...\! šmik, šmik, šmik...
+
+message_251:
+      text: \n<KIMINA MAMKA>Nazdárek, vy dva! Nečekala jsem vás tady tak brzo!
+
+message_252:
+      text: \n<KIMINA MAMKA>Koukejte!\! Ráda pečuju o tyhle bonsaje.\!<br>Pomáhá mi to...\! se stresem.
+
+message_253:
+      text: \n<KIMINA MAMKA>A potom budu chystat večeři pro mé dvě děti, KIM a VANCE.\! Snad se zase nespozdí...\! protože jestli se spozdí, tak...
+
+message_254:
+      text: \n<KIMINA MAMKA>ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK!!
+
+#===============LUCAS (DOG) =====================
+
+#Location: Artist's house
+
+message_260:
+      text: \n<LUKÁŠ>HAF, HAF, HAF, HAF, HAF!
+
+message_261:
+      text: \n<MALÍŘKA>LUKÁŠI!\! Sklapni už!
+
+
+#===============MINCY =====================
+
+#Location: FARAWAY PARK - Company Quest 1
+
+message_270:
+      text: MINCY si upěnlivě kreslí.
+
+#===============PRETTY BOY=====================
+
+#Location: FARAWAY PARK - Pet Rock Fight
+
+message_280:
+      text: \n<KRASAVEC>Život je pro mě poslední dobou samý stres, ale koukat tady takhle na lidi mě jaksi vrací na trať.\! Možná bych sem mohl chodit častěji...\!<br>Občas ke klidu možná stačí jen vypnout a čichnout si růží!
+
+
+#===============POLLY=====================
+
+#Location: FARAWAY PARK - Pet Rock Fight
+
+message_290:
+      text: Tato mladá žena má velice starostlivý výraz.\! Nezvedne pohled od země.
+
+
+#===============POLLY=====================
+
+#Location: FARAWAY PARK
+
+message_300:
+      text:  \n<KNĚZ>Už brzo vyrazím do \c[11]KOSTELA\c[0], ale před kázáním mám takový zvyk si sem zajít.\! Už od mala jsem před lidmi hrozně nervózní, ale procházky v přírodě mi vždycky obalí nervy!
+
+
+#===============RECYCULTISTS=====================
+
+#Location: PARK
+
+message_310:
+      text: \n<RECYKLOSEKTAŘ>Jsme RECYKLOSEKTA, uctívači KOŠE SVATÉHO!
+
+message_311:
+      text: \n<RECYKLOSEKTAŘ>Neboť všichni znečištili, a tak musí přijmout, že jsou \c[4]ODPAD\c[0]!
+
+message_312:
+      text: \n<RECYKLOSEKTAŘ>\Com[2]\{REDUKCE, OPĚTOVANÉ POUŽITÍ A RECYKLACE!!!
+
+
+#===============SARAH=====================
+
+#Location: Supermarket in grocery section
+
+message_320:
+      text: \n<SÁRA>Nakupuju tady s mamkou v \c[11]HUBERTU\c[0] zdravé věci, protože včera vyhodila všechny sladkosti...\! Myslím, že má poslední dobou nějakou zdravou krizi, protože taťka nepřestává jíst nezdravě...\! A to nemůžeme jíst zdravě i nezdravě?
+
+
+#===============SARAH=====================
+
+#Location: Gino's Pizza eating Pizza
+
+message_330:
+      text: \n<SÁŘIN TÁTA>Žena mi furt říká, že den co den víc tloustnu, ale diví se, když bydlíme tak blízko \c[11]GINOVY PIZZERIE\c[0]!\! Ach...\! mmm...\! pizza...
+
+#===============SEAN=====================
+
+#Location: Hardware Store (picking paint quest)
+#After completing Picking Paint Quest:
+
+message_340:
+      text: \n<SEAN>Díky za vaši pomoc!\! Víte, my jsme oba odsud, ale zrovna jsme se přestěhovali do nového domu...\! Stojí na stejné ulici a není daleko od \c[11]KOSTELA\c[0].
+
+
+#===============TUCKER=====================
+
+#Location: Charlie's Basement - Pet Rock Fight
+
+message_350:
+      text: \n<PODIVÍN>Zdravím, lidé!\! Říkejte mi prosím TUCKER...
+
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_361:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>A... Ahoj, SUNNY...
+
+message_362:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>P-Proč se na mě tak díváš?
+
+message_363:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>Rád tě zase vidím... Haha...
+
+message_364:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>\fn<OMORI_GAME>Všechno bude v pořádku...\! Všechno bude v pořádku...\! Všechno bude v pořádku...\! Všechno bude v pořádku...\! Všechno bude v pořádku...\! Všechno bude v pořádku...\
+
+
+#========================== ANDĚL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_370:
+      text: \n<ANDĚL>Na co čumíš!?\! Víš, já jsem tady stálý zákazník!\! <br>Musím stihnout přečíst všechny ty nové komiksy, než začne škola!
+
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_380:
+      text: \n<ŠÁRA> ...
+
+#========================== THE MAVERICK================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_390:
+      text: \n<STŘEMHLAV>\Com[2]Aha!\! No jistě, kdo jiný než KEL a SUNNY!
+
+message_391:
+      text: \n<STŘEMHLAV>Možná jste dříve dneska viděli, jak jsem byl pokořen...\! ovšem teď přišel čas, abych se já, \Com[2]STŘEMHLAV, opět předvedl!
+
+message_392:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelCože? O co ti zas jde, MICHAELI?
+
+message_393:
+      text: \n<STŘEMHLAV>Grr...\! Běž s těmi svými kecy k čertu!
+
+message_394:
+      text: \n<STŘEMHLAV>\Com[2]\{KELI!\!\Com[2] VYZÍVÁM TĚ NA ZÁVOD!\}
+
+message_395:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel...Opravdu?\! Na závod?
+
+message_396:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJá ti nevím...\! Jsem celkem rychlý, víš...
+
+message_397:
+      text: \n<STŘEMHLAV>\Com[2]Hah!\! To si možná myslíš!\!<br>Ale jen počkej, až spatříš výsledek mého měsíce dlouhého úsilí!
+
+message_398:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNe, teď fakt, MICHAELI.\! Vážně tě chci varovat...\!<br>Jsem rychlý.\! Jako \SINV[1]FAKT\SINV[0] rychlý.
+
+message_399:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelNebo víš co, mám nápad!\! Aby to bylo trochu víc fér, dovolím ti místo běhání jet na svojí koloběžce!
+
+message_400:
+      text: \n<STŘEMHLAV>\{\Com[2]NEPODCEŇUJ MĚ!!\}
+
+message_401:
+      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\!<br>\Com[2]Chci vidět pořádnou výzvu!
+
+message_402:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelUff...\! Tak ty toho vážně nenecháš?
+
+message_403:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelPromiň, SUNNY.\! Hned to bude.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and THE MAVERICK who are on the other side of the track.
+
+
+message_404:
+      text: \n<STŘEMHLAV>\Com[2]\{\SINV[1]PŘŘŘŘŘIIIIPRRRRRAAAAAAAAAVIIIIIIIT!!\SINV[0]
+
+message_405:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelPozor...
+
+message_406:
+      text: \n<STŘEMHLAV a KEL>\Com[2]\SINV[1]ST\{AA\{AAA\{AAAR\{RRRRT!!\SINV[0]
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
+
+message_407:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! Počkej...\!<br>Ještě...\! hff...\! Ještě jednou...
+
+message_408:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelTo asi ne, MICHAELI...\!<br>Však... už je stejně celkem pozdě, nemyslíš?
+
+message_409:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...
+
+#THE MAVERICK's wig falls off and he picks it up and puts it back on.
+
+message_410:
+      text: \n<STŘEMHLAV>Hff...\! huff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
+
+message_411:
+      text: \n<STŘEMHLAV>Hff...\! Já...\! hff...\! musím...\! hff...\! zachránit...\! svou čest...\! hff...
+
+message_412:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelMožná jindy...\! Se SUNNYM už musíme jít...\! Tak se měj, MICHAELI!
+
+#cutscene ends
+
+
+message_413:
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>K čertu s tebou, KELI...\! Hff...
+
+message_414:
+      text: \n<STŘEMHLAV>Tohle není tvůj poslední střet se...\! \Com[2]STŘEMHLAVEM... hff...
+
+#========================== BEBE================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_420:
+      text: \n<BEBE>Myslím, že jsem dnes potkala toho pravého...\! Snad si mě všimne...
+
+#========================== BEBE'S MOM================================
+
+#Location: Candy Shop
+
+message_430:
+      text: \n<BEBE'S MOM>Chocolate is a girl's best friend!\! Although...\! diamonds are also pretty high up there...
+
+#========================== BILLY================================
+
+#Location: FARAWAY PARK
+
+message_440:
+      text: \n<BILLY>Všechna ta špína na této planetě...\! Dělá se mi z ní mdlo...\! Kéž bych ji všechnu mohl prostě...\! utřít.
+
+#========================== HROBNÍK===============================
+
+#Location: Graveyard
+
+message_450:
+      text: \n<HROBNÍK> This lot is quiet, isn't it? You can't hear the hustle and bustle of the streets here at all. Heh... The only things here are wandering spirits... and me, of course!
+
+message_451:
+      text: \n<HROBNÍK>What's with that look? I ain't dead yet!
+
+message_452:
+      text: \n<HROBNÍK>GWAHAHAHAHA!!
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_460:
+      text: \n<DAPHNE>Our family comes to \c[11]CHURCH\c[0] once a week...
+
+message_461:
+      text: \n<BOWEN>Sometimes twice...
+
+message_462:
+      text: \n<DAPHNE>Sometimes thrice...
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_470:
+      text: \n<POLLY>Dinner will be ready soon! Please feel free to make yourself at home!
+
+#After cutscene: Awkward Dinner
+message_471:
+      text: \n<POLLY>You're probably wondering who I am, right? I'm nobody really... just a nurse who is taking care of BASIL's grandmother.
+
+message_472:
+      text: \n<POLLY>A few months ago, BASIL's parents hired me as BASIL's caretaker since they travel frequently for business.
+
+message_473:
+      text: \n<POLLY>I try to do as much as I can for BASIL, since his parents don't ever seem to be home, but... ever since I've started staying here, I can't shake the feeling that BASIL is trying to avoid me...
+
+message_474:
+      text: \n<POLLY>When I look at the photos of him in his album, he doesn't even seem like the same person. I wonder if I'm doing something wrong...
+
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_480:
+      text: \n<KNĚZ>Hmm...\! Většinou nenechávám lidi se prát při kázání...\! ale přišlo mi, že jste řešili něco důležitého.
+
+message_481:
+      text: \n<KNĚZ>Ta AUBRY sem chodí každý týden už pár let v kuse, ale nikdy s nikým nemluví.\! Párkrát jsem se ji snažil oslovit...<br>ale pořád mě posílá...\! err...\! někam...
+
+message_482:
+      text: \n<KNĚZ>Připadá mi, že se s něčím trápí.\! Rozhodně by potřebovala nějakého kamaráda.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_490:
+      text: \n<SARAH>Oh, hi!\! I heard some commotion downstairs.\! Did my dad's wedding ring fall down the sink again?\! He always does that...\! He doesn't know that I know though...\! Hehe...
+
+message_491:
+      text: \n<SARAH>Anyways, hi!\! I'm SARAH! Nice to meet you!
+
+#Talk to SARAH again
+
+message_492:
+      text: \n<SARAH>Since my mom started going on her health rampage, we don't have any chips or snacks in our house anymore...\! but...\! I guess...\! carrots and celery taste pretty good if they're soaking in ranch sauce...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_500:
+      text: \n<SARAH'S DAD>Hmm...\! Hey, have you seen a big bag of potato chips lying around?\! I could've sworn I just bought a huge bag of chips the other day...
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_510:
+      text: \n<SARAH'S MOM>My family and I are supposed to start eating healthy this week, but the smell of \c[11]GINO'S PIZZA\c[0] is so tempting...\! Sigh...\! Maybe something greasy is okay once in a while...
+
+#==========================The Maverick's Dad===============================
+
+#Location: Church
+
+message_520:
+      text: \n<THE MAVERICK'S MOM>Oh, dear...\! Sniff...\! It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
+
+message_521:
+      text: \n<THE MAVERICK'S DAD>Sigh...\! MIKHAEL...\! Where are you?\! Why must you make your mother worry?
+
+#=========================================================================================
+# DAY 2 - DAY
+#=========================================================================================
+
+
+#==========================Aubrey===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_530:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aub...
+
+message_531:
+      text: AUBRY odmítá očima sejít z talíře.
+
+
+#==========================Basil===============================
+
+#Location: FARAWAY PARK near the Secret Lake entrance.
+
+message_540:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basH-Hey...\! KEL...\! Hey, \n[8]...
+
+message_541:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHey, BASIL!\! Nice to see you out and about!\! Are you feeling better after yesterday?
+
+message_542:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basHuh?\! Y-Yesterday?\! W-What do you mean?
+
+message_543:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelYou had a big stomach ache, didn't you?\! That's why you went to the bathroom during dinner, right?
+
+message_544:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basA-Ah...\! Oh, right...
+
+message_545:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelDid you want to hang out with us today?\! \n[8]'s not going to be around for much longer, you know...
+
+message_546:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basAhh...\! Mmmm...\! I don't know...
+
+message_547:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basM-Maybe tomorrow...
+
+message_548:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basI don't...\! feel so well.
+
+message_549:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelAwww...\! Alright, then.\! We'll catch up with you later!
+
+message_550:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basO-Okay...
+
+#BASIL is gone after leaving this map.
+
+
+#==========================ANDĚL===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_560:
+      text: \n<ANDĚL>FWAAAAAAAAAAAA!!
+
+message_561:
+      text: \n<ANDĚL>SUNNY a KEL!\! Co vy tady!?\! Nevíte, že je nezdvořilé ostatní otravovat, když jí!?
+
+
+#==========================CHARLIE (CHARLENE)===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_570:
+      text: \n<SÁRA>A-Ahoj...
+
+#==========================Kim===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_580:
+      text: \n<KIM>Fuj...\! To je ten šprt!\! Grr, grr...<br>Dej nám pokoj! Dneska si s tebou nechci kazit den!
+
+#==========================The Maverick===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_590:
+      text: \n<STŘEMHLAV>Au...\! můj jafyk...
+
+
+#==========================VANCE==============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_600:
+      text: \n<VANCE>Ham...\! ham...\! ham...\! ham...\! ham...\! ham...\! ham...\! ham...\! pizza...\! ham...\! ham...\! ham...\! ham...\! ham...\! ham...\! ham...\! ham...
+
+#==========================ARTIST==============================
+
+#Location: Artist's House (Lost Lucas)
+
+message_610:
+      text: \n<MALÍŘKA>Uff...\! LUKÁŠI...\! Příště mi nedělej takovéhle starosti.
+
+
+#==========================BEBE==============================
+
+#Location: Gino's Pizza
+
+message_620:
+      text: \n<BEBE>Panečku...\! Ten kluk, co se mi líbí, sedí hned támhle...\! Co si počnu?\! Co si počnu?\! Dýchej, BEBE...\! Jen se neprozraď!
+
+#==========================BEBE'S MOM==============================
+
+#Location: Gino's Pizza
+
+message_630:
+      text: \n<BEBINA MAMKA>Má starší dcera se dnes vrací z koleje! Rozhodně mi řekne, co všechno dneska mezi vámi mladými letí... Hoho! Už se nemůžu dočkat!
+
+#==========================BILLY (Recycultist)==============================
+
+#Location: FARAWAY PARK in a Recycultist's Outfit
+
+message_640:
+      text: \n<RECYKLOSEKTAŘ>Bratři a sestry, je třeba přijmout, že všichni jsme jen ODPAD.\! A přestože jsme ODPAD, dokud jsme rozložitelní, stále můžeme být spaseni.
+
+#==========================BRENT==============================
+
+#Location: Brent's House: Sneaking out Brent
+#After Sneaking Out Brent
+#Location: FARAWAY PARK running in circles
+
+message_650:
+      text: \n<BRENT>\sinv[1]Ááááááaaaaaa!!\! To je ale švanda!
+
+#==========================BRENT'S MOM==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_660:
+      text: \n<BRENTOVA MAMKA>Jak jsem říkala...\! dokážeš uvěřit tomu, jak...\! a ona na to, že...\! ale pak...\! mhmm...
+
+#==========================HROBNÍK==============================
+
+#Location: Graveyard
+
+message_670:
+      text: \n<HROBNÍK>Cítím tady cosi zkaženého...\! Ty duše...\! Šlyším je výt...
+
+message_671:
+      text: \n<HROBNÍK>Skoro jako by se připravovaly na přivítací oslavu...\! Že by se k nim brzo měl přidat kdosi blízký?
+
+message_672:
+      text: \n<HROBNÍK>Hm?\! Co na mě koukáš?\! Připadám ti snad jako magor?
+
+message_673:
+      text: \n<HROBNÍK>GWAHAHAHAHA!!\! Neodsuzuj ostatní tak rychle!\! Kdybys viděl, to, co já, hned bys mě pochopil! #"Chew, if only you could see what I've seen with your eyes"...
+
+
+#==========================CHARLIE'S MOM==============================
+
+#Location: Charlie's House
+
+message_680:
+      text: \n<SÁŘINA MAMKA>Nazdárek! Musím vám ještě jednou poděkovat za to, že jste mi vzali ty léky... Víte, vy dva mi trochu připomínáte mé dva syny!
+
+message_681:
+      text: \n<SÁŘINA MAMKA>Celkem se od sebe lišili, ale i přesto si spolu sedli. Všichni o nich říkali, že se navzájem skvěle doplňovali... Hek...hek...
+
+message_682:
+      text: \n<SÁŘINA MAMKA>Možná na tolik nevypadám, ale letos mi bude 64! Za život jsem měla sedm dětí, ale kromě mé nejmladší dcery a nejstaršího syna se už všichni odstěhovali. Můj nestarší syn ale vůbec nevychází z pokoje, takže ten se asi neodstěhuje nikdy...
+
+#==========================Cris's Dad==============================
+
+#Location: FARAWAY PARK
+
+message_690:
+      text: \n<CRISIN TÁTA>Uff...\! Opékat to maso je fuška...\! Ale až kousnu do toho šťavnatého, úžasného burgru, všechno to bude stát za to.\! Mmm...\! Jako bych ho cítil v puse už teď...
+
+message_691:
+      text: \n<CRISINA MAMKA>Pozor!\! Začínají se pálit!
+
+message_692:
+      text: \n<CRISIN TÁTA>Safra!\! Díky, mámo. To bylo těsné...
+
+#==========================Cris's Mom==============================
+
+#Location: FARAWAY PARK
+
+message_693:
+      text: \n<CRISINA MAMKA>Dnes je ale krásný den, jako dělaný na piknik!\! Přinesla jsem s sebou své speciality...\! Kuřecí koláč, citrónový koláč, a samozřejmě také můj světoznámý jablečný koláč!
+
+#==========================CURTSEY==============================
+
+#Location: Hobbeez
+
+message_700:
+      text: \n<CURTSEY>Pracuju v \c[11]CUKRÁRNĚ\c[0] a tady ráda chodím o přestávkách! Vždycky se tady najde něco, na co bych se mohla koukat, nikdy se tady nenudím. #nechodí sem spíš o pauzách / když má volno? nevím.
+
+
+#==========================GINO==============================
+
+#Location: Gino's Pizza
+
+message_710:
+      text: \n<GINO>...
+
+
+#=========================HECTOR (DOG)==============================
+
+#Location: Player's Street
+
+message_720:
+      text: \n<HEKTOR>Haf!\! Haf!\! Haf!\! Haf!\! Haf!\! Haf!\! Haf!\! Haf!\! Haf!\! Haf?\! (Am I a good boy?)
+
+
+#=========================JESSE'S DAD==============================
+
+#Location: FARAWAY PARK
+
+message_730:
+      text: \n<JESSE>Čau!\! Rád vás vidím.\! Tahle RECYKLOSEKTA, co se sem nedávno nastěhovala, mi neuvěřitelně pomáhá!
+
+message_731:
+      text: \n<JESSE>V životě jsem neviděl tolik lidí sbírat a vyhazovat odpadky. Víte, jak moc mi to ulehčuje práci?... Har har...
+
+message_732:
+      text: \n<JESSE>Ale je na nich cosi... zvláštního...
+
+
+#=========================JOY==============================
+
+#Location: Joy's House (Sneaking out Joy quest)
+
+
+message_740:
+      text: \n<JOY>Hop! \}And-a-\{Hop! \}And-a-\{Hop! Hop! Hop!
+
+#=========================JOY's DAD==============================
+
+#Location: Supermarket talking to AYEE (v dialozích se ptá JOYIN TÁTA, jak se AJÉÉÉ má. prý je trochu rušno, jinak v pohodě. Pak se AJÉÉÉ zeptá, jak se vede JOY. ta se prý učí a tvrdě pracuje.)
+
+message_750:
+      text: \n<JOYIN TÁTA>嗨妈，你今天好吗？
+
+message_751:
+      text: \n<AJÉÉÉ>有点忙，但还可以! JOY 好吗?
+
+message_752:
+      text: \n<JOYIN TÁTA>她正在读书...很努力!
+
+message_753:
+      text: Vůbec jim nerozumíš.
+
+
+#=========================KAREN==============================
+
+#Location: Sean's House
+
+message_760:
+      text: \n<KAREN>Zrovna tapetujeme! Potom se stavíme do \c[11]HUBERTA\c[0], abychom koupili jídlo na zítřek... To je pořád práce!
+
+#=========================KEL'S DAD==============================
+
+#Location: Hardware Store Garden
+
+#Exclamation on Kel
+
+message_770:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelAjaj... Hej... éeee... SUNNY... Pojďme raději jinam!
+
+message_771:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \n<KELŮV TÁTA>KELI! Jsi to ty? Co tady děláš? Neměl jsi jít mamce nakoupit?
+
+message_772:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelA-Ahoj, TATI! Já tě ani nepoznal! Ha ha...
+
+message_773:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelNo tak, SUNNY... Musíme jít...
+
+message_774:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \n<KELŮV TÁTA>Aha, dobře. Tak zatím, chlape!
+
+
+#=========================KIM'S MOM==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_780:
+      text: To mi připomíná, jak jsme tehdy...\! jo...\! a pak...\! upřímně, celé mi to připadalo takové...\! ano, to určitě...
+
+
+#=========================LUCAS (DOG)==============================
+
+#LOCATION: Player's Street (Lost Lucas quest)
+
+message_790:
+      text: Haf, haf! Haf!
+
+
+#=========================POLLY==============================
+
+#LOCATION: Artist's House
+
+message_800:
+      text: \n<POLLY>Slunečnice jsou mé oblíbené...
+
+#=========================PREACHER==============================
+
+#LOCATION: Church
+
+message_810:
+      text: \n<KNĚZ>Poslední dobou z tohohle hřbitova mám takový zvláštní pocit.\! To se naposledy dělo, když...\! Vlastně nic...\! To musí být jen náhoda.
+
+
+#=========================SARAH==============================
+
+#LOCATION: Sarah's House
+
+message_820:
+      text: \n<SÁRA>Rodiče se poslední dobou pořád hádají...\! Snad bude zase všechno v pořádku.
+
+
+#=========================SARAH's DAD==============================
+
+#Location: Gino's Pizza
+
+message_830:
+      text: \n<SÁŘIN TÁTA>Žena mi furt říká, že den co den víc tloustnu, ale diví se, když bydlíme tak blízko \c[11]GINOVY PIZZERIE\c[0]!
+
+message_831:
+      text: \n<SÁŘIN TÁTA>Uff...\! Ale asi bych si tady vážne neměl nic dávat.\! Včera večer ze mě vycítala salám a dost se rozzlobila...
+
+
+#=========================SARAH's MOM==============================
+
+#Location: Sarah's House (Toilet seat quest)
+
+message_840:
+      text: \n<SÁŘINA MAMKA>Můj manžel je takové prase! Celá rodina máme mít společnou dietu, ale včera z něho šel cítit salám!
+
+#=========================SEAN==============================
+
+#Location: SEAN'S HOUSE
+
+message_850:
+      text: \n<SEAN>Hff...\! Hff...\! Je to sice dřina, ale bude to stát za to!
+
+
+#=========================================================================================
+# DAY 2 - SUNSET
+#=========================================================================================
+
+
+#=========================BASIL==============================
+
+#Location: BASIL'S ROOM IN BED
+
+message_860:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \n<BASIL>SUNNY...\! Z tohohle...\! už není útěku... nebo snad je?
+
+message_870:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelChudák BASIL... Poslední dobou žije jako ve zlém snu...
+
+message_880:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herBASILE...\! Musíš být unavený.\! Prosím, odpočívej...\! Zítra pro tebe zase zajdeme.
+
+#=========================ANDĚL==============================
+
+#Location: ANDĚL's Bedroom
+
+message_890:
+      text: \n<ANDĚL>FWAAAAAAAAAAAAA!!! Co děláte u mě doma!?\! Že vás sem pustila moje sestra?
+
+message_891:
+      text: \n<ANDĚL>Fufufu...\! Každopádně... teď je za mě ta správná chvíle na odvetu!\! Tak pojďte!
+
+#[Battle: ANDĚL]
+
+#player win
+message_892:
+      text: \n<ANDĚL>Hm... já si stejně začínal jen proto, abych okoukal vaše slabé místa... Příště vás vyhrát nenechám!
+
+#player lose
+message_893:
+      text: \n<ANDĚL>Hm... Že jste mě nechali? Jde to poznat... Možná jsem děcko, ale nejsem blbej!
+
+
+#=========================CHARLIE==============================
+
+#Location: Charlie's Bedroom
+
+#Charlie explanation mark
+
+message_900:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelPočkat...\! Ty jsi ŠÁRA?\! Celou dobu jsem si myslel, že se jmenuješ SÁRA...
+
+message_901:
+      text: \n<ŠÁRA>... Ahoj...\! Já jsem...\! ŠÁRA...
+
+message_902:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelTak... proč jsi nám to neřekla?!
+
+message_903:
+      text: \n<ŠÁRA>...
+
+
+#=========================KIM==============================
+
+#Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
+
+message_910:
+      text: \n<KIM>AUBRY...
+
+message_911:
+      text: \n<KIM>Aha!\! Grr...\! Grr...\! Tobě připadá normální někomu takhle vtrhnout do pokoje!?\! Že ty ses zpřáhnuj s mojí mamkou?\! Pouští sem každého, kdo ji je schopen vyslechnout...
+
+#====================THE MAVERICK==============================
+
+#Location: The Maverick's Bedroom
+
+message_920:
+      text: \n<STŘEMLHAV>Moji sourozenci jsou hrozní, že? Všichni jsou tady úplně stejní!
+
+#====================VANCE==============================
+
+#Location: Vance's Bedroom (Mom's House)
+
+message_930:
+      text: \n<VANCE>Ham... Ham... Ham... \sinv[1]Mmm... \c[3]BONBÓNY\c[0]...\sinv[0]
+
+message_931:
+      text: \n<VANCE>A, nazdar. Jak je?
+
+message_932:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelCo? Jaktože jsi tak v klidu... Bych čekal, že bys nás vyzval na souboj, nebo tak něco
+
+message_933:
+      text: \n<VANCE>Hmm... Ne, ani proti vám nic moc nemám. Jenom dělám to, co KIM.
+
+message_934:
+      text: \n<VANCE>Jsem jen o rok starší, ale kvůli mojím vousům mi to nikdo nevěří...
+
+message_935:
+      text: \n<VANCE>Vím, že je hrozná kecka, ale má dobrý srdce. A já? No, jestli je ona srdce, tak já jsem svaly! Gahaha...
+
+
+#====================ARTIST==============================
+
+#Location: Artist's house
+
+message_940:
+      text: \n<MALÍŘKA>Připravuji svůj nový obraz, ale upřímně nevím, jak začít... Sehnat dobré nápady je dřina!
+
+
+#====================Bebe==============================
+
+#Location: Bebe's House
+
+message_950:
+      text: \n<BEBE>Měla bych mu napsat milostný dopis a říct mu, co k němu cítim...
+
+#====================Bebe's Mom==============================
+
+#Location: Bebe's House (Pick up furniture quest)
+
+message_960:
+      text: \n<BEBINA MAMKA>Můj kávovar je přímo v kuchyni. Ale opatrně... Je dost těžký!
+
+#====================Brandi==============================
+
+#Location: Bebe's House
+
+message_970:
+      text: \n<BRANDI>Ahoj!\! Já jsem BRANDI...\! Dneska jsem přijela z koleje.\! A už teď mi chybí městský život!\! Je tady hrozné ticho...
+
+#====================BRENT'S MOM==============================
+
+#Location: Hardware Store looking at flowers
+
+message_980:
+      text: \n<BRENTOVA MAMKA>Občas se tady chodím jen dívat na kytky. Přemýšlím o tom, že bych jednu domů koupila, ale slyšela jsem, že by prý lákala mravence...
+
+message_981:
+      text: \n<BRENTOVA MAMKA>Už to horko je dost... Nechci si představovat, jaké by to bylo s mravenci!
+
+
+#====================HROBNÍK==============================
+
+#Location: Graveyard (Lost dentures quest)
+
+message_990:
+      text: \n<HROBNÍK>Pomoc!\! Moe suby sou f čudu!!\! Naši byfte mi je!?
+
+#After finding teeth:
+
+message_991:
+      text: \n<HROBNÍK>GWAHAHAHA!!
+
+message_992:
+      text: \n<HROBNÍK>Díky, kluci.\! Ti duchové si ze mě občas utahují!
+
+message_993:
+      text: \n<HROBNÍK>Nemyslí to zle...\! Ale v tomhle věku už mě to taky moc nebere...
+
+
+#====================CRIS'S MOM==============================
+
+#Location: Supermarket
+
+message_1000:
+      text: \n<CRISINA MAMKA>Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!
+
+#====================CURTSEY==============================
+
+#Location: Pharmacy
+
+message_1010:
+      text: \n<CURTSEY>PANÍ CANDICE mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]... Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
+
+#====================KAREN==============================
+
+#Location: Supermarket
+
+message_1020:
+      text: \n<KAREN>Hmmm... Já nikdy nevařila pro oslavu plnou hostů... Možná jsem si nastavila moc vysokou laťku... #tento dialog se o pár řádků CELÝ OPAKUJE ZNOVA. mohl bych si udělat nějaké bingo pro všechny takovéhle příhody
+
+message_1021:
+      text: \n<KAREN>Měla bych koupit něco kvalitní, nebo se soustředit, aby toho bylo hodně? A jakou značku bych měla kupovat? A jsou zelené a červené cibule stejné?
+
+message_1022:
+      text: \n<KAREN>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
+
+message_1023:
+      text: \n<SEAN>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+
+message_1024:
+      text: \n<KAREN>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+
+
+#====================KEL'S DAD==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room watching TV
+
+message_1030:
+      text: \n<KELŮV TÁTA>Chtěl jsem mamce pomoct s vařením, ale ty víš, jaká je v kuchyni... A tak mi nezbývá nic, než zbytek dne prosedět u televize.
+
+#After Cutscene: Kel's Mom
+#Location: Kel's Dining Room
+
+message_1031:
+      text: \n<KELŮV TÁTA>Nezapomeň mamce pochválit večeři!
+
+#After Cutscene: Convincing Kel's Mom:
+#Location: Kel's Living Room
+
+message_1032:
+      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chybel! Určitě se brzo ale uklidní... Jen si z toho nedělejte hlavu! Určitě to bude v pohodě.
+
+#KEL'S DAD leaves to KEL'S PARENT'S ROOM.
+#Examine KEL'S PARENT'S ROOM.
+
+message_1033:
+      text: Dveře jsou zamčené.
+
+#====================KEL'S MOM==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room
+
+message_1040:
+      text: \n<KELOVA MAMKA>Dobře, můžeš jít...\! Ale buď před večeří zpátky!
+
+
+#====================Kim and Vance's Mom==============================
+
+#Location: Kim's House
+message_1050:
+      text: \n<KIMINA MAMKA>Šmik... šmik... šmik... šmik... šmik...
+
+message_1051:
+      text: \n<KIMINA MAMKA>Můj syn a moje dcera už tady měli dávno být! Mají snad něco důležitějšího na práci, než být s jejich maminkou?!
+
+message_1052:
+      text: \n<KIMINA MAMKA>ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK!!
+
+#====================Polly==============================
+
+#Location: Basil's House
+message_1060:
+      text: \n<POLLY>Všimla jsem si, že BASIL rád chodí do parku, ale když jsem se tam šla podívat, nikde jsem ho neviděla... Jeho babičce není nejlíp...
+
+message_1061:
+      text: \n<POLLY>Chtěla jsem ho... připravit na to, co nás asi nemine, ale když jsem mu to začala vysvětlovat, vyděsil se a utekl... Uff... Doufám, že je v pořádku...
+
+
+#====================SARAH==============================
+
+#Location: Sarah's House
+
+message_1070:
+      text: \n<SÁRA>Rodiče se ještě nevrátili. Už je pozdě... Kdepak by mohli být?
+
+#talk again
+
+message_1071:
+      text: \n<SÁRA>Snažím se jíst zdravě, ale došel nám farmářský dresink... Jak mám teď snášet mrkev a celer?
+
+#====================SARAH'S DAD==============================
+
+#Location: Candy Shop (Anniversary chocolate quest)
+
+message_1080:
+      text: \n<SÁŘIN TÁTA>Vážně jsi mi teď zachránil život. Kdybys z něčím potřeboval pomoct, klidně mi zavolej. Jsem ti dlužný!
+
+#====================SARAH'S MOM=============================
+
+#Location: Gino's Pizza (Anniversary Pizza quest)
+
+message_1090:
+      text: \n<SÁŘINA MAMKA>Můj milý! Cítím, jak se červenám... No tohle výročí nikdy nezapomenu!
+
+
+#====================SEAN=============================
+
+#Location: Supermarket
+
+message_1100:
+      text: \n<KAREN>Hmmm... Já nikdy nevařila pro oslavu plnou hostů... Možná jsem si nastavila moc vysokou laťku...
+
+message_1101:
+      text: \n<KAREN>Měla bych koupit něco kvalitní, nebo se soustředit, aby toho bylo hodně? A jakou značku bych měla kupovat? A jsou zelené a červené cibule stejné?
+
+message_1102:
+      text: \n<KAREN>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
+
+message_1103:
+      text: \n<SEAN>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+
+message_1104:
+      text: \n<KAREN>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+
+
+#=========================================================================================
+# DAY 3 - DAY
+#=========================================================================================
+
+#Location: Hobbeez looking at trading cards in the display case. (Pet Rock Fight)
+
+message_1110:
+      text: \n<ANDĚL>Look at all these super rare and expensive trading cards... I want to complete my collection, but I only have $5 on me! It sucks to be a kid...
+
+message_1111:
+      text: \n<ANDĚL>whoa, what's this!? I found a fresh $20 bill in my butt pocket! This must be my lucky day! Fufufufu... I guess I can afford at least one super rare card today...
+
+#If player completes quest: Bring ANDĚL home
+
+message_1112:
+      text: ANDĚL stojí jako tvrdé Y.\! A asi tak dlouho bude stát, dokud se nezotaví.
+
+#==============CHARLIE (CHARLENE)======================================================
+
+#Location: Hardware Store - Flower Quest
+
+message_1120:
+      text: \n<SÁRA>A-Ahoj...
+
+message_1121:
+      text: \n<SÁRA>Na... Tohle je pro tebe...
+
+message_1122:
+      text: Získal jsi \c[4]KYTIČKOVOU SPONKU\c[0].
+
+message_1123:
+      text: \n<SÁRA>Kytičky jsou tak krásné...
+
+
+#==============KIM======================================================
+
+#Location: Park (Ding-Dong)
+
+message_1130:
+      text: \kimAle, ale, koho to tu máme?! AUBRY se šprtama?!
+
+message_1131:
+      text: \aubČau, KIM. Jak je?
+
+message_1132:
+      text: \kimCelkem dobrý, celkem dobrý. Po tom, co jsme se šli kouknout na tu kopu odpadků, jsme se všichni rozprchli vlastním směrem.
+
+message_1133:
+      text: \kimTáta říkal, že nás dneska vezme na jakousi super hustou oslavu... to by mohlo být fajn.
+
+message_1134:
+      text: \vanJóoooo! Jídlo zdarma!
+
+message_1135:
+      text: \kimA aby nám to rychleji uteklo, zahrajeme si naši oblíbenou hru... a to sice... ZVONKOHRU!
+#Ding Dong Ditch: Explanation
+
+
+#==============The Maverick===========================================
+
+#Location: Hobbeez
+
+message_1140:
+      text: \n<STŘEMHLAV>Celý den se snažím dohrát tuhle hru, ale pořád mi dává zabrat. Uff... Proč pořád nemůžu najít něco, co by mi šlo!?
+
+#==============VANCE===========================================
+#Location: Park (Ding-Dong)
+
+message_1150:
+      text: \vanJen... samé... odpadky...
+
+#==============ARTIST===========================================
+#Location: Artist's House (Bring back ANDĚL)
+
+message_1160:
+      text: \artAch...\! Konečně, klid a pokoj...
+
+#==============AUBREY'S MOM===========================================
+#Location:  Aubrey's House
+
+message_1170:
+      text: \n<AUBRYINA MAMKA>...
+
+#==============BEBE===========================================
+#Location:  FARAWAY PARK
+
+message_1180:
+      text: \n<BEBE>Řekla jsem své starší ségře o tom klukovi, který se mi líbí! Chtěla by ho vidět, a tak čekáme tady. Většinou se tady schází se svými kamarády...
+
+#==============BEBE'S MOM===========================================
+#Location:  FARAWAY PARK
+
+message_1190:
+      text: \n<BEBINA MAMKA>Co bych tak mohla uvařit mým dcerám za večeři?... A ještě k tomu teď, když se BRANDI vrátila z koleje! No, stejně většinou nevařím, tak asi dneska zase něco objednám.
+
+#==============BRANDI===========================================
+#Location:  FARAWAY PARK
+
+message_1200:
+      text: \n<BRANDI>Když mi BEBE řekla o tom klukovi, který se ji líbí, musela jsem ho vidět na vlastní oči.\! Zatím pořád nic...\! ale má prý jasné poznávací znamení - nápadně umělou, blonďatou paruku.
+
+message_1201:
+      text: \n<BRANDI>Uff...\! BEBE na kluky nemá moc dobrý vkus...\! Kdo ji bude hlídat, až zase odjedu na kolej?
+
+#BRANDI: If Hero is the leader
+
+message_1202:
+      text: \n<BRANDI>Ale! Ahoj, HERO! Hehe... Divné tě vidět tady, a ne u nás na škole. Taky za rodinou?... To jo, rodina je skvělá, ale nemůžu se dočkat zpátky za kámoškama... Tady doma je to hrozná nuda, viď?
+
+#==============BRENT===========================================
+#Location:  Brent's House
+
+message_1210:
+      text: \n<BRENT>Dík za pomoc s těma pracovníma sešitama... Teď už bych je měl zvládat sám, ale stejně vám děkuju!
+
+#If you snuck out Brent
+
+message_1211:
+      text: \n<BRENT>Pššt... doopravdy bych ti chtěl poděkovat za to, že jsi mě odsud dostal... Hehehe... Jsi ten nejlepší učitel, kterého jsem kdy zažil!
+
+#==============BRENT'S MOM===========================================
+#Location:  Kim's House
+
+message_1220:
+      text: \n<BRENTOVA MAMKA>Jak jsem řekla... věříš tomu?... A ona... ale pak... mhmm...
+
+#==============HROBNÍK===========================================
+#Location:  Graveyard
+
+message_1230:
+      text: \n<HROBNÍK>Duše tady vyjí dnem i nocí...\!<br>Budu se za tohle městečko modlit. Dnes bude někdo truchlit.
+
+#==============CHARLIE'S MOM===========================================
+#Location:  Charlie's House
+
+message_1240:
+      text: \n<SÁŘINA MAMKA>A, vídím, že sis našla nové kamarády! Zdravím! Vítejte!
+
+message_1241:
+      text: \n<SÁŘINA MAMKA>Je od vás hezké, že tak krásný den trávíte navštěvovaním staré paní. Rozhodně jsou věci, které byste dělali raději.
+
+#==============CRIS'S DAD===========================================
+#Location:  Cris's House (where is the remote quest 3)
+
+message_1250:
+      text: \n<CRISIN TÁTA>Hej!\! To bylo pozdě!\! Kde je k sakru ta vlajka!?
+
+#==============CRIS'S MOM===========================================
+#Location:  Cris's House
+
+message_1260:
+      text: \n<CRISINA MAMKA>Naposledy co jsem pekla koláč, voněl jaksi divně...
+
+#==============Daphne and Bowen===========================================
+#Location:  The Mavericks House (Pet Rock Fight)
+
+message_1270:
+      text: \n<DAPHNE>Náš mladší brácha MICHAEL se chleba nedotlk ani lopatou už od šesti...
+
+message_1271:
+      text: \n<BOWEN>Brzy bude muset přijmout svůj osud... Není pro něj útěku...
+
+message_1272:
+      text: \n<DAPHNE>Hlupáček bratříček...
+
+message_1273:
+      text: \n<BOWEN>Hlupáček bratříček...
+
+#==============JESSE===========================================
+#Location:  Jesse's House
+
+message_1280:
+      text: \n<JESSE>Uff... Když jsem byl mladší, měl jsem dva super kamarády, jmenovali se BRENT a JOY, ale potom, co začali až moc řešit školu, jsem se s nima rozešel. Zajímalo by mě, jak jsou na tom dnes...
+
+#==============JESSE'S DAD===========================================
+#Location:  FARAWAY PARK
+
+message_1290:
+      text: \n<JESSEHO TÁTA>Vůbec nevím, jak se sem tyhle odpadky přes noc dostaly. Beztak v tom má prsty RECYKLOSEKTA...
+
+message_1291:
+      text: \n<JESSEHO TÁTA>Uff... Já to tady budu snad uklízet nadosmrti.
+
+
+#==============JOY===========================================
+#Location:  Joy's House
+
+message_1300:
+      text: \n<JOY>Můj starší brácha MICHAL řekl, že odchází z domu, a že se bude živit jako muzikant... Práskla jsem to omylem TAŤKOVI, i když jsem prý neměla. Snad na mě nebude MICHAL naštvaný...
+
+#==============JOY'S DAD===========================================
+#Location:  Joy's House (Michael's Lunch quest)
+
+message_1310:
+      text: \n<JOYIN TÁTA>Fňuk... Ach... Proč jsem na něho byl tak tvrdý?...
+
+message_1311:
+      text: \n<JOYIN TÁTA>Snad...\! Snad se někdy zase uvidíme...\! <br>Možná ho uvidím jednou v televizi!\! Haha!
+
+#==============KAREN===========================================
+#Location:  Sean's House (Cooking help quest)
+
+message_1320:
+      text: \n<KAREN>Opět vám děkuji, za vaši pomoc. You're all such genuinely nice people! See you at the party tonight!
+
+message_1321:
+      text: \n<SEAN>We'll be waiting for you!
+
+#==============KEL'S DAD===========================================
+#Location: FARAWAY PARK (Forgot Meat quest)
+#Finish Forgot Meat (Before Sunset)
+
+message_1330:
+      text: \n<KELŮV TÁTA>Víte, později byste se se nám mohli stavit. Rozhodně bych se s váma o tyhle mňamozní burgry chtěl podělit!
+
+message_1331:
+      text: \n<KELŮV TÁTA>Ale teď klidně běžte dál a užívejte si to krásné počasí!
+
+#==============KEL'S MOM===========================================
+#Location:  FARAWAY PARK
+
+message_1340:
+      text: \n<KELOVA MAMKA>No ahoj, kluci! Rád vidím, že chcete být i se mnou!
+
+message_1341:
+      text: \n<KELOVA MAMKA>Klidně chvilku zůstaňtě. Dneska je přece skvělé počasí!
+
+#==============KIM and VANCE'S DAD===========================================
+#Location:  HARDWARE STORE (fix pipe quest 3)
+
+
+message_1350:
+      text: \n<VANCŮV TÁTA>Hej!\! Víš, mám dvě děti<br>tak staré, jako ty!\! Jmenujou se VANCE a KIM!
+
+message_1351:
+      text: \n<VANCŮV TÁTA>S jejich mamkou jsem se rozvedl ještě když byli malí...
+
+message_1352:
+      text: \n<VANCŮV TÁTA>Nevídám se s nima tak často, jak bych chtěl, ale když už jo, tak si je vždycky rozmazluju \c[3]SLADKÝM\c[0]! Heh heh...
+
+message_1354:
+      text: \n<VANCŮV TÁTA>Jsou to fajn děcka...\! fakt!\! Občas se o ně bojím, ale alespoň mají sami sebe, kdyby něco...
+
+#==============KIM and VANCE'S MOM===========================================
+#Location:  Kim's House
+
+message_1360:
+      text: \n<KIMINA MAMKA>To je skoro jako tehdy, jak jsme...\! jo...\! a pak...\! no popravdě bych řekla,...\! ano, jistě...
+
+#==============Lucas(Dog)===========================================
+#Location:  Artist's House, running around ANDĚL
+
+message_1370:
+      text: \n<LUKÁŠ>Hůůůů!\! Haf, haf, haf!
+
+#==============Polly===========================================
+#Location:  Basil's House
+
+message_1380:
+      text: \n<POLLY>Myslím, že by BASILA potěšilo, kdybyste přišli na návštěvu. Poslední dobou byl jenom sám, rozhodně už musí být osamělý...
+
+message_1381:
+      text: \n<POLLY>Jsem ale ráda, že si ho jeho kamarádi tak váží.
+
+#==============Preacher===========================================
+#Location:  Church
+
+message_1390:
+      text: \n<KNĚZ>Obávám se, že dnes mše nebude, ale jen se klidně procházejte dál. Všichni jsou vítáni.
+
+#==============Sally===========================================
+#Location:  FARAWAY PARK
+
+#Randomly selected
+message_1400:
+      text: \n<SALLY>Abůůůuu... Bůůůůuuu...
+
+message_1401:
+      text: SALLY udělala zvláštní výraz.
+
+message_1402:
+      text: SALLY ti vzala nos.
+
+message_1403:
+      text: SALLY ti sedla na nohu.
+
+message_1404:
+      text: SALLY se překulila.
+
+#==============SARAH===========================================
+#Location: Sarah's House
+
+message_1410:
+      text: \n<SÁRA>Máma říkala, že dneska půjdeme do \c[11]GINOVY PIZZERIE\c[0]...\! Jupííí!
+
+#==============SARAH'S DAD===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_1420:
+      text: \n<SÁŘIN TÁTA>Zzzzzzzzz...\| Chráááp...
+
+#==============SARAH'S MOM===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_1430:
+      text: \n<SÁŘINA MAMKA>Tenhle...\! fňuk...\! film je můj oblíbený...\! fňuk...
+
+#==============SEAN===========================================
+#Location: Aubrey's Street in front of his house
+
+message_1440:
+      text: \n<SEAN>Ahoj! Jen bych vám chtěl připomenout, že budeme mít dneska večer tu kolaudaci. Všichni z téhle ulice jsou pozváni. Tak snad se uvidíme! A nebojte, jídla bude dost.
+
+#after cooking help Quest
+
+message_1441:
+      text: \n<KAREN>Všem bych vám znovu chtěla poděkovat za vaši pomoc. Všichni jste tak dobrosrdeční! Tak zas na oslavě!
+
+message_1442:
+      text: \n<SEAN>Budeme se na vás těšit!
+
+# =========================================================================================
+# DAY 3 - SUNSET
+# =========================================================================================
+
+#==============KEL===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1450:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelTak...\! Dnešek je vlastně tvůj poslední den tady, že, SUNNY?
+
+message_1451:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelJe zas hezké, že to spolu ještě před odjezdem do dálných krajin můžeme oslavit!
+
+message_1452:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelRelaxuj, užívej si to tady!\! Máme tady přece skvělou partu, nemysíš?!
+
+#==============HERO===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1460:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herTakovouhle oslavu jsem už dlouho nezažil.\! No, my na vysoké máme samozřejmě taky oslavy, ale ty nejsou tak...\! klidné.
+
+message_1461:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herJsem ale rád, že všem chutná...\! Přece jsme do toho občerstvení dali dost práce, nemyslíš?
+
+#==============AUBREY===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1470:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubHm...\! Jak se říká...
+
+message_1471:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubJídlo vždycky chutná líp, když si ho člověk sám uvaří...
+
+
+#==============KIM===========================================
+#Location: Sean and Karens House
+
+message_1480:
+      text: \kimHej, seš to ty!\! Safra...\! tak teď už zas musíme dávat bacha na huby...
+
+message_1481:
+      text: \kimHa ha...\! Dělám si srandu, šprte.
+
+message_1482:
+      text: \kimAUBRY mi řekla, že se zítra stěhuješ.\! To zní celkem blbě, ale určitě to nakonec bude v pohodě.
+
+#Stomach grumble sfx
+
+message_1483:
+      text: \kimA! To jsem nebručela já...\! Už mi kručí v břiše.\! Tak rychle, ať mi to nevystydne!
+
+
+#==============THE MAVERICK===========================================
+#Location: Starting at Bakery
+
+message_1490:
+      text: \n<THE MAVERICK>Maybe I judged my family's business too fast...\! I've been running from this for so long, but I don't seem to be good at anything else.
+
+message_1491:
+      text: \n<THE MAVERICK>Is it possible that I could be good at baking?
+
+#==============VANCE===========================================
+#Location: Sean and Karens House
+
+message_1500:
+      text: \vanHam...\! ham...\! ham...\! ham...\! ham...\! Jooooo!\! Jídlo zadara!
+
+
+#==============BEBE===========================================
+#Location: TOWN PLAZA
+
+message_1510:
+      text: \n<BEBE>Tady jsem poprvé potkala svého nápadníka...\! Doufám, že se tady už ukáže...
+
+
+#==============BEBE'S MOM===========================================
+#Location: Bebe's House
+
+message_1520:
+      text: \n<BEBINA MAMKA>Neviděl jsi BEBE?\! Zase přijde pozdě na večeři...\! Vždyť je dneska čína!
+
+
+#==============BRANDI===========================================
+#Location: Bebe's House
+
+message_1530:
+      text: \n<BRANDI>Jsem ráda, že nám dneska mamka na večeři koupila čínu...\! Všechny ty její jídla jsou hrozně nudné... ale neříkej jí to.
+
+#if leader is HERO
+
+message_1531:
+      text: \n<BRANDI>HERO...\! Nenavečeřel by ses s náma?\! Tohle je na mě moc rychlé!\! Neměli bychom spolu začít chodit ještě než tě představím mojí mamce?
+
+
+#==============BRENT===========================================
+#Location: Brent's House
+
+message_1540:
+      text: \n<BRENT>Jupí!\! Táta je doma!
+
+#==============BRENT'S DAD===========================================
+#Location: Brent's House
+
+message_1550:
+      text: \n<BRENTŮV TÁTA>Pracovat od slunka do slunka je dost vyčerpávající, ale za takovéhle chvíle to stojí.
+
+#==============BRENT'S MOM===========================================
+#Location: Brent's House
+
+message_1560:
+      text: \n<BRENTOVA MAMKA>Jsem ráda, že jsme pro jednou konečně všichni doma. Můj manžel má občas strašně dlouhé noční. Určitě BRENTOVI musí chybět.
+
+
+#==============HECTOR===========================================
+#Location: FARAWAY PARK chasing something
+
+message_1570:
+      text: \n<HEKTOR>Haf, haf, haf, haf, haf, haf, haf, haf, haf, haf!
+
+#==============JOY===========================================
+#Location: JOY'S HOUSE
+
+message_1580:
+      text: \n<JOY>Táta je na mě dneska nějaký moc hodný, hehe...
+
+message_1581:
+      text: \n<JOY>Říkál, že mě ještě s babičkou vezmě na pláž!\! Už se nemůžu dočkat!
+
+#==============JOYS DAD===========================================
+#Location: JOY'S HOUSE
+
+message_1590:
+      text: \n<JOYIN TÁTA>Fňuk.. Můj kluk už celý vyrostl a vylítl z hnízda. Neměl bych na JOY být tak přísný...
+
+message_1591:
+      text: \n<JOYIN TÁTA>... Stejně je divné, že byla celé léto zavřená u sebe v pokoji. Ale děti nejsou děti navždy, ne přece?
+
+#==============KAREN===========================================
+#Location: Sean's House (Housewarming party)
+
+message_1600:
+      text: \n<KAREN>Vítejte na naši kolaudaci! Chovejte se jako doma... ale jen dnes večer!... Hehe...
+
+message_1601:
+      text: \n<SEAN>Pojezte a odpočiňte si! Můžete tady zůstat jak dlouho chcete... ale s mírou!
+
+#==============KEL'S DAD===========================================
+#Location: Farawy Park
+
+message_1602:
+      text: \n<KELŮV TÁTA>Dám vám dobrou stařeckou radu, děcka. Čím starší jste, tím těžší, je si najít nové kamarády... takže pokud si myslíte, že nějaké dobré máte, měli byste si jich vážit. Dobří kamarádi vám můžou vydržet celý život, kapišto?!
+
+
+#==============KIM AND VANCES DAD===========================================
+#Location: Farawy Park
+
+message_1610:
+      text: \n<TÁTA KIM A VANCE>Áaaaa... Dobře strávený čas s mými dvoumi dětmi. Co víc si přát? #dvoumi schválně
+
+
+#==============KIMS MOM===========================================
+#Location: Kim's House
+
+message_1620:
+      text: ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK, ŠMIK!
+
+#==============MINCY===========================================
+#Location: Farawy Park (Company Quest 6)
+
+message_1630:
+      text: \n<MINCY>Rozhodně na vás nezapomenu.\! Nikdy...
+
+#==============POLLY===========================================
+#Location: Basil's House
+
+#After cutscene: Polly's WElcome
+message_1640:
+      text: \n<POLLY>Ach, BASILE... Proč tě nezajímá, že tady pro tebe všichni jsme?
+
+#After cutscene: Basil won't leave his ROOM
+message_1641:
+      text: \n<POLLY>Prosím, pomoz mu, jakkoliv můžeš... Jestli to někdo dokáže, jsi to jedině ty!
+
+#==============SARAH===========================================
+#Location: Gino's Pizza
+
+message_1650:
+      text: \n<SÁRA>Uff...\! Jak mám u tohohle jíst? To se musí pořád chovat jako dvě holubičky?
+
+#==============SARAH'S DAD===========================================
+#Location: Gino's Pizza
+
+message_1660:
+      text: \n<SÁŘIN TÁTA>Fff...\! V jedné ruce pizza, ve druhé ruka mé ženy.\! Co víc by si muž mohl přát...
+
+#==============SARAH'S MOM===========================================
+#Location: Gino's Pizza
+
+message_1670:
+      text: \n<SÁŘINA MAMKA>Hehe...\! Hezké, nemyslíš, broučku?

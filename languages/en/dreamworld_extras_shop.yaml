@@ -1,0 +1,667 @@
+# =========================================================================================
+# Dreamworld shops
+# =========================================================================================
+
+#Placeholder intro
+message_1:
+      text: \n<JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel.<br>\!Jak vám mohu být dnes nápomoci? #blíže orig - Jashů je více
+
+#purchase
+message_2:
+      text: \n<JAŠ>Děkuji vám za váš nákup.
+
+#insufficient funds
+message_3:
+      text: \n<JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_4:
+      text: \n<JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel. 
+
+message_5:
+      text: \n<JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_6:
+      text: \n<JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_7:
+      text: Získal jsi \c[13]CENOVKU\c[0].
+
+message_203:
+      text: \n<SNO-CONE JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_204:
+      text: \n<SNO-CONE JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+
+message_205:
+      text: \n<SNO-CONE JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_206:
+      text: \n<SNO-CONE JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_213:
+      text: \n<TOFUOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_214:
+      text: \n<TOFUOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+
+message_215:
+      text: \n<TOFUOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_216:
+      text: \n<TOFUOVÝ JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_223:
+      text: \n<LIMONÁDOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_224:
+      text: \n<LIMONÁDOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+
+message_225:
+      text: \n<LIMONÁDOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_226:
+      text: \n<LIMONÁDOVÝ JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_233:
+      text: \n<KRUPIÉR JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_234:
+      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+
+message_235:
+      text: \n<KRUPIÉR JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_236:
+      text: \n<KRUPIÉR JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_243:
+      text: \n<SRANDISTA JAŠ>Na tohle nemáte dost MUŠLÍ.
+
+message_244:
+      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+
+message_245:
+      text: \n<SRANDISTA JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_246:
+      text: \n<SRANDISTA JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+message_247:
+      text: \n<PAŠERÁK JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+
+message_248:
+      text: \n<PAŠERÁK JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+
+
+# =========================================================================================
+# MAILBOX: GENERAL
+# =========================================================================================
+
+#Mailbox intro
+
+message_10:
+      text: \whoPššt...\! Hej!\! Pššt...
+
+message_11:
+      text: \whoVy!\! Jo, vy tam!
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubUmmm...\! OMORI...\! Zdá se mi, že k nám mluví támhleta poštovní schránka...\! <br>Možná bychom se na ní mohli jít juknout...
+
+#Mailbox opens
+message_13:
+      text: \maiAno, ano! Zdravím, vážený zákazníku...<br>Vítejte, v mém obchodě! Račte si prosím něco koupit! \}\sinv[1]Kekeke...
+
+#MAILBOX - GENERAL
+
+#ENTER shop
+
+message_14:
+      text: \maiAno, ano! Zdravím, vážený zákazníku...<br>Vítejte, v mém obchodě! Račte si prosím něco koupit! \}\sinv[1]Kekeke...
+
+#BUYING/SELLING
+
+message_15:
+      text: \maiDěkuji vám, vážený zákazníku!\!<br>Opravdu si vážím vašeho nákupu.<br>\}\sinv[1]Kekeke...
+
+#LEAVE SHOP AFTER BUYING SOMETHING
+
+message_16:
+      text: \maiDěkuji mockrát! #blíže orig
+
+#LEAVE SHOP WITHOUT BUYING ANYTHING
+
+message_17:
+      text: \maiJen abyste věděl, zákazníci, co jen tak okoukávají zboží nemám dvakrát v oblibě...
+#NOT ENOUGH CLAMS
+
+message_18:
+      text: \maiPočkat...\!<br>Na tohle nemáte dost MUŠLÍ!\!<br>Co si myslíte, že jsem zač? CHARITA!?
+
+message_19:
+      text: \mai\Com[2]Co si myslíte, že jsem zač? CHARITA!?
+#item buying prompt
+message_184:
+      text: \maiDohromady to bude stát <SHOPTOTAL>\G.
+#max item message
+message_185:
+      text: \maiNa tohle nemáte místo...\! Zbavte se nejprve něčeho!
+#on item list buy ok
+message_186:
+      text: A kolik byste tohohle chtěl?\^
+#item selling ok
+message_187:
+      text: Kolik že mi jich prodáte?\^
+#item selling prompt
+message_188:
+      text: \maiZa tohle vám nabízím tolik MUŠLÍ...\! Co vy na to?
+#item buying cancel
+message_189:
+      text: \maiCože? To se jako po tomhle všem seberete a odejdete?!
+
+
+#IF HERO IS leader
+message_200:
+      text: \maiAch, můj nejoblíbenější, nejváženější a nejhezčí zákazník, HERO! Pro vás se samozřejmě jako vždycky najde nějaká ta sleva! A tak... si prosím něco kupte! \}\sinv[1]Kekeke...
+
+# =========================================================================================
+# MAILBOX: FOREST PLAYGROUND
+# =========================================================================================
+
+#Leaving before purchasing misfortune cookie
+#Note: once player buys misfortune cookie, this no longer triggers
+
+
+
+#Yes/No
+
+#Buying Misfortune COOKIE
+
+
+
+#Rejecting Misfortune COOKIE
+
+
+# =========================================================================================
+# MAILBOX: OTHERWORLD CAMPSITE
+# =========================================================================================
+
+#Buying Misfortune COOKIE
+
+
+
+# =========================================================================================
+# MAILBOX: SPROUTMOLE TOWN ENTRANCE
+# =========================================================================================
+
+
+
+# =========================================================================================
+# MAILBOX: Orange Oasis (In Front of Dino's Dig)
+# =========================================================================================
+
+#Leaving before purchasing Misfortune cookie
+
+
+# =========================================================================================
+# MAILBOX - LAST RESORT
+# =========================================================================================
+
+#SELECTING POOL NOODLE
+
+message_70:
+      text: \maiHej, děti? Neměli byste zájem o tuhle \c[13]PLAVACÍ NUDLI\c[0]?\!<br>Vypadá sice trochu nepůsobivě, ale věřte mi, že má veliký potenciál být smrtící zbraní!
+
+message_71:
+      text: \maiA i přesto...\! toho tolik za ní ani nechci! Jen rozumných 5000 MUŠLÍ!
+
+message_72:
+      text: \maiTaková cena, vždyť to je skoro zadarmo! #zlodějina znamená pravý opak toho, co se tady snaží krokoďák říct, to by byl neobvykle upřímný!
+
+message_73:
+      text: \maiCo vy na to?\! Berete to?\$
+#yes/no
+
+#if yes
+message_74:
+      text: \maiSkvěle!\! Buďte s ní prosím opatrný!\! <br>\}\sinv[1]Kekeke...\LECLEAR
+
+#if no
+message_75:
+      text: \maiAha, tak takhle...\! Vždyť je přece tak vzácná a drahocenná...\!<br>Jen se nad tím zamyslete!\! A co takhle, kdybych vám o něco slevil? 2500 MUŠLÍ?
+
+message_76:
+      text: \maiCo vy na to?\! Pořád ji nechcete?\$
+
+#yes/no
+message_77:
+      text: \maiVy...\! \Com[2]ji pořád nechcete??\!<br>\QUAKE[1]Za takovouhle cenu!?!?\QUAKE[0]
+
+message_78:
+      text: \maiGrr... Ts...
+
+message_79:
+      text: \maiDobře, dobře... \!Teď už opravdu sahám na dno...
+
+message_80:
+      text: \maiA tak se připravte na nejlepší nabídku vašeho života!<br>Za 1000 MUŠLÍ, nebo vůbec!\$
+
+#No
+message_81:
+      text: \maiVy...\! Vy jste ale náročný klučina...
+
+message_82:
+      text: \maiHff...\! Že by za...\! 500 MUŠLÍ...\$
+
+#[no]
+message_83:
+      text: \mai250 MUŠLÍ?\$
+
+#[no]
+message_84:
+      text: \maiVíte co...\! \Com[2]Dobře!\!<br>Nevím, proč se tady s váma vůbec zlobím...
+
+message_85:
+      text: \maiJestli si ji ode mě nechcete koupit, aspoň si ji vemte!
+
+message_87:
+      text: \maiJen ať se jí konečně zbavím...\! Už ji v životě nechci vidět!
+
+message_88:
+      text: Získal jsi \c[13]PLAVACÍ NUDLI\c[0]. #bože... že jsem na tenhle vtip nenarazil...
+
+#Shop closes
+
+#Leaving before purchasing Misfortune cookie (If you bought a misforune cookie from orange oasis)
+
+
+
+#Buying misfortune COOKIE
+
+
+
+#Rejecting misforunte cookie
+
+
+
+
+# =========================================================================================
+# BOTTLED WATER SELLERS (DEEP REEF)
+# =========================================================================================
+
+message_95:
+      text: \n<SLIZÁK>Hej, vy tam!\! Ano, vy s tím kamenným výrazem!
+
+message_96:
+      text: \n<SLIZÁK>Hej, vy tam!\! Ano, vy s tou krásnou mašlí!
+
+message_97:
+      text: \n<SLIZÁK>Hej, vy!\! Ano, vy s tou malou postavou!
+
+message_98:
+      text: \n<SLIZÁK>Hej, vy!\! Ano, vy s tou krásnou tváří!
+
+message_99:
+      text: \n<SLIZÁK>Měli byste zájem o tuhle poctivou, organickou \c[3]BALENOU VODU\c[0]?\! Máme likvidaci zboží!
+
+#should be a variable reference to change depending on the amount
+message_100:
+      text: \n<SLIZÁK>Tahle \c[3]BALENÁ VODA\c[0] by za pouhých \v[635] MUŠLÍ mohla být vaše!\! Tak co, chcete ji?\$ #tak tady je ten pravý Horst Fuchs
+
+#1st/2nd/3rd price, variable reference
+message_101:
+      text: \n<SLIZÁK>Tahle \c[3]BALENÁ VODA\c[0] by za pouhých \v[635] MUŠLÍ mohla být vaše!\! Tak co, chcete ji?\$
+
+#Yes
+message_102:
+      text: \n<SLIZÁK>\sinv[1]Úžasné!\!\sinv[0] Jen si ji vemte, už je jen vaše!
+
+#no
+message_103:
+      text: \n<SLIZÁK>Tak dobře...\! ale říkám vám už teď, že téhle životní nabídky budete jednou litovat!
+
+#not enough clams
+message_104:
+      text: \n<SLIZÁK>Tak vy pořád sháníte \c[3]BALENOU VODU\c[0]?\!<br>Ještě by se u nás v zásobách nějaká našla...
+
+message_105:
+      text: \n<SLIZÁK>Ale vy nemáte dost mušlí...
+
+message_106:
+      text: \n<SLIZÁK>Užijte si vaši \c[3]BALENOU VODU\c[0]!
+
+message_107:
+      text: \n<SLIZÁK>Nemáte dost MUŠLÍ...
+
+message_108:
+      text: \n<SLIZÁK>Aha... A co \sinv[1]teď\sinv[0]? Chtěl byste si koupit \c[3]BALENOU VODU\c[0]?
+
+message_109:
+      text: \n<SLIZÁK>Bohužel jsme museli po našem posledním rozhovoru o něco zvednout cenu... Teď stojí \v[635], ale stále věřím, že je to skvělá nabídka! Ha ha...\$
+
+message_94:
+      text: Získal jsi \c[3]BALENOU VODU\c[0].
+
+# =========================================================================================
+# Sno-cone JAŠ
+# =========================================================================================
+
+#Intro  start at 110
+message_110:
+      text: \n<SNO-CONE JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
+
+#Purchase
+message_111:
+      text: \n<SNO-CONE JAŠ>Děkuji vám za váš nákup.
+
+#Decline
+message_112:
+      text: \n<SNO-CONE JAŠ>Respektuji vaše rozhodnutí.
+
+#Not enough money
+message_113:
+      text: \n<SNO-CONE JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+#item buying prompt
+message_114:
+      text: \n<SNO-CONE JAŠ>Skvěle! Dohromady vás to bude stát <SHOPTOTAL>\G.
+#max item message
+message_115:
+      text: \n<SNO-CONE JAŠ>Na tohle nemáte místo...
+#on item list buy ok
+message_116:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_117:
+      text: Kolik byste jich chtěl prodat?\^
+#item selling prompt
+message_118:
+      text: \n<SNO-CONE JAŠ>Výborně.\! Vaše objednávká vám vyjde na tolik!
+#item buying cancel
+message_119:
+      text: \n<SNO-CONE JAŠ>Respektuji vaše rozhodnutí.
+
+# =========================================================================================
+# TOFUOVÝ JAŠ
+# =========================================================================================
+
+#Intro   start at 120
+message_120:
+      text: \n<TOFUOVÝ JAŠ>Zdravím, pane či paní. Neměl/a byste zájem o prvotřídní \c[3]TOFU\c[0]?\! Bude vás stát přesně 1 MUŠLI.\$
+
+#Purchase
+message_121:
+      text: \n<TOFUOVÝ JAŠ>Děkuji vám za váš nákup.
+#Decline
+message_122:
+      text: \n<TOFUOVÝ JAŠ>Respektuji vaše rozhodnutí.
+#Not enough money
+message_123:
+      text: \n<TOFUOVÝ JAŠ>Tak vy nemáte ani 1 hloupou mušli?\! Lituji vás.\! Tady máte \c[3]TOFU\c[0] zdarma. #dekapita(liza)ce
+#item buying prompt
+message_124:
+      text: \n<TOFUOVÝ JAŠ>Skvěle! To vás dohromady bude stát <SHOPTOTAL>\G.
+#max item message
+message_125:
+      text: \n<TOFUOVÝ JAŠ>Na tohle nemáte dost místa!
+#on item list buy ok
+message_126:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_127:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_128:
+      text: \n<TOFUOVÝ JAŠ>Výborně.\! Vaše objednávka vám vyjde na tolik!
+#item buying cancel
+message_129:
+      text: \n<TOFUOVÝ JAŠ>Respektuji vaše rozhodnutí.
+
+
+# =========================================================================================
+# Lemonade JAŠ
+# =========================================================================================
+
+#intro   start at 130
+message_130:
+      text: \n<LIMONÁDOVÝ JAŠ>Zdravím, pane či paní.\! Zdá se, že nám došly \c[4]JÍZDENKY\c[0], ale stále ještě nabízíme \c[3]LIMONÁDU\c[0].\! Koupil byste si ji? #přiroz
+
+#purchase
+message_131:
+      text: \n<LIMONÁDOVÝ JAŠ>Děkuji vám za váš nákup.
+
+#decline
+message_132:
+      text: \n<LIMONÁDOVÝ JAŠ>Respektuji vaše rozhodnutí.
+
+#not enough CLAMS
+message_133:
+      text: \n<LIMONÁDOVÝ JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+#item buying prompt
+message_134:
+      text: \n<LIMONÁDOVÝ JAŠ>Skvěle! To vás dohromady bude stát <SHOPTOTAL>\G.
+#max item message
+message_135:
+      text: \n<LIMONÁDOVÝ JAŠ>Na tohle nemáte dost místa!
+#on item list buy ok
+message_136:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_137:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_138:
+      text: \n<LIMONÁDOVÝ JAŠ>Výborně.\! Dohromady vás to bude stát!
+#item buying cancel
+message_139:
+      text: \n<LIMONÁDOVÝ JAŠ>Respektuji vaše rozhodnutí.
+
+
+# =========================================================================================
+# SRANDISTA JAŠ
+# =========================================================================================
+
+#Intro    start at 140
+message_140:
+      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci?
+
+#Purchase
+message_141:
+      text: \n<SRANDISTA JAŠ>Děkuji vám za váš nákup.
+
+#decline
+message_142:
+      text: \n<SRANDISTA JAŠ>Mrzouti... #přiroz
+
+#Not enough money
+message_143:
+      text: \n<SRANDISTA JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+#item buying prompt
+message_144:
+      text: \n<SRANDISTA JAŠ>Skvěle! To vás dohromady bude stát <SHOPTOTAL>\G.
+#max item message
+message_145:
+      text: \n<SRANDISTA JAŠ>Na tohle nemáte dost místa!
+#on item list buy ok
+message_146:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_147:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_148:
+      text: \n<SRANDISTA JAŠ>Výborně.\! Dohromady vás to bude stát!
+#item buying cancel
+message_149:
+      text: \n<SRANDISTA JAŠ>Respektuji vaše rozhodnutí.
+# =========================================================================================
+# KRUPIÉR JAŠ
+# =========================================================================================
+
+#Intro    start at 170
+message_170:
+      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci?
+
+#Purchase
+message_171:
+      text: \n<KRUPIÉR JAŠ>Děkuji vám za váš nákup.
+
+#decline
+message_172:
+      text: \n<KRUPIÉR JAŠ>Vy byste vážně odmítl takhle dobrou nabídku?\! To je ale škoda...
+
+#Not enough money
+message_173:
+      text: \n<KRUPIÉR JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+#item buying prompt
+message_174:
+      text: \n<KRUPIÉR JAŠ>Výborně. To vás dohromady bude stát <SHOPTOTAL>\G.
+#max item message
+message_175:
+      text: \n<KRUPIÉR JAŠ>Na tohle nemáte dost místa... #původně nepřeloženo
+#on item list buy ok
+message_176:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_177:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_178:
+      text: \n<KRUPIÉR JAŠ>Výborně.\! Dohromady vás to bude stát!
+#item buying cancel
+message_179:
+      text: \n<KRUPIÉR JAŠ>Respektuji vaše rozhodnutí.
+
+# =========================================================================================
+# MUSTARD SUB
+# =========================================================================================
+
+#Intro       start at 150
+message_150:
+      text: \n<ELEONORA>Vítejte v \c[11]HOŘČICOVÉ PONORCE\c[0]! \!Tak co to bude?
+
+#Leave Menu without Ordering
+message_151:
+      text: \n<ELEONORA>Dneska nic?\!<br>Vůbec nevadí! Přijďte někdy zas!
+
+#Purchase
+message_152:
+      text: \n<ELEONORA>Ale, to je naše specialita!\! A bude vás stát... <SHOPTOTAL>\G.
+
+#MERMAID walks through the door and then comes back.
+
+message_193:
+      text: \n<ELEONORA>Děkujeme a přejeme příjemný zbytek dne! #přiroz
+#item buying prompt
+message_194:
+      text: \n<ELEONORA>Ale, to je naše specialita!\! Co vy na to?
+#max item message
+message_195:
+      text: \n<ELEONORA>Na tohle nemáte dost místa...
+#on item list buy ok
+message_196:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_197:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_198:
+      text: \n<ELEONORA>Jasná páka, zlato!\! Dohromady vás to bude stát...
+#item buying cancel
+message_199:
+      text: \n<ELEONORA>Pardón...\! Na tohle nemáte dost MUŠLÍ...
+
+# =========================================================================================
+# Vending Machines
+# =========================================================================================
+
+#Intro     start at 160
+message_160:
+      text: Prodejní automat.\!<br>Koupíš si \c[3]LAHODNOU SODU\c[0] za 100 MUŠLÍ?\$ #z výdajní na prodejní
+
+message_162:
+      text: Na tohle nemáš dost MUŠLÍ.
+
+message_164:
+      text: Ve své KAPSE nemáš dostatek místa.
+
+message_163:
+      text: Z výdejního automatu vypadla studené \c[3]LAHODNÁ SODA\c[0]!
+
+#Examine when Sold out
+message_161:
+      text: Prodejní automat.\!<br>Všechno je v něm vyprodané. #viz výše
+
+# =========================================================================================
+# Lemonade JAŠ
+# =========================================================================================
+
+#intro   start at 130
+message_250:
+      text: \n<PAŠERÁK JAŠ>Zavřeli mě sem za pašeráctví, ale jak víte, zvyk je železná košile.
+
+#purchase
+message_251:
+      text: \n<PAŠERÁK JAŠ>Toť moudré rozhodnutí!
+
+#decline
+message_252:
+      text: \n<PAŠERÁK JAŠ>Respektuji vaše rozhodnutí.
+
+#not enough CLAMS
+message_253:
+      text: \n<PAŠERÁK JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+#item buying prompt
+message_254:
+      text: \n<PAŠERÁK JAŠ>Skvěle! To vás dohromady bude stát <SHOPTOTAL>\G.
+#max item message
+message_255:
+      text: \n<PAŠERÁK JAŠ>Na tohle nemáte dost místa!
+#on item list buy ok
+message_256:
+      text: Kolik byste jich chtěl?\^
+#item selling ok
+message_257:
+      text: Kolik byste toho chtěl prodat?\^
+#item selling prompt
+message_258:
+      text: \n<PAŠERÁK JAŠ>Výborně.\! Dohromady vás to bude stát!
+#item buying cancel
+message_259:
+      text: \n<PAŠERÁK JAŠ>Respektuji vaše rozhodnutí.
+
+#MAILBOX BEFORE INTRO
+message_300:
+      text: Podezřelá modrá poštovní schránka.
+
+#=====
+#CRAP SELLERS IN LAST RESORT
+
+
+
+# SLIZÁKS
+
+message_350:
+      text: \n<SLIZÁK>Vy vypadáte jako někdo, koho by mohlo zajímat čerstvé \c[3]MLÉKO\c[0] z našeho \c[11]CHOVU MOŘSKÝCH KRAV\c[0]!\! Je to nejčerstvější mléko, které tady seženete, a to jen za 500 MUŠLÍ!\$
+
+message_351:
+      text: \n<SLIZÁK>Je opravdu to nejčerstvější, které seženete široko daleko! #reklamovější
+
+message_352:
+      text: \n<SLIZÁK>Chtěli byste si zapózovat u téhle super výjimečné kartonové podobizny?\! Bude vás to stát jen 100 MUŠLÍ!\$
+
+message_353:
+      text: \n<SLIZÁK>Super, díky.\! Klidně si na ni zajdete, je hned támhle.
+
+message_354:
+      text: \n<SLIZÁK>Měl bych pro vás velice výjimečnou \c[3]SODOVKU\c[0], vyrobenou z prvotřídních \c[3]BROSKVÍ\c[0].\! Ano, tohle je ta světoznámá \c[3]BROSKVOVÁ SODOVKA\c[0], za pouhých 600 MUŠLÍ!\$
+
+message_355:
+      text: \n<SLIZÁK>Rozhodně si ji zamilujete.\! Má opravdu zajímavou chuť! A to myslím dobře. #něco zkusím (ajaj, tady jsem selhal...)
+
+message_356:
+      text: \n<SLIZÁK>Vypadáte jako milovník nebezpečí.\! Měl bych pro vás opravdu žhavý \c[5]DYNAMIT\c[0]...\! za pouhých 1500 MUŠLÍ.\! Máte zájem?\$
+
+message_357:
+      text: \n<SLIZÁK>Kdybyste si kdyžtak chtěli trochu zabouchat, klidně přijďte zas!

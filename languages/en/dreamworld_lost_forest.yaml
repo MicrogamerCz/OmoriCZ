@@ -1,0 +1,160 @@
+# =========================================================================================
+# DADDY LONGLEGS
+# ========================================================================================
+
+#He always says this first. The rest, he says based on how many times you entered any map in the lost forest.
+
+message_0:
+    text: \n<TÁTA DLOUHONOŽKA>Vítej ve \c[11]ZTRACENÉM LESE\c[0], kde najdeš věci, o kterých jsi ani nevěděl, že jsou ztracené...\! A nebo možná byly z nějakého důvodu zapovězeny. #zapomenuty mi sem nesedí
+
+#He always says this stuff, left as is so the player could know how hot or cold they are:
+
+message_1:
+    text:  \n<TÁTA DLOUHONOŽKA>Rozumím, každy z nás má nějaké to tajemství...\! Ale ať jej zakopeme do jakékoliv hloubky, stejně jednou vyjdou na povrch..
+
+message_2:
+    text:  \n<TÁTA DLOUHONOŽKA>Snažíš se ztratit? A nebo se ti to již povedlo?\! Každopádně jsi na tom správném místě.\! Možná proto jsi sem přišel... abys dokončil to, cos načal.
+
+#Alternate
+
+message_3:
+    text:  \n<TÁTA DLOUHONOŽKA>Většinou děláme to, co chceme dělat... a ne to, co říkáme, že děláme.\! Já neřeším chtíče.\! Spíše se řídím potřebami.
+
+message_4:
+    text:  \n<TÁTA DLOUHONOŽKA>A radil bych ti, aby ses pokusil najít východ již teď. Dokud tvé "potřeby" nevyjdou dosti najevo.
+
+message_5:
+    text:  \n<TÁTA DLOUHONOŽKA>Už jsi kolem mě prošel \v[109]krát.
+
+#If：Lost Forest Entrances  8
+
+message_6:
+    text:  \n<TÁTA DLOUHONOŽKA>Ty tady ještě jsi?\! Buď ses vzdal nebo plně přijal svůj osud.\! Že by vyznání? Těžko posoudit.
+
+message_7:
+    text:  \n<TÁTA DLOUHONOŽKA>Už jsi kolem mě prošel \v[109]krát.
+
+#  If：Lost Forest Entrances = 9
+
+message_8:
+    text:  \n<TÁTA DLOUHONOŽKA>Viděl jsem kluka, dost podobného tobě. Procházel se tudy.\! Vstoupil do tmy a už se nevrátil.
+
+message_9:
+    text:  \n<TÁTA DLOUHONOŽKA>Musí se cítit vyčítavě, s tím, že nenašel to, co zde pohledával.\! A zda je to lítost, prohra či zmatení, se už nedozvíme.
+
+#  If：Lost Forest Entrances = 12
+
+message_10:
+    text:  \n<TÁTA DLOUHONOŽKA>Již jsem viděl slepé a ztracené, ale kombiance těchto dvou je děsivá.\! Možná se schováváš před tou správnou cestou.
+
+#  If：Lost Forest Entrances = 15
+
+message_11:
+    text:  \n<TÁTA DLOUHONOŽKA>Zlomyslní nemají zábrany.\! Avšak za zlomyslností stojí vždy úmysly.\! Proč jdeš nadále touhle cestou, když víš, že není ta správná?
+
+#This stuff is unique to the map that you're on. He says it directly after the stuff above.
+
+#MAP 1
+message_12:
+    text:  \n<TÁTA DLOUHONOŽKA>Znám staré přísloví a oplýtvání časem, který ti nepatří.\! Sny tak občas působí. Působí stejně jako tento les.\! Ztraceně...
+
+#MAP 2
+message_13:
+    text:  \n<TÁTA DLOUHONOŽKA>Občas když před sebou něco schováváme, uděláme si své vlastní pravdy a zcela sejdeme z cesty.\!<br>Našel jsi tu svou, anebo jsi stále ztracený?
+
+#MAP 5
+message_18:
+    text:  \n<TÁTA DLOUHONOŽKA>Zapomeň, co chceš, či spíše co můžeš.\! Temnota se před tebou zhmotní, ať už si to uvědomuješ, nebo ne.\! Schovej vše, v čem žiješ do nevědomosti a sleduj, jak se ti tvá lež boří před očima. #nedává mi smysl v originále
+
+#Once you complete the forest, his page 2 is always:
+message_19:
+    text:  \n<TÁTA DLOUHONOŽKA>Tma, která tě obklopuje, je strašná věc, avšak tě k ní přivedla jedině tvá "pravda".\! Jak dlouho s ní ještě budeš moct žít?
+
+#END
+
+message_21:
+    text:  \n<TÁTA DLOUHONOŽKA>Zde končí ztracený \c[11]ZTRACENÉHO LESA\c[0]...<br>a začíná pravda.
+
+message_22:
+    text:  \n<TÁTA DLOUHONOŽKA>Řeknu ti příběh ztracen ve větru času...\!<br>příběh o vzniku této skutečnosti. #hahaha, Timewind
+
+message_23:
+    text:  \n<TÁTA DLOUHONOŽKA>Na počátku byli pouze dva...\!<br>SNÍLEK a jeho místnost.
+
+message_24:
+    text:  \n<TÁTA DLOUHONOŽKA>SNÍLKA začala brzy jeho místnost nudit, a proto vytvořil dveře, které ho dovedly do jiných světů.
+
+message_25:
+    text:  \n<TÁTA DLOUHONOŽKA>Jakožto návštěvník v těchto světech si v nich mohl SNÍLEK počínat tak, jak se mu jen zalíbilo.
+
+message_26:
+    text:  \n<TÁTA DLOUHONOŽKA>Skluzy, pády...\! Díky své zvědavosti se SNÍLEK nakonec dovedl kamsi jinam.
+
+message_27:
+    text:  \n<TÁTA DLOUHONOŽKA>Do světa zcela odlišného...\!<br> Do světa vytapetovaného chaosem a omytého temnotou.
+
+message_28:
+    text:  \n<TÁTA DLOUHONOŽKA>SNÍLKA brzy začal přemáhat strach. \!Ač byly ještě stále tiché,již tehdy začal slýchat šepoty svých zlomyslných myšlenek.\! Šepoty, ve kterých se skrývaly lži, tajemství a pravdy.
+
+message_29:
+    text:  \n<TÁTA DLOUHONOŽKA>Jejich hluk nebyl schopen zastavit, a tak do všech svých světů nastolil stvoření podřízená jeho vůli...
+
+message_30:
+    text: \n<TÁTA DLOUHONOŽKA>A všechny své světy odstavil nad ten temný...\! čímž jej konečně uzavřel.
+
+message_31:
+    text:  \n<TÁTA DLOUHONOŽKA>Ale navzdory jeho snah ta temnota plně nevymizela.\! I se svými novými spojenci se SNÍLKOVI nepovedlo zbavit té temnoty, která se mu škrábala a ryla do mysli.
+
+message_32:
+    text: \n<TÁTA DLOUHONOŽKA>Jejich šepoty možná ztichly, ale nevymizely.
+
+message_33:
+    text: \n<TÁTA DLOUHONOŽKA>SNÍLEK sice mohl utéct a schovat všechny své potíže, ovšem svého stínu se zbavit nemohl.
+
+message_34:
+    text:  \n<TÁTA DLOUHONOŽKA>To, co SNÍLEK vytvořil byla skutečnost, ve které nemohl žít, do které nepatřil.
+
+message_35:
+    text:  \n<TÁTA DLOUHONOŽKA>SNÍLKOVA moc byla zároveň jeho kámenem úrazu.\!<br>A vědomost... či spíše nevědomost, jeho záchranou.
+
+message_36:
+    text:  \n<TÁTA DLOUHONOŽKA>Jen poté, co by utekl ze svárů svých vjemů do blaženého světa své nevědomosti...\! Jen poté, by šepoty temnoty utichly.
+
+message_37:
+    text:  \n<TÁTA DLOUHONOŽKA>A proto...\! se SNÍLEK vzdal svého jména...\!<br>našel si jiné a rozhodl sám sebe zapomenout.
+
+message_38:
+    text:  \n<TÁTA DLOUHONOŽKA>A od té doby žije ten SNÍLEK mezi námi...<br>\!jakožto prostý obyvatel našeho světa...\!<br>Radostně cestující, nevědě o iluzi, kterou si sám vytvořil.
+
+#leave
+
+message_39:
+    text:  \n<TÁTA DLOUHONOŽKA>Tato cesta není pro ty, jež nemají dosti silné srdce.\! Přály byste si odejít, děti?\! Nedivil bych se vám.
+
+#message_39:
+#    text:  \n<TÁTA DLOUHONOŽKA>Do you understand, children?
+    #YES/NO
+
+#message_40:
+#    text: \n<TÁTA DLOUHONOŽKA>Good.\! Now, I will leave you with a warning.
+
+#message_41:
+#    text: \n<TÁTA DLOUHONOŽKA>I'm sorry. As conflicted as I am, this tale was not meant to be repeated.\! Now, I will leave you with a warning.
+
+message_41:
+    text: \n<TÁTA DLOUHONOŽKA>Děti... Musím vás varovat...
+
+message_42:
+    text:  \n<TÁTA DLOUHONOŽKA>Stejně jako všechno v něm, i tento svět jednou zažije svůj konec.\! A přestože se SNÍLKOVI podařilo zadržet nezardžitelné, temnota stále vytrvává.
+
+message_43:
+    text:  \n<TÁTA DLOUHONOŽKA>Věčnou ránu nedokáže zakrýt žádný obvaz...\! a nastane čas, kdy její vliv plně přeteče do tohoto světa.<br><br>A i když se SNÍLEK snaží na své starosti zapomenout, ony na něj zapomenout nedokážou. #snažil jsem se zachovat originál, ale mám strach, že to v ČJ prostě nejde
+
+message_44:
+    text:  \n<TÁTA DLOUHONOŽKA>Konec tohoto světa je neodvratný.\! Ovšem SNÍLEK je jediný, kdo ho je schopen jednou pro vždy vysvobodit.
+
+message_50:
+    text: Tento svícen byl zapálen nedávno.
+
+message_51:
+    text: Starý pařez.

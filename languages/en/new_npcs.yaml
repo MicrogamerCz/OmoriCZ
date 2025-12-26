@@ -1,0 +1,1479 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+#DW_ManonFire
+#ŠAMBUS
+#Location: Mr Jawsum's Concierge
+message_0:
+      text: \n<ŠAMBUS>CENIL a já...\! Máme toho hodně, co spolu probrat...\! Ano...\! Hodně, opravdu hodně...
+
+message_1:
+      text:
+
+#NERENA
+#Location: SW Library
+message_2:
+      text: \n<NERENA>Helemese! Vás čtyři jsem nějakou dobu neviděla.\! Zase se chystáte na nějakou neplechu?
+message_3:
+      text: \n<NERENA>To jste se nepoučili z vaší návštěvy těchto tunelů?\! No, příště z nich tak lehce nevyváznete!
+
+message_4:
+      text:
+
+#Guava
+#Location: Train Station
+message_5:
+      text: \n<GUAVA>Mně čekání vůbec nevadí!\!<br>Je to přece jen přirozená část života.
+
+message_6:
+      text: \n<GUAVA>Už tady čekám tak dlouho...\! Až jsem zapomněl, co jsem tady vlastně chtěl!
+
+#Mimi
+#Orange Oasis
+
+message_7:
+      text: \n<MIMI>Ty brďo... To je ale velké jablko!
+
+message_8:
+      text:
+
+#Mira
+#takes places of AUBREY as secretary
+message_9:
+      text: \n<MIRA>Ahoj, já jsem MIRA!\! Jsem tady nová!
+
+
+message_10:
+      text: \n<MIRA>Zdravím, šéfe!\! Pro dnešek už jsem všechno vyřešila, takže si můžete klidně odpočinout!
+
+#Silker
+#Location: Last Resort Casino
+
+message_11:
+      text: \n<SILKER>Den sem, den tam. Pořád to samé dokola.\!<br>No a...\! Je to práce.\! Kdyby mě alespoň platili...
+
+message_12:
+      text:
+#Jussie
+#Location: Last Resort Casino
+message_13:
+      text: \n<JUSSIE>Můj kámoš mi řekl, ať počkám tady, ale zatím nevypadá, že by se někdy brzo vrátil.\! Neznáš nějakého PANA CENILA?\!<br>Kámoš s ním prý něco řeší...
+
+message_14:
+      text:
+#Hayes
+#Location: Last Resort Casino
+
+message_15:
+      text: \n<HAYES>Á...\! Konečně přestávka.
+
+message_16:
+      text: \n<HAYES>Vy jste taky z města?\! Vypadáte jako městké děti.\! No, jídlo tam je sice dobré, ale s tím smradem se moc žít nedá, viďte?
+
+
+message_17:
+      text:
+
+#Turmoil
+#Location: Underwater Highway outside of Mustard Sub
+
+message_18:
+      text: \n<ROPERT>Safra... Zase jsem si zapomněl džambáro doma...
+
+message_19:
+      text:
+
+#Russell
+#Location: Last Resort Casino
+message_20:
+      text: \n<RUSSELL>Huma huma...\! Jestli počítám správně...\! pak...\!<br>Huma huma...
+
+message_21:
+      text:
+
+#Albacore
+#Location: Underwater Highway Cave
+message_22:
+      text: \n<ALBACORE>Vám se nechce platit mýtné, že?\! Už jste třetí skupinka, kterou tady tenhle týden vidím!
+
+message_23:
+      text: \n<ALBACORE>Chodit tudy je sice trochu zdlouhavé, ale aspoň vám nikdo nešáhne na MUŠLE.\! To poslední mýto bych ale být váma zaplatil.\! Vážně, věřte mi!
+
+message_24:
+      text:
+#James
+#Location: Last Resort Casino
+message_25:
+      text: \n<JINDRA>Rád se dívám, jak tenhle stroj žere mé těžce vydřené peníze a pak je nikdy nevrací.\! Dívejte...\! jak všechny...\! mizí...
+
+message_26:
+      text:
+
+#Honeydew
+#Location: Mr Jawsum's Concierge
+message_27:
+      text: \n<MĚĎENA>Šéf mě sem zavolal kvůli jakési důležité schůzce, ale zatím je pořád nedostupný...\! Já nevím...\! Měla bych počkat, nebo pracovat dál?
+
+message_28:
+      text:
+#Crusher Blast
+#[UNPLACED]
+
+message_29:
+      text: \n<CRUSHER BLAST>Poslán dělat manuální práci.\! Vedení špatné.\!<br>Předpovídám pád impéria.
+
+message_30:
+      text: \n<CRUSHER BLAST>Ha. Ha.\! Vedení změněno.\! Předpověděno správně.
+
+#Cipher
+#Location: Deeper Well Whirlpool
+
+message_31:
+      text: \n<ŠIFRAN>Slunce svítilo víc...\| když tady byla se mnou...
+
+message_32:
+      text:
+#Gascon
+#Location: Otherworld Campsite
+
+message_33:
+      text: \n<GASKON>Sakra práce, zapomněl jsem si foťák doma.\! Výlet do přírody bez fotek není žádný výlet!
+
+message_34:
+      text:
+
+#Teacup Spirit
+#Location: SW Library
+message_35:
+      text:  \n<DUCH Z HRNÍČKU>\sinv[1]Oohoooooo... Mám pro vás otáááááázku!\sinv[0]\!<br>Myslíte, že jsou duchové plynní?
+
+message_36:
+      text:
+
+#Canopy
+#Location: Train Station
+
+message_37:
+      text: \n<KANAPE>Co to mé malé oko vidí...\!<br>Duhovou deštníkovou věc s fůrou noh!
+
+#Breezy
+#[UNPLACED: Orange Oasis Club Sandwich]
+
+
+message_40:
+      text:
+
+message_42:
+      text:
+#--------------------------------------------------------------------------------------------------
+#DW_NPC_18
+
+#Child on Stilts
+#[UNPLACED]
+message_43:
+      text: \n<DÍTĚ NA CHŮDÁCH>Nemůžu se dostat dolů.
+
+message_44:
+      text: \n<DÍTĚ NA CHŮDÁCH>Takhle mi to vyhovuje.
+
+#--------------------------------------------------------------------------------------------------
+#DW_NPC_19
+
+#Barbracoa
+#Location: Last Resort Hallway
+message_45:
+      text: \n<BARBRAKOA>\sinv[1]Á! Mí synáčci všichni tvrdě pracují...\!\sinv[0]<br>Snad jim něděláte žádné potíže...\! protože jestli jo...
+
+
+message_46:
+      text: \n<BARBRAKOA>Tak \com[2]ti vrazím takovou, až odletíš do Pacifiku!
+
+#Decay
+#Location: Deeper Well
+message_47:
+      text: \n<PLYNUTÍ>Čas bude vždy plynout dál.\! Jednou pravda vyjde najevo...\! To ty ale dobře víš...\! viď, SNÍLKU?
+
+message_48:
+      text:
+
+#Dowon
+#SW GALLERY
+message_49:
+      text: \n<DOVON>DOVON si myslel, že DOVON rozumí umění...\! Ale potom, co jsem přišel sem, se DOVON .
+
+message_50:
+      text:
+
+#Parsnip
+#[UNPLACED]
+message_51:
+      text: \n<PASTINÁK>Jsem MARININ osmý experiment...\! myslím.\! Vytvořila mě z mechu a fazolových klíčků, když byla ještě puberťačka.
+
+message_52:
+      text: \n<PASTINÁK>\sinv[1]Ňááááááááááá...
+
+message_352:
+      text: \n<PASTINÁK>\sinv[1]Ňááááááááááá...
+
+#Renbi
+#Location: Last Resort Entrance
+message_53:
+      text: \n<RENBI>Haha... To je ale vtip...\! ...\!<br>To je ale...\! sakra dobrej...\! vtip...
+
+message_54:
+      text:
+
+#Burro
+#[UNPLACED]
+message_55:
+      text: \n<BURRO>Jsem MARININ šestá experiment.\! Vytvořila mě z kartonu a \c[3]BONBÓNŮ\c[0], když byla malá.
+
+message_350:
+      text: \n<BURRO>\com[2]Á!\! Mí bonbónci!
+
+message_351:
+      text: \n<BURRO>Jaká je to pro mě pocta, být vámi uznán.
+
+#Peeve
+#[UNPLACED]
+message_57:
+      text: \n<OHRNOS>Jsem MARININ šestý experiment.\! Vytvořila mě z balónků a kouzel, když byla ještě dítě.
+
+message_353:
+      text:
+
+message_354:
+      text:
+
+#------------------------------------------------------------------------------------------
+#DW_NPC_20
+
+#Gallipot
+#[UNPLACED]
+message_56:
+      text: \n<HRNEC>Zdravím, mladí cestovatelé!\! Ochutnejte prosím naše občerstvení.\!<br>Všechno jsem ho udělal já sám!
+
+message_58:
+      text: \n<HRNEC>Dali byste si \c[3]POMERANČOVOU ŠŤÁVU\c[0] za 150 MUŠLÍ?\$
+
+message_59:
+      text: \n<HRNEC>Dali byste si \c[3]BROSKVOVOU SODOVKU\c[0] za 130 MUŠLÍ?\$
+
+message_60:
+      text: \n<HRNEC>Dali byste si \c[3]MLÍKO\c[0] za 150 MUŠLÍ?\$
+
+message_62:
+      text: \n<HRNEC>Tohle je má specialita!\!<br>Nezapomeňte pít, mladí cestovatelé!
+
+message_68:
+      text: \n<HRNEC>Promiňte, mladí cestovatelé.\!<br>Obávám se, že na tohle nemáte dost MUŠLÍ...
+
+#------------------------------------------------------------------------------------------
+#DW_NPC_24
+
+#Nova
+#Location: Train Station
+message_61:
+      text: \n<ŠLOK>Že je tady super vzduch?\! Jde v něm cítit čistota!
+
+message_103:
+      text: \n<ŠLOK>Že je tady sladký vzduch?\! Jde v něm cítit cukr!
+
+
+
+#Gonzo
+#Location: Underwater Highway
+message_63:
+      text: \n<GONZO>Tahle dálnice je delší, než jsem si myslel...\!<br>A teď budu muset ještě k tomu celý ten kus pěsky.\!<br>...\! Tak to abych si pohl.
+
+
+#Jogen
+#Last Resort Hotel Room
+message_65:
+      text: \n<JOGEN>Jsem šampion v kámen nůžky papír teď!\! Jestli mě porazíš v kámen nůžky papír teď, dám ti všechny své životní úspory!
+
+message_81:
+      text: Co si vybereš?
+
+message_86:
+      text: KÁMEN
+
+message_88:
+      text: PAPÍR
+
+message_90:
+      text: NŮŽKY
+
+message_92:
+      text: NIC
+
+message_94:
+      text: \n<JOGEN>\{\com[2]\sinv[1]PŘIPRAVIT...\| POZOR...
+
+#SCISSORS:
+message_76:
+      text: \n<JOGEN>\com[2]Ha! Vyhrál jsem!\! A šampion zůstává neporažen!
+
+#ROCK:
+message_78:
+      text: \n<JOGEN>Cože?\! Remíza?!\! Příště ale vyhraju!
+
+
+#PAPER:
+message_64:
+      text: \n<JOGEN>...\! Ha...\! Tak tohle je prohra.\! Pokořil jsi mě.
+
+message_66:
+      text: \n<JOGEN>Jak jsem ti slíbil, tady máš všechny moje úspory.
+
+message_70:
+      text: Získal jsi 3 MUŠLE.
+
+message_72:
+      text: \n<JOGEN>Neutrať to prosím za nějakou blbost...
+
+message_74:
+      text: \n<JOGEN>A teď bez svých úspor...\! Je asi na čase začít odznova...\! Stanu se opět šampionem!
+
+
+#backing out
+message_83:
+      text: \n<JOGEN>Tak ty se bojíš, jo?\! Ty jsi ale hrdina!
+
+#Drew
+#Location: Last Resort Casino
+message_67:
+      text: \n<DREW>Ahoj, jsem tady nový!\! Práce tady není nic moc, ale personál je tady supr.\! HEDVÁB nám pořád povídá vtipy!\! Je fakt super.
+
+#Morgan
+#Location: Otherworld Campsite
+
+message_69:
+      text: \n<MORGAN>Tamten RECYKLOVAČ mi dal super odměnu za to, že jsem do něj hodil PLECHOVKU!\! Stojí za to recyklovat!
+
+#Urchin
+#Location: Underwater Highway
+message_71:
+      text: \n<URCHIN>Zkuste se prosím za každou cenu vyhnout mým bodlinám. Děkuji.
+
+#Sully
+#[UNPLACED]
+message_73:
+      text: \n<SULLY>Já jsem MARININ sedmý experiment...\! po mně už ty čísla přestanou vycházet.\! Vytvořila mě z ptáků, když byla ještě puberťačka.
+
+message_355:
+      text: \n<SULLY>Což mě absolutně rozhorčuje.
+
+message_356:
+      text: \n<SULLY>Tohle napomáhá mé oplývající radosti.
+
+#Yellow
+#[UNPLACED]
+message_75:
+      text: \n<ŽLUTEK>Ale... safra!\! Chybí mi jeden \c[4]DINO DOLAR\c[0] na \c[4]STŘÍBRNOU LŽIČKU\c[0]!
+
+#Chow
+#Location: Train Station
+message_77:
+      text: \n<ČAU>Tehle vlak jsem viděl jet snad jednou, kdysi dávno...\! Dneska už asi jezdí úplně kamsi jinam.
+
+message_105:
+      text: \n<ČAU>Na téhle zastávce jsem v životě nebyl.\! Nemůžu se dočkat na \c[11]POMERANČOVOU POUŠŤ\c[0]... země nových možností!
+
+#Sydney
+#[UNPLACED]
+message_79:
+      text: \n<SYDNEY>Křeček s ledvinkou je v podstatě klokan.
+
+
+#Treble
+#Location: Otherworld Campsite
+message_80:
+      text: \n<TREBLE>Á...\! Ten výhled je tady přímo nádherný.
+
+#Andy
+#Location: Train Station
+message_82:
+      text: \n<ANDY>Při dlouhém čekání jsem neposedný!\! \com[2]No tak, šup! Šup!
+
+
+#Fred
+#Location: Train Station
+
+message_84:
+      text: \n<FRED>Musím řešit důležité věci.\! A až je budu mít hotové, půjdu řešit další důležité věci.
+
+#Location 2: Mr. Jawsum's Concierge
+
+message_85:
+      text: \n<FRED>Musím řešit důležité věci.\! A až je budu mít hotové, půjdu řešit další důležité věci.
+
+
+
+#Whizzy Whitney
+#Location: Train Station
+
+message_87:
+      text: \n<BÍDNÁ BĚLKA>Jo! Jsem celkem rychlá, ale ne tak rychlá, jak tenhle vlak!\!<br>Člověk musí znát své hranice!
+
+
+
+#Batzy
+#Location: Sprout Mole Colony
+message_89:
+      text: \n<BATZY>Mí kamarádi kdysi taky bydleli v těchle tunelech, ale potom odešli hledat svého ztraceného vůdce ...\! Myslíš, že se někdy vrátí?
+
+message_101:
+      text: \n<BATZY>Mí kamarádi se pomalu vrací!\! No...\! většina z nich.
+
+#Ricoli Ravioli
+#[UNPLACED]
+message_91:
+      text: \n<RICOLI RAVIOLI>Vítejte v \c[11]POMERANČOVÉ POUŠTI\c[0], kde měsíc svítí světleji!\! Já jsem RICOLI RAVIOLI, jídelní přeborník.
+
+
+#Gluten
+#Sweetheart Gallery
+message_93:
+      text: \n<LEPEK>Tyhle obrazy...\! ve mě cosi vzbudily.\! Snad mě to brzo přejde.
+
+
+#Artichoke
+#[UNPLACED]
+message_95:
+      text: \n<ARTYŠOK>Poklady vystavené tady jsou z celého světa!\!<br>Taky bych někdy chtěl procestovat svět...
+
+#Fuchsia
+#[UNPLACED]
+message_96:
+      text: \n<FUCHSIE>Jsem MARININ první experiment.\! Vytvořila mě z písku a ovoce, když byla ještě batole.
+
+message_97:
+      text: \n<FUCHSIE>Hehe...\! To lechtá...
+
+message_357:
+      text: FUCHSIE udělala hvězdu.
+
+
+#Grunty
+#[UNPLACED]
+message_98:
+      text: \n<GRUNT>Posledně jsem v \c[11]DINOVĚ KOPU\c[0] našel spoustu úžasných pokladů!
+
+message_99:
+      text: \n<GRUNT>Ale tentokrát jsem našel jenom \c[3]OVESNÉ TYČINKY\c[0]...
+
+#Frank
+#Location: Train Station
+message_100:
+      text: \n<FRANK>Jestli sebou tahle řada brzo nehne...\!<br>Tak si mě nepřejte.
+
+
+#Krispy
+#Location: Last Resort Casino
+message_102:
+      text: \n<KRISPY>Až pojedu přístě na dovolenou, připomeň mi, abych si přečetl recenze.
+
+
+#Tuna Can
+#Location: Underwater Highway
+
+message_104:
+      text: \n<PLECHOVKA OD TUŇÁKA>Došel mi tuňák!
+
+#Zarf
+#Location: Otherworld Campsite
+message_106:
+      text: \n<ZARF>Tady je dneska tolik lidí...\! To jste opravdu takoví fanoušci vesmírného cestování?
+
+#Jorge
+#Location: Last Resort Entrance
+message_107:
+      text: \n<JORGE>Hej! Vy jste na dovolené, nebo tady pracujete?\! Nemohli by alespoň safra koupit uniformy, když tady pořád staví...
+
+#Basket Case
+#Location: Last Resort Entrance
+
+message_108:
+      text: \n<KOŠÍČEK>Dneska jsem omylem strčila do jedné pracovnice...\! Řekla mi, že jsem šulibrk a pak mě hlavou trkla ke zdi.
+
+message_109:
+      text: \n<KOŠÍČEK>Kdo by věděl, že to tak bolí?!\! Já rozhodně ne.
+
+message_110:
+      text: \n<KOŠÍČEK>Na cestě sem jsem omylem šlápla nějakému KLÍČKOKRTKOVI na nohu...\! Řekla mi, že jsem mizerný prosťáček a dala mi směšnou facku.
+
+message_111:
+      text: \n<KOŠÍČEK>Uff...\! To jsem na ni teda musel šlápnout pořádně...
+
+#Owangee
+#[UNPLACED]
+message_112:
+      text: \n<POMEJANČ>Tohle místo nedělá mojim kazům dobře...\!<br>ale k čemu jsou vůbec zuby?!
+
+message_113:
+      text:
+
+#Applefly
+#[UNPLACED]
+message_114:
+      text: \n<APPLEFLY>Já jsem MARININ čtvrtý experiment.\! Vytvořila mě ze zhnilých jablek, když byla malá.
+
+message_115:
+      text: \n<APPLEFLY>Cože?
+
+message_358:
+      text: \n<APPLEFLY>Dobře, dost!
+
+message_370:
+      text: \n<APPLEFLY>\sinv[1]Bzzzzzz...\| Ooo...\| Jo...\| Bzzzzzzzzzzzz...\!<br>Mmmmmmmmmmmm...\! Přesně tam, kolem šťopky...
+
+#Snug
+#Location: Otherworld Campsite
+message_116:
+      text: \n<ŠNAG>V takovýchle chvílích mi teprve dochází, jak krásný je náš vesmír!
+
+message_117:
+      text:
+
+#Wily
+#UNPLACED]
+message_118:
+      text: \n<WILY>\c[11]POMERANČOVÁ POUŠŤ\c[0] je samý pamětník, který tady je kdovíjak dlouho.
+
+message_119:
+      text: \n<WILY>Ale já neztrácím naději...\! Tohle místo bude jeden den obrovské, prospívající město!\! Koukejte, kolik tady je místa!
+
+#Cinder
+#Location: Last Resort Casino
+message_120:
+      text: \n<CINDER>Ty jo... Je mi blbě.\!<br>Točí se to tady, nebo se mi to jen zdá?
+
+message_121:
+      text:
+
+#Dango
+#Location: Train Station
+message_122:
+      text: \n<DANGO>Já toho včelího magora už nezvládám.\! Brzo se z něho zblázním!
+
+message_123:
+      text:
+
+#-----------------------------------------------------------------------------------------------------------------------------------------
+#DW_NPC_25
+
+#Aliana
+#Location: Cattail Field
+message_124:
+      text: \n<ALIÁNA>Není ta obloha krásná?\! Jsem ráda, že je tolik lidí, kolik se na celý vesmír dívají se mnou.
+
+#Ghian
+#Loation: Outskirts
+message_125:
+      text: \n<GIÁN>Po téhle obří tůře jsem úplně nadraka!\! Už teď vím, že zítra neucítím nohy.
+
+#Chelle
+#Location: Cattail Field
+message_126:
+      text: \n<ŠELE>Safra...\! Někde tady ta moje \c[3]KOBLIHA\c[0] přece musí být...
+
+
+
+#Goosey
+#Location: Train Station
+message_128:
+      text: \n<HUSKA>Tahle dlouhá řada je dokonalou příležitostí znovu poznat krásy spánku!
+
+
+
+#Tiffany Darling
+#Location: Last Resort Casino
+message_130:
+      text: \n<MILENKA TIFFANY>\sinv[2]Ňo ho ho!\sinv[0]\! Další výhra!\!<br>Dnešek je můj šťastný den!
+
+message_134:
+      text: \n<MILENKA TIFFANY>\sinv[2]Jen si vem tyhle MUŠLE! Jsou mi k ničemu!\!<br>Jsem boháč! Jsem boháč! A ty teď taky!
+
+message_127:
+      text: Získal jsi 100 MUŠLÍ!
+
+message_129:
+      text: Získal jsi 500 MUŠLÍ!
+
+message_139:
+      text: Získal jsi 1000 MUŠLÍ!
+
+message_141:
+      text: Získal jsi 2000 MUŠLÍ!
+
+message_131:
+      text: \n<MILENKA TIFFANY >\sinv[2]Ňo ho ho!\sinv[0]\! Tohle je přímo majestátní!
+#Jerko
+#Location: Train Station
+message_132:
+      text: \n<JERKO>Mohl bys říct tomu přede mnou, aby si pohl?\!<br>Někteří máme přece taky svůj život, že?
+
+#Location 2: Last Resort
+message_133:
+      text: \n<JERKO>\com[2]Jaktože po nás šéf pořád chce, abychom čekali?\!<br>Kdo si myslí, že je?!\! Někteří máme přece taky svůj život, že?
+
+
+
+#Mott
+
+#Location: Train Station
+message_137:
+      text: \n<MOTT>Poslední dobou je to tady samý KROKOĎÁK...\!<br>Takže šéf zase cosi provádí...<br><br>Co?\! Tys ještě neslyšel o šéfovi?\! No, však brzo ještě uslyšíš.
+
+#Location: Mr. Jawsum's Concierge
+message_135:
+      text: \n<MOTT>PAN CENIL...\! To je jméno, které tady budí u všech pozornost.
+
+message_136:
+      text: \n<MOTT>Slyšel jsem, že si nerad s ničím sám zlobí...\! a ani se mu nedivím!\! Já bych byl stejný, kdybych mohl taky na povel mít cokoliv!
+
+
+#Miggie
+#Location: Last Resort Casino
+message_138:
+      text: \n<MIGGIE>Kvůli tomzhle jsem jela ten kus z města?\! Zasloužila bych si dovolenou od mojí dovolené...
+
+
+
+#Tapioca
+#Location: Underwater Highway
+message_140:
+      text: \n<TAPIOCA>Voda je tady o něco teplejší než u nás v horské jeskyni.
+
+
+
+#Brooke
+#Location: Train Station
+message_142:
+      text: \n<BROOKE>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
+
+#Location 2: Last Resort Casino
+message_143:
+      text: \n<BROOKE>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
+
+message_144:
+      text:
+
+#Megaphone
+#Location: Train Station
+message_145:
+      text: \n<MEGAFON>Kdysi tímhle lesem jezdilo několik vlaků, dneska už jenom tenhle jeden. #to by bylo něco, že!
+
+
+message_146:
+      text:
+
+#Cat Pyramid
+#Location: SW Art Gallery
+message_147:
+      text: \n<KOČIČÍ PYRAMIDA>To je ale nádhera!\! Za tu cestu z \c[11]POMERANČOVÉ POUŠŤĚ\c[0] to tady stojí!
+
+
+#Gasper
+#Location: Train Station
+message_149:
+      text: \n<VZDENĚK>\sinv[1]La... Lala... la... lala... la!\sinv[1]
+
+message_150:
+      text: \n<VZDĚNEK>Čas mi utíká rychleji, když zpívám...\! a všem pomaleji!
+
+
+#Cowblin
+#Location: Train Station
+message_152:
+      text: \n<KRÁVOSKŘET>Mamka mi řekla, abych si oblíkl bundu, prý, že se ochladí...
+
+message_153:
+      text: \n<KRÁVOSKŘET>Uff...\! Je mi tak horko...\! ale nechci si ji sundávat...\! protože bych ji pak musel nosit.
+
+message_154:
+      text: \n<KRÁVOSKŘET>Uff...\! Je tady větší horko, než kdy jindy...
+
+#Square
+#Location: Train Station
+message_155:
+      text: \n<KRYCHLE>\com[2]Klap! Klap! Klap!
+
+#Pellet
+#[UNPLACED]
+message_156:
+      text: \n<PELETI>Tahle voda je tak čistá!\! Pomalu vidím jiný svět, když se do ní podívám!
+
+message_157:
+      text: \n<PELETI>Tahle voda je nějaká špinavá...\! Co se to s ní stalo?\! Vždyť byla předtím tak čistá...
+
+#Loam
+#Location: Otherworld Lake
+message_158:
+      text: \n<LOÁM>\sinv[1]LOÁ...\! LOÁ-LÓ...\! LOÁ-LÓ...\! loje.
+
+
+
+#This Guy
+#[UNPLACED]
+message_160:
+      text: \n<TENHLENSTEN>Jsem MARININ druhý experiment...\! Vytvořila mě z jílu a kamínků, když byla ještě batole.
+
+#POKE
+message_159:
+      text: \n<TENHLENSTEN>Hmm...\! Šťoucháni je fajn...\! ale placáky mám radši.
+
+#PET
+message_161:
+      text: \n<TENHLENSTEN>Hmm...\! Hlazení je fajn...\! ale třesení rukou mám radši.
+
+#Red Smile
+#[UNPLACED]
+message_162:
+      text: \n<RUDÝ ÚSMĚV>
+
+message_163:
+      text:
+
+#Porinu
+#[UNPLACED]
+message_164:
+      text: \n<PORINU>Jsem MARININ třetí experiment.\! Vytvořila mě z gumové rukavice, když byla ještě batole
+
+message_165:
+      text: \n<PORINU>\com[2]Co?!\! Kdo je tam?!
+
+message_359:
+      text: \n<PORINU>\com[2]Kdo to byl?!\! Ukažte se!
+
+#Sereno
+#[UNPLACED]
+message_166:
+      text: \n<SERENO>Legendy praví o dvojčatech, které kdysi svými oči nepřetržitě střežily \c[11]POMERANČOVOU POUŠŤ\c[0].\! Říká se, že umí vzkřišovat z mrtvých...\! mimo jiné...
+
+message_167:
+      text: \n<SERENO>Nevím, co je na těchle pověrách pravda, ale bylo by to zajímavé, nemyslíš?
+
+#Brelle
+#SW GALLERY
+message_168:
+      text: \n<BRELA>Ty jo... Tohle dílo se mě opravdu dotklo...\! Nepotlačené ego tohoto umělce je opravdu ohromující.
+
+message_169:
+      text:
+
+#Mooncake
+#Location: Train Station
+message_170:
+      text: \n<MĚSEŇ>BLUKY je často smutý, ale doopravdy mu jen schází někdo, s kým mluvit...\! a ten někdo jsem já!
+
+message_171:
+      text:
+
+#Blookie
+#Location: Train Station
+message_172:
+      text: \n<BLUKY>Všichni jsou tady tak odlišní a zajímaví...\! Zajímalo by mě, v čem jsem já odlišný a zajímavý...
+
+message_173:
+      text:
+
+#Whatever
+#Location: Train Station
+message_174:
+      text: \n<COKOLIV>Potřebuju pořádný prachy.
+
+#Location 2: Mr. Jawsum's Concierge
+message_175:
+      text: \n<COKOLIV>Potřebuju pořádný prachy.
+
+message_176:
+      text:
+
+#Babo
+#Location: Frozen Forest
+message_177:
+      text: \n<BABO>BABO rád studený čas...\! BABO potom vděčný za teplý čas...
+
+
+message_178:
+      text:
+
+#Hoffy
+#Location: Last Resort Casino
+message_179:
+      text: \n<HOFFY>Měl bych si od těchle automatů dát na chvíli pauzu...\!<br>Už mě začínají bolet ruce.
+
+message_180:
+      text:
+
+#Andrew
+#Location: Last Resort Casino
+message_181:
+      text: \n<ONDŘEJ>Dneska to vidím na pořádné výhry!\!<br>Ou jé! Pozitivní myšlení!
+
+message_182:
+      text:
+
+#Quaspy
+#Location: Outskirts
+message_183:
+      text: \n<KVASPA>Na tůře jsem si všiml jakéhosi obličeje ve skále.\! To by mě zajímalo, co s ním?
+
+
+message_184:
+      text:
+
+#Citrus
+#Location: Train Station
+message_185:
+      text: \n<CITRUS>Já na vlaky moc nejsem.\! Chodím sem jenom pro tu hudbu!
+
+message_186:
+      text:
+
+#Lulu
+#Location: Last Resort Casino
+message_187:
+      text: \n<LULU>Myslím, že jsem jela špatným autobusem...\! Tahkle to na těch reklamách nevypadalo...
+
+message_188:
+      text:
+
+#Amelia
+#Location: Last Resort Casino
+message_189:
+      text: \n<AMÉLIE>Ááá!... Jak jsem se do týhle díry vůbec dostala?\!<br>Tenhle týden to je každý den něco...
+
+#SW GALLERY
+message_190:
+      text: \n<AMÉLIE>Ty jo, tohle je celkem hustý...\! I tak je to ale zvláštní.\! Nevzpomínám si, že by tady tenhle hrad předtím byl.\! Možná se mi to jen zdá, kdo ví...
+
+#-------------------------------------------------------------------------------------------
+#DW_NPC_26
+
+#Soy Sauce
+#Location: Last Resort Casino
+message_191:
+      text: \n<SOJOVKA>Sakra práce! Zase jsem prohrál!\! Beztak je to všechno jenom podfuk!<br>\!Vsadil bych na to svoji levou nohu!
+
+#SW GALLERY
+message_192:
+      text: \n<SOJOVKA>Galerie jsou na vystavování takovýchle hustých věcí přece dělané!\! Měli by tady vystavit i mě!\! Já jsem přece taky hustá věc!
+
+#Tater
+#Location: Train Station
+message_193:
+      text: \n<TATER>Brzo se zvednu.\! Jen... mi dej chvilku.
+
+message_194:
+      text:
+
+#Simple Roach
+#Location: SW Kitchen
+message_195:
+      text: \n<PROSTÝ ŠVÁB>\com[2]Á! Našli mě!\! Neříkejte prosím nikomu, že tady jsem!\!<br>Já se jen rád hrabu ve spíži...\! A kdo ne?...
+
+message_196:
+      text:
+
+#Spaghetti
+#Location: Mr. Jawsum's Concierge
+message_197:
+      text: \n<ŠPAGETY>Ten vedle mě je nějaký podezřelý... jenom nevím přesně, jak to popsat...
+
+message_198:
+      text:
+
+#Wollie
+#Location: Last Resort Casino
+message_199:
+      text: \n<WOLLY>Jednou vyhraješ, jednou prohraješ...\!<br>No, to by člověk čekal.\!<br>Já to tak třeba nemám.\! Já jenom prohrávám...\! furt dokola.
+
+
+message_200:
+      text:
+
+#Bafino
+#Location: Last Resort Casino
+message_201:
+      text: \n<BAFINO>Ty jo! Připlatit si ten VIP zážitek bylo nejlepší rozhodnutí, které jsem kdy udělal!
+
+message_202:
+      text: \n<BAFINO>Zrovna jsem se vrátil z bufetu "sníš kolik zaplatíš" a zaslechl, že tady dnes večer bude sbírka na \c[3]TOFU\c[0]!\! Počítejte se mnou!
+
+message_203:
+      text:
+
+#Scuba
+#Location: Mr. Jawsum's Concierge
+message_204:
+      text: \n<SCUBA>Ajaj... Zase jsem nestihl zaplatit...\! PAN CENIL mě přetrhne jak hada!\! Běda mi... Běda mi...
+
+message_205:
+      text:
+
+#Darville
+#Location: Train Station
+message_207:
+      text: \n<DARVIL>Ajaj... To je v háji...\!<br>Uff...\! Proč se tohle musí dít vždycky zrovna mně?!
+
+message_209:
+      text: \n<DARVIL>...\! Do tohohle ti nic není, prcku.\! Dávej si bacha, s kým se taháš.\! S tím mám dost dobrý zkušenosti!
+
+#Location: Mr. Jawsum's Concierge
+message_206:
+      text: \n<DARVILLE>Safra..\! Jasně že zrovná já musím říct CENILOVI, že se na nás ti investoři vybodli!\! Vždyť za to přece nemůžu já, ne?!\! ...\! Ale to mu za žádnou cenu neřeknu.
+
+#Obaaa
+#Location: Train Station
+message_208:
+      text: \n<OBAAA>\sinv[1]Obbaaaaaaaaaaaaaaaa!\sinv[0]
+
+
+#Diving Man
+#Location: Underwater Highway
+message_210:
+      text: \n<POTAPĚČ>Čekal jsem sice podmořský život...\!<br>ale tohle jsem opravdu nečekal...
+
+message_211:
+      text:
+#-------------------------------------------------------------------------------------------------------
+#DW_NPC_27
+
+#Maestro
+#Location: Junkyard Entrance - Before Junkyard
+message_212:
+      text: \n<MAESTRO>Mí přátelé.\! Hledám umění.\!<br>Nebojte...\! až nějaké najdu, tak to poznám!
+
+#Location: Junkyard Entrance - After Junkyard
+message_213:
+      text: \n<MAESTRO>Hle, našel jsem umění na tom nejvíce nečekaném místě!\!<br>Paní bude jistě spokojena.
+
+#Location 2: SW Art Gallery
+message_214:
+      text: \n<MAESTRO>Hle!\! Není tohle to nejlepší umělecké dílo, které jste kdy spatřili?
+
+#Buckaroo
+#[UNPLACED]
+message_400:
+      text: \n<PAN TEHDÁ>Jak se máte, mládežníci?\! Já jsem PAN TEHDÁ...\! a za mlada jsem lítal kolem světa jak šílený!
+
+message_401:
+      text: \n<PAN TEHDÁ>Dneska... jsem trochu posednější.\! Stojím na téhle hoře a radím těm, kdo jsou ochotní si mě vyslechnout.
+
+message_402:
+      text: \n<PAN TEHDÁ>Ti, co tady jsou déle...\! Ví víc, než vám říkají...
+
+message_403:
+      text: \n<PAN TEHDÁ>Dalo by se říct, že máme třetí oko...\! jakýsi šestý smysl...\! jestli mě chápete.
+
+message_404:
+      text: \n<PAN TEHDÁ>Vy tři fialovovlasí jste všichni plní lásky a nadějného ducha...\! Ale ten tmavovlasej, jo, ty.\! Tvoje aura je celá nadraka!
+
+message_405:
+      text: \n<PAN TEHDÁ>Celá temná a zvrácená...\! a pochybuju, že by se jí chtělo někdy v brzké době zklidnit.\! Čeká tě fakt dlouhá cesta.
+
+message_406:
+      text: \n<PAN TEHDÁ>Čímž tě rozhodně nechci strašit, kluku.\! Každý máme svou cestu...\! a já jsem ochoten ti s tvojí pomoct!
+
+message_407:
+      text: \n<PAN TEHDÁ>Rád ti odpovím na pár otázek...\!<br>takže chceš-li, ptej se!
+
+#NOTHING
+
+message_408:
+      text: \n<PAN TEHDÁ>Tak ty nemáš, na co by ses ptal takovýhohle pamětníka, jako jsem já?\! Jak chceš...\! Ale já zůstanu tady...\! a budu ti držet palce!
+
+#NOTHING
+
+message_409:
+      text: KDE TO JSEM?
+
+message_410:
+      text: KDE JE BASIL?
+
+message_411:
+      text: KOLIK TI JE?
+
+message_412:
+      text: NIC
+
+message_413:
+      text: \n<PAN TEHDÁ>\sinv[1]Ty brďo!\sinv[0]\! Tak ta je dobrá!\! Kde bych tak začal?\! Hmm...\! No, tohle místo je tady od začátku času samotného, pokud se nepletu.
+
+message_419:
+      text: \n<PAN TEHDÁ>Každému připadá jinak...\! ale tentokrát je z většiny celý barevný a šťastný...\! a taky setsakramentsky obří!<br>Máš fakt silnou představivost, kluku.
+
+message_414:
+      text: \n<PAN TEHDÁ>No, není tady, víc ti toho neřeknu!\! Ale řekl bych, že ty na tuhle otázku máš lepší odpověď, než já.\! Tomu, kdo hledá pravdu...\! podá svět KLÍČE.<br>A tyhle KLÍČE...\! budou mít vždy jinou formu, podle vůle onoho člověka.\! Ty víš, jak vypadají tvoje klíče, že?\! Kdyžtak zmáčkni klávesu \DII[pageup]!
+
+message_417:
+      text: \n<PAN TEHDÁ>\com[2]To nevíš, že je neslušné se na takovéhle věci ptát!\! Ale řekl bych, že to jě nějakých 33000 let...\! ale na tom teď už ani moc nezáleží.
+
+message_415:
+      text: \n<PAN TEHDÁ>A teď už bych být váma letěl!\! Máte před sebou ještě dlouhou cestu, mládežníci!
+
+message_416:
+      text: \n<PAN TEHDÁ>Držím...\!\sinv[1] vám palce!
+
+message_418:
+      text: \n<PAN TEHDÁ>Toť vše!\! Chtěli byste povědět o čemsi jiném?
+
+message_420:
+      text: PAN TEHDÁ se změnil v písek.
+
+message_421:
+      text: Písečná socha určitého pamětníka.
+
+message_422:
+      text: \n<???>Zdravíčko!
+
+#rootin and tootin
+#buckaroo
+
+
+#Fiesta
+#Location: Last Resort Casino
+message_218:
+      text: \n<FIESTA>Už mi ty automaty lezou krkem, ale co jiného tady dělat...\! Měla bych jet zpátky do města!
+
+message_219:
+      text:
+
+#Touchdown
+#Location: Mr. Jawsum's Concierge
+message_220:
+      text: \n<NÁRAZ>Slyšel jsem, že CENILŮV nový vedoucí ochranky je fakt tvrďák, ale na NÁRAZE nemá!
+
+
+message_221:
+      text:
+
+#Trevor
+#Location: Frozen Forest
+message_222:
+      text: \n<TREVOR>Sice tehdy žádný sníh nebyl, ale vždycky, když tudy jdu, tak mi začne chybět mé dětství...\! To by mě zajímalo proč...
+
+message_223:
+      text:
+
+#Mountain
+#Location: Train Station
+message_224:
+      text: \n<HORA>Existovat je největší dar.
+
+message_225:
+      text:
+
+#Cesar
+#Location: Last Resort Casino
+message_226:
+      text: \n<CÉZAR>Tohle místo je super!\! Tohlensto je život!
+
+#Message in the bottle
+#Location: Otherworld Lake
+message_227:
+      text: Vzkaz v láhvi.\! Přečteš si ho?
+
+message_228:
+      text: \"When the Moon hits your eye like a big pizza pie, that's...\" #duplikát, nechce se mi hledat... prosím vyřeš a tento komentář smaž
+
+message_229:
+      text: Dokončil jsi vzkaz, zavřel ho do láhve, a hodil ho zpět do jezera.
+
+#Lemonade Jash
+#Location: Train Station
+message_230:
+      text: \n<CITRONOVÝ JAŠ>Já sám sebe považuju za celkem klidného JAŠE...\!<br>ale jestli mě něco rozčiluje...\! tak je to předbíhání...
+
+#Gibs
+#Location: Train Station
+message_231:
+      text: \n<GIBS>Nemáte jich \sinv[1]dost?\sinv[0]\! To nevadí.\! Cokoliv pomůže.\!<br>Tahle písnička je jedna z mých oblíbených.\! Snad se vám bude líbit!
+
+message_232:
+      text: \n<GIBS>Ach jo...\! No, to nevadí.\! Je to \sinv[1]v pohodě...\sinv[0] #tohle bylo i v jiném dokumentu blbě...
+
+#Gumbo
+#Location: OTHERWORLD
+message_233:
+      text: \n<GAMBO>GAMBO... \!\{\sinv[1]ŠŤASTNÝ!\sinv[0]
+
+message_234:
+      text: Jsi si dost jistý, že v tomhle bazéně straší.\!<br>Skočíš do něj?
+
+#Sprout Mole
+#Location: Train STATION
+message_235:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\Com[2]\{ÁÁÁÁÁÁÁÁ, POMOC!!\!\}<br>Zas tam to hnusné rostlinové stvoření!
+
+message_236:
+    text: \n<KLÍČKOKRTEK>No dovol!\! Já nejsem žádné hnusné rostlinové stvoření!\!<br>Já jsem KLÍČKOKRTEK, velice vyspělý a inteligentní tvor.
+
+message_237:
+    text: \n<KLÍČKOKRTEK>To, co popisuješ, zní spíše jako ZTRACENÝ KLÍČKOKRTEK.\!<br>Když se KLÍČKOKRTEK ztratí, může být dost nepříjemní a dokonce na ostatní útočit bez jakékoliv provokace!
+
+message_238:
+    text: \n<KLÍČKOKRTEK>Hmm...\! Počkat...\! Kde to vlastně jsem?\!<br>... \!Že bych se... \!ztratil?
+
+message_239:
+    text: \n<KLÍČKOKRTEK>Urff...\! Z ničeho nic je mi nějak divně...
+
+message_240:
+    text: \n<ZTRACENÝ KLÍČKOKRTEK>...\| ...\| ...
+
+message_241:
+    text: \n<ZTRACENÝ KLÍČKOKRTEK>\sinv[1]\{\com[2]EEEE\{EEEEEE\{EEEEEEEEEEEEEE!!!
+
+#Gator Guy Rubber BAND
+
+message_245:
+    text: Získal jsi \c[5]GUMIČKU\c[0].
+
+message_246:
+    text: \n<KROKOĎÁK>Tak ty ses konečně dostal na šéfovu světlou stránku, KELI?\! Pro mě seš pořád jeden velkej raubíř, na tebe si budu dávat bacha...
+
+message_247:
+    text: \n<KROKOĎÁK>S šéfem něco je...\! Už jsem ho dlouho neslyšel se smát.\! ...\! Celkem mi to chybí...
+
+message_248:
+      text: \n<KROKOĎÁK>Budeš mi fakt chybět, AUBRY.\! Pamatuješ, o čem jsme se tehdá bavili?\! Neber všecko tak vážně!\! Člověk se musí taky někdy zasmát.
+
+message_249:
+      text: Zde končí dálnice.
+
+message_251:
+      text: \n<PODEZŘELÝ KRTEK>\com[2]\quake[1]\{\{EEEEEE\{EEEE\{EEEEEEEEK!!
+
+#TOILET
+
+message_252:
+      text: Chtěl bys zpět do \c[11]KONEČNÉ\c[0]?
+
+message_253:
+      text: Chtěl bys zpět do \c[11]HLUBŠÍ STUDNY\c[0]?
+
+
+#KLÍČKOKRTEKS IN ART Gallery
+message_255:
+      text: \n<KRTEK SLUŽKA>Pusťte mě dál! Víte, jak dlouho už čekám na ZLATÍČČINO nejnovější dílo?!
+
+message_256:
+      text: \n<KRTEK PINGL>Pusťte mě prosím dál! Slibuju, že vám napíšu dobrou recenzi!
+
+message_257:
+      text: \n<KRTEK PINGL>Zpátky na vaše místa, vy dva!\!<br>Dobře víte, že hosté mají přednost!
+
+message_258:
+      text: \n<KRTEK PINGL>Neprojdete!
+
+message_259:
+      text: \n<KRTEK SLUŽKA>Nechte toho, hoši!\! Vůbec nám tady tímhle nepomáháte!
+
+message_260:
+      text: \n<KRTEK SLUŽKA>Uff...\! Měli sem poslat hlídat HAROLDY...\! ale ti se prý všichni zdrželi buď v TANEČNÍM SÁLE nebo v KNIHOVNĚ...
+
+message_261:
+      text: \n<KRTEK SLUŽKA>Ať už se tam děje cokoliv, asi je to důležitější událost, než ZLATÍČČINA nejnovější výstava!
+
+message_262:
+      text: \n<KRTEK SLUŽKA>Vítejte v \c[11]KRÁLOVSKÉ GALERII\c[0]!\!<br>Užijte si prosím tento kousek \c[3]TOFU\c[0] zdarma!
+
+message_263:
+      text: \n<KRTEK SLUŽKA>Vítejte v \c[11]KRÁLOVSKÉ GALERII\c[0]!\!<br>Tento měsíc je zde vystaveno \"ZLATÍČČINO KOMPLETNÍ DÍLO\"!
+
+message_264:
+      text: Získal jsi \c[3]TOFU\c[0]!
+
+message_265:
+      text: \n<KRTEK PINGL>Hej, kámo... Seš v pohodě?\! Jsi celý bledý!
+
+message_266:
+      text: \n<KRTEK PINGL>Napadlo nás, že bychom někdy tento týden zašli na karaoke.\! Měli byste s náma!
+
+message_267:
+      text: \n<KRTEK PINGL>Na tom karaoke si dneska vyzpívám duši!\! Na můj cover \"ZLATÍČKA V TVOJEJ ZEMI\" nikdo nemá! #projížděl jsem 16hodinový playlist jen českých písniček a nenašel jsem žádný název, do kterého by lépe šlo zakomponovat slovo ZLATÍČKO. ano, vím, že češi taky znají Don't Stop Me Now, ale tohle je překlad...
+
+message_268:
+      text: \n<KRTEK SLUŽKA>Já bych chtěl taky na karaoke...
+
+message_269:
+      text: \n<KRTEK SLUŽKA>ZLATÍČKO umí všechno!\! Umí malovat, zpívat, tančit a dokonce i točit filmy!\! ...\! Kéž by si mě alespoň všimlo...
+
+#LAST RESORT BREAKROOM
+
+message_280:
+      text: \n<KROKOĎÁK>Buďte v klidu.\! Nebudeme se s váma prát...\!<br>No, alespoň ne, když máme zrovna volno.
+
+message_281:
+      text: \n<KROKOĎÁK>Jestli v těhle skříních něco zapomenete, nejsme za ně zodpovědní.\!<br>Cennosti si nechávejte doma!
+
+message_282:
+      text: \n<KROKOĎÁK>Já ti říkám...\! Že jestli ještě jednou někdo zapomene v mikrovlnce rybu, tak bude zle...
+
+#LAST RESORT CONSTRUCTION AFTER GETTING HERO
+
+
+message_286:
+      text: \n<KROKOĎÁK>Tak vy už jdete jinam?\!<br>Jen na nás nezapomeňte, až z vás bude hvězda!
+
+message_285:
+      text: \n<KROKOĎÁK>Přeju vám bezpečnou cestu, hoši.\!<br>Fňuk... Vy děti rostete tak rychle...
+
+message_287:
+      text: \n<KROKOĎÁK>Vy lidé pořád jen míříte výš a výš\! Jen nebrečte, když se s váma život začne rvát!
+
+message_288:
+      text: \n<KROKOĎÁK>Opravdu byste nechtěl zůstat aspoň trochu déle, HERO?\!<br>...\! No...\! Za zkoušku to stálo...
+
+#LAST RESORT CONSTRUCTION AFTER HERO IS BOSS
+
+message_290:
+      text: \n<KROKOĎÁK>Hele, vy jste se vrátil!\!<br>Já věděl, že na nás nezapomenete, šéfe.
+
+message_289:
+      text: \n<KROKOĎÁK>Vy jste všichni tak vyrostli...\!<br>Kdybych byl vaše mamka, byl bych na vás pyšný...
+
+message_291:
+      text: \n<KROKOĎÁK>Koho to tu máme!\!<br>Zaslechl jsem, že vám to tady teď celý patří.\!<br>Snad se o nás dobře postaráte, šéfe!
+
+message_292:
+      text: \n<KROKOĎÁK>HERO! Já věděl, že se pro nás vrátíte!\!<br>Jak jde život, pane?
+
+#MINA AND Family
+
+message_300:
+      text: \n<MINA>Zdravím a vítejte!\! Buďte tady jako doma!
+
+#Eats cheesecake
+
+message_301:
+      text: \n<RELL>V tomhle domě snad není chvíle nazmar...\!<br>Viď, VIKTORE?
+
+message_302:
+      text: \n<VIKTOR>\sinv[1]Uváááá...?
+
+message_303:
+      text: \n<JOJO>Mamka říká, že jestli budeme zlobit, zkončíme v \c[11]TEMNÉ PROPASTI\c[0]...\! No a!\! Já se žádnýma bubákama zastrašit nenechám!
+
+message_304:
+      text: \n<LUKY>\sinv[1]Zzzzzzzzzzzzzzz...\! Ještě jeden salám... prosím...
+
+message_305:
+      text: \n<NOVA>\sinv[2]Šup! Šup! Šup!
+
+message_306:
+      text: \n<ADONUS>Se svými sourozenci jsme vykopali \sinv[1]ooooobří\sinv[0] tunel s tajným vchodem, o kterém nikdo jiný neví!
+
+message_307:
+      text: \n<NÁTAN>Chtěl bych jít hledat poklady do \c[11]DINOVA KOPU\c[0], ale nejdřív se musím zeptat mamky...
+
+#CLUB SANDWICH:
+
+#LAST RESORT
+
+message_310:
+      text: \n<KLÍČKOKRTEK MICHAL>\com[2]Hicc...\! ...\! \sinv[1]VESMÍRNÝ MILENEC sem...\! VESMÍRNÝ MILENEC tam...\! A co chudák KLÍČKOKRTEK MICHAL?
+
+message_311:
+      text: \n<KROKOĎÁK>Atmosféra je tady opravdu ťip ťop.\! A REUBEN dělá \sinv[1]faaaaakt skvělou \c[3]OVOCNOU ŠŤÁVU\c[0]...\sinv[0]
+
+message_312:
+      text: \n<KROKOĎÁK>KLUBOVÝ SANDWICH je prostě jiná liga.\!<br>REUBEN a HOAGIE jsou prostě třída!
+
+
+#PYREFLY FOREST
+
+#direction fix
+message_314:
+      text: \n<KNÍŽE MAXIMUS IV.>In a cruel twist of fate, I lost my entire family in a day... \! Curses...\! If only I was stronger!
+
+message_315:
+      text: \n<KNÍŽE MAXIMUS IV.>Sigh...\! REUBEN...\! I'll take one more drink for my sorrows.
+
+message_316:
+      text: \n<REUBEN>Comin' right up, MAX!
+
+message_317:
+      text: \n<ROSA>Bah! It's you four again!\!<br>Haven't you ruined my life enough times!?
+
+message_318:
+      text: \n<ROSA>Thanks to you, SWEETHEART is nowhere to be found!\!<br>I hope you're happy with yourselves!
+
+message_319:
+      text: \n<MEDVĚD KODIAK>\sinv[1]Awroo?
+
+message_320:
+      text: \n<KLÍČKOKRTEK>\{\sinv[1]HELP! I DON'T KNOW WHAT TO DO!!
+
+#OTHERWORLD
+
+#ems intro
+message_321:
+      text: \n<EMS>\}Nazdárek, HERO!
+
+message_322:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herAhoj, EMS! Jak jsi na tom?
+
+message_323:
+      text: \n<EMS>\}Jo, v pohodě...\! HOAGIE mě za trest poslal na gauč...
+
+message_324:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herCože? Za trest?\! Cos provedla?
+
+message_325:
+      text: \n<EMS>\}Ale nic...\! Jen jsem jim málem snědla stoly...
+
+message_326:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herCože?\! Stoly?\! To dokážeš?
+
+#HERO looks at TABLEs
+
+message_327:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: \herAha...\! Už chápu...\! Ty stoly jsou z \c[3]CHLEBA\c[0]...
+
+#ems afterwards
+
+message_328:
+      text: \n<EMS>\}Nebudu jíst stoly...\! Nebudu jíst stoly...
+
+message_329:
+      text: \n<ZEMĚ>...
+
+message_330:
+      text: \n<VESMÍRNÝ PIRÁT>Neříkej nikomu, že jsem tohle řekl...\!<br>Ale být VESMÍRNÝ PIRÁT není lehký...
+
+message_331:
+      text: \n<VESMÍRNÝ PIRÁT>Co je to dneska s tím komikem?\! Už jsem slyšel za život hodně špatných vtipů, ale těmhle zatím žádný z nich nešahá ani po kolena!
+
+message_332:
+      text: \n<VESMÍRNÝ PIRÁT>Být komik není lehké...
+
+message_333:
+      text: \n<VESMÍRNÝ PIRÁT>\com[2]\sinv[2]\{\{AHAHAHAHAHAHA!!
+
+message_334:
+      text: \n<VESMÍRNÝ PIRÁT>Hej, slyšeli jste to?!\! Ta ZEMĚ je ale veselá kupa!
+
+message_335:
+      text: \n<VESMÍRNÝ PIRÁT>Jak dlouho už tady jsme?\!<br>Myslíte, že si KAPITÁNOVI někdy dojde, že jsme pryč?
+
+#ORANGE OASIS
+
+#Izzy
+
+message_41:
+      text: \n<DANĚK>\sinv[1]Trochu se uvolněte... Dýchejte.\!<br>Pojďme uklidnit ty vaše mozkové svaly nějakou muzikou.
+
+message_39:
+      text: \n<VÁNEK>\sinv[1]Dejte si voraz... Odpočiňte.\! Vítejte v zahradě ticha...
+
+message_340:
+      text: \n<TATÍK CHIP>Já jsem TATÍK CHIP!
+
+message_341:
+      text: \n<CHLEBÍČEK>\quake[1]Syk...
+
+#Extras
+#Location: Slime Girls Lair
+message_500:
+      text: \n<BENDA>Hele, no tak.\! Někoho holt vybrat musím!\!<br>Pomůžete mi snad, ne?
+
+
+#DEEPER Well/BLACK SPACE
+
+
+message_601:
+      text: \n<NIC>Tvé myšlenky nejsou volné.\! Abys získal novou vzpomínku, musíš začernit jinou.\! Avšak...\! Všechny vzpomínky jednou zmizí. #uvadnou?
+
+message_615:
+      text: \n<NIC>Možná jsi již zaznamenal...\! kletbu \c[11]HLUBŠÍ STUDNY\c[0].
+#-
+
+message_602:
+      text: \n<PRÁZDNO>S časem se mění to, co je opravdu důležité.\! Musíš se rozhodnout co si necháš, a co odhodíš.
+
+message_613:
+      text: Stvoření si mumlá nesmysly.
+
+#-
+message_603:
+      text: \n<NULA>Lidé jsou zpoutané bytosti.\! Tvé hranice ti dávají osobitost.\! Co tě vůbec dělá člověkem?
+
+#-
+
+message_604:
+      text: \n<NICOTA>Když se vyskytnou potíže, vždy se s nimi vyskytne možnost utéct.\! Ale jednou dost možná poběžíš sám.
+
+#-
+
+message_607:
+      text: \n<POVÝŠENEC>A co když je to na tobě?\! Co když je to jen na tobě?
+
+message_606:
+      text: \n<POVÝŠENEC>Dotáhni to do konce, SNÍLKU.\! Nikdo krom tebe nemůže.
+
+#-
+
+message_609:
+      text: \n<MIMO>Svět je plný otázek, na které nikdy nenajdeš odpověď.\! Avšak...\! jsou zde i takové, na které se odpověď najít dá.<br>\!Co budeš dělat, až pravda vyjde najevo?
+
+#-
+
+message_610:
+      text: \n<MÍNUS>Je sobecké nadále snít, když víš, že zde jsou takoví, kteří na tebe čekají.
+
+#-
+
+
+
+message_608:
+      text: \n<TICHO>Neseš nelehké břemeno.\! Máš sílu změnit budoucnost.\! Co budeš dělat, SNÍLKU?\! Co budeš dělat?
+
+#-
+
+message_611:
+      text: \n<DUTOST>Naposledy, cos spadl do hluboké vody... \!Byl jsi opravdu zachráněn?\! Nebo jsi byl proklet?
+
+#-
+
+message_612:
+      text: \n<PRÁZDNOTA>Do jaké dálky zajdeš za svým kamarádem?
+
+#-
+
+message_614:
+      text: \n<PRÁZDNO>Ne každý má v takovýchto věcech na výběr.
+
+#-
+
+
+message_148:
+      text: \n<ROAMIN' COW>\sinv[1]Roamin'... roamin'... roamin'... #tohle nejde moc přeložit a český ekvivalent Rollin' od Limp Bizkitů opravdu neznám...
+
+#- Burpmo
+
+message_151:
+      text: \n<GRGMO>Jsem GRGMO, a nikdo jiný bych být nechtěl!
+
+message_313:
+      text: \n<GRGMO>Jsem GRGMO, a jinak bych to nechtěl!
+
+#-- Abyss Skeletons
+
+
+message_444:
+      text: \n<AUBRY?>Fňuk...\| Fňuk...\| OMORI...

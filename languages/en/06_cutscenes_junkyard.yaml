@@ -1,0 +1,399 @@
+# =========================================================================================
+# Cutscene: Aubrey's SMASH Tag Skill
+# =========================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Safra!<br>Vypadá to, že nám nějaké smetí překáží v cestě!\kel #přidáno nějaké smetí
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Dalo by se říct že je to...\! překážka...\! chápeš?\her #tady to chce nějak zachovat vtip, ale zatím mě nic moc nenapadá
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Jen se nebojte!\!<br>Tenhle kus šrotu nezmůže nic proti mé pálce!\aub #blíže orig
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: OMORI, víš jak se ty dokážeš prosekávat kořenama a kuželama? \!Tak jen abys věděl, nejsi tady jediný se zvláštní schopností!\aub
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Já třeba umím odstraňovat obří překážky z cesty!\aub
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: KEL a HERO mají taky své vlastní zvláštní schopnosti...<br>\}\!I když s KELEM si nejsem zas tak jistá... hehe...\aub
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Stačí mi předat babu přes MENU nebo pomocí klávesy \DII[tag]! \!<br>A tenhle kus šrotu bude ten tam ajn cvaj!\aub
+
+
+message_7:
+      text: Tato brána je zamčena.\! Asi by ji dokázal otevřít \c[4]KLÍČ KE SMETIŠTI\c[0].
+
+# =========================================================================================
+# Cutscene: Kel's THROW Tag Skill
+# =========================================================================================
+
+#message_20:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: Hey, is that a target I see?\! I'll have you know that throwing stuff at targets is my specialty!\!<br>Make me LEADER, OMORI! I'll hit that switch for you!\kel
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]Hej, PÁSOROBOTE!\!<br>Změňtě už konečně ten směr!\kel
+
+message_31:
+      text: \n<PAN PÁSOROBOT>\quake[1]Bzzzzum...\! Hm...\! Neslušný...\quake[0]
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: KELI, nemůžeš na lidi takhle prostě štěkat pokyny!\!<br>Chování trochu!\aub
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: No tak... Není třeba se dohadovat.\! Nechte to na mně!\her
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: Ahm...\! Zdravím, PANE PÁSOROBOTE.\! Já a mí společníci by po vás vyžadovali změnu směru jízdy pásů.\! Byl byste vy a vaši přátelé hodný a pomohl nám, prosím?\her
+
+#HERO CHARM ANIMATION
+
+message_35:
+      text: \n<PAN PÁSOROBOT>\quake[1]Bzzzzzum!\! Ahh...\! Hmm...\! Slušný...\! Dobře... \quake[0]
+
+message_36:
+      text: \n<PAN PÁSOROBOT>\}\quake[1]Bzzzzum... Neslušný...
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: No tak... Jen nezoufejte!\! Nech to na mě!\!<br>Předej mi BABU, OMORI!\her
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill (Cont.)
+# =========================================================================================
+
+#Trigger: OMORI cuts the cheese.
+
+message_40:
+      text: Řízl jsi do sýru.
+
+#Trigger: Tag HERO and examine Cheese.
+
+# EMS spirals down from the sky
+
+message_50:
+      text: \}Zdravím, přátelé!\! Já jsem EMS, prostý, hladový křeček!\ems
+
+#EMS looks around.
+
+message_51:
+      text: \}Cože? Tohle je celé pro mě? Mňam!\!<br>Jak jste věděli, že mám ráda sýr?\ems
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Moc dlouho nám na to netrvalo přijít!\!<br>Ty máš ráda všechno.\her
+
+#HERO turns to party.
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Kamarádi, tohle je křeček EMILY. Já ji ale říkám jednoduše EMS!\!<br>Známe se spolu už dlouho.\her
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Můžeš se do toho pustit, EMS!\her #přeloženo
+
+message_55:
+      text: \}To teda!\! \Com[2]Hned to bude!\ems
+
+#EMS begins to devour the cheese.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Ty brďo...\kel
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Jak se to do ní všecko vůbec vejde?\aub
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Co já vím. Raději si s tím nedělám hlavu.\her
+
+message_59:
+      text: Sýr je snězen a cesta je vyklizena.
+
+message_60:
+      text: \}To bylo skvělé!\ems
+
+message_61:
+      text: \}Pokud vám ještě někdy bude dělat problém obrovský kus sýru, víte, koho zavolat!\ems #přeloženo
+
+message_62:
+      text: \}Sbohem, přátelé!\ems
+
+#EMS spirals into the sky.
+
+# =========================================================================================
+# Cutscene: Rosa
+# =========================================================================================
+
+#Trigger: Entering proximity in JUNKYARD
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Uff...\! Jak tady máme něco vůbec najít!?\!<br>Vždyť jsou tady jenom samé odpadky!\aub #hff na uff
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Počkat, my něco hledáme?\kel
+
+message_82:
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\who
+
+message_83:
+      text: Tak jsem ji konečně našla.\who
+
+message_84:
+      text: Po stovkách hodin neustálého kopání...\!<br>patří tato \c[4]VÝJIMEČNÁ KAZETA\c[0] jen a jen mně!\who
+
+message_85:
+      text: ROSE!\! Té \největší ZLATÍČČINÉ fanynce na světě!\ros #asi si taky myslí, že je nejlepší, ale tady se spíše hodí největší
+
+message_86:
+      text: S touto jedinečnou položkou v mé sbírce<br> konečně předeženu všechny její falešné fanoušky!\ros #konečně místo absolutně - blíž orig
+
+message_87:
+      text: Počkat...\! Čuch...\! Ale ne!\! <br>Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0]...\! Smrdí po hovínkách.\!<br>Čuch... čuch...\! No ne!\! A já teď taky smrdím po hovínkách!\ros
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Cože?... Slyšela jsem správně, že našla \c[4]VÝJIMEČNOU KAZETU\c[0]?\!<br>Vždyť tu tady celou dobu hledáme!\aub
+
+message_89:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \sinv[1]No faaa\}aaak\}ttt...\sinv[0]\kel\}
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Jdeme si pro ni!\kel
+
+message_91:
+      text: \Com[2]Víte, že vás všechny slyším?!\!<br>Ano, čekala jsem, že vlastnictví tak vzácné relikvie mi přinese nějaké ty problémy.\ros
+
+message_92:
+      text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros\sinv[0]
+
+message_93:
+      text: Tak o co běží? Závidíte mi snad??\ros
+
+message_94:
+      text: Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] je moje!\!<br>A nikdy vám ji nedám! Ne teď a ne nikdy jindy!\ros
+
+message_95:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Hele! Tak jsme sem snad nešli jen tak pro nic za nic!\!<br>Jestli nám tu tvoji \c[4]VÝJIMEČNOU KAZETU\c[0] sama nevydáš, budeme si ji muset vzít silou!\kel
+
+message_96:
+      text: \Com[2]\{\quake[1]EEEEEK!! BARBAŘI!!\quake[0]\}\!<br>Násilí nikdy nic nevyřešilo.\ros
+
+message_97:
+      text: Hmf!\! Tohle je pod mou úroveň.\!<br>Sbohem, vy matláci... už vás nechci nikdy vidět!\ros #hmph na hmf - přirozenější zápis tohoto zvuku v češtině
+
+#ROSA runs off screen
+
+message_98:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \Com[2]Počkej! Vrať se!<br>\!Rychle, OMORI! Za ní! Nesmí nám utéct!\kel
+
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Rychle, OMORI! Za ní!\!<br>Nesmí nám utéct!\kel
+
+# =========================================================================================
+# Cutscene: Loading...
+# =========================================================================================
+
+#Trigger: Entering proximity in JUNKYARD - BOSS MAP.
+
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: ROSO... tak tě konečné máme!\!<br>A teď nám vrať tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: ...\kel
+
+message_122:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Co to s ní je?\!<br>\{\Sinv[1]\Com[2]HEJ ROSO, SLYŠÍŠ NÁS!?\kel\}\sinv[0]
+
+message_123:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Co?\! Pročpak nám neodpovídá?\!<br>Pojďme blíž.\her
+
+# =========================================================================================
+# Cutscene: Loading... continued
+# =========================================================================================
+
+#Trigger: Defeating download window
+
+message_140:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: ...\! Co...\! to bylo?\her
+
+message_141:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: To je úplně jedno! Musíme sebrat tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
+
+#OMORI walks to ROSA.
+
+message_142:
+      text: Vzal jsi ROSE její \c[4]VÝJIMEČNOU KAZETU\c[0].
+
+#ROSA is surprised and looks around.
+
+message_143:
+      text: Cože? Co se to stalo?\ros
+
+#ROSA looks at OMORI.
+#ROSA is surprised.
+
+message_144:
+      text: Hej! To je moje! Vraťte mi to!\ros
+
+#KEL jumps.
+
+message_145:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Zapomeň! Kdo dřív přijde, ten dřív mele.\!<br>A teď s ní zpátky do kazeťáku VESMÍRNÉHO MILENCE, tak kam hezky patří!\kel
+
+message_146:
+      text: Hm?\! VESMÍRNÝ...\! MILENEC...\! Slyším dobře?\ros
+
+#ADD Ohohoho
+
+message_147:
+      text: Ach, ty nevědomé dítě.\!<br>To se k tobě nedostala ta žhavá zpráva?\ros
+
+message_148:
+      text: Důvěryhodné zdroje říkají, že se <br>VESMÍRNÝ MILENEC a ZLATÍČKO již dávno rozešli!\ros
+
+message_149:
+      text: Jakpak by asi tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] jinak skončila na \c[11]SMETIŠTI\c[0]?\! Vždyť ji sem vyhodil sám VESMÍRNÝ MILENEC!\ros
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Že ji vyhodil on sám!?\!<br>Ajaj...\! Tak to nezní moc dobře.\her
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ale pokud se VESMÍRNÝ MILENEC rozešel se ZLATÍČKEM, dokážeme ho vůbec vzbudit?\aub
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Budoucnost kdysi prosnulé koalice VESMÍRNÝCH PIRÁTŮ závisí jen na nás...\aub
+
+message_153:
+      text: Hmm.\! Tak to už je váš problém.\ros
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \com[2]Hele, počkej ještě!\! A jak máme vědět, jestli nám prostě nekecáš?\! Co když se z nás jen snažíš vymámit zpátky tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
+
+message_155:
+      text: No...\! Já...\! \Com[2]nikdy!\!<br>Jsem možná otravná a drzá, ale nejsem lhářka!\ros #správný rod
+
+message_156:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Tobě tak budeme věřit!\! Za mě si tu \c[4]VÝJIMEČNOU KAZETU\c[0] necháme a tuhle tvou zprávu si ověříme.\kel
+
+message_157:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: A teď vypal, ty kytkovitá obludo!\! Běž otravovat někoho jiného!\kel
+
+message_158:
+      text: Ach, panečku!\! Jak neslušné.\ros
+
+#ROSA walks away, then turns back to party.
+
+message_159:
+      text: Za tohle zaplatíš, ty hňupe! Na to vem jed!\ros
+
+#ROSA walks off screen
+
+# =========================================================================================
+# NEW KEL THROW
+# =========================================================================================
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \com[2]Au! Co to-!\! Co to mělo bejt!?\kel
+
+#KEL exclamation then idea
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Heh. Kdo by to byl řek'?\! Na hlavě má slabé místo!\!<br>Takové bych dokázal poznat z dáli.\kel
+
+#pan down to platform
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Pojďme na něj zkusit něco hodit!\!<br>To beztak něco udělá.\kel
+
+message_173:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Támhleta plošina vypadá jako fajn místo na házení.\!<br>dej mi BABU! Tohle je moje!\kel #odzvýraznění dej mi

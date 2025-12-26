@@ -1,0 +1,157 @@
+
+# =========================================================================================
+# Sidequest: Seashells
+# =========================================================================================
+
+#intro
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelHey, neighbor! How's it going?
+
+message_1:
+      text: \n<MODROVLASÁ HOLKA>Ahoj, KELI!\! Ale, koho to s sebou dneska máš?
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTohle je můj brácha a naši kamarádi!
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTohle je AUBRY!
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelMůj brácha, HERO!
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here CO TADY DĚLÁ TOHLE???
+      text: \kelA můj nejlepší kamarád, SUNNY!
+
+message_2:
+      text: \n<MODROVLASÁ HOLKA>Počkat! Tebe ale poznávám!\! SUNNY, ne?\!<br>Promiň, už je to dávno.\! Stejně jsme se mockrát nepotkali...
+
+message_3:
+      text: \n<MODROVLASÁ HOLKA>My tady bydleli odjakživa, dokud mě naši neposlali na internátní školu. Z té jsem se vrátila před třemi lety, pokud se nepletu? #tohle zní v originále extrémně nonsensově
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelSUNNY! Tohle je CHRIS, moje sousedka! Je hrozně fajn\! A je umí z naší školy nejrychleji plavat!
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel\sinv[1]Ostatní jí říkají, že je jak mořská panna...\! nebo žralok...\! nebo dokonce torpédo!\sinv[0]
+
+message_6:
+      text: \n<MODROVLASÁ HOLKA>Ale, KELI... Ty těma komplimentama nikdy nešetříš, viď? Haha...
+
+message_7:
+      text: \n<MODROVLASÁ HOLKA>Nesnažíš se letos dostat do basketbalového týmu?\! I'm sure you'll be a shoe-in... Hehe... #tak tady opravdu nevím.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelNo, zkusím to!\! Poslední dobou hrávám jen tak na tom hřišti v parku s kýmkoliv, kdo se najde!\! Myslím, že se zlepšuju, i když se to občas těžko posuzuje...\! Heh...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelAle kdybych byl do basketbalu tak zarytý, jako ty do plavání, rozhodně bych měl větší šanci se tam dostat...
+
+message_10:
+      text: \n<MODROVLASÁ HOLKA>Ale, já do toho zas tolik nedávám...\! Upřímně to beru spíš jako zábavu (spíš koníček? to je na tobě)!\! A stejně...\! i když ráda plavu v bazéně, moře je stejně pořád moje forte!
+
+message_11:
+      text: \n<MODROVLASÁ HOLKA>Miluju na něm snad všechno...\! pláž...\! <br>zvuk přílivu...\! dokonce i vůni chaluh...\!<br>Ach...\! Hehe...\! Promiňte... Nezním trochu posedle?
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelNeboj, to je za mě úplně v pohodě!\! <br>Je hezké, mít nějakou takovou vášeň!
+
+message_13:
+      text: \n<MODROVLASÁ HOLKA>Hehe...\! Asi jo...\! Vlastně to všechno začalo na té internátní škole! Byla totiž na ostrově!
+
+message_14:
+      text: \n<MODROVLASÁ HOLKA>Moře mi připomíná všechny ty kamarády, které jsem si tam udělala...\!<br>Doufám, že je někdy zase uvidím.
+
+message_15:
+      text: \n<MODROVLASÁ HOLKA>Ale...\! prozatím jsem spokojená se sbíráním \c[4]MUŠLÍ\c[0] a tak.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelVíš... to mi trochu připomnělo...\!<br>že odsud bude SUNNY brzo stěhovat!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kelMožná bys mu mohla poradit s tím, jak si zvyknout na nové místo!
+
+message_18:
+      text: \n<MODROVLASÁ HOLKA>SUNNY se bude stěhovat?\! Hmmm...\! No, být daleko od kamarádů mi ze začátku dávalo dost zabrat...\! ale život je přece samá změna!
+
+message_19:
+      text: \n<MODROVLASÁ HOLKA>Měli bychom si spíš vážit těch vzpomínek, které jsme si nimi vytvořili.
+
+message_20:
+      text: \n<MODROVLASÁ HOLKA>A víš co?...\! Taky jsem si teď na něco vzpomněla.<br>\!Kdybys našel nějaké \c[4]MUŠLE\c[0], donesl bys mi je, prosím?
+
+message_21:
+      text: \n<MODROVLASÁ HOLKA>Vím, že asi moc nebudeš chtít, s tím, že jsou tady celkem vzácné, ale rozhodně ti to bude stát za to!
+
+#Talk to Cris with SEASHELLS
+
+message_22:
+      text: \n<MODROVLASÁ HOLKA>Jé! Tys našel \c[4]MUŠLI\c[0]!
+
+message_23:
+      text: Dal jsi MODROVLASÉ HOLCE \c[4]MUŠLI\c[0].
+
+message_24:
+      text: \n<MODROVLASÁ HOLKA>Ty jo, ta je ale pěkná...\! Hehe... Díky!
+#Talk to cris after collecting some seashells (before leaving room)
+
+
+message_25:
+      text: MODROVLASÁ HOLKA si cosi přehazuje v rukou.
+
+message_26:
+      text: \n<MODROVLASÁ HOLKA>\com[2]Hej! Nekoukat!
+
+#Talk to Cris after collecting all SEASHELLS
+
+message_27:
+      text: \n<MODROVLASÁ HOLKA>\com[2]A... hotovo!\! Konečně hotovo!
+
+message_28:
+      text: \n<MODROVLASÁ HOLKA>Díky, žes mi přinesl všechny tyhle pěkné \c[4]MUŠLE\c[0]!\!<br>Tohle jsem ti z nich vyrobila.
+
+message_29:
+      text: \n<MODROVLASÁ HOLKA>Mé kamarádky mi taky jeden daly, když jsem odjížděla ze školy...\! a tak jsem se rozhodla, že bych ten pocit mohla předat i dál!
+
+message_30:
+      text: Získal jsi \c[13]NÁHRDELNÍK Z MUŠLÍ\c[0].
+
+message_31:
+      text: \n<MODROVLASÁ HOLKA>Doufám, že si vzpomeneš na všechny ty krásné časy, kterés tady zažil, když se na něj podíváš!\!<br>A hodně štěstí! Určitě to bude fajn!
+
+message_107:
+      text: \n<MODROVLASÁ HOLKA>Doufám, že ti tenhle náhrdelník bude připomínat všechny ty krásné časy, kterés tady zažil!\!<br>A hodně štěstí! Určitě to bude fajn!
+
+message_100:
+      text: Získal jsi \c[4]MUŠLI\c[0]!
+
+
+message_105:
+      text: \n<MODROVLASÁ HOLKA>Ahoj, KELI a SUNNY!\! Kdybyste narazili na nějaké \c[4]MUŠLE\c[0], přinesli byste mi je, prosím?
+
+message_106:
+      text: \n<MODROVLASÁ HOLKA>Jsou tady celkem vzácné, ale rozhodně vám to bude stát za to!

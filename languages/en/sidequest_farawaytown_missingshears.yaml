@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Sidequest: Missing Shears
+# =========================================================================================
+
+#Talk to Kim's Mom: Optional
+message_1:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Povím vám jednu takovou historku...\! Jednou jsem si šla po útratě mých tvrdě vydřených dolarů z \c[11]OPRAVSI\c[0]...
+
+message_2:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Kouknu sem...\! Kouknu tam...
+
+message_3:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>A najednou jsou moje zbrusu nové \c[4]ZAHRADNÍ KLEŠTĚ\c[0] fuč!\! Ano, opravdu...\!<br>Roztrhly plastovou tašku a spadly kamsi na zem...
+
+message_4:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>\Com[2]Ach jo, jsem to ale blbá...
+
+message_5:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Každopádně, mohli byste mi je pomoct najít?\!<br>Měly by tady někde poblíž ležet...
+
+#Examine Gardening Shears
+
+message_6:
+      text: Získal jsi \c[4]ZAHRADNÍ KLEŠTĚ\c[0].
+
+#Talk to Kim's Mom with Gardening SHEARS
+
+message_7:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Ach, díky moc, chlapci!\! Tak takhle blbou chybu už nikdy neudělám!\! Víte, dneska je těžké narazit na takhle nápomocné lidi, natož mladíky...
+
+message_8:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Klidně se někdy stavte!\!<br>U mě jste vždy vítáni.
+
+#Examine KIM's House Door at Sunset/Cutscene: Get out of here!
+
+message_9:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Zdravím! Na ty vaše tváře se těžko zapomíná.\! Vy jste přece ti, co mi pomohli najít mé \c[4]ZAHRADNÍ KLEŠTĚ\c[0], viďte!
+
+message_10:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Zrovna máme rodinnou večeři.\!<br>Chtěli byste se k nám přidat?
+
+message_11:
+      text: \kim\Com[2]C-Co to?!\! \Com[2]Proč nám na dveře klepe KEL a SUNNY?!\! \Com[2]Co tady k sakru vy dva děláte?!?!?!
+
+message_12:
+      text: \kim\{\Com[2]PADEJTE, ŠPRTI!!!
+
+message_13:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>KIM! Zlatíčko! Co do tebe vjelo?
+
+message_14:
+      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Promiňte, kluci.\!<br>Možná by bylo vhodnější se stavit někdy jindy, ano?
+
+#Door slams
+
+message_20:
+      text: Dal jsi PANÍ S ČERVENÝMA BRÝLEMA \c[4]ZAHRADNÍ KLEŠTĚ\c[0].

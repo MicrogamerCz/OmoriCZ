@@ -1,0 +1,244 @@
+# =========================================================================================
+# Cutscene: Sweetheart's Last Resort
+# =========================================================================================
+
+#Trigger: Enter proximity of Sweetheart.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Hele...\! Není tamto...\! ZLATÍČKO?\aub
+
+#KEL jumps.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HEJ, ZLATÍČKO!! PAMATUJEŠ SI NA NÁS!?\!\} <br>My jsme ti přece skoro zkazili svatbu!\kel
+
+#SWEETHEART looks at party.
+#SWEETHEART is surprised, then frustrated.
+
+message_2:
+      text: \Com[2]Cože? Už zase vy čtyři!?\! Proč se mi zase ukazujete?\swh #blíže orig významu - neptá se jak, ale proč
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Tak...\! jak je na tom to vaše manželství?\kel
+
+message_4:
+      text: Ha!\! Manželství je jeden velký vtip!\! A s tamtou ostudou, která si říká KAPITÁN, jsem už dávno zkončila!\swh
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: Vždyť...\! jste se vzali doslova včera.\kel
+
+#AUBREY is worried.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ale ne...\! Znamená to, že jste teď...\aub
+
+message_7:
+      text: Ts!\! Teď už je mi ten VESMÍRNÝ EX-MANŽEL naprosto ukradený!\swh #přirozenější, blíže orig
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Auvajs... Chudák...\kel
+
+#SWEETHEART looks away.
+
+message_9:
+      text: Hle! Ukázalo se, že jsem celou tu dobu měla pravdu.\!<br>Je mi jasnější, než kdy dříve, že neexistuje partner hoden mé dokonalosti!\swh #blíže orig
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: To nemůžeš říct, ZLATÍČKO! <br>Ten pravý se pro tebe jistě někde najde!\her
+
+#SWEETHEART turns to HERO.
+
+message_11:
+      text: \sinv[1]Ach, HERO, miláčku...! \!Jak jsem toužila opět slyšet tvůj hlas!\swh
+
+message_12:
+      text: Ne... Nesmím se nechat podat.\! O své cestě jsem již rozhodla.\! <br>Hledat dokonalého partnera je příliš staromódní...\swh
+
+message_13:
+      text: \sinv[1]A tak jsem se rozhodla si ho nechat vyrobit!\swh
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Cože?\! Vyrobit?\! To přece ani nejde!\her
+
+message_15:
+      text: No, pro prosťáčky, jako jste vy, evidentně ne!\! Ale boháč jako já se takovými pravidly řídit nemusí!\swh
+
+message_16:
+      text: Jdu na místo, kam můžou jen opravdoví pracháči, jako já...\! K rodině mořských čarodějnic, které se specializují na...\! zvláštní požadavky.\swh
+
+message_17:
+      text: Těpéro, prosťáčci!\! Už teď mám zpoždění!\swh #konzistence s předchozí korekturou
+
+#SWEETHEART leaves O.S.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Tak...\! půjdeme za ní...\! nebo co?\kel
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Mám pocit, že všude, kde je ZLATÍČKO, jsou nějaké potíže.\aub
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Jo...\! V katastrofách...\!<br>je opravdu přebornice.\her
+
+# =========================================================================================
+# Cutscene: Humphrey
+# =========================================================================================
+
+#Trigger: Enter Humphrey's Cave.
+
+
+#[Trigger: Enter proximity of Humphrey]
+
+#Humphrey speaking:
+message_42:
+      text: Keporkak se máte, přátelé?\! Mé jméno je BENDA.\! Co vás vábí do mé skromné jeskyňky?\who #no tak tady fakt nevím
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Nazdárek, BENDO! Jen někoho hledáme.\! Promiň, jestli tě otravujeme.\aub #blíže orig
+
+message_44:
+      text: Ale ne, to vůbec, milé děti! Mám rád návštěvy.\n<BENDA>
+
+message_45:
+      text: Vlastně jste dnes už druzí návštěvníci!\!<br>První byla jen nějaká holka... Hodně hlučná holka s velkou, červenou mašlí.\n<BENDA> #více mi sedí hlučná
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: To mi někoho připomíná...\kel
+
+#HERO is surprised and begins to look around frantically.
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Co? Že by ZLATÍČKO?\! Kde je?\her
+
+message_48:
+      text: Hmm...\! Kde je... kde je...?\!<br>Mám to na jazyku...\! ...\! \quake[1]Ňak, ňak!\quake[0]\!<br>To je vtip, víte!\! Je...\! ve mně!\n<BENDA> #otazník na vykřičník
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ona j-je... v tobě??\aub
+
+message_50:
+      text: Vskutku!\! Navštěvuje mé hosty, neboť uvnitř mě také žije rodina mořských čarodějnic!\n<BENDA>
+
+message_51:
+      text: Trávíme spolu čas povídáním a bavením se.\!<br>Rád poslouchám ty jejich každodenní příhody.\! Občas <br>jsou zvlášť hodné a přinesou mi jídlo!\n<BENDA>
+
+message_52:
+      text: Pro ně je to stejně jednodušší, jsou blíž <br>mému břichu, než já.\! A jsem si jistý, že by rozhodně také byly rády za návštěvu!\!\n<BENDA>
+
+message_55:
+      text: Nechám vám spadnout most.\n<BENDA>
+#BENDA's mouth opens.
+
+message_53:
+      text: \quake[1]Mlé\{ééee\{eeee...\quake[0]\n<BENDA>
+
+#BENDA's tongue creates pathway.
+#BENDA burps.
+
+message_54:
+      text: Pardón...\!<br>Mám z té první návštěvy zjevně zažívací potíže...\n<BENDA>
+
+# =========================================================================================
+# Cutscene: Where do we start?
+# =========================================================================================
+
+#Trigger: Enter Humphrey.
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Ty jo, BENDOVO přicho je obří!\kel
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Asi by nebylo težké se tady ztratit...\aub
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Beztak když zakřičím, tak uslyším \sinv[1]OOOOOZVĚĚĚĚ\{NUUUUU!\kel
+
+#BENDA appears as a lump in front of party.
+
+message_73:
+      text: \sinv[1]UUUUU\{UUUU\{UUU...\}ooooozvěěěěnuuuuu...\}ooooozvěěěěnuuuuu...\}ooooozvěěěěnuuuuu...!\n<BENDA>
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \Com[2]Ááááaa!\! Kde ses tu vzal?\kel
+
+
+message_75:
+      text: Velvítejte v mém doupěti.\! Překvapil jsem vás?<br>\!Já jsem tady pořád.\! Jsem v sobě a všude kolem vás!\n<BENDA>
+
+#BENDA lumps appear all around.
+
+message_76:
+      text: Ano, jsem všude!\n<BENDA>
+
+#BENDA lumps disappear and one BENDA lump appears in front KEL.
+
+message_77:
+      text: A nebo jsem jen tady!\n<BENDA>
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Ty brďo, to je ale hustý, BENDO! <br>\!Kéž bych taky něco takového uměl.\kel #přidávám taky
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Hustý? Mě to připadá spíš hnusný.\aub #menší vtip navazující na kela
+
+#BENDA appears in front of AUBREY.
+
+message_80:
+      text: Ts...\! Jak drzé...\n<BENDA>
+
+#HERO walks toward the center of the map and looks around.
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmm...\! Zdá se, že jsme na rozcestí...\!<br>Kde bychom měli začít?\her
+
+#BENDA appears in front of HERO.
+
+message_82:
+      text: Doleva...\! Doprava...\! Nahoru...\! Dokola...\! <br>Záleží na tom vůbec?\! Všechny cesty vedou dopředu, ne?\! <br>Jen si něco vyberte! Je to hračka!\n<BENDA>
+
+message_83:
+      text: \n<BENDA>\{\sinv[1]KUKYKŮŮŮŮŮK~!! #univerzálnější, tohle využívá celkem často

@@ -1,0 +1,260 @@
+# =========================================================================================
+# Farawaytown: Something about Basil
+# =========================================================================================
+
+
+#=========================Something about Basil==============================
+
+#AUBREY walks back after sticking a pinwheel on the stump.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubVíte...\! potom, co jsme se od sebe vzdálili...\! Jsem se cítila hrozně osaměle. #přiroz
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubAle teď si začínám uvědomovat, že jsem já byla ta, která všechny odstrkovala.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubZa těch prvních pár měsíců, potom co MARI umřela...<br>se všechno tak rychle změnilo.<br><br>\SUNNY a BASIL se ještě více uzavřeli...\! KEL si našel nějaké kámoše přes sport...\! a HERO se pořád jenom učil. #blíže orig
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubByla jsem naštvaná z toho, jak život šel jen tak dál. #přiroz
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubZdálo se mi, jako by mě všichni opustili...<br>a jako by opustili i MARI... #vypouštím "a" a "se mnou"
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubA kvůli tomu jsem neviděla, že to se jen každý s tou bolestí vypořádával po svém. #blíže orig
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubA potom, co SUNNY přestal chodit do školy...\! jsem viděla BASILA sedět samotného na obědě...\! a tak jsem se zeptala, jestli by se se mnou nechtěl u něj doma učit...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubZe začátku se mu moc nechtělo...\! ale potom povolil.
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubTa cesta k němu byla hrozně tichá...\!<br>A BASIL se ani jednou nepodíval mým směrem. #vypouštím "a ještě k tomu snad"
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubA když jsme přišli do jeho pokoje, chtěla jsem s ním mluvit...\!<br>ale on řekl, že musí na záchod a odešel.
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubVšimla jsem si jeho starého \c[4]FOTOALBA\c[0], leželo tam na poličce.\! Chtěla jsem si ho projít, protože...\! prostě...\! Asi jsem zase chtěla vidět všechny šťastné.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubAle...\! když jsem ho otevřela...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubBASIL začmáral všechny fotky černou fixou!
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \aubNevěřila jsem tomu...\! Začmáral dokonce i MARIN obličej...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubVšechny naše vzpomínky...\!<br>Bylo to, jako by je všechny zničil! #zbořil na zničil
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubByla jsem z toho zmatená...\! a naštvaná...\!<br>Myslela jsem, že mu ruplo v bedně.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubA tak...\! místo toho, abych se ho pokusila pochopit...\! Jsem mu to \c[4]FOTOALBUM\c[0] vzala a začala mu říkat "nulo" a tak podobně.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubA nakonec...\! Jsem nebyla jediná, která si z něj utahovala. #blíže orig
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubTeď už se za to cítím já jako nula.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubAle, stejně...
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubJediné co jsem já za tu dobu dělala bylo to, že jsem se jen snažila od všech ostatních co nejvíce odtrhnout.
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubCelkem vtipný, nemyslíte?\! Z toho, že jsem na něj byla naštvaná jsem udělala něco kolikrát horší než to, co udělal BASIL... #přiroz
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubFňuk...\! Já jsem tak blbá... #přiroz
+
+#Aubrey starts crying
+#(HERO and KEL walk up to comfort AUBREY.)
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herNo tak...\! To bude v pořádku, AUBRY.\! Nikdo není dokonalý. #přiroz
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelTehdy jsem moc nepochopil, co se vlastně dělo...\! Měl jsem strach, že bych to nějak ještě zhoršil...\! a tak jsem se rozhodl do toho raději nevměšovat.
+
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelPromiň, AUBRY...\! a... promiň, SUNNY.\!<br>Byl jsem celkem blbý kamarád.
+
+message_26:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herTehdy jsi byl přece ještě malý, KELI. Já jsem tady ten nejstarší...\!<br>To já jsem ten, co se o vás v tu chvíli měl starat. #přidávám "to"
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herJá...\! Jen...
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...\! Ne, to je v pořádku.
+
+message_29:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubTeď jsme tady zase všicni...\! už je to v pořádku.
+
+#AUBREY shakes
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubFňuk...\! Já...
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubJá si nezasloužím kamarády, jako jste vy.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herNo tak, AUBRY.\! Jasně, že zasloužíš.
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herCelou tu dobu bylo jasné, že jsme pro tebe ještě pořád něco znamenali...
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herVždyť...\! Jen se podívej na to \c[4]FOTOALBUM\c[0].\!<br>Už tam není po té černé fixe ani stopa!\! Už tam jdeme zase všichni vidět skvěle!
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herTy fotky se ale přece nevyčistily samy od sebe, že? #přiroz
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelTo bude dobrý, AUBRY...\!<br>Slibuju, že odteď tady pro tebe vždycky budu!
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herJo... Taky slibuju...\! Musíme tady pro sebe být!
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \her...
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herA víte co?\!<br>Teď by byla skvělá chvíle se zase obejmout!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]\{\{\Com[2]OBEJMOUT!?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\{\{\sinv[1]SUPER! POČÍTEJ SE MNOU!!
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubP-Počkej! Dej mi chvilku!
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \her\sinv[1]\{ŽÁDNÉ TAKOVÉ! JDE SE NA VĚC!
+
+#[Group Hug Slide]
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aub...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubMožná bychom se později mohli podívat, jestli je BASIL doma.
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubMusím se mu omluvit...\! a...\! Řekla bych...\!<br>Že on je ten, kdo nás teďka nejvíc potřebuje. #zrovna na teďka

@@ -1,0 +1,466 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Waking up in White Space on Night 1:
+
+message_0:
+      text: Hledal jsi ve své kapse ČERNÝ KLÍČ...\!<br>ale nenašel jsi ho. #spisovnější
+
+#After completing all 3 slime girls routes:
+
+message_1:
+      text: \swh\Com[2]\{TO TADY NIKDO Z VÁS NIC NEDOKÁŽE!?!?
+
+#Before putting together Basil's photo album:
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basHmm... safra...\!<br>Myslím, že už si nevzpomenu na přesné pořadí těch fotek...
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herŽádné starosti, BASILE.\! OMORI má skvělou paměť, takže to s ním rozhodně co nevidět dáme dohromady! #hlavně mi nesedí
+
+# Examining Mirror when Alone
+
+message_4:
+      text: V zrcadle vidíš, že jsi sám.\!<br>Nelíbí se ti to.
+
+# Picking up knife in white space:
+
+message_5:
+      text: Upřeš pohled na svůj odraz v noži.\!<br>Dobře tě zná.
+
+#When checking out a telescope
+message_6:
+      text: Lesklý teleskop.\! Podíváš se jím na výhled?
+
+# =========================================================================================
+# Rain town
+# =========================================================================================
+
+message_20:
+      text: Obyvatelé \c[11]DEŠŤNÉHO MĚSTEČKA\c[0] jsou v nebezpečí!\! Nepřijemnější slejvák snad nikdy nezažili!
+
+message_21:
+      text: Najdi trysku na levé horní straně mapy a prohlédni si ji.
+
+message_22:
+      text: Mrholí a obyvatelé \c[11]DEŠTNÉHO MĚSTEČKA\c[0] jsou opět šťastní. #tady je důležité rozlišení mezi slejvákem a mrholením
+
+# =========================================================================================
+# WEEPING WILLOW
+# =========================================================================================
+
+#WEEPING WILLOW rises from the lake.
+
+message_40:
+      text: \n<SKLESLÁ VRBA>Uff...\! Zdravím, já jsem SKLESLÁ VRBA, bohyně tohoto jezera.\!<br>Tak asi dík za ty mušle. #přirozenější
+
+message_41:
+      text: \n<SKLESLÁ VRBA>Slyšela jsem, že peníze jsou štěstí,<br> ale zatím mi to moc nesedí...
+
+message_42:
+      text: \n<SKLESLÁ VRBA>Nemohli byste mě nějak rozveselit?\!<br>Že byste mi třeba řekli nějaký vtip?
+
+#If Player does not have Joke Book or has no Jokes
+
+message_43:
+      text: \n<SKLESLÁ VRBA>...\! Vypadá, že nemáte žádný slušný matroš.\!<br>Vraťte se, až budete mít nějaký solidnější arsenál.
+
+#[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
+
+message_44:
+      text: \n<SKLESLÁ VRBA>Hff...\! Co zas?
+
+message_45:
+      text: Přečteš SKLESLÉ VRBĚ vtip ze <br>\c[4]SBÍRKY VTIPŮ\c[0]?
+
+#yes/no
+
+#yes (if Hero)
+message_46:
+      text: Jaký vtip bys jí chtěl přečíst?
+
+#List of jokes appear
+
+#Badumtss! SFX plays. (Party member except HERO will face forward at the same time, or none of them face forward.)
+
+#Depending on the joke that is told, WEEPING WILLOW will cry with an intensity of 1, 2, or 3.
+
+
+
+#yes (if not Hero)
+message_47:
+      text: Otevřel jsi \c[4]SBÍRKU VTIPŮ\c[0]...
+
+message_48:
+      text: Obsah této knížky je tak trapný, že se nedokážeš donutit jej přečíst nahlas.\! Někdo starší by to možná zvládl.
+
+message_49:
+      text: \n<SKLESLÁ VRBA>Vážně?\! Tak vy jste mě sem teda zavolali jen tak pro nic za nic?
+
+message_50:
+      text: \n<SKLESLÁ VRBA>Hff...\! To je teda ztráta času... #přirozenější
+
+#WEEPING WILLOW sinks back down into the lake.
+
+
+#================================ JOKES ==================================
+
+#Every time a PLAYER finds a joke on a poster, a badumtss! SFX will play and the party members will all face forward at the same time.
+
+#JOKE 1: Location: OTHERWORLD stuck on a storage unit
+
+message_60:
+      text: \"Slyšel jsi někdy o té restauraci na Měsíci?\"
+
+message_61:
+      text: \"Prý tam mají skvělé jídlo, ale atmosféra nic moc.\"
+
+#JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
+
+message_62:
+      text: \"Why did the scarecrow win an award?\"
+
+message_63:
+      text: \"Because he was outstanding in his field.\"
+
+
+#JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
+
+message_64:
+      text: \"Proč odvezli tříkolku do blázince?\"
+
+message_65:
+      text: \"Měla o kolečko víc.\"
+
+#JOKE 4: Location: FROZEN FOREST in an igloo.
+
+message_66:
+      text: \"How does a penguin build a house?\"
+
+message_67:
+      text: \"Igloos it together.\"
+
+#JOKE 5: Location: ORANGE OASIS on a cave wall.
+
+message_68:
+      text: \"What do you call cheese that isn't yours?\"
+
+message_69:
+      text: \"Nacho cheese.\"
+
+#JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
+
+message_70:
+      text: \"What lies at the bottom of the ocean and twitches?\"
+
+message_71:
+      text: \"A nervous wreck.\"
+
+#JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
+
+message_72:
+      text: \"Chceš říct vtip o stavebnictví?\"
+
+message_73:
+      text: \"Rád bych, ale ještě ho nemám hotový.\"
+
+message_74:
+      text: Zběsile jsi tento vtip naškrábal do své \c[4]SBÍRKY VTIPŮ\c[0].
+
+message_75:
+      text: Získal jsi \c[4]SBÍRKU VTIPŮ\c[0]!
+
+#================================ CRYING RESPONSES ==================================
+
+# Crying level 1
+
+message_90:
+      text: \n<SKLESLÁ VRBA>Fňuk...\! Ten váš vtip...\! Ten váš vtip byl tak hrozný...\!<br>až je mi z něho...
+
+message_91:
+      text: \n<SKLESLÁ VRBA>Fňuk...\! Fňuk...\! \SINV[1]Bééééeeee...\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 2
+
+message_92:
+      text: \n<SKLESLÁ VRBA>\SINV[1]Bééee...\SINV[0]\!\Com[2]\SINV[2]Bééé\{ééééééééee\{eeeeeeeee!!\SINV[0]
+
+#WEEPING WILLOW sinks back down into the lake.
+
+# Crying Level 3
+
+message_93:
+      text: \n<SKLESLÁ VRBA>\Com[2]\Quake[1]AAA\{\Com[2]AHHHH\{\Com[2]HHHHHH\{HHHHH\{HHHH!!!\Quake[0]
+
+# Tolerable Joke:
+
+message_94:
+      text: \n<SKLESLÁ VRBA>Fňuk... \!Fňuk... \!Hehe...
+
+message_95:
+      text: \n<SKLESLÁ VRBA>H-Hele...\! To bylo celkem dobrý...
+
+message_96:
+      text: \n<SKLESLÁ VRBA>\sinv[1]Hehehehe...
+
+#WEEPING WILLOW transforms to happy WEEPING WILLOW
+
+message_97:
+      text: \n<VRBA>Ach...\! Teď se cítím o trochu líp. #blíže orig
+
+#GOD RAYS appeared
+#A sword floats down in front of Party
+
+message_98:
+      text: \n<VRBA>Dík, že jste mě rozveselili, poutníci.
+
+message_99:
+      text: \n<VRBA>Zde je vaše odměna za tento chrabrý čin.
+
+message_100:
+      text: \n<VRBA>Je to prastará zbraň nepopsatelné síly.
+
+message_101:
+      text: \n<VRBA>Kterou může ovládnout jen pravý HRDINA.
+
+#God SFX
+
+message_102:
+      text: \n<VRBA>Uf... Bohové mě volají.\!<br>Obávám se, že nadešel čas našeho loučení.
+
+message_103:
+      text: \n<VRBA>Sice jsme spolu nestrávili moc času, ale řekla bych, že byl...\!<br>z většiny...\! příjemný. #blíže orig
+
+message_104:
+      text: \n<VRBA>Možná se spolu setkáme v příštím životě.\!<br>Sbohem, poutníci! Byla to s váma sranda!
+
+#God rays disappear
+
+#Examine sword
+
+message_110:
+      text: Získal jsi \c[13]LOLMEČ\c[0].
+
+# =========================================================================================
+# Hide and Seek with yourself
+# =========================================================================================
+
+#Night 3, upon entering FOREST PLAYGROUND, no one will be there.
+#If PLAYER examines the tetherball pole, it will prompt the message:
+
+message_120:
+      text: Chtěl by sis zahrát na schovku?
+
+#yes
+#Screen turns black.
+
+message_121:
+      text: 5...\! 4...\! 3...\! 2...\! 1...
+
+#The mirror will appear on a random location on the map.
+#If you examine the mirror, the mirror slide will show. (Only OMORI is in the mirror)
+
+message_122:
+      text: Mám tě!
+
+#Then the mirror slide will fade out.
+
+message_123:
+      text: Zahraješ si znovu?
+
+#no
+#Mirror disappears
+
+# =========================================================================================
+# Deep Well
+# =========================================================================================
+
+#Taxi Ride-
+
+message_140:
+      text: \n<TAXIKÁŘ>Hej, prcku! Chceš zažít něco fakt \SINV[1]hustýho\SINV[0]?\!<br>Navštiv \c[11]KONEČNOU\c[0]!<br>To je dneska TO místo, opravdovej hit!
+
+message_141:
+      text: \n<TAXIKÁŘ>Klidně bych tě tam vzal, kdybys chtěl, prcku!\! Všichni o tom místě mluví.
+
+message_142:
+      text: \n<TAXIKÁŘ>No tak...\! Neboj!\! Nekoušu...\! zas tak moc.
+
+message_143:
+      text: \n<TAXIKÁŘ>Nazdar prcku! Chceš odvést zpátky do \c[11]HLUBOKÉ STUDNY\c[0]?\! Klidně tě odvezu kdykoliv si zamaneš!\! Já s tím problém nemám... Dostávám za to přece výplatu! Ka-ha-ha-ha-ha!
+
+message_144:
+      text: \n<TAXIKÁŘ>Hmm...\! Nějak ti to nevychází...\!<br>To nevadí.\! Tím pádem si teda vezmu všecko, co máš-
+
+message_145:
+      text: \n<TAXIKÁŘ>Hele, počkej! Vždyť seš švorc!\!<br>Tak tebe museli parádně ošidit, prcku... To tě teda lituju.
+
+#after Ride
+
+message_150:
+      text: \n<TAXIKÁŘ>Nebyla to sice moje nejklidnější jízda, ale za mě celkem dobrý.\! Vrať se kdykoliv, prcku.
+
+message_151:
+      text: \n<TAXIKÁŘ>Vrať se kdykoliv, prcku.
+
+#If HERO is in party
+message_152:
+      text: \n<TAXIKÁŘ>Potřeboval byste odvést zpět na \c[11]KONEČNOU\c[0]?\!<br>Pro šéfovu pravou ruku cokoliv!
+
+#If HERO is manager
+message_153:
+      text: \n<TAXIKÁŘ>Potřeboval byste odvést zpět na \c[11]KONEČNOU\c[0]?\!<br>Jasný, pro vás cokoliv, šéfe! #malé v
+
+#If HERO is in party
+message_154:
+      text: \n<TAXIKÁŘ>Potřeboval byste odvést zpět do \c[11]HLUBOKÉ STUDNY\c[0]?\!<br>Pro šéfovu pravou ruku cokoliv!
+
+#If HERO is manager
+message_155:
+      text: \n<TAXIKÁŘ>Potřeboval byste odvést zpět do \c[11]HLUBOKÉ STUDNY\c[0]?\!<br>Jasný, pro vás cokoliv, šéfe! #malé v
+
+
+# =========================================================================================
+# First Time In OTHERWORLD
+# =========================================================================================
+
+
+message_200:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\Com[2]\{\{HA! JSEM PRVNÍ!!!\}\}
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herHff... Hff...\! Tenhle žebřík...
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herPořád...\! Hff... Hff...\! Ne a ne aby skončil...
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]\{\{BAHAHAHAHA!!!\}
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]Malý krůček pro KELA...\.<br>ale velký skok pro KELSTVO!!
+
+message_205:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubTos řekl blbě!
+
+message_206:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelTy nerozhoduješ o tom, jak to je správně...<br>Nebylas tu první!
+
+message_207:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubPočkej...\!<br>\Com[2]\{JE TAMTO MŮJ \c[4]TVRDOHLAVÝ DIPLOM\c[0]??\}\!
+
+message_208:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\{SUNDEJ HO! A TO HNED!\}
+
+message_209:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubCo kdyby ho někdo viděl?
+
+message_210:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelZapomeň!<br>Jen koukej, jak v tom čerstvém větru vlaje.
+
+message_211:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\sinv[1]Jak majestátní...\| Jak krásný...
+
+message_212:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aub\Com[2]\{HERO! ŘEKNI MU NĚCO!\}
+
+message_213:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\}Hff... Hff...\!\{ Jen... Vteřinku... \!\}Hff... Hff...\!\{ Jenom... \}Hff... Hff...\!\{ Se musím vydýchat... \}Hff... Hff...
+
+message_214:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herTeda...\!\} Hff... Hff...\{\! Dejte mi prosím chvilku...
+
+message_215:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub... ... ...\! Tak nic.
+
+message_216:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herTy jo, skoro jako by byl důvod, proč jsme tenhle žebřík ještě předtím nevylezli... 
+
+message_217:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herMám to na jazyku...
+
+message_218:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herNu což...\! Jde se na věc!
+
+message_219:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelOMORI, tamtudy se přece nejde k BASILOVI!
+
+
+# =========================================================================================
+# MOONWALK
+# =========================================================================================
+
+message_250:
+      text: Chtěl by sis zamoonwalkovat?
+
+#YES/NO
+
+#back of sign
+
+message_252:
+      text: Na opačné straně je vzkaz.
+
+message_253:
+      text: \"Prosím... neudělej stejnou chybu, jako já...<br>\!-M\"
+
+# =========================================================================================
+# BATTLE: THE WORLD
+# =========================================================================================
+
+message_300:
+      text: ZEMĚ je zřejmě v klidu.\!<br>Vyrušíš ji? #to, co jsi napsal je moc pěkné, ale já bych se řídíl originálem
+
+# =========================================================================================
+# PYREFLY IX WEB
+# =========================================================================================
+
+message_400:
+      text: Pavučina je příliš silná na to, aby ses jí prosekal.

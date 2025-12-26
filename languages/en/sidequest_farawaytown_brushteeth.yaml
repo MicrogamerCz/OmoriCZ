@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Brush Teeth 1, 2, 3
+# =========================================================================================
+
+message_1:
+      text: Chtěl by sis vyčistit zuby?
+#[Yes / No]
+# [Yes]
+message_2:
+      text: Vyčistil sis zuby.\!<br>Tvůj dech je mentolově svěží.
+# [No]
+message_3:
+      text: Nevyčistil sis zuby.
+
+message_4:
+      text: Dnes sis již vyčistil zuby.
+
+message_5:
+      text: Dnes sis nevyčistil zuby.

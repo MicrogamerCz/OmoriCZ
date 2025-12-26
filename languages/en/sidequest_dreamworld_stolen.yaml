@@ -1,0 +1,112 @@
+
+# =========================================================================================
+# STOLEN
+# ========================================================================================
+
+#SAVE FOR IMPLEMENTATION:
+
+
+#IF STOLEN QUEST WAS COMPLETED:
+
+#Location: Last Resort entrance
+message_80:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herHej, to seš zase ty!
+
+message_81:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelTen, co dal tu \c[4]ČERNOU OBÁLKU\c[0] na ROSU!
+
+message_82:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubCo po nás chceš tentokrát?...\! \Com[2]PODEZŘELÝ KRTKU?\! Zase kuješ nějaké pikle, viď?
+
+message_83:
+    text: \n<PODEZŘELÝ KRTEK>\}Kuck!\! Ty mě vůbec neznáš, dítě!\!<br>Jsem dobrosrdečný poctivec, co pravidelně přispívá na charitu!
+
+message_84:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubNo, s tím bych si nebyla tak jistá...
+
+message_85:
+    text: \n<PODEZŘELÝ KRTEK>\}Tak dobře, klidně vám to dokážu.\! Dal by vám snad nějaký PODEZŘELÝ KRTEK neskutečně podstatnou informaci, která vám je schopna naprosto změnit život?\! Řekl bych, že prdlajs!
+
+message_86:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelHmm...\! Dobře, posloucháme...
+
+message_87:
+    text: \n<PODEZŘELÝ KRTEK>\}Vážím si vaší pozornosti!\! Ehm...\! Šušká se, že MUŠLE budou brzy znehodnoceny a vznikne nová, revoluční měna, zvaná...\! MAŠLE!
+
+message_88:
+    text: \n<PODEZŘELÝ KRTEK>\}Dle mých důvěryhodných zdrojů,\. může se to stát každou chvíli a zcela vás zbankrotovat!\! To by vám asi nebylo příliš příjemné, že?
+
+message_89:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herHele, já...
+
+message_90:
+    text: \n<PODEZŘELÝ KRTEK>\}Ano! To by bylo celkem na prd, viď?\! Nebojte, teď to přijde...
+
+message_91:
+    text: \n<PODEZŘELÝ KRTEK>\}Jelikož jsem se o tomhle dozvěděl s předstihem, začal jsem postupně hromadit novou měnu, a to sice již zmíněné MAŠLE!
+
+message_92:
+    text: \n<PODEZŘELÝ KRTEK>\}A jako poctivý dobrák od kosti, vám nabízím výměnu všech vašich MUŠLÍ za MAŠLE!
+
+message_93:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelTy jo, vážně?!\! To bys pro nás udělal?
+
+message_94:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubKELI! Neposlouchej ho.\!<br>Tohle není...\! jen podezřelé...\! Tohle je...\! přímo zločin...
+
+message_95:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelNo tak, AUBRY... tys ho neslyšela?!\!<br>Vždyť nám ty MUŠLE brzo budou k ničemu!\!<br>A co bychom bez peněz dělali?!
+
+message_96:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelCo myslíš, OMORI?\!<br>Měli bysme vyměnit všechny naše MUŠLE za MAŠLE?
+
+#yes/no
+
+message_97:
+    text: \n<PODEZŘELÝ KRTEK>\}Skvěle...\! Tohohle nebudete litovat.\!<br>Děkuji za všechny vaše MUŠLE...\!<br>Tady...\! máte vaše směněné MAŠLE...
+
+message_98:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubOMORI! Proč jsi souhlasil s KELEM?\!<br>Jsem si dost jistá, že tohle nejsou ani pravé peníze...
+
+message_99:
+    text: \n<PODEZŘELÝ KRTEK>\}Proč byste si chtěli nechat ty přežité MUŠLE?\!<br>MAŠLE jsou měna budoucnosti!\! Ještě si to přehodnoťte!
+
+message_100:
+    text: \n<PODEZŘELÝ KRTEK>\}Užijte si ty své MAŠLE!\! <br>Teď musím jít varovat i ostatní, než bude pozdě!\! Adios!
+
+message_102:
+    text: Získal jsi \c[4]MAŠLE\c[0]...\! měnu budoucnosti...
+
+message_103:
+    text: Našel jsi své ukradené MUŠLE!
+
+#FOUND him
+
+
+message_105:
+    text: \n<STAROSTA>\Com[2]Pozor! Opatrně, děcka!\! Málem jste zničili naprosto geniální přístroj.
+
+message_106:
+    text: \n<STAROSTA>Jestli nebudou má měření ze 110% správná...\! tak chemická reakce způsobí výbuch, který by byl schopen celou tuhle vesnici srovnat se zemí!

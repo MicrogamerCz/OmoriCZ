@@ -1,0 +1,38 @@
+
+# =========================================================================================
+# Hunt Squizzards
+# ========================================================================================
+
+#Talk to Seacow Farmer (Jim):
+
+message_0:
+      text: \n<CHOVATEL MOŘSKÝCH KRAV>Zdravím, hochu.\! Tady mi říkaj CHOVATEL MOŘSKÝCH KRAV, ale ty mi můžeš říkat JIM.
+
+message_1:
+      text: \n<FARMÁŘ JIM>Tahle farma bývala už celá pokolení rodinný podnik,\. ale kvůli těm divokým ČAROLIHNÍM se mi jeho provoz začíná prodražovat!
+
+message_2:
+      text: \n<FARMÁŘ JIM>Popravdě je zázrak, že ještě se všema těma ČAROLIHNĚMA vůbec fungujeme.
+
+message_3:
+      text: \n<FARMÁŘ JIM>Kéž by se našel někdo, kdo by se mohl těch zatracených ČAROLIHNÍ zbavit...\! Dal bych mu za to cokoliv!
+
+message_4:
+      text: \n<FARMÁŘ JIM>Hej, víš co?! Mám skvělý nápad!
+
+message_5:
+      text: \n<FARMÁŘ JIM>Pokud vám nedělá problém si trochu zašpinit ruce a zbavit se těch smradlavých ČAROLIHNÍ, mě by zase nedělalo problém vám to poctivě vyplatit v MUŠLÍCH.
+
+message_6:
+      text: \n<FARMÁŘ JIM>Ty pitomý ČAROLIHNĚ mi nedají ani na chvilku pokoj!
+
+#Talk to Seacow Farmer (Jim) after defeating [X] Squizzards:
+
+message_7:
+      text: \n<FARMÁŘ JIM>Nazdar, bando!\! Koukám, že je tady o něco méně ČAROLIHNÍ po tom, co jsem vás najal.\! <br>Jste fakt borci!
+
+message_8:
+      text: \n<FARMÁŘ JIM>Tady máte nějaké ty MUŠLE za vaše snahy...\!<br>Běž a kup si něco pěkného!<br>Hej-já!
+
+#Talk to Seacow Farmer (Jim) after defeating no Squizzards:
+#repeat messages 5 and 6

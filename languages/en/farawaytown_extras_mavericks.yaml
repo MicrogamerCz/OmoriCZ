@@ -1,0 +1,174 @@
+ # =========================================================================================
+# FARAWAY TOWN Mavericks
+# =========================================================================================
+
+#Intro: Enter Mavericks House between Day 2 and Day 3
+#Play: fat_church.ogg upon entering
+#once player enters Daphne and Bowens room, change song to goofy_times.ogg
+#there is a cardboard cutout of Daphne and Bowen inside
+
+#Examining either cardboard cutout
+message_1:
+      text: Našel jsi papírek.
+
+message_2:
+       text: \"Asi jsme se ztratili...\!<br>Nemůžeme být moc daleko...\!<br>Najdi nás, náš drahý bratříčku.\"
+
+message_3:
+       text: Podepsáni <br>DAPHNE a BOWEN (Tví drazí starší sourozenci)
+
+#upon exiting, song stays as goofy_times.ogg
+
+
+#HIDING SPOTS
+
+#There are now 2 lumps in the rug of the hallway.
+
+message_4:
+       text: Přehodil jsi koberec...\! a našel pod ním dva huňaté polštáře.
+
+message_5:
+       text: \"Žádný horší fígl by mě nenapadl...\! <br>Nevěřil bych, že bys na to fakt skočil...\"
+
+message_6:
+       text: Otevřel jsi ledničku... \! a našel v ní papírek.
+
+message_7:
+       text: \"Hm...\! Samá voda...\"\! <br>\"Jaká smůla...\"
+
+#EXAMINE CURTAINS WITH SILHOUETTES
+
+message_8:
+       text: Odtáhl jsi žaluzie...\! a našel další kartonové podobizny.
+
+message_9:
+       text: \"Vážně by sis myslel, že bychom koupili jenom jednu sadu podobizen?\! To by bylo přece hrozně nevýhodné.\"
+
+#Examine curtains with silhouettes:
+#Animation: A cat bolts out (You cannot find it after)
+
+#Examine Oven
+
+message_10:
+       text: Otevřel jsi troubu...\!<br>Vůně čerstvého chleba naplnila vzduch kolem tebe.
+
+#Examine (General)
+
+message_11:
+       text: Otevřel jsi dveře skříně...
+
+message_12:
+       text: Ale nenašel jsi nic zajímavého.
+
+message_13:
+       text: Podíval ses pod stůl...
+
+message_14:
+       text: Podíval ses pod postel...
+
+message_15:
+       text: Podíval ses kolem vany...
+
+message_16:
+       text: Podíval ses za hodiny...
+
+message_17:
+       text: Podíval ses za obraz...
+
+message_18:
+       text: A našel tajný trezor.\! <br>Asi by bylo lepší dělat, jako bys ho nenašel.
+
+message_19:
+       text: Podíval ses za knihovnu...
+
+message_20:
+       text: Podíval ses za sochu...
+
+message_21:
+       text: Podíval ses do krbu...
+
+message_22:
+       text: A našel skrytý přepínač.\! <br>Asi by bylo lepší, se ho ani nedotýkat.
+
+#ONE STATUE
+
+message_23:
+       text: A našel tajné tlačítko.\! <br>Asi by bylo lepší dělat, jakoby nic.
+
+#Examine under The Mavericks Bed (Correct answer)
+
+#Bed begins shaking.
+message_24:
+       text: \n<DVOJČATA>\quake[1]\{\Com[2]BAF!!\}
+
+message_25:
+       text: \n<DVOJČE>Haha!\! Lekl ses, co?!
+
+message_26:
+       text: \n<DRUHÉ DVOJČE>...
+
+message_27:
+       text: \n<DVOJČE>Počkat...\! Ty nejsi náš drahý bratříček...
+
+message_28:
+       text: \n<DVOJČE>Hmm...\! Hmm...\! Že bychom na našeho bratříčka byli příliš trapní, BOWENE?\! Proč by si jinak se svými milovanými staršími sourozenci nechtěl hrát?!
+
+message_29:
+       text: \n<DRUHÉ DVOJČE>Ano, DAPHNE...\! Je to...\! velká smůla...
+
+message_30:
+       text: \n<DVOJČE>Ach jo...\! Pomalu nemáme v práci volno...\! A když už jo...\! tak si s náma malý MICHAEL nikdy nechce hrát!\!<br>To je tak nefér, co, BOWENE? #citoslovce, co
+
+message_31:
+       text: \n<DRUHÉ DVOJČE>Život je tak krutý...
+
+message_32:
+       text: \n<DVOJČE>Ale co už.\! Aspoň máme nové kamarády...\! i když...\!<br>si vlastně nejsem jistý, co dělají.\! Pobavte nás, drazí přátelé!
+
+message_33:
+       text: \n<DRUHÉ DVOJČE>Ano, pobavte nás!
+
+#If PET ROCK is activated: CLASH OF Jash
+
+#else
+
+message_34:
+       text: \n<DVOJČE>Hm...\! Pořád nic?
+
+message_35:
+       text: \n<DRUHÉ DVOJČE>To je ale smůla...
+
+message_36:
+       text: \n<DVOJČE>No, tohle byla ze začátku sice fajn sranda, ale teď už nás to nebaví.
+
+message_37:
+       text: \n<DVOJČE>No tak, bratříčku.\! Pomož nám vymyslet, jak bychom si mohli hrát dál.
+
+message_38:
+       text: \n<DRUHÉ DVOJČE>Sbohem, noví přátelé.\! Bylo to s vámi...\! příjemné.
+
+#DAPHNE and BOWEN walk out of THE MAVERICK'S ROOM into DAPHNE and BOWEN'S ROOM.
+
+message_39:
+       text: \n<DVOJČE>Naše rodina vlastní pekárnu už několik generací...\! ale náš drahý bratříček už se od šesti let nedotkl chleba...
+
+message_40:
+       text: \n<DVOJČE>I když...\! se jistě brzy polepší.
+
+message_41:
+       text: \n<DRUHÉ DVOJČE>Máma a táta chtějí, abychom po nich převzali pekárnu, až dostudujeme...\! tak proč vůbec tím pádem studovat?
+
+#Cutouts
+
+message_42:
+       text: Kartonové podobizny dvou dvojčat.\! Za zadu je na nich něco připevněné.
+
+#Locked
+
+message_43:
+       text: Visací zámek komických rozměrů se náhle objevil na dveřích.
+
+#Note
+
+message_44:
+       text: Ze zadu je na něm papírek.

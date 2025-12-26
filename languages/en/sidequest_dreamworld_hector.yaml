@@ -1,0 +1,82 @@
+
+# =========================================================================================
+# Pet Rock
+# ========================================================================================
+
+#Cutscene: KEL loses HECTOR in Otherworld Ladder II
+
+message_0:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 20
+    text: \kelP-Počkat... Stůjte!\! ...\! Sakra...\!<br>Kde jenom je?\! Teď jsem ho měl v ruce!
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herKde je kdo?
+
+message_2:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kel\c[13]HEKTOR\c[0], můj domácí kamínek!\! Přísahám, že jsem ho ještě před chvilkou ještě měl v kapse.
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\sinv[1]\Com[2]NEE\{EEEEE\{EEEEEEEE\{EEEEEEEEE!!!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\{\Com[2]\sinv[1]\c[13]HEKTO\{OOOOOO\{OOOOOORE\c[0]!!!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 21
+    text: \kelMusel mi vypadnout z KAPSY, když jsem zrovna<br>nedával pozor...
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelPromiň, \c[13]HECTORE\c[0]... Měl jsem být více opatrný...
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubCo řešíš? Vždyť to byl jen blbej kámen, ne?
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelJak se opovažuješ takhle mluvit!\!<br>On nebyl jenom kámen...
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\Com[2]\{BYL JAKO MŮJ BRATR!!!
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herNeboj! Určitě se někde ukáže, KELI.
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \her\}Snad...
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 22
+    text: \kelDoufám, že jo...
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelVydrž, \c[13]HEKTORE\c[0]!\!<br>Najdu tě...\! Přísahám!
+
+message_15:
+    text: \n<HEATHER>Vždy na tebe budeme hrdí, synu.
+
+message_16:
+    text: \n<HEATHER ML.>Jdi si za svými sny, bratře!

@@ -1,0 +1,1264 @@
+#DREAM WORLD MAP EXPANSION DETAIL:
+
+##------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#PARTY STAT BOOSTS
+
+##------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Omori ALL Buff --- Branch Coral:
+#Map: Deeper Well Whirlpool
+#New Assets: Omori sinking into a pool
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Kel HEART Buff --- Pluto in the Wall:
+#Talk to Pluto in Construction alcove after defeating him in Mr. Jawsum's Room.
+
+message_0:
+    text: \pluÁ. Tohle je celkem překvapení, nemyslíte, děti?\!<br>Přišli jste mě opět vyzvat na souboj?
+#*Pluto laughs*
+
+message_1:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_2:
+    text: \pluRozumím vám...\!<br>Ale přesto stále cítím následky našeho minulého soublje.<br>\!Vzpomínku na něj si navždy budu hýčkat!
+
+message_3:
+    text: \pluVšichni jste už tak silní, ale stejně platí to, co vždy. Stále byste mohli být lepší.
+
+#*Pluto walks in front of KEL*
+
+message_4:
+    text: \plu\Com[2]\c[1]ZATNI\c[0] svaly, KELI!<br>Dokaž mi, že sis zachoval, co jsem tě naučil!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelAno, pane PLUTO!
+
+#*Kel flexes*
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\{\com[2]HU-HÁ!!\}
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelKEL je připraven jít do akce!! Tak, komu mám teda vrazit?
+
+#*Wait*
+
+message_8:
+    text: \plu...
+
+#*Pluto faces away*
+
+message_9:
+    text: \pluNe, obávám se, že se mýlíš.
+
+#*Pluto turns to KEL and walks forward 1 step*
+
+message_10:
+    text: \pluV této výzvě nebudu zkoušet vaši sílu.\!<br>Nýbrž...\! vaši výdrž.
+
+#*PLUTO flexes*
+
+message_11:
+    text: \pluPřiprav se, KELI! Nehodlám se krotit.
+
+#*Screen turns black*
+#*Wait*
+
+message_12:
+    text: KEL získal 50 ŽIVOTŮ.<br>\!...A přišel o zub.
+
+#*Wait*
+#*Screen returns*
+
+#Talk to PLUTO:
+message_13:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+#*Pluto laughs*
+#*Pluto launches off*
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Aubrey JUICE Buff --- Smashing \n<VAN>
+#Talk to BERLY after completing Lost Ball Quest after DAY 1 - SW
+#Note: This is not available during Deep Well night, but should be available again in epilogue.
+
+#*Party needs to be placed to the left bottom side.*
+#*Maybe playing cards or something.*
+
+#*VAN is talking to HAPPY, BROWS, and BANGS about something.*
+
+#BERLY looks around and is frustrated because no one is paying attention to her.
+message_20:
+    text: \n<BERLY>Grr... grrr...
+#BERLY hops.
+message_21:
+    text: \n<BERLY>Hej, VAN! Pojď sem za mnou!
+
+#*HAPPY hops and then HAPPY, BROWS, and BANGS walk off---screen.*
+
+message_22:
+    text: \n<VAN>Hm? Chtělas něco, BERLY?
+
+message_23:
+    text: \n<BERLY>Jo, postav se sem a čum támhle.
+
+message_24:
+    text: \n<VAN>Jasná páka!
+#*VAN turns right from AUBREY*
+
+message_25:
+    text: \n<BERLY>AUBRY, pojď sem!
+
+#*AUBREY gets up.*
+message_26:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubCo zas chceš, BERLY?
+
+message_27:
+    text: \n<BERLY>AUBRY!\! \sinv[1]AUBRY, AUBRY, AUBRY...\sinv[0]\!<br>Jaktože jsi najednou tak drzá?\! No tak, vždyť jsme přece nejlepší kamarádky!
+
+message_28:
+    text: \n<BERLY>Vidíš támhle toho velkýho chlápka?
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubJo... a mimochodem vím, že je to VAN...
+
+message_30:
+    text: \n<BERLY>Skvěle!\! Tak běž a pořádně mu za mě jednu vraž!
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]C-Cože?! Ale proč?!\! Co kdybych mu ublížila?
+
+message_32:
+    text: \n<BERLY>Ty si ty otázky vážně nedokážeš odpustit? Nemohla bys jednou sakra něco udělat bez odmlouvání?!
+
+#*BERLY jumps.*
+message_33:
+    text: \n<BERLY>Běž! Vraž mu ji!
+
+#Talk to VAN as not---\aub
+#*BERLY jumps.*
+message_34:
+    text: \n<BERLY>Hej! Já mluvila k AUBRY, ne tobě!
+
+#Talk to VAN as \aub
+#*AUBREY smashes VAN.*
+#*VAN does not move.*
+
+message_35:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubTak dobře. Hotovo. Tak co teď?
+
+message_36:
+    text: \n<BERLY>Teď to udělej znova! A pokračuj, dokud ti neřeknu, abys toho nechala!
+
+#*AUBREY smashes VAN.*
+
+message_37:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubDobře...\! ale...\! co mám vlastně dělat?
+
+message_38:
+    text: \n<BERLY>Dost otázek! Prostě mu jednu vraž!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_39:
+    text: \n<BERLY>Myslím, že něco cítím!\!<br>Jen tak dál, určitě to zvládneš!\! Vydrž, vydrž!
+
+message_40:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aubHff... hff...\!<br>Jak dlouho tohle ještě musím dělat?!
+
+message_41:
+    text: \n<BERLY>Dokud ti neřeknu, abys přestala! A nezpomaluj!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_42:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubHff... Hff...\! Pomoc! Pomalu necítím svoje ruce!
+
+message_43:
+    text: \n<BERLY>Ještě vydrž! Už jsi skoro doma!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_44:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubMyslím...\! že brzo omdlím.
+
+message_45:
+    text: \n<BERLY>Prosím..\! Ještě jednu...
+
+message_46:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aubHff... Hff... Hff...
+
+message_47:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\sinv[2]\{HAAAA\{AAJÁÁÁÁ\{ÁÁÁÁAAAA!!!
+
+#*AUBREY smashes VAN.*
+
+message_48:
+    text: AUBREY získala 50 ŠŤÁVY!
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubHff...\! Co to vůbec... hff...\! mělo znamenat?
+
+message_50:
+    text: \n<BERLY>...
+
+#BERLY is frustrated.
+
+message_51:
+    text: \n<BERLY>No, vlastně nic. Jenom jsem se nudila.\!<br>Ale popravdě...\! to byla taky celkem nuda.
+
+message_52:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\Com[2]\{\quake[1]COŽE!?\! HFF...\! TO JE JAKO VŠECKO?!\quake[0]
+
+message_53:
+    text: \n<BERLY>Hele, aspoň z toho něco máš!\!<br>Já třeba ne, já se furt nudím!\! Grr... grr...
+
+message_54:
+    text: \n<BERLY>No tak, VANE...\! Pojď si se mnou zahrát tetherball.
+
+#BERLY and VAN walk to the tetherball pole area
+
+message_55:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubHff...\! Hff...\!<br>Já...\! Hff...\! Já tu BERLY prostě nechápu...
+
+
+#---- If you try to leave
+
+message_56:
+    text: \n<BERLY>Hele, koukej se vrátit! Řekla jsem ti snad, že můžeš odejít?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Hero ATTACK Buff --- \n<PAN SPAŠÁK>
+#New Assets: Scarebro and knocked---over Scarebro
+#In CLUB SANDWICH in LAST RESORT
+
+message_70:
+    text: \n<PAN SPAŠÁK>Nazdar, pašáci.\!<br>Užíváte si \c[11]SANDWICHOVÝ KLUB\c[0]?\!<br>Já teda jo...
+
+message_71:
+    text: \n<PAN SPAŠÁK>Mí přátelé mi říkají, že umím dobře posuzovat ostatní.
+
+message_72:
+    text: \n<PAN SPAŠÁK>Á.\! Tak teď už je mi to jasné...\! Ty tam, v tom pruhovaném obleku!\!<br>Víš, co máš ty za problém, pašáku?\!<br>Seš prostě až moc hodnej.
+
+message_73:
+    text: \n<PAN SPAŠÁK>Mohl bych vynadat tobě, tvým kamarádům, tvý mamce... ale s tebou by to nehlo.\! Nemám pravdu, pašáku?
+
+message_74:
+    text: \n<PAN SPAŠÁK>Tak co s tím? To jako necháš jen tak?\!<br>Ne... Musíš mít ostrý lokty!
+
+message_75:
+    text: \n<PAN SPAŠÁK>Jen mi jednu vraž, pašáku.\!<br>No prosím! Udělej to!
+
+#Talk to SCAREBRO as not---\n<HERO>
+message_76:
+    text: \n<PAN SPAŠÁK>Hele, to jsem říkal tomu pašákovi v pruhovaném obleku, ne tobě!
+
+#Talk to SCAREBRO as \n<HERO>
+message_77:
+    text: Chtěl bys vrazit PANU SPAŠÁKOVI?
+#[YES/NO]
+
+#---
+#[YES]
+#*HERO softly rams into SCAREBRO*
+message_78:
+    text: \n<PAN SPAŠÁK>Co to mělo jako bejt?\!<br>Snad jsi mě nešětřil...
+
+message_79:
+    text: \n<PAN SPAŠÁK>To by správnej pašák neudělal.<br>\!Zkus do znova. Však ty to dáš, pašáku.
+
+message_80:
+    text: Chtěl bys vrazit PANU SPAŠÁKOVI?
+#[YES/NO]
+
+#*HERO rams into SCAREBRO*
+#*SCAREBRO falls over*
+
+message_81:
+    text: HERO získal 20 ÚTOKU.
+
+message_82:
+    text: \n<PAN SPAŠÁK>Ty...
+
+message_83:
+    text: \n<PAN SPAŠÁK>Přesně tak, pašáku.\! Tak to má vypadat...
+
+#Talk to \n<PAN SPAŠÁK>
+
+message_84:
+    text: \n<PAN SPAŠÁK>Přesně tak, pašáku.\! Tak to má vypadat...
+
+#---
+
+#[NO]
+message_85:
+    text: \n<PAN SPAŠÁK>No tak, pašáku!\! Chci pořádnou pecku!
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Omori Mushrooms --- Mushroom Man:
+#New Assets: Mushroom Man Turnaround, Mushroom Open, Mushroom Closed
+
+#Mushroom Man can be found by eating the mushrooms in the water in SW Library.
+
+message_100:
+    text: Podezřelá houba.\!<br>Kousneš si do ní?
+
+#Bulbs before learning skill:
+
+message_101:
+    text: Tvrdá cibule.\! Slyšíš, jak se z ní něco snaží dostat ven.
+
+#Intro:
+
+#*MUSHROOM MAN pops out of crater when you go close to it*
+
+message_102:
+    text: \n<H. BA>Ty!\! Jo, ten kulatý!\!<br>Tvé oči... Jde z nich vyčíst, po čem toužíš!
+
+message_103:
+    text: \n<H. BA>Výborně!\! Výborně, výborně, vskutku výborně...\!<br>Vyučím tě.\! Pojď.
+
+#*MUSHROOM MAN walks to purple bud behind him*
+
+#Talk to MUSHROOM MAN.
+message_104:
+    text: \n<H. BA>Hmm... Nemáš v očích tu samou jiskru, co ten kulatý!\! Nikoho jiného nehodlám učit!
+
+message_105:
+    text: \n<H. BA>Tak jsi nakonec přišel!\! Výborně!\!<br>Nyní sleduj.\! Tvrdé cibule, jako tahle za mnou, v sobě drží mé krajany.<br>Ti se z ní však sami nedokážou dostat.
+
+message_106:
+    text: \n<H. BA>Ovšem s velice specifickou a komplikovanou technikou bys nás byl schopen dostat ven jediným seknutím.
+
+message_107:
+    text: \n<H. BA>Ale naučit se tuto techniku ovládat trvá týdny, ba dokonce roky!\! Chceš-li se ji opravdu naučit, nedokážu ti říct, jak dlouho to bude trvat!
+
+message_108:
+    text: \n<H. BA>Přesto věřím, že časem budeš chopen opravdu velikých věcí!\! Přijímáš tedy mou výzvu a stáváš se mým učněm?
+#[YES/NO]
+
+#[YES]
+#*Screen turns black*
+
+message_109:
+    text: OMORI se dlouho učil.
+
+#*Screen returns*
+
+message_110:
+    text: \n<MISTR H. BA>Výborně! Výborně, výborně, výborně...\!<br>Velice jsi porostl!\! Narozdíl... Od téhle cibule za mnou...<br><br>A teď do ní sekni svou nově naučenou technikou, aby mohla žít!
+
+#Talk to MASTER
+
+message_111:
+    text: \n<H. BA>Výborně! Výborně, výborně, výborně...
+
+
+message_112:
+    text: \n<MLADÁ HOUBA>Konečně jsem vysvobozena!\! Výborně, výborně, výborně...
+
+message_113:
+    text: \n<MLADÁ HOUBA>Vem si tohle! Je to dárek jen pro tebe!
+
+message_114:
+    text: Získal jsi \c[5]PAMPELIŠKU\c[0]!
+
+message_115:
+    text: \n<MLADÁ HOUBA>Výborně! Výborně, výborně, výborně...
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Aubrey Loot --- \n<VELKÝ OBLIČEJ>
+#Somewhere in excavation
+#New Assets: Face Guy Turnaround, Wall Face, Cave Hole
+
+#Faces before learning skill: A peculiar face is indented into the wall.\!<br>You are not sure what this means.
+
+#Intro:
+
+message_119:
+    text: Ve zdi je promáčknuta velice výrazná tvář.\!<br>Nejsi si jistý, co znamená.
+
+message_120:
+    text: \n<VELKÁ TVÁŘ>Tyto...\! dutá místa já značím.\!<br>A v nich...\! jsem skryl svůj nejcennější majetek...\! ano.
+
+message_121:
+    text: \n<VELKÁ TVÁŘ>Bouchám se do tváře, abych si vzpomněl...\! ale jen lehce.\!<br>Jinak by se roztříštila.
+
+message_122:
+    text: \n<VELKÁ TVÁŘ>Jen lehce...\! jinak...\! by se roztříštila.
+
+#After smashing wall next to \n<VELKÁ TVÁŘ>
+
+message_123:
+    text: \n<VELKÁ TVÁŘ>Můj nejcennější majetek...
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Club Sandwich:
+#map439
+#New Assets: Reuben at Counter, Hoagie Turnaround
+
+#You can enter CLUB SANDWICH after getting HERO back from LAST RESORT.
+
+#Last Resort:
+#Scarebro
+#Sprout Mole Mike
+#Gator Guy (Multiple)
+#Earth
+
+#Pyrefly Forest:
+#Pinkbeard
+#Sir Maximus IV
+#Actual Mole
+#Rosa
+
+#Otherworld:
+#Ems
+#Nose
+#Space Pirate (Multiple)
+#Rare Rare Bear
+
+#Club doors before learning skill:
+#*CLUB DOOR slit opens*
+
+message_130:
+    text: \n<???>Heslo?
+
+message_131:
+    text: \n<???>...
+message_132:
+    text: \n<???>Žádné heslo, žádný vstup.
+
+#*CLUB DOOR slit closes*
+
+#Intro:
+
+#If HERO is not leader:
+#*CLUB DOOR slit opens*
+
+message_133:
+    text: \n<???>Heslo?
+
+message_134:
+    text: \n<???>...
+
+message_135:
+    text: \n<???>Žádné heslo, žádný vstup.
+
+#*CLUB DOOR slit closes*
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herHele! Tohle místo znám!\! Chcete dovnitř?\!<br>PAN CENIL mi jednou řekl heslo dovnitř, když jsem tam za něj něco šel vyřídit.
+
+message_137:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herJá je fakt miluju! Je s nima hrozná sranda.
+
+#If HERO is leader:
+message_138:
+    text: \n<???>Heslo?
+
+message_139:
+    text: \n<???>...
+
+message_140:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herČau, HOAGIE! To jsem já, HERO!\!<br>Heslo je ☐☐☐☐☐☐☐.
+
+message_141:
+    text: \n<HOAGIE>HERO, kamaráde! Vítej, vítej!\!<br>Je odemčeno. Jen pojď dál!
+
+#---------------
+
+#Talk to REUBEN at 1ST location:
+
+message_150:
+    text: \n<REUBEN>Tahle putyka patří mě a HOAGIEMU..\!<br>On jsou ruce... a já jsem taky ruce.
+
+#Talk to REUBEN again.
+
+message_151:
+    text: \n<REUBEN>Mladistvým \c[3]OVOCNOU ŠŤÁVU\c[0] nenalejváme. Však víte, jak to chodí!\!<br>Ale kdybyste si chtěli jen užít muziku a odpočinout, tak jste vždycky vítáni.
+
+#Talk to REUBEN again.
+
+message_152:
+    text: \n<REUBEN>Všichni máme všelijaké problémy.\!<br>Kdyby toho na vás bylo moc, jsem vám tady k dispozici.\!<br>Na, dejte si jednu \c[3]HROZNOVOU SODOVKU\c[0] na mě!
+
+message_153:
+    text: Získal jsi \c[3]HROZNOVOU SODOVKU\c[0]!
+
+#Talk to REUBEN at 2ND and 3RD location:
+
+message_154:
+    text: \n<REUBEN>Mladistvým \c[3]OVOCNOU ŠŤÁVU\c[0] nenalejváme. Však víte, jak to chodí!\!<br>Ale kdybyste si chtěli jen užít muziku a odpočinout, tak jste vždycky vítáni.
+
+#Talk to REUBEN again.
+
+message_155:
+    text: \n<REUBEN>Všichni máme všelijaké problémy.\!<br>Kdyby toho na vás bylo moc, jsem vám tady k dispozici.\!<br>Na, dejte si jednu \c[3]HROZNOVOU SODOVKU\c[0] na mě!
+
+message_156:
+    text: Získal jsi \c[3]HROZNOVOU SODOVKU\c[0]!
+
+#Talk to REUBEN at 4TH location:
+
+message_157:
+    text: \n<REUBEN>Tahle putyka patří mě a HOAGIEMU..\!<br>On jsou ruce... a já jsem taky ruce.
+
+#Talk to REUBEN again.
+message_158:
+    text: \n<REUBEN>S HOAGIEM jsme to tady vybudovali cihlu po cihle.\!<br>A teď k nám chodí zákazníci z celýho světa!\!<br>Já vám řeknu, to je nepřekonatelnej pocit.
+
+#Talk to REUBEN again.
+message_159:
+    text: \n<REUBEN>Čas od času k nám chodí všelijaký typy, ale jinak se tady hlavně relaxuje.<br><br>Popravdě mi to tady ani nepřipadá jako práce, har har!<br>No, dokud není čas umývat nádobí...
+
+message_160:
+    text: \n<REUBEN>HOAGIE pořád říká, že jsme se hledali.\! Je sice trochu hrubý, ale rozumíme si, chápeš?
+
+#Talk to REUBEN again.
+message_161:
+    text: \n<REUBEN>Všichni máme všelijaké problémy.\!<br>Kdyby toho na vás bylo moc, jsem vám tady k dispozici.\!<br>Na, dejte si jednu \c[3]HROZNOVOU SODOVKU\c[0] na mě!
+
+message_162:
+    text: Získal jsi \c[3]HROZNOVOU SODOVKU\c[0]!
+
+#Talk to HOAGIE at all locations:
+
+message_163:
+    text: \n<HOAGIE>Tady jste jako doma, děcka.<br>HEROVI kámoši jsou i moji kámoši.
+
+#Talk to HOAGIE after talking to REUBEN at 4TH location (once only):
+
+message_164:
+    text: \n<HOAGIE>Tak že o mě REUBEN zas mluvil?\! Už jsem mu říkal, aby toho nechal.\! ...\! No co...\! Koneckonců je mi to celkem jedno...\! Nemůžu se na něho zlobit navždycky.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#VAST FOREST
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Barking Dog:
+#New Assets: Barking Dog
+#map426
+
+
+#Every time you enter the dog house, there will be a barking noise.
+#There is a 30% chance of seeing the dog in a few random locations around the map (maybe 3-4).
+
+#When you see the dog, you can walk into it. When you do this, it barks and then fades away. When the dog is fading, Player cannot move. There is no dialogue.
+
+#If you see the dog 3 times in a row (i.e. get lucky) and walk into him all three times, on the last time, when he fades away he'll bark 3 times, then give you an item.
+
+message_175:
+    text: Cítíš něco ve své ruce.
+
+message_176:
+    text: Získal jsi \itemget.
+
+#Items you can get from dog:
+#Can
+#Rubber Band
+#Hot Dog
+#Life Jam
+#Cherry Soda
+#Sparkler
+
+#This can be repeated indefinitely. (Rate can be adjusted based on testing. If the rate is too high, maybe after X times, the dog doesn't come back.)
+
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Budgirls:
+#map426
+#When examining a bud, it opens and makes a noise, then withdraws into its bulb.
+#Sometimes, after it opens, it gives you an item before it withdraws.
+#There is no dialogue.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#PYREFLY FOREST
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Waterfall:
+#map160
+#Examining the waterfall in Pyrefly Forest will allow Omori to teleport to a map behind it. (Club Sandwich Alcove --- Map 433)
+
+#Before overcoming Fear of Drowning, it shows the fear border.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SPROUT MOLE COLONY
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Whack---A---Sprout---Mole:*Optional
+#Aubrey can whack sprout moles that pop out of the holes in this map.
+#If she whacks all the sprout moles in a certain time period, a watermelon falls from the sky.
+
+#Every time you enter the room, the sprout moles refresh their configuration. Maybe 5 or so instances.
+
+#The prizes are distributed at % chance.
+#50%: TOFU
+#50%: LIFE JAM
+#After you have won LIFE JAM four times, you can only win TOFU.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SWEETHEART'S CASTLE
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SW Statue Pose Change:
+#New Assets: SW Statue Poses, SW Statue Change Transition Animation
+
+#When examining any statue in SW Castle, it will change to one of these poses at random.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Fanmail Graveyard:
+#While traveling through the fanmail graveyard, there is some shaking happening that stops the party from moving. SFX should accompany this to make it seem like they're setting up for something upstairs. Maybe you can also hear the sprout moles rehearsing the wedding song for a few seconds.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Pet Jail:
+
+#When examining the gates, random chance of one of these messages:
+
+message_185:
+  text: Toto uvězněné stvoření vypadá unaveně.
+
+message_186:
+  text: Toto uvězněné stvoření vypadá smutně.
+
+message_187:
+  text: Toto uvězněné stvoření chce svobodu.
+
+message_188:
+  text: Toto uvězněné stvoření potřebuje tvou pomoc.
+
+#Switch:
+message_190:
+    text: Vypustíš uvězněné stvoření na svobodu?
+
+#[YES/NO]
+
+#[YES]
+message_191:
+    text: Jsi si absolutně jistý?
+
+#[YES/NO]
+
+#[YES]
+#*The gates go up and the creatures swarm the party*
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Magic Cake Slices:
+
+message_199:
+    text: Jahodový dort.\!<br>Kousneš si do něj?
+#[YES/NO]
+
+#Library Cake:
+message_200:
+    text: Jahodový dort páchnoucí po řepě.\!<br>Kousneš si do něj?
+#[YES/NO]
+
+#SW Room Cake:
+message_201:
+    text: Jahodový dort páchnoucí po rozmarínu.\!<br>Kousneš si do něj?
+#[YES/NO]
+
+#Servant's Room Cake:
+message_202:
+    text: Jahodový dort páchnoucí po odpadcích.\!<br>Kousneš si do něj?
+#[YES/NO]
+
+#Ballroom Cake:
+message_203:
+    text: Jahodový dort páchnoucí po moři.\!<br>Kousneš si do něj?
+#[YES/NO]
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#\n<KASTELÁN>
+#New Assets: Keeper, Keeper Touch
+
+#Enter through the wall. You can just run into it.
+
+#Intro:
+message_204:
+    text: \n<KASTELÁN>Jste velice odvážní, máte-li na to se mnou hovořit, děti.\!<br>Povězte mi, užíváte si RŮŽOVÝ ZÁMEK?
+
+message_205:
+    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\! Místo, které můžeme nazvat svým domovem.
+
+message_206:
+    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malá, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
+
+message_207:
+    text: \n<KASTELÁN>Tak jsem jí ustoupil.\! A dal jí hrad plný bohatství, poslušných sluhů a místa, kde by se mohla prezentovat.
+
+message_208:
+    text: \n<KASTELÁN>Avšak... ona stále chce víc.\! Možná, že je to kletba.
+
+message_209:
+    text: \n<KASTELÁN>Brzy odsud odejde a už se nikdy nevrátí.\! To já vím.
+
+message_210:
+    text: \n<KASTELÁN>A až mi bude jasné, že si našla nový domov, budu muset tomuto zámku najít nového vlastníka.
+
+message_211:
+    text: \n<KASTELÁN>Tehdy se ke mně vrať.\! Ano, ty s těma prázdnýma očima.\! Tvá duše je rozkolena, ovšem cestu si můžeš vybrat pouze jednu.\! Zajímá mě, co by z tohoto obydlí v tvých rukou vzniklo.
+
+#Return in Epilogue after Intro:
+
+message_212:
+    text: \n<KASTELÁN>Jste velice odvážní, máte-li na to se mnou opět hovořit, děti.
+
+message_213:
+    text: \n<KASTELÁN>Čas nadešel.\!<br>ZLATÍČKO je pryč a už se nevrátí.\! To já vím.\!<br>A teď je třeba najít tomuto zámku nového vlastníka.
+
+message_214:
+    text: \n<KASTELÁN>Ty, s těma prázdnýma očima.\! Jsi zde.\! Tvá duše je rozkolena, ovšem cestu si můžeš vybrat pouze jednu.\! Zajímá mě, co by z tohoto obydlí v tvých rukou vzniklo.
+
+message_215:
+    text: \n<KASTELÁN>Přál by sis mít tu moc?
+#[YES/NO]
+
+#---
+
+#[YES]
+
+message_230:
+    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] již nebude nadále existovat.\!<br>Jsi si jistý, že tohle chceš?
+#[YES/NO]
+
+#*Keeper extends tendril to OMORI's head*
+message_231:
+    text: \n<KASTELÁN>Tím pádem ti předávám vlastnictví tohoto místa.
+
+#*Screen turns white*
+#Player and party are ported to Sprout Mole Colony outside of SW Stage door, but now the door is replaced with an FA door.
+#Entering door will port Player and party to Boring Room --- map449.
+
+#---
+
+#[NO]
+message_240:
+    text: \n<KASTELÁN>Brzy se rozmyslíš.\!<br>Každá duše touží po tomu, čemu říkáte domov.
+
+#Intro (If you speak to the Keeper for the first time in epilogue):
+
+message_241:
+    text: \n<KASTELÁN>Jste velice odvážní, máte-li na to se mnou hovořit, děti.\!<br>Povězte mi, užíváte si RŮŽOVÝ ZÁMEK?
+
+message_242:
+    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\! Místo, které můžeme nazvat svým domovem.
+
+message_243:
+    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malá, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
+
+message_244:
+    text: \n<KASTELÁN>Tak jsem jí ustoupil.\! A dal jí hrad plný bohatství, poslušných sluhů a místa, kde by se mohla prezentovat.
+
+message_245:
+    text: \n<KASTELÁN>Avšak... ona stále chce víc.\! Možná, že je to kletba.
+
+message_246:
+    text: \n<KASTELÁN>Teď je ale pryč a už se nevrátí.\! To já vím.\!<br>A teď je třeba najít tomuto zámku nového vlastníka.
+
+message_247:
+    text: \n<KASTELÁN>Ty, s těma prázdnýma očima.\! Jsi zde.\! Tvá duše je rozkolena, ovšem cestu si můžeš vybrat pouze jednu.\! Zajímá mě, co by z tohoto obydlí v tvých rukou vzniklo.
+
+message_248:
+    text: \n<KASTELÁN>Přál by sis mít tu moc?
+#[YES/NO]
+
+#---
+
+#[YES]
+
+message_255:
+    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] již nebude nadále existovat.\!<br>Jsi si jistý, že tohle chceš?
+#[YES/NO]
+
+#*Keeper extends tendril to OMORI's head*
+message_256:
+    text: \n<KASTELÁN>Tím pádem ti předávám vlastnictví tohoto místa.
+
+#*Screen turns white*
+#Player and party are ported to Sprout Mole Colony outside of SW Stage door, but now the door is replaced with an FA door.
+#Entering door will port Player and party to Boring Room --- map449.
+
+#---
+
+#[NO]
+message_257:
+    text: \n<KASTELÁN>Brzy se rozmyslíš.\!<br>Každá duše touží po tomu, čemu říkáte domov.
+
+#Note: Boring room will have the same flavor text play as the ones in BASIL's memories. (The smell of laundry fills the air, etc.) PLAYER and party can stop moving when the dialogue pops up.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Portal to Heaven or Hell:
+#New Assets: White Shine, Red Shine
+
+#Stand still on vent as Omori for 9 seconds.
+
+#White light shines from the bottom of the vent if Heaven.
+#Red light shines if Hell.
+
+#While walking through Heaven, Something appears.
+#The camera pans to it, then it quickly runs into you and dissipates. Then camera returns to party.
+
+#While walking through Hell, Player appears.
+#The camera pans to Player, then Player stares, then walks away off screen. Then camera returns to party.
+
+#Happens only once.
+#Camera lock on both maps. Only of needed.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Popcorn Girl:
+#New Assets: Popcorn Girl Turnaround
+
+#There's a girl selling popcorn in Sweetheart's Theater Room.
+
+message_270:
+    text: \$\n<POPCORNOVÁ HOLKA>Čauky, nechceš popcorn? Jen za 80 MUŠLÍ.
+#[YES/NO]
+
+message_271:
+    text: \n<POPCORNOVÁ HOLKA>Jasně! Na! \c[3]POPCORN\c[0]!
+
+message_272:
+    text: \n<POPCORNOVÁ HOLKA>Tak dobře. Nevadí.
+
+message_273:
+    text: Získal jsi \c[3]POPCORN\c[0].
+
+message_274:
+    text: \n<POPCORNOVÁ HOLKA>Hele, na \c[3]POPCORN\c[0] potřebuješ víc MUŠLÍ.
+
+#Note: I think this is set up as a shop. Ask Ocean how he did it.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#FORGOTTEN PIER
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Ghosts Walking on Water:
+#New Assets: Ghosts Turnarounds
+
+
+#While swimming with MARI through Forgotten Pier, ghosts should be walking along the water every now and then. When you get into proximity of them, they disappear.
+#Maybe add Ghosts in house
+
+#Note: If walking looks funny, try to make them levitate instead.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Ghosts Hiding behind Trees:
+
+#While going through map209, there should be ghosts hiding behind the trees that appear and laugh (like children playing) only when PLAYER isn't looking directly at them. When PLAYER looks away, the children go back to hiding behind the trees and the laughing stops.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#LAST RESORT
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Lost Keycard:
+#New Assets: Keycard (Recolor SGL one)
+
+
+message_280:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelŽe je tenhle výtah hustej?\!<br>Ještě k tomu to tady voní jako voňavka a kouř.
+
+#KEL turns to MARI.
+#KEL Exclamation
+
+message_281:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelJé, ahoj MARI!
+
+message_282:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAhoj, vy dva!
+
+#KEL walks to Elevator.
+
+message_283:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kelTakže...<br>\!Jestli se nepletu, AUBRY by měla být na 5. PATŘE.
+
+#*KEL tries to press elevator button*
+
+message_284:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel...\! Jaktože to nejde?
+
+#KEL presses the button a bunch of times
+
+message_285:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelNo vlastně! Já úplně zapomněl!\! Na tohle potřebujeme \c[4]HUSTOU VSTUPNÍ KARTU\c[0]!
+
+message_286:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelVzali mi ji, protože jsem ji furt ztrácel...\!<br>Přísahám, že ale mizí samy!
+
+message_287:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelPojďme zkusit najít nějakou jinou.<br>\!Někde tady přece alespoň jedna \c[4]HUSTÁ VSTUPNÍ KARTA\c[0] být musí!
+
+#*Find KEY CARD next to Creepy Doll in a Hotel Room*
+
+#You found a KEY CARD.\!
+#You can now access the 5TH FLOOR of the LAST RESORT.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Haunted Hotel Doll:
+#New Assets: Creepy Doll, Omori Doll
+
+
+#Examine doll:
+message_300:
+    text: Panenka s prázdnou tváří.\!<br>Nevypadá, že by zde patřila.\!<br>Chtěl bys ji vyhodit?
+#[YES/NO]
+
+#If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
+
+#If you do this 3 times, the next time you enter the room, the doll turns into an OMORI doll.
+
+#Examine OMORI doll:
+message_301:
+    text: Panenka s povědomou tváří.
+
+message_302:
+    text: Mý vydlábnuté oči.\! Podíváš se dovnitř?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#UNDERWATER HIGHWAY
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Rope Bridge:
+#Top of Map215
+
+#Examine bridge:
+message_310:
+    text: Nad propastí se tyčí jasný most.\!<br>Chtěl bys ho přejít?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Alternate Toll Booth Dialogue:
+
+#If you say “NO” to any Toll Booth payment dialogue:
+
+message_320:
+    text: \n<KROKOĎÁK>Hele, počkej!\! Vy... jste HERO, viď?\!<br>Šéfův oblíbenec!
+
+message_321:
+    text: \n<KROKOĎÁK>Promiňte pane, skoro jsem vás nepoznal.\! Tyhle brýle jsou na můj zrak příliš tmavé, víte?
+
+message_322:
+    text: \n<KROKOĎÁK>I když jste šéfův oblíbenec, pravidla pro vás platí stejně, jako pro všechny.\! Ale možná bych vám mohl dát o trochu férovější nabídku...
+
+message_323:
+    text: \n<KROKOĎÁK>Co říkáte na \v[1012] MUŠLÍ?\$
+
+message_326:
+    text: \n<KROKOĎÁK>Co říkáte na \v[1001] MUŠLÍ?\$
+
+message_327:
+    text: \n<KROKOĎÁK>Co říkáte na \v[979] MUŠLÍ?\$
+#[YES/NO]
+
+#[YES]
+message_324:
+    text: \n<KROKOĎÁK>Díky.\!<br>Byl byste tak hodný a pochválil mě šéfovi?
+
+#[NO]
+message_325:
+    text: \n<KROKOĎÁK>To jako vážně?\! Takovouhle slevu nerozdávám jen tak každému, víte?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#DEEPER WELL
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Map BGM bs_nawa
+#Branch Coral Facts:
+
+#Talk to KORÁL as not-OMORI:
+message_330:
+    text: Korál si něco mumlá pro sebe.
+
+#Talk to KORÁL as OMORI.
+
+message_331:
+    text: \n<KORÁL>Ode dne, co ses sem naposledy vydal, uplynula již dlouhá doba.<br><br><br>Čím zoufalejší je SNÍLEK, tím hloubější vrstvy tohoto světa se mu otvírají.<br><br>Ano, i představivost má své meze.
+
+#*wait*
+message_332:
+    text: \n<KORÁL>Máš otázky, na které já mám odpovědi.\!<br>Odpovědi, které jsi již zapomněl.
+
+message_333:
+    text: \n<KORÁL>Dám ti z nich na výběr.\!<br>Jsi-li zvědavý, vybereš si.
+
+#---
+
+#[MY LOST FRIEND]
+message_335:
+    text: MŮJ ZTRACENÝ KAMARÁD
+#[THE BIG YELLOW CAT]
+message_336:
+    text: VELKÁ ŽLUTÁ KOČKA
+#[WHITE SPACE]
+message_337:
+    text: BÍLÝ PROSTOR
+
+#---
+
+message_340:
+    text: \n<KORÁL>Přál by sis vědět víc o SVÉM ZTRACENÉM KAMARÁDOVI?
+#[YES/NO]
+
+#[YES]
+#*Everything except for the KORÁL, OMORI, and a small pool under the KORÁL are blacked out.*
+
+message_341:
+    text: \n<KORÁL>Kamarád, kterého jsi ztratil, se již nenachází v tomto světě.\!<br>Toho dne, kdy zmizel, se znovu narodil jinde.
+
+message_342:
+    text: \n<KORÁL>Je pro tebe výjimečný.\! Jste spolu svázání provazy osudu.\! A z toho místa, kde je, se sám nedostane. #provaz protože pravda
+
+message_343:
+    text: \n<KORÁL>Proto, abys ho zachránil, se nejdříve musíš odstranit z tohoto světa způsobem, který je pro něj běžný.\! Způsobem běžným pro \c[11]MYŠLENKOVÝ PROSTOR\c[0].
+
+message_344:
+    text: \n<KORÁL>Tvá cesta se blíží ke konci.\!<br>Již víš, co máš udělat, SNÍLKU.
+
+#---
+
+message_350:
+    text: \n<KORÁL>Přál by sis vědět víc o VELKÉ ŽLUTÉ KOČCE?
+
+#[YES]
+#*Everything except for the KORÁL, OMORI, and a small pool under the KORÁL are blacked out.*
+
+message_351:
+    text: \n<KORÁL>Před stvořením tohoto světa žily tři obrovská stvoření...\! nejstarší, nejmoudřejší a nejoblíbenější.
+
+message_352:
+    text: \n<KORÁL>To nejstarší je stále naživu, avšak není již stejné, jako tehdy.
+
+message_353:
+    text: \n<KORÁL>Věk mu odstranil vědomí a postupně se sám sobě stal parazitem.\! Žije hned za touto jeskyní.
+
+message_354:
+      text: \n<KORÁL>Nejmoudřejší vykonal proti své vůli prečin proti SNÍLKOVI.\! O tomto přečinu nevím ani já sám.
+
+message_355:
+    text: \n<KORÁL>Za to jí byla vzána moudrost a byla vyhnána kamsi daleko...\! do zvláštního vězení, kdesi hluboko.
+
+message_356:
+    text: \n<KORÁL>To poslední, nejoblíbenější, je VELKÁ ŽLUTÁ KOČKA, která nyní střeží SNÍLKOVU nejcennější místnost.
+
+message_357:
+    text: \n<KORÁL>Je SNÍLKOVÝM oblíbenem až dodnes...\! neustále ho sleduje...\! a čeká na něco.
+
+#---
+
+message_365:
+    text: \n<KORÁL>Přál by sis vědět víc o \c[11]BÍLÉM PROSTORU\c[0]?
+
+#[YES]
+#&Everything except for the KORÁL, OMORI, and a small pool under the KORÁL are blacked out.*
+
+message_366:
+    text: \n<KORÁL>Být v \c[11]BÍLÉM PROSTORU\c[0] znamená být ničím.
+
+message_367:
+    text: \n<KORÁL>\c[11]BÍLÝ PROSTOR\c[0] je nicota, domov bez tepla.<br>Místo, které nebylo stvořeno k životu, nýbrž k přežití.
+
+message_368:
+    text: \n<KORÁL>Ale i přesto své vědomí nevymažeš.\!<br>Vždy si najde cestu dovnitř.
+
+message_369:
+    text: \n<KORÁL>Zhmotní se i v \c[11]BÍLÉM PROSTORU\c[0]...\!<br>a přeje-li si to někdo, vznikne něco, co si jej podmaní.
+
+message_370:
+    text: \n<KORÁL>Visící černá žárovka...\! potlačení myšlenky.
+
+message_371:
+    text: \n<KORÁL>...
+
+message_372:
+    text: \n<KORÁL>Ano.\! Možná je na čase si přiznat, že jsi člověkem, SNÍLKU.
+
+#---
+
+#After any selection:
+message_373:
+    text: \n<KORÁL>Přál by sis vědět víc o něčem jiném?
+
+#---
+
+#After choosing all 3 selections and attempting to exit out of menu:
+
+#*Wait*
+message_374:
+    text: \n<KORÁL>Poslouchal jsi dobře.\! Dal jsem ti sice poznání, avšak sílu ti zde dáti nemohu.
+
+message_375:
+    text: \n<KORÁL>Je zde výzva, která ti v tomto světě velice napomůže.\!<br>Nemyslíš-li, je jednoduchá... a pokud se ti podaří, zmizím také.
+
+message_376:
+    text: \n<KORÁL>Nabízím ti tuto oběť.\! Využiješ této příležitosti?
+#[YES/NO]
+
+#[YES]
+message_377:
+    text: \n<KORÁL>Rozumím.\! Nehýbej se, SNÍLKU.
+
+#*wait*
+#*OMORI sinks into the floor*
+#*OMORI teleports to a dark cave with the branch with PLAYER's head at the end*
+
+#As OMORI walks closer, the head turns into an apple.
+
+#Examine tree:
+message_378:
+    text: Ze stromu visí velké, červené, šťavnaté \c[3]JABLKO\c[0].
+
+message_379:
+    text: Přál by sis tohle \c[3]JABLKO\c[0] sníst?
+#[YES/NO]
+
+#*Screen turns black*
+#*Crunch noises*
+
+message_380:
+    text: OMORI získal 50 ŽIVOTŮ.<br>\!OMORI získal 50 ŠŤÁVY.
+
+
+message_381:
+    text: OMORI získal 10 ÚTOKU.<br>\!OMORI získal 10 OBRANY.<br>\!OMORI získal 10 RYCHLOSTI.
+
+#*Screen returns to OMORI in front of KORÁL*
+
+#KORÁL is grayed out/dead.
+
+#Examine KORÁL:
+message_382:
+    text: Korál.\! Není živý.
+
+#[NO]
+#nothing
+
+#Attempt to leave room
+#*Screen turns black*
+#*Screen returns to OMORI in front of KORÁL*
+
+message_388:
+    text: \n<KORÁL>Přál by sis opustit tuto výzvu?
+#[YES]
+
+message_383:
+    text: \n<KORÁL>Vidím, že ses rozhodl pro jinou cestu.\!<br>Má nabídka ovšem stále platí.
+
+message_384:
+    text: \n<KORÁL>Pokud by sis přál stát se o něco silnějším, promluv si se mnou znovu.
+
+#Talk to KORÁL again:
+
+message_385:
+    text: \n<KORÁL>Vidím, že ses vrátil.<br>\!Vše ti zopakuji...
+
+message_386:
+    text: \n<KORÁL>Je zde výzva, která ti v tomto světě velice napomůže.\!<br>Nemyslíš-li, je jednoduchá... a pokud se ti podaří, zmizím také.
+
+message_387:
+    text: \n<KORÁL>Nabízím ti tuto oběť.\! Využiješ této příležitosti?
+
+#*Follow same sequence as above.*
+
+
+#CLUB SANDWICH JUICE
+
+message_390:
+    text: Všichni získali 10 ŠŤÁVY! 

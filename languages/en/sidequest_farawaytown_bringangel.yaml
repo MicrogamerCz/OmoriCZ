@@ -1,0 +1,112 @@
+# =========================================================================================
+# Sidequest: Bring back Angel
+# =========================================================================================
+
+message_0:
+      text: \artHej, nenarazili jste náhodou na toho mojeho přiblblého bráchu, ANDĚLA?\!<br>Dneska ráno jsem ho poslala nakoupit, ale zatím nevypadá, že by měl na mysli se vracet.
+
+message_1:
+      text: \artA s tím, jak ho znám... na to beztak úplně zapomněl...\!<br>Kdybyste ho našli, mohli byste si s ním prosím promluvit?
+
+message_2:
+      text: \artŘekněte mu...\! že jeho sestře...\! dochází trpělivost...
+
+#Talk to ANGEL
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHej, ANDĚLI! Shání tě tvoje ségra...\!<br>Prý tě dneska ráno poslala na nákup!
+
+message_4:
+      text: \angCo?...\! Nákup?\! Jakej nákup?
+
+message_5:
+      text: \ang\Com[2]Sakra práce!\! Vlastně jsem ji měl jít sehnat ty barvy!
+
+message_6:
+      text: \angUff...\! Ajaj...\! Tak proto mi dávala peníze...\!<br>...\! Jejda...
+
+message_7:
+      text: \angHele...\! Když jste s ní mluvili...\!<br>Myslíte...\! že se zlobila?
+
+#[yes/no]
+
+#[if yes]
+
+message_8:
+      text: \angZ-Zlobila...\! se?
+
+message_9:
+      text: \angHmm...\! Měl bych se vracet domů?\!<br>Má to vůbec ještě cenu?
+
+message_10:
+      text: \ang\Com[2]Ts!\! Ne, utíkáním si nepomůžu, ba naopak!\!<br>No tak, ANDĚLI! Musíš se postavit svému strachu!
+
+message_11:
+      text: \ang\{\Com[2]KUPŘEDU, ANDĚLI!\! \Com[2]MÁŠ NA TO!!
+
+#ADD FWWAAAAAAAAA
+
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+#[if no]
+
+message_12:
+      text: \angHa...\! Opravdu...?\! No, s ní si člověk popravdě nemůže být nikdy jistý...
+
+message_13:
+      text: \angAsi bych se ale měl vrátit...\! pro jistotu...
+
+message_14:
+      text: \angS váma jsem ještě nezkončil...
+
+message_15:
+      text: \angAle...\! teď...\! musím...
+
+#Fwaaaaa
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+# =========================================================================================
+# Cutscene: Angel's Punishment
+# =========================================================================================
+
+message_20:
+      text: \art\{\{\COM[2]\QUAKE[1]ANDĚLI, MAZEJ ZPÁTKY!!!!\QUAKE[0]
+
+message_21:
+      text: \ang\{\{\COM[2]\QUAKE[1]PROMIŇ, SÉGRA!!!\QUAKE[0]
+
+message_22:
+      text: \ang\COM[2]\QUAKE[1]Prosím...\! Ne...\!<br>\{\COM[2]TO NE!!!\! \COM[2]JEN TO NE!!!!\QUAKE[0]
+
+#RIPPING NOISE
+
+message_23:
+      text: \ang\COM[2]\QUAKE[1]ÁÁÁ\{ÁÁÁÁÁ\{ÁÁÁÁÁ\{ÁÁÁAAAA\{AAAAAA!!!!\QUAKE[0]
+
+#TALK TO ARTIST
+
+
+message_24:
+      text: \artHff...\! Jé, to jste jen vy.\!<br>Dík, že jste ulovili toho mojeho bráchu...
+
+message_25:
+      text: \artTeď...\! Už je na lepším místě...
+
+message_26:
+      text: \artKecám...\! Poslala jsem ho do kouta.\! Příště se snad zamyslí, než utratí všechny moje peníze za kartičky!
+
+message_27:
+      text: \art\}Pšt...\! Na.\! Vemte si tohle.
+
+message_100:
+      text: Získal jsi \c[4]VZÁCNOU KARTIČKU\c[0].
+
+#You got a RARE TRADING CARD.
+
+message_28:
+      text: \art\}Dělala jsem, jakože ji trhám, abych ho trochu vyděsila...\! ale ne, je celá, a teď vaše.
+
+message_29:
+      text: \art\}Jen...\! ji zkuste na pár dní neztratit, pak si pro ni zase dojdu a vrátím mu ji.\! Ha ha...\! To ho naučí...

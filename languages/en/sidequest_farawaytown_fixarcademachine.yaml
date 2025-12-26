@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Sidequest: Fix Arcade Machine
+# =========================================================================================
+
+#Talk to Gino without arcade piece
+
+message_1:
+      text: \n<GLASSES MAN>Uff...\! Safra...\! Snažím se opravit tenhle starej automat, <br>ale chybí mi jedna dost podstatná a vzácná součástka...
+
+message_2:
+      text: \n<GLASSES MAN>Vypadá, že jí někdo ukousl.\! Kde by asi tak mohla být...
+
+#Talk to Gino with arcade piece
+
+message_4:
+      text: \n<GLASSES MAN>\com[2]Hej!\! To je ten chybějící \c[4]KUS AUTOMATU\c[0], který jsem hledal!\! D-Dali byste mi ho?
+
+#[Nod/Shake]
+#[Nod]
+
+message_8:
+      text: Dal jsi BREJLOVCOVI \c[4]KUS AUTOMATU\c[0].
+
+message_5:
+      text: \n<GLASSES MAN>Super!\! Jdu se na to kouknout...
+#[Arcade Machine boots up]
+message_6:
+      text: \n<GLASSES MAN>Tak...\! A je jako nový!
+#[Shake]
+message_7:
+      text: \n<GLASSES MAN>\com[2]A-A-A-le proč!?
+
+message_9:
+      text: \n<GLASSES MAN>Na! Vemte si tohle \c[4]CDčko\c[0] jako poděkování!
+
+message_10:
+      text: \n<GLASSES MAN>Koupil jsem ho minulý týden v \c[11]HOBBEEZ\c[0], ale nedošlo mi, že už doma jedno mám...
+
+message_11:
+      text: \n<GLASSES MAN>A teď mě prosím omluvte...\! <br>Musím...\! eee...\! se ujistit, že tenhle automat správně funguje...

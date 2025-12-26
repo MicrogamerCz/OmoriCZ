@@ -1,0 +1,177 @@
+
+
+# =========================================================================================
+# MINI-GAME: Pizza Delivery
+# =========================================================================================
+
+#Placeholder intro
+
+
+message_10:
+      text: Nabídka brigády v \c[11]GINOVĚ PIZZERII\c[0].\!<br>Tam už sis dneska šichtu odpracoval.
+
+message_11:
+      text: Vzal sis plakát nabízící brigádu.\! Možná by ses na ni mohl zeptat u kasy.
+
+message_0:
+      text: \n<PIZZAŘ>Takže...\! Vidím, že koukáš na tam ten plakát.\! Měl bys zájem o brigádu?
+
+#[Nod/Shake]
+#[Nod]
+message_1:
+      text: \n<PIZZAŘ>\sinv[1]Skvělý...\sinv[0]\! Tak pojďme začít.
+#[Shake]
+message_2:
+      text: \n<PIZZAŘ>Dobře...\!<br>Kdyby sis ale někdy chtěl trochu přivydělat, klidně se ozvi! #přiroz
+
+#Rule Explanation
+#Quest Finish
+#Return to Party
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelČau, SUNNY! Jak šla šichta?\! Zatímco jsi pracoval, já seděl na lavičce a bavil se s náhodnými lidmi!\!<br>To byla ale sranda, kámo...\! Každopádně... jsem připraven vyrazit, jen co řekneš!
+
+# Door Knock Greeting
+message_3:
+      text: \com[2]\{\{\sinv[1]PIZZA JE TADY!! #blíže orig
+
+# Randomized NPC Dialogue Success
+message_4:
+      text: \n<ZÁKAZNÍK?>Zdravím!\! Ty jo, to bylo rychleji, než jsem čekal!\! Díky, pane roznašeči!
+
+message_5:
+      text: \n<ZÁKAZNÍK?>Kde to vázne!?\! \c[11]GINOVA PIZZERIE\c[0] už není to, co bývala...
+
+message_6:
+      text: \n<ZÁKAZNÍK?>Pizza?\! Supr. Položte ji na zem.\!<br>Já si pro ni dojdu.
+
+message_7:
+      text: \n<ZÁKAZNÍK?>\Com[2]Vynikající, výtečná \c[3]PIZZA\c[0]!\! Už si pro ni jdu!
+
+message_8:
+      text: \n<ZÁKAZNÍK?>\}D-Díky...
+
+# Randomized NPC Dialogue Fail
+message_20:
+      text: \n<ZÁKAZNÍK?>No...\! Omlouvám se, ale asi jste špatně.\!<br>My si žádnou \c[3]PIZZU\c[0] neobjednávali...
+
+message_21:
+      text: \n<ZÁKAZNÍK?>\c[3]PIZZA\c[0] zdarma!?\! Ale... Neříkejte!
+
+message_22:
+      text: \n<ZÁKAZNÍK?>Kdo seš?\! My si žádnou blbou \c[3]PIZZU\c[0] neobjednávali!\! Pal vocud!
+
+message_23:
+      text: \n<ZÁKAZNÍK?>Jak si dovoluješ nosit \c[3]PIZZU\c[0] do mé přísně veganské domácnosti!\! Styď se!
+
+message_24:
+      text: \n<ZÁKAZNÍK?>Vyrušuješ mou chvilku pro sebe.\! Seber se a odejdi!
+
+# Continue looking after failing
+message_25:
+      text: To se moc nepovedlo...\! Měl bys najít ten správný dům.
+
+# After checking the house again
+message_26:
+      text: Tuto domácnost jsi již vyrušil.
+
+# Too many fails
+message_35:
+      text: \c[3]PIZZA\c[0] ti byla vzána.
+
+# Minigame Complete
+message_36:
+      text: Tak to jsou všechny...\! A teď zpět do \c[11]GINOVY PIZZERIE\c[0]!
+
+message_37:
+      text: \n<PIZZAŘ>Servus, bažante!\! Ty seš přesně ten, kterého teď hledám!\!<br>Podle zpětné vazby o spokojenosti našich zákazníků sis vysloužil \v[823] z 10 bodů. #překlep
+
+# Move On GOOD
+message_38:
+      text: Navzdory všemu se ti povedlo donést \c[3]PIZZU\c[0].\!<br>Je čas vyřešit další objednávku.
+
+# Move On BAD
+message_39:
+      text: Nepovedlo se ti donést \c[3]PIZZU\c[0].\!<br>Je čas vyřešit další objednávku...
+
+# Initialized
+message_41:
+      text: Získal jsi \c[4]POZNÁMKY K PIZZÁM\c[0].
+
+# Time runs out
+message_42:
+      text: Nepovedlo se ti roznést všechny \c[3]PIZZY\c[0] včas.
+
+# Trying to leave the area
+message_43:
+      text: Nejdříve musíš roznést všechny \c[3]PIZZY\c[0].
+
+message_44:
+      text: \n<PIZZAŘ>A protože seš takový machr, můžes si vzít tohle, zdarma!
+
+message_45:
+      text: \n<PIZZAŘ>Jedna z mojich oblíbených pecek.
+
+message_46:
+      text: \n<PIZZAŘ>Můžeš si ji pustit támhle v tom JUKEBOXU!
+
+message_15:
+      text: PŘEČÍST POZNÁMKY
+
+message_16:
+      text: UKONČIT BRIGÁDU
+
+message_17:
+      text: NAKONEC NIC
+
+message_19:
+      text: Co bys chtěl udělat? #konzistence
+
+# Expression of disappointment from quitting
+message_18:
+      text: No...\! to pro naše tržby ani neznamená nic dobrého.
+#===
+
+#Job Description
+
+message_50:
+      text: \n<PIZZAŘ>Takže... chceš slyšet nejdřív dobrou nebo špatnou zprávy?
+#GOOD NEWS / #BAD NEWS
+
+message_51:
+      text: \n<PIZZAŘ>No, raději začnu s tou dobrou.<br>\!Dobrá zpráva je...\! že jsme dneska dostali tři objednávky \c[3]PIZZY\c[0]!\!
+
+message_60:
+      text: \n<PIZZAŘ>Ta špatná...\! že nám zase onemocnil roznašeč...
+
+message_52:
+      text: \n<PIZZAŘ>A protože si je objednávali věrní zákazníci, nemám nikde sepsané jejich adresy, ty má ten nemocný tak v hlavě.
+
+message_61:
+      text: \n<PIZZAŘ>Nevybavím si je, ale vzpomenu si, kde bydlí!
+
+message_53:
+      text: \n<PIZZAŘ>Na! Tyhle poznámky by ti měly pomoct!
+
+#*Screen goes black*
+#wait: 20
+#*Pizza bell SFX*
+#wait: 20
+
+message_54:
+      text: \n<PIZZAŘ>No tak, nestyď se!\! Uniforma ti určitě bude slušet!
+
+#wait: 20 frames
+
+message_55:
+      text: \n<PIZZAŘ>Každopádně, tady máš ty tři \c[3]PIZZY\c[0], které bys měl roznést.\! Až budeš mít hotovo, dojeď sem.\! Držím ti palce!
+
+#wait: 20 frames
+#*Screen returns. You are in the pizza mini-game now.#
+
+message_100:
+      text: PIZZAŘ ti dal své \c[4]POZNÁMKY K PIZZÁM\c[0].
+
+message_101:
+      text: \n<PIZZAŘ>Já ti teda dojdu pro tu uniformu!

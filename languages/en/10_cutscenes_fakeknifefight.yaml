@@ -1,0 +1,344 @@
+# =========================================================================================
+# Cutscene: Go to the Park
+# =========================================================================================
+
+#Trigger: Exit Hobby Shop after purchasing Hero's Gift.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Tak...\! Kam bys chtěl zajít teď, SUNNY?\kel
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Tady v předměstí toho vlastně nic moc není, že?\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Co takhle \c[11]PARK\c[0]?\! Jo, pojďme do parku!\kel #blíže orig
+
+#KEL walks towards FARAWAY PARK.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Už jsme kolem něj šli.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tam by mohla být sranda, nemyslíš?\kel
+
+# =========================================================================================
+# Cutscene: Aubrey and the Hooligans
+# =========================================================================================
+
+#Trigger: Enter proximity in FARAWAY PARK.
+
+
+#BASIL, talking to Kim
+message_20:
+      text: Počkej, ještě nechoď!\! Prosím!\who
+#Kim talking:
+
+message_21:
+      text: Sorry, kámo. S tím ti nepomůžu. To je jenom tvoje věc!\who
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Ajaj...\! Tady se něco děje...\kel
+
+#KEL walks up.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Pojďme se tam kouknout.\kel
+
+#Camera pans to KIM and BASIL talking.
+#KIM turns away from BASIL.
+#Kim talking:
+message_24:
+      text: Do toho mi nic není.\!<br>Jestli s ní máš problém, běž si to s ní vyřídit sám, ty nulo!\who
+
+#BASIL walks up to KIM.
+
+#Basil talking:
+message_25:
+      text: Prosím tě!\! Aspoň ji popros, aby mi ho vrátila!\who
+
+#Basil talking:
+message_26:
+      text: Mě vůbec neposlouchá...\who
+
+#KEL is surprised.
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Počkat...\! Není to náhodou...?\kel #přirozenější
+
+#KEL walks forward one step.
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Vždyť to je BASIL!\! Nech ho bejt, ty surovče!\kel #blíže orig
+
+#KIM looks around.
+#KIM is surprised.
+
+#KIM talking:
+
+message_29:
+      text: Cože?\! Kdo to je?\who
+
+#KIM is frustrated.
+
+message_30:
+      text: Jo, to je jenom KEL...\! Mrr, mrr...\who
+
+message_31:
+      text: Co kdyby sis hleděl svýho?\who
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: A co kdybys ty šla otravovat někoho jiného, KIM?\kel
+
+message_33:
+      text: Ts.\! Jaktože ze sebe z ničeho nic děláš takového hrdinu?\kim
+
+message_34:
+      text: Tady se hraje podle našich pravidel!\kim
+
+#Aubrey talking:
+message_35:
+      text: \Com[2]\{CO SE TO TAM DĚJE!?\who
+
+#AUBREY & the rest of the HOOLIGANS scooter in behind KIM.
+#AUBREY walks to KIM's side and faces her.
+
+message_36:
+      text: No, čau AUBRY...\!<br>Tenhle šprťák KEL se tady <br>ukázal a myslí si, že mi může poroučet!\! Pojďme mu dát co proto!\kim
+
+#AUBREY get off scooter, and turns to KEL.
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: KELI...\! Co tady pohledáváš?\aub #tady se hodí ten tvůj "nepřítelštější ráz"
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Dej BASILOVI pokoj!\! A jak mu vůbec můžeš tohle dělat!?\!<br>Vždyť jsme přece kdysi bývali všichni kamarádi!\!<br>No jen ji to řekni, SUNNY!\kel #blíže orig, přirozenější
+
+#AUBREY is surprised.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: ...\! SUNNY je tu taky?\aub #zní lépe
+
+#AUBREY walks up to PLAYER.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Tak to vážně seš ty.\!<br>Dlouho jsme se neviděli, ale ty ses ani trošku nezměnil.\aub
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: Jak dlouhos nevylezl z baráku?\!<br>Tři roky...?\! Že by čtyři?\!<br>Muselo být fajn žít v bublině.\aub
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Sklapni, AUBRY!\!<br>Víš vůbec, čím si prošel?\kel
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Hm...\! To je mi ukradený.\aub
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: AUBRY!\! Prosím tě...\! Poslechni mě...\bas
+
+#BASIL walks toward AUBREY. KIM gets in BASIL's way. BASIL falls over.
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Hej, nechte toho!\kel #dle mě se lépe hodí plurál
+
+#KEL attempts to run to KIM, but AUBREY blocks his path.
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 3
+      text: Vypadni, KELI. Do tohohle ti nic není.\aub
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: Co se to s tebou stalo, AUBRY!?\kel
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 21
+      text: Uff... SUNNY!\! No tak, musíme něco dělat!\kel
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 10
+      text: Haha...\! Říkáte si snad o něco?\aub
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Tak dobře!\!<br>Vy dva proti mně! Co vy na to?\!<br>\Com[2]Tak pojďte!\! Sundám vás oba!\aub #přidán konec z originálu
+
+# =========================================================================================
+# Cutscene: Fake Knife Fight
+# =========================================================================================
+
+#Trigger: Attack AUBREY in battle.
+
+#AUBREY falls to the floor.
+#KIM runs to AUBREY.
+
+message_70:
+      text: Hergot...\! Dobrý, AUBRY?\!<br>Něco... Něco ti je...\kim
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: J-Jsem v pohodě...\aub
+
+message_72:
+      text: No to teda nejseš! Krvácíš!\!<br>Dělej, musíme rychle odsud!\kim #tady je sus Sunny, ne Kim
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: Uff...\! Tohle vám dvoum vrátím...\aub
+
+#AUBREY and HOOLIGANS run away.
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Ty jo, tohle mohlo dopadnout dost špatně.\!<br>Ještě žes u sebe měl ten nůž, jinak bychom-\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \Com[2]P-Počkat!\! Dej mi ho!\kel
+
+message_76:
+      text: KEL ti vzal tvůj \c[13]NŮŽ NA STEAK\c[0].
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: Takovéhle věci bys s sebou neměl nosit, SUNNY...\! To je nebezpečné!\kel
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Uff...\! AUBRY se dost změnila od té doby, kdys ji naposledy viděl.\!<br>Spolu s jejími kamarády je teď jen samý problém.\kel #přirozenější, pravopis
+
+#KEL looks at BASIL.
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Chudák BASIL...\kel
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Pojďme ho zkontrolovat.\kel
+
+# =========================================================================================
+# Cutscene: Faraway Basil
+# =========================================================================================
+
+#Trigger: Talk to BASIL.
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Ahoj, BASILE. Jak se daří?\kel #blíže orig
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Já...\! Dobře...\! Díky...\! KELI...\bas
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Nevím, jestli sis ho všiml, ale je tady se mnou i SUNNY!\!<br>No tak, pozdrav, SUNNY!\kel
+
+message_103:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Aha...\! Ahoj, SUNNY.\! My už jsme se dlouho neviděli, viď?\! <br>Haha...\bas
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\sinv[1]JUPÍ!\! A JSME ZASE SPOLU!!\kel\}
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Nechtěl bys jít s náma, BASILE?\kel
+
+message_106:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Já...\! Promiňte...\! Rád bych, ale...\!<br>asi...\! asi bych už měl jít domů.\bas
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Co? Vážně? Jsi si jistý?\kel
+
+message_108:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: Moje...\! Moje babička je na tom poslední dobou docela špatně.\bas
+
+message_109:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Aha, tak... to mě mrzí.\kel
+
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Mohli bychom tě alespoň doprovodit, nemyslíš?\!<br>Přece jsme se všichni tak dlouho neviděli!\kel
+
+message_111:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Tak dobře...\! Díky.\bas
+
+message_112:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Támhle je BASILŮV dům!\! Ten se zelenou střechou!\kel
+
+message_123:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Umm...\! Nechtěli jste mě doprovodit domů?\bas #upřesnění - tohle je text, když neděláš to, co po tobě hra chce

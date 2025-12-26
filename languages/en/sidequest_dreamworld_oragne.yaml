@@ -1,0 +1,141 @@
+
+# =========================================================================================
+# Long Lost Brother
+# ========================================================================================
+
+#Talk to Orange Joe:
+
+message_0:
+      text: POMERANČOVÝ JOE hází s pomeranče.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kelAhoj...\! Co...\! to... děláš?
+
+message_2:
+      text: \n<POMERANČOVÝ JOE>Jsem POMERANČOVÝ JOE a házím pomeranče!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelTy jo! Hustý!
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kelAle... Ale proč?
+
+message_5:
+      text: \n<POMERANČOVÝ JOE>Protože...\! Hledám...\! fňuk...\!<br>Hledám svého dávno ztraceného bratra...\! POREMANČOVÉHO JOEHO...
+
+message_6:
+      text: \n<POMERANČOVÝ JOE>Byli jsme rozděleni sice už při porodu, ale ve svém citrusovém srdci cítím... <br>Že tam někde v tom světě pořád je.
+
+message_7:
+      text: \n<POMERANČOVÝ JOE>Na každý z těchle pomerančů jsem napsal kdo jsem, a kde mě najít...
+
+message_8:
+      text: \n<POMERANČOVÝ JOE>A doufám, že když jima budu házet každým směrem, <br>tak jeden najde a vrátí se ke mně.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1 #needs appropriate faceset
+      text: \aubJé...\! To je ale dojemné...\!<br>Doufám, že se ti podaří najít svého bratra...
+
+message_10:
+      text: \n<POMERANČOVÝ JOE>Díky, mladá slečno!\! To zajisté!\! <br>Moje tělo září nadějí a vášní!
+
+message_11:
+      text: \n<POMERANČOVÝ JOE>Ale...\! Kdybyste na něj náhodou narazili...\! předejte mu prosím tenhle \c[4]POMERANČOVÝ HŘEBEN\c[0].\! <br>Určitě ho ke mně nějak přivede.
+
+message_12:
+      text: Získal jsi \c[4]POMERANČOVÝ HŘEBEN\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelNeboj, můj milý příteli POMERANČOVÝ JOE.\! My ho určitě najdem!
+
+#Cutscene: Found at Last!
+
+message_14:
+      text: \whoHe?\! Kde to jsem?\! Kdo jste?
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19 #needs appropriate faceset
+      text: \kelPočkat...\! Ty mi připadáš nějaký povědomý.\!<br>Ten tvar těla...\! ten citrusový povrch...\! Ne, o tom snad není pochyby!
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelTy musíš být to ztracené dvojče POMERANČOVÉHO JOEHO...\! POREMANČOVÝ JOE!
+
+message_17:
+      text: \n<POREMANČOVÝ JOE>Tak já že jsem...\! POREMANČOVÝ JOE?\! A...\! mám dvojče?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelAno, tvůj bratr tě celou dobu hledá!\!<br>Na, posílá ti tohle!
+
+message_19:
+      text: Předal POMERANČOVÉMU JOEMU \c[4]POMERANČOVÝ HŘEBEN\c[0]!
+
+message_20:
+      text: \n<POREMANČOVÝ JOE>Tohle...\! Tento hřeben!\! Že by...?\! <br>Od mala jsem hledal svůj pravý domov, prošel jsem snad celý svět...
+
+message_21:
+      text: \n<POREMANČOVÝ JOE>A jedinou věc, kterou jsem měl za svou, byl jeden jediný \c[4]POMERANČOVÝ HŘEBEN\c[0]...
+
+message_22:
+      text: \n<POREMANČOVÝ JOE>Který vypadal naprosto stejně, jako tenhle!
+
+message_23:
+      text: \n<POREMANČOVÝ JOE>Už mi to všechno dává smysl...\! <br>Konečně vím, kdo doopravdy jsem!\! Musím být...\!<br>POREMANČOVÝ JOE!
+
+#POMERANČOVÝ JOE walks in.
+
+message_24:
+      text: \n<POMERANČOVÝ JOE>\Com[2]Bratře!\! Nevěřím svým očím!\! Opravdu jsi to ty!
+
+message_25:
+      text: \n<POREMANČOVÝ JOE>Ano, bratře!\! Jsem to já...\! POREMANČOVÝ JOE!
+
+message_26:
+      text: \n<POMERANČOVÝ JOE>Bez pochyby!\! Cítím to ve svém citrusovém srdci.\!<br>Ach, jak jsi mi chyběl, bratře můj!
+
+message_27:
+      text: \n<POREMANČOVÝ JOE>Ano!\! Mé tělo září nadějí a vášní!\!<br>Na tento den jsem čekal celé roky!\!<br>Konečně se potkáváme, drahý bratře!
+
+message_28:
+      text: \n<POMERANČOVÝ JOE>Pojďme se obejmout!
+
+#POMERANČOVÝ JOE AND POREMANČOVÝ JOE hug?
+
+message_29:
+      text: \n<POMERANČOVÝ JOE>Musím vám poděkovat, děti...\! Přemýšlel jsem nad ním den co den už léta, a teď je konečně tady!
+
+message_30:
+      text: \n<POMERANČOVÝ JOE>Prosím, přijměte tento dárek na poděkování.
+
+message_31:
+      text: Získal jsi \c[3]ŽIVÝ DŽEM\c[0]!
+
+message_32:
+      text: \n<POREMANČOVÝ JOE>Ano!\! Díky za pomoc s naším shledáním...\!<br>Ach, jak dlouho jsem hledal svůj rodný domov!\! <br>Vemte si tohle!\! Je to dárek!
+
+message_33:
+      text: Získal jsi další \c[3]ŽIVÝ DŽEM\c[0]!
+
+message_34:
+      text: \n<POMERANČOVÝ JOE>Pojďme, bratře! Vydejme se domů!
+
+message_35:
+      text: \n<POREMANČOVÝ JOE>Ach, to je od tebe příliš milé, bratře!\!<br>Pojďme na počest tohoto setkání nadále spolu!
+
+message_36:
+      text: \n<POMERANČOVÝ JOE A POREMANČOVÝ JOE>\sinv[1]Naděje a vášeň!\! Naděje a vášeň!\! Naděje a vášeň!
+
+#POMERANČOVÝ JOE AND POREMANČOVÝ JOE walk off

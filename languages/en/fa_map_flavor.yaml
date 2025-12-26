@@ -1,0 +1,1839 @@
+#FARAWAY MAP FLAVOR TEXT
+#============================
+
+#PLAYER'S Street - Map 13
+#============================
+
+#For Sale Sign:
+message_1:
+      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Za tři dny se odstěhuješ kamsi jinam.
+
+message_2:
+      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Za dva dny se odstěhuješ kamsi jinam.
+
+message_3:
+      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Zítra se odstěhuješ kamsi jinam.\! ...\! Bude ti to tady chybět. #chyba
+
+message_4:
+      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Dnes se stěhuješ kamsi jinam.
+
+#Mailbox:
+message_5:
+      text: Honosná bílá poštovní schránka.
+
+#Trash Cans:
+message_6:
+      text: Řada barevných popelnic.\! Černá je na směsný odpad, modrá na recyklovatelný odpad a zelená na biomasu.
+
+#Basketball Hoop:
+message_7:
+      text: KELŮV basketbalový koš.\!<br>Trochu nebezpečné ho mít jen tak na cestě... #přiroz
+
+#Street:
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Neměl bys chodit po cestě, SUNNY! To je přece nebezpečné!\kel
+
+message_8:
+      text: Je nebezpečné chodit po cestě.
+
+#Dog House:
+message_9:
+      text: HEKTOROVA bouda.\!<br>Trochu těsná, ale němu se v ní zřejmě i přesto líbí. #přiroz
+
+#Flamingo:
+message_10:
+      text: Tento dvorek je vyzdoben několika plastovými plaměnáky.\!<br>Zdá se, že mají dobrou náladu.
+
+#Birdhouse:
+message_11:
+      text: Prázdná ptačí budka plna prachu a klacků.
+
+#Statues:
+message_12:
+      text: Socha jakési náboženské osobnosti.<br>\!...\! Máš pocit, jako by tě soudila.
+
+#Road Work:
+message_13:
+      text: Práce na silnci.\!<br>Uff...\! Některé věci zůstaly při starém. #blíže orig
+
+#Fire Hydrant:
+message_14:
+      text: Hydrant.
+
+message_15:
+      text: Je nebezpečné chodit mimo chodník.
+
+#============================
+
+message_16:
+      text: Okrasná květina.
+
+#PLAYER'S House - Map 14
+
+#Cardboard Boxes:
+message_20:
+      text: Po celém domě jsou poházeny kartonové krabice. #rozhodně poházeny, "littered" má velice neformální ráz
+
+#House Plant:
+message_21:
+      text: Malá, umělá květina.
+
+#House Plant:
+message_22:
+      text: Obyčejná květina.\! Není na ní nic výjimečného. #blíže orig
+
+#Bookcase - Dining Room:
+message_23:
+      text: MAMČINA sbírka knih.
+
+#Microwave:
+message_24:
+      text: Mikrovlnná trouba.
+
+#Refrigerator:
+message_25:
+      text: Lednice.\! Otevřeš ji?
+#[YES/NO]
+#[YES]
+message_26:
+      text: Je prázdná.
+#NIGHT 1 ONLY
+message_27:
+      text: Uvnitř jsi našel \c[4]STEAK\c[0].
+
+#Bathroom Cabinet:
+message_28:
+      text: Pár ručníků a nějaké hygienické potřeby.
+
+#Mirror:
+#(Show mirror slides - various)
+
+#Bathtub:
+message_29:
+      text: Vana.
+
+#NEUTRAL - NIGHT 2:
+message_30:
+      text: Chtěl by ses vykoupat?
+
+#Bookcase - Player's Room:
+message_31:
+      text: Tato knihovna byla již vyklizena.
+
+#Computer:
+#First time, DAY 1+ -
+message_32:
+      text: Starý počítač.
+#[YES/NO]
+message_33:
+      text: Není na něm nic kromě hry jménem BLACKJACK.\!<br>Zahraješ si? #přiroz, gramatická chyba
+#[YES/NO]
+#After -
+message_34:
+      text: Starý počítač.\! Zahraješ si BLACKJACK?
+
+#Phone:
+#NIGHT 1 - Voicemail
+#Other -
+message_35:
+      text: Telefon, který ti MAMKA dala do tvého pokoje.\!<br>Není skoro vůbec používán. #blíže orig
+
+#Photos:
+message_37:
+      text: Pár rodinných fotek.
+
+#Pots and Pans:
+message_38:
+      text: MAMČINY pánvičky.\!<br>Nevzpomeneš si na to, kdy byly naposledy použity.
+
+#Bookcase - Piano Room:
+message_39:
+      text: Sbírky not na klavír.\! Vetšina z nich nikdy nebyla otevřena. #původně nepřeložené
+
+#Piano:
+message_40:
+      text: Křídlový klavír.\!<br>Do jeho střední lišty je vryto slovo \"OMORI\".
+
+#Toilet:
+message_41:
+      text: Záchod.
+#[YES/NO]
+#Screen fades out. Toilet flush SFX, then fades in.
+
+#Mom's Bed:
+message_43:
+      text: MAMČINA postel.\!<br>Matrace je příliš tvrdá, aby se na ní dalo pohodlně ležet.
+
+#Sketchbook:
+#[Same as WS, but opens up new book]
+
+#Fireplace:
+message_44:
+      text: Krb. \!Mezi cihlami jsou přiražené hřebíky.
+
+#Grandfather Clock:
+message_45:
+      text: Jedny ze dvou kyvadlových hodin.\! Přestaly fungovat už dávno, ale MAMKA je tu stejně má. #přiroz
+
+message_47:
+      text: Skříň.
+
+message_48:
+      text: Knížky.
+
+message_49:
+      text: Záchod.
+
+message_108:
+      text: Velmi, velmi příjemná postel.
+
+message_127:
+      text: Venku je krásně...\! ale uvnitř je líp.
+
+
+#============================
+
+#KEL's House - Map 15
+
+#Ofrenda / Photos:
+message_50:
+      text: Kupa rodinných fotek.\! Ten KEL má ale příbuzných...
+
+#Figures Bookcase:
+message_51:
+      text: Knihovna plná akčních figurek a jiných hraček.\!<br>Od tvé poslední návštěvy sem přibylo pár nových kusů.
+
+#Red/Green Houseplant:
+message_52:
+      text: Honosná okrasná květina.\!<br>Krásně dobarvuje celou místnost.
+
+#Books in Hallway Bookshelf:
+message_53:
+      text: Knížky.\! Většina pojednává buď o rybaření nebo o golfu...
+
+#Books on Table in Hallway:
+message_54:
+      text: Na stole je několik nových knížek.\!<br>\"Skvělá příručka skvělého grilování\"...\! \"Gril jako způsob života\"...\! \"Jak dokonale upéct kuře\"...<br>Hmm...\! Zdá se, že si KELŮV táta našel nový koníček.
+
+#Coffee:
+message_55:
+      text: Nedopitý šálek kávy.
+
+#Family Photo:
+#*Family Photo Slide opens*
+message_56:
+      text: Rodinné foto KELA a HERA.\!<br>Jak krásná rodina...
+
+#Laundry:
+message_57:
+      text: Špinavé prádlo.
+
+#Basketball:
+message_58:
+      text: Basketbalový míč.
+
+#Vanity:
+message_59:
+      text: Líčící stolek se zrcadlem.
+
+#Toilet:
+message_60:
+      text: Záchod.
+
+#Kel's TV:
+message_61:
+      text: KELOVA herní konzole.\!<br>Vypadá dost použitě.
+
+#Trophies:
+message_62:
+      text: HEROVA půlka místnosti je plná cen a pohárů.
+
+message_63:
+      text: \"KAŽDOROČNÍ POHÁR V JEZENÍ HOT DOGŮ - PRVNÍ MÍSTO\".
+
+message_64:
+      text: \"CELOSTÁTNÍ SOUTĚŽ VE VAŘENÍ, KATEGORIE JUNIOR - PRVNÍ MÍSTO\".
+
+message_65:
+      text: \"CELOSTÁTNÍ SOUTĚŽ VE HLÁSKOVÁNÍ - PRVNÍ MÍSTO\".
+
+message_66:
+      text: \"MATEMATICKÁ OLYMPIÁDA, STÁTNÍ KOLO - PRVNÍ MÍSTO\".
+
+message_67:
+      text: \"CELOSTÁTNÍ DEBATNÍ SOUTĚŽ - NEJLEPŠÍ ZLEPŠENÍ\".
+
+#Kel's Participation
+message_68:
+      text: KELOVA jediná cena...\! <br>\"KAŽDOROČNÍ POHÁR V JEZENÍ HOT DOGŮ - ZA ÚČAST\"
+
+#Alarm Clock:
+message_69:
+      text: Budík... pro zodpovědné lidi.\!<br>Je pět minut popředu. #pravý opak
+
+#Hero's Desk:
+message_70:
+      text: HERŮV pracovní stůl.\!<br>Velmi čistý... Ani jedna stopa po gumě!
+
+#Kel's Desk:
+message_71:
+      text: KELŮV pracovní stůl.\!<br>Nevypadá, že by se na něm někdy vůbec pracovalo.
+
+#Kel's Bed:
+message_72:
+      text: KELOVA postel.\! V hrozném stavu jako vždycky. #blíže orig
+
+#Kel's Wardrobe:
+#First time -
+message_73:
+      text: KELOVA skříň...\!<br>Hele, válí se v ní 20 korun!\! Vezmeš si je? #z dolarů na koruny
+#[YES/NO]
+#[YES]
+message_74:
+      text: Vzal jsi z KELOVY skříně 20 korun.
+#[NO]
+message_75:
+      text: Nechal jsi v KELOVĚ skříni 20 korun.
+#After taking $20 -
+message_76:
+      text: KELOVA skříň...\! Bez 20 korun.
+
+#Grandfather clock:
+message_77:
+      text: Kyvadlové hodiny.
+
+#Sally's Cradle:
+message_78:
+      text: SALLYNA kolébka.\! Visí nad ní letadýlko.
+
+#Building Blocks:
+message_79:
+      text: Stavebnice.\!<br>Asi po KELOVI nebo HEROVI.
+
+#Teddy Bear:
+message_80:
+      text: Plyšové zvíře.\!<br>Asi po KELOVI nebo HEROVI.
+
+#Bible:
+message_81:
+      text: Písmo svaté.
+
+#Bass:
+message_82:
+      text: Zpívající ryba...\! Spustíš ji?
+#YES/NO
+#BGM stops.
+#Sings fish song.
+#After complete, goes back.
+
+#Fireplace:
+message_83:
+      text: Krb KELA a HERA.\! Nad římsou vysí pár stužek ze soutěží.\! Jsou tak talentovaná rodina...
+
+#Food Bowl:
+message_84:
+      text: HEKTOROVY misky na granule a vodu.\! Jsou celé oslintané!
+
+#Broken Teddy Bear:
+message_85:
+      text: Plyšové zvíře.\! Pravděpodobně patřící HEKTOROVI...
+
+#Dog Bed:
+message_86:
+      text: HEKTORŮV pelíšek.\! Zdá se, že ho o něco přerostl.
+
+#Kel's Fridge:
+message_87:
+      text: KELOVA lednice.\!<br>Je na ní několik barevných magnetek.\!<br>Jsou tak šťastná rodina...
+
+#Salt and Pepper:
+message_88:
+      text: Sůl a pepř.
+
+
+#Ball:
+message_89:
+      text: HEKTORŮV oblíbený míček.\! To se pozná tím, jak je oslintaný.
+
+#Bamboo:
+message_90:
+      text: Stonky bambusu.\!<br>Nebo tak alespoň vypadají...
+
+#TV Remote:
+message_91:
+      text: Dálkový ovladač od televize.\!<br>Raději nebrat... Není těžké je ztratit.
+
+#Shoe Rack:
+message_92:
+      text: Botník.
+
+#Coat Rack:
+message_93:
+      text: Věšák.
+
+message_94:
+      text: Míč.
+
+#Pots and Pans:
+message_95:
+      text: Po kuchyni se válí pánve a hrnce.
+
+message_96:
+      text: Toustovač.
+
+message_97:
+      text: HEROVA postel.\! Dokonalá...\! jako HERO.
+
+message_98:
+      text: Pěkná, velká televize.
+
+message_99:
+      text: Zrcadlo.
+
+message_100:
+      text: Několik okrasných květin.
+
+message_101:
+      text: Honosná okrasná květina.
+
+message_102:
+      text: Honosná kabelka.\! Nakoukneš dovnitř?
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCo hledáš v mamčině kabelce, SUNNY? #blíže orig
+
+message_104:
+      text: Našel jsi \c[5]PEPŘOVÝ SPREJ\c[0].\! Vezmeš si ho?
+
+message_105:
+      text: Získal jsi \c[5]PEPŘOVÝ SPREJ\c[0]!
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelTy brďo! Moje mamka má \c[5]PEPŘOVÝ SPREJ\c[0]?\! Ten by se nám hodil, kdybychom se zase do něčeho zapletli.\! Skvělý postřeh, SUNNY!
+
+message_107:
+      text: Honosná kabelka.
+
+message_109:
+      text: Sbohem, pavoučku.
+#============================
+
+#Cris's House - Map 16
+
+#Newspaper and Magazines:
+message_110:
+      text: Noviny a časopisy...\! Tady zřejmě bydlí profík v gaučinku.
+
+#Beer cans:
+message_111:
+      text: Chmelová šťáva v plechovce.
+
+#Empty cup:
+message_112:
+      text: Prázdný hrnek.\! Voní po čaji.
+
+#Coasters:
+message_113:
+      text: Sada mramorových podtácků.\! Vypadá draze...
+
+#Pie:
+message_114:
+      text: Čajové náčiní z bílého porcelánu.\! Vypadá velmi draze...
+
+#Fireplace:
+message_115:
+      text: Krb.\! Zdá se, že je používán často.
+
+#Family Photo:
+message_116:
+      text: Rodinné fotky. Tahle rodina zřejmě dost cestuje.
+
+#Family Photo Yearly:
+message_117:
+      text: Fotky zaznamenající dětsví dívky.\!<br>Jednoho dne si obarvila vlasy na modro.\!<br>Hele, vypadá stejně staře, jako ty! #blíže orig
+
+#Boombox:
+#*Plays Rock Music*
+message_118:
+      text: Tak to bylo celkem nečekané... #blíže orig
+
+#Vases:
+message_119:
+      text: Porcelánová váza.\! Vypadá velice křehce... a draze...
+
+#Seashell:
+message_120:
+      text: Velká mušle.\! Když si ji přitiskneš k uchu, uslyšíš moře.
+
+#Bookcases:
+message_121:
+      text: Knihy a časopisy.
+
+#Mermaid Tail:
+message_122:
+      text: Na míru vyrobená ploutev nasazena na chodidla.
+
+#Fish Bowl:
+message_123:
+      text: Velké akvárium.\! Plavají v něm alespoň dvě zlaté rybky.\!<br>Vypadají zdravě!
+
+message_124:
+      text: Televizor střední velikosti.
+
+message_125:
+      text: Lednice.
+
+message_126:
+      text: Prvotřídní koláč.
+
+#============================
+
+#Maverick's House - Map 17
+
+#Wine Glass:
+message_140:
+      text: Červená šťáva ve sklenici.\! Voní trochu po hroznech.
+
+#Bookshelf:
+message_141:
+      text: Několik těžkých, tlustých knih.\!<br>Nerozeznáš jazyk, kterým je většina obalů psána.
+
+#Bread:
+message_142:
+      text: Tvrdý chleba na talíři.
+
+#Bread Kitchen:
+message_143:
+      text: Starý chleba na poličce.
+
+#Altar:
+message_144:
+      text: Fotka kohosi cizího.
+
+#Bible in living room:
+message_145:
+      text: Písmo svaté.\! Na skoro každé stránce je záložka.
+
+#Wigs:
+message_146:
+      text: Na stole je rozprostřen široký výběr paruk.\!<br>Žlutá chybí...
+
+#Mirror:
+message_147:
+      text: Zrcadlo zaplácané lepícími lístky.<br><br>\"Natoč ramena o patnáct stupnů dál\"...\!<br>\"Nezapomeň při pózování napnout všechny prsty\"...\!<br>\"Jedno oko ukazuj jen v případě provokace\"...<br>...\! Uff...
+
+#Game Console:
+message_148:
+      text: Zbrusu nová herní konzole.\!<br>Lesklá a moderní!
+
+#Cactus:
+message_149:
+      text: Kaktus.\! Přirozeně odolný.
+
+#Scale:
+message_150:
+      text: Váha.\!<br>Nedokážeš si vybavit, kdys naposledy na nějaké stál.
+
+#Twin Desks:
+message_151:
+      text: Tento stůl je dokonale symetrický vůči tomu na druhé straně. #blíže orig
+
+#Bed:
+message_152:
+      text: Strana otisku na této posteli je dokonale symetrický vůči té na druhé straně. #blíže orig
+
+#Bookshelf:
+message_153:
+      text: Tahle knihovna je jediný předmět v této místnosti, který není dokonale symetrický. #knihovna, ne knihovnice
+
+#Left Trophy:
+message_154:
+      text: \"CELONÁRODNÍ SOUTĚŽ V PEČENÍ - PRVNÍ MÍSTO\"
+
+#Right Trophy:
+message_155:
+      text: Replika trofeje vyrobena tak, aby byla symetrická s tou na druhé straně.
+
+#Fireplace:
+message_156:
+      text: Krb.\! Vypadá, že je používán obdobně.
+
+#Maverick's Room Chair:
+message_157:
+      text: Kancelářská židle na zvláštním místě.\!<br>Vypadá, jako by ji někdo dramaticky odsunul z místa.
+
+#============================
+
+#Other Street - Map 22
+
+#Bonsai Tree:
+message_170:
+      text: Bonsaj.
+
+#Street Lamp:
+message_171:
+      text: Pouliční lampa.
+
+#============================
+
+#Brent's House - Map 23
+
+#Books:
+message_180:
+      text: Tenhle dům je plný knih o všem možném.\! Většina z nich v sobě má několik záložek.
+
+#Red Chair Desk:
+message_181:
+      text: Pracovní stůl, na kterém leží několik papírů.\! Zdá se, že tady někdo opravoval písemky...<br>\!Ajaj...\! Tihle žáci to nebudou mít doma lehké.
+
+#Blue Chair Desk:
+message_182:
+      text: Pracovní stůl, na kterém leží několik papírů.\! Na nich je několik komplikovaných slov, které nepřečteš... a několik dalších nečitelných klikyháků. #blíže orig
+
+#Slow Cooker:
+message_183:
+      text: Prvotřídní pomalý hrnec.\!<br>Skvělý pro líné nebo prací zaneprázdněné matky...<br>Alespoň podle toho rakouského marketéra. #chápu tě, ale jméno skutečného člověka bych tam fakt nedával. přijmeš tohle jako kompromis? (prosím nech tam toho Horsta Fuchse)
+
+#Mantle:
+message_184:
+      text: Na římse leží několik rodinných fotek.\! Vypadají dost zaprášeně.
+
+#Wall Art:
+message_185:
+      text: Plakát kytky.\! Starat se o něj je mnohem lehčí, než o opravdovou kytku. #blíže orig
+
+#Microwave:
+message_186:
+      text: Mikrovlnná trouba.
+
+#Phone:
+message_187:
+      text: Pevná linka.
+
+#Newspaper:
+message_188:
+      text: Noviny.
+
+#Brent's Cabinet:
+message_189:
+      text: Hmm...\!<br>Pod učebnicemi je schovaných několik komiksů.
+
+#Brent's Coffee Table:
+message_190:
+      text: Na stole leží otevřená kniha.<br><br><br>\"At this point we shall briefly comment on how the perturbation-theoretic matrix elements between initial and final plane-wave states can be used in bound-state problems. Obviously, we cannot directly apply perturbation theory to compute bound-state energies. However, we can first obtain approximate bound-state energies by solving exactly the...\"<br>...\! Vrátil jsi knížku zpět na své místo. #vrátím se později
+
+#Library reading nook book:
+message_191:
+      text: Tenhle dům je plný knih o všem možném.\! Tahle je o jakýchsi \"nanomateriálech\". #zřejmě chyběla mezera
+
+
+
+#Bonsai Tree:
+message_192:
+      text: Bonsaj.\! Tahle má skvělou osobnost.
+
+message_193:
+      text: Tenhle dům je plný knih o všem možném.\! Tahle je o jakési \"organické chemii\".
+
+message_194:
+      text: \"CENA ZA CELOŽIVOTNÍ VĚDECKOU ČINNOST\".
+
+message_195:
+      text: Malá televize.
+
+message_196:
+      text: Počítačový stůl.
+
+message_197:
+      text: Tenhle dům je plný knih o všem možném.\! Tahle je o jakýchsi \"početních vědách\".
+
+message_198:
+      text: Na stole leží otevřená kniha.<br><br><br>\"Pro udržení tvaru vaší bonsaje je prořezávání nezbytné.\"<br><br>\"Každá bonsaj roste svým vlastním tempem, a tak je zapotřebí frekvenci prořezávání přizpůsobit vašemu případu.\"
+
+message_199:
+      text: Velká miska.
+
+#Kim's House - Map 24
+
+#Potted Plant:
+message_210:
+      text: Okrasná květina.
+
+#Work Desk:
+message_211:
+      text: Pracovní stůl.\! Někdo na něm nechal otevřený kalendář...<br>\!Jména \"KIM\" a \"VANCE\" jsou napsána u minulého týdne.
+
+#Yoga Mat:
+message_212:
+      text: Jógová podložka.\! Jóga je zdravá, protože posiluje harmonii duše a těla...\! Alespoň podle MAMKY.
+
+#TV:
+message_213:
+      text: Na poličce s televizí je několik jógových DVDček. #tohle budou asi dvdčka s instrukcema
+
+#============================
+
+#Joy's House - Map 25
+
+#Magazines:
+message_230:
+      text: Časopisy v jazyku, kterému nerozumíš.
+
+#Books:
+message_231:
+      text: Knihy v jazyku, kterému nerozumíš.
+
+#Offering:
+message_232:
+      text: Skvělé ovoce.
+
+#Sauce:
+message_233:
+      text: Lahve od několika omáček a octa.
+
+#TV:
+message_234:
+      text: Stolní televize.
+
+#Guitar:
+#*Guitar SFX*
+
+#Hat:
+message_235:
+      text: Postel, na které leží starý klobouk.
+
+#Books:
+message_236:
+      text: Několik starých učebnic.
+
+#Work Desk:
+message_237:
+      text: Pracovní stůl.
+
+message_238:
+      text: Váza.\! Je v ní hodně prachu. #pravopis
+
+message_239:
+      text: Otevřel jsi hrnec\!<br>...\! Mmm...\! Voní jako knedlíky.
+
+message_240:
+      text: Sada dřevěných podtácků.
+
+message_241:
+      text: Rýžovar.
+
+message_242:
+      text: Kniha v jazyku, kterému nerozumíš.
+
+message_243:
+      text: Stojan na noty. #(dneska jsem se pokoušel celý den něco složit a přesvědčil jsem se o tom, že jsem hudebně nepoužitelné individuum, mám chuť spadnout ze schodů jak Mari, napsáno dne 1. 11. 2025)
+
+message_244:
+      text: Pracovní stůl.\! Je na něm hustá vrstva prachu.
+
+message_245:
+      text: KYTARA.
+
+#============================
+
+#Charlie's House - Map 26
+
+#Wheelchair:
+message_250:
+      text: Vozíček pro invalidy.
+
+#Magazines:
+message_251:
+      text: Noviny a časopisy.\! Nasbírané za dlouhý časový úsek.
+
+#Mail:
+message_252:
+      text: Kopa dopisů, všechny pro \"Paní mámu\".\!<br>Zpáteční adresy pokrývají snad celou zemi. #vypouštím "nějakou"
+
+#Trash Can:
+message_253:
+      text: Plný balícího papíru.
+
+#Cigarette:
+message_254:
+      text: Popelník.
+
+#Trash:
+message_255:
+      text: Po podlaze se válí odpadky.\!<br>Ble...\! Smrdí to tady jako zhnilé jídlo.
+
+#Figures:
+message_256:
+      text: Několik malých figurek v překvapivě dobrém stavu.
+
+#Bookshelf:
+message_257:
+      text: Knihy.\!<br>Dolní řada je samá ročenka.
+
+#Awards:
+message_258:
+      text: Zeď je prakticky vytapetována diplomy.\!<br>Ty nejstarší sahají až dvacet let zpátky. #tady to bude asi o diplomech
+
+#Washing Machine:
+message_259:
+      text: Myčka a sušička.
+
+#Bathtub:
+message_260:
+      text: Vana, na které je připevněné jakési podivné zařízení.
+
+#Wheelchair:
+message_261:
+      text: Vozík na horní podlaží. #tady to chce kontext
+
+#Love Letter:
+message_262:
+      text: Na stole leží milostný dopis.\!<br>Hmm...\! Pro koho by tak mohl být?
+
+#Tea Party:
+message_263:
+      text: Honosný čajový dýchánek pro dva.
+
+#Flowers:
+message_264:
+      text: Na parapetu se tyčí několik krásných, fialových kytek.
+
+#Bookcase:
+message_265:
+      text: Knížky, komiksy a časopisy. #blíže orig
+
+message_266:
+      text: Plechovky od koly. #ať je to jasnější
+
+message_267:
+      text: Stůl pro jednoho.\! Tady někdo asi raději jí o samotě.
+
+message_268:
+      text: Podivuhodné komiksy.
+
+message_269:
+      text: Popsané noviny.\!<br>\"Koukej, paní mámo, jsem v novinách!\"
+#============================
+
+#Aubrey's Street - Map 31
+
+#Picnic Table:
+message_280:
+      text: Zbrusu nový piknikový stůl.
+
+#Flamingo:
+message_281:
+      text: Dvorek je ozdoben jediným plastovým plameňákem.\!<br>Vypadá spokojeně.
+
+#Pink Pinwheel:
+message_282:
+      text: Větrník.
+
+#Traffic Signs:
+message_283:
+      text: Na dvorku je pohozených několik dopravních značek a kuželů.
+
+#White Car:
+message_284:
+      text: Bílé auto střední velikosti.
+
+#Red Truck:
+message_285:
+      text: Starý, červený pickup.\!<br>Vypadá, jako by o dost přežil svou očekávánou životnost.
+
+#Trash Can:
+message_286:
+      text: Černý koš.
+
+message_287:
+      text: Typická bílá poštovní schránka.
+
+message_288:
+      text: Na dvorku je pohozených několik autodílů.
+
+
+#============================
+
+#Vance's House - Map 32
+
+#Junk Food:
+message_300:
+      text: Nedojezené MENU.\! Vypadá plesnivě.
+
+#TV:
+message_301:
+      text: Stará, omlácená televize.
+
+#Dishes:
+message_302:
+      text: Špinavé nádobí.
+
+#Cup:
+message_303:
+      text: Hrnek se špinavou vodou.
+
+#Bucket:
+message_304:
+      text: Kýbl špinavé vody.
+
+#Tools:
+message_305:
+      text: Nářadí.
+
+#Mop:
+message_306:
+      text: Mokrý mop.
+
+#Bed:
+message_307:
+      text: Tahle postel je měkká.
+
+#Magazines:
+message_308:
+      text: Několik komiksů a knížek o dinosaurech.
+
+#Vance Desk:
+message_309:
+      text: Neuspořádaný stůl, na kterém leží nespočet kartiček a \c[3]BOMBÓNY\c[0]. #sladkosti na bombóny
+
+#Bathroom:
+message_310:
+      text: Tahle koupelna zjevně zažila lepší dny...
+
+#Trash:
+message_311:
+      text: Velký pytel odpadků. #blíže orig
+
+message_312:
+      text: Otevřel jsi hrnec.\!<br>...\! \sinv[1]Mmmmm... Voní jako těstoviny se sýrem.
+
+#============================
+
+#Shaun and Karen's House - Map 33
+
+#Bookshelf:
+message_320:
+      text: Tato knihovna je prázdná.
+
+#Wallpaper:
+message_321:
+      text: Tahle tapeta nebyla přilepena napevno. #co se dělá s tapetama? lepí se? nevím, nejsem malíř.
+
+
+#============================
+
+#Sarah's House - Map 34
+
+#Coupons:
+message_330:
+      text: Několik akčních letáků.<br>V téhle rodině má asi někdo rád dobré slevy! #máš pravdu, slevy se hodí více. a náhrada akčnímy letáky, u kupónových knížek vyjela jen kupónová privatizace... (že by spíše slevy?)
+
+#Strawberries:
+message_331:
+      text: Miska plná zdravých jahod.
+
+#Fridge:
+message_332:
+      text: \"JESTE ZDRAVĚ!\"\! \"NEZDRAVÉ NE!\" \!Tady není žádná sranda. #úplně ne, ale je to více než jen fast food, něco zkusím (junk food za mě nemá český ekvivalent)
+
+#Trash:
+message_333:
+      text: Koš.\!<br>Zpozoruješ v něm najdeš krabici plnou zřejmě ještě dobrých koblih. #done. co na to říkáš? (tohle je otřesné, prosím předělat)
+
+#Room Memo:
+message_334:
+      text: Papíry.\!<br>Někdo zde dal hodně úsilí do plánování zdravého jídelníčku.
+
+message_335:
+      text: Ptačí klec.\! Je v ní krásný, modrý ptáček.\!<br>Vypadá zdravě!\! ...\! Ale nervózně.
+
+message_336:
+      text: Staré akční letáky... #kupóny v supermarketech v česku zřejmě nejsou, nahrazuji nejbližším ekvivalente
+
+message_337:
+      text: Tato kočka nespustí oči z klece. #klec, ne budka. hned jsem si vzpomněl na situaci, jak sousedi hlídali žeryka a on jim ukkousl ocas jejich myši nebo co to měli v té kleci...
+
+message_338:
+      text: Na stole leží otevřená kniha.<br><br><br>\"Pomalu zvedl svou ruku a něžně ho pohladil po tváři...\! Podívali se navzájem do očí a v jediném okamžiku byli oba muži naplněni tou samou vášní.\"<br>...\! Aha.\! Tohle bys asi číst neměl. #náhodou moc špatné není, jen obličej nahrazuji tváří a doplňuji možná na úkor přirozenosti slovo "muži", aby se zachoval fakt, že je to o gay romance. (opět hrozný překlad, omlouvám se (tohle taky není řekněme můj... žánr))
+
+message_339:
+      text: Nedojezený pytlík brambůrek.
+
+message_348:
+      text: Dvě misky, jedna na jídlo, druhá na vodu.
+
+message_349:
+      text: Záchod.\! A další letáky... #viz výše
+
+
+#============================
+
+#Aubrey's House - Map 35
+
+#Trash:
+message_340:
+      text: Po zemi se válí odpadky.
+
+#Magazines:
+message_341:
+      text: Staré časopisy a komiksy.
+
+#Cardboard Box:
+message_342:
+      text: Kartonová krabice.
+
+#Bunny:
+message_343:
+      text: \"BOBEK\"
+
+#Side Table:
+message_344:
+      text: Odkládací stolek, zakrývající díru ve zdi.
+
+#TV:
+message_345:
+      text: Rozbitá televize.
+#*Turns on*
+message_346:
+      text: Hmm...\! Tak nakonec funguje.
+
+#Bucket:
+message_347:
+      text: Kýbl.\! Přijde vhod, když prší. #interpunkce
+
+
+message_356:
+      text: AUBRYINA postel...
+
+message_354:
+      text: Prázdná nástěnka.\!<br>Tady měla AUBRY všechny ty fotky s MARI... #přiroz
+
+
+message_355:
+      text: Fotka AUBRY a KIM.
+
+#============================
+
+#Church - Map 41:
+
+#Piano:
+message_350:
+      text: Křídlový klavír.
+
+message_351:
+      text: Elegantní květina.
+
+message_352:
+      text: Pódium.
+
+message_353:
+      text: Oltář.
+
+#============================
+
+#Cemetary - Map 42:
+
+#Flowers:
+message_360:
+      text: Květiny.
+
+#Bread:
+message_361:
+      text: Chleba.
+
+#headstone:
+message_362:
+      text: Bílá orchidej.\!<br>V jazyku květin symbolizuje frázi...<br>\!“Mé myšlenky tě budou následovat do tvých snů.”
+
+message_363:
+      text: Puzzle.
+
+message_364:
+      text: Plyšový medvídek.
+
+#Cemetery Statue:
+
+message_365:
+      text: Znak \c[11]PŘEDALEKÉ LHOTY\c[0].\!<br>Má symbolizovat bránu do lepšího života.<br><br>Vybavuješ si, jak ti o tomhle říkali na základce, ale zbytek detailů si nevybavuješ. #základka - přiroz
+
+message_366:
+      text: \"NAŠE NEJMILEJŠÍ MARI\"\!<br>\"SLUNCE SVÍTILO VÍC, KDYŽ TADY S NÁMI BYLA.\"
+
+message_367:
+      text: Na tomhle hrobě by vypadaly dobře \c[4]KVĚTINY\c[0].
+
+message_368:
+      text: Položíš na hrob \c[4]KVĚTINY\c[0]?
+#Yes/No
+#Yes (Screen goes black. Player and and followers are 1 step back. There are flowers at MARI's gtave.)
+
+message_369:
+      text: Náhrobní kámen.
+
+message_359:
+      text: Už je to dávno, co jsi z téhle sochy spadl do jezera.\! Ještě několik týdnů poté jsi měl plnou hlavu vody...\! a občas se ti zdá, jako by tam pořád ještě nějaká zbyla. #jasnější
+
+
+#============================
+
+#Basil's Street - Map 45:
+
+#Pail and Shovel:
+message_370:
+      text: Konev a lopata.
+
+#Yoyo:
+message_371:
+      text: Jo-jo.
+
+#Toy Cars:
+message_372:
+      text: Několik malých autíček.
+
+#Pick-Up Truck:
+message_373:
+      text: Modrý pickup. #skvělý postřeh, tak tohle by mě nenapadlo... (Asgore je Basilův otec ?)
+
+#Paint Buckets:
+message_374:
+      text: Kýbl barvy.
+
+#Lucas House:
+message_375:
+      text: Bouda.
+
+#Fertilizer:
+message_376:
+      text: Hnojivo...\! Fuuj
+
+#============================
+
+#Basil's House - Map 46:
+
+#Bookcase - Basil's Room:
+message_390:
+      text: Knížky.\!<br>Většina z nich je o zahradnictví a péči o kytky v bytě.
+
+#Family Photos in Hallway:
+message_391:
+      text: Fotky BASILA s jeho rodiči.\!<br>Nikdy jsi je nepotkal.
+
+#Camera:
+message_392:
+      text: BASILŮV foťák.\! Je zaprášený.
+
+#Watering Pail:
+message_393:
+      text: Konev. #ne kbelík
+
+#Wheelchair:
+message_394:
+      text: Vozík.
+
+message_398:
+      text: Prázdná postel.
+
+message_396:
+      text: BASILOVA BABIČKA pravidelně dýchá. #budu muset se vrátit do basil's memories a změnit to i tam
+
+message_397:
+      text: Pohodlná postel.
+
+#============================
+
+#Jesse's House - Map 47:
+
+#Game Boy:
+message_410:
+      text: Přenosný herní přístroj.
+
+#Arcade Machine:
+message_411:
+      text: Arkádový automat.\! Nevypadá, že by byl funkční.
+
+#CPU:
+message_412:
+      text: Nasvícený stolní počítač.\! Jak nadčasový!
+
+#Phonograph:
+message_413:
+      text: Starý gramofon, který umí přehrávat kazety.\!<br>Jak průkopnický! #blíže orig
+
+#Walkman:
+message_414:
+      text: Nejnovější model walkmana.\! Hustý!
+
+#Table Book:
+message_395:
+      text: Na stole leží otevřený telefonní seznam.\!<br>Tato osoba má zjevně zájem o práci. #nahrazuji prostě prací. ("odd jobs" jakožto nepravidelné práce, nebo zvláštní práce?)
+
+#Game:
+message_415:
+      text: Zbrusu nová hra. #cartridge nemá český ekvivalent a přijde mi divné používat anglicismus u takové blbiny, když to každý pochopí takhle
+
+#============================
+
+#Bebe's House - Map 48:
+
+#Drinks:
+message_430:
+      text: Na stole leží několik nápojů.\!<br>Skoro jako by byly jen na ozdoby.
+
+#Coffee Machine:
+message_431:
+      text: Kávovar.\!<br>Chtěl by sis udělat \c[5]KAFE\c[0]?
+#[YES/NO]
+#[YES]
+#*Coffee-making noise*
+message_432:
+      text: Získal jsi \c[5]KAFE\c[0]!
+
+#Recycle Trash Can:
+message_433:
+      text: Koš na recyklovatelný odpad.
+
+message_434:
+    text: Knížky a časopisy.\!<br>Většina z nich je o pokojovém designu a líčení.
+
+message_435:
+    text: Kartonové krabice.
+
+message_436:
+    text: Recyklovatelné lahve.
+
+#============================
+
+#Artist's House - Map 49:
+
+#Food Bowl:
+message_440:
+      text: LUKÁŠOVY misky na granule a vodu.\! Jsou obě celé oslintané!
+
+#Broken Teddy Bear:
+message_441:
+      text: Plyšové zvíře.\! Řekněme, že zažilo lepší časy... #konzistentní rod
+
+#Dog Bed:
+message_442:
+      text: LUKÁŠŮV pelíšek.\! Zdá se, že ho trochu přerostl.
+
+#Ball:
+message_443:
+      text: LUKÁŠŮV míček.\!<br>Nezdá se, že by o něj měl velký zájem. #přiroz
+
+#Canvas:
+message_444:
+      text: Nedokončený obraz.
+
+#Paint:
+message_445:
+      text: Levné barvy.
+
+#Corner paint:
+message_446:
+      text: Kus tapety je natrhlý.\!<br>V tomhle rohu asi někdo tráví dost času...
+
+#Trading cards:
+message_447:
+      text: Na stole se třpytí pár kartiček.
+
+#Trading cards on floor:
+message_448:
+      text: Po zemi se válí několik kartiček.
+
+#Puzzle:
+message_449:
+      text: Nedokončené puzzle.
+
+#Figure Case:
+message_450:
+      text: Několik malých figurek.
+
+
+message_451:
+      text: Pár uměleckých knížek.
+
+message_452:
+      text: A # co jako?
+
+#============================
+
+#Plaza - Map 55:
+
+#Fountain:
+message_460:
+      text: Kašna.\! Na dně se třpytí \c[4]MINCE\c[0].
+
+#Mailbox:
+message_461:
+      text: Běžná poštovní schránka, jako každá jiná.
+
+#Fruit Cart:
+message_462:
+      text: Košík s ovocem.\! Nejvíce místa zaujímají pomeranče.
+
+#============================
+
+#OTHERMART - Map 56:
+
+#Grapes:
+message_470:
+      text: Hrozny.
+
+#Lemons:
+message_471:
+      text: Poremanče.\! Pomeranče, akorát že žluté. #poremanče a blíže orig
+
+#Oranges:
+message_472:
+      text: Pomeranče.
+
+#Apples:
+message_473:
+      text: Jablka.
+
+#Green Apples:
+message_474:
+      text: Jabkla, akorát že zelená.
+
+#Veggies:
+message_475:
+      text: Zelenina.
+
+#Bananas:
+message_476:
+      text: Banány...\! Trochu nezralé.
+
+#Soda:
+message_477:
+      text: Sodovka.
+
+#Bottled Soda:
+message_478:
+      text: Honosná sodovka.
+
+#Shopping Cart:
+#*makes shopping cart noise*
+
+#Ice:
+message_479:
+      text: Led.\! Velmi studený.
+
+#Frozen Foods and Drinks:
+message_480:
+      text: Mražené věci.\! Dost mražených věcí.
+
+#Packaged foods and spices:
+message_481:
+      text: Balené jídlo a koření.
+
+#Cereal and Cooking Ingredients:
+message_482:
+      text: Lupínky a věci na vaření.
+
+#Meats:
+message_483:
+      text: Syrové maso.
+
+#Seafoods:
+message_484:
+      text: Syrové mořské maso.\! Smrdí po rybině... #rybina je spíše smrad. půdovní vtip bohužel ztracen v překladu
+
+#Frozen Pizza:
+message_485:
+      text: Zmrzlé maso.
+
+#Scale:
+message_486:
+      text: Kuchyňská váha.
+
+#Small Pastries:
+message_487:
+      text: Malé pečivo...\! Voní sladce.
+
+#Bread:
+message_488:
+      text: Chleba.\! Voní křupavě.
+
+#Pie:
+message_489:
+      text: Koláč.
+
+message_490:
+      text: Stroj na peníze.
+
+message_491:
+      text: \"V NEDĚLI ZAVŘENO\"
+
+message_592:
+      text: \"HŘBITOV\"
+
+message_593:
+      text: \"LÉKÁRNA\"
+
+message_594:
+      text: \"CUKRÁRNA PANÍ CANDICE\"
+#============================
+
+#Gino's Pizza - Map 57:
+
+#Table:
+message_500:
+      text: Všechny tyhle stoly jsou ulepené.
+
+#Barrel:
+message_501:
+      text: Dřevěný sud.
+
+#Sign:
+message_502:
+      text: \"POSAĎTE SE\"
+
+#Frozen Drinks:
+message_503:
+      text: Vychlazené sodovky a jiné nápoje.
+
+message_504:
+      text: Mmm...\! Pizza...
+
+
+#Arcade Machine:
+#Plays SPROUT MOLE EATER
+
+
+#============================
+
+#Hobbeez - Map 58:
+
+#DVDs:
+message_510:
+      text: Plná DVDček.
+
+#Comics:
+message_511:
+      text: Plná komiksů.
+
+#Gachapon:
+message_512:
+      text: Automat na kapsle.\!<br>Zkusíš štěstí?\! Jen za jednu korunu...\$ #zkusíš místo pokusíš
+
+#Arcade:
+#Plays SBF mini-game
+
+#Books:
+message_513:
+      text: Několik starých časopisů a knížek pro děti.
+
+#Poster:
+message_514:
+      text: Plakát pro novou hru, ve které cestuješ různými světy.\! Nic světoborného. #ha, ha
+
+#Cards:
+message_515:
+      text: Po stole se válí karty.
+
+#Checkers Board:
+message_516:
+      text: Šachovnice.
+
+message_517:
+      text: Malé bonbóny.
+
+message_518:
+      text: Reklamy.
+
+message_519:
+      text: Výdejní automat.
+
+message_520:
+      text: Kartónová podobizna KAPITÁNA VESMÍRŇÁKA.
+
+message_521:
+      text: Stará herní konzole napojená k televizi.
+
+#Poster:
+message_522:
+      text: Plakát nové hry, kde pobíháš a zabíjíš zrůdy...\! na skateboardech.
+
+#============================
+
+#Fixit - Map 59:
+
+#Safe:
+message_530:
+      text: Trezor s klíčem.
+
+#Manual:
+message_531:
+      text: Na stole leží otevřená kniha.\!<br>Příručka k... rychlému zbohatnutí?<br>\!...\!\Com[2] Hele, tohle nemá v práci co dělat!
+
+#Paint:
+message_532:
+      text: Barva.
+
+#Wallpaper:
+message_533:
+      text: Vzorky tapet.
+
+#Tiles:
+message_534:
+      text: Kachličky.
+
+#Lamps:
+message_535:
+      text: Lampy.
+
+#Colors:
+message_536:
+      text: Barevný papír.
+
+#Cement:
+message_537:
+      text: Cement.
+
+#Nails and Nuts and Bolts:
+message_538:
+      text: Hřebíky, šrouby, matice.
+
+#Toolboxes:
+message_539:
+      text: Různé nářadí.
+
+#Furniture Misc:
+message_540:
+      text: Pečlivě seřazené nářadí.
+
+message_541:
+      text: \"SÝR! JSI NA ZÁBĚRU!\"
+
+#============================
+
+#Garden Fixit - Map 60:
+
+#Fancy Flower Arrangement:
+message_550:
+      text: Vyčnívavé aranžmá kytek.\!<br>Celkem pompézní. #nejjednodušší řešení funguje nejlépe. snad. pak se podívám na kontext(pompous...)
+
+message_551:
+      text: Nářadí na zahradu.
+
+message_552:
+      text: Ta věc s jedním kolečkem na vození věcí po zahradě. #"thingy" mi působí jakože přesně neví, jak se to jmenuje
+
+#============================
+
+#Candy Store - Map 61:
+
+#Giant Lollipop:
+message_560:
+      text: Obří lízátko.\! Možná trochu přehnané...
+
+#Candy:
+message_561:
+      text: Tolik...\! \c[3]SLADKOSTÍ\c[0]...
+
+#Cardboard Cutout:
+message_562:
+      text: Kartonová podobizna majitelky obchodu.\! Možná trochu přehnané... #nevím, ale zaměnit to za jiné slovo jde bez obtíže (má vlastník ženský ekvivalent?)
+
+message_563:
+      text: \"WOW!! SLADKÉ ŽVEJKY!!\" #nevím, jestli to je 100% ekvivalent, ale co s tím člověk udělá(už jsem zapomněl co tady je)
+
+message_564:
+      text: \"PARÁDNÍ PRALINKY!!\" #průzračné se za mě nehodí
+
+message_565:
+      text: \"GRANDIÓZNÍ GUMOVÍ MEDVÍDCI!!\"
+
+#============================
+
+#Pharmacy - Map 62:
+
+#Medicine:
+message_570:
+      text: Různé druhy léků.
+
+#Consultation Sign:
+message_571:
+      text: \"KONZULTACE (NEPLACENÉ)\"
+
+#Medication Sign:
+message_572:
+      text: \"LÉKY (PLACENÉ)\" #zeď je to možná trochu menší blbost? (ne, tohle je blbost)
+
+
+#============================
+
+#Park - Map 63:
+
+#Basketball Hoop:
+message_580:
+      text: Basketbalový koš.
+
+#Picnic Table:
+message_581:
+      text: Piknikový stůl.
+
+#Slide:
+message_582:
+      text: Klouzačka.\! Voní po rezavé oceli. #přiroz
+
+#Jungle Gym:
+message_583:
+      text: Prolézačka.\! Voní po rezavé oceli.
+
+#Swings:
+message_584:
+      text: Houpačka.\! Voní po rezavé oceli.
+
+#Tetherball:
+message_585:
+      text: Tyč na tetherball.\! Voní po rezavé oceli.
+
+#Cat:
+message_586:
+      text: Obří ocelová kočka.\!<br>Vybavuješ si, že ti kdysi připadala o dost větší.
+
+#Fruit Cart:
+message_587:
+      text: Košík s ovocem.\! Nejvíce místa zaujímají jablka.
+
+message_588:
+      text: \"PŘEDALEKOLHOTSKÝ PARK\"<br>\!\"BUDOUCNOST PATŘÍ SNÍLKŮM!\" #ten park mi přišel trochu osamocený
+
+#============================
+
+#Secret Lake
+
+#Pinwheel Assortment:
+message_600:
+      text: Skupinka větrníků volně se točících při větru. #interpunkce
+
+message_601:
+      text: Piknikový košík.
+
+#============================
+
+#Player's Backyard
+
+#Stump:
+message_610:
+      text: Pařez.
+
+#Stump 2 (After AUBREY changes it):
+message_611:
+      text: Větrník na pařezu.
+
+message_612:
+      text: AUBRYIN koš.
+
+#============================
+
+#Treehouse
+
+#Calendar:
+message_620:
+      text: Starý kalendář.\! Pořád ukazuje léto před čtyřmi lety.
+
+#TV:
+message_621:
+      text: Stará televize.
+
+#Stuffed Toy:
+message_623:
+      text: Plyšová dívka s růžovými vlasy.
+
+#Bat:
+message_624:
+      text: Baseballová pálka.
+
+#Plantegg:
+message_625:
+      text: AUBRYINA plyšová hračka.
+
+#Playing Cards:
+message_626:
+      text: Karty.
+
+
+#============================
+
+#Houses Misc.
+
+#Bed:
+message_640:
+      text: Tato postel je sice trochu tvrdší, ale jinak celkem dobrá.\! dáváš jí sedm z deseti. #blíže orig, měnit osobu je zbytečné (už jsem si říkal, kde se schovávají ty bed ratingy...)
+
+#Bed:
+message_641:
+      text: Tato postel je trochu měkčí, ale jinak celkem dobrá.\! dáváš jí sedm z deseti. #vypouštím sice
+
+#Bed:
+message_642:
+      text: Tato postel sice skvěle balancuje měkkost a pevnost, peřiny jsou ovšem nepohodlné.\!<br>dáváš jí šest z deseti.
+
+#Bed:
+message_643:
+      text: Tahle postel je sice v pořádku, ale peřiny jsou na tebe příliš teplé.\!<br>dáváš jí šest z deseti. #dostačující je 4. to není moc dobré skóre, měním
+
+#Bed:
+message_644:
+      text: Tahle postel je sice velká, ale matrace je nevyrovnaná.\!<br>dáváš jí šest z deseti.
+
+#Bed:
+message_645:
+      text: Tahle postel je hrozně velká a luxusní! A peřiny jsou tak svěží a chladné!\! dáváš jí devět z deseti.
+
+#Bed:
+message_646:
+      text: Tahle postel je na tebe moc...\! dáváš jí pět z deseti, už jen dle vzhledu. #aby to více vyznělo, jako že dle vzhledu dal skóre, ne že jen dává skóre pouze z hlediska designu
+
+#Bed:
+message_647:
+      text: Tahle postel je špinavá...\! dáváš jí jedna z deseti.
+
+#Bed:
+message_648:
+      text: Tahle postel je sice velká a peřiny jsou v pořádku, ovšem má divný pach.\!<br>dáváš jí pět z deseti.
+
+#Bed:
+message_649:
+      text: Tahle postel je na podlaze.\!<br>Nevíš, jak bys ji měl ohodnotit.
+
+
+#Blue Lamp:
+message_650:
+      text: Pěkná lampa.
+
+#Cream Lamp:
+message_651:
+      text: Běžná lampa.
+
+#Pink Heart Lamp:
+message_652:
+      text: Honosná lampa.
+
+#Bookcase:
+message_653:
+      text: Několik knížek, nic moc extra.
+
+#Table Lamp:
+message_654:
+      text: Stolní lampička.
+
+#Work desk:
+message_655:
+      text: Pracovní stůl.
+
+message_656:
+      text: Klasický obraz. #překep
+
+message_657:
+      text: Tahle postel není ani ustlaná.\! dáváš jí tři z deseti.
+
+message_658:
+      text: Otevřel jsi hrnec.\!<br>...\! Mmm...\! Voní jako marmeláda.
+
+message_659:
+      text: Špinavé nádobí. #tak tohle by bylo fakt zarážející, až by beta tester narazil na špinavé práslo v dřezu nebo kde tohle je...
+
+message_660:
+      text: Tahle postel je lepkavá.\! Peřina je ulepená od čokolády.\!<br>dáváš jí dva z deseti. #lepivá na lepkavá
+
+message_661:
+      text: Tady nic není. #měním zde na tady, zdá se mi, že se to více hodí
+
+
+#==
+
+message_665:
+      text: Velká červená stopka.
+
+message_666:
+      text: Posuvné dveře vedoucí na zahradu.
+
+#==
+
+message_1000:
+      text: Větrník, volně točící se při větru.
+
+#==
+
+message_680:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Dívej, HERO, sehnali jsme všechno, co máš rád...\! čokoládové \c[3]SUŠENKY\c[0] a pořádný \c[3]HERO SENDVIČ\c[0]!\kel #když nejde prorazit zeď, obejdeš si
+
+message_681:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Ale... To je od vás hezké...\! Je to... úplně stejné, jako minulý rok...\her #
+
+#==
+
+message_682:
+      text: Několik pestrobarevných \c[4]CDček\c[0].\! Možná by je šlo přehrát v JUKEBOXU.
+
+message_683:
+      text: Nedojezená snídaně.
+
+#==
+
+
+
+#CLOSED Signs
+
+#GINOS
+message_690:
+      text: \"OTEVÍRACÍ DOBA... 10 - 2\"<br>\"VSTUP PO 22 POUZE PRO OSOBY STARŠÍ 18 LET\" #PM a AM jsou pouze v AJ, dávám 18 let, protože je to u nás častější
+
+#OTHERMART
+message_691:
+      text: \"ZAVŘENO\"<br>\!\"OTEVÍRACÍ DOBA... 8 - 22 KAŽDÝ DEN\"
+
+#FIXIT
+message_692:
+      text: \"ZAVŘENO\"<br>\!\"OTEVÍRACÍ DOBA... 11 - 20 KAŽDÝ DEN\"
+
+
+#TRAIN - ORANGE OASIS. ACCIDENTALLY PLACED HERE hej tož to není možné... jak se někomu tohle vůbec povede? neumím sice programovat, ale tohle... a je to vůbec funkční? nevím, nechám to takhle, kdyžtak uvidíme
+
+message_800:
+      text: \n<JAŠ PRŮVODČÍ>\"Dámy a pánové...\! Přijíždíme do stanice.\! Vítejte v \c[11]POMERANČOVÉ POUŠTI\c[0], kde měsíc září nejjasněji.\"
+
+message_801:
+      text: \n<JAŠ PRŮVODČÍ>\"Vlak v této stanici končí, prosíme vystupte.\! Děkujeme za využití našich služeb a těšíme se na brzkou shledanou.\"\! \}\quake[1]Bzzt... #původně nepřeloženo
+
+#BACKYARD
+
+message_1001:
+      text: Dávno zapomenuté hračky, ze kterých kvůli dešti sešla většina barvy.
+
+#SCOOTER AND BIKE
+
+message_1010:
+      text: Elegantní stříbrná koloběžka #ostrá se nehodí
+
+message_1011:
+      text: AUBRYINO staré modré kolo.
+
+message_1012:
+      text: Modrý piknikový košík.\! Nijak nepodobný tomu MARINÉMU. #jak se skloňuje MARI, ach jo
+
+message_1013:
+      text: Získal jsi \c[5]NÁPLAST\c[0].
+
+message_1014:
+      text: Šuplík.
+
+message_1015:
+      text: Získal jsi \c[5]LÉKÁRNIČKU\c[0].
+
+message_1016:
+      text: Konvalinka.\! Říká se, že odhání zlé duchy a pomáhají ztraceným vidět světlejší budoucnost.

@@ -1,0 +1,92 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Brayden)
+# =========================================================================================
+
+#messages to be added here, reserved spaces 461 to 480
+
+message_1:
+      text: \n<CHLÁPEK S POMERANČEMA>Uff...\! Uff...\! Uff...\! Uff...\! \Com[2]Pijte \c[3]POMERANČOVOU ŠŤÁVU\c[0]!
+
+message_2:
+      text: \n<CHLÁPEK S POMERANČEMA>Už jste někdy slyšeli frázi...<br>"Pomerančová je nejšťastnější barva”?
+
+message_3:
+      text: \n<CHLÁPEK S POMERANČEMA>...Ne?\! Ale, to nevadí!\!<br>Nezapomeňte, že to samé platí i o \c[3]POMERANČOVÉ ŠŤÁVĚ\c[0]!
+
+message_4:
+      text: \n<CHLÁPEK S POMERANČEMA>\c[3]POMERANČOVÁ ŠŤÁVA\c[0] podporuje hydrataci!\! \c[3]POMERANČOVÁ ŠŤÁVA\c[0] posiluje vaší mysl, způsobuje pocit radosti, pohodlí a veselí!
+
+message_5:
+      text: \n<CHLÁPEK S POMERANČEMA>A obsahuje vitamín C, který je třeba pro zdravé fungování imunitního systému!
+
+message_6:
+      text: \n<CHLÁPEK S POMERANČEMA>Také je to antioxidant, který chrání vaše buňky před karcinogeny!
+
+#If any APPLE JUICE is inventory:
+
+message_7:
+      text: \n<CHLÁPEK S POMERANČEMA>Je tamto ve tvé kapse \c[3]JABLKOVÝ DŽUŠ\c[0]?\!<br>\Com[2]Fuj, to je ale hnus!\! Proč bys tohle dobrovolně pil?!
+
+#BRADYEN threw away your APPLE JUICE...
+
+message_8:
+      text: CHLÁPEK S POMERANČEMA vyhodil tvou \c[3]JABLEČNOU ŠŤÁVU\c[0]...
+
+message_9:
+      text: \n<CHLÁPEK S POMERANČEMA>Ha! To mu ukáže!
+
+message_10:
+      text: \n<CHLÁPEK S POMERANČEMA>Takže... Nechtěli byste si koupit \c[3]POMERANČOVOU ŠŤÁVU\c[0] za $2,00?\$
+
+#[Yes/No]
+
+message_100:
+      text: Získal jsi \c[3]POMERANČOVOU ŠŤÁVU\c[0]!
+
+message_11:
+      text: \n<CHLÁPEK S POMERANČEMA>Ano! \Com[2]Pijte \c[3]POMERANČOVOU ŠŤÁVU\c[0]!\! Užijete si ji!
+
+message_12:
+      text: \n<CHLÁPEK S POMERANČEMA>Dobře...\! Nevadí...\!<br>Pokud si místo ní nekupujete \c[3]JABLEČNOU ŠŤÁVU\c[0]...
+
+#buy more fruit from brayden than ADRIAN
+
+message_13:
+      text: \n<CHLÁPEK S POMERANČEMA>Uff...\! Uff...\! Ha!\! Jak jsem říkal...\! \c[3]POMERANČOVÁ ŠŤÁVA\c[0] je mnohem lepší, než \c[3]JABLEČNÁ ŠŤÁVA\c[0]!\! Můj bratr brzy pozná svou hloupost v plné sílé!
+
+
+#Buy more Fruit from Adrian than Brayden:
+
+message_14:
+      text: \n<CHLÁPEK S POMERANČEMA>Můj bratr nepřestane reptat o tom svém stánku s \c[3]JABLEČNOU ŠŤÁVOU\c[0]...
+
+message_15:
+      text: \n<CHLÁPEK S POMERANČEMA>Uff...\! To je jedno...\! Uff...\! Vždy jsem byl věrný \c[3]POMERANČOVÉ ŠŤÁVĚ\c[0]!\! Mou vizi mi nikdy neveme!
+
+#not enough money
+
+message_16:
+      text: \n<CHLÁPEK S POMERANČEMA>Hmm...\! Vypadá to, že na tuhle výživnou a vynikající \c[3]POMERANČOVOU ŠŤÁVU\c[0] nemáš...
+
+message_21:
+      text: \n<CHLÁPEK S POMERANČEMA>Počkat... vidím správně...\! \c[13]ČERVENOU ČELENKU\c[0]...\! Odmítám vám cokoliv prodat, než si tu věc sundáte!
+
+#After buying 5 Orange juices
+
+message_101:
+      text: \n<CHLÁPEK S POMERANČEMA>\{\{\sinv[1]HOOO-HÁÁÁÁÁÁÁ!!
+
+message_17:
+      text: \n<CHLÁPEK S POMERANČEMA>Vem si tento dar, za to, že jsi tak dobrý zákazník!\! Je to \c[13]ORANŽOVÁ ČELENKA\c[0]. Má stejnou barvu, jako pomeranče!
+
+message_18:
+      text: \n<CHLÁPEK S POMERANČEMA>Hmm! Vidím, že jeden z tvých přátel nosí \c[13]ČERVENOU ČELENKU\c[0]...\! No, tentokrát to prominu, ale opravdu jen tentokrát!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHe he...\! Promiňte...
+
+message_20:
+      text: Získal jsi \c[13]ORANŽOVOU ČELENKU\c[0]!

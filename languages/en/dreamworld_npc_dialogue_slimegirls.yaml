@@ -1,0 +1,379 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============SLIME GIRLS LAIR (BENDA)========================
+
+
+                        #====NIGHT 3====
+
+#CLEANING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_0:
+      text: \humZamet...\. Zamet...\. Zamet... #blíže orig
+
+#FIGHTING 1/2 BENDA
+#Location: Slime Girls Lair / Humphrey
+message_1:
+      text: \humDělej, já! #pokus o zachování vtipu
+
+message_2:
+      text: \humNe, ty dělej, já!
+
+#FLOATING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_3:
+      text: \hum\sinv[1]Jupíííííííííííí!!
+
+#GAMBLER 1 BENDA
+#Location: Slime Girls Lair / Humphrey
+message_4:
+      text: \humJá vím, že blafuješ!\! Nedělej si ze mě blázna, já!
+
+#GAMBLER 2 BENDA
+#Location: Slime Girls Lair / Humphrey
+message_5:
+      text: \humTyhle karty prostě nepřebiješ, já!\! Sázím vše!
+
+#GAMER BENDA
+#Location:Slime Girls Lair / Humphrey
+message_6:
+      text: \humAž pak, teď hraju!
+
+#PAINTING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_7:
+      text: \humAch ano...\! Mé největší mistrovské dílo...\! Hon, hon!
+
+#READING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_8:
+      text: \humPodle mých výpočtů jsi po čtení chytřejší!
+
+#RUNNING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_9:
+      text: \humHff...\! Hff...\! Hff...\! Udržet tuhle fyzičku není žádná sranda!
+
+#TANNING BENDA
+#Location: Slime Girls Lair / Humphrey
+message_10:
+      text: \humAchh...\! To je ale Amerika...\! Jdu se opálit!
+
+#SNALEY
+#Location: Slime Girls Lair / Medusa River 1 (228)
+message_50:
+      text: \n<ŠNEČEK>To je ale krásný bazén!
+
+#WATERFALL HUMPHRIES 1
+message_11:
+      text: \humJasně! Já rád stavím mosty!
+
+message_12:
+      text: \humDobře! Když do toho jde každý...
+
+message_13:
+      text: \humAch jo... Už zase mostařina?\!<br>Když už se budu moct najíst?
+
+message_22:
+      text: \humMáte na mysli tam ten velký vodopád, jižně odsud?\! Tak dobře! Klidně si s váma zazávodím!
+
+#WATERFALL HUMPHRIES 2
+
+message_16:
+      text: \humTak most, říkáš?
+
+message_21:
+      text: \humVždyť už jsem dávno tam! #tady si ještě na vtip pamatuju
+
+message_14:
+      text: \humŽe byste mě použili jakožto prostředníka ve vašem neobjasněném plánu?\! To zní dobře!
+
+message_15:
+      text: \humUž je zase čas na most?\! To to ale letí, viď?
+
+message_17:
+      text: \n<BENDA MOST, ODBORNÍK NA MOSTY>Konečně nadešel můj čas! #tady a níže to je zřejmě příjmení
+
+message_18:
+      text: \n<BENDA VÝTAH, ODBORNÍK NA VÝTAHY>Výtahy jsou sice lepší, než mosty, ale klidně se k vám přidám, když chcete... #viz výše a překlep
+
+message_19:
+      text: \humNo...\! ...\! Tak dobře!
+
+message_20:
+      text: \humJak řekla jednou jedna moudrá velryba... "Jo, proč ne!" #pokus o zachování vtipného rázu
+
+message_27:
+      text: \humMy BENDOVÉ z MEDÚSINA sektoru jsme ti nejlepší! #MEDŮZA na MEDÚSA všude
+
+message_23:
+      text: \humMEDÚSA se o nás stará a pravidelně nás krmí...\!<br>Což by o MARINĚ nebo MOLLY nešlo v žádném případě říct!
+
+message_24:
+      text: \humBEDNOVÉ z MARININA sektoru pořád mizí, a tak po MEDÚSE pořád chce nové...\!<br>Polk...\! Snad nejsem další na řadě...
+
+message_25:
+      text: \humNa MEDÚSE jde poznat, že je naštvaná, když chodí pořád tam a zpátky.\! Nikdy na nikoho sice nekřičí, ale i tak...\! Leze z toho mráz po zádech. #přiroz
+
+message_26:
+      text: \humDávej pozor!\! Řekl bych, že by některé tyhle tekutiny mohly být člověku dost nebezpečné!
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubBENDO! Pomohl bys nám prosím postavit most?
+
+message_30:
+      text: Vědecké bláboly.
+
+#==
+
+#spikes DIALOGUE
+
+message_31:
+      faceset: 01_OMORI_BATTLE
+      faceindex: 0
+      text: \n<OMORI>...
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubDávej si pozor!\! Tomuhle chlápkovi nevěřím ani trochu...
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelFuj...\! Už jsem si byl jistý, že vyberete mě...
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herDívej se pod nohy, jo?<br>Kdyby se něco dělo, hned ti půjdu na pomoc.
+
+
+#==
+
+#MEDUSA area
+
+message_40:
+      text: \n<BENDA>Čtu knížku o klimatizaci!\!<br>Je opravdu zajímavá!
+
+message_41:
+      text: \n<BENDA>Snažím se relaxovat...\! ale nedokážu z hlavy dostat tuhle zajímavou knížku o klimatizaci, kterou jsem nedávno četl...
+
+message_42:
+      text: \n<BENDA>A víš ty, do čeho jsem úplný blázen?\! Do klimatizace.\!<br>A není to ta nejlepší věc na světě? #přiroz
+
+
+#Humphrey PUZZLE HINT Guy
+
+message_45:
+      text: \n<MOUDRÝ BENDA>\sinv[1]Keporkak se máte, přátelé?!\!\sinv[0]<br>Chtěli byste BENDOVU RADU za pouhých 300 MUŠLÍ?\$
+
+#HARD PUZZLE HINT
+message_46:
+      text: \n<MOUDRÝ BENDA>Jak jednou pravil jeden MOUDRÝ BENDA...\!<br>\"Spočítejte své nepřátele...\! A jejich pořadí vás přivede k vítězství.\"
+
+message_110:
+      text: \n<MOUDRÝ BENDA>\com[2]Cože!? Vy jste pořád ještě zaseklí na tomhle?\!<br>Uff... tak dobře.\! Co říkáte na tohle?
+
+message_111:
+      text: \n<MOUDRÝ BENDA>Jak jednou pravil jeden MOUDRÝ BENDA...\! \"Spočítejte své nepřátele, odhalí vám cestu dál...\! A na ní pozorujte vodopád.\" #přiroz
+
+
+#EASY PUZZLE HINT
+
+message_47:
+      text: \n<MOUDRÝ BENDA>Jak pravil jednou jeden MOUDRÝ BENDA...\!<br>\"Když jsi v úzkých, zkus číst zleva do prava!\"
+
+#MED PUZZLE HINT
+message_48:
+      text: \n<MOUDRÝ BENDA>Jak pravil jednou jeden MOUDRÝ BENDA...\!<br>\"Občas je zadek zajímavější než předek!\" #tohle by mohlo blbě vyznít... ale jak lépe to udělat?
+
+#NOT ENOUGH CLAMS
+message_49:
+      text: \n<MOUDRÝ BENDA>Promiň, s takovouhle ne!\! Za méně než 300 MUŠLÍ se ti BENDOVY RADY nedostane!
+
+message_51:
+      text: \n<MOUDRÝ BENDA>\{\{\Com[2]\sinv[1]MMM-ŇAMÓZNÍ!!
+
+message_52:
+      text: \n<MOUDRÝ BENDA>Tady je tvá nápověda!\! Ale pozor, řeknu ti ji jen jednou.
+
+message_53:
+      text: \n<MOUDRÝ BENDA>Tak dobře... Budiž!
+
+#WITHOUT PUZZLE ACTIVATION
+message_54:
+      text: \n<MOUDRÝ BENDA>\sinv[1]Keporkak se máte, přátele?!\!\sinv[0] Chápu, že rébusy nejsou pro všechny.\! A tak vám klidně trochu pomůžu, kdybyste se zasekli...\! možná i víc, než trochu!
+
+message_56:
+      text: \n<BENDA>Aha... no jasně!\! Takhle ty výpočty hned dávají smysl...
+
+message_57:
+      text: \n<BENDA>Takže když vynásobím výsledek...\! Odečtu nekonečko...\! a pak to podělím nulou...\! a tu jedničku dám do zbytku...\! Tak mi z toho vyjde...\!<br>imaginární číslo!
+
+message_58:
+      text: \n<MOUDRÝ BENDA>\sinv[1]Keporkak se máte, přátele?!\!\sinv[0] Chápu, že rébusy nejsou pro všechny, ale to teď není k věci.
+
+
+#WATERFALL HUMPHRIES 2
+
+#===
+#MUTANTÍČKO
+
+message_60:
+      text: \n<MUTANTÍČKO>\}A-Ajoj...
+
+message_61:
+      text: \n<MUTANTÍČKO>\}A-Ajoj!
+
+message_62:
+      text: MUTANTÍČKO do tebe šťouchlo nazpátek.
+
+message_63:
+      text: \n<MUTANTÍČKO>\sinv[1]\}Ajoj~
+
+message_64:
+      text: MUTANTÍČKO vypadá potěšeně!
+
+message_65:
+      text: \n<MUTANTÍČKO>\}A...\! Ajoj?
+
+message_66:
+      text: Co bys chtěl udělat?
+
+message_67:
+      text: ŠŤOUCHNOUT
+
+message_68:
+      text: POHLADIT
+
+message_69:
+      text: BOJOVAT
+
+message_70:
+      text: NIC
+
+message_71:
+      text: Šťouchl jsi do MUTANTÍČKA.
+
+message_72:
+      text: Pohladil jsi MUTANTÍČKO.
+
+message_73:
+      text: Pohladil jsi tu ohavnost. #blíže orig
+
+message_74:
+      text: Šťouchl jsi do té ohavnosti. #blíže orig
+
+message_100:
+      text: \n<BENDA>Uff...\! No jen si poslechněte, jak se tam baví.\! Tam ti brigádníci se teda mají.
+
+message_101:
+      text: \n<BENDA>MEDÚSA se svými sestry zkoumá svět již už několik století.\! A tyhle knihy jsou výsledkem jejich práce!
+
+message_102:
+      text: \n<BENDA>Ať už ho opakuju kolikrát chci, tenhle pokus se mi nikdy nepovede.\! Asi by to chtělo se zase kouknout do příručky... #interpunkce
+
+message_103:
+      text: \n<BENDA>\sinv[1]Chrrrrrrrrrrr...
+
+message_104:
+      text: \n<BENDA>Tenhle sliz už je vyloženě nebezpečný.\! Opravdu bychom měli najmout jednoho z těch UKLÍZECÍCH BENDŮ z MOLLYNA sektoru.
+
+#MARINA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MEDUSA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MOLLY
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MUTANTÍČKO
+#Location: N/A
+
+#PERFECTHEART
+#Location: N/A
+
+#ROBOHEART
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+
+                        #====NIGHT 4====
+#CLEANING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FIGHTING 1/2 BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FLOATING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 1 BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 2 BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMER BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#PAINTING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#READING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#RUNNING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#TANNING BENDA
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#MARINA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Marina's Body Quest
+#Sidequest: Marina
+
+#MEDUSA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Medusa's Body Quest
+#Sidequest: Medusa
+
+#MOLLY (Head Only)
+#Location: Slime Girls Lair / Humphrey - Molly's Body Quest
+#Sidequest: Molly
+
+#MUTANTÍČKO
+#Location: Slime Girls Lair / Humphrey
+
+#PERFECTHEART
+#Location: Slime Girls Lair / Humphrey
+#Dreamworld_extras_slimegirls
+
+#ROBOHEART
+#Location: N/A
+
+
+#--- WATERFALL HUMPHRIES
+
+message_200:
+      text: \n<BENDA>Kurňa... Skočili jste mi do toho zrovna, když jsem spravoval tuhle trubku! #pravopis
+
+message_201:
+      text: \n<BENDA>Ach... konečně místnost bez vodopádu...\! Tohle čistě bílé světlo je na opalování přímo dělané! #světlé světlo se prostě nehodí

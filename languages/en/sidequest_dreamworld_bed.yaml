@@ -1,0 +1,169 @@
+# =========================================================================================
+# B.E.D. Trade Quest
+# ========================================================================================
+
+#B.E.D. Trade Quest 1
+
+message_0:
+    text: \maySakryš!\! Kde sakra je ten můj budiž-k-ničemu syn?
+
+message_1:
+    text: \mayVčera jsem po něm chtěl, aby zanalyzoval můj nejnovější vynález, \c[4]P.O.S.T.E.L.\c[0], ale výsledky pořád nikde...
+
+message_2:
+    text: \mayDoufám, že nedělá, to co si myslím...
+
+message_3:
+    text: KLÍČKOKRTEK spící na \c[4]P.O.S.T.E.L.I.\c[0].\!<br>Kéž bys ho mohl něčím probudit...
+
+#B.E.D. Trade Quest 2
+
+message_10:
+    text: \n<SPORTOVNÍ KRTEK>Ufff... Ufff... Ufff...
+
+message_11:
+    text: \n<SPORTOVNÍ KRTEK>Z tohohle tréninku mi tak vyhládlo!\!<br>Co bych teď dal za nějaký to \c[3]TOFU\c[0]...
+
+message_12:
+    text: Dáš velice zpocenému KLÍČKOKRTKOVI \c[3]TOFU\c[0]?
+
+message_13:
+    text: \n<SPORTOVNÍ KRTEK>Ty jo, díky za to \c[3]TOFU\c[0]! Fakt mi bodlo.\!<br>Na oplátku vám předám svůj nejcennější poklad. <br>Prosím, dobře se o něj starejte!
+
+#Bandito mole
+
+message_20:
+    text: \who\}Psst... hej, děcka!\! Zaslech jsem...\! že tamten PESSI ztratil prý něco cennýho!\! Snad i... majestátního, že by?\! <br>Možná bych vám s tím mohl pomoct...
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10 #needs appropriate faceset
+    text: \aubHmm, připadáš mi nějaký... podezřelý...\!<br>V čem je ten háček,\! \com[2]PODEZŘELÝ KRTKU!?
+
+message_22:
+    text: \n<PODEZŘELÝ KRTEK>\}T-Takže!\! Jak nejspíš jistě víte,\! my, KLÍČKOKRTCI jsme velmi inteligentní a vyvinutí tvorové.
+
+message_23:
+    text: \n<PODEZŘELÝ KRTEK>\}Nejchytřejší z nás, náš STAROSTA,\!<br> pracuje na pokrokovém přístroji, díky kterému budeme moct pracovat ještě efektivněji a na ještě větším měřítku!
+
+message_24:
+    text: \n<PODEZŘELÝ KRTEK>\}Přímo bájné zařízení, které úplně změní moderní svět!\! Říká mu...\! \c[4]P.O.S.T.E.L.\c[0]!
+
+message_25:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11 #needs appropriate faceset
+    text: \aub\c[4]P.O.S.T.E.L.\c[0]?\! Na co by vám byla postel?
+
+message_26:
+    text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Huš! Žádné otázky!\! Sežeňte mi \c[4]P.O.S.T.E.L.\c[0], a pak si promluvíme!
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17 #needs appropriate faceset
+    text: \kelTak \c[4]P.O.S.T.E.L.\c[0], jo?\! To zní jako hračka!
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4 #needs appropriate faceset
+    text: \aubPočkej, KELI! Já ti nevím...\! Připadal mi docela...\! nedůvěryhodný...
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herCo kdybychom mu tu \c[4]P.O.S.T.E.L.\c[0] prostě přinesli, a nechali se překvapit...
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubKdyž myslíš, HERO...\!<br>ale něco mi na něm stejně smrdí...
+
+
+#B.E.D. Trade Quest 3
+
+message_40:
+    text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+
+message_41:
+    text: \sleCo jste zač?!
+
+message_42:
+    text: \sle\Com[2]Ale ne, zaspal jsem!\! Že bych snad...\! Ne...
+
+message_43:
+    text: \sleMusel jsem zaspat!\! ...\!<br>Ale...\! KLÍČKOKRTCI přece nikdy nezaspávají!
+
+message_44:
+    text: \sleTahle \c[4]P.O.S.T.E.L.\c[0]...\! Je...\! \quake[1]mocná.\quake[0]\! Možná že až\. \quake[1]příliš mocná.\quake[0]
+
+message_45:
+    text: \sleMusím to ihned ohlásit tátovi!
+
+#B.E.D. Trade Quest 4
+
+message_50:
+    text: \sle\Com[2]Tati, jsem tady!
+
+message_51:
+    text: \mayBožínku, synu, kdes tak dlouho byl?
+
+message_52:
+    text: \sleJá...\! Obávám se, že mám špatné zprávy...
+
+message_53:
+    text: \mayCo se děje, synu?\! Vždyť víš, že mi můžeš říct cokoliv!
+
+message_54:
+    text: \sleVčera večer, když jsem prověřoval \c[4]P.O.S.T.E.L.\c[0]...\!<br>Já...\! Já...\! Já...\! Já \quake[1]jsem zaspal...\quake[0]
+
+message_55:
+    text: \mayNe, to snad není možné!\! Jestli je to, cos řekl pravda...
+
+message_56:
+    text: \mayTak veškerý můj výzkum...\! Tenhle vynález...\! \c[4]P.O.S.T.E.L.\c[0]...\!<br>Je vskutku...\! \quake[1]příšerně mocný.\quake[0]
+
+message_57:
+    text: \mayVíš, podle mojí teorie měla \c[4]P.O.S.T.E.L.\c[0] pomoct KLÍČKOKRTKŮM zažít kvalitní spánek a zajistit více energie během dne...
+
+message_58:
+    text: \mayAle co když můj vynález funguje přesně naopak?
+
+message_59:
+    text: \may\c[4]P.O.S.T.E.L.\c[0] má možná velký potenciál, ale riziko je příliš vysoké!
+
+message_60:
+    text: \may\Com[2]Božínku, co jsem to provedl?
+
+message_61:
+    text: \mayNemůžu si dovolit tenhle přístroj vypustit do světa... Naše vesnice už by se snad nikdy neprobudila!...
+
+message_62:
+    text: \may\Com[2]Hej, vy tam!\! Vemte si tuhle \c[4]P.O.S.T.E.L.\c[0], a dostaňte ji od nás daleko, opravdu daleko!\!<br>O takovouhle moc nestojíme!
+
+message_63:
+    text: \mayPadejte a opovažte se komukoliv říct, co jste dnes zaslechli!
+
+message_64:
+    text: \n<SPORTOVNÍ KRTEK>Aha, tak dobře.\!<br>Kdyby ses ale někdy chtěl rozdělit o nějaké to \c[3]TOFU\c[0], rád si dám...
+
+message_65:
+    text: Získal jsi \c[4]P.O.S.T.E.L.\c[0]!
+
+message_66:
+    text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Š-Šálí mě mé oči?
+
+message_67:
+    text: \n<PODEZŘELÝ KRTEK>\}Nevěřím tomu...\! Je tohle... opravdu \c[4]P.O.S.T.E.L.\c[0]?!\! Opravdová, nefalšovaná, autentická \c[4]P.O.S.T.E.L.\c[0]!\!<br>Vím přesně, co s ní udělat!
+
+message_68:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubHej, jak si to představuješ?\!<br>My ti pomohli, tak koukej pomoct ty nám!
+
+message_69:
+    text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Hej, hej, hej!\}\!<br>Co to s váma najednou je?\!<br>Možná vám to tak nepřijde, ale já jsem KRTEK svého slova!
+
+message_70:
+    text: Pokusíš se vzbudit OSPALÉHO KRTKA \c[4]VELKOU HOUKAČKOU\c[0]?
+
+message_71:
+    text: \sleAle...\! Mě se ta \c[4]P.O.S.T.E.L.\c[0] tak líbila...

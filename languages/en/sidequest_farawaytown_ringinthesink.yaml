@@ -1,0 +1,71 @@
+
+# =========================================================================================
+# Sidequest: Ring in the Sink
+# =========================================================================================
+
+#messages to be added here
+
+message_1:
+      text: \n<MATLÁK>\quake[1]\{GÁÁÁÁÁ\{ÁÁÁÁÁÁÁ\{ÁAAAAA!!\}\quake[0]
+
+message_2:
+      text: \n<MATLÁK>Jejda...\! A-Ahoj?\! Mm...\! Kdo jsi?\! ...
+
+message_3:
+      text: \n<MATLÁK>\Com[2]Počkej! To je vlastně jedno!<br>\Com[2]Mám tady krizi jak hrom!
+
+message_4:
+      text: \n<MATLÁK>Takžeeeee...\! Nemyslíš, že bys mi mohl pomoct?
+
+#yes/no
+
+# if yes
+message_5:
+      text: \n<MATLÁK>Díky, chlape!\!<br>\Com[2]Tak na co čekáš? Šup dovnitř!
+#once player is inside
+
+message_6:
+      text: \n<MATLÁK>Kuchyňe je tímhle směrem!\! \Com[2]Rychle!
+#examine Sink
+
+message_7:
+      text: \n<MATLÁK>Tak jsme na místě činu...\! Umýval jsem nádobí, a pak najednou...\! \Com[2]mi můj \c[4]SVATEBNÍ PRSTEN\c[0] sklouzl s prstu a spadl do dřezu...
+
+message_8:
+      text: \n<MATLÁK>Šílený, viď?\! Tohle by snad ani v televizi nevymysleli...
+
+message_9:
+      text: \n<MATLÁK>Žena je naštěstí ještě v práci, a tak o tom neví!\! Už se ho odtamtud snažím vytáhnout snad hodinu, dokonce mi už červenají prsty...
+
+message_10:
+      text: \n<MATLÁK>Uff...\! Fakt o tom moc moc nechci říkat mojí manželce nebo dceři, SÁŘE...\! Ty by mi s tím nedali nadosmrti pokoj...
+
+message_11:
+      text: \n<MATLÁK>Pomohli byste mi teda prosím?
+#yes/no
+
+#if yes
+
+message_12:
+      text: Na dně dřezu se něco leskne.
+
+message_13:
+      text: Získal jsi \c[4]SVATEBNÍ PRSTEN\c[0]!
+
+message_14:
+      text: Dal jsi SÁŘINĚ TÁTOVI \c[4]SVATEBNÍ PRSTEN\c[0].
+
+message_15:
+      text: \n<MATLÁK>\Com[2]Hele, to je on, to je fakt on!\! \Com[2]Díky moc!\! \Com[2]Díky, díky, díky!\!<br>Tohle vám nikdy nezapomenu, slibuju!\! Kdykoliv se stavte, u nás jste vždy vítáni!
+
+message_16:
+      text: \n<MATLÁK>Myslím, že už jsem vám to říkal, ale mám dceru asi stejně starou, jako vy.\! Jmenuje se SÁRA...\!<br>Nejspíš bude ve svém pokoji.
+
+message_17:
+      text: Na dně dřežu se něco leskne.
+
+message_18:
+      text: \n<MATLÁK>P-Počkejte!\! Pomožte mi prosím vylovit ten \c[4]SVATEBNÍ PRSTEN\c[0]!
+
+message_19:
+      text: \n<MATLÁK>Tady!

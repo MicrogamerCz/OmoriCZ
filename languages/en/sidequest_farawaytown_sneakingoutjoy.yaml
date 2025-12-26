@@ -1,0 +1,94 @@
+# =========================================================================================
+# Sidequest: Sneaking Out Joy
+# =========================================================================================
+
+#Talking to JOY
+
+message_1:
+      text: \n<MALÁ HOLKA>A-ahoj, zdravím, pane doučovateli...
+
+#Talk to Joy / Cutscene: Joy Leaves
+
+message_2:
+      text: \n<MALÁ HOLKA>Mmmm...\! Promiňte...\! Tohle možná bude znít trochu sobecky, ale...
+
+message_3:
+      text: \n<MALÁ HOLKA>Víte, táta zrovna dneska není doma a...\! Učím se tady celé léto a ráda bych se aspoň na jeden den podívala do parku.
+
+message_4:
+      text: \n<MALÁ HOLKA>Mohl byste za mě dodělat ten list tak, aby na to nepřišel?\! Slibuji, že se vrátím, než se setmí, jen mu prosím nic neříkejte.
+
+# yes /no
+
+#if yes
+
+
+message_5:
+      text: \n<MALÁ HOLKA>Jé...\! Já věděla, že mi s tím pomůžete...
+
+message_6:
+      text: \n<MALÁ HOLKA>P-Počkat...\! Takže vy mě fakt pustíte ven?\!<br>Děkuji, pane doučovateli! Jste nejlepší!
+
+message_8:
+      text: \n<MALÁ HOLKA>Jupí! Já fakt půjdu do parku!\! Co bych tak asi měla udělat jako první...\! Už vím!\! Půjdu si hrát na pískoviště!\!<br>\sinv[1]Hehe... Už se nemůžu dočkat!
+
+message_9:
+      text: \n<MALÁ HOLKA>Ještě jednou děkuji, pane!\! To bude ale sranda!
+
+#JOY runs out.
+
+#if no
+
+message_10:
+      text: \n<MALÁ HOLKA>Aha...\! To se dalo čekat...\! Tak nevadí!\!<br>Stejně bych se asi měla více učit.
+
+message_1000:
+      text: \n<MALÁ HOLKA>Tak zase další den učení...\!<br>Uff... To by mě zajímalo, co zrovna dělá můj bráška...
+
+#if yes, complete worksheet without prompts from JOY
+#if no, complete worksheet with prompts from Joy
+
+message_11:
+      text: JOYIN pracovní list z angličtiny.\! Dokončíš ho?
+
+message_12:
+      text: Doplň správnou předponu do věty “This glass of lemonade is __freshing”.
+
+message_13:
+      text: A) Dis
+
+message_14:
+      text: B) Un
+
+message_15:
+      text: C) Re
+
+message_16:
+      text: Jaká je správná zkratka pro ‘weight'?
+
+message_17:
+      text: A) wgt.
+
+message_18:
+      text: B) wt.
+
+message_19:
+      text: C) W.
+
+message_20:
+      text: Jaké slovo nese význam ‘pohybovat se po rukou a kolenou'?
+
+message_21:
+      text: A) Slither
+
+message_22:
+      text: B) Crawl
+
+message_23:
+      text: C) Walk
+
+message_24:
+      text: Dokončil jsi pracovní list z angličtiny.
+
+message_25:
+      text: Než odejdeš bys měl dokončit pracovní list.

@@ -1,0 +1,81 @@
+
+# =========================================================================================
+# Sidequest: Picking Paint
+# =========================================================================================
+
+#Talk to Sean or Karen:
+
+message_1:
+      text: \n<PANÍ S COPÁNKY>Konečně žijeme spolu!\!<br>Tohle je tak vzrušující, viď, SEANE?
+
+message_2:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Jo...\! Tohle je začátek zbytku našeho společného života...
+
+message_3:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>A teď je čas na naše první velké rozhodnutí...\!<br>Jakou barvou natřeme zdi?
+
+message_4:
+      text: \n<PANÍ S COPÁNKY>Hmm...\! Za mě na tom nezáleží.\! Mně se líbí všechny barvy!\!<br>Co myslíš, SEANE?
+
+message_5:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Já budu spokojen ve všech případech...\! Na mě neber ohled!\!<br>Prostě něco vyber, KAREN!\! Jakoupak barvu bys sis přála?
+
+message_6:
+      text: \n<PANÍ S COPÁNKY>Ale SEANE!\! Nemusíš být tak velkorysý...\! Nepotřebuju si vybírat barvu!\! Ať už je tam vymalováno jakkoliv, budu mít radost, protože tam budeš se mnou!
+
+message_7:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>...\! KAREN...\!<br>Jestli to takhle půjde dál, tak tady strávíme dalších sto let...
+
+message_8:
+      text: \n<PANÍ S COPÁNKY>Hmm...\! Máš pravdu...\!<br>Co takhle zavřít oči a vybrat ji náhodně?
+
+message_9:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>To by šlo!\!<br>S takovouhle v tom nebudeme mít prsty ani jeden!\!<br>Pojďme na to!
+
+message_10:
+      text: \n<PANÍ S COPÁNKY>Super, jdeme na to, lásko!
+
+message_11:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Zavři oči, KAREN.
+
+message_12:
+      text: \n<PANÍ S COPÁNKY>P-Počkej!\! Vydrž!\! Jsem v pohodě!\!<br>Za mě bys ji měl vybrat ty!\!
+
+message_13:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Ne, KAREN...\! Rozhodně bys ji měla vybrat ty!\!<br>Co když vyberu barvu, která se ti nebude líbit?!
+
+message_14:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>...
+
+message_15:
+      text: \n<PANÍ S COPÁNKY>Ach...\! Takhle se nikam nedostanem!\! Hehe...
+
+message_16:
+      text: \n<PANÍ S COPÁNKY>Mám nápad!\! Pojďme se prostě zeptat nějakého nestranníka!
+
+message_17:
+      text: \n<PANÍ S COPÁNKY>Hej, ty!\! Měl bys chvilku?\!<br>Vyber nám prosím barvu na zeď...\!<br>A zkus ji vybrat nějak náhodně...
+
+message_18:
+      text: Zavřel jsi oči.
+
+message_19:
+      text: Vybral jsi kytičkovou tapetu.
+
+message_20:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Cože?\! Co děla tapeta u barev?\!<br>Hmmm...\! Tady se někdo asi spletl...
+
+message_21:
+      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>No...\! Sice není to, co jsem si představoval, ale celkem se mi zamlouvá!...\! Co na to ty, KAREN?
+
+message_22:
+      text: \n<PANÍ S COPÁNKY>Tapeta zní fajn!\!<br>Myslím, že by tam sedla!\! Pojďme na to!
+
+message_23:
+      text: \n<PANÍ S COPÁNKY>Děkujeme moc za tvou pomoc!\!<br>Oba dva jsme odsud, nedávno jsme se sem přestěhovali.
+
+message_24:
+      text: \n<PANÍ S COPÁNKY>Bydlíme v tom domě se žlutou střechou nedaleko \c[11]KOSTELA\c[0]!
+
+message_25:
+      text: \n<PANÍ S COPÁNKY>Přemýšlíme, že bychom za dva dny mohli uspořádat takový malý kolaudační večírek.\! Byli bychom opravdu rádi, kdybys přišel! Klidně s sebou vem i kamarády!

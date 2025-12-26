@@ -1,0 +1,73 @@
+
+# =========================================================================================
+# POOL NOODLE
+# ========================================================================================
+
+#Talk to Berly
+
+message_0:
+      text: \ber\{\SINV[1]\Com[2]BAHAHA\{HAHAHA\{AHAHA!!\SINV[0]
+
+message_1:
+      text: \berVíte...\! Poslední dobou se cítím tak nějak vynalézavě.\! Musím vytvořit něco velkýho...\! něco úžasnýho...
+
+message_2:
+      text: \berMusím vyrobit \Com[2]největší... \!\Com[2]nejpřísnější...\!<br>\Com[2]nejlepšá zbraň, co kdy tento svět zažil!
+
+message_3:
+      text: \berJen mi schází inspirace!\! <br>Potřebuju najít dokonalý materiál...
+
+message_4:
+      text: \berNěco průžné, ale odolné...\! a možná...\! trochu drsné.
+
+message_5:
+      text: \berPokud byste mi dokázali něco takového sehnat, ráda vám tu zbraň vyrobím!
+
+#Talk to Berly with Pool NOODLE
+
+message_6:
+      text: \berHa...\! Tohle...\! Tohle tady...\! Ten tvar...\! Ten povrch...
+
+message_7:
+      text: \berJá...\! Se cítím tak...\! \SINV[1]inspirovaná.\SINV[0]
+
+message_8:
+      text: \berPřesně tuhle \c[13]PLAVACÍ NUDLI\c[0] jsem měla na mysli!
+
+message_9:
+      text: \berZ tohoto bezpochyby dokážu vytvořit ultimátní zbraň!
+
+message_10:
+      text: Dáš BERLY svou \c[13]PLAVACÍ NUDLI\c[0]?
+
+#yes/no
+
+#yes
+message_11:
+      text: \berChviličku...
+
+#Berly turns around for a while, then turns back.
+message_12:
+      text: \ber\{\Com[2]DRŽTE SI KLOBOUKY!!
+
+message_13:
+      text: Získal jsi \c[13]HUSTOU NUDLI\c[0].
+
+#ADD BAHAHAHA
+
+message_14:
+      text: \berAno!\! Hle, \c[13]HUSTÁ NUDLE\c[0] ve své plné síle!
+
+message_15:
+      text: \berAle pozor, není to žádná hračka!\! Jen ti nejlepší ji mohou ovládnout.\! A přesto, že je neskutečně mocná...\! je stále překrásná.
+
+message_16:
+      text: \berTo tou péčí a láskou při výrobě.
+
+message_17:
+      text: \berJop!\! Tentokrát jsem se opravdu překonala!\! <br>Poděkovat mi můžete později!
+
+#ADD BAHAHAHAHAHA!!
+
+message_18:
+      text: \ber\com[2]Proč?\! Co si teď s tou svou inspirací počnu?

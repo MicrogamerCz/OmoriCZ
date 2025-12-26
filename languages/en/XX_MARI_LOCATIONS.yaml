@@ -1,0 +1,522 @@
+
+# =========================================================================================
+#                                 - MARI LOCATIONS -
+# =========================================================================================
+
+# =========================================================================================
+# FOREST PLAYGROUND - UPON RETURNING
+# =========================================================================================
+
+message_1:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marAhoj, OMORI! Jak se všichni máte?
+
+message_2:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marVíš, nedávno mi NOSKA říkala o tom, jak potkala malý, roztomilý list...\! ale...\! když se s ním chtěla zkamarádit, mluvil jen o tom, jak moc nesnáší zajíčky... #jsou to zajíčci, opraven překlep
+
+message_3:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \mar\Com[2]Jak by někdo vůbec mohl nesnášet zajíčky!?\!<br>Některé lidi prostě nechápu...
+
+# =========================================================================================
+# PINWHEEL FOREST
+# =========================================================================================
+
+message_10:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marAhoj, všichni! Prišli jste zrovna včas na příjemný piknik!
+
+message_11:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marKlidně si odpočiňte!\! Všechno je už nachystané,<br>a dokonce jsem vám vzala i nějaké to ovoce!
+
+#After using fruit to heal:
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelHam, ham, ham...\!<br>\Com[2]Jupí! Dík, MARI! Jsi nejlepší!
+
+message_13:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marAle, to nic...\! Jen na vás dávám pozor...
+
+message_14:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basAch, MARI... Kéž bych mohl být víc jako ty!\!<br>Vždycky máš všechno pod kontrolou... #kamarádštèjšî předělávka
+
+message_15:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marTak to ale vůbec není!\!<br>Jen to tak na venek možná vypadá!
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herKaždopádně všechno vypadá tak jednoduše, když to děláš ty. #zkusím
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubJo, to souhlas!\! MARI je vždycky tak půvabná a ani se o to nemusí snažit... #bliz orig
+
+#AUBREY DOES A TWIRL
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 2
+    text: \aubŽe jo, OMORI? #jasne ocekava potvrzeni
+
+#NOD/SHAKE
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubNotak, OMORI!\!<br>Takhle se chováš ke své starší ségře? #bliz orig
+
+message_20:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \mar\sinv[1]Jééé...\sinv[1]\! Tak když si to myslíte vy všichni, možná bych tomu měla věřit taky! #bliz orig
+
+#Basil moves a step down
+
+message_21:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basMůj dům je jen o kousek dál po téhle cestě...\!<br>Můžeme jít?
+
+message_23:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubJasně!
+
+message_24:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelTak zatím, MARI!
+
+message_25:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marKdyžtak dejte vědět, kdybyste něco potřebovali!\!<br>Mějte se! #zni lepe
+
+message_26:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAle, OMORI! Vem si nějaké ovoce!\! Je zdravé!
+
+#Trying walk past
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubOMORI...\! Tak MARI nám natrhala všechno tohle skvělé ovoce a ty si ani nevezmeš?
+
+# =========================================================================================
+# FLOATING FOREST
+# =========================================================================================
+
+
+message_30:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marJé, ahoj, OMORI! Takhle vysoko bych tě nečekala.
+
+message_31:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marVítr tady vane o něco silněji, než tam dole.\!<br>To by mě zajímalo proč...
+
+message_32:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marJen si představ tady pouštět draka! #nadbytecne ale
+
+
+# =========================================================================================
+# CAMPSITE
+# =========================================================================================
+
+message_40:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marVítejte v \c[11]JINOSFÉŘE\c[0]...\! Vyhlášenou zastávkou pro unavené vesmírné cestovatele a oblíbeném rodinném kempu! #bliz orig
+
+message_41:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \mar\sinv[1]Ahhhhhhhh...\!\sinv[0]<br>Že máte taky rádi vůni krbu?\! A ještě k tomu šum proudu vody...\! A vesmírný vánek... #sum
+
+message_42:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHned se ta širá prázdnota vesmíru dá více snášet, nemyslíte?
+
+
+# =========================================================================================
+# FROZEN LAKE
+# =========================================================================================
+
+message_50:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marOMORI... Že je tady krásně?\!<br>Vločky tady padají na zem tak pomalu, ale nakonec všechny dopadnou na své místo jako by každá byla kousek puzzlí. #bliz orig
+
+message_51:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marCelé mi to připomíná, že bych měla vždy být trpělivá. #priroz
+
+message_52:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marA víš co mě teď napadlo?!\! Měli bychom si někdy zajít zabruslit!\!<br>To by byla sranda, viď, OMORI?
+
+# =========================================================================================
+# JUNKYARD
+# =========================================================================================
+
+message_60:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marAhoj, všichni! Doufám, že se máte skvěle!\!<br>Mezi tímhle smetím jsem našla úplně čisté pečené kuře.
+
+message_61:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marVidíš, OMORI? Uklízení má i své světlé stránky!\!<br>Přesně tak!\! Musím přece svému nepořádnému bráškovi jít příkladem!
+
+# =========================================================================================
+# PYREFLY FOREST-  BEFORE BOSS
+# =========================================================================================
+
+
+message_70:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marAch, jakou mám radost z toho, že jste se nakonec ukázali!
+
+message_71:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \marTenhle les je samá malá, lezivá potvora...\!<br>Jde mi z nich mráz po zádech!
+
+message_72:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marA ještě k tomu pořád z dáli slyším divné klepání...\!<br>Mohlo by tam být něco nebezpečného, tak bych se<br>být váma nejdříve posilnila.
+
+message_73:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marPřesně tak!\! Ségra je vždy připravena!<br>\!Se mnou můžeš vždycky počítat, OMORI! #priroz
+
+message_74:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marCelkem to tady přerostlo, nemyslíte?\! Máte opravdu hodně odvahy!
+
+message_75:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marTaky tudy vedou koleje pro vozík...\! Ale k čemu tady tak mohl být?
+
+
+# =========================================================================================
+# SPROUTMOLE VILLAGE - ENTRANCE
+# =========================================================================================
+
+message_80:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marTi KLÍČKOKRTCI jsou ale veselé potvůrky...\!<br>Nejraději bych si jednoho z nich vzala a zmáčla si ho! Hehe!
+
+message_81:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marA věděli jste, že mají hrozně rádi \c[3]TOFU\c[0]?\!<br>Tak jsem nějaké u jednoho stánku koupila...<br>Jen si klidně vemte!
+
+# =========================================================================================
+# SWEETHEART'S CASTLE - PRISON B1
+# =========================================================================================
+
+message_90:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHmmm...\! Vypadá, že jsme se dostali do celkem kyselé situace...
+
+message_91:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marA proto jsem sem propašovala pár kyselých okurek! Hehe... #tak tohle bych nevymyslel. Skvělá práce!
+
+message_92:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelNo fuj!\! Nesnáším okurky!\!<br>Nemohla bys sem příště propašovat džem, nebo něco takového? #nadbyte ja
+
+# KEL will not allow you to examine Pickles.
+
+message_93:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelAle...\! Já nerad okurky...
+
+# =========================================================================================
+# DESERT OASIS
+# =========================================================================================
+
+message_95:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHele, OMORI! Víš co?!\!<br>Tenhle písek...\! vlastě vůbec není písek!\! Všechen to je jenom hnědý cukr! #hej se na mari nehodí
+
+message_96:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marJen si představ tady usnout. To by teprve byly sladké sny! Hehe! #zkousim
+
+message_97:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marRozhodně je tady ale dost horko...\!<br>Nezapomeňte pořádně pít! #poradne
+
+
+# =========================================================================================
+# RAIN TOWN
+# =========================================================================================
+
+message_100:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marTady v \c[11]DEŠŤNÉM MĚSTEČKU\c[0] pořád jen prší...
+
+message_101:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marNo, je pravda, že tady není zrovna nejlepší počasí na piknik, ale proč by mě lělo špatné počasí zastavit? #priroz
+
+message_102:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelPřesně tak! Na piknik je vždycky dobrý čas! #lepe se hodi na kela
+
+message_103:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marHehe... Máš pravdu, KELI!<br>\!S kamarády je vždycky ten správný čas!
+
+# =========================================================================================
+# DOUGH DUNGEON
+# =========================================================================================
+
+message_110:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHmmmm...\! Vypadá, že jste se dostali do celkem slizké situace... #nevím jak přeložit
+
+message_111:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marA proto jsem vám sem přinesla DŽEM!
+
+message_112:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\Com[2]DŽEM!?\! \Com[2]SUPER! ZBOŽŇUJU DŽEM!!\} #priroz
+
+message_113:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\Com[2]KELI, ty lakomče! Nech nám taky něco! #takhle nepekne to puvidne nerekla
+
+message_114:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kel\sinv[1]Chjóóóóó... Vážně musím?\sinv[0] #blize orig
+
+# =========================================================================================
+# LAST RESORT OUTSIDE + ELEVATOR
+# =========================================================================================
+
+message_120:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marAhoj, bráško!\! Tak co?\! Je ti už líp? #priroz
+
+message_121:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marCo takhle si se mnou užít piknik?\!<br>To ti vždycky zlepšilo náladu. #priroz
+
+# =========================================================================================
+# LAST RESORT CONSTRUCTION
+# =========================================================================================
+
+#MARI turns up at HERO statue.
+
+message_125:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marAhoj, bráško!\! Poslední dobou se vídáme celkem dost, nemyslíš? #bráško misto bratřícku
+
+message_126:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marJen si pojď sednout!\! Já vím, že ty by sis piknik nikdy nenechal ujít.
+
+#MARI looks up at giant HERO statue
+
+message_127:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marJen se na to podívej!\! Musíš uznat...\!<br>Že tady \sinv[1]je\sinv[0] celkem pěkný výhled. #blize orig
+
+
+# =========================================================================================
+# Before Trench
+# =========================================================================================
+
+#MARI is in the end of the underwater highway before the trench
+
+message_130:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marTak, OMORI, zdá se, že tady naše cesta končí... doslova. #blize orig
+
+message_131:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marVypadá to, že dále se dostanete jen přes veliký most. #blize orig
+
+message_132:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marHlavně se za žádnou cenu nedívej pod sebe!
+
+message_133:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \marOMORI! Tys vážně zaplatil těm zlodějským KROKOĎÁKŮM, co vybírají mýtné?\! Neměl bys je v tom jejich podvodu podporovat! #dalnice je prece podvodni
+
+message_134:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marUrčitě ti musí schází MUŠLE.\! Na, vem si něco z mých úspor.\! Snad ti to aspoň trochu pomůže.
+
+message_135:
+    text: Získal jsi 500 MUŠLÍ.
+
+message_137:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marŽe ti támhleti KROKOĎÁCI vybýrající mýto nedali zabrat, OMORI?
+
+
+
+# =========================================================================================
+# SLIME GIRL'S LAIR - ENTRANCE
+# =========================================================================================
+
+message_140:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marTakže, OMORI...\! Vím, co si myslíš...\!<br>V hlavě si říkáš...\!<br>"Není tohle celkem divné místo na piknik, ségra?"
+
+message_141:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marA...\! Na to ti řeknu...\!
+
+message_142:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marŽe je sice doporučeno pořádat pikniky spíše v lesích nebo tábořištích...\!<br>Ale... to přece není žádná sranda!
+
+message_143:
+    faceset: MainCharacter_Mari
+    faceindex: 5
+    text: \marCo kdybych při jídle chtěla zkoumat stavbu těla velryby?\! To bych snad v nějakém lese mohla? #v téhle hře bych se ani nedivil
+
+message_144:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marRožšiř své myšlenky, OMORI!\!<br>Musím přece jít příkladem svému občas nudnému bráškovi! #braskovi
+
+# =========================================================================================
+# FROZEN FOREST - BEFORE SNOW ANGELS
+# =========================================================================================
+
+message_150:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \mar\quake[1]Brrrr...\quake[0]\! Zdá se mi to, nebo je tady nějaká zima?\!<br>Zdá se, že sem moc lidí nechodí...
+
+message_151:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marIdeální místo pro někoho, kdo by chtěl být sám.
+
+# =========================================================================================
+# SPROUT MOLE SERVANT'S QUARTERS
+# =========================================================================================
+
+message_155:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marTy brďo, to je ale KLÍČKOKRTKŮ.\!<br>A všichni jsou úplně posedlí ZLATÍČKEM!
+
+
+message_156:
+    faceset: MainCharacter_Mari
+    faceindex: 4
+    text: \marJednomu jsem se snažila nabídnout kousek tofu, ale řekl mi, že jsem blbá prosťačka a hodil ho po mě... #tak jsem vzdycky prekladal peon
+
+
+message_157:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marKLÍČKOKRTCI jsou pozoruhodné potvůrky, viď? #konzistence
+
+# =========================================================================================
+# JUNKYARD 2 - ROSA
+# =========================================================================================
+
+message_160:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marVidím, že jste se holt nějak zaměstnali.\! Doufám, že si všichni tohle vaše dobrodružství užíváte.
+
+message_161:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marKdybyste se někdy cítili unavení, nezapomeňte, že se můžete pozastavit u mého pikniku!\! Ségra je vždy připravena! #priroz
+
+
+# =========================================================================================
+# MARI EPILOGUE
+# =========================================================================================
+
+message_170:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marAhoj, bráško.\! Dnes je opět skvělý den pro dobrodružství! #brasko
+
+message_171:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marNemáme nic moc co na práci, ale to je přece hezké, ne?\! Vyraž a dělej si, co budeš chtít! Svět je celý jen tvůj. #priroz
+
+message_172:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marKdykoliv mě budeš potřebovat, budu tady pro tebe.

@@ -1,0 +1,97 @@
+
+# =========================================================================================
+# Sidequest: Michael's Lunch
+# =========================================================================================
+
+#Talk to Joy's Dad
+
+message_1:
+      text: \n<HUSTÉ OBOČÍ>Ahoj, děcka...\! Měl bych na vás takovou menší prosbu.\!<br>Donesli byste tulhe \c[4]KRABIČKU S OBĚDEM\c[0] tomu klukovi s kytarou, co hraje před \c[11]OBCHOĎÁKEM\c[0]?
+
+message_40:
+      text: \n<HUSTÉ OBOČÍ>Ach...\! On je hrozný donkichot...\! Řekl bych, že to má po mamce.
+#yes/no
+
+message_50:
+      text: \n<HUSTÉ OBOČÍ>Ó...\! Hmm...\! Vždyť už teď je tak těžké se rozloučit...
+
+#if yes
+message_2:
+      text: \n<HUSTÉ OBOČÍ>Děkuji...\! Vážím si toho.
+
+message_3:
+      text: Získal jsi \c[4]KRABIČKU S OBĚDEM\c[0].
+
+#Talk to Michael
+
+message_4:
+      text: \n<KYTARISTA>Dnes je ten den...\! Kdy konečně odjedu do města a stanu se opravdovým muzinakntem...\! Jednoho dne ze mě bude hvězda...
+
+message_5:
+      text: \n<KYTARISTA>Pojedu do velkoměsta a zkusím prorazit!\! Držte mi palce!
+
+message_6:
+      text: Předal jsi KYTARISTOVI \c[4]KRABIČKU S OBĚDEM\c[0].
+
+message_7:
+      text: \n<KYTARISTA>Cože? Co mi to dáváte?\! Tohle...\! Vždyť to jsou tátovy těstoviny se sýrem!\! <br>Ty jsem naposledy měl jako malý...
+
+message_8:
+      text: \n<KYTARISTA>Čmuch...\! Čmuch...\! Díky, tati...\! Jednoho dne se vrátím a budeš na mě pyšný!\! Přísahám!
+
+message_9:
+      text: \n<KYTARISTA>Á!\! Promiň, trošku jsem se unáhlil...\! Vlastně...\! jsem tátovi napsal dopis, ale stydím se mu ho sám dát.
+
+message_10:
+      text: \n<KYTARISTA>Mohli byste mu ho za mě předat?
+
+#Yes/No
+
+#if yes
+
+message_11:
+      text: \n<KYTARISTA>Děkuji...\! Vážím si toho.
+
+message_12:
+      text: Získal jsi \c[4]DOPIS PRO TÁTU\c[0].
+
+message_13:
+      text: \n<KYTARISTA>Jedna má písnička už vyšla dokonce na \c[4]CDčku\c[0]...\! <br>Na, klidně si ho vemte!
+
+message_14:
+      text: Získal jsi \c[4]SUPER TAJNÉ CD\c[0]!
+
+message_15:
+      text: \n<KYTARISTA>Ještě jednou díky.\! Příště mě uvidíte na obřím jevišti!
+
+#if no
+
+message_16:
+      text: \n<KYTARISTA>Ach...\! Vždyť už teď je tak těžké se rozloučit...
+
+#Talk to Joy's DAD
+
+message_42:
+      text: \n<HUSTÉ OBOČÍ>Vidím, že jste mu předali tu \c[4]KRABIČKU S OBĚDEM\c[0].\! Co on na to?
+
+message_41:
+      text: Předal jsi HUSTÉMU OBOČÉ \c[4]DOPIS PRO TÁTU\c[0].
+
+message_17:
+      text: \n<HUSTÉ OBOČÍ>Tohle...\! Vždyť to je písmo mého syna...
+
+message_18:
+      text: \n<HUSTÉ OBOČÍ>Ach...\! Poslední roky jsem na něj byl tak přísný...\! Já...
+
+message_19:
+      text: \n<HUSTÉ OBOČÍ>Mhm...\! Díky za vaší pomoc.\! Já...\! Doufám, že ho jednou znovu uvidím...\! Možná tak v televizi! Haha!
+
+
+message_30:
+      text: \n<HUSTÉ OBOČÍ>Zajímalo by mě, jak je na tom ten můj syn u \c[11]OBCHOĎÁKU\c[0]...\! Pořád tam vyhrává na tu svoji starou kytaru...
+
+message_31:
+      text: \n<KYTARISTA>Díky za všechny vaše přízpěvky! Vypadá, že zítra budu konečně moct odjet do velkoměsta! Díky!
+
+message_32:
+      text: \n<KYTARISTA>Díky za všechny vaše přízpěvky! Vypadá, že pozítří budu konečně moct odjet do velkoměsta! Díky!

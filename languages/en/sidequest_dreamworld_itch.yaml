@@ -1,0 +1,42 @@
+# =========================================================================================
+# Itch
+# ========================================================================================
+
+#Talk to Dino 4's Top Half
+
+message_1:
+      text: \n<SCOTT>\sinv[1]Jakpak se máte, omladino?!\sinv[0]\!<br>Pomohli byste mi s něčím?\!<br>Potřeboval bych malinko podrbat...
+
+message_2:
+      text: \n<SCOTT>Dole, na mých zádech, tak nízko nedosáhnu...\!<br>Fuj...\! Víte, jak mě to tam svědí?!... Přímo mi to \sinv[1]pije krev\sinv[0]!
+
+#Talk to Dino 4's Bottom Half
+
+message_3:
+      text: Poškrabal jsi SCOTTOVI záda.
+
+#Screen shakes
+
+message_4:
+      text: \n<SCOTT>\sinv[1]Ach...\! Mnohem lepší...\sinv[0]
+
+#Talk to Dino 4's Top Half
+
+message_5:
+      text: \n<SCOTT>Hele, vy jste ti, co mi poškrábali záda, že?\!<br>Jak se mi tím \sinv[1]ulevilo\sinv[0]...
+
+message_6:
+      text: \n<SCOTT>Tady, vemte si tohle.\!<br>Těchle věcí tady máme až až.\!<br>Určitě vám k něčemu bude!
+
+message_7:
+      text: Získal jsi \c[13]OCHRANNOU PŘILBU\c[0].
+
+message_10:
+      text: \n<SCOTT>Dávejte si na sebe pozor!\! Opravdu vám nedokážu dostatečně poděkovat!
+
+#Quest complete
+
+#After quest dialogue
+
+message_8:
+      text: \n<SCOTT>Hele, vy jste ti, co mi poškrábali záda, že?\!<br>Jak se mi tím \sinv[1]ulevilo\sinv[0]...

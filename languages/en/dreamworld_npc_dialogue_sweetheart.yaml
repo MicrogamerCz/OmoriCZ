@@ -1,0 +1,644 @@
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Foyer
+# =========================================================================================
+
+message_200:
+      text: \n<HAROLD>\com[2]\{\{\quake[1]STŮJTE, VĚZNI!!
+
+message_201:
+      text: \n<HAROLD>To jste si vážně mysleli, že se vám povede utéct tak lehce?!
+
+message_202:
+      text: \n<HAROLD>Zpátky do \c[11]HLADOMORNY\C[0] s váma!
+
+#message_203: Delete line
+#      text: \n<KEL>Yes, we are?
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \n<AUBRY>Safra... Byli jsme tak blízko!
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \n<KEL>\}Ajaj... co si počnem teď?
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \n<HERO>Mysli, HERO, mysli!\! No tak... Jak se z tohohle dostaneme?\!<br>...\! A! Mám nápad!
+
+message_207:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \n<HERO>...\! Teda...\! Řekl bych, že jste si nás spíše s kýmsi spletl, pane rytíři! Ano ano, jistě.
+
+#KEL ? MARK THEN EXCLAMATION POINT
+#EVERYONE TURN AND PUTS ON SPROUT KRTEK MASKS
+
+message_208:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \n<KEL>\com[2]Přesně tak. Neusuzujte ostatní tak rychle!\!<br>Vždyť jsme bez pochyby KLÍČKOKRTCI.
+
+message_209:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \n<AUBRY>Ano! To jistě!\! Také miluji \c[3]TOFU\c[0] a ZLATÍČKO!\! Mmm... Dala bych si ZLA- teda, \c[3]TOFU\c[0].
+
+message_210:
+      text: \n<HAROLD>Inu! Mé oči mě musely oklamat. Omlouvám se vám, bratři a sestry.<br>\!Přes tuhle helmu se dost špatně vidí. #jako brethren bych dal soudruzi ale to jsi říkal že tady nebude
+
+message_211:
+      text: \n<HAROLD>Běžte tedy dál.\! Já půjdu dál hlídkovat.\! A vy byste se taky měli vrátit na svá místa, než na vás ZLATÍČKO přijde...
+
+message_212:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \n<HERO>Ha... To jsou teprv rychlé rozhodnutí, co?
+
+message_213:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \n<AUBRY>To bylo teda čistý, HERO!\! S těmihle \c[4]MASKAMI KLÍČKOKRTKŮ\c[0] se odsud dostaneme co nevidět! #odsus
+
+message_214:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \n<KEL>Vážně je musíme mít celou dobu na sobě, HERO?\!<br>Začíná mě lechtat...
+
+message_215:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \n<HERO>Ano, KELI... Neměli bychom je sundávat dříve, než se dostaneme ven.\! Tak... Jde se na to.
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Guest List
+# =========================================================================================
+
+message_0:
+      text: \n<SPRÁVCE KRTEK>Panečku! Jak mám stihnout přijmout všechny tyto neukázněné hosty?!\! Tady jde nejlépe vidět, že nesmíme nikdy podceňovat ZLATÍČČINU popularitu...
+
+#guest mole puts up chart
+
+message_1:
+      text: \n<SPRÁVCE KRTEK>Vy tam! Jo, vy sluhové s ošklivými ksichty!\! Nadcházející událost má přísné pravidla ohledně ošacení.<br><br>Je nezbytné, aby byli hosté oblečeni přesně dle ZLATÍČČINÝCH požadavků.\! Zde je jednoduché schéma, které by pochopil i NEKLÍČKOKRTEK!
+
+message_2:
+      text: \n<SPRÁVCE KRTEK>Co zas?\! Potřebujete s něčím pomoct?
+
+message_3:
+      text: \n<SPRÁVCE KRTEK>Řekněte prosímvás neukázněným hostům, aby šli za váma a přiveďte je ke mně!\! To snad není tak těžké, nemyslíte?
+
+#pan up
+message_4:
+      text: \n<SPRÁVCE KRTEK>\com[2]Co to děláte!?<br>Tamten KLÍČKOKRTEK je vážený host!
+
+message_5:
+      text: Jaké že jsou ty pravidla?
+
+message_6:
+      text: Kolik ještě zbývá KLÍČKOKRTKŮ?
+
+message_7:
+      text: \n<KRTEK SPRÁVCE>I odsud vidím, že tady máme ještě \v[1001] špatně oblečených hostů! #blíže orig
+
+message_8:
+      text: \n<KRTEK SPRÁVCE>I odsud vidím, že tady máme ještě jednoho špatně oblečeného hosta! #blíže orig
+
+message_10:
+      text: \n<KRTEK SPRÁVCE>Skvěle! Věděl jsem, že je na vás spoleh!\!<br>A teď se konečně těchle nerůžových hostů můžeme zbavit!
+
+message_11:
+      text: \n<KRTEK SPRÁVCE>Tak to bysme měli!\!<br>Tihle nerůžoví hosté již nikdy nespatří světlo dne!
+
+message_12:
+      text: \n<KRTEK SPRÁVCE>\Com[2]\{STRÁŽĚ!!\!\}<br>Hoďte tyhle KLÍČKOKRTKY do \c[11]HLADOMORNY\C[0]!
+
+message_20:
+      text: \n<KRTEK SPRÁVCE>Jak si dovolujete mě tady zdržovat?! Jsem vážený host!
+
+message_21:
+      text: \n<RŮŽOVÝ? KRTEK>Jak si dovolujete mě tady zdržovat! Jsem vážěný host!
+
+message_22:
+      text: \n<RŮŽOVÝ? KRTEK>\v[1001]
+
+message_23:
+      text: Někomu trochu šaramantnějšímu by se povedlo je přesvědčit...
+
+message_30:
+    text: Řekneš tomito KLÍČKOKRTKOVI, aby šel za tebou?
+
+message_40:
+      text: \n<HAROLD>\sinv[1]Slyšel jsem, však nevím jistě...\!<br>že na ZLATÍČČINA láska je nám vždy na prvním místě!
+
+message_41:
+      text: \n<HAROLD>\sinv[2]Hut! Hut! Hut!
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Zdravím vás, vážený hoste! Pojďte prosím se mnou. Vaše přítomnost je naléhavě potřeba...\her
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
+# =========================================================================================
+message_60:
+      text: \n<ŠÉFKUCHAŘ>Uff... Mí drazí zástupci...\!<br>Obávám se, že už to moje záda vzdala!\! Bohužel je na čase, abych odešel do důchodu. #přiroz
+
+message_61:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Počkejte, pane ŠÉFKUCHAŘI! Kdo nás teď bude vést?! Vždyt ten dort pro hlavní událost musí být absolutně bez chyby!
+
+message_62:
+      text: \n<KUCHAŘ>Je čas, aby byl se jeden z vás ujal vedení.\! Dneska se prostě musí upéct dort! Závisí na tom naše životy! #přiroz
+
+message_63:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Ach ano! Rozumím, pane ŠÉFKUCHAŘI!\! Jakožto nejschopnější z nás<br>dobrovolně přebírám vedení!\!<br>Slibuji, že vás nezklamu! #přiroz
+
+# =========------------------
+message_70:
+     text: \n<JINÝ ZÁSTUPCE ŠÉFKUCHAŘE>Hmm... Vlastně...\! myslím, že mě z tohohle můžete vynechat... #blíže orig
+
+message_71:
+      text: \n<JINÝ ZÁSTUPCE ŠÉFKUCHAŘE>Mě taky, je mi trochu špatně od žaludku... #návaznost
+
+message_74:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Bah! O přízeň takových otravů, jako jste vy, stejně nestojím!\! Uvařím dort nade všechny dorty! Jen počkejte! #vypouštím já, přiroz
+
+message_72:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hej, vy tam!\! Od teď jste moji zástupci.\!<br>Pojďte za mnou do kuchyně, a fofrem! #přiroz
+
+# =========------------------
+
+message_73:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Co vám tak trvalo!?\! Trochu disciplíny, ne snad?\! Nehnu se z místa, dokud neupečeme ten nejlepší dort, co kdy tento svět zažil! #blíže orig
+
+# =========------------------
+
+message_80:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]Kam to jdete!? Zpátky!
+
+message_81:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hodně štěstí...\! Budete ho potřeboval.
+
+# =========------------------
+message_82:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Jste připraveni začít?\! Poslouchejte pozorně mé pokyny a všechno dobře dopadne.\! Já ŠÉFKUCHAŘŮV recept znám nazpaměť!
+
+message_83:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hele, nebuďte nervózní!\! Věřte mi, vím, co dělám!
+
+message_84:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nejdříve předehřejeme troubu na 20 stupňů! #převádím fahrenheity na celsia
+
+message_100:
+      text: Na kolik stupňů předehřeješ troubu?
+
+# =========------------------
+message_101:
+      text: 20
+
+message_102:
+      text: 90
+
+message_103:
+      text: 180
+
+message_120:
+      text: VYBRAT NÁHODNOU MOŽNOST
+# =========------------------
+
+message_104:
+      text: Zapl jsi troubu.\! Začala se předehřívat.
+
+message_105:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Skvělá práce!\! Teď je třeba smíchat dvě hlavní ingredience do misky...\! MOUCHY a PINGPONGOVÉ MÍČKY! #vtip tady závisí na tom, že říká věci, které zní jako ingrediece, ale jsou nesmysly
+
+message_106:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Úžasné!\! Další na řadě jsou SŮL a SÝR!\!<br>Jo, pořádně je smíchejte, než se z toho stane polívka! #blíže orig
+# =========------------------
+message_107:
+      text: Vezmeš CUKR?
+
+message_108:
+      text: Vezmeš MOUKU?
+
+message_109:
+      text: Vezmeš HNOJIVO?
+
+message_110:
+      text: Vezmeš JAHODY?
+
+message_111:
+      text: Vezmeš BORŮVKY?
+
+message_112:
+      text: Vezmeš OVOCNOU ŠŤÁVU?
+
+message_113:
+      text: Vezmeš MÁSLO?
+
+message_114:
+      text: Vezmeš OKURKY?
+
+message_115:
+      text: Vezmeš RYBU?
+
+message_116:
+      text: Vezmeš VAJÍČKA?
+
+message_117:
+      text: Vezmeš STAROU BOTU? #překlep
+
+message_118:
+      text: Vezmeš KUŘE? #celé v češtině nezní dobře
+# =========------------------
+
+message_122:
+      text: Více ingrediencí neuneseš.
+
+message_123:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>To je teprv něco!\! A teď je na řadě poslední krok - vemte OMÁČKU a nakrájejte ji na kousky!
+
+message_124:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nádhera!\! A teď všechno smíchejte a hoďte do mikrovlnky!\! Toť vše!
+
+# =========------------------
+
+message_125:
+      text: Vezmeš TĚSTO? #původně špatný překlad
+
+message_126:
+      text: Vložil jsi TĚSTO do trouby.
+
+# =========------------------
+
+message_127:
+      text: Upekl jsi DORT.\! Ty jo! Vypadá celkem dobře!
+
+message_128:
+      text: Upekl jsi DORT.\! Vypadá... přijatelně.
+
+message_129:
+      text: Upekl jsi DORT.\! Nevypadá příliš chutně...
+
+message_130:
+      text: Upekl jsi DORT.\! ...\! Tohle jakoby udělal pes a kočka... #notáák, tuhle situaci nemůžu nechat, aniž bych tam tohle vpasoval
+
+# =========------------------
+message_131:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Aha! Tak vy už máte hotovo?\! Tak to teda klobouk dolů!\!<br>Pojďme ochutnat!
+
+message_132:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]\{ÚŽASNÉ! PŘESNĚ, JAK JSEM ČEKAL!!\!\}<br>S tímhle dortem s těma ostatníma vytřu podlahu!
+
+message_133:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hmm... Tenhle dort je sice dobrý, ale pochybuji, že by udělal moc velký dojem...
+
+message_134:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>To je ale blytka!\! Back to the drawing board, it is!
+
+message_135:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Propána... Vždyť tohle ani není dort! To má být polívka, nebo co?!
+
+message_136:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+# =========------------------
+
+message_137:
+      text: Jsi si jistý, že tohle chceš udělat? #blíže orig
+
+message_138:
+      text: Nejdříve si musíš nachystat ingredience.
+
+message_140:
+      text: Vezmeš SMĚS?
+
+message_141:
+      text: Vezmeš MISKU?
+
+message_142:
+      text: Tohle nepotřebuješ.
+
+message_143:
+      text: Potřebuješ více ingrediencí. #pravý opak původního překladu
+
+# =========------------------
+message_144:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]Co to děláte!?\! Koukejte se vrátit a dopéct tenhle dort!
+
+message_500:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]\{\{HEJ! NEKRAĎTE MI TADY!!
+# =========------------------
+message_145:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>No sláva...\! To byl ale hrozný pošuk, co?\!<br>Tak, jste připraveni uvařit pořádný dort? #přiroz
+
+message_146:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Super! Nejdříve předehřejeme troubu na 180 stupňů. #konzistence
+
+message_147:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Pamatujte, 180 stupňů!
+
+message_148:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hele, co to děláte!? To jsem neřekl, že máte dělat! #hej na hele
+
+message_149:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Dávejte přístě pozor!
+# =========------------------
+message_150:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Skvěle! Teď smíchejte MOUKU a VAJÍČKA.
+
+message_151:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>A teď přidejte CUKR a MÁSLO.\!<br>Pořádně to promíchejte, ať z toho vznikne něco pořádného!
+# =========------------------
+message_152:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>A nakonec ozdoba na vrch...\!<br>Stačí jen JAHODY! #jsem si musel hledat, co je ta "povela"... marně, protože to je překlep slova "poleva". pobavilo.
+
+message_153:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Máte hotovo?\! Super!\! Teď to dejte na pekáč a šup s tím do trouby!
+# =========------------------
+message_154:
+      text: Nemáš TĚSTO. #viz výše
+# =========------------------
+message_155:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Takhle se teprve peče dort! #pro srovnání s tím minulým
+
+message_156:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Mmm... Jo! Za mě v pořádku!\!<br>Konečně dort, na který by byl náš ŠÉFKUCHAŘ pyšný.
+
+message_157:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Vzdejme čest jeho památce...
+
+message_158:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Můžete jít, sluhové! Máte volno!
+
+# =========------------------
+message_159:
+      text: Vždy to můžeš zkusit znovu.
+
+message_160:
+      text: Tos to tam k sakru dal!?
+# =========------------------
+message_161:
+      text: Put back the \v[1001]?
+# =========------------------
+message_162:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Tohle je dort, na který by byl náš ŠÉFKUCHAŘ pyšný.\! Vzdejme čest jeho památce... #vypouštím alespoň
+
+message_163:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Můžete jít, sluhové! Máte volno!
+# =========------------------
+message_164:
+      text: \n<ŠÉFKUCHAŘ>... #původně nepřeložený název postavy
+
+message_165:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Kdo jste?
+
+message_166:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Kdo jsem?!
+
+message_167:
+      text: Několik ingrediencí.\! Některé jsou podstatně chutnější, než zbytek.
+
+message_168:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nechť nikdo nezapomene na našeho ŠÉFKUCHAŘE...
+
+message_169:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Můj dort vážně šel na dračku!\! ŠÉFKUCHAŘ by byl tak pyšný...\! Nechť na něj nikdo nezapomene... #minulý čas
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Elevator
+# =========================================================================================
+
+message_300:
+      text: VSTUPNÍ HALA
+
+message_301:
+      text: KOMNATY
+
+#Bandito Mole Chance
+
+message_310:
+      text: \n<KRTEK BANDITA>\}Tohle je přepadení!
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Dungeon
+# =========================================================================================
+
+message_320:
+      text: \n<PAŠOVATEL JASH>Zavřeli mě sem za pašování...\!<br>ale zvyk je železná košile. #vypouštím víte
+
+message_321:
+      text: \n<PAŠOVATEL JASH>A proto bych vám rád nabídl celkem nedostatkový zboží.\! Měli byste zájem?
+
+message_322:
+      text: \n<PAŠOVATEL JASH>Mám tady pro vás dost slušný zboží.
+
+#Kitchen Fireplace
+
+message_350:
+      text: V krbu se schovává tlačítko ve tvaru srdce.\!<br>Stiskneš ho?
+
+message_351:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmm...\! To by mě zajímalo, k čemu tak mohlo být...\her
+
+message_352:
+      text: V krbu se schovává tlačítko ve tvaru srdce...\! Už jsi ho stiskl.
+
+
+#SW Foyer
+
+message_359:
+      text: \n<SVÍČKOZAJÍC>\sinv[1]Pyon?
+
+message_355:
+      text: \n<HAROLD>Zpět na svá místa, nováčci!\!<br>S ulejvákama se tady nemazlíme!
+
+message_356:
+      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská garda přijímá jen ty nejlepší z nejlepších! #počeštění jména
+
+message_357:
+      text: \n<LUCIUS>Celý život jsem studoval bojová umění.\! Když budeš tvrdě makat...\! možná se z tebe taky jednou stane LUCIUS!
+
+message_358:
+      text: \n<TEREZA>Hej, neviděl jsi tady někde KNÍŽETE MAXIMA?\!<br>Dluží mi pár MUŠLÍ... #blíže orig
+
+
+#SW AFTER WEDDING
+
+message_370:
+      text: \n<CASTELLA>Tebe jsem viděla v posledním díle \"ZLATÍČKA HLEDÁ ZLATÍČKA\"!
+
+message_371:
+      text: \n<CASTELLA>Skvělé zakončení skvělého pořadu...\! ale byla bych raději, kdyby vůbec nekončil. #překlep
+
+message_372:
+      text: \n<CASTELLA>ZLATÍČKO snad nepřijde na její odpolední čajíček... #myslím, že tohle je význam, který z toho měl vyznít
+
+message_373:
+      text: \n<KRTEK VIRTUÓZ>Aha! Vás poznávám!\! Vy jste ti placení herci ze \"ZLATÍČKA HLEDÁ ZLATÍČKA\", viďte?!
+
+message_374:
+      text: \n<KRTEK VIRTUÓZ>Vaše herecké výkony byly přímo strhující.\! Každou minutou jsem věřil, že se to opravdu děje.
+
+message_375:
+      text: \n<HAROLD>Co říkáte na ten konec?\! To jste nečekali, co?
+
+message_376:
+      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská garda přijímá jen ty nejlepší z nejlepších!
+
+message_377:
+      text: \n<LUCIUS>Celý život jsem studoval bojová umění.\! Mladí KLÍČKOKRTCI studují, aby se z nich jednou stali LUCIOVÉ!
+
+message_378:
+      text: \n<TEREZA>Hej, neviděl jsi tady někde KNÍŽETE MAXIMA?\!<br>Dluží mi pár MUŠLÍ... #viz výše
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Library
+# =========================================================================================
+
+message_400:
+      text: \n<RŮŽOVÝ? KRTEK>Jistě! Vy pracovníci jste tak příjemní!
+
+message_401:
+      text: \n<RŮŽOVÝ? KRTEK>Kdo si myslíš, že seš!?\! Chci mluvit s šéfem!
+
+message_402:
+      text: \n<RŮŽOVÝ? KRTEK>Tak dobře.
+
+message_403:
+      text: \n<RŮŽOVÝ? KRTEK>Zapomeň.
+
+message_404:
+      text: \n<RŮŽOVÝ? KRTEK>\}\"'CHLAPÁCI' volají 'ALFU-3'...\! spadla klec.\! Ukončete misi.\"\! \quake[1]Bzzz...\quake[0]
+
+message_405:
+      text: \n<RŮŽOVÝ? KRTEK>Promiňte, ale já nejsem ten, koho hledáte.
+
+message_406:
+      text: \n<RŮŽOVÝ? KRTEK>D-dobře...\! ale budete mi muset vysvětlit, co se děje!
+
+message_407:
+      text: \n<RŮŽOVÝ? KRTEK>Fuj... Kdo seš?\! Už ke mně nikdy nemluv.
+
+message_408:
+      text: \n<RŮŽOVÝ? KRTEK>Jo, abych zase stál v další řadě, viď?
+
+message_409:
+      text: \n<RŮŽOVÝ? KRTEK>Možná s tebou půjdu...\! Ale možná ne.
+
+message_410:
+      text: \n<RŮŽOVÝ? KRTEK>Zákony této země jsou tvrdé...
+
+message_411:
+      text: \n<RŮŽOVÝ? KRTEK>Jenom protože na sobě mám svou oblíbenou modrou?!\! Zapomeňte na to, nehnu se odsud!
+
+message_412:
+      text: \n<RŮŽOVÝ? KRTEK>Tak vyžadována?\! No jistě.
+
+message_413:
+      text: \n<RŮŽOVÝ? KRTEK>Ts...\! A když ne, tak co?
+
+message_414:
+      text: \n<RŮŽOVÝ? KRTEK>Safra... Já věděl, že jsem si měl vzít tu druhou kravatu!
+
+message_415:
+      text: \n<RŮŽOVÝ? KRTEK>Musel jsem ujít třináct set kilometrů, abych sem došel.\! Nemyslete si, že se vzdám svého místa!
+
+message_416:
+      text: \n<RŮŽOVÝ? KRTEK>Já? To snad ne! Musí pro mě udělat výjimku.\! Já jim ukážu!
+
+message_417:
+      text: \n<RŮŽOVÝ? KRTEK>Ne! Možná byste \sinv[1]vy\sinv[0] měli odejít!
+
+message_418:
+      text: \n<RŮŽOVÝ? KRTEK>Že by konečně přišla má chvíle na pódiu?
+
+message_419:
+      text: \n<RŮŽOVÝ? KRTEK>Za žádnou cenu. Jsem tady nejdůležitější ze všech!
+
+message_420:
+      text: \n<RŮŽOVÝ? KRTEK>\sinv[1]BÉÉÉÉÉEEEE!\sinv[0] Proč?!
+
+message_421:
+      text: \n<RŮŽOVÝ? KRTEK>Vážně? Tak mi ukažte proč!
+
+message_422:
+      text: \n<RŮŽOVÝ? KRTEK>Aha...\! Já jen chtěl znovu vidět svého jediného syna.
+
+message_423:
+      text: \n<RŮŽOVÝ? KRTEK>Trochu víc nahlas, mladíku! Nerozumím ti!
+
+message_424:
+      text: \n<RŮŽOVÝ? KRTEK>Ach... jistě! Vy vypadáte jako \sinv[1]čistý\sinv[0], vzorný džentlmen! #vykání
+
+message_425:
+      text: \n<RŮŽOVÝ? KRTEK>Pracky pryč ode mě!\! O co, že jsi samý bacil!
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Kitchen
+# =========================================================================================
+
+message_450:
+      text: Chceš vrátit CUKR?
+
+message_451:
+      text: Chceš vrátit MOUKU?
+
+message_452:
+      text: Chceš vrátit HNOJIVO?
+
+message_453:
+      text: Chceš vrátit JAHODY?
+
+message_454:
+      text: Chceš vrátit BORŮVKY?
+
+message_455:
+      text: Chceš vrátit OVOCNOU ŠŤÁVU?
+
+message_456:
+      text: Chceš vrátit MÁSLO?
+
+message_457:
+      text: Chceš vrátit OKURKY?
+
+message_458:
+      text: Chceš vrátit RYBU?
+
+message_459:
+      text: Chceš vrátit VAJÍČKA?
+
+message_460:
+      text: Chceš vrátit STAROU BOTU?
+
+message_461:
+      text: Chceš vrátit KUŘE? #viz výše
+
+#====
+#trying to pick up something after cooking game
+
+message_462:
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hej! Ruce pryč, nesahat!
+#====
+
+#AFTER DEFEATING MAXIMUS III
+
+message_501:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herZdá se mi to, nebo to tady nějak ztichlo?
+
+message_502:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelNestál u těchle dvěří předtím náhodou dav KLÍČKOKRTKŮ?\! Teď tady není ani noha!
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubAsi se už konečně protlačili ven!\! Pojďme za nima, OMORI.\! Možná nás odsud vyvedou!

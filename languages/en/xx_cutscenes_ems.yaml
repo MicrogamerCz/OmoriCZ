@@ -1,0 +1,126 @@
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text:  Tohle je marný. Nejsem v něm schopna udělat ani díru!\aub
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmmm...\! Vydržte chviličku...\her
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Tohle je sýr, že?\her
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Ty jo, máš recht!\! Vždyť to je sýr!\kel
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Dobře...\! Poslouchejte.\! Možná to bude znít trochu praštěně...<br>Ale...\! co kdybychom ho prostě snědli?\kel
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Když začneme hned...\!<br>tak bychom to do pár hodin stihnout mohli!\kel
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Jen bych vás chtěl varovat... Po sýru mám trochu větry...\kel
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\Com[2]FUUUUJ, KELI!\aub\}
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: P-Počkej, KELI. To není potřeba.\her
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Myslím, že mám dokonalé řešení přesně pro tuto situaci!\her
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: DEJ MI BABU, OMORI.\!<br>Nech to na mně.\her
+
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill (Cont.)
+# =========================================================================================
+
+#Trigger: Tag HERO and examine Cheese.
+
+# EMS spirals down from the sky
+
+message_50:
+      text: \}Zdravím, přátelé!\! Já jsem... EMS, skromný, ale hladový křeček!\ems
+
+#EMS looks around.
+
+message_51:
+      text: \}Ty brďo, tohle je všechno pro mě? To je ale něco!\!<br>Jak jste přišli na to, že mám sýr v oblibě?\ems
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Na to nebylo třecha přicházet, EMS!\!<br>Ty máš v oblibě všecko.\her
+
+#HERO turns to party.
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Všichni, tohle je EMS!\! Známe se už celkem dlouho.\her
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Ty víš, jak na to, EMS! Do toho!\her
+
+message_55:
+      text: \}Jasná páka!\! \Com[2]Už to bude!\ems
+
+#EMS begins to devour the cheese.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Ty jo...\kel
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Počkat, jak se to do ní vůbec všechno vešlo?\aub
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: No... sám nevím. Raději nad tím moc nepřemýšlím.\her
+
+message_59:
+      text: Sýr je snězen, a cesta je opět bez překážek.
+
+message_60:
+      text: \}To bylo ale uspokojivé!\ems
+
+message_61:
+      text: \}A kdybyste zase potřebovali sníst nějaký velký sýr, víte, na koho se obrátit!\ems
+
+message_62:
+      text: \}Sbohem, přátelé!\ems
+
+#EMS spirals into the sky.

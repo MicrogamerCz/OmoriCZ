@@ -1,0 +1,298 @@
+# =========================================================================================
+# Cutscene: It's Alive! (Medusa)
+# =========================================================================================
+
+#Trigger: Enter proximity of Medusa's Balcony
+
+#MEDÚZA is fiddling with chemicals at the table.
+#SWEETHEART is frustrated.
+
+
+message_0:
+      text: Šmankote, tady to smrdí přímo otřesně!\!<br>Jak dlouho to ještě bude trvat?<br>Mám celkem citlivý nos, víte?!\swh
+
+#MEDÚZA turns to SWEETHEART.
+
+message_1:
+      text: Na ten pach si zvykneš.\! Teď pšt, panenko, pracuju.\n<MEDÚZA>
+
+#MEDÚZA turns back around.
+
+message_2:
+      text: A je hotovo.\n<MEDÚZA>
+
+#Fluid flows from table chemicals to test tube.
+
+message_3:
+      text: Uff... no sláva!\swh
+
+#SWEETHEART gets up and pokes the glass.
+
+message_4:
+      text: Ahoj, moje dokonalá partnerko!\! Vstáváme!\swh #má to přece být kopie zlatíčka
+
+#MEDÚZA slaps SWEETHEART out of the way.
+#SWEETHEART is surprised.
+
+message_5:
+      text: Nesahej na sklo, ty hňupe! Celé to zkazíš!\n<MEDÚZA>
+
+message_6:
+      text: \quake[1]\{\Com[2]NO...\! \Com[2]TO BYCH...\! \Com[2] NEUDĚLALA! NIKDY!\swh #nejistota
+
+#The test tube starts to bubble. SWEETHEART and MEDÚZA look at the test tube. The test tube starts going and the screen turns white. The test tube is broken and fluid has become gold.
+
+message_7:
+      text: C-Co se stalo?\swh
+
+#PERFECTHEART descends from the top of the screen and lands in front of MEDÚZA and SWEETHEART.
+
+message_8:
+      text: Nemám slov...\! Tento experiment vyšel lépe, než jsem čekala.\! Pohleď, panenko.\n<MEDÚZA> #blíže orig
+
+message_9:
+      text: Výsledek je naprosto dokonalý.\! Hle!\! Perfektní verze tebe samotné!\n<MEDÚZA> #pointa tady je, že to není "perfektní kopie zlatíčka", ale "perfektní forma zlatíčka"
+
+#SWEETHEART examines PERFECTHEART.
+#PERFECTHEART follows SWEETHEART's movements.
+
+message_10:
+      text: Hmmm...\! Nelíbí se mi.\swh
+
+message_11:
+      text: Cože? Slyším tohle správně?\!<br>Vždyť je všechno, cos chtěla, a ještě o něco víc!\n<MEDÚZA> #nepřátelštější
+
+message_12:
+      text: Ach, ty prosťáčku.\! Není nic dokonalejšího, než já...<br>což ty zjevně nechápeš.\swh
+
+message_13:
+      text: Jsi jenom obyčejný křupan.\!<br>Tohle byla jenom obrovská ztráta času!<br>\!No nic, já le-\swh
+
+message_14:
+      text: \Com[2]Už mám dost těch tvých keců!<br>Zákazník nezákazník, už mi fakt lezeš na nervy!\!<br>Kdo tě naučil si takhle pouštět hubu na špacýr?\n<MEDÚZA>
+
+message_15:
+      text: A teď... mě omluvte, neboť tohle je jenom obrovská ztráta mé energie...\! Mám o dost důležitější věci na práci.\n<MEDÚZA>
+
+#MEDÚZA walks off.
+
+message_16:
+      text: Ne že odejdeš jako první!\! <br>Já se přece měla urazit a odejít jako první!\swh #to uražení nebylo v originálu, ale je to tak dobré, že to tady absolutně musím nechat
+
+
+# =========================================================================================
+# Cutscene: It lives! (Marina)
+# =========================================================================================
+
+#Trigger: Enter proximity of Marina's Balcony.
+
+#SWEETHEART is nervous.
+#MARINA is moving around checking different gadgets.
+
+message_30:
+      text: No fuj, smrdí to tady jako žumpa...\! <br>Co že tady vlastně provádíš?\swh #přiroz, tady bohužel nic lepšího nesedí
+
+message_31:
+      text: Po tom vám nic není, paní.<br>Jen si sedněte stranou a odpočiňte si!\n<MARINA> #vykání, přiroz
+
+message_32:
+      text: Ble...\! Začíná mi být blbě...\swh #přiroz
+
+#MARINA performs surgery on a slanted panel.
+
+message_33:
+      text: No...\! Ups...\! Jejda...\n<MARINA>
+
+message_34:
+      text: ...\n<MARINA>
+
+message_35:
+      text: Hm...\! To by snad mělo stačit...\n<MARINA>
+
+message_36:
+      text: Tak, hotovo.\! Tady ho máte, paní... <br>Jeden dokonalý partner... už se nese.\n<MARINA>
+
+#Slanted panel turns over.
+
+message_37:
+      text: Prohoď pár slov se svou novou životní lásku!\n<MARINA> #přiroz
+
+message_38:
+      text: \}A...\!Ajoj...\n<MUTANTÍČKO>
+
+#SWEETHEART turns to MARINA.
+#SWEETHEART is frustrated.
+
+message_39:
+      text: Má tohle být nějaký blbý vtip?!\! Za koho mě máte?\! <br>Vždyť já jsem snad stokrát, co, TISÍCKRÁT krásnější, <br>než tahle... odpornost!\swh #přiroz
+
+#SWEETHEART turns to MUTANTHEART.
+
+message_40:
+      text: Velice jste mě zklamala!\! \Com[2]No nic, já letím!\swh
+
+#SWEETHEART storms off.
+#MARINA steps forward.
+
+message_41:
+      text: \{HELE, CO TO SAKRA DĚLÁTE?!\!\}<br>Nemůžete se jen tak sebrat a odejít, paní!\n<MARINA>
+
+message_42:
+      text: \quake[1]\{\{KDE JSOU MOJE PENÍZE!?!?\n<MARINA>
+
+# =========================================================================================
+# Cutscene: She's perfect! (Molly)
+# =========================================================================================
+
+#Trigger: Enter proximity of Molly's Balcony.
+#MOLLY types and presses buttons.
+#SWEETHEART is frustrated.
+
+message_53:
+      text: Jak dlouho to ještě bude trvat? Nemám na tohle celý den!\swh #blíže orig
+
+#MOLLY turns to SWEETHEART.
+
+message_54:
+      text: Má práce vyžaduje trpělivost...\! Tiše, miláčku! Musím se soustředit.\n<MOLLY>
+
+#MOLLY turns back around. MOLLY types and presses buttons.
+
+message_55:
+      text: A co teď?\swh
+
+message_56:
+      text: Skoro hotovo, miláčku.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+message_57:
+      text: A je to.\! Konečně...\n<MOLLY>
+
+#MOLLY's contraption starts shaking.
+#Electrical sparks fly around.
+
+message_58:
+      text: \{\sinv[1]MŮJ NEJVĚTŠÍ VYNÁLEZ JE HOTOV!!\n<MOLLY>
+
+#ROBOHEART walks out.
+
+message_59:
+      text: A teď mluv!\! Mluv, můj nádherný robote!\n<MOLLY>
+
+message_60:
+      text: V2hhdCBpcyB0aGlzIGZlZWxpbmcgSSBoYXZlIG5ldmVyIGZlbHQg<br>YmVmb3JlPyBJIGZlZWwgYWxsIHdhcm0gYW5kIGZ1enp5IGluc2<br>lkZSEgSSB3YW50IGEgaHVnISBQbGVhc2UgaHVnIG1lISBJIGFtI<br>GluIG5lZWQgb2YgYWZmZWN0aW9uIGFuZCBsb3ZlISA=\n<ROBOHEART>
+
+message_61:
+      text: ... ... ... \n<MOLLY>
+
+message_62:
+      text: Jejda...\! To nezní moc dobře.\! <br>Něco se muselo pokazit v kódu.\n<MOLLY>
+
+#MOLLY turns to SWEETHEART.
+
+message_63:
+      text: To protože jste na mě tak naléhala!\! <br>A proto ho místo milování přeprogramuju... \!\quake[1]na zabíjení!\n<MOLLY>
+
+message_64:
+      text: Tm8sIHBsZWFzZSEgVGhpcyBpcyBhIG1pc3VuZGVyc3RhbmRpbm<br>chIEkganVzdCB3YW50IHRvIGJlIHlvdXIgZnJpZW5kISBPciBtYX<br>liZSBtb3JlIQ==\n<ROBOHEART>
+
+message_65:
+      text: Ts!\! Tohle není moje chyba, je to přece váš robot, ne?!\swh
+
+message_66:
+      text: A kvůli vám se mi teď roztříštila jakákoliv naděje, že bych někdy mohla poznat pravou lásku!\swh
+
+message_67:
+      text: Velice jste mě zklamala!\! <br>\{NO NIC, JÁ LETÍM!!!\swh
+
+#SWEETHEART storms off.
+#MOLLY turns to follow SWEETHEART.
+
+message_68:
+      text: Ach jo, ta je ale něco.\n<MOLLY>
+
+#MOLLY goes back to her computer.
+
+message_69:
+      text: No, alespoň už se s ní nemusím zlobit.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+message_70:
+      text: SSBhbSBzbyBsb25lbHkgaGVyZS4uLiBJIG11c3QgdmVudHVy<br>ZSBzb21ld2hlcmUgZWxzZSB0byBmaW5kIG15IHNvdWxtYXRlIGF<br>uZCBsaXZlIGhhcHBpbHkgZXZlciBhZnRlciEgV29vc2gh\n<ROBOHEART>
+
+#ROBOHEART flies off.
+#MOLLY types and presses buttons.
+
+message_71:
+      text: A! Málem bych zapomněla!\! Tamta holka... mi přece dluží, nezaplatila!\! <br>Musím ji chytnout dříve, než uteče.\n<MOLLY>
+
+#MOLLY types and presses buttons.
+
+
+# =========================================================================================
+# Cutscene: Roboheart's Sad End
+# =========================================================================================
+
+#Trigger: Enter proximity of Roboheart.
+
+message_80:
+      text: V293LCB5b3UgYXJlIHJlYWxseSBoYW5kc29tZS4=\n<ROBOHEART>
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Dávejte bacha kolem toho robota!\! Vždyť je to stroj na vraždění!\her
+
+#ROBOHEART walks forward.
+
+message_82:
+      text: V2lsbCB5b3UgbG92ZSBtZT8=\n<ROBOHEART>
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{DRŽ SE OD NÁS DÁL, ROBOTE!!\aub
+
+message_84:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Musíme ho zastavit dříve, než někoho zabije!\! <br>Tohle je tvůj konec, vražedný robote!\kel
+
+
+# =========================================================================================
+# Cutscene: Roboheart's Sad End (Cont.)
+# =========================================================================================
+
+#Trigger: Defeat Roboheart.
+
+
+message_100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Fuj... Tak to bylo o fous.\aub
+
+message_101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Ještě že nikomu nestihl ublížit...\!<br>a nebo ještě hůř...\! někoho zabít...\kel
+
+# =========================================================================================
+# Humphrey
+# =========================================================================================
+
+#Trigger: Finish all Slime Girls Dungeons
+
+message_110:
+      text: \n<BENDA>Hmm...\. Ale, ale, co je to tady za povyk?\!<br>Tam dole se musí dít ale srandy!
+
+#Talk to Humphrey Elevator (No Keycard)
+
+message_111:
+      text: \n<BENDA>Ahoj, já jsem BENDA! Vaše vstupenka do \c[11]BENDY\c[0] neboli \c[11]DOUPĚTE SLIZÍCH HOLEK\c[0].\! Stručně řečeno, vy lidé byste mě asi nazvali \"výtahem\".<br>Bohužel nedokážeme obsluhovat více lidí najednou, a tak budete muset počkat, než budete na řadě.<br><br>I když...\! pokud mi najdete \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0], možná by mi nedělalo problém pro jednou udělat výjimku...\! \quake[1]Ňak, ňak!\quake[0] #blíže orig, přiroz
+
+#Get Keycard
+
+message_112:
+      text: Získal jsi \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0]!

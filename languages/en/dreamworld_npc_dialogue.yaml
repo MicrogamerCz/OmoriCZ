@@ -1,0 +1,156 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============WHITE SPACE / Neighbors Room ========================================
+                        #====NIGHT 1-1====
+
+#Black Cat
+#Location: White Space, asleep
+message_0:
+      text: Černá kočka tvrdě spí.
+
+#EYE in the shelf
+#Location: Neighbors room, inthe shelf
+message_1:
+      text: Máš pocit, jakoby tě něco sledovalo.
+
+#SNAKE
+#Location: Neighbor's Room, on the staircase
+message_2:
+      text: \sinv[1]Sssssssssssss?\sinv[0]\! (Čekáš snad na něco?)
+
+# ==============FOREST PLAYGROUND========================================
+                        #====NIGHT 1-1====
+
+#Bangs
+#Location: Forest Playground #CO JE TOHLE ZA CAPINU? PROČ JE TADY ZASE PROSTĚ HORA DUPLIKÁTNÍHO DIALOGU? 
+message_10:
+      text: \banBavit se je moc pracné, tak se raději dívám na to, jak se baví moji kamarádi.
+
+#Bun
+#Location: Forest Playground
+message_11:
+      text: \bunNOSKA je moje nejlepší kamarádka.\!<br>Moc toho nenamluví, ale je fakt chytrá! #oprava rodu, hned se i vracím do původního souboru a opravuju i tam
+
+message_12:
+      text: \daiProsím, nešlapejte tady...\!<br>Trhám tady kytičky \}pro někoho, koho si vážím...
+
+message_13:
+      text: \daiTrhám tady kytičky \}pro někoho, koho si vážím... \!Snad se mu budou líbit...
+
+#After Headbutt Quest
+message_14:
+      text: \berNo tak, VANE! Používej hlavu!
+
+message_15:
+      text: \n<OBČA>\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!
+
+message_16:
+      text: \hapHop! \}A-\{Hop! \}A-\{Hop! Hop! Hop!
+
+# ==============HEADBUTT=======================================
+
+message_20:
+      text: \berHej, hoši! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
+
+message_21:
+      text: \n<VAN>To teda.
+
+message_22:
+      text: \berPřemýšlela jsem nad tím...\! že když jste byli tak hodní a pomohli mi...\! Tak bych vás za to mohla naučit moji speciální \c[1]DOVEDNOST\c[0]!
+
+message_23:
+      text: \berAle nejprve na vás mám otázku...\!<br>Kdo z vás má nejtvrdší hlavu?
+
+message_24:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \kelTs, \Com[2]\{co je to za otázku!\} Kdo jiný než AUBRY!
+
+message_25:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub\Com[2]\{COS TO ŘEKL!?
+
+message_26:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \kelNo tak, uklidni se!\! Já to \SINV[1]zas tak vážně\SINV[0] nemyslel...\! jo?
+
+message_27:
+      text: \berTeda.\! Za mě to sedí!
+
+message_28:
+      text: \berTakže AUBRY, naučím tě novou \c[1]DOVEDNOST\c[0], jen pro lidi tvrdohlavé, jako jsme my.
+
+message_29:
+      text: \berJe to můj nejleší kousek... \c[1]HLAVIČKA\c[0]! \!<br>Nic moc na tom není. \!Prostě k někomu naběhneš a...
+
+message_30:
+      text: \QUAKE[1]\Com[2]\{PR\{\Com[2]ÁÁÁ\{ÁÁÁ\{\Com[2]SSKKK!!!\QUAKE[0]\ber
+
+message_31:
+      text: \berTeď to zkus ty.
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubA nebolí to?...\!<br>A nezkazí mi to vlasy?\!<br>A co mašli?
+
+message_33:
+      text: \berAle no tak, AUBRY! Trochu života do toho!\!<br>Mít rozcuchané vlasy není žádná ostuda.\!<br>Jen si vem HERA za příklad.
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \herNo to teda!
+
+message_35:
+      text: \berTak proč to nezkusíš?
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: \aubHm!\! Tak dobře...
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubAle když už to zkouším... \!Tak naplno!
+
+message_38:
+      text: \ber\QUAKE[1]\Com[2]\{PR\{\Com[2]ÁÁÁ\{ÁÁÁ\{\Com[2]SSSSSSKKKKKKK!!!\QUAKE[0]
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubAuuu...
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\SINV[1]Točí se... \!mi hlava...\SINV[0]
+
+message_41:
+      text: \ber\Com[2]\{TY BRĎO! SKVĚLE, AUBRY!!\}\!<br>Věděla jsem, že budeš talent.
+
+message_42:
+      text: \ber\{\SINV[1]GRATULUJU!!\SINV[0]\}\!<br>Prošla jsi s plným počtem bodů!
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\SINV[1]...Cože?\! Co se stalo?\SINV[0]
+
+message_44:
+      text: \berA teď...\!<br>tě pasuju na opravdového TVRDOHLAVCE.
+
+message_45:
+      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe jistě budou pyšní!
+
+message_46:
+      text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
+
+message_47:
+      text: Získal jsi \c[4]TVRDOHLAVÝ DIPLOM\c[0].

@@ -1,0 +1,67 @@
+
+# =========================================================================================
+# Sidequest: Medication
+# =========================================================================================
+
+message_1:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Omluvte mě...\! Nerada vás ruším, ale vypadáte dost spolehlivě.\! Myslíte, že byste mi mohli s něčím pomoci?
+
+message_2:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Potřebovala bych v \c[11]LÉKÁRNĚ\c[0] vyzvednout nějaké léky, co mám na předpis, ale cítím se teď trochu slabá.\! Normálně bych řekla mé dceři ŠÁŘE, ale zrovna není doma.
+
+message_3:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Byli byste tak hodní a došli mi pro ně?
+
+#yes/no
+
+#if yes
+
+message_6:
+      text: Získal jsi \c[4]PŘEDPIS\c[0] a \c[4]OBČANSKÝ PRŮKAZ\c[0].
+
+message_8:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Děkuji.\! Tohle jim v \c[11]LÉKÁRNĚ\c[0] ukažte.\! Oni už budou vědět.
+
+#Talk to LÉKÁRNÍK
+
+message_9:
+      text: \n<LÉKÁRNÍK>Hmm...\! Dobrý den!\! Jak vám mohu pomoci?
+
+message_10:
+      text: Dal jsi LÉKÁRNÍKOVI \c[4]PŘEDPIS\c[0] a \c[4]OBČANKU\c[0].
+
+message_11:
+      text: \n<LÉKÁRNÍK>Tak vy jste tady pro léky na předpis?
+
+message_12:
+      text: \n<LÉKÁRNÍK>...\! Á, vím, koho myslíte! Hned vám je přinesu.
+
+message_13:
+      text: Získal jsi \c[4]LÉKY PRO BABIČKU\c[0].
+
+message_14:
+      text: Získal jsi \c[4]OBČANSKÝ PRŮKAZ\c[0].
+
+message_15:
+      text: \n<LÉKÁRNÍK>Dcera pro ně dneska přijít nemohla?
+
+message_16:
+      text: \n<LÉKÁRNÍK>Běžně bych tyhle léky neměl takto vydávat...\! ale s tím, že už by sem sama nedošla, hodlám udělat výjimku.
+
+message_17:
+      text: \n<LÉKÁRNÍK>Díky, že jste to za ni vyzvedli.\! Mějte se!
+
+message_18:
+      text: \n<LÉKÁRNÍK>A kdybyste někdy potřebovali \c[5]OBVAZ\c[0] nebo \c[5]LÉKÁRNIČKU\c[0], rád vám je prodám.
+
+message_20:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ó, vy už jste zpátky!
+
+message_21:
+      text: Dal jsi BABIČCE \c[4]LÉKY\c[0] a \c[4]OBČANSKÝ PRŮKAZ\c[0].
+
+message_22:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Omluvte mě...\!<br>Díky vám moc.\! Byli jste velmi nápomocní!\!<br>Ráda vidím takové milé ochotné mladíky.
+
+message_23:
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Klidně kdykoliv zajděte na bábovku, nebo šálek čaje. Ráda vás uvidím.

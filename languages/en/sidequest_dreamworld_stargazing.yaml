@@ -1,0 +1,34 @@
+
+# =========================================================================================
+# STARGAZING
+# ========================================================================================
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelJé, paní! Vy jste ale vysoká...
+
+message_2:
+    text: \n<PO>Díky, mladíku!\!<br>Spíš mi to ale ztěžuje život... <br>Alespoň mám o dost lepší výhled na hvěždy. #menší předělávka
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel\Com[2]Cože? Výška přece nic nemůže ztěžovat!\!<br>Všecko je lepší, když je člověk vysoký. #hovorovější a plynulejší
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelJednoho dne budu tak vysoký jako vy! #přirozenější
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubJo jasně, \n[3]. Jen si sni, já ti to kazit nebudu...
+
+# =========================================================================================
+# PO - DEFAULT
+# =========================================================================================
+
+message_6:
+    text: \n<PO>Při pohledu na hvězdy ti připadá všechno na Zemi tak maličké. #menší předělávka

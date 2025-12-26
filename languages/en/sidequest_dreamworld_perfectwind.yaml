@@ -1,0 +1,36 @@
+
+# =========================================================================================
+# PERFECT WIND
+# ========================================================================================
+
+message_0:
+    text: Kluk soustředěně hledí na svého draka.\!<br>Vyrušíš ho?
+
+message_1:
+    text: \kitJsem jen kluk se svým drakem.\! <br>Možná to tak na první pohled nevypadá, ale máme nepřekonatelné pouto.\!<br>To ale každý jen tak nepochopí...
+
+message_2:
+    text: \kitUkážeme ti, jak jsme silní, když bojujeme společně!
+
+message_3:
+    text: \kitAch... Já to věděl.\! Bez ideálních povětrnostních podmínek nedokážeme dosáhnout maxima.
+
+# KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
+
+message_4:
+    text: \kitVítr mi dnes připadá nějaký slabý...\!<br>Možná, že je něco s jedním z těch větrníků.
+
+# KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
+
+message_5:
+    text: \kitMožná jsme spolu mohli jít lítat jinam...
+
+# TAG DIALOGUE
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelCože?\! Jak se tam k sakru dostal?
+
+message_7:
+    text: Zdá se, že tento větrník nefunguje.\!<br>Kdyby na něj tak někdo něco hodil...

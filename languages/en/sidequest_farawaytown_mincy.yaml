@@ -1,0 +1,338 @@
+
+# =========================================================================================
+# Sidequest: Company 1
+# =========================================================================================
+
+#Talk to MINCY
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kel\com[2]Ty jo! To je úžasnej skeč parku!
+
+message_2:
+      text: \who\Com[2]Á!\! A-Ahojky.\!<br>Děkuji... \!Jen si to procvičuju...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelProcvičuješ?!\! Vždyť to vypadá tak... opravdově...\!<br>Vsadil bych se, že by ti za tohle byl někdo schopný zaplatit!\!<br>Nemyslíš, SUNNY?
+
+#[Nod/Shake]
+#[Nod]
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelVidíš?\! I SUNNY se mnou souhlasí!
+#[Shake]
+message_5:
+      text: \who...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kelAch, SUNNY! Ty seš takovej vtipálek!\! Neřeš ho, jen si z tebe utahuje.\!<br>Kreslíš fakt úžasně.
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 24 #insert number here
+      text: \kelSakra, já to od tebe klidně koupim.\!<br>Hej, SUNNY, půjčil bys mi $20,00?
+
+message_8:
+      text: \whoHaha...\! Díky...\! To je od tebe fakt pěkný, ale není na prodej.\!<br>J-Je pro mé portfolio...\! Příští rok bych se chtěla zkusit dostat na umělku...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelNo sakra. Holt smůla, no...\!<br>Víš, jak dobře by vypadal na zdi u mě v pokoji?
+
+message_10:
+      text: \minTo vážně?\!<br>Já se jmenuju MINCY. Jak ty?
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelJá jsem KEL a tohle je SUNNY.
+
+message_12:
+      text: \minAhoj, KELI a SUNNY.\! Ráda vás oba poznávám.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelMy tě taky rádi poznáváme, MINCY!
+
+message_14:
+      text: \min...\! Uff...
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelCože? Děje se něco?
+
+message_16:
+      text: \minAle to nic...\! Jen, že jsi první člověk, který mi kdy pochválil nějaký obrázek...
+
+message_17:
+      text: \minObčas se cítím špatně a začnu v sebe pochybovat, a pak pomalu nenakreslím rovnou čáru...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelNekecej! Tomu se mi nechce věřit!\!<br>Já si vážně myslím, že umíš kreslit skvěle.\!<br>Tohle bych já nenakreslil ani za milion let!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelNebuď na sebe tak tvrdá, MINCY!\! My ti se SUNNYM věříme!
+
+message_20:
+      text: \minUff...\! A-Ano!\! Máte pravdu!\!<br>Musím ze sebe ty pochyby setřást!\!<br>Já...\! Se zkusím hecnout a dokreslit to už teď!
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTak to má vypadat!\!<br>Měj se, MINCY. Máš to v kapse!
+
+# COMPANY 2
+#Talk to Mincy, part 2
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelAhoj, MINCY! Co kreslíš dneska?
+
+message_23:
+      text: \minAhoj... umm...\! KELI!\! ...\! a SUNNY, že jo?\! Promiň, na jména mám hroznou paměť.\! Já jen...\! snažím se kreslit ovoce...\! ale nějak mi to nejde...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelAle jde!\!<br>No, já moc ovoce nemusím, ale tohle bych klidně snědl!\!<br>Ty snad ne, SUNNY? 
+
+#[Nod/Shake]
+#[Nod]
+#no extra dialogue
+#[Shake]
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kelAle jasně, že jo!\! Nedělej, SUNNY!
+#-------------
+
+message_26:
+      text: \minHehe... To vážně?\! Díky.
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelNemáš zač, MINCY.\!<br>Pokračuj, jsi skvělá!
+
+# COMPANY 3
+# Talk to Mincy, part 3
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelAhoj, MINCY! Jak se daří tvému veledílu?
+
+message_29:
+      text: \minKELI!\! SUNNY!\! Ráda vás dva zase vidím.\! Jde to dobře...\!<br>Tentokrát zase kreslím různé druhy \c[3]BONBÓNŮ\c[0].
+
+message_30:
+      text: \minVypadají všechny tak chutně.\! Myslím, že se dnešní den se neobejde bez výletu do HUBERTA.
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelTvoje obrázky vypadají fakt skvěle!\!<br>Měla bys je ukázat majitelce, PANÍ CANDICE.\!<br>Určitě by to ocenila.
+
+message_32:
+      text: \minVážně?\! Já vám nevím...\! měla bych?
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelJo, určitě!\! Viď, SUNNY?
+
+  #[Nod/Shake]
+  #[Nod]
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 24 #insert number here
+      text: \kelHm, hm... Správně, SUNNY. Souhlasím!
+  #[Shake]
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kelNo tak, nalij si čistého vína, SUNNY!
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelMINCY, určitě bys jí ho měla ukázat...\! a jestli ne ty, tak se toho ujmu já!
+
+message_37:
+      text: \min\Com[2]Ale ne!\! P-prosím, hlavně to ne!
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelPche, to bych ti neudělal...\!<br>Ale za mě stojí za to ho alespoň dodělat.
+
+message_39:
+      text: \minTak dobře...\! Jdu na to...
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelJen tak dál! Máš na to, MINCY!
+
+#COMPANY 4
+#Speak to Mincy, part 4
+
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelKdo by to byl řek?<br>Ta MINCY nám už zase něco kreslí!
+
+message_42:
+      text: \minAhoj, kluci. Jak se máte?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelAhoj, MINCY!\!<br>Ale, nic extra... Jen jsme venku, jako obvykle.\!<br>Koukám, že dneska kreslíš kytky!
+
+message_44:
+      text: \minAno! Snažím se od každého druhu nakreslit jednu, však víte, kolik jich je...
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelÚžasná práce jako vždycky, MINCY!\! Měla bys vědět, že jsem tvůj největší fanoušek!\! A SUNNY je tvůj druhý největší fanoušek!\! myslím.\!<br>Ty to zvládneš MINCY! Držíme ti palce!
+
+message_46:
+      text: \minAno! Zvládnu!\! Díky, KELI!\! Díky, SUNNY!
+
+#COMPANY 5
+#Speak to Mincy, part 5
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelKohopak to tady máme!\!<br>Ty si nedáš pokoj, viď, MINCY!
+
+message_48:
+      text: \minAsi nedám! Haha!\! Celkem jsem se rozjela, v tom to vězí...\!<br>Snažím se ze sebe dostat maximum, dokud to ještě jde...
+
+message_49:
+      text: \minTentokrát kreslím vitráže.\! Hrozně se mi líbí, jak světlem obarví všechno kolem...
+
+message_50:
+      text: \minJedna z nich je ale trochu mimo.\!<br>V čem to tak vězí?...
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kelA, já vím proč!\! Vzpomínám si na to, jak je tady měnili. Chodíval jsem tu, když jsem byl menší.
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 25 #insert number here
+      text: \kelNo...\! Já...\! slyšel, že ho vysklil nějaký prcek basketbalovým míčem.\!<br>\}Safra, měl jsem mířit líp...
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kelNo...\! T-Teda...\! To mluvím o něm!\!<br>Ne o sobě...\! Ha, ha...
+
+message_54:
+      text: \minHehe...\! Lhaní ti moc nejde, KELI.\!<br>Neboj. Já to na tebe neprásknu.\!<br>Svého největšího fanouška bych nikdy nebonzla!
+
+message_55:
+      text: \minCelkem se mi i takhle líbí...<br>\!Hned je to tady o něco výjimečnější.
+
+message_56:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelHaha...\! To teda...
+
+# COMPANY 6
+# Speak to Mincy, part 6
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kelZase v parku, MINCY?\!<br>Copak kreslíš tentokrát?
+
+message_58:
+      text: \minAhoj, KELI a SUNNY!\! Tentokrát nekreslím nic...\!<br>Jen jsem si sem přišla sednout a užít si vánek...
+
+message_59:
+      faceset: MainCharacters_Faraway
+      faceindex: 12 #insert number here
+      text: \kelTak to má být! Kreslilas přece celý víkend.\! Měla by sis dávat čas od času voraz!
+
+message_60:
+      text: \minJ-Jo...\! Pořád jsem ale docela nervózní.\! Doufám, že mi to portfolio vystačí na to, aby mě vzali...
+
+message_61:
+      text: \minVždycky jsem chtěla kreslit... ale občas si sama stojím v cestě...
+
+message_62:
+      text: \minDíky za všechno, co jste pro mě za poslední dny udělali.\!<br>Opravdu jsem to potřebovala. Jste zlatí.
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 16 #insert number here
+      text: \kelCože?\! Co jsme udělali?
+
+message_64:
+      text: \minHaha...\! Né, nic, ale, jen...\! že...\! jste mě prostě povzbudili a tak.\! Občas potřebuju trochu postrčit...
+
+message_65:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHmm...
+
+message_66:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelJsem rád, že jsem ti mohl aspoň nějak pomoct!
+
+message_67:
+      text: \minHaha...\! Nečekala jsem to od vás...\! což nemyslím zle, nebojte.\!<br>A... \!Tohle jsem... nakreslila pro vás.\!<br>Není to nic extra, ale snad se vám bude líbit...
+
+message_68:
+      text: Získal jsi \c[4]MALOU SKICU\c[0].
+
+message_69:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel\Com[2]Vážně! Tos opravdu nakreslila pro nás?!\! Ty jo, to je ale super!\!<br>Vždyť tom obrázku vypadám líp, než doopravdy!
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kelDíky moc, MINCY!\!<br>Tví dva největší fanoušci jsou na tebe oba moc pyšní!
+
+message_71:
+      text: \minNemáte zač...\! Vy jste opravdu dvojka...\! Jak by tady bylo krásně, kdybychom každý měli kamarády, jako jste vy...
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kelTy jo...\! To je ta nejhezčí věc, co nám kdy kdo řekl...<br>Viď, SUNNY?
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kelSnad se na tu umělku dostaneš, MINCY!\!<br>A až z tebe bude hvězda, nezapomeň na nás!
+
+message_74:
+      text: \minHaha...\! O tom není pochyby...\!<br>Rozhodně na vás nezapomenu.\! Nikdy...
+
+message_75:
+      text: \minDíky za to, jak jste mi tenhle víkend pomohli.\! Rozhodně na vás nezapomenu.\! Nikdy...
