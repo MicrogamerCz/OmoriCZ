@@ -5,6 +5,9 @@
         <Nullable>enable</Nullable>
         <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
         <ApplicationManifest>app.manifest</ApplicationManifest>
+        <EnableWindowsTargeting>true</EnableWindowsTargeting>
+        <Configurations>Debug;Release;Release-Win64;Release-Lin64;Release-OSX_arm64</Configurations>
+        <Platforms>AnyCPU</Platforms>
         <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
     </PropertyGroup>
     
@@ -17,22 +20,36 @@
     <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('OSX')) ">
         <DefineConstants>MACBUILD</DefineConstants>
     </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release-Win64' ">
+      <DefineConstants>WINBUILD</DefineConstants>
+      <Optimize>true</Optimize>
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+      <PlatformTarget>x64</PlatformTarget>
+      <DebugType>none</DebugType>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release-Lin64' ">
+      <DefineConstants>LINUXBUILD</DefineConstants>
+      <Optimize>true</Optimize>
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+      <PlatformTarget>x64</PlatformTarget>
+      <DebugType>none</DebugType>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release-OSX_arm64' ">
+      <DefineConstants>OSXBUILD</DefineConstants>
+      <Optimize>true</Optimize>
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+      <PlatformTarget>ARM64</PlatformTarget>
+      <DebugType>none</DebugType>
+    </PropertyGroup>
 
     <ItemGroup>
-        <Folder Include="Models\"/>
         <AvaloniaResource Include="Assets\**"/>
     </ItemGroup>
 
     <ItemGroup>
         <PackageReference Include="Avalonia" Version="11.3.6"/>
         <PackageReference Include="Avalonia.Desktop" Version="11.3.6"/>
-        <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.6"/>
-        <PackageReference Include="Avalonia.Fonts.Inter" Version="11.3.6"/>
         <!--Condition below is needed to remove Avalonia.Diagnostics package from build output in Release configuration.-->
-        <PackageReference Include="Avalonia.Diagnostics" Version="11.3.6">
-            <IncludeAssets Condition="'$(Configuration)' != 'Debug'">None</IncludeAssets>
-            <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
-        </PackageReference>
-        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1"/>
+        <PackageReference Include="Gameloop.Vdf" Version="0.6.2" />
     </ItemGroup>
 </Project>

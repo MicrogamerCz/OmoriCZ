@@ -9,14 +9,24 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Release-Win64|Any CPU = Release-Win64|Any CPU
+		Release-Lin64|Any CPU = Release-Lin64|Any CPU
+		Release-OSX_arm64|Any CPU = Release-OSX_arm64|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-Win64|Any CPU.ActiveCfg = Release-Win64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-Win64|Any CPU.Build.0 = Release-Win64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-Win64|Any CPU.Deploy.0 = Release-Win64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Debug|Any CPU.ActiveCfg = Release-Lin64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Debug|Any CPU.Build.0 = Release-Lin64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-Lin64|Any CPU.ActiveCfg = Release-Lin64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-Lin64|Any CPU.Build.0 = Release-Lin64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-OSX_arm64|Any CPU.ActiveCfg = Release-OSX_arm64|Any CPU
+		{03024C39-3F7A-4EAD-AD8C-8E07E12D1ECF}.Release-OSX_arm64|Any CPU.Build.0 = Release-OSX_arm64|Any CPU
 	EndGlobalSection
 EndGlobal

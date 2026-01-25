@@ -1,14 +1,80 @@
-<Application xmlns="https://github.com/avaloniaui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             x:Class="Omopatch.App"
-             RequestedThemeVariant="Default">
-             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
-  
-    <Application.Styles>
-        <FluentTheme />
-    </Application.Styles>
-             
+<Application
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    x:Class="Omopatch.App"
+    RequestedThemeVariant="Dark">
+
     <Application.Resources>
-     <FontFamily x:Key="OmoriFontCz">avares://Omopatch/Assets/OMORI_GAME1.ttf#OMORI_GAME2</FontFamily>
+        <FontFamily
+            x:Key="OmoriFontCz"
+        >avares://Omopatch/Assets/OMORI_GAME2.ttf#OMORI_GAME</FontFamily>
+        <FontFamily
+            x:Key="OmoriRadio"
+        >avares://Omopatch/Assets/radio_on.png</FontFamily>
+
+        <ControlTheme x:Key="{x:Type Button}" TargetType="Button">
+            <Setter Property="FontFamily" Value="{StaticResource OmoriFontCz}"/>
+            <Setter Property="Foreground" Value="Black" />
+        </ControlTheme>
+        <ControlTheme x:Key="{x:Type TextBlock}" TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="{StaticResource OmoriFontCz}"/>
+        </ControlTheme>
+
+        <ControlTheme x:Key="{x:Type RadioButton}" TargetType="RadioButton">
+            <Setter Property="Foreground" Value="White" />
+            <Setter
+                Property="FontFamily"
+                Value="{StaticResource OmoriFontCz}"
+            />
+            <Setter Property="FontSize" Value="24" />
+
+            <Setter Property="Template">
+                <ControlTemplate>
+                    <Grid ColumnDefinitions="Auto,Auto" ClipToBounds="False">
+                        <Image
+                            Opacity="{TemplateBinding IsChecked}"
+                            Width="58" Height="30"
+                            Source="avares://Omopatch/Assets/radio_on.png"
+                            RenderTransformOrigin="0.5,0.5"
+                            RenderOptions.BitmapInterpolationMode="None">
+                            <Image.RenderTransform>
+                                <TranslateTransform X="0" Y="0"/>
+                            </Image.RenderTransform>
+                            <Image.Styles>
+                                <Style Selector="Image">
+                                    <Style.Animations>
+                                        <Animation Duration="0:0:0.75" IterationCount="INFINITE">
+                                            <KeyFrame Cue="0%">
+                                                <Setter Property="TranslateTransform.X" Value="0"/>
+                                            </KeyFrame>
+                                            <KeyFrame Cue="30%">
+                                                <Setter Property="TranslateTransform.X" Value="-10"/>
+                                            </KeyFrame>
+                                            <KeyFrame Cue="50%">
+                                                <Setter Property="TranslateTransform.X" Value="-10"/>
+                                            </KeyFrame>
+                                            <KeyFrame Cue="80%">
+                                                <Setter Property="TranslateTransform.X" Value="0"/>
+                                            </KeyFrame>
+                                        </Animation>
+                                    </Style.Animations>
+                                </Style>
+                            </Image.Styles>
+                        </Image>
+
+                        <ContentPresenter
+                            Grid.Column="1"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Left"
+                            Margin="4,0,0,0"
+                            RecognizesAccessKey="True"
+                            Content="{TemplateBinding Content}"
+                            ContentTemplate="{TemplateBinding ContentTemplate}"
+                        />
+                    </Grid>
+                </ControlTemplate>
+            </Setter>
+        </ControlTheme>
+
     </Application.Resources>
 </Application>

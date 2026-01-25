@@ -1,30 +1,70 @@
 <Window xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:vm="using:Omopatch.ViewModels"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        xmlns:c="clr-namespace:Omopatch.Controls"
+        Height="420" Width="800" CanResize="False"
         x:Class="Omopatch.Views.MainWindow"
-        x:DataType="vm:MainWindowViewModel"
-        Icon="/Assets/avalonia-logo.ico"
-        Title="Omopatch">
+        Icon="/Assets/omori.png"
+        SystemDecorations="None" WindowState="Normal"
+        x:Name="root"
+        Title="Omopatch" Background="White">
 
-    <Design.DataContext>
-        <!-- This only sets the DataContext for the previewer in an IDE,
-             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
-        <vm:MainWindowViewModel/>
-    </Design.DataContext>
-
-    <Grid RowSpacing="25">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto" />
-            <RowDefinition Height="Auto" />
-            <RowDefinition Height="Auto" />
-        </Grid.RowDefinitions>
-        
-        <TextBlock FontSize="36" FontFamily="{StaticResource OmoriFontCz}"  Text="INSTALACE ČESKÉ LOKALIZACE OMORI" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <TextBox Grid.Row="1" Watermark="Instalační cesta" Text="{Binding DefaultInstallPath}"/>
-        
+    <Grid>
+        <Grid Margin="15" RowDefinitions="Auto,*,Auto" RowSpacing="10">
+            <Border VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                    BorderBrush="Black" BorderThickness="2">
+                <Border VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                        BorderBrush="White" BorderThickness="6" Background="Black">
+                    <TextBlock Margin="20" FontSize="42" Text="INSTALACE ČESKÉ LOKALIZACE OMORI" HorizontalAlignment="Center" VerticalAlignment="Center"
+                               Foreground="White"/>
+                </Border>
+            </Border>
+            
+            <Border Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                    BorderBrush="Black" BorderThickness="2">
+                <Border VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                        BorderBrush="White" BorderThickness="6" Background="Black">
+                    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ClipToBounds="True"
+                          Margin="40, 0">
+                        <TextBlock Foreground="White" VerticalAlignment="Center" FontSize="42" IsVisible="{CompiledBinding #root.Message, Converter={x:Static StringConverters.IsNotNullOrEmpty}}" Text="{CompiledBinding #root.Message}"/>
+                        
+                        <Grid VerticalAlignment="Center"
+                              RowDefinitions="Auto, Auto" RowSpacing="10" >
+                            <TextBlock Foreground="White" IsVisible="{CompiledBinding #root.Message, Converter={x:Static StringConverters.IsNullOrEmpty}}" FontSize="36">Nainstalovat českou lokalizaci oběšence? (experimentální)</TextBlock>
+                            <Grid IsVisible="{CompiledBinding #root.Message, Converter={x:Static StringConverters.IsNullOrEmpty}}" Grid.Row="1" ColumnDefinitions="Auto, Auto" Margin="50, 0" ColumnSpacing="30" HorizontalAlignment="Stretch">
+                                <RadioButton ClipToBounds="False" FontSize="32" IsChecked="{CompiledBinding !#root.Hangman}">Ne</RadioButton>
+                                <RadioButton ClipToBounds="False" FontSize="32" Grid.Column="1" IsChecked="{CompiledBinding #root.Hangman}">Ano
+                                </RadioButton>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </Border>
+            </Border>
+            
+            <Border Grid.Row="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                    BorderBrush="Black" BorderThickness="2">
+                <Border VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                        BorderBrush="White" BorderThickness="6">
+                    <Border VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                            BorderBrush="Black" BorderThickness="2">
+                        <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ClipToBounds="True"
+                              ColumnDefinitions="Auto, *" Margin="40, 20">
+                            
+                            <!-- <Button IsVisible="{CompiledBinding !#progress.IsVisible}" FontSize="48" Click="BeginSetup">Nainstalovat</Button> -->
+                            <Button Foreground="Black" FontWeight="Normal" FontSize="32"
+                                    IsVisible="{CompiledBinding !#progress.IsVisible}"
+                                    Click="BeginSetup" Content="Nainstalovat"/>
+                            <c:OmoriProgress x:Name="progress" IsVisible="{CompiledBinding #root.LoadValue}" Grid.Column="1" Value="{CompiledBinding #root.LoadValue}"></c:OmoriProgress>
+                        </Grid>
+                    </Border>
+                </Border>
+            </Border>
+        </Grid>
+        <Rectangle IsHitTestVisible="False" Fill="White" Opacity="{CompiledBinding #root.WinOpacity}">
+            <Rectangle.Transitions>
+                <Transitions>
+                    <DoubleTransition Property="Opacity" Duration="0:0:2.3"/>
+                </Transitions>
+            </Rectangle.Transitions>
+        </Rectangle>
     </Grid>
-
 </Window>

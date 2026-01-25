@@ -1,3 +1,9 @@
 .idea/
 Omopatch/bin
 Omopatch/obj
+Release/
+OMORI_source/
+OmoriCZ
+*.zip
+*DotSettings.user
+*.png
