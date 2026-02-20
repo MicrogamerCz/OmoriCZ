@@ -99,37 +99,24 @@ public partial class MainWindow : Window
             if (apps.ContainsKey(omoriSteamId)) break;
         }
 
-#if WINBUILD
-        return libraryPath + "\\steamapps\\common\\OMORI";
-#else
-        return libraryPath + "/steamapps/common/OMORI";
-#endif
+        return Path.Combine(libraryPath, "steamapps", "common", "OMORI");
     }
     async void BeginSetup(object? sender, RoutedEventArgs e)
     {
         LoadValue = 1;
         Message = "Příprava";
-        
-        string installDir = GetInstallDir(), saveFileDir, modsDir;
-        bool oneloaderInstalled;
-        
-#if WINBUILD
-        saveFileDir = installDir + "\\www\\save";
-        modsDir = installDir + "\\www\\mods\\omoricz";
-        oneloaderInstalled = Directory.Exists(installDir + "\\www\\mods\\oneloader"); // because obviously Windows :/
-#else
-        saveFileDir = installDir + "/www/save";
-        modsDir = installDir + "/www/mods/omoricz";
-        oneloaderInstalled = Directory.Exists(installDir + "/www/mods/oneloader");
-#endif
+
+        string installDir = GetInstallDir();
+        string saveFileDir = Path.Combine(installDir, "www", "save");
+        string modDir = Path.Combine(installDir, "www", "mods", "omoricz");
+        bool oneloaderInstalled = Directory.Exists(Path.Combine(installDir, "www", "mods", "oneloader"));
+
+        string backupLocation = saveFileDir + ".zip";
+        if (File.Exists(backupLocation))
+            File.Delete(backupLocation);
+        await Task.Run(() => ZipFile.CreateFromDirectory(saveFileDir, backupLocation));
 
         if (!oneloaderInstalled) {
-            string backupLocation = saveFileDir + ".zip";
-            if (File.Exists(backupLocation))
-                File.Delete(backupLocation);
-
-            await Task.Run(() => ZipFile.CreateFromDirectory(saveFileDir, backupLocation));
-
             Message = "Získávání nejnovější verze OneLoaderu";
             string? oneloaderUrl = await GetLatestReleaseZipAssetUrl("rphsoftware", "OneLoader");
             if (string.IsNullOrEmpty(oneloaderUrl)) {
@@ -160,9 +147,10 @@ public partial class MainWindow : Window
         
         Message = "Instalace překladu";
         using Stream stream = new MemoryStream(translationZip);
-        
-        if (!Directory.Exists(modsDir)) Directory.CreateDirectory(modsDir);
-        await Task.Run(() => ZipFile.ExtractToDirectory(stream, modsDir, overwriteFiles: true));
+
+        if (Directory.Exists(modDir)) Directory.Delete(modDir, true);
+        Directory.CreateDirectory(modDir);
+        await Task.Run(() => ZipFile.ExtractToDirectory(stream, modDir, overwriteFiles: true));
 
         Message = " ";
         WinOpacity = 1;
