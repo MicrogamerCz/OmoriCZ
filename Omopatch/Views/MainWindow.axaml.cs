@@ -24,13 +24,13 @@ public partial class MainWindow : Window
 #else
     string SteamPath { get; } = "~/Library/Application Support/Steam/steamapps/";
 #endif
-    
+
     #region Properties
     static readonly StyledProperty<int> LoadValueProperty = AvaloniaProperty.Register<MainWindow, int>(nameof(LoadValue));
     static readonly StyledProperty<double> WinOpacityProperty = AvaloniaProperty.Register<MainWindow, double>(nameof(WinOpacity));
     static readonly StyledProperty<string> MessageProperty = AvaloniaProperty.Register<MainWindow, string>(nameof(Message));
     static readonly StyledProperty<bool> HangmanProperty = AvaloniaProperty.Register<MainWindow, bool>(nameof(Hangman));
-    
+
 
     public int LoadValue {
         get => GetValue(LoadValueProperty);
@@ -49,13 +49,13 @@ public partial class MainWindow : Window
         set => SetValue(HangmanProperty, value);
     }
     #endregion
- 
+
     readonly HttpClient client = new();
-    
+
 #pragma warning disable SYSLIB0014
     readonly WebClient wc = new();
 #pragma warning restore SYSLIB0014
-    
+
     public MainWindow() =>
         InitializeComponent();
 
@@ -69,7 +69,7 @@ public partial class MainWindow : Window
             return null;
 
         await using Stream contentStream = await response.Content.ReadAsStreamAsync();
-        
+
         using JsonDocument json = await JsonDocument.ParseAsync(contentStream);
         string? assetUrl = null;
 
@@ -80,12 +80,12 @@ public partial class MainWindow : Window
             assetUrl = au;
             break;
         }
-        
+
         contentStream.Close();
-        
+
         return assetUrl;
     }
-    
+
     string GetInstallDir()
     {
         VObject libraries = (VObject)VdfConvert.Deserialize(File.ReadAllText(SteamPath + "libraryfolders.vdf")).Value;
@@ -132,16 +132,16 @@ public partial class MainWindow : Window
 
             oneloaderStream.Close();
         }
-        
+
         Message = "Získávání překladu";
         string? translationUrl = await GetLatestReleaseZipAssetUrl("MicrogamerCz", "OmoriCz");
         if (string.IsNullOrEmpty(translationUrl)) {
             Environment.Exit(1);
             return;
         }
-        
+
         Message = "Stahování překladu";
-        
+
         wc.DownloadProgressChanged += (_, e) => LoadValue = e.ProgressPercentage / 10 + 1;
         byte[] translationZip = await wc.DownloadDataTaskAsync(translationUrl);
         
