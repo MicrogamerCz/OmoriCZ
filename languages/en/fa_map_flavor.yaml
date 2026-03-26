@@ -27,16 +27,16 @@ message_6:
 
 #Basketball Hoop:
 message_7:
-      text: KELŮV basketbalový koš.\!<br>Trochu nebezpečné ho mít jen tak na cestě... #přiroz
+      text: KELŮV basketbalový koš.\!<br>Trochu nebezpečné ho mít takhle na vozovce... #přiroz
 
 #Street:
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Neměl bys chodit po cestě, SUNNY! To je přece nebezpečné!\kel
+      text: Neměl bys chodit po vozovce, SUNNY! To je přece nebezpečné!\kel
 
 message_8:
-      text: Je nebezpečné chodit po cestě.
+      text: Chodit po vozovce je nebezpečné.
 
 #Dog House:
 message_9:
@@ -44,7 +44,7 @@ message_9:
 
 #Flamingo:
 message_10:
-      text: Tento dvorek je vyzdoben několika plastovými plaměnáky.\!<br>Zdá se, že mají dobrou náladu.
+      text: Tento dvorek je vyzdoben několika plastovými plaměnáky.\!<br>Vypadají, že mají dobrou náladu.
 
 #Birdhouse:
 message_11:
@@ -52,7 +52,7 @@ message_11:
 
 #Statues:
 message_12:
-      text: Socha jakési náboženské osobnosti.<br>\!...\! Máš pocit, jako by tě soudila.
+      text: Socha jakési náboženské osobnosti.<br>\!...\! Cítíš se, jako by tě soudila.
 
 #Road Work:
 message_13:
@@ -74,7 +74,7 @@ message_16:
 
 #Cardboard Boxes:
 message_20:
-      text: Po celém domě jsou poházeny kartonové krabice. #rozhodně poházeny, "littered" má velice neformální ráz
+      text: Po celém domě se válí kartonové krabice. #rozhodně poházeny, "littered" má velice neformální ráz
 
 #House Plant:
 message_21:
@@ -82,7 +82,7 @@ message_21:
 
 #House Plant:
 message_22:
-      text: Obyčejná květina.\! Není na ní nic výjimečného. #blíže orig
+      text: Obyčejná květina.\! Není na ní nic zajímavého. #blíže orig
 
 #Bookcase - Dining Room:
 message_23:
@@ -175,7 +175,7 @@ message_44:
 
 #Grandfather Clock:
 message_45:
-      text: Jedny ze dvou kyvadlových hodin.\! Přestaly fungovat už dávno, ale MAMKA je tu stejně má. #přiroz
+      text: Jedny ze dvou kyvadlových hodin, které máte doma.\! Přestaly fungovat už dávno, ale MAMKA je tu stejně má. #přiroz
 
 message_47:
       text: Skříň.
@@ -236,7 +236,7 @@ message_58:
 
 #Vanity:
 message_59:
-      text: Líčící stolek se zrcadlem.
+      text: Stolek na líčení se zrcadlem.
 
 #Toilet:
 message_60:
@@ -271,7 +271,7 @@ message_68:
 
 #Alarm Clock:
 message_69:
-      text: Budík... pro zodpovědné lidi.\!<br>Je pět minut popředu. #pravý opak
+      text: Budík... pro zodpovědné lidi.\!<br>Je pět minut napřed. #pravý opak
 
 #Hero's Desk:
 message_70:
@@ -363,7 +363,7 @@ message_90:
 
 #TV Remote:
 message_91:
-      text: Dálkový ovladač od televize.\!<br>Raději nebrat... Není těžké je ztratit.
+      text: Dálkový ovladač od televize.\!<br>Raději nebrat... Snadno se ztrácí.
 
 #Shoe Rack:
 message_92:
@@ -845,14 +845,14 @@ message_284:
 
 #Red Truck:
 message_285:
-      text: Starý, červený pickup.\!<br>Vypadá, jako by o dost přežil svou očekávánou životnost.
+      text: Starý, červený pickup.\!<br>Podle vzhledu mu hnije snad i techničák.
 
 #Trash Can:
 message_286:
       text: Černý koš.
 
 message_287:
-      text: Typická bílá poštovní schránka.
+      text: Obyčejná bílá poštovní schránka.
 
 message_288:
       text: Na dvorku je pohozených několik autodílů.
@@ -1005,7 +1005,7 @@ message_346:
 
 #Bucket:
 message_347:
-      text: Kýbl.\! Přijde vhod, když prší. #interpunkce
+      text: Kýbl.\! Přijde vhod vždycky, když prší. #interpunkce
 
 
 message_356:
@@ -1030,7 +1030,7 @@ message_351:
       text: Elegantní květina.
 
 message_352:
-      text: Pódium.
+      text: Řečnický pult.
 
 message_353:
       text: Oltář.
@@ -1086,7 +1086,7 @@ message_359:
 
 #Pail and Shovel:
 message_370:
-      text: Konev a lopata.
+      text: Kyblíček a lopata.
 
 #Yoyo:
 message_371:
@@ -1268,7 +1268,7 @@ message_452:
 
 #Fountain:
 message_460:
-      text: Kašna.\! Na dně se třpytí \c[4]MINCE\c[0].
+      text: Kašna.\! Na dně se třpytí několik \c[4]MINCÍ\c[0].
 
 #Mailbox:
 message_461:
@@ -1276,7 +1276,7 @@ message_461:
 
 #Fruit Cart:
 message_462:
-      text: Košík s ovocem.\! Nejvíce místa zaujímají pomeranče.
+      text: Stánek s ovocem.\! Nejvíce místa zaujímají pomeranče.
 
 #============================
 
@@ -1378,7 +1378,7 @@ message_593:
       text: \"LÉKÁRNA\"
 
 message_594:
-      text: \"CUKRÁRNA PANÍ CANDICE\"
+      text: \"CUKRÁRNA PANÍ SLADKÉ\"
 #============================
 
 #Gino's Pizza - Map 57:
@@ -1432,7 +1432,7 @@ message_513:
 
 #Poster:
 message_514:
-      text: Plakát pro novou hru, ve které cestuješ různými světy.\! Nic světoborného. #ha, ha
+      text: Plakát nové hry, ve které cestuješ různými světy.\! Nic světoborného. #ha, ha
 
 #Cards:
 message_515:
@@ -1446,7 +1446,7 @@ message_517:
       text: Malé bonbóny.
 
 message_518:
-      text: Reklamy.
+      text: Letáky.
 
 message_519:
       text: Výdejní automat.
@@ -1455,11 +1455,11 @@ message_520:
       text: Kartónová podobizna KAPITÁNA VESMÍRŇÁKA.
 
 message_521:
-      text: Stará herní konzole napojená k televizi.
+      text: Stará herní konzole připojena k televizi.
 
 #Poster:
 message_522:
-      text: Plakát nové hry, kde pobíháš a zabíjíš zrůdy...\! na skateboardech.
+      text: Plakát nové hry, kde pobíháš a zabíjíš zrůdy...\! na skateboardu.
 
 #============================
 
@@ -1602,10 +1602,10 @@ message_586:
 
 #Fruit Cart:
 message_587:
-      text: Košík s ovocem.\! Nejvíce místa zaujímají jablka.
+      text: Stánek s ovocem.\! Nejvíce místa zaujímají jablka.
 
 message_588:
-      text: \"PŘEDALEKOLHOTSKÝ PARK\"<br>\!\"BUDOUCNOST PATŘÍ SNÍLKŮM!\" #ten park mi přišel trochu osamocený
+      text: \"PŘEDALEKÝ PARK\"<br>\!\"BUDOUCNOST PATŘÍ SNÍLKŮM!\" #ten park mi přišel trochu osamocený
 
 #============================
 
@@ -1613,7 +1613,7 @@ message_588:
 
 #Pinwheel Assortment:
 message_600:
-      text: Skupinka větrníků volně se točících při větru. #interpunkce
+      text: Skupinka větrníků pozvolna točících se při větru. #interpunkce
 
 message_601:
       text: Piknikový košík.
@@ -1761,7 +1761,7 @@ message_666:
 #==
 
 message_1000:
-      text: Větrník, volně točící se při větru.
+      text: Větrník, pozvolna točící se při větru.
 
 #==
 
@@ -1818,7 +1818,7 @@ message_1001:
 #SCOOTER AND BIKE
 
 message_1010:
-      text: Elegantní stříbrná koloběžka #ostrá se nehodí
+      text: Elegantní stříbrná koloběžka. #ostrá se nehodí
 
 message_1011:
       text: AUBRYINO staré modré kolo.

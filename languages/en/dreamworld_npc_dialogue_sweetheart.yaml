@@ -40,7 +40,7 @@ message_207:
 message_208:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \n<KEL>\com[2]Přesně tak. Neusuzujte ostatní tak rychle!\!<br>Vždyť jsme bez pochyby KLÍČKOKRTCI.
+      text: \n<KEL>\com[2]Přesně tak. Neodsuzujte ostatní tak rychle!\!<br>Vždyť jsme bez pochyby KLÍČKOKRTCI.
 
 message_209:
       faceset: MainCharacters_DreamWorld
@@ -129,7 +129,7 @@ message_23:
       text: Někomu trochu šaramantnějšímu by se povedlo je přesvědčit...
 
 message_30:
-    text: Řekneš tomito KLÍČKOKRTKOVI, aby šel za tebou?
+    text: Řekneš tomuto KLÍČKOKRTKOVI, aby šel za tebou?
 
 message_40:
       text: \n<HAROLD>\sinv[1]Slyšel jsem, však nevím jistě...\!<br>že na ZLATÍČČINA láska je nám vždy na prvním místě!
@@ -152,10 +152,10 @@ message_61:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Počkejte, pane ŠÉFKUCHAŘI! Kdo nás teď bude vést?! Vždyt ten dort pro hlavní událost musí být absolutně bez chyby!
 
 message_62:
-      text: \n<KUCHAŘ>Je čas, aby byl se jeden z vás ujal vedení.\! Dneska se prostě musí upéct dort! Závisí na tom naše životy! #přiroz
+      text: \n<KUCHAŘ>Je čas, aby se jeden z vás ujal vedení.\! Dneska se prostě musí upéct dort! Závisí na tom naše životy! #přiroz
 
 message_63:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Ach ano! Rozumím, pane ŠÉFKUCHAŘI!\! Jakožto nejschopnější z nás<br>dobrovolně přebírám vedení!\!<br>Slibuji, že vás nezklamu! #přiroz
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Ach ano! Rozumím, pane ŠÉFKUCHAŘI!\! Jakožto nejschopnější z nás dobrovolně přebírám vedení!\!<br>Slibuji, že vás nezklamu! #přiroz
 
 # =========------------------
 message_70:
@@ -181,11 +181,11 @@ message_80:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]Kam to jdete!? Zpátky!
 
 message_81:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hodně štěstí...\! Budete ho potřeboval.
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hodně štěstí...\! Budete ho potřebovat.
 
 # =========------------------
 message_82:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Jste připraveni začít?\! Poslouchejte pozorně mé pokyny a všechno dobře dopadne.\! Já ŠÉFKUCHAŘŮV recept znám nazpaměť!
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Jste připraveni začít?\! Důkladně poslouchejte mé pokyny a všechno dobře dopadne.\! Já ŠÉFKUCHAŘŮV recept znám nazpaměť!
 
 message_83:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hele, nebuďte nervózní!\! Věřte mi, vím, co dělám!
@@ -198,13 +198,13 @@ message_100:
 
 # =========------------------
 message_101:
-      text: 20
+      text: 20 STUPŇŮ
 
 message_102:
-      text: 90
+      text: 90 STUPŇŮ
 
 message_103:
-      text: 180
+      text: 180 STUPŇŮ
 
 message_120:
       text: VYBRAT NÁHODNOU MOŽNOST
@@ -311,7 +311,7 @@ message_137:
       text: Jsi si jistý, že tohle chceš udělat? #blíže orig
 
 message_138:
-      text: Nejdříve si musíš nachystat ingredience.
+      text: Nejdříve si musíš přichystat ingredience.
 
 message_140:
       text: Vezmeš SMĚS?
@@ -403,7 +403,7 @@ message_167:
       text: Několik ingrediencí.\! Některé jsou podstatně chutnější, než zbytek.
 
 message_168:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nechť nikdo nezapomene na našeho ŠÉFKUCHAŘE...
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Nechť není nikdy zapomenuto na našeho ŠÉFKUCHAŘE...
 
 message_169:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Můj dort vážně šel na dračku!\! ŠÉFKUCHAŘ by byl tak pyšný...\! Nechť na něj nikdo nezapomene... #minulý čas
@@ -413,7 +413,7 @@ message_169:
 # =========================================================================================
 
 message_300:
-      text: VSTUPNÍ HALA
+      text: VSTUPNÍ SÍŇ
 
 message_301:
       text: KOMNATY
@@ -428,13 +428,13 @@ message_310:
 # =========================================================================================
 
 message_320:
-      text: \n<PAŠOVATEL JASH>Zavřeli mě sem za pašování...\!<br>ale zvyk je železná košile. #vypouštím víte
+      text: \n<PAŠERÁK JAŠ>Zavřeli mě sem za pašování...\!<br>ale zvyk je železná košile. #vypouštím víte
 
 message_321:
-      text: \n<PAŠOVATEL JASH>A proto bych vám rád nabídl celkem nedostatkový zboží.\! Měli byste zájem?
+      text: \n<PAŠERÁK JAŠ>A proto bych vám rád nabídl celkem nedostatkový zboží.\! Měli byste zájem?
 
 message_322:
-      text: \n<PAŠOVATEL JASH>Mám tady pro vás dost slušný zboží.
+      text: \n<PAŠERÁK JAŠ>Mám tady pro vás dost slušný zboží.
 
 #Kitchen Fireplace
 
@@ -471,19 +471,19 @@ message_358:
 #SW AFTER WEDDING
 
 message_370:
-      text: \n<CASTELLA>Tebe jsem viděla v posledním díle \"ZLATÍČKA HLEDÁ ZLATÍČKA\"!
+      text: \n<KASTELA>Tebe jsem viděla v posledním díle \"ZLATÍČKA HLEDÁ ZLATÍČKA\"!
 
 message_371:
-      text: \n<CASTELLA>Skvělé zakončení skvělého pořadu...\! ale byla bych raději, kdyby vůbec nekončil. #překlep
+      text: \n<KASTELA>Skvělé zakončení skvělého pořadu...\! ale byla bych raději, kdyby vůbec nekončil. #překlep
 
 message_372:
-      text: \n<CASTELLA>ZLATÍČKO snad nepřijde na její odpolední čajíček... #myslím, že tohle je význam, který z toho měl vyznít
+      text: \n<KASTELA>ZLATÍČKO snad nepřijde na její odpolední čajíček... #myslím, že tohle je význam, který z toho měl vyznít
 
 message_373:
-      text: \n<KRTEK VIRTUÓZ>Aha! Vás poznávám!\! Vy jste ti placení herci ze \"ZLATÍČKA HLEDÁ ZLATÍČKA\", viďte?!
+      text: \n<KRTEK SBORMISTR>Aha! Vás poznávám!\! Vy jste ti placení herci ze \"ZLATÍČKA HLEDÁ ZLATÍČKA\", viďte?!
 
 message_374:
-      text: \n<KRTEK VIRTUÓZ>Vaše herecké výkony byly přímo strhující.\! Každou minutou jsem věřil, že se to opravdu děje.
+      text: \n<KRTEK SBORMISTR>Vaše herecké výkony byly přímo strhující.\! Každou minutou jsem věřil, že se to opravdu děje.
 
 message_375:
       text: \n<HAROLD>Co říkáte na ten konec?\! To jste nečekali, co?

@@ -272,10 +272,10 @@ message_100:
       text: \n<BENDA>Uff...\! No jen si poslechněte, jak se tam baví.\! Tam ti brigádníci se teda mají.
 
 message_101:
-      text: \n<BENDA>MEDÚSA se svými sestry zkoumá svět již už několik století.\! A tyhle knihy jsou výsledkem jejich práce!
+      text: \n<BENDA>MEDÚSA se svými sestry zkoumá svět již celá staletí.\! A tyhle knihy jsou výsledkem jejich práce!
 
 message_102:
-      text: \n<BENDA>Ať už ho opakuju kolikrát chci, tenhle pokus se mi nikdy nepovede.\! Asi by to chtělo se zase kouknout do příručky... #interpunkce
+      text: \n<BENDA>Ať už ho opakuju kolikrát chci, tenhle pokus se mi nikdy nepovede.\! Asi by to chtělo se zase nakouknout do příručky... #interpunkce
 
 message_103:
       text: \n<BENDA>\sinv[1]Chrrrrrrrrrrr...
@@ -373,7 +373,7 @@ message_104:
 #--- WATERFALL HUMPHRIES
 
 message_200:
-      text: \n<BENDA>Kurňa... Skočili jste mi do toho zrovna, když jsem spravoval tuhle trubku! #pravopis
+      text: \n<BENDA>Kurňa... Skočili jste mi do toho zrovna, když jsem opravoval tuhle trubku! #pravopis
 
 message_201:
       text: \n<BENDA>Ach... konečně místnost bez vodopádu...\! Tohle čistě bílé světlo je na opalování přímo dělané! #světlé světlo se prostě nehodí

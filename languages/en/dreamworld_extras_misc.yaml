@@ -17,12 +17,12 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basHmm... safra...\!<br>Myslím, že už si nevzpomenu na přesné pořadí těch fotek...
+      text: \basHmm... safra...\!<br>Myslím, že už si nevzpomenu na to, jak za sebou ty fotky šly...
 
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herŽádné starosti, BASILE.\! OMORI má skvělou paměť, takže to s ním rozhodně co nevidět dáme dohromady! #hlavně mi nesedí
+      text: \herŽádné starosti, BASILE.\! OMORI má skvělou paměť, takže to s ním rozhodně dáme dohromady co nevidět ! #hlavně mi nesedí, slovosled
 
 # Examining Mirror when Alone
 
@@ -61,7 +61,7 @@ message_40:
       text: \n<SKLESLÁ VRBA>Uff...\! Zdravím, já jsem SKLESLÁ VRBA, bohyně tohoto jezera.\!<br>Tak asi dík za ty mušle. #přirozenější
 
 message_41:
-      text: \n<SKLESLÁ VRBA>Slyšela jsem, že peníze jsou štěstí,<br> ale zatím mi to moc nesedí...
+      text: \n<SKLESLÁ VRBA>Slyšela jsem, že peníze jsou štěstí,<br>ale zatím mi to moc nesedí...
 
 message_42:
       text: \n<SKLESLÁ VRBA>Nemohli byste mě nějak rozveselit?\!<br>Že byste mi třeba řekli nějaký vtip?
@@ -69,7 +69,7 @@ message_42:
 #If Player does not have Joke Book or has no Jokes
 
 message_43:
-      text: \n<SKLESLÁ VRBA>...\! Vypadá, že nemáte žádný slušný matroš.\!<br>Vraťte se, až budete mít nějaký solidnější arsenál.
+      text: \n<SKLESLÁ VRBA>...\! Vypadá, že nemáte žádný slušný matroš.\!<br>Vraťte se, až budete mít nějaký pořádnější arsenál.
 
 #[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
 
@@ -306,7 +306,7 @@ message_145:
 #after Ride
 
 message_150:
-      text: \n<TAXIKÁŘ>Nebyla to sice moje nejklidnější jízda, ale za mě celkem dobrý.\! Vrať se kdykoliv, prcku.
+      text: \n<TAXIKÁŘ>Nebyla to zrovna nejklidnější jízda, ale za mě celkem dobrý.\! Vrať se kdykoliv, prcku.
 
 message_151:
       text: \n<TAXIKÁŘ>Vrať se kdykoliv, prcku.
@@ -386,12 +386,12 @@ message_209:
 message_210:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelZapomeň!<br>Jen koukej, jak v tom čerstvém větru vlaje.
+    text: \kelAle prosím tě!<br>Jen koukej, jak hezky vlaje. #maty, přiroz
 
 message_211:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kel\sinv[1]Jak majestátní...\| Jak krásný...
+    text: \kel\sinv[1]Tak majestátní...\| Tak krásný... #polomaty
 
 message_212:
     faceset: MainCharacters_DreamWorld

@@ -15,17 +15,17 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubAle teď si začínám uvědomovat, že jsem já byla ta, která všechny odstrkovala.
+      text: \aubAle teď mi dochází, že to já jsem všechny odstrkovala. #přiroz
 
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubZa těch prvních pár měsíců, potom co MARI umřela...<br>se všechno tak rychle změnilo.<br><br>\SUNNY a BASIL se ještě více uzavřeli...\! KEL si našel nějaké kámoše přes sport...\! a HERO se pořád jenom učil. #blíže orig
+      text: \aubPotom co MARI umřela...<br>se všechno tak rychle změnilo.<br><br>SUNNY a BASIL se ještě více uzavřeli...\! KEL si našel nějaké kámoše přes sport...\! a HERO se pořád jenom učil. #blíže orig, přiroz
 
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: \aubByla jsem naštvaná z toho, jak život šel jen tak dál. #přiroz
+      text: \aubFakt mě štvalo, jak život šel jen tak dál. #přiroz, přiroz
 
 message_5:
       faceset: MainCharacters_Faraway
@@ -35,7 +35,7 @@ message_5:
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubA kvůli tomu jsem neviděla, že to se jen každý s tou bolestí vypořádával po svém. #blíže orig
+      text: \aubKdyby mi jen došlo, že se to jen každý s tou bolestí vypořádával po svém. #blíže orig, přiroz
 
 message_7:
       faceset: MainCharacters_Faraway
@@ -45,12 +45,12 @@ message_7:
 message_8:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubZe začátku se mu moc nechtělo...\! ale potom povolil.
+      text: \aubZe začátku se mu moc nechtělo...\! ale nakonec jsem se k tomu doprosila. #blíže orig
 
 message_30:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubTa cesta k němu byla hrozně tichá...\!<br>A BASIL se ani jednou nepodíval mým směrem. #vypouštím "a ještě k tomu snad"
+      text: \aubTa cesta k němu byla strašně tichá...\!<br>BASIL jako by se na mě nemohl ani podívat. #vypouštím "a ještě k tomu snad", přiroz
 
 message_9:
       faceset: MainCharacters_Faraway
@@ -60,7 +60,7 @@ message_9:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubVšimla jsem si jeho starého \c[4]FOTOALBA\c[0], leželo tam na poličce.\! Chtěla jsem si ho projít, protože...\! prostě...\! Asi jsem zase chtěla vidět všechny šťastné.
+      text: \aubVšimla jsem si jeho starého \c[4]FOTOALBA\c[0], leželo tam na poličce.\! Chtěla jsem si ho projít, protože...\! no...\! Asi jsem zase chtěla vidět všechny šťastné. #přiroz
 
 message_10:
       faceset: MainCharacters_Faraway
@@ -85,17 +85,17 @@ message_13:
 message_14:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: \aubByla jsem z toho zmatená...\! a naštvaná...\!<br>Myslela jsem, že mu ruplo v bedně.
+      text: \aubByla jsem zmatená...\! a naštvaná...\!<br>Myslela jsem, že mu ruplo v bedně. #vypouštím z toho
 
 message_15:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubA tak...\! místo toho, abych se ho pokusila pochopit...\! Jsem mu to \c[4]FOTOALBUM\c[0] vzala a začala mu říkat "nulo" a tak podobně.
+      text: \aubA tak...\! místo toho, abych se ho pokusila pochopit...\! Jsem mu to \c[4]FOTOALBUM\c[0] vzala a začala mu říkat "magore" a tak podobně. #nulo na magore
 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubA nakonec...\! Jsem nebyla jediná, která si z něj utahovala. #blíže orig
+      text: \aubA netrvalo dlouho...\! A nebyla jsem jediná, která si z něj utahovala. #blíže orig, přiroz
 
 message_17:
       faceset: MainCharacters_Faraway
@@ -105,7 +105,7 @@ message_17:
 message_18:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: \aubTeď už se za to cítím já jako nula.
+      text: \aubTeď už se za to cítím já jako magor.
 
 message_19:
       faceset: MainCharacters_Faraway
@@ -115,12 +115,12 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubJediné co jsem já za tu dobu dělala bylo to, že jsem se jen snažila od všech ostatních co nejvíce odtrhnout.
+      text: \aubJediné, co jsem já za tu dobu dělala bylo to, že jsem se jen snažila od všech ostatních co nejvíce odtrhnout.
 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 8
-      text: \aubCelkem vtipný, nemyslíte?\! Z toho, že jsem na něj byla naštvaná jsem udělala něco kolikrát horší než to, co udělal BASIL... #přiroz
+      text: \aubCelkem vtipný, co?\! Z toho, jak jsem na něj byla naštvaná jsem ztropila něco kolikrát horší než to, co udělal on... #přiroz nadvakrát, ztropila
 
 message_22:
       faceset: MainCharacters_Faraway
@@ -175,7 +175,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 9
-      text: \aubJá si nezasloužím kamarády, jako jste vy.
+      text: \aubJá si fakt nezasloužím kamarády, jako jste vy. #fakt
 
 message_33:
       faceset: MainCharacters_Faraway
@@ -195,7 +195,7 @@ message_35:
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: \herTy fotky se ale přece nevyčistily samy od sebe, že? #přiroz
+      text: \herKdopak nám ty fotky vyčistil? #přiroz nadvakrát
 
 message_37:
       faceset: MainCharacters_Faraway

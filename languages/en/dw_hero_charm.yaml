@@ -8,7 +8,7 @@
 #Goosey - Train Station - Saved my child from danger → 100 CLAMS
 
 message_0:
-    text: \n<HUSKA>Panečku, ty jsi HERO, že?\! Pamatuješ si mě?\! Kdysi dávno jsi vytáhl mé dítě z hluboké propasi!
+    text: \n<HUSKA>Panečku, ty jsi HERO, že?\! Pamatuješ si mě?\! Kdysi dávno jsi vytáhl mé dítě z hluboké propasti!
 
 message_1:
     text: \n<HUSKA>Tak teď ti to konečně můžu oplatit!
@@ -78,21 +78,21 @@ message_75:
 message_104:
     text: \n<KRTEK SAMOTÁŘ>Jen tak dál, HERO!\!<br>Buď nadále takový osvoboditel, jakos byl tehdy!
 
-#Batzy - Sprout Mole Colony - Since you escorted me from one dangerous location to another  → BUTT PEACH SODA
+#NETOPA - Sprout Mole Colony - Since you escorted me from one dangerous location to another  → BUTT PEACH SODA
 
 message_15:
-    text: \n<BATZY>Ahoj, HERO!\! Skoro jsem tě nepoznala.<br>Je tady přece taková tma...
+    text: \n<NETOPA>Ahoj, HERO!\! Skoro jsem tě nepoznala.<br>Je tady přece taková tma...
 
 message_16:
-    text: \n<BATZY>Vždycky jsem ti chtěla poděkovat za to, jak jsi mě provedl tou nebezpečnou cestou v lese.\! Na! Tohle si vem!
+    text: \n<NETOPA>Vždycky jsem ti chtěla poděkovat za to, jak jsi mě provedl tou nebezpečnou cestou v lese.\! Na! Tohle si vem!
 
 message_17:
-    text: BATZY ti dala \c[3]MERUŇKOVOU SODOVKU\c[0].
+    text: NETOPA ti dala \c[3]MERUŇKOVOU SODOVKU\c[0].
 
 message_105:
-    text: \n<BATZY>Jen tak dál, HERO!\!<br>Buď nadále takový zachránce, jakos byl tehdy!
+    text: \n<NETOPA>Jen tak dál, HERO!\!<br>Buď nadále takový zachránce, jakos byl tehdy!
 
-#Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → SNO-CONE
+#Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → VÁNICUK
 
 message_18:
     text: \n<KRTEK Z KRABICE>HERO... Ty ses vrátil!\! Od té doby, cos mi řekl o čem jsou doopravdy Vánoce, je ze mě úplně nový KRTEK.\!<br>Musím ti poděkovat za to, žes mě dovedl k mému novému životu.
@@ -101,7 +101,7 @@ message_19:
     text: \n<KRTEK Z KRABICE>Tohle je jedna z mých nejcennějších věcí, ale chtěl bych ti ji přenechat.
 
 message_20:
-    text: KRTEK Z KRABICE gave you a \c[3]SNO-CONE\c[0].
+    text: KRTEK Z KRABICE gave you a \c[3]VÁNICUK\c[0].
 
 message_106:
     text: \n<KRTEK Z KRABICE>Jen tak dál, HERO!\!<br>Buď nadále takovým vůdčím, jakos byl tehdy!
@@ -273,7 +273,7 @@ message_53:
 message_116:
     text: \n<PŘISŤA>Jen tak dál, HERO!\!<br>Buď nadále takový influence jakos byl tehdy!
 
-#Hoagie - Club Sandwich - Donated organs to save REUBEN's life → 5000 CLAMS
+#Hoagie - Club Sendvič - Donated organs to save REUBEN's life → 5000 CLAMS
 
 message_54:
     text: \n<HOAGIE>Yo, HERO.\! I know you'll never bring this up yourself, but...\! me and REUBEN really owe our lives to you.

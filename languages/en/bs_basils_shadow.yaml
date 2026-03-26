@@ -43,7 +43,7 @@ message_22:
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Tyhle místa...\! jsou plné rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Tahle místa...\! jsou plna rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi.
 
 message_1:
       faceset: MainCharacter_Basil
@@ -53,7 +53,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už to je jakkoli...\! Teď už tě úplně přemohlo.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už to je jakkoli...\! Teď už tě zcela přemohlo.
 
 #===========================================================================================
 
@@ -92,7 +92,7 @@ message_9:
 message_10:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Takže pokud tam ještě pořád jsi...\! dovol prosím, aby se k tobě mé slova dostaly.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Takže pokud tam ještě pořád jsi...\! dovol prosím, aby se k tobě má slova dostala.
 
 message_46:
       text: Jedna osamělá sedmikráska.
@@ -109,7 +109,7 @@ message_11:
 message_12:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už si to přeji sebevíc, věci se nemůžou vrátit k tomu, jak byly předtím.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už si to přeji sebevíc, věci nemohou být, jak byly předtím.
 
 message_13:
       faceset: MainCharacter_Basil
@@ -133,7 +133,7 @@ message_15:
 message_16:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Tak dlouho jsem čekal, než se vrátíš.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Tak dlouho jsem čekal, až se vrátíš.
 
 message_17:
       faceset: MainCharacter_Basil
@@ -174,12 +174,12 @@ message_19:
 message_27:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>A ta díra, která vznikla...\! Se nepřestane zvětšovat, dokud se nevrátíš k tomu, kde to vše začalo. #přirozenější
+      text: \n<NĚKDO>\fn<OMORI_GAME>A ta díra, která vznikla...\! Se nepřestane zvětšovat, dokud se nevrátíš tam, kde to vše začalo. #přirozenější
 
 message_28:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>K tomu, který také viděl pravdu...
+      text: \n<NĚKDO>\fn<OMORI_GAME>K tomu, který také zná pravdu...
 
 message_29:
       faceset: MainCharacter_Basil
@@ -354,10 +354,10 @@ message_61:
       text: Celou dobu jsem snil o tom, že se vrátíš...\!<br>Ale možná už je pozdě.\bas #nadbytečné příliš
 
 message_62:
-      text: \basPravdu o tom, co se tehdy stalo, bude těžké přijmout. #přirozenější
+      text: \basPravdu o tom, co se tehdy stalo, bude těžké uznat. #přirozenější
 
 message_63:
-      text: \basAž se s ní potkáš...\! budeš muset být silný.
+      text: \basAž se s ní střetneš...\! budeš muset být silný.
 
 message_64:
       text: \basA pokud to dokážeš...

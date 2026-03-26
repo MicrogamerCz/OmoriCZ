@@ -6,53 +6,53 @@
 
 #Sweetheart: sweeping with maid outfit
 message_0:
-      text: \swh\Com[2]Na co čumíte vy čtyři!?
+      text: \swh\Com[2]What are you four looking at!?
 
 message_1:
-      text: \n<DOKONALÍČKO>Učím ZLATÍČKO domácí práce!\!<br>Zvládá to...\! svým vlastním tempem...\! byla by z ní celkem hezká služka, nemyslíte? Hoho!
+      text: \n<PERFECTHEART>I'm teaching SWEETHEART how to do household chores!\!<br>She's learning...\! at her own pace...\! but she makes for such a cute maid, don't you think? Hoho!
 
 message_2:
       text: UNUSED MESSAGE
 
 message_3:
-      text: \n<DOKONALÍČKO>Ano, ano! Že je ta ze všech nejhezčí?
+      text: \n<PERFECTHEART>Yes, yes! Isn't she just the cutest?
 
 message_4:
-      text:  \n<DOKONALÍČKO>Viď, ZLATÍČKOŠTĚ??\! OHOHOHO!
+      text:  \n<PERFECTHEART>Isn't that right, SWEEPHEART??\! OHOHOHO!
 
 message_5:
-      text: \n<ZLATÍČKOŠTĚ>\Com[2]Ts!
+      text: \n<SWEEPHEART>\Com[2]Hmph!
 
 #Talk again
 
 message_6:
-      text: \n<DOKONALÍČKO>Cože?\! Tak ty mě vyzíváš na souboj?\!<br>Ale...\! To nechceš...\! Jsi si jistý?
+      text: \n<PERFECTHEART>What's this?\! Are you challenging me to a fight?\!<br>Oh...\! You don't want to do that...\! Are you sure about this?
 
 #[Nod/Shake 1]
 
 #[nod 1]
 message_7:
-      text: \n<DOKONALÍČKO>Aha...\! Tak takhle...\! Myslím, že by bylo fér, kdybych tě varovala...\! Takže...\! Se ptám ještě jednou...\!<br>Jsi si opravdu jistý, že mě chceš vyzvat?
+      text: \n<PERFECTHEART>Oh...\! I see...\! I think it's fair to warn you that you might regret this decision...\! So...\! I'll ask again...\!<br>Are you sure you want to challenge me?
 
 #[Nod/Shake 2]
 
 #[nod 2]
 message_8:
-      text: \n<DOKONALÍČKO>Jsi si opravdu opravdu jistý?
+      text: \n<PERFECTHEART>Are you really, really sure?
 
 #Nod/Shake 3]
 message_9:
-      text: \n<DOKONALÍČKO>... \!<br>Tak budiž...\! Je-li tohle, co si přeješ.\!<br>Nebudu se krotit.
+      text: \n<PERFECTHEART>... \!<br>Alright, then...\! If that is what you wish.\!<br>I won't be holding back.
 
 #Shake
 message_10:
-      text: \n<DOKONALÍČKO>Ano...\! To je moudré rozhodnutí.
+      text: \n<PERFECTHEART>Yes...\! That would be the smarter choice.
 
 #Defeating Perfectheart
 message_11:
-      text: \n<NEDOKONALÍČKO>Hmmm...\! Gratuluji.\! Vyhráli jste.\! Tím pádem už asi nejsem nadále dokonalá. \!Škoda, nemyslíte?
+      text: \n<IMPERFECTHEART>Hmmm...\! Congratulations.\! You win.\! I suppose this means that I am no longer perfect. \!Such a shame, really.
 
 #Submersible Karaoke
 
 message_12:
-      text: \spxh\Com[2]Všichni ztracení milenci...\!<br>Tahle...\! je pro vás.
+      text: \spxh\Com[2]To all those lost lovers out there...\!<br>This one...\! is for you.

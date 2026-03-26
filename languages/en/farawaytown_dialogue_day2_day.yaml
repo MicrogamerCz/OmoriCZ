@@ -72,12 +72,12 @@ message_18:
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelAle... To je v pořádku.\! My se ti nebudeme vnucovat.<br>\! Tak se uvidíme později! #přiroz
+      text: \kelAle... To je v pořádku.\! My se ti nebudeme vnucovat.<br>\!Tak později! #přiroz
 
 message_20:
       faceset: MainCharacter_Basil
       faceindex: 34
-      text: \bas...\! Jo, to b\ šlo...\! Tak dobře... #návaznost
+      text: \bas...\! Jo, to by šlo...\! Tak dobře... #návaznost
 
 message_21:
       faceset: MainCharacter_Basil
@@ -219,23 +219,23 @@ message_153:
 #Location: FARAWAY PARK
 
 message_160:
-      text: \n<POŘÁDNÝ AMERIČAN>Uff...\! Opékat to maso je fuška...\! Ale až kousnu do toho šťavnatého, úžasného burgru, všechno to bude stát za to.
+      text: \n<POŘÁDNÝ ČECH>Uff...\! Opékat to maso je fuška...\! Ale až kousnu do toho šťavnatého, úžasného špekáčku, všechno to bude stát za to.
 
 message_161:
-      text: \n<POŘÁDNÝ AMERIČAN>Mmm...\! Jako bych ho cítil v puse už teď...
+      text: \n<POŘÁDNÝ ČECH>Mmm...\! Jako bych ho cítil v puse už teď...
 
 message_162:
-      text: \n<POŘÁDNÁ AMERIČANKA>Pozor!\! Začínají se pálit!
+      text: \n<POŘÁDNÁ ČEŠKA>Pozor!\! Začínají se pálit!
 
 message_163:
-      text: \n<POŘÁDNÝ AMERIČAN>Safra!\! Díky, zlato. To bylo těsné... #on je manžel, ne dítě
+      text: \n<POŘÁDNÝ ČECH>Safra!\! Díky, zlato. To bylo těsné... #on je manžel, ne dítě
 
 #==========================Cris's Mom==============================
 
 #Location: FARAWAY PARK
 
 message_170:
-      text: \n<POŘÁDNÁ AMERIČANKA>Dnes je ale krásný den, jako dělaný na piknik!\! Přinesla jsem s sebou své speciality...\! Kuřecí koláč, citrónový koláč, a samozřejmě také můj světoznámý jablečný koláč!
+      text: \n<POŘÁDNÁ ČEŠKA>Dnes je ale krásný den, jako dělaný na piknik!\! Přinesla jsem s sebou své speciality...\! Bramboráky, makovce a samozřejmě také mou světoznámou bábovku!
 
 #==========================CURTSEY==============================
 
@@ -287,7 +287,7 @@ message_230:
       text: \n<HUSTÉ OBOČÍ>嗨妈，你今天好吗？
 
 message_231:
-      text: \n<OTHERMART LADY>有点忙，但还可以! JOY 好吗?
+      text: \n<PANÍ Z HUBERTA>有点忙，但还可以! JOY 好吗?
 
 message_232:
       text: \n<HUSTÉ OBOČÍ>她正在读书... 很努力!

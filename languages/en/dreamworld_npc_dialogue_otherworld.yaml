@@ -25,7 +25,7 @@ message_3:
 #Colony Mole 3
 #Location: Sprout mole Colony
 message_4:
-      text: \n<KRTEK KOLONISTA>My KLÍČKOKRTCI jsme velice inteligentní živočichové!
+      text: \n<KRTEK KOLONISTA>My KLÍČKOKRTCI jsme velice inteligentní tvorové! #konzistence
 
 #CREEPY CAT
 #Location: Old Barn
@@ -52,16 +52,16 @@ message_9:
 
 #LONE Mole
 message_10:
-      text: \n<KRTEK SAMOTÁŘ>\Com[2]\{HEJ, O CO SE JAKO SNAŽÍTE!?!?\}
+      text: \n<KRTEK SAMOTÁŘ>\Com[2]\{HEJ, CO TO TADY JAKO NACVIČUJETE!?!?\} #maty
 
 message_11:
-      text: \n<KRTEK SAMOTÁŘ>Co všechno jsem udělal pro to, abych se izoloval od společnosti, a vy si sem prostě nakráčíte a všechno to zkazíte!
+      text: \n<KRTEK SAMOTÁŘ>Co všechno jsem udělal pro to, abych se izoloval od společnosti, a vy si sem prostě nakráčíte a celé mi to to zkazíte! #maty
 
 message_12:
       text: \n<KRTEK SAMOTÁŘ>\Com[2]\{KOUKEJTE TO INHED NAPRAVIT!!\}
 
 message_13:
-      text: Pomohl jsi KLÍČKOKRTKOVI znovu složit všechny kužely.
+      text: Pomohl jsi KLÍČKOKRTKOVI znovu položit všechny kužely. #maty
 
 #Mr DUCKIE
 #Mrs DUCKIE
@@ -108,13 +108,13 @@ message_20:
       text: Chceš zapnout kazeťák?
 
 message_21:
-      text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
+      text: \n<SVIŽNÝ ŠVIHÁK>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
 
 message_22:
       text: Chceš vypnout kazeťák?
 
 message_23:
-      text: \n<JOCK JAMS>...
+      text: \n<SVIŽNÝ ŠVIHÁK>...
 
 #SMOL
 
@@ -172,7 +172,7 @@ message_41:
       text: \pesKdyž se jeho růst vymkne kontrole, je v podstatě nezastavitelný, protože se dokáže přichytit skoro všude.
 
 message_42:
-      text: Na první pohled ti tohle připadalo jako otravná osoba...\!<br>Ale ve skutečnosti je to jen socha. #přiroz
+      text: Na první pohled ti tohle připadalo jako jistá otravná osoba...\!<br>Ale ve skutečnosti je to jen socha. #přiroz, konzistence
 
 #SNAKE
 message_43:
@@ -255,10 +255,10 @@ message_60:
 #Location: Campsite
 
 message_61:
-      text: \n<VESMÍRNÝ NÁČELNÍK>Písk!\! Od té doby, co se KAPITÁN VES-, teda VESMÍRNÝ MILENEC dostal do čela PIRÁTŮ, je furt hrozná nuda...
+      text: \n<VESMÍRNÝ NÁČELNÍK>Písk!\! Od té doby, co se KAPITÁN VES-, teda VESMÍRNÝ MILENEC dostal do čela PIRÁTŮ, je tady hrozná nuda... #maty
 
 message_62:
-      text: \n<VESMÍRNÝ NÁČELNÍK>Vždyť...\! se jen podívejte na to, co udělal s naší lodí!\! Tohle by ještě za KAPITÁNA RŮŽOVOUSA nikdy neprošlo!
+      text: \n<VESMÍRNÝ NÁČELNÍK>Vždyť...\! se jen podívejte, co udělal s naší lodí!\! Tohle by za KAPITÁNA RŮŽOVOUSA nikdy neprošlo! #vypouštím ještě, maty
 
 #Location: Campsite
 
@@ -297,7 +297,7 @@ message_69:
 #Location: Space Boyfriend's House
 
 message_80:
-      text: \n<VESMÍRNÝ PARŤÁK>Jediné, co poslední dobou slyším, je jak si všichni stěžujou na nudu.\! To jsem tady jediný, koho celkem to uklízení i baví?
+      text: \n<VESMÍRNÝ PARŤÁK>Jediné, co poslední dobou slyším, je jak si všichni stěžujou na nudu.\! To jsem tady jediný, koho to uklízení celkem baví? #maty
 
 #Location: Space Boyfriend's House
 
@@ -308,7 +308,7 @@ message_81:
 #Location: Space Boyfriend's House
 
 message_82:
-      text: \n<VESMÍRNÝ KAMARÁD>Sice je to teď celkem zlý, ale já neřeším, co říkají ostatní, kamaráde...\! Já KAPITÁNOVI věřím!
+      text: \n<VESMÍRNÝ KAMARÁD>Sice je to teď celkem zlý, ale já neřeším, co říkají ostatní, kamaráde...\! Já KAPITÁNOVI důvěřuju! #maty
 #Location: Frozen Lake
 
 message_83:

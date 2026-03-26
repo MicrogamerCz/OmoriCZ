@@ -17,7 +17,7 @@ message_1:
 #Butt Certificate Flag
 
 message_50:
-      text: \nAUBRYIN \c[4]TVRDOHLAVÝ DIPLOM\c[0].\!<br>\sinv[1]Tak majestátní...\| Tak krásný...
+      text: \nAUBRYIN \c[4]TVRDOHLAVÝ DIPLOM\c[0].\!<br>\sinv[1]Tak majestátní...\|Tak krásný...
 
 #============================
 
@@ -143,7 +143,7 @@ message_93:
 
 #Flowers:
 message_100:
-      text: Květináče s různými rostlinami a kytkami.\!<br>BASIL se rád o ně stará. #ně místo věci
+      text: Květináče s různými rostlinami a kytkami.\!<br>BASIL se o ně rád stará. #ně místo věci, maty
 
 #Bone:
 message_101:
@@ -393,22 +393,22 @@ message_197:
       text: Stará televize.\! Slyšíš z ní, jak někdo píše na klávesnici.
 
 message_198:
-      text: Socha vyobrazující určitou otravnou osobu.
+      text: Socha vyobrazující jistou otravnou osobu.
 
 
 #Changes to this after entering SW castle
 
 message_199:
-      text: Obraz vyobrazující určitou otravnou osobu.
+      text: Obraz vyzobrazující jistou otravnou osobu. #maty
 
 message_200:
       text: Z tohoto kazeťáku hraje poměrně otravná písnička.
 
 message_201:
-      text: Knihovna plná knížek o určité otravné osobě.
+      text: Knihovna plná knížek o jisté otravné osobě. #maty, ostatní změněny pro konzistenci
 
 message_202:
-      text: Stůl plný předmětů spjatých s určitou otravnou osobou. #jednou je nadbytečné
+      text: Stůl plný předmětů spjatých s jistou otravnou osobou. #jednou je nadbytečné
 
 message_203:
       text: Obrazovka s jakýmisi nečitelnými symboly.
@@ -483,7 +483,7 @@ message_459:
 #Map 126:
 
 message_220:
-      text: Líčící stolek. #ješitnost je doslovný překlad
+      text: Stolek na líčení. #ješitnost je doslovný překlad. maty, všechny ostatní instance změněny pro konzistenci
 
 message_221:
       text: Dalekohled.
@@ -535,16 +535,16 @@ message_234:
 #Map 131:
 
 message_235:
-      text: Automat na \c[3]SNO-CONE\c[0].\!<br>Vypadá, že bere \c[4]SNO-CONE TICKETS\c[0].
+      text: Automat na \c[3]VÁNICUK\c[0].\!<br>Vypadá, že bere \c[4]POUKAZY NA VÁNICUK\c[0].
 
 message_236:
-      text: \"OMLOUVÁM SE. SYRUP DOŠEL.\"
+      text: \"MIMO PROVOZ. SYRUP DOŠEL.\" #přiroz
 
 message_237:
-      text: Automat na \c[3]SNO-CONE\c[0].\!<br>Vložíš do něj \c[4]SNO-CONE TICKET\c[0]?
+      text: Automat na \c[3]VÁNICUK\c[0].\!<br>Vložíš do něj \c[4]POUKAZ NA VÁNICUK\c[0]?
 
 message_238:
-      text: Z automatu na \c[3]SNO-CONE\c[0] vypadl \c[3]SNO-CONE\c[0].
+      text: Z automatu na \c[3]VÁNICUK\c[0] vypadl \c[3]VÁNICUK\c[0].
 
 
 #============================
@@ -591,7 +591,7 @@ message_252:
 #Map 182:
 
 message_253:
-      text: Obraz KAPITÁNA VESMÍRŇÁKA.\!<br>\Je celý pocákaný c[3]OVOCNOU ŠŤÁVOU\c[0].
+      text: Obraz KAPITÁNA VESMÍRŇÁKA.\!<br>Je celý pocákaný \c[3]OVOCNOU ŠŤÁVOU\c[0].
 
 #============================
 
@@ -893,7 +893,7 @@ message_402:
       text: Nad jezerem se tyčí symbol \c[11]PŘEDALEKÉ LHOTY\c[0].
 
 message_403:
-      text: MARIIN košík.\!<br>Dneska je plný sendvičů s marmeládou a burákovým máslem.
+      text: MARIN košík.\!<br>Dneska je plný sendvičů s marmeládou a burákovým máslem.
 
 message_404:
       text: AUBRYIN plyšový lilek.\! Bere si ho s sebou úplně všude. #přeložena druhá věta
@@ -1041,7 +1041,7 @@ message_554:
       text: Dalekohled...<br>\!Jeho objektiv je přelepený páskou. #dalekohled
 
 message_555:
-      text: Líčící stolek...<br>\!V zrcadle ale vypadáš zvlášť nepůsobivě. #viz výše
+      text: Stolek na líčení...<br>\!V zrcadle ale vypadáš zvlášť nepůsobivě. #viz výše
 
 message_556:
       text: Knížky...<br>\!Všechny mají přilepené stránky. #blíže orig
@@ -1053,7 +1053,7 @@ message_58:
       text: Nádherný obraz oblohy s hvězdama...<br>\!Táhne z něj horký plast.
 
 message_59:
-      text: Obří líčící stolek pro ZLATÍČČIN papundeklový ksicht. #viz výš
+      text: Obří stolek na líčení pro ZLATÍČČIN papundeklový ksicht. #viz výš
 
 message_590:
       text: ZLATÍČČIN soukromý útěk. #tady potřebuju vidět, u čeho se to zobrazuje
@@ -1154,7 +1154,7 @@ message_680:
       text: \"HOSTINEC U HRNCE\"\!<br>\"DNEŠNÍ MENU - POMERANČOVÁ ŠŤÁVA, MERUŇKOVÁ SODOVKA, a MLÉKO\"
 
 message_681:
-      text: \"DNEŠNÍ MENU...\! ČERSTVÝ CHLEBA\"\!<br>\"ZÍTŘEJŠÍ MENU...\! ČERSTVÝ CHLEBA\"
+      text: \"DNEŠNÍ MENU...\! ČERSTVÝ CHLÉB\"\!<br>\"ZÍTŘEJŠÍ MENU...\! ČERSTVÝ CHLÉB\"
 
 message_193:
       text: Věci na pečení.
@@ -1209,17 +1209,17 @@ message_802:
 #Orange Oasis
 
 message_805:
-      text: Plán pro dvoupatrový dům.
+      text: Plánek dvoupatrového domu.
 
 message_806:
-      text: Plán pro dvousetpatrový mrakodrap.
+      text: Plánek dvousetpatrového mrakodrapu.
 
 message_807:
       text: Kradený nábytek a všelijaké blbosti.
 
 
 message_808:
-      text: Zlatý hero sandwich.
+      text: Zlatý hero sendvič.
 
 message_809:
       text: O.
@@ -1275,7 +1275,7 @@ message_837:
       text: Výzkumné rostliny.
 
 message_838:
-      text: Mikroskop.
+      text: Drobnohled.
 
 message_839:
       text: Knihy plné moudrosti psané jazykem, kterému nerozumíš.
@@ -1316,10 +1316,10 @@ message_850:
       text: Zábava pro šťastné i nešťastné.
 
 message_851:
-      text: Líčící stolek...<br>\!V zrcadle vypadáš zvlášť působivě! #menší úprava, stolek
+      text: Stolek na líčení...<br>\!V zrcadle vypadáš zvlášť působivě! #menší úprava, stolek
 
 message_852:
-      text: \"ZAMĚSTNANEC MĚSÍCE\"\!<br>Wow...
+      text: \"ZAMĚSTNANEC MĚSÍCE\"\!<br>Ty jo...
 
 #Molly
 
@@ -1345,7 +1345,7 @@ message_900:
       text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]DŽEM ŽIVOTA\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]COMBO MEAL\c[0]!\" #překlad, dodělat názvy
 
 message_901:
-      text: Reklamy.
+      text: Letáky.
 
 message_902:
       text: \"KAŽDOROČNÍ \c[11]HLUBOKOSTUDNOVÁ\c[0] SOUTĚŽ TANCE A ZPĚVU -<br>1. MÍSTO DRŽÍ PITSTOP PIROUETTES\" #překlad, dodělat název skupiny

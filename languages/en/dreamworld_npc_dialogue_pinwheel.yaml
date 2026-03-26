@@ -22,7 +22,7 @@ message_0:
 #SPELLING BEE (tak tohle nevím jak přeložit.)
 #Location: Train station
 message_1:
-      text: \n<SPELLING BEE>A-\!H-\!O-\!J\! J-\!Á\! J-\!S-\!E-\!M\! <br>S-\!P-\!E-\!L-\!L-\!I-\!N-\!G\! B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E!
+      text: \n<VČELA HLÁSKA>A-\!H-\!O-\!J\! J-\!Á\! J-\!S-\!E-\!M\! <br>V-\!Č-\!E-\!L-\!A-\! H-\!L-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!K-\!A!
 
 #Gator Guy 1
 #Location: Train Station
@@ -46,7 +46,7 @@ message_6:
       text: \n<PŘÍTULNÝ HRÁČ GIBS>Byli byste tak hodní a dali mi 5 MUŠLÍ? To by mi<br>fakt pomohlo.\!<br>A když mi je dáte, ukážu vám něco \SINV[1]fakt hustýho\SINV[0]!\$ #hustý - hustýho
 
 message_7:
-      text: \n<PŘÍTULNÝ HRÁČ GIBS>Díky za váš přízpěvek!\! A na oplátku...<br> vám zahraji píseň svého lidu.
+      text: \n<PŘÍTULNÝ HRÁČ GIBS>Díky za váš přízpěvek!\! A na oplátku... vám zahraji píseň svého lidu. #maty
 
 message_8:
       faceset: MainCharacters_DreamWorld
@@ -156,7 +156,7 @@ message_38:
       text: ŠPATNOU RADU (3 MUŠLE)
 
 message_39:
-      text: FAJN RADU ADVICE (10 MUŠLÍ)
+      text: FAJN RADU (10 MUŠLÍ) #advice
 
 message_41:
       text: ŽÁDNOU RADU
@@ -168,7 +168,7 @@ message_41:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_40:
-      text: \n<SPELLING BEE>H-\!O-\!W\! A-\!R-\!E\! Y-\!O-\!U\! T-\!H-\!I-\!S\! F-\!I-\!N-\!E\! B-\!E-\!E-\!V-\!E-\!N-\!I-\!N-\!G?\!<br>I-\!S-\!N'-\!T \!T-\!H-\!E \!W-\!E-\!A-\!T-\!H-\!E-\!R \!J-\!U-\!S-\!T \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!A-\!U-\!T-\!I-\!F-\!U-\!L?
+      text: \n<VČELA HLÁSKA>J-\!A-\!K-\!P-\!A-\!K\! S-\!E\! V-\!Á-\!M\! L-\!Í-\!B-\!Í\! T-\!E-\!N-\!T-\!O <br> \!P-\!Ř-\!E-\!K-\!R-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!N-\!Ý\! V-\!E-\!Č-\!E-\!R? \!N-\!O\! N-\!E-\!M-\!Á-\!M-\!E-\! T-\!O \!H-\!E-\!Z-\!K-\!É \!P-\!O-\!Č-\!A-\!S-\!Í?
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: Same as Night 1-1
 #Gator Guy 2: Same as Night 1-1
@@ -182,7 +182,7 @@ message_40:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_50:
-      text: \n<SPELLING BEE>W-\!H-\!Y \!H-\!E-\!L-\!L-\!O \!T-\!H-\!E-\!R-\!E! \!I-\!T'-\!S \!Y-\!O-\!U \!A-\!G-\!A-\!I-\!N!\!<br>H-\!O-\!W \!H-\!A-\!V-\!E \!Y-\!O-\!U \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!N?
+      text: \n<VČELA HLÁSKA>A-\!H-\!O-\!J-\!T-\!E! \!R-\!Á-\!D-\!A \!V-\!Á-\!S \!Z-\!A-\!S-\!E <br>\!V-\!I-\!D-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!M!\! J-\!A-\!K-\!P-\!A-\!K \!J-\!S-\!T-\!E \!S-\!E \!M-\!Ě-\!L-\!I?
 
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: N/A

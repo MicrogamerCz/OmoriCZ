@@ -109,7 +109,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: \herAhh... M-Myslíš, že by se to mohlo stát? #citoslovce
+      text: \herÁ... M-Myslíš, že by se to mohlo stát? #citoslovce
 
 message_21:
       faceset: MainCharacters_Faraway

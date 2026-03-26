@@ -65,7 +65,7 @@ message_12:
       text: \n<KUCHAŘ>\c[3]TOFU\c[0] není vhodné pro osoby trpící ledvinovými kameny, neboť má vysoký obsah sóji!
 
 message_13:
-      text: \n<KUCHAŘ>Nejlepší způsob, jak přidat \c[3]TOFU\c[0] chuť, je jej smažit do zlatova, a poté přidat marinádu.\! V tomto případě z ní absorbuje všechnu příchuť a pomalu se ani neodlepí z pánvičky!
+      text: \n<KUCHAŘ>Nejlepší způsob, jak přidat \c[3]TOFU\c[0] chuť, je jej smažit do zlatova, a poté přidat marinádu.\! V tomto případě z ní absorbuje všechnu příchuť, až se pomalu ani neodlepí z pánvičky!
 
 message_14:
       text: \n<KUCHAŘ>Pokud byste se chtěli dozvědět více o nádherném a majestátním \c[3]TOFU\c[0], klidně se zeptejte znovu.\! Ho-ho! #úplně tady nechi evokovat santu
@@ -83,7 +83,7 @@ message_21:
 #ELDER MOLE
 #Location: Sprout Mole Village
 message_22:
-      text: \n<KRTEK STAROSTA>Pracuji na revolučním vynálezu, který změní život všech obyvatelů této kolonie...\! ne...\! na celém světe! #blíže orig
+      text: \n<KRTEK STAROSTA>Pracuji na převratném vynálezu, který změní život všech obyvatelů této kolonie...\! ne...\! na celém světe! #blíže orig
 
 #ELDER MOLE JR.
 #Location: Sprout Mole Village
@@ -157,7 +157,7 @@ message_41:
 #STUDENT MOLE 3
 #Location: Sprout Mole Village
 message_42:
-      text: \n<STUDENT MOLE>Navzdory mému \QUAKE[1]hněvu\QUAKE[0] jsem stále jen krtek v kleci.
+      text: \n<KRTEK STUDENT>Navzdory mému \QUAKE[1]hněvu\QUAKE[0] jsem stále jen krtek v kleci.
 
 #SUE KUCHAŘ 1 & SUE CHEF MOLE 2
 #Location: Sprout Mole Village
@@ -597,7 +597,7 @@ message_133:
 #SPROUT CROWD
 
 message_200:
-      text: \sprZa tohle místo jsem dal celou všechno \c[3]TOFU\c[0], co jsem měl! #blíže orig
+      text: \sprZa tohle místo jsem dal všechno své \c[3]TOFU\c[0]! #blíže orig
 
 message_201:
       text: \sprZa tohle místo jsem dal peníze, které jsem si šetřil na vysokou!

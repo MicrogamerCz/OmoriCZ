@@ -66,7 +66,7 @@ message_40:
 #Location: Town Plaza (Near the fountain)
 
 message_50:
-      text: \n<KRÁTKOVLÁSKA>Přála jsem si, abych jednou potkala svou pravou lásku!
+      text: \n<KRÁTKOVLÁSKA>Přála jsem si jednou potkat svou pravou lásku!
 
 #After Cutscene: The Maverick's Loss
 
@@ -132,17 +132,17 @@ message_110:
       text: Oči POŘÁDNÉHO AMERIČANA nesejdou z televize.
 
 message_111:
-      text: \n<POŘÁDNÝ AMERIČAN>\Com[2]Vždyť 85ka byla volná!\! \Com[2]Co to mělo bejt za nahrávku!?
+      text: \n<POŘÁDNÝ ČECH>\Com[2]Vždyť 85ka byla volná!\! \Com[2]Co to mělo bejt za nahrávku!?
 
 #===============CRIS'S MOM=====================
 
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<POŘÁDNÁ AMERIČANKA>Chutnal ti koláč?\!<br>Snažím se zdokonalit svůj recept kvůli té soutěži na pouti ke konci léta!
+      text: \n<POŘÁDNÁ ČEŠKA>Chutnal ti koláč?\!<br>Snažím se zdokonalit svůj recept kvůli té soutěži na pouti ke konci léta!
 
 message_121:
-      text: \n<POŘÁDNÁ AMERIČANKA>Už jsem sice vyhrála každý ročník, ale chci mít jisto, aby to tak šlo i nadále!\! Ohoho!
+      text: \n<POŘÁDNÁ ČEŠKA>Už jsem sice vyhrála každý ročník, ale chci mít jisto, aby to tak šlo i nadále!\! Ohoho!
 
 #===============CURTSEY=====================
 
@@ -152,16 +152,16 @@ message_130:
       text: \n<HEZKÁ HOLKA>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou radost!
 
 message_131:
-      text: \n<PANÍ CANDICE>\{\com[2]ŘÍKALA JSEM TI TO SNAD STOKRÁT, CURTSEY!\! MÁŠ ŘÍKAT \sinv[1]\"HODNĚ RADOSTI\"\sinv[0]!\!
+      text: \n<PANÍ SLADKÁ>\{\com[2]ŘÍKALA JSEM TI TO SNAD STOKRÁT, PURKLE!\! MÁŠ ŘÍKAT \sinv[1]\"PLNO RADOSTI\"\sinv[0]!\!
 
 message_132:
-      text: \n<PANÍ CANDICE>\{\{\quake[1]\sinv[1]\"R\.A\.D\.O\.S\.T\.I\.!\"\sinv[0]
+      text: \n<PANÍ SLADKÁ>\{\{\quake[1]\sinv[1]\"R\.A\.D\.O\.S\.T\.I\.!\"\sinv[0]
 
 message_133:
       text: \n<HEZKÁ HOLKA>A-A-A-A-Ano, omlouvám se!
 
 message_134:
-      text: \n<HEZKÁ HOLKA>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou hodně radosti!
+      text: \n<HEZKÁ HOLKA>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou plno radosti!
 
 
 #===============Daphne & Bowen=====================
@@ -175,7 +175,7 @@ message_141:
       text: \n<DRUHÉ DVOJČE>\SINV[1]Čerstvý chléb...\SINV[0] #konzistence
 
 message_142:
-      text: \n<DVOJČATA>\SINV[1]Nechtěli byste čerstvý chleba?\SINV[0]
+      text: \n<DVOJČATA>\SINV[1]Nechtěli byste čerstvý chléb?\SINV[0]
 
 #===============Gino=====================
 
@@ -209,7 +209,7 @@ message_171:
 message_172:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kel\SUNNY, tohle je JIRKA. Je kapitán našeho školního fotbalového týmu!\! Já nevěděl, že hraješ i basket! #basketball na basket
+      text: \kelSUNNY, tohle je JIRKA. Je kapitán našeho školního fotbalového týmu!\! Já nevěděl, že hraješ i basket! #basketball na basket
 
 message_173:
       text: \n<SPORTOVEC>No...\! Hff...\! Jsem jen přišel zabíjet čas.\! Mám to spíš jako koníček.
@@ -291,7 +291,7 @@ message_221:
 #Location: Hobbeez - Pet Rock Fight
 
 message_230:
-      text: \n<BAREVNÁ HOLKA>Tenhle obchod je sice malý, ale je tady hodně vzácných a cenných sběratelských předmětů.\! Však sem na ně chodí i lidi až z města!
+      text: \n<PESTROBAREVNÁ HOLKA>Tenhle obchod je sice malý, ale je tady hodně vzácných a cenných sběratelských předmětů.\! Však sem na ně chodí i lidi až z města!
 
 #===============KIM AND VANCE'S DAD =====================
 
@@ -352,7 +352,7 @@ message_280:
       text: \n<KRASAVEC>Život je pro mě poslední dobou samý stres, ale koukat tady takhle na lidi mě jaksi vrací na trať.
 
 message_281:
-      text: \n<KRASAVEC>Možná bych sem mohl chodit častěji...\!<br>Občas ke klidu možná stačí jen vypnout a čichnout si k růží! #přidávám "k"
+      text: \n<KRASAVEC>Možná bych sem mohl chodit častěji...\!<br>Občas ke klidu možná stačí jen vypnout a čichnout si k růžím! #přidávám "k"
 
 message_282:
       text: \n<KRASAVEC>Ó ne, stalo se vám něco?!\! Vemte si tuhle \c[5]NÁPLAST\c[0].\! Více jich kdyžtak seženete v \c[11]LÉKÁRNĚ\c[0] v \c[11]HUBERTU\c[0].

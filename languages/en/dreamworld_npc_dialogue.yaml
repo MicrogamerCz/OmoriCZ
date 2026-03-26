@@ -26,7 +26,7 @@ message_2:
 #Bangs
 #Location: Forest Playground #CO JE TOHLE ZA CAPINU? PROČ JE TADY ZASE PROSTĚ HORA DUPLIKÁTNÍHO DIALOGU? 
 message_10:
-      text: \banBavit se je moc pracné, tak se raději dívám na to, jak se baví moji kamarádi.
+      text: \banBavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi.
 
 #Bun
 #Location: Forest Playground
@@ -147,7 +147,7 @@ message_44:
       text: \berA teď...\!<br>tě pasuju na opravdového TVRDOHLAVCE.
 
 message_45:
-      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe jistě budou pyšní!
+      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe budou jistě pyšní!
 
 message_46:
       text: AUBRY se naučila \c[1]HLAVIČKU\c[0].

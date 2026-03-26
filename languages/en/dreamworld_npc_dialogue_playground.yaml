@@ -8,7 +8,7 @@
 #Bangs
 #Location: Forest Playground
 message_0:
-      text: \banBavit se je moc pracné, tak se raději dívám na to, jak se baví moji kamarádi. #plynulejší
+      text: \banBavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi. #plynulejší
 
 #After Cutscene: Lost Ball
 
@@ -99,7 +99,7 @@ message_19:
 
 #stargaze
 message_20:
-      text: Hvězdy ti světle září nad hlavou...<br>\!Jsi bez jediné starosti.
+      text: Hvězdy ti světle září nad hlavou...<br>\!Nemáš jedinou starost. #jsi bez jediné starosti na nemáš jedinou starost
 
 message_21:
       text: OMORI se naučil \c[1]POZOROVAT\c[0]!
@@ -229,7 +229,7 @@ message_84:
       text: \berA teď...\!<br>tě pasuju na opravdového TVRDOHLAVCE. #konzistence s certifikátem
 
 message_85:
-      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe jistě budou pyšní!
+      text: \berA vem si tento diplom.\! No jen se pochlub. \!<br>Tví kamarádi na tebe budou jistě pyšní!
 
 message_86:
       text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
@@ -367,13 +367,13 @@ message_110:
 #BERLY (Gator Guy)
 #Location: Last Resort - Jawsum HQ Entrance
 message_111:
-      text: \berAle ale! Koho to tady máme! \!Ty chceš za šéfem, viď? \!Nerad ti kazím plány, ale nemůžu pustit jen tak kohokoliv!
+      text: \berAle ale! Koho to tady máme! \!Ty chceš za šéfem, viď? \!Nerada ti kazím plány, ale nemůžu pustit jen tak kohokoliv!
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
       text: \kel\sinv[1]No tak...\sinv[0] vážně? \!<br>\Com[2]BERLY! Vždyť se známe celý život! \!<br>To bys nám nemohla jen jednou vyjít vstříc?
 message_113:
-      text: \berMmm, mmm...\! Promiň KELI, přímej rozkaz šéfa... \! Dnešek je důležitý den, proto nechce, aby ho nikdo...\! rušil. \!<br>Musíme tady přece připravit tu sbírku \c[3]TOFU\c[0]!
+      text: \berMmm, mmm...\! Promiň KELI, přímej rozkaz šéfa... \!Dnešek je důležitý den, proto nechce, aby ho nikdo...\! rušil. \!<br>Musíme tady přece připravit tu sbírku \c[3]TOFU\c[0]!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
@@ -381,7 +381,7 @@ message_114:
 message_115:
       text: \ber\Com[2]Nech toho! Myslíš, že ze mě udělali vedoucí ochranky jen tak pro nic za nic?! \!Potřebovali někoho tvrdého... \!Někoho, kdo by byl vždy schopen tvrdě zakročit! \!Někoho tvrdohlavého!
 message_116:
-      text: \berJen se podívej na můj odznak... \!Je tak lesklý!
+      text: \berJen se podívej na můj odznak... \!Jen se podívej, jak se leskne!
 message_117:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
@@ -389,7 +389,7 @@ message_117:
 message_118:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAha, už vím! \! \sinv[1]Hele, BERLY...\!\sinv[0] Náš dobrý přítel OMORI se schání po práci!\! Šéf by přece nikdy neodmítl dobrou práci, a ještě k tomu zadarmo!
+      text: \kelAha, už vím! \! \sinv[1]Hele, BERLY...\!\sinv[0] Náš dobrý kamarád OMORI se shání po práci!\! Šéf by přece nikdy neodmítl dobrou práci, a ještě k tomu zadarmo!
 message_119:
       text: \berHmmm... \!To je sice pravda...\! Ale...
 message_120:
@@ -397,18 +397,18 @@ message_120:
       faceindex: 33
       text: \kel\com[2]No tak, BERLY! \!\SINV[2]Prosím, prosím, prosím, prosím, prosím!\sinv[0]
 message_121:
-      text: \berAch jo...\! Tak dobře... \!Tentokrát vás pustím. \!<br>Ale jenom jestli mi nejdřív donesete \c[3]LÁHEV VODY\c[0]!\!<br>Mám úplně vyschlo v puse!
+      text: \berAch jo...\! Tak dobře... \!Tentokrát vás pustím. \!<br>Ale jenom jestli mi nejdřív donesete jednu \c[3]BALENOU VODU\c[0]!\!<br>Mám úplně vyschlo v puse!
 #[Watch Alarm SFX]
 message_122:
-      text: \berVy jste mi našli \c[3]LÁHEV VODY\c[0]?\! Díky! Jsem vám dlužná!\! Pojďte, kluci! V čekárně prý mají pizzu!
+      text: \berVy jste mi vážně našli \c[3]BALENOU VODU\c[0]?\! Díky! Jsem vám dlužná!\! Pojďte, kluci! V čekárně prý mají pizzu!
 message_123:
       text: \n<KROKOĎÁK>Super! Pizza zdarma!
 message_124:
-      text: \n<KROKOĎÁK>Uff...\! Doufám, že na ni není žádný ananas...
+      text: \n<KROKOĎÁK>Uff...\! Snad je bez ananasu...
 
 #Talk after
 message_107:
-      text: \berTak co, už jste mi našli \c[3]LÁHEV VODY\c[0]?\!<br>Šup šup! Všichni máme vyschlo! #blíže původnímu významu
+      text: \berTak co, už jste mi našli tu \c[3]BALENOU VODU\c[0]?\!<br>Šup šup! Všichni máme vyschlo! #blíže původnímu významu
 
 #BERLY and GATOR GUYS leave.
 
@@ -444,7 +444,7 @@ message_129:
 #BUN (Room Service)
 #Location: Last Resort - Hotel Hallway
 message_130:
-      text: \bun(vzdechnutí)...\!<br>Naši štamgasti teda fakt umí dělat binec.
+      text: \bunUff...\!<br>Naši štamgasti teda fakt umí dělat binec.
 
 message_132:
       text: \bunNepracuje se mi tady lehce. \!<br>Doufám, že je NOSKA vpořádku i beze mě...
@@ -453,7 +453,7 @@ message_132:
 #Location: Last Resort - Entrance
 
 message_133:
-      text: \n<ŠÁRA>\}\}H-Hele... \!Zákaz koupání... \!jo?
+      text: \n<ŠÁRA>\}\}H-Hele... \!Koupání zakázáno... \!jo?
 
 #DAISY (Mural Artist)
 #Location: Last Resort - Hotel Hallway
@@ -504,7 +504,7 @@ message_151:
 #BANGS
 #Location: Forest Playground
 message_142:
-      text: \ban(vzdechnutí)...<br>\!Mrzí mě, že už nejsem zkoušeč postelí na \c[11]KONEČNÉ\c[0]...\!<br>Měl jsem tam poprvé v životě pocit, že jsem našel své poslání.
+      text: \banUff...<br>\!Mrzí mě, že už nejsem zkoušeč postelí na \c[11]KONEČNÉ\c[0]...\!<br>Měl jsem tam poprvé v životě pocit, že jsem našel své poslání.
 
 #BERLY
 #Location: Forest Playground

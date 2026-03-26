@@ -28,12 +28,12 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \kelJo? Kdyby byl opravdu pro mimina, myslíš, že by v něm bylo...\! 150mg kofeinu na plechovku!?\! Ha... Zkus si o tom přístě něco zjistit, AUBRY!
+      text: \kelJo? Kdyby byl opravdu pro mimina, myslíš, že by v něm bylo...\! 150mg kofeinu na plechovku!?\! Ha... Zkus si o tom příště něco zjistit, AUBRY!
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubTs... No a!\! Každý ví, že \c[3]POMERANČOVÝ JOE\c[0] chutná otřesně.\! Nedivila bych se, kdybys byl ten poslední člověk, co tu srajdu pije. #srajda
+      text: \aubTs... No a!\! Každý ví, že \c[3]POMERANČOVÝ JOE\c[0] chutná otřesně.\! Nedivila bych se, kdybys byl ten poslední člověk, co tenhle blivajz pije. #blivajz
 
 message_6:
       faceset: MainCharacters_Faraway
@@ -56,12 +56,12 @@ message_8:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelHele...\! Podle designu bych tipl, že je tahle plechovka aspoň 5 let stará...\! a... je...\! prošlá...
+      text: \kelHele...\! Podle obalu bych tipl, že je tahle plechovka aspoň 5 let stará...\! a... je...\! prošlá...
 
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubVšak jsem ti to říkala...\! Tenhle blaf si nikdo už nekupuje...
+      text: \aubVšak jsem ti to říkala...\! Tenhle blaf už nikdo nepije... #přiroz
 
 message_11:
       faceset: MainCharacters_Faraway
@@ -89,7 +89,7 @@ message_15:
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubA dlužíš mi kačku! #křížová výprava proti dolaru
+      text: \aubA dlužíš mi dvacetikačku! #křížová výprava proti dolaru
 
 message_17:
       faceset: MainCharacters_Faraway
@@ -113,7 +113,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubJo... Snažím se, i když to ne vždycky vyjde.\!<br>Vy k němu ale taky čas od času chodíte... ne? #vypouštím "snad"
+      text: \aubJo... Snažím se, i když to ne vždycky jde.\!<br>Vy k němu ale taky čas od času chodíte... ne? #vypouštím "snad", vyjde na jde
 
 message_33:
       faceset: MainCharacters_Faraway
@@ -150,7 +150,7 @@ message_42:
 message_37:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubHERO...\! Nebuď na sebe tak tvrdý.
+      text: \aubHERO...\! Nemusíš být na sebe takhle tvrdý. #blíže orig
 
 message_38:
       faceset: MainCharacters_Faraway
@@ -343,12 +343,12 @@ message_111:
 message_112:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelVždycky se nám potom nechtělo z postele, a MARI s HEREM se nás pořád ptali, proč jsme tak utahaní.
+      text: \kelVždycky se nám potom nechtělo z postele, a MARI s HEREM se nás pořád ptali z čeho tak utahaní.
 
 message_113:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: \kelUrčitě něco tušili, ale řekl bych, že našim rodičům nic neřekli...
+      text: \kelUrčitě něco tušili, ale řekl bych, že nás nenapráskali...
 
 message_114:
       faceset: MainCharacters_Faraway
@@ -368,7 +368,7 @@ message_115:
 message_130:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubSUNNY...\! Promiň, že jsem na tebe byla tak hnusná
+      text: \aubSUNNY...\! Promiň, že jsem na tebe byla tak hnusná.
 
 message_131:
       faceset: MainCharacters_Faraway
@@ -378,7 +378,7 @@ message_131:
 message_132:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: \aubDoufám, že jsi jinak ale v pohodě a tak...\! Určitěs to taky měl těžké.
+      text: \aubDoufám, že jsi jinak ale v poho...\! Určitěs to taky měl těžké. #přiroz
 
 message_133:
       faceset: MainCharacters_Faraway
@@ -398,7 +398,7 @@ message_138:
 message_134:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \aubKaždopádně, jsem ti chtěla říct...\! že si tě pořád vážím a tak.
+      text: \aubKaždopádně, jsem ti chtěla říct...\! že si tě pořád fakt hrozně vážím. #přiroz
 
 message_135:
       faceset: MainCharacters_Faraway

@@ -78,26 +78,26 @@ message_23:
 #Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
 
 message_30:
-      text: \n<KIM>\}AUBREY...\! Why won't you tell me what's wrong?
+      text: \n<KIM>\}AUBRY...\! Proč mi sakra neřekneš, co s tebou je?
 
 message_31:
-      text: \n<KIM>\Com[2]Ah!\! Grumble... grumble...\!<br>Ugh... It's just you two...\! What makes you think you can barge into people's rooms like this!?
+      text: \n<KIM>\Com[2]Á!\! Grr... grr...\!<br>Uff... To jste jen vy dva...\! Vám připadá normální takhle někomu vtrhnout do pokoje!?
 
 message_32:
-      text: \n<KIM>You must've made friends with my mom, huh?\!<br>She lets in anyone who listens to her talk...
+      text: \n<KIM>Vy jste se spřáhli s mojí mámou, že?\!<br>Pouští sem každého, kdo jí je ochoten naslouchat...
 
 #====================STŘEMHLAV==============================
 
 #Location: The Maverick's Bedroom
 
 message_40:
-      text: \n<STŘEMHLAV>I am sensing an evil presence coming from inside my home...\! Maybe I'm overthinking it...\! But I can never be too careful...
+      text: \n<STŘEMHLAV>Z mého domova cítím jakousi zlou sílu...\! Možná si s tím jen moc dělám hlavu...\! Ale opatrnost vždycky stojí za to.
 
 message_41:
-      text: \n<STŘEMHLAV>Sigh...\! My brother and sister are a real drag, aren't they?\! Everyone here is the same!
+      text: \n<STŘEMHLAV>Uff...\! Ti moji sourozenci jsou ale nemožní, že?\! Všichni jsou jak přes kopírák!
 
 message_42:
-      text: \n<STŘEMHLAV>Ah... So you have conquered the great evil.\!<br>What did it cost you?\! I can still see the pain in your eyes.
+      text: \n<STŘEMHLAV>Á... Tak se vám nakonec podařilo pokořit to veliké zlo.\!<br>Co vás to stálo?\! Z vašich očí jde stále vyčíst bolest.
 
 
 #====================VANCE==============================
@@ -182,17 +182,17 @@ message_113:
 #Location: Supermarket
 
 message_120:
-      text: \n<POŘÁDNÁ AMERIČANKA>\SINV[1]Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\SINV[0]
+      text: \n<POŘÁDNÁ ČEŠKA>\SINV[1]Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\! Tra-la-lá!\SINV[0]
 
 #====================CURTSEY==============================
 
 #Location: Pharmacy
 
 message_130:
-      text: \n<HEZKÁ HOLKA>PANÍ CANDICE mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]...
+      text: \n<HEZKÁ HOLKA>PANÍ SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]...
 
 message_131:
-      text: \n<HEZKÁ HOLKA>Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
+      text: \n<HEZKÁ HOLKA>Ty musí být teda hodně odvážné. PANÍ SLADKÁ je přímo děsivá, když se zlobí...
 
 #====================KAREN==============================
 
@@ -244,7 +244,7 @@ message_153:
 #Examine KEL'S PARENT'S ROOM.
 
 message_154:
-      text: Dveře jsou zamčené.
+      text: Zamčeno.
 
 #====================KELOVA MAMKA==============================
 

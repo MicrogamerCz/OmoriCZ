@@ -27,16 +27,16 @@ message_7:
       text: Získal jsi \c[13]CENOVKU\c[0].
 
 message_203:
-      text: \n<SNO-CONE JAŠ>Na tohle nemáte dost MUŠLÍ.
+      text: \n<VÁNICUK JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_204:
-      text: \n<SNO-CONE JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<VÁNICUK JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
 
 message_205:
-      text: \n<SNO-CONE JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+      text: \n<VÁNICUK JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
 
 message_206:
-      text: \n<SNO-CONE JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+      text: \n<VÁNICUK JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
 
 message_213:
       text: \n<TOFUOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
@@ -134,7 +134,7 @@ message_16:
 #LEAVE SHOP WITHOUT BUYING ANYTHING
 
 message_17:
-      text: \maiJen abyste věděl, zákazníci, co jen tak okoukávají zboží nemám dvakrát v oblibě...
+      text: \maiJen abyste věděl, zákazníky, co jen tak okoukávají zboží nemám dvakrát v oblibě... #maty
 #NOT ENOUGH CLAMS
 
 message_18:
@@ -304,7 +304,7 @@ message_98:
       text: \n<SLIZÁK>Hej, vy!\! Ano, vy s tou krásnou tváří!
 
 message_99:
-      text: \n<SLIZÁK>Měli byste zájem o tuhle poctivou, organickou \c[3]BALENOU VODU\c[0]?\! Máme likvidaci zboží!
+      text: \n<SLIZÁK>Nemáte náhodou zájem o tuhle poctivou, organickou \c[3]BALENOU VODU\c[0]?\! Máme likvidaci zboží!
 
 #should be a variable reference to change depending on the amount
 message_100:
@@ -345,30 +345,30 @@ message_94:
       text: Získal jsi \c[3]BALENOU VODU\c[0].
 
 # =========================================================================================
-# Sno-cone JAŠ
+# VÁNICUK JAŠ
 # =========================================================================================
 
 #Intro  start at 110
 message_110:
-      text: \n<SNO-CONE JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
+      text: \n<VÁNICUK JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
 
 #Purchase
 message_111:
-      text: \n<SNO-CONE JAŠ>Děkuji vám za váš nákup.
+      text: \n<VÁNICUK JAŠ>Děkuji vám za váš nákup.
 
 #Decline
 message_112:
-      text: \n<SNO-CONE JAŠ>Respektuji vaše rozhodnutí.
+      text: \n<VÁNICUK JAŠ>Respektuji vaše rozhodnutí.
 
 #Not enough money
 message_113:
-      text: \n<SNO-CONE JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+      text: \n<VÁNICUK JAŠ>Zdá se, že nemáte dost MUŠLÍ...
 #item buying prompt
 message_114:
-      text: \n<SNO-CONE JAŠ>Skvěle! Dohromady vás to bude stát <SHOPTOTAL>\G.
+      text: \n<VÁNICUK JAŠ>Skvěle! Dohromady vás to bude stát <SHOPTOTAL>\G.
 #max item message
 message_115:
-      text: \n<SNO-CONE JAŠ>Na tohle nemáte místo...
+      text: \n<VÁNICUK JAŠ>Na tohle nemáte místo...
 #on item list buy ok
 message_116:
       text: Kolik byste jich chtěl?\^
@@ -377,10 +377,10 @@ message_117:
       text: Kolik byste jich chtěl prodat?\^
 #item selling prompt
 message_118:
-      text: \n<SNO-CONE JAŠ>Výborně.\! Vaše objednávká vám vyjde na tolik!
+      text: \n<VÁNICUK JAŠ>Výborně.\! Vaše objednávká vám vyjde na tolik!
 #item buying cancel
 message_119:
-      text: \n<SNO-CONE JAŠ>Respektuji vaše rozhodnutí.
+      text: \n<VÁNICUK JAŠ>Respektuji vaše rozhodnutí.
 
 # =========================================================================================
 # TOFUOVÝ JAŠ

@@ -215,7 +215,7 @@ message_54:
       text: Rozbila se ti \c[4]LŽIČKA\c[0]!
 
 message_55:
-      text: Použil jsi \c[4]PYRAMIDOVÝ KLÍČ\c[0].
+      text: Odemknul jsi \c[4]PYRAMIDOVÝM KLÍČEM\c[0]. #konzistence
 
 
 # =========================================================================================

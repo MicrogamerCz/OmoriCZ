@@ -115,19 +115,19 @@ message_36:
     text: \n<NĚKDO>Zabloudil sem snad ten kluk s kytkama?\! Přišel jsi ho znovu zachránit?\! To má ale štěstí...
 
 message_37:
-    text: \n<NĚKDO>Za jedněmy z těchto dveří čeká vysvobození...\! ovšem v této podobě se ti neotevřou.\! Budeš se tam muset dostat jinak. #vykouopení se zde vůbec nehodí, když už, tak spása, já na podoba, jinudy na jina - pravý způsob je změnit podobu, pravopis. díky wikidictionary... bez tebe bych "jedny" nevyskloňoval...
+    text: \n<NĚKDO>Za jednimy z těchto dveří čeká vysvobození...\! ovšem v této podobě se ti neotevřou.\! Budeš se tam muset dostat jinak. #vykouopení se zde vůbec nehodí, když už, tak spása, já na podoba, jinudy na jina - pravý způsob je změnit podobu, pravopis. díky wikidictionary... bez tebe bych "jedny" nevyskloňoval...
 
 message_38:
     text: \n<NĚKDO>Za těmito dveři leží místa nestálá, tvořena roztříštěnými kusy.<br><br>Ztratíš-li se, nezoufej.\! Rudé ruce tě povedou...\! a...\! tvá současná podoba...\! zde nedokáže zemřít. #blíže orig
 
 message_39:
-    text: \n<NĚKDO>Opět ses schoval.\! Naděje, sny, touhy, ambice...\! znamenají pro tebe vůbec něco?
+    text: \n<NĚKDO>Opět ses schoval.\! Naděje, sny, touhy, ambice...\! mají pro tebe vůbec nějaký význam?
 
 message_40:
     text: \n<NĚKDO>Možná, že už nad tímto místem nemáš kontrolu...\! ale neztrácej naději, SNÍLKU.\! Stále se najdou někteří, kteří v tebe věří. #odstraěno teď
 
 message_41:
-    text: \n<NĚKDO>Velká moc znamená s sebou nese velké břemeno...\! pro tebe...\! a všechny tvé nejbližší.\! Koho to chráníš?\! A... stojí ti to vůbec za to?
+    text: \n<NĚKDO>Velká moc s sebou nese velké břemeno...\! pro tebe...\! a všechny tvé nejbližší.\! Koho to chráníš?\! A... stojí ti to vůbec za to?
 
 message_42:
     text: \n<NĚKDO>Hluboce doufám, že se duše dvého kamaráda zrozdí nenarušena.\! Všichni víme, jaký by byl jeho osud, kdyby tomu tak nebylo. #čas, blíže orig
@@ -160,7 +160,7 @@ message_51:
     text: Dveře nelze otevřít. #nadbytečné tyto
 
 message_52:
-    text: Dveře jsou zamčené. #nadbytečné tyto
+    text: Zamčeno. #nadbytečné tyto
 
 message_53:
     text: Získal jsi KLÍČ.
