@@ -73,7 +73,7 @@ message_21:
 message_22:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herMěli bychom říct MARI, že jsi v pohodě.\!<br>Víš, jaký o tebe měla strach?!
+      text: \herMěli bychom říct MARI, že jsi v pohodě.\!<br>Víš, jaký o tebe měla strach? #nějak mi tady nesedí vykřičník
 
 #------------------------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ message_31:
 message_32:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marKde je BASIL?\! On nebyl s tebou, OMORI?
+      text: \marKde je BASIL?\! Nebyl s tebou, OMORI? #On je nadbytečné
 
 message_33:
       faceset: MainCharacters_DreamWorld
@@ -139,7 +139,7 @@ message_38:
 message_40:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubTyhle kytičky...\! Už vadnou...<br>\!Měli bychom se o ně zkusit postarat, dokud se BASIL nevrátí.
+      text: \aubTyhle kytičky...\! Už vadnou...<br>\!Měli bychom se o ně zkusit postarat, než se BASIL vrátí. #zní přirozeněji
 
 #------------------------------------------------------------------------------------------
 
@@ -231,7 +231,7 @@ message_57:
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aub...\! Kluci, mám vážně strach.\! Smůžeme vůbec něco?
+      text: \aub...\! Kluci, mám vážně strach.\! Zmůžeme vůbec něco? #pravopis
 
 message_59:
       faceset: MainCharacters_DreamWorld
@@ -251,7 +251,7 @@ message_61:
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aubSniff...\! Asi máte pravdu...
+      text: \aubFňuk...\! Asi máte pravdu... #možná jsou lepší citoslovce na tuto situaci, ale fakt by je to chtělo nějak přeložit. Nechat to tak nejde, tak raději něco než nic
 
 message_63:
       faceset: MainCharacters_DreamWorld
@@ -320,12 +320,12 @@ message_78:
 message_79:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubTohle je celkem dlouhý žebřík, že?
+      text: \aubTý jo, to je ale dlouhý žebřík... #nahrazen příliš doslovný překlad něčím plynulejším
 
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kelHm... Celkem...\! ale není tak vysoký, jako ten u toho pařežu!\! Ten sahá až do vesmíru!
+      text: \kelHm... Celkem...\! ale není tak vysoký, jako ten u toho pařezu!\! Ten sahá až do vesmíru! #překlep
 
 message_81:
       faceset: MainCharacters_DreamWorld
@@ -361,7 +361,7 @@ message_93:
 message_94:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelMám nápad!\! Co kdybychom zkusili vylést ten dlouhý žebřík?\!<br>Ten u toho pařezu!
+      text: \kelMám nápad!\! Co kdybychom zkusili vylézt ten dlouhý žebřík?\!<br>Ten u toho pařezu! #pravopis
 
 message_95:
       faceset: MainCharacters_DreamWorld
@@ -371,7 +371,7 @@ message_95:
 message_96:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \kelAle co když je tam někde BASIL?<br>Tu šanci nemůžeme promarnit!
+      text: \kelAle co když je tam někde BASIL?<br>To přece nemůžeme jen tak vyloučit! #předělávka druhé věty, aby zněla přirozeněji
 
 message_97:
       faceset: MainCharacters_DreamWorld
@@ -381,34 +381,34 @@ message_97:
 message_98:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marOMORI!\! Jsi přece den co den silnější.\!<br>Ty bys přece snad zvládl vylést žebřík, ne?\!<br>No tak, bratříčku. Postav se svému strachu!
+      text: \marOMORI!\! Jsi přece den co den silnější.\!<br>Ty bys přece snad zvládl vylézt žebřík, ne?\!<br>No tak, bráško. Postav se svému strachu! #pravopis
 
 message_99:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herChápu že je přirozené být ze začátku nervózní, ale nesmíš zapomenout, že ti všichni věříme!
+      text: \herKaždý je na začátku nervózní, ale nezapomeň, že ti všichni věříme! #plynulejší předělávka
 
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelPřesně, OMORI! Je to přece jenom jeden malej žebřík...\!<br>Co by se tak mohlo stát?
+      text: \kelPřesně tak, OMORI! Je to přece jenom jeden malej pidi žebřík...\!<br>Co by se tak mohlo stát? #tak, pidi
 
 message_101:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubPořád si nejsem jistá...\!<br>Myslíš, že to zvládneš, OMORI?
+      text: \aubNo, já pořád nevím...\!<br>Myslíš, že to zvládneš, OMORI? #plynulejší předělávka
 #[YES/NO]
 
 #[YES]
 message_102:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubTak dobře! Pokud to zvládneš ty, tak já taky!\!<br>Ale kdyby ses i tak bál, počítej s tím, že tě kdykoliv povzbudím.
+      text: \aubTak dobře! Pokud si věříš ty, tak já tobě taky!\!<br>Ale kdyby ses i tak bál, počítej s tím, že tě kdykoliv povzbudím. #význam bližší originálu
 
 message_103:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herDobrá práce, OMORI. Jsi fakt odhodlaný.
+      text: \herDobrá práce, OMORI. Jsi fakt odvážný. #odhodlaný na odvážný
 
 message_104:
       faceset: MainCharacters_DreamWorld
@@ -429,7 +429,7 @@ message_106:
 message_107:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubTo je v pořádku... Chápu, že potřebuješ čas.
+      text: \aubRozumím... Chápu, že potřebuješ čas. #přirozenější
 
 message_108:
       faceset: MainCharacters_DreamWorld
@@ -449,7 +449,7 @@ message_110:
 message_111:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herNemáš čeho se bát, dokud jsme spolu.\! BASIL je asi teď osamělý, celý sám...\! Potřebuje nás, a to hned teď!
+      text: \herNemáš čeho se bát, dokud jsme spolu.\! BASIL je asi teď úplně sám...\! Potřebuje nás, a to hned teď! #přirozenější
 
 message_112:
       faceset: MainCharacter_Mari
@@ -585,7 +585,7 @@ message_147:
 message_148:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aub(vzdechnutí)...\! No... pro začátek to není zas tak špatný.
+      text: \aubUff...\! No... pro začátek to není zas tak špatný.
 
 #------------------------------------------------------------------------------------------
 
@@ -644,7 +644,7 @@ message_166:
 message_167:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelJá vím! Hrozně super, že?!
+      text: \kelNo, že jo? #přirozenější
 
 message_168:
       faceset: MainCharacters_DreamWorld
@@ -659,7 +659,7 @@ message_169:
 message_170:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marNěco nám musí scházet...<br>\!Nemáš nějaký nápad, OMORI?
+      text: \marNěco nám musí scházet...<br>\!Nenapadá tě něco, OMORI?
 
 #------------------------------------------------------------------------------------------
 
@@ -669,7 +669,7 @@ message_170:
 #When you examine the music stand, it will say:
 
 message_175:
-      text: Noty na podstavci.\!<br>Všechny jsou začmárané.
+      text: Noty na stojanu.\!<br>Všechny jsou začmárané.
 
 message_176:
       text: Noty na klavíru.\!<br>Všechny jsou začmárané.
@@ -726,7 +726,7 @@ message_185:
 message_503:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aub(vzdechnutí)...\! Doufám, že je v pořádku...\!<br>Hrozně mi chybí...
+      text: \aubUffff...\! Doufám, že je v pořádku...\!<br>Hrozně mi chybí... #uf místo vzdechnutí
 
 message_186:
       faceset: MainCharacters_DreamWorld
@@ -756,24 +756,24 @@ message_190:
 message_191:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herKELI... měl by sis asi mýt ruce i když ti to BASIL nepřikazuje.
+      text: \herKELI... asi by sis měl mýt ruce, i když ti to BASIL nepřikazuje.
 
 message_502:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marTakže... Vím sice, že je to těžké, ale musíme být pořád pozitivní!\! Musíme být jako BASIL!\! I když se zlobil nebo byl smutný, taky se vždycky smál.
+      text: \marTakže... Vím sice, že je to těžké, ale musíme být pořád pozitivní!\! Musíme být jako BASIL!\! I když se zlobil nebo byl smutný, stejně se vždycky usmíval.
 
 message_192:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marNevíte o nějakém místě, kde jste ještě nebyli?
+      text: \marNevíte o nějakém místě, kde jste ještě nehledali?
 
 #HERO ...
 
 message_193:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herNo...\! Západně o pařezu je jeden takový les, ale...
+      text: \herNo...\! Na západ od pařezu je jeden takový les, ale...
 
 message_194:
       faceset: MainCharacters_DreamWorld
@@ -795,7 +795,7 @@ message_196:
 message_197:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marUž se zase budeš muset postavit svému strachu, bratříčku!
+      text: \marUž se zase budeš muset postavit svému strachu, bráško!
 
 message_198:
       faceset: MainCharacter_Mari
@@ -820,7 +820,7 @@ message_201:
 message_202:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubNebojte!\! Kdyby se nám cokoliv nebo kdokoliv postavilo do cesty,<br> tak ho rozmlátím na kusy!\! S tím můžete počítat!
+      text: \aubNebojte!\! Kdyby se nám cokoliv nebo kdokoliv postavilo do cesty, tak ho rozmlátím na kusy!\! S tím počítejte!
 
 message_203:
       faceset: MainCharacter_Mari
@@ -835,7 +835,7 @@ message_204:
 message_205:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herP-Pojďme do toho lesa...\!<br>Veď nás, OMORI!
+      text: \herP-Pojďme do toho lesa na západ od pařezu...\!<br>Veď nás, OMORI! #přidáno opakování informace o poloze lesa
 
 
 #------------------------------------------------------------------------------------------
@@ -860,7 +860,7 @@ message_208:
 message_209:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: OMORI...\! Díky, že ses nabídl.\her
+      text: OMORI...\! Díky, že ses obětoval.\her
 
 #*Examine Spider Web*
 #*Dark border appears, then suddenly disappears/retracts*
@@ -917,31 +917,31 @@ message_216:
 message_217:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marHERO...\! Není ti tohle trochu trapné?...
+      text: \marHERO...\! Není tohle trochu trapné?... #ti mi vyznívá moc nepřátelsky
 
 #KEL turns to Aubrey
 
 message_218:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kel(vzdechnutí)...\! Zrovna tohle jsou chvíle, kdy bych si přál, aby tady BASIL byl s náma.<br><br><br>Určitě by teď HEROVI řekl, že pavouci jsou neškodní a že pomáhají přírodě nebo něco takového.\! A pak už by se jich možná tak nebál.
+      text: \kelUffff...\! Zrovna tohle jsou chvíle, kdy bych si přál, aby tady BASIL byl s náma.<br><br>Určitě by teď HEROVI řekl, že pavouci jsou neškodní a že pomáhají přírodě nebo něco takového.\! A pak už by se jich možná tak nebál.
 
 #AUBREY turns to kel
 
 message_219:
       faceset: MainCharacters_DreamWorld
       faceindex: 11
-      text: \aubNejsem si jistá, jestli by mu to zrovna teď pomohlo.
+      text: \aubNo, nevím, jestli by mu to zrovna teď pomohlo.
 
 message_220:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marAch, HERO...\! Jednou tě tohle stejně dožene.\! Čím dál to budeš ignorovat, tím horší to bude.
+      text: \marAch, HERO...\! Jednou tě tohle stejně dožene.\! Čím déle to budeš zapírat, tím horší to nakonec bude.
 
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herMožná...\! A nebo z toho prostě vyrostu!\!<br>Nikdy přece nevíš, co bude! Heh heh...
+      text: \herMožná...\! A nebo z toho prostě vyrostu!\!<br>Nikdy přece nevíš, co bude! He he... #h na konci se v češtině u he nepoužívá. maximálně úplně na konci toho smíchu (he heh)
 
 #------------------------------------------------------------------------------------------
 
@@ -960,7 +960,7 @@ message_231:
 message_232:
       faceset: MainCharacters_DreamWorld
       faceindex: 14
-      text: \aubAha... Konečně mi to docvaklo!\! Jeden velký strhující, vášnivý příběh o strastech lásky!
+      text: \aubUž si to živě dokážu představit!\! Jeden velký strhující, vášnivý příběh o strastech lásky! #zachování původního významu
 
 message_233:
       faceset: MainCharacters_DreamWorld
@@ -970,7 +970,7 @@ message_233:
 message_234:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubTohle bude super!\!<br>Nemůžu se dočkat na to, jak moc mě to nadchne!
+      text: \aubTohle bude super!\!<br>Nemůžu se dočkat, až mě to nadchne! #přirozenější
 
 message_235:
       faceset: MainCharacters_DreamWorld
@@ -1006,7 +1006,7 @@ message_240:
 message_241:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelMARI! MARI! Pomož nám, jsme zavření v \c[11]HLADOMORNĚ\C[0]!
+      text: \kelMARI! MARI! Pomoz nám, jsme zavření v \c[11]HLADOMORNĚ\C[0]! #pravopis
 
 message_242:
       faceset: MainCharacter_Mari
@@ -1032,17 +1032,17 @@ message_243:
 message_250:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marOMORI... Tak jsi tady. \!Jsem tak rád, že jsi mě našel.
+      text: \marOMORI... Tak jsi tady. \!Jsem tak ráda, že jsi mě našel. #tranzice
 
 message_251:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marKEL, AUBRY, HERO, a všechny další děti jsou pryč.
+      text: \marKEL, AUBRY, HERO, a všichni ostatní jsou pryč. #blíže původnímu významu
 
 message_252:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marLes pohltila hustá mlha...\!<br>Pohltila všechno, jen tohle místo ne.\! Možná, že jsou naši kamarádi někde tam, za vodou.
+      text: \marLes pohltila hustá mlha...\!<br>Všechno, jen tohle místo ne.\! Možná, že jsou naši kamarádi někde tam, za vodou. #zbytečné opakování pohltila
 
 message_253:
       faceset: MainCharacter_Mari
@@ -1054,13 +1054,13 @@ message_253:
 message_254:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marDíky, bratříčku. Věděla jsem, že s tebou můžu počítat.\!<br>Alespoň nebudeš sám.\!<br>Vím, že ti to nedělá dobře.
+      text: \marDíky, bráško. Věděla jsem, že s tebou můžu počítat.\!<br>Alespoň nebudeš sám.\!<br>Vím, že ti to nedělá dobře.
 
 #[NO]
 message_255:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marVím taky že máš strach... ale taky že to zvládneš.\! Dávám ti tolik času, kolik budeš potřebovat.\! Budu tady, až budeš připraven.
+      text: \marVím taky že máš strach... ale taky že to zvládneš.\! Dám ti tolik času, kolik budeš potřebovat.\! Budu tady, až budeš připraven. #dám zní přátelštěji
 
 #------------------------------------------------------------------------------------------
 
@@ -1089,7 +1089,7 @@ message_258:
 message_260:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marStůj při mě, bratříčku.\!<br>Neboj.\! Dokud jsi se mnou, nic se ti nemůže stát.
+      text: \marStůj při mě, bráško.\!<br>Neboj.\! Dokud jsi se mnou, nemohou ti ublížit. #blíže originálu
 
 #------------------------------------------------------------------------------------------
 
@@ -1115,7 +1115,7 @@ message_266:
 message_270:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marTahle ubohá fotka...\! Divím se, že se ještě nerozpadla.
+      text: \marNebohá fotka...\! Divím se, že se ještě nerozpadla. #tohle vidím spíše jako personifikaci fotky
 
 #------------------------------------------------------------------------------------------
 
@@ -1130,7 +1130,7 @@ message_275:
       text: \mar...\! OMORI...
 
 message_276:
-      text: \marZdá se, že jsi na něco důležitého zapomněl.\!<br>To ti nevadí?
+      text: \marZdá se, že jsi na něco důležitého zapomněl.\!<br>To ti snad nevadí?
 
 #*pause*
 
@@ -1157,7 +1157,7 @@ message_281:
 
 #*pause*
 message_282:
-      text: \marUž bych měla jít, ale ještě ti musím něco říct...<br>\!Doufám, že tam pořád ještě někde jsi...\! \n[8]...\!<br>Vážně mi chybíš.
+      text: \marUž bych měla jít, ale ještě ti musím něco říct...<br>\!Doufám, že tam pořád ještě někde jsi...\! \Sunny...\!<br>Vážně mi chybíš. #tady patří Sunny
 
 #*Window curtains open*
 #*As curtain opens screen turns white. DW MARI sprite replaced with white MARI*
@@ -1166,7 +1166,7 @@ message_282:
 message_283:
       faceset: MainCharacter_Mari
       faceindex: 20
-      text: \marSbohem...\| bratříčku.
+      text: \marSbohem...\| bráško.
 
 #*MARI walks into the window*
 
@@ -1199,7 +1199,7 @@ message_291:
 message_292:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marCo je to s tebou, OMORI?\!<br>Ty nejsi rád, že zase vidíš svoji starší sestru?
+      text: \marCo je to s tebou, OMORI?\!<br>Ty nejsi rád, že zase vidíš svoji ségru? #rozhodl jsem se nahradit "big sister" ségrou, zní mi to tak přirozeněji.
 
 message_293:
       faceset: MainCharacters_DreamWorld
@@ -1209,7 +1209,7 @@ message_293:
 message_294:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelKaždopádně, jak jsem říkal...\! účty se neplatěj sami, ale práce není zas taková sranda.\! A proto se s OMORIM vydáme najít AUBRY a HERA...\! a potom...
+      text: \kelKaždopádně, jak jsem říkal...\! účty se neplatěj samy, ale práce není zas taková sranda.\! A proto se s OMORIM vydáme najít AUBRY a HERA...\! a potom... #pravopis
 
 message_850:
       faceset: MainCharacters_DreamWorld
@@ -1224,7 +1224,7 @@ message_295:
 message_851:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kel\sinv[1]No joooo!\!\sinv[0] To jsme přece chtěli udělat!
+      text: \kel\sinv[1]A joooo!\!\sinv[0] To jsme přece chtěli udělat!
 
 message_852:
       faceset: MainCharacter_Mari
@@ -1234,7 +1234,7 @@ message_852:
 message_296:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAle neboj, MARI.<br>\!Šéf mě má rád! Dřív než se nadáš, budeme mít \c[11]KONEČNOU\c[0] za sebou!
+      text: \kelAle neboj, MARI.<br>\!Šéf mě přímo zbožňuje! Dřív než se nadáš, budeme mít \c[11]KONEČNOU\c[0] za sebou! #plynulejší
 
 message_297:
       faceset: MainCharacter_Mari
@@ -1244,7 +1244,7 @@ message_297:
 message_298:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelNo tak, OMORI! Nemůžu se dočkat na to, až potkáš šéfa.<br>\!Je super!
+      text: \kelNo tak, OMORI! Už se těším, až ti ukážu šéfa.<br>\!Je super! #přirozenější
 
 #------------------------------------------------------------------------------------------
 
@@ -1280,22 +1280,22 @@ message_311:
 message_312:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: \aubTakže...\! Pamatuje si někdo z vás, jak jsme tady vůbec zkončili?
+      text: \aubTakže...\! Pamatuje si někdo z vás, jak jsme tady vůbec skončili? #pravopis
 
 message_313:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herVíte...\! Měl jsem hrozně divný sen.
+      text: \herNo...\! Měl jsem hrozně divný sen. #tady se "no" lépe hodí, je to začátek vysvětlování
 
 message_314:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herByli jsme tam my...\! A padali jsme nekonečnou černou dírou.\! A najednou jsem podepisoval jakousi smlouvu!
+      text: \herByli jsme tam my...\! A padali jsme nekonečnou černou dírou.\! A než jsem se vzpamatoval, vzdal jsem se svého života podpisem jakési smlouvy! #předělávka bližší originálu
 
 message_315:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelVšak to znáš...<br>Cesty Páně jsou nevyspytatelné!
+      text: \kelVšak to znáš...<br>Nikdy nevíš, kam tě život zavede! #Frázi "Cesty páně jsou nevyspytatelné" miluju, ale bohužel zrovna tady se nehodí.
 
 message_316:
       faceset: MainCharacters_DreamWorld
@@ -1320,14 +1320,14 @@ message_330:
 message_332:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelA je tady všude tolik báječných kytek.<br>\!BASILOVI by se tady beztak taky líbilo.
+      text: \kelA je tady všude tolik príma kytek.<br>\!BASILOVI by se tady beztak taky líbilo. #nahrazeno báječný hovorovější variantou. Myslím, že po dodělání celého scriptu se asi budeme muset vrátit a přiblížit některé věty k hovorovějšímu stylu původního Kela.
 
 #*pause*
 
 message_333:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelBASIL...\! Líbilo by se mu to tady...\! že jo?
+      text: \kelBASILOVI...\! Líbilo by se mu to tady...\! že jo? #správný pád
 
 message_334:
       faceset: MainCharacters_DreamWorld
@@ -1347,7 +1347,7 @@ message_336:
 message_337:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herHele...\! Měl bych na vás vážnou otázku.\!<br>Pamatuje si ještě někdo z vás, jak BASIL vůbec vypadal?
+      text: \herHele...\! Měl bych na vás vážnou otázku.\!<br>Pamatuje si ještě, jak BASIL vůbec vypadal? #někdo z vás je nadbytečné
 
 message_338:
       faceset: MainCharacters_DreamWorld
@@ -1362,42 +1362,42 @@ message_339:
 message_340:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herZbytek...\! už mi ale moc nedocvakává.
+      text: \herNa zbytek...\! už si pamatuju jen dost matně. #nedocvakává znamená nedochází a tady se nehodí. pamatuju si ještě na jedno takové užití, budu se muset vrátit a opravit i to
 
 message_342:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelTo nevadí...\! Mně taky, HERO.\! Mám pocit, jakože mi pořád ještě chybí...\! ale už si ani nevybavím proč.
+      text: \kelNeboj...\! Mně taky ne, HERO.\! Mám pocit, jakože mi pořád ještě chybí...\! ale už si ani nevybavím proč. #to je v pořádku nesedí, všichni ví, že je na tom něco divného. neboj mi sedí mnohem více
 
 message_341:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubAle to přece nic nemění, ne?\! I když už nám paměť tolik neslouží...\! pořád ho musíme najít.
+      text: \aubAle to přece nic nemění, ne?\! I když už si na něho tak dobře nepamatujeme...\! pořád ho musíme najít. #"paměť nám neslouží" je skvělý výraz, ale Aubrey do úst nepatří. Na tohle je moc spisovný a zní moc jako něco, co by řekl starec.
 
 message_354:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubBASIL je přece náš kamarád...\! ale hlavně nás potřebuje!
+      text: \aubBASIL je přece náš kamarád...\! a hlavně nás potřebuje! #lepší spojka
 
 message_352:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herMáš pravdu, AUBRY.\! Myslím, že už je na čase se s ním zase potkat. Jde vidět, že jsme s ním dlouho nebyli.
+      text: \herMáš pravdu, AUBRY.\! Myslím, že už je na čase, abychom ho našli. Jde vidět, že jsme s ním dlouho nebyli. #znělo moc jako by setkat se s ním bylo jednoduché
 
 message_353:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herAle jsem si pořád jistý, že ho najdeme...\! dokud nás povede OMORI.
+      text: \herAle jsem si pořád jistý, že to zvládneme...\! když nás vede OMORI. #aby se neopakovalo "najít", když místo dokud, vede místo povede
 
 message_344:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: \aubVemte si, že na nás celou tu dobu BASIL čeká.\! Je ztracený...\! asi taky osamělý...\! a asi má strach...
+      text: \aubVemte si, že na nás celou tu dobu BASIL čeká.\! Je ztracený...\! asi taky osamělý...\! určitě má strach... #aby se neopakovalo asi taky
 
 message_345:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubA rozhodně bychom ho měli obejmout, hned co ho najdeme!
+      text: \aubRozhodně bychom se s ním měli obejmout hned, co ho najdeme!
 
 message_346:
       faceset: MainCharacters_DreamWorld
@@ -1407,14 +1407,14 @@ message_346:
 message_347:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herJé...\! Víte jak je hezké vidět vás dva, jak se snášíte?\! Hned bych vás oba obejmul, když už je o tom řeč!
+      text: \herJé...\! Víte jak je hezké vidět vás dva, když spolu pěkně vycházíte?\! Hned bych vás oba obejmul! #tady se nejen snášejí, vycházejí spolu, jde vidět, že jsou kamarádi i přes to, jak často se hádají.
 
 #AUBREY and KEL are surprised and start sweating, and look away from each other.
 
 message_348:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: \aubCože!?\! Já a Kel...\! že bychom se snášeli?
+      text: \aubCože!?\! Já a Kel...\! že bychom spolu vycházeli? #konzistence
 
 message_349:
       faceset: MainCharacters_DreamWorld
@@ -1424,14 +1424,14 @@ message_349:
 message_350:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herHaha...\! Klid. Dělám si z vás jenom srandu.
+      text: \herHaha...\! Klid. To měl být jen vtípek. #sranda z někoho je za mě na úkor někoho. a tady tomu tak není.
 
 #HERO walks up 1 step.
 
 message_351:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herJen se drž, BASILE. Už tam skoro jsme.\! Brzo budeme zase všichni spolu.
+      text: \herVydrž, BASILE. Už tam skoro jsme.\! Brzo budeme zase všichni spolu.
 
 #------------------------------------------------------------------------------------------
 
@@ -1440,7 +1440,7 @@ message_351:
 message_355:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelTy jo! Koukejte na tyhle kytky! Ty jsou hustý, co?
+      text: \kelJů! Koukejte na tyhle kytky! Ty jsou hustý, co? #to jo na jů, ať tady máme trochu variace
 
 #KEL runs up and looks like all the plants.
 
@@ -1452,7 +1452,7 @@ message_356:
 message_357:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herBASIL?
+      text: \herBASILICUM? #tady jde o název toho kvítka
 
 message_358:
       faceset: MainCharacters_DreamWorld
@@ -1462,7 +1462,7 @@ message_358:
 message_359:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubTa je ale hezká!\! Trochu mi něco připomíná...
+      text: \aubTa je ale hezká!\! To jméno mi něco říká... #upřesnění
 
 message_364:
       faceset: MainCharacters_DreamWorld
@@ -1511,7 +1511,7 @@ message_372:
 message_373:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubJo, možná máš pravdu...
+      text: \aubJo, asi máš pravdu... #asi zní přirozeněji
 
 #*KEL throws the flower crown off the ledge.*
 
@@ -1528,7 +1528,7 @@ message_375:
 message_376:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: \aubAle...\! vždyť někomu kdysi patřil!\!<br>Jen tak ho odkopnout z útesu je zlé.
+      text: \aubAle...\! vždyť někomu kdysi patřil!\!<br>Jen tak ho odkopnout z útesu není vůbec pěkné. #plynulejší
 
 message_377:
       faceset: MainCharacters_DreamWorld
@@ -1639,7 +1639,7 @@ message_406:
 message_407:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kelJe cosi vážně kouzelného...\! na tom, jak si všichni žijeme své vlastní životy...
+      text: \kelJe něco tak kouzelného...\! na tom, jak si všichni žijeme...
 
 message_408:
       faceset: MainCharacters_DreamWorld
@@ -1664,7 +1664,7 @@ message_411:
 message_412:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herPojďme dál.\!<br>Musíme nějak vyřešit tyhle hlavolamy.\!<br>Ta bomba může přece bouchnout každou chvíli!
+      text: \herPojďme dál.\!<br>Musíme nějak vyřešit tyhle hlavolamy.\!<br>Ta bomba přece může každou chvílí bouchnout!
 
 message_413:
       faceset: MainCharacters_DreamWorld
@@ -1691,12 +1691,12 @@ message_421:
 message_422:
       faceset: MainCharacters_DreamWorld
       faceindex: 7
-      text: To bylo strašidelný... \}Hff...\aub
+      text: To bylo děsivé... \}Uff...\aub #uff se hodí více
 
 message_423:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Ale... \}Hff...\aub
+      text: Ale... \}Uff...\aub #viz vyšší komentář
 
 #AUBREY turns to party.
 
@@ -1708,7 +1708,7 @@ message_424:
 message_425:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTakže co chceme dělat teď?
+      text: \kelTakže co budeme dělat teď? #budeme místo chceme
 
 message_426:
       faceset: MainCharacters_DreamWorld
@@ -1735,12 +1735,12 @@ message_429:
 message_430:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubNo... Stejně si myslím, že nám něco muselo uniknout...
+      text: \aubNe... Přece v tom muselo být ještě něco... #předělávka bližší originálu
 
 message_431:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAUBRY, ty pořád musíš jenom dělat brikule!\! <br>Fakt! Měla by ses naučit odvázat a užít si chvíle.
+      text: \kelAUBRY, ty pořád musíš jenom dělat brikule!\! <br>Fakt! Někdy by ses mohla odvázat a užít si chvíle. #slovo "naučit" mi Kelovi nesedí
 
 message_432:
       faceset: MainCharacters_DreamWorld
@@ -1766,7 +1766,7 @@ message_601:
 message_602:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTy jo, dobrý, brácho!\! AUBRY, ty už musíš být taky unavená, ne?
+      text: \kelSuper nápad, brácho!\! AUBRY, ty už musíš být taky ze všech těch cest unavená, ne? #blíže originálu
 
 message_603:
       faceset: MainCharacters_DreamWorld
@@ -1781,12 +1781,12 @@ message_604:
 message_605:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelJen abys ty city moc nepřehnala!\! Protože to bych tě pak zase v kartách totálně rozsekal!\! Jenom mi to zlehčuješ!
+      text: \kelJen abyste ten odpočinek moc nepřehnali!\! Protože to bych vás všechny pak zase v kartách totálně rozsekal!\! S váma je to jednoduché! #bližší originálu
 
 message_606:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aub\sinv[1]Aha... vážně?\sinv[0]\! Tak...\! To teda uvidíme!
+      text: \aub\sinv[1]Aha... vážně?\sinv[0]\! Tak to se ještě uvidí! #přirozenější
 
 message_607:
       faceset: MainCharacters_DreamWorld
@@ -1859,7 +1859,7 @@ message_449:
 message_450:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: \her(vzdechnutí)... Tak tím pádem půjdu teda si taky, když jinak nedáte.
+      text: \herUff... Tak tím pádem půjdu teda si taky, když jinak nedáte.
 
 message_451:
       faceset: MainCharacter_Mari
@@ -1979,7 +1979,7 @@ message_473:
 message_494:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \mar(vzdechnutí)...\! Tak tady nakonec asi vážně nic nebylo.
+      text: \marUff...\! Tak tady nakonec asi vážně nic nebylo.
 
 #Examine black hole:
 message_495:
@@ -2050,12 +2050,12 @@ message_521:
 message_522:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Kruci písek!... \Com[2]Co to mělo bejt, AUBRY!?\!<br>Zkazila si nám karty!\!<br>Ještě k tomu zrovna, když jsem vyhrával!\kel
+      text: Kruci písek!... \Com[2]Co to mělo bejt, AUBRY!?\!<br>Zkazila si nám karty!\!<br>A zrovna, když jsem vyhrával!\kel #konzistence s úvodem
 
 message_523:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: No tak, KELI, nerozčiluj se.\!<br>Stejně je to nakonec jenom hra.\her
+      text: No tak, KELI, nerozčiluj se.\!<br>Je to přece jenom hra.\her #konzistence
 
 #KEL looks at HERO
 message_524:
@@ -2077,7 +2077,7 @@ message_526:
 message_527:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] a \n[2] se spolu zase nepřestanou prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech!
+    text: \her\n[3] a \n[2] se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #tady bude třeba vyměnit ty tagy za jména kvůli Aubrey / Aubry problému
 
 #Talk to HERO again:
 message_528:
@@ -2109,7 +2109,7 @@ message_531:
 message_532:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kel\Com[2]\sinv[2]Pff!
+      text: \kel\Com[2]\sinv[2]Pliv! #lepší citoslovce
 
 message_533:
       faceset: MainCharacters_DreamWorld
@@ -2119,31 +2119,31 @@ message_533:
 message_534:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelTohle je bratrský pozdrav.\! Když mi ji teď podáš, budeš navždy můj bratr!
+      text: \kelTohle je bratrský pozdrav.\! Když mi ji teď podáš, budeš navždy můj čestný bratr! #tady je důležité slovo honorary, které znamená něco ve významu "jako" (např čestný doktorát je doktorát bez studia). Asi by to šlo vyjádřit lepším slovem, ale mě nic nenapadá
 
 #Do you want to shake KEL's hand?
 #[YES/NO]
 
 #[YES]
 message_535:
-      text: Potřásl sis s KELEM rukou.\! Fuj...
+      text: Potřásl si KELOVOU vlhkou rukou.\! Fuj... #mírná předělávka
 
 message_536:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kel\sinv[1]\com[2]Jupí!\sinv[0] Tak teď už je to jasný!\! Budeme bráchové navždy!\! A tím pádem je HERO tvůj brácha taky! Heh, heh...
+      text: \kel\sinv[1]\com[2]Jupí!\sinv[0] Tak teď už je to jasný!\! Budeme bráchové navždy!\! A tím pádem je HERO tvůj čestný brácha taky! Heh, heh...
 
 #[NO]
 message_537:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelAch jo...\! Škoda.
+      text: \kelAch jo...\! Nevadí. #škoda na nevadí
 #*KEL pats your shoulder with his wet hand*
 
 message_538:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAle i tak jsi můj brácha!<br>Heh heh...
+      text: \kelI tak jsi pro mě čestný brácha!<br>Heh heh...
 
 message_539:
       faceset: MainCharacters_DreamWorld
@@ -2155,7 +2155,7 @@ message_539:
 message_540:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Tudy se nejde k MARI!\! Je na hřišti jižně od pařezu.\! To si přece musíš pamatovat...\her
+      text: Tudy se nejde k MARI!\! Je na hřišti jižně od pařezu.\! Cestu jistě znáš\her #přátelštější ráz
 
 #------------------------------------------------------------------------------------------
 
@@ -2414,7 +2414,7 @@ message_596:
 message_700:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelHmmm...\! To se mi nějak nezdá...\! Nemyslím, že by v tomhle lese mohl být BASIL.
+      text: \kelHmmm...\! Hele, já nevím...\! Myslím, že tu v lese BASIL není.
 
 message_701:
       faceset: MainCharacters_DreamWorld
@@ -2486,4 +2486,4 @@ message_1002:
 message_1012:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: \herDěkuji, milý pane!\! Vaši pomoci si velice vážíme.
+      text: \herDěkuji vám, milý pane!\! Vaší pomoci si velice vážíme. #formalita, pravopis

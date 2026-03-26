@@ -6,7 +6,7 @@
 #Messages in Hidden Library
 
 message_0:
-      text: Pozoruhodná kniha.\! Přečteš si kousek?
+      text: Pozoruhodná kniha.\! Přečteš si z ní úryvek?
 
 #========================================================================================
 # THE RIDE HOME
@@ -25,10 +25,10 @@ message_4:
       text: \"Předstírá, že spí a zadrží dech.\! <br>Zaposlouchá se do zvuku cesty.\"
 
 message_5:
-      text: \"Na své kůži cítí něžný dotek slunce. Náhle ho zarazí svědění jeho nosu, opáleného ze včerejška.\"
+      text: \"Na své kůži cítí něžný dotek slunce. Náhle ho zarazí jeho svědivý nos, opálený ze včerejška.\"
 
 message_6:
-      text: \"Je šťastný...\! velmi, velmi šťastný...\! <br>A sám sobě odpřísáhne, že ať už se stane cokoliv,<br> na tuto chvíli nikdy nezapomene.\"
+      text: \"Je šťastný...\! velmi, velmi šťastný...\! <br>A sám sobě odpřísáhne, že ať už se stane cokoliv,<br>na tuto chvíli nikdy nezapomene.\"
 
 
 #========================================================================================
@@ -95,7 +95,7 @@ message_49:
       text: \"☐ to ví a souhlásí s tím...\! i když nerad.\!<br>Pomalu vyskočí nahoru a vydá se vstříc nepořádku.\"
 
 message_50:
-      text: \"Ví, že by si měl odpracovat svůj podíl.\!<br>Akorát že na něj musel vyjít ten nejparnější den léta.\"
+      text: \"Ví, že by si měl odpracovat svůj podíl.\!<br>Akorát že na něj musel vyjít zrovna ten nejparnější letní den.\"
 
 #========================================================================================
 # School Day:
@@ -103,7 +103,7 @@ message_50:
 
 
 message_70:
-      text: \"Letos měl ☐ štěstí a byla mu přidělena lavice ledle malého okýnka.\"
+      text: \"Letos měl ☐ štěstí a byla mu přidělena lavice vedle malého okýnka.\"
 
 message_71:
       text: \"Každý den přes něj ☐ tiše zíral ven...\! Na stíny stromů, na mraky obklopující oblohu...\"
@@ -115,13 +115,13 @@ message_73:
        text: \"Už to pro něj bylo zvykem.\!<br>Nedělalo mu potíže se v sobě ztratit.\"
 
 message_74:
-      text: \"A dnešek byl den, jako každý jiný.\! ☐ prázdně civěl na mraky, tančící po obloze, jen po jednom, neustále dál.\"
+      text: \"A dnešek byl den, jako každý jiný.\! ☐ prázdně civěl na mraky, tančící po obloze, jeden po druhém, neustále a dál.\"
 
 message_75:
       text: \"Přičemž jej kamarádské plácnutí po zádech vytrhne z jeho běsnění.\! ☐ uhne pohledem od okna pryč.\"
 
 message_76:
-      text: \"☐☐☐ se usměje.\! Naznačí, že skončilo vyučování, a že je čas jít na oběd.\! Dnes servírují pizzu, a tak by <br> tam měli vyrazit rovnou, aby na ně vůbec zbylo.\"
+      text: \"☐☐☐ se usměje.\! Naznačí, že skončilo vyučování, a že je čas jít na oběd.\! Dnes servírují pizzu, a tak by <br>tam měli vyrazit rovnou, aby na ně vůbec zbylo.\"
 
 message_77:
       text: \"☐u začne kručet v břiše.\! Jednou naposledy upře pohled na okénko.\"
@@ -210,4 +210,4 @@ message_220:
       text: Hory knih, zapomenutých ve větru času.\!<br>Knihovníci těchto prostorů již dávno nejsou mezi námi.
 
 message_221:
-      text: Tato část zdi ti připadá dutá.
+      text: Tato část zdi se zdá být dutá.

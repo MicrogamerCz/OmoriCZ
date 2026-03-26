@@ -60,7 +60,7 @@ message_14:
       text: \n<KLUK SE SLUCHÁTKAMA>Ta už tady nebydlí, ale pořád mi takovýhle věci posílá poštou...
 
 message_15:
-      text: \n<KLUK SE SLUCHÁTKAMA>Ale táta...\! Táta nekráčí s dobou (není in? to si vyber ty)...\! <br>Cokoliv mi koupí stejně nikdy není lepší než to, co už mám.\! Takže...\! vyhazuje peníze vždycky, když mi něco kupuje...
+      text: \n<KLUK SE SLUCHÁTKAMA>Ale táta...\! Táta prostě není in...\! <br>Ať už to je cokoliv, nebude to lepší než to, co už mám.\! Takže...\! vyhazuje peníze vždycky, když mi něco kupuje... #in je lepší
 
 message_16:
       text: \n<KLUK SE SLUCHÁTKAMA>Takže i když mám narozeniny...\!<br>\Com[2]Tak mi nic kupovat nemusí!
@@ -68,7 +68,7 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelAle... vždyť to pro tebe dělá, protože chce, protože tě má rád!\!<br>Měl bys jít slavit dolů.\!<br>Víš, co to pro něj bude znamenat?! #spíš "víš, jakou mu to udělá radost?"
+      text: \kelAle... vždyť to pro tebe dělá, protože chce, protože tě má rád!\!<br>Měl bys jít slavit dolů.\!<br>Víš, jakou mu to udělá radost? #ano, "víš, jakou mu to udělá radost?"
 
 message_18:
       text: \n<KLUK SE SLUCHÁTKAMA>Ale...\! Já...
@@ -132,7 +132,7 @@ message_63:
 message_64:
       faceset: MainCharacters_Faraway
       faceindex: 41
-      text: \her...\| Tak teda nic...\! Zapomeň, že bych něco říkal...
+      text: \her...\| No, jak myslíš...\! Nic jsem neřekl... #přiroz
 
 #JESSE leaves the room
 
@@ -216,7 +216,7 @@ message_51:
       text: \n<VRÁSKA>Díky, že jste přesvědčili mého syna, aby přišel dolů.\! Jste fakt kámoši!
 
 message_52:
-      text: \n<VRÁSKA>Dejte si s náma prosím dort!\! Byl ve slevě, protože už zítra bude prošlý...\! ale pořád chutná dobře!
+      text: \n<VRÁSKA>Dejte si s náma prosím dort!\! Byl ve slevě, protože už zítra bude prošlý...\! ale je pořád dobrý! #přiroz
 
 message_53:
       text: \n<KLUK SE SLUCHÁTKAMA>\}Fňuk...\! Fňuk...\! Tati...
@@ -229,7 +229,7 @@ message_55:
       text: \n<VRÁSKA>Můj syn má dneska desáté narozeniny!\! ...\! Ale ani nevytáhne paty z pokoje!
 
 message_56:
-      text: \n<VRÁSKA>Uff...\! Vždyť jsem mu dokonce i koupil dort...
+      text: \n<VRÁSKA>Ach jo...\! Vždyť jsem mu dokonce i koupil dort... #ach jo
 
 message_57:
       text: Získal jsi \c[3]KOUSEK DORTU\c[0]!

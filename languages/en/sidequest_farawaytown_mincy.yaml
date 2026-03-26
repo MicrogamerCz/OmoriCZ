@@ -71,7 +71,7 @@ message_15:
       text: \kelCože? Děje se něco?
 
 message_16:
-      text: \minAle to nic...\! Jen, že jsi první člověk, který mi kdy pochválil nějaký obrázek...
+      text: \minAle to nic...\! Jen, že jsi první člověk, který kdy pochválil nějaký můj obrázek...
 
 message_17:
       text: \minObčas se cítím špatně a začnu v sebe pochybovat, a pak pomalu nenakreslím rovnou čáru...
@@ -145,7 +145,7 @@ message_30:
 message_31:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelTvoje obrázky vypadají fakt skvěle!\!<br>Měla bys je ukázat majitelce, PANÍ CANDICE.\!<br>Určitě by to ocenila.
+      text: \kelTvoje obrázky vypadají fakt skvěle!\!<br>Měla bys je ukázat majitelce, PANÍ SLADKÉ.\!<br>Určitě by to ocenila.
 
 message_32:
       text: \minVážně?\! Já vám nevím...\! měla bych?

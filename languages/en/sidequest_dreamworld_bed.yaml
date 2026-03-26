@@ -41,7 +41,7 @@ message_21:
     text: \aubHmm, připadáš mi nějaký... podezřelý...\!<br>V čem je ten háček,\! \com[2]PODEZŘELÝ KRTKU!?
 
 message_22:
-    text: \n<PODEZŘELÝ KRTEK>\}T-Takže!\! Jak nejspíš jistě víte,\! my, KLÍČKOKRTCI jsme velmi inteligentní a vyvinutí tvorové.
+    text: \n<PODEZŘELÝ KRTEK>\}T-Takže!\! Jak nejspíš jistě víte,\! my, KLÍČKOKRTCI jsme velice inteligentní a vyvinutí tvorové. #konzistence
 
 message_23:
     text: \n<PODEZŘELÝ KRTEK>\}Nejchytřejší z nás, náš STAROSTA,\!<br> pracuje na pokrokovém přístroji, díky kterému budeme moct pracovat ještě efektivněji a na ještě větším měřítku!

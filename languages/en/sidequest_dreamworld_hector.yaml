@@ -38,7 +38,7 @@ message_5:
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 23
-    text: \kelPromiň, \c[13]HECTORE\c[0]... Měl jsem být více opatrný...
+    text: \kelPromiň, \c[13]HEKTORE\c[0]... Měl jsem být více opatrný... #maty
 
 message_7:
     faceset: MainCharacters_DreamWorld
@@ -48,7 +48,7 @@ message_7:
 message_8:
     faceset: MainCharacters_DreamWorld
     faceindex: 30
-    text: \kelJak se opovažuješ takhle mluvit!\!<br>On nebyl jenom kámen...
+    text: \kelJak se opovažuješ o něm takhle mluvit!\!<br>On nebyl jenom kámen... #maty
 
 message_9:
     faceset: MainCharacters_DreamWorld
@@ -58,7 +58,7 @@ message_9:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 46
-    text: \herNeboj! Určitě se někde ukáže, KELI.
+    text: \herNeboj! Určitě se někde najde, KELI. #maty
 
 message_11:
     faceset: MainCharacters_DreamWorld

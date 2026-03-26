@@ -71,7 +71,7 @@ message_13:
       text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]\c[11]KRÁLOVSKÁ KUCHYŇ\c[0])\!<br>Kráá, kráá!\! (\i[1]\c[11]POKOJE SLUHŮ\c[0])\!<br>Kráá, kráá, kráá!\! (\i[8]\c[11]KRÁLOVSKÝ TANEČNÍ SÁL\c[0])
 
 message_14:
-      text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]\c[11]KRÁLOVSKÉ POKOJE\c[0])\!<br>Kráá, kráá!\! (\i[7]\c[11]KRÁLOVSKÁ GALERIE\c[0])\!<br>Kráá, kráá, kráá!\! (\i[7]\c[11]KRÁLOVSKÁ KNIHOVNA\c[0])
+      text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]\c[11]KRÁLOVSKÉ KOMNATY\c[0])\!<br>Kráá, kráá!\! (\i[7]\c[11]KRÁLOVSKÁ GALERIE\c[0])\!<br>Kráá, kráá, kráá!\! (\i[7]\c[11]KRÁLOVSKÁ KNIHOVNA\c[0])
 
 message_15:
       text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]\c[11]KRÁLOVSKÁ GALERIE\c[0])\!<br>Kráá, kráá!\! (Výstava měsíce...)\!<br>Kráá, kráá, kráá!\! (\"ZLATÍČČINA NEJLEPŠÍ DÍLA\")
@@ -89,7 +89,7 @@ message_19:
       text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]\c[11]KRÁLOVSKÉ LÁZNĚ\c[0])\!<br>Kráá, kráá!\! (Připomínáme... bazén je třeba pravidelně dolévat.)
 
 message_20:
-      text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]Zvláštní peklo jen a pouze pro tebe, má lásko...)\!<br>Kráá, kráá!\! (Podepsán, SWH)
+      text: \n<PANÍ PLAMEŇÁKOVÁ>Kráá!\! (\i[1]Zvláštní peklo jen a pouze pro tebe, má lásko...)\!<br>Kráá, kráá!\! (Podepsáno ZČK)
 
 message_21:
       text: \n<PAN RACEK>Vrrr!\! (\i[1]\c[11]OPUŠTĚNÉ MÍSTO\c[0])\!<br>Vrrr, vrrr!\! (\i[4]\c[11]MÝTNÁ SILNICE\c[0])
@@ -128,7 +128,7 @@ message_32:
       text: \n<PAN PTÁK?>Kra-káá...\! (Nedokončený laboratorní projekt. Ruště šetrně.)
 
 message_33:
-      text: \n<PAN RACEK>Vrrr!\! (HUDEBNÍ MUŠLE ve vyučení.)\!<br>Vrrr, vrrr!\! (Prosím, povzbuďte je!)
+      text: \n<PAN RACEK>Vrrr!\! (HUDEBNÍ MUŠLE v zácviku.)\!<br>Vrrr, vrrr!\! (Prosím, povzbuďte je!)
 
 message_34:
       text: \"TAK TEĎ SE TEPRVE HRAJE O VELKÉ ČÁSTKY!\"<br>\!\"DEJTE TŘI DOHROMADY A VYHRAJTE CENU!\"

@@ -7,7 +7,7 @@ message_1:
 #[Yes / No]
 # [Yes]
 message_2:
-      text: Vyčistil sis zuby.\!<br>Tvůj dech je mentolově svěží.
+      text: Vyčistil sis zuby.\!<br>Máš svěží dech.
 # [No]
 message_3:
       text: Nevyčistil sis zuby.

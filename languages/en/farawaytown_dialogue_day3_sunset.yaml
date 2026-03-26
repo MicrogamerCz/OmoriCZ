@@ -127,12 +127,12 @@ message_70:
 #Location: SHORT HAIR GIRL's House
 
 message_80:
-      text: \n<INTIMIDATING GIRL>Jsem ráda, že nám dneska mamka na večeři koupila čínu...\! Všechno, co vaří, je hrozně nudné... ale neříkej jí to. #interpunkce
+      text: \n<PŮSOBIVÁ DÍVKA>Jsem ráda, že nám dneska mamka na večeři koupila čínu...\! Všechno, co vaří, je hrozně nudné... ale neříkej jí to. #interpunkce
 
 #if leader is HERO
 
 message_81:
-      text: \n<INTIMIDATING GIRL>HERO...\! Nenavečeřel by ses s náma?\! Tohle je na mě moc rychlé!\! Neměli bychom spolu začít chodit ještě, než tě představím mojí mamce? #interpunkce. a stejně je tohle nepoužité, pokud se nemýlím. Asi Omocat nechtěla, aby to vypadalo, že si Hero našel jinou. Nebo je to jen z toho, že předávání baby IRL nemůžeš mimo recyklosektu?
+      text: \n<PŮSOBIVÁ DÍVKA>HERO...\! Nenavečeřel by ses s náma?\! Tohle je na mě moc rychlé!\! Neměli bychom spolu začít chodit ještě, než tě představím mojí mamce? #interpunkce. a stejně je tohle nepoužité, pokud se nemýlím. Asi Omocat nechtěla, aby to vypadalo, že si Hero našel jinou. Nebo je to jen z toho, že předávání baby IRL nemůžeš mimo recyklosektu?
 
 
 #==============BRENT===========================================
@@ -219,7 +219,7 @@ message_190:
 
 #After cutscene: Polly's WElcome
 message_200:
-      text: \n<POLLY>Ach, BASILE... Proč nevidíš, že jsme tady všichni pro tebe? #blíže orig
+      text: \n<POLLY>Ach, BASILE... Proč si nevšímáš, že tady pro tebe všichni jsme? #blíže orig
 
 #After cutscene: Basil won't leave his ROOM
 message_201:

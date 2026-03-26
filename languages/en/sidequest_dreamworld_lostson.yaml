@@ -20,7 +20,7 @@ message_3:
       text: \n<KACHNIČKA ML.>Na mé rodné planetě jich bylo vidět v noci sotva pár...
 
 message_4:
-      text: \n<KACHNIČKA ML.>Až vyrostu, bude ze mě VESMÍRNÝ KAPITÁN!\!<br>A budu se na hvězdy moct takhle koukat kdykoliv se mi zachce!
+      text: \n<KACHNIČKA ML.>Až vyrostu, bude ze mě VESMÍRNÝ KAPITÁN!\!<br>A budu se na hvězdy moct takhle koukat kdykoliv se mi zamane! #maty
 
 message_5:
       text: \n<KACHNIČKA ML.>A, sakra...\! Jak dlouho už tady jsem?
@@ -34,7 +34,7 @@ message_7:
       text: \n<PAN KACHNIČKA>Hele, to jste zas vy! Dík, že jste toho našeho darebáka odchytli...
 
 message_8:
-      text: \n<PAN KACHNIČKA>Mohl bys konečně přestat utíkat, ty jeden rošťáku?<br>Tohle měla být dovolená!\!<br>Ale zatím si kvůli tobě nemůžeme dovolit odpočinout...
+      text: \n<PAN KACHNIČKA>Mohl bys konečně přestat utíkat, ty rošťáku jeden?<br>Tohle měla být dovolená!\!<br>Ale zatím si tu kvůli tobě nemůžeme ani trochu odpočinout... #naty, přiroz
 
 message_9:
       text: \n<KACHNIČKA ML.>Tak dobře...\! Promiň, tati...
@@ -52,7 +52,7 @@ message_13:
       text: \n<PAN KACHNIČKA>To je můj kluk!\! Příště až půjdeš ven se nám prosímtě ozvi!
 
 message_14:
-      text: \n<PAN KACHNIČKA>Nechceš snad, aby se o tebe mamka znovu obávala, ne?
+      text: \n<PAN KACHNIČKA>Nechceš snad, aby o tebe mamka měla zase starosti, že ne? #maty, přiroz
 
 message_15:
       text: \n<KACHNIČKA ML.>Nechci...
@@ -70,7 +70,7 @@ message_21:
 #After-Quest Dialogue: Talk to Mrs. DUCKIE or KACHNIČKA ML..
 
 message_17:
-      text: \n<KACHNIČKA ML.>Mami, může je později jít zase koukat na hvězdy?
+      text: \n<KACHNIČKA ML.>Mami, může se později jít zase koukat na hvězdy? #maty
 
 message_18:
       text: \n<PANÍ KACHNIČKOVÁ>Jasně že můžeš, broučku.\!<br>S taťkou se k tobě rádi přidáme.
@@ -79,4 +79,4 @@ message_19:
       text: \n<KACHNIČKA ML.>Jupí!
 
 message_20:
-      text: \n<PANÍ KACHNIČKOVÁ>Ten nás darebák prostě nedokáže zůstat chvilku v klidu.\! Pořád by jen někde trajdal venku!
+      text: \n<PANÍ KACHNIČKOVÁ>Ten náš darebák prostě nedokáže zůstat chvilku v klidu.\! Pořád by jen někde trajdal venku! #maty

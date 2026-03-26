@@ -8,7 +8,7 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelHey, neighbor! How's it going?
+      text: \kelČau, sousedko! Jak se daří? #přeloženo
 
 message_1:
       text: \n<MODROVLASÁ HOLKA>Ahoj, KELI!\! Ale, koho to s sebou dneska máš?
@@ -31,7 +31,7 @@ message_34:
 message_35:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here CO TADY DĚLÁ TOHLE???
-      text: \kelA můj nejlepší kamarád, SUNNY!
+      text: \kelA můj kamarád, SUNNY!
 
 message_2:
       text: \n<MODROVLASÁ HOLKA>Počkat! Tebe ale poznávám!\! SUNNY, ne?\!<br>Promiň, už je to dávno.\! Stejně jsme se mockrát nepotkali...
@@ -42,7 +42,7 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelSUNNY! Tohle je CHRIS, moje sousedka! Je hrozně fajn\! A je umí z naší školy nejrychleji plavat!
+      text: \kelSUNNY! Tohle je CHRIS, moje sousedka! Je hrozně fajn\! A z celé naší školy umí nejrychleji plavat!
 
 message_5:
       faceset: MainCharacters_Faraway
@@ -53,7 +53,7 @@ message_6:
       text: \n<MODROVLASÁ HOLKA>Ale, KELI... Ty těma komplimentama nikdy nešetříš, viď? Haha...
 
 message_7:
-      text: \n<MODROVLASÁ HOLKA>Nesnažíš se letos dostat do basketbalového týmu?\! I'm sure you'll be a shoe-in... Hehe... #tak tady opravdu nevím.
+      text: \n<MODROVLASÁ HOLKA>Nesnažíš se letos dostat do basketbalového týmu?\! Tak to by pro tebe měla být brnkačka... Hehe... #zkusím (tak tady opravdu nevím.)
 
 message_8:
       faceset: MainCharacters_Faraway
@@ -66,10 +66,10 @@ message_9:
       text: \kelAle kdybych byl do basketbalu tak zarytý, jako ty do plavání, rozhodně bych měl větší šanci se tam dostat...
 
 message_10:
-      text: \n<MODROVLASÁ HOLKA>Ale, já do toho zas tolik nedávám...\! Upřímně to beru spíš jako zábavu (spíš koníček? to je na tobě)!\! A stejně...\! i když ráda plavu v bazéně, moře je stejně pořád moje forte!
+      text: \n<MODROVLASÁ HOLKA>Ale, já do toho zas tolik nedávám...\! Upřímně to beru spíš jako zábavu!\! A stejně...\! i když ráda plavu v bazéně, na moře to stejně nemá! #zábava, blíže orig
 
 message_11:
-      text: \n<MODROVLASÁ HOLKA>Miluju na něm snad všechno...\! pláž...\! <br>zvuk přílivu...\! dokonce i vůni chaluh...\!<br>Ach...\! Hehe...\! Promiňte... Nezním trochu posedle?
+      text: \n<MODROVLASÁ HOLKA>Miluju na něm snad všechno...\! pláž...\! <br>šum vln...\! dokonce i vůni chaluh...\!<br>Ach...\! Hehe...\! Promiňte... Nezním trochu posedle? #blíže orig
 
 message_12:
       faceset: MainCharacters_Faraway
@@ -83,12 +83,12 @@ message_14:
       text: \n<MODROVLASÁ HOLKA>Moře mi připomíná všechny ty kamarády, které jsem si tam udělala...\!<br>Doufám, že je někdy zase uvidím.
 
 message_15:
-      text: \n<MODROVLASÁ HOLKA>Ale...\! prozatím jsem spokojená se sbíráním \c[4]MUŠLÍ\c[0] a tak.
+      text: \n<MODROVLASÁ HOLKA>Ale...\! prozatím mi stačí sbírání \c[4]MUŠLÍ\c[0] a podobných věcí. #přiroz
 
 message_16:
       faceset: MainCharacters_Faraway
       faceindex: 17 #insert number here
-      text: \kelVíš... to mi trochu připomnělo...\!<br>že odsud bude SUNNY brzo stěhovat!
+      text: \kelVíš... to mi trochu připomnělo...\!<br>že se odsud bude SUNNY brzo stěhovat!
 
 message_17:
       faceset: MainCharacters_Faraway
@@ -102,10 +102,10 @@ message_19:
       text: \n<MODROVLASÁ HOLKA>Měli bychom si spíš vážit těch vzpomínek, které jsme si nimi vytvořili.
 
 message_20:
-      text: \n<MODROVLASÁ HOLKA>A víš co?...\! Taky jsem si teď na něco vzpomněla.<br>\!Kdybys našel nějaké \c[4]MUŠLE\c[0], donesl bys mi je, prosím?
+      text: \n<MODROVLASÁ HOLKA>A víš co?...\! Měla bych pro tebe menší prosbu.<br>\!Kdybys našel nějaké \c[4]MUŠLE\c[0], donesl bys mi je, prosím? #přiroz
 
 message_21:
-      text: \n<MODROVLASÁ HOLKA>Vím, že asi moc nebudeš chtít, s tím, že jsou tady celkem vzácné, ale rozhodně ti to bude stát za to!
+      text: \n<MODROVLASÁ HOLKA>Tady není zas tak lehké je najít, ale rozhodně ti to bude stát za to, to ti slibuju! #blíže orig
 
 #Talk to Cris with SEASHELLS
 
@@ -121,7 +121,7 @@ message_24:
 
 
 message_25:
-      text: MODROVLASÁ HOLKA si cosi přehazuje v rukou.
+      text: MODROVLASÁ HOLKA si cosi přehazuje v rukách. #skloňování
 
 message_26:
       text: \n<MODROVLASÁ HOLKA>\com[2]Hej! Nekoukat!
@@ -129,7 +129,7 @@ message_26:
 #Talk to Cris after collecting all SEASHELLS
 
 message_27:
-      text: \n<MODROVLASÁ HOLKA>\com[2]A... hotovo!\! Konečně hotovo!
+      text: \n<MODROVLASÁ HOLKA>\com[2]A... je to!\! Konečně hotovo! #variace
 
 message_28:
       text: \n<MODROVLASÁ HOLKA>Díky, žes mi přinesl všechny tyhle pěkné \c[4]MUŠLE\c[0]!\!<br>Tohle jsem ti z nich vyrobila.

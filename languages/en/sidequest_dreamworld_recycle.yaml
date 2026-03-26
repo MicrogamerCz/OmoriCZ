@@ -21,13 +21,13 @@ message_20:
     text: PLECHOVKU
 
 message_21:
-    text: SKLENĚNOU LÁHEV
+    text: VRATNOU LÁHEV
 
 message_22:
     text: KARTÓN
 
 message_23:
-    text: VYBITÉ BATERKY
+    text: VYBITÉ BATERIE
 
 message_24:
     text: POČÍTAČOVÉ SOUČÁSTKY
@@ -85,7 +85,7 @@ message_13:
     text: Vhodil jsi do RECYKLOVAČE \c[5]POČÍTAČOVÉ SOUČÁSTKY\c[0].
 
 message_14:
-    text: RECYKLOVAČ ti vydal 25 MAŠLÍ.\!<br>Děkujeme za tvou pomoc v ochraně životního prostředí.
+    text: RECYKLOVAČ ti vydal 25 MUŠLÍ.\!<br>Děkujeme, že nám pomáháte chránit životní prostředí. #jéje, recyklovač se zapojil po podvodu toho krtka.... maty
 
 message_19:
     text: Žádné \c[5]POČÍTAČOVÉ SOUČÁSTKY\c[0] u sebe nemáš.

@@ -145,20 +145,20 @@ message_120:
 #Location: CANDY SHOP
 
 message_130:
-      text: \n<CURTSEY>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou radost!
+      text: \n<PURKLE>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou radost!
 
 #===============Daphne & Bowen=====================
 
 #Location: Supermarket, working at the Bakery
 
 message_140:
-      text: \n<DAPHNE>Čerstvý chleba...
+      text: \n<DAPHNE>Čerstvý chléb...
 
 message_141:
-      text: \n<BOWEN>Čerstvý chleba...
+      text: \n<BOWEN>Čerstvý chléb...
 
 message_142:
-      text: \n<DAPHNE A BOWEN>Nedal by sis čerstvý chleba?
+      text: \n<DAPHNE A BOWEN>Nedal by sis čerstvý chléb?
 
 #===============Gino=====================
 
@@ -193,7 +193,7 @@ message_171:
 message_172:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kel\SUNNY, tohle je JIRKA. Je kapitán našeho školního fotbalového týmu!\! Já nevěděl, že hraješ i basketbal!
+      text: \kelSUNNY, tohle je JIRKA. Je kapitán našeho školního fotbalového týmu!\! Já nevěděl, že hraješ i basketbal!
 
 message_173:
       text: \n<SPORTOVEC>No...\! Hff...\! Jsem jen přišel zabíjet čas.\! Mám to spíš jako koníček. Ale ty se budeš pokoušet letos dostat do basketového týmu, ne?\! Tak to bys mě mohl něco přiučit!
@@ -616,7 +616,7 @@ message_481:
       text: \n<KNĚZ>Ta AUBRY sem chodí každý týden už pár let v kuse, ale nikdy s nikým nemluví.\! Párkrát jsem se ji snažil oslovit...<br>ale pořád mě posílá...\! err...\! někam...
 
 message_482:
-      text: \n<KNĚZ>Připadá mi, že se s něčím trápí.\! Rozhodně by potřebovala nějakého kamaráda.
+      text: \n<KNĚZ>Připadá mi, že ji něco trápí.\! Rozhodně by potřebovala nějakého kamaráda.
 
 #==========================Sarah===============================
 
@@ -652,7 +652,7 @@ message_510:
 #Location: Church
 
 message_520:
-      text: \n<THE MAVERICK'S MOM>Oh, dear...\! Sniff...\! It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
+      text: \n<THE MAVERICK'S MOM>Oh, dear...\! Fňuk...\! It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
 
 message_521:
       text: \n<THE MAVERICK'S DAD>Sigh...\! MIKHAEL...\! Where are you?\! Why must you make your mother worry?
@@ -857,7 +857,7 @@ message_682:
 #Location: FARAWAY PARK
 
 message_690:
-      text: \n<CRISIN TÁTA>Uff...\! Opékat to maso je fuška...\! Ale až kousnu do toho šťavnatého, úžasného burgru, všechno to bude stát za to.\! Mmm...\! Jako bych ho cítil v puse už teď...
+      text: \n<CRISIN TÁTA>Uff...\! Opékat to maso je fuška...\! Ale až kousnu do toho šťavnatého, úžasného špekáčku, všechno to bude stát za to.\! Mmm...\! Jako bych ho cítil v puse už teď...
 
 message_691:
       text: \n<CRISINA MAMKA>Pozor!\! Začínají se pálit!
@@ -870,14 +870,14 @@ message_692:
 #Location: FARAWAY PARK
 
 message_693:
-      text: \n<CRISINA MAMKA>Dnes je ale krásný den, jako dělaný na piknik!\! Přinesla jsem s sebou své speciality...\! Kuřecí koláč, citrónový koláč, a samozřejmě také můj světoznámý jablečný koláč!
+      text: \n<CRISINA MAMKA>Dnes je ale krásný den, jako dělaný na piknik!\! Přinesla jsem s sebou své speciality...\! Bramboráky, makovce a samozřejmě také mou světoznámou bábovku!
 
 #==========================CURTSEY==============================
 
 #Location: Hobbeez
 
 message_700:
-      text: \n<CURTSEY>Pracuju v \c[11]CUKRÁRNĚ\c[0] a tady ráda chodím o přestávkách! Vždycky se tady najde něco, na co bych se mohla koukat, nikdy se tady nenudím. #nechodí sem spíš o pauzách / když má volno? nevím.
+      text: \n<PURKLE>Pracuju v \c[11]CUKRÁRNĚ\c[0] a tady ráda chodím o přestávkách! Vždycky se tady najde něco, na co bych se mohla koukat, nikdy se tady nenudím. #nechodí sem spíš o pauzách / když má volno? nevím.
 
 
 #==========================GINO==============================
@@ -1220,7 +1220,7 @@ message_1000:
 #Location: Pharmacy
 
 message_1010:
-      text: \n<CURTSEY>PANÍ CANDICE mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]... Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
+      text: \n<PURKLE>PANÍ SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]... Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
 
 #====================KAREN==============================
 
@@ -1267,7 +1267,7 @@ message_1032:
 #Examine KEL'S PARENT'S ROOM.
 
 message_1033:
-      text: Dveře jsou zamčené.
+      text: Zamčeno.
 
 #====================KEL'S MOM==============================
 

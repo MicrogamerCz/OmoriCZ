@@ -18,7 +18,7 @@ message_4:
       text: \n<LÍSTEČEK>Až tak ty \quake[1]zajíčky\quake[0] nesnáším.
 
 message_5:
-      text: \n<LÍSTEČEK>Víš co?...\! Měl bych pro tebe takovou nabídku.\!<br>Kdybys zabil ještě pět \quake[1]králíčků,\quake[0] zajdi zpátky sem a ohlaš se...\! Něco pěkného ti dám.
+      text: \n<LÍSTEČEK>Víš co?...\! Měl bych pro tebe takovou nabídku.\!<br>Kdybys zabil ještě pět \quake[1]zajíčků,\quake[0] zajdi zpátky sem a ohlaš se...\! Něco pěkného ti dám. #maty
 
 message_6:
       text: \n<LÍSTEČEK>Teď běž a zdecimuj ty zatracený \quake[1]zajíčky!\quake[0]
@@ -28,7 +28,7 @@ message_6:
 #Set variable for number of bunnies defeated and the next count
 
 message_7:
-      text: \n<LÍSTEČEK>\Com[2]Výborně!\! Koukám, že ses postaral o více  \quake[1]zajíčků.\quake[0]\!<br>Teď už jich máš na kontě přesně \v[615]!\!<br>Děkuji moc, můj bratře v nesnášení zajíčků.
+      text: \n<LÍSTEČEK>\Com[2]Výborně!\! Koukám, že ses postaral o další  \quake[1]zajíčky.\quake[0]\!<br>Teď už jich máš na kontě přesně \v[615]!\!<br>Děkuji moc, můj bratře v nesnášení zajíčků.
 
 message_8:
       text: \n<LÍSTEČEK>No...\! kdybys jich zabil ještě \v[1001],<br>něco bych pro tebe měl...

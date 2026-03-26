@@ -16,7 +16,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: \herHm?\! Sniff...\! Huh?\! Do you guys smell that?\!<br>It smells like something is burning...
+      text: \herHm?\! Fňuk...\! Huh?\! Do you guys smell that?\!<br>It smells like something is burning...
 
 message_4:
       text: \n<PIGTAILS LADY>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] SORRY, ONE SECOND!

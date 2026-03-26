@@ -108,22 +108,22 @@ message_16:
 #Intro
 
 message_20:
-      text: \n<BAREVNÁ HOLKA>A!\! Všimla jsem si, že máš taky \c[13]DOMÁCÍ KAMÍNEK\c[0]!\! Chtěl by sis ZABOJOVAT?
+      text: \n<PESTROBAREVNÁ HOLKA>A!\! Všimla jsem si, že máš taky \c[13]DOMÁCÍ KAMÍNEK\c[0]!\! Chtěl by sis ZABOJOVAT?
 
 #yes
 message_21:
-      text: \n<BAREVNÁ HOLKA>Dobře!\! Své RAJČÁTKO trénuju už od mlada!\!<br>Nenechám se tebou skolit!
+      text: \n<PESTROBAREVNÁ HOLKA>Dobře!\! Své RAJČÁTKO trénuju už od mlada!\!<br>Nenechám se tebou skolit!
 
 #player win
 message_22:
-      text: \n<BAREVNÁ HOLKA>Sakra práce...\! Nedělej si z toho hlavu, RAJČÁTKO. Není to tvoje chyba...\! Dělalas, co mohla!
+      text: \n<PESTROBAREVNÁ HOLKA>Sakra práce...\! Nedělej si z toho hlavu, RAJČÁTKO. Není to tvoje chyba...\! Dělalas, co mohla!
 
 #player loses
 message_23:
-      text: \n<BAREVNÁ HOLKA>Jupí!\! Zvládli jsme to!\! Já věděla, že vyhraješ, RAJČÁTKO!
+      text: \n<PESTROBAREVNÁ HOLKA>Jupí!\! Zvládli jsme to!\! Já věděla, že vyhraješ, RAJČÁTKO!
 
 message_150:
-      text: \n<BAREVNÁ HOLKA>Tak dobře! Kdyby sis ale někdy chtěl zabojovat, stačí říct!
+      text: \n<PESTROBAREVNÁ HOLKA>Tak dobře! Kdyby sis ale někdy chtěl zabojovat, stačí říct!
 
 
 # =========================================================================================

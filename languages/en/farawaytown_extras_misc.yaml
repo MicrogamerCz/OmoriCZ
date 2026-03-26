@@ -213,7 +213,7 @@ message_126:
       text: \herNeboj, já to za klidně udělám za tebe!\! Co jiného bych vůbec takhle ráno dělal.\! Ber to jako dárek na rozloučenou!
 
 message_127:
-      text: Páni... #přeloženo
+      text: Ty jo... #přeloženo
 
 #  Sweeping
 
@@ -575,7 +575,7 @@ message_410:
       text: Chlapec se jmenuje \v[1]?
 
 message_500:
-      text: Ach ano, skvělý, propečený stejk.\! Dáš si?
+      text: Ach ano, skvělý, propečený steak.\! Dáš si?
 
 message_501:
       text: Uff...\! To se tvému žaludku moc nelíbilo... #citoslovce
@@ -616,7 +616,7 @@ message_610:
 message_612:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelVíš...\! když nás MARI opustila...\! HERO...\! HEROVI začalo být všechno jedno.<br><br>Nechtělo se mu ráno vstávat ze školy, dokonce ani jíst nechtěl.\! Přestal se o sebe starat, přestal vařit, péct...
+      text: \kelVíš...\! když nás MARI opustila...\! HERO...\! HEROVI začalo být všechno jedno.<br><br>Nechtělo se mu ráno vstávat do školy, dokonce ani jíst nechtěl.\! Přestal se o sebe starat, přestal vařit, péct...
 
 message_613:
       faceset: MainCharacters_Faraway
@@ -631,7 +631,7 @@ message_614:
 message_615:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelJeden večer...\! jsem k němu přišel, když byl schovaný pod peřinama a začal jsem mu říkat...
+      text: \kelJeden večer...\! jsem k němu přišel, když byl schovaný pod peřinou a začal jsem mu říkat...
 
 message_616:
       faceset: MainCharacters_Faraway
@@ -641,17 +641,17 @@ message_616:
 message_617:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelMyslel jsem, že mu to pomáhá...
+      text: \kelDoufal jsem, že by mu to pomohlo...
 
 message_618:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelAle...\! Jenom ho to rozzuřilo.
+      text: \kelAle...\! Jenom ho to rozčílilo.
 
 message_619:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelZ ničeho nic vystřelil ven z postele a začal na mě řvát o všem možném.\! Něco z toho se mě i trochu dotklo...\! ale většinu jsem asi prostě vyblokoval.
+      text: \kelZ ničeho nic vystřelil ven z postele a začal na mě řvát o všem možném.\! Něco z toho se mě i trochu dotklo...\! ale většinu jsem asi prostě vytěsnil.
 
 message_621:
       faceset: MainCharacters_Faraway
@@ -686,7 +686,7 @@ message_625:
 message_626:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelA pak...\! se to s ním vážně zlepšilo.\! Začal se o sebe zase starat...\! a začal se pořádně soustředit na školu...\! našel si nové kroužky, kamarády, všecko takové. #přiroz
+      text: \kelA pak...\! se to s ním vážně zlepšilo.\! Začal se o sebe zase starat...\!pořádně zabral ve škole...\! našel si nové kroužky, kamarády a tak dál. #přiroz
 
 message_627:
       faceset: MainCharacters_Faraway
@@ -696,22 +696,22 @@ message_627:
 message_628:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelIMožná je teď trochu uzavřenější, než dříve...\! Ale já jsem popravdě hlavně rád, že ho máme zpátky. #blíže orig
+      text: \kelMožná je teď trochu uzavřenější, než dříve...\! Ale já jsem popravdě hlavně rád, že ho máme zpátky. #blíže orig
 
 message_629:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelPromiň za ten dlouhý příběh, snad jsem tě neunudil k smrti.\! Nevím, jestli jsem o tohle vůbec někomu řekl.
+      text: \kelPromiň za ten dlouhý příběh, snad jsem tě neunudil k smrti.\! Nevím, jestli jsem o tomhle vůbec někomu řekl.
 
 message_631:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelSice za nic nemůže...\! ale řekl bych, že se HERO viní za MARINU smrt. #přiroz
+      text: \kelSice za nic nemůže...\! ale řekl bych, že si tu MARINU smrt pořád vyčítá. #přiroz
 
 message_611:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelHERO tady vlastně ani jednou nebyl...\! Vážně ani jednou.\! To možná trochu bolí, ale možná je to pro něj tak lepší.\! Já nevím... #přidávám já
+      text: \kelHERO tady vlastně ani jednou nebyl...\! Fakt ani jednou.\! To možná trochu bolí, ale asi je to pro něj tak lepší.\! Já nevím... #přidávám já
 
 message_620:
       faceset: MainCharacters_Faraway

@@ -19,7 +19,7 @@ message_3:
       text: \n<LETNÍ KRTEK>Přesně tak, brácho! Léto je nejlepší! Mám hroznou radost z toho, že souhlasíš!\! Tady ode mě máš dárek... Snad ti dobře poslouží!
 
 message_4:
-      text: Získal jsi \c[13]OPALOVACÍ GEL\c[0].
+      text: Získal jsi \c[13]OPALOVACÍ KRÉM\c[0]. #alespoň tak jsmem mu vždycky říkali my
 
 #[Shake]
 message_5:
@@ -42,12 +42,12 @@ message_9:
 
 #[Shake]
 message_10:
-      text: \n<JARNÍ KRTEK>Kadim na tebe!
+      text: \n<JARNÍ KRTEK>Ale, kadim na tebe! #přiroz
 
 
 #Talk to PODZIMNÍ KRTEK (pro tohohle bych hlasoval já)
 message_11:
-      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! skvělý čas na mazlení se s knížkama...\! a ještě k tomu s Vánocema hned za rohem...\! Kdo by neměl rád podzim?!
+      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! lepší čas na čtení knížek snad není...\! a ještě k tomu s Vánocema hned za rohem...\! Kdo by neměl rád podzim?! #doslovný překlad idiomu
 
 message_12:
       text: \n<PODZIMNÍ KRTEK>Podzim je nejlepší roční období! Souhlasíš?
@@ -139,7 +139,7 @@ message_37:
       text: \n<JARNÍ KRTEK>Jaro nám přináší život!\! Jaro nám přináší svěžího ducha, se kterým můžeme začít svěže od začátku!\! Jaro je nejlepší roční období!
 
 message_38:
-      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! skvělý čas na mazlení se s knížkama...\! a ještě k tomu s Vánocema hned za rohem...
+      text: \n<PODZIMNÍ KRTEK>Podzim...\! spadlé listy...\! pohodlné oblečení...\! vůně skořice...\! lepší čas na čtení knížek snad není...\! a ještě k tomu s Vánocema hned za rohem... #konzistence
 
 message_39:
       text: \n<PODZIMNÍ KRTEK>Kdo by neměl rád podzim?\! Podzim je nejlepší roční období!

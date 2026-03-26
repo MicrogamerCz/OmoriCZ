@@ -6,16 +6,16 @@
 #OLIVE BEANIE, by bus stop
 
 message_1:
-      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Hmm...\! Vypadá, že autobus má dneska zpoždění.
+      text: \n<DÍVKA SE ZELENOU ČEPICÍ>Hmm...\! Vypadá, že autobus má dneska zpoždění.
 
 message_2:
-      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>A nebo mám já zpoždění?...
+      text: \n<DÍVKA SE ZELENOU ČEPICÍ>A nebo mám já zpoždění?...
 
 message_3:
-      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Kámo...\! Snad mi zase neujel.
+      text: \n<DÍVKA SE ZELENOU ČEPICÍ>Kámo...\! Snad mi zase neujel.
 
 message_4:
-      text: \n<DÍVKA S OLIVOVOU ČEPICÍ>Víš, když jsem byl menší, s našima jsme do tohohle parku chodili dost často.\! Pamatuju si ale, že tady bylo jakési jezero se sochou uprostřed...\! Ale nemůžu ho nikde najít.
+      text: \n<DÍVKA SE ZELENOU ČEPICÍ>Víš, když jsem byla malá, s našima jsme do tohohle parku chodili dost často.\! Pamatuju si ale, že tady bylo jakési jezero se sochou uprostřed...\! Ale nemůžu ho nikde najít.
 
 # ===================NĚKDO 2================
 #Older man with glasses
@@ -60,7 +60,7 @@ message_70:
       text: \n<ROZCUCHANEC>Já tak miluju banány.\! Mohl bych se na ně dívat celý den.
 
 message_71:
-      text: \n<ROZCUCHANEC>Včera, když jsem zrovna jeden jedl...\! se mi povedlo najít zarostlé jezero za parkem.
+      text: \n<ROZCUCHANEC>Včera, když jsem si zrovna dával banán...\! se mi povedlo najít jakési zarostlé jezero za parkem.
 
 message_72:
       text: \n<ROZCUCHANEC>Ale po chvilce tam přijela banda chuligánů na koloběžkách a vyrazila mě.
@@ -69,14 +69,14 @@ message_73:
       text: \n<ROZCUCHANEC>\com[2]A ještě k tomu mi vzali a odhodili můj banán!
 
 message_74:
-      text: \n<ROZCUCHANEC>Uff...\! Tohle bych si neměl od nějakých děcek nechat líbit!\!<br>Teď už jsem přece dospělý!\! ...\! No, alespoň adolescent...
+      text: \n<ROZCUCHANEC>Uff...\! Tohle bych si neměl od nějakých děcek nechat líbit!\!<br>Teď už jsem přece dospělý!\! ...\! No, tak alespoň dospívající...
 
 
 # ===================NĚKDO 9================
 #Doctor
 
 message_80:
-      text: \n<ODBORNÍK>Takže...\! Jaké léky by mi nejvíc pomohly přežít třicetihodinový let? #"To máte štěstí, že jdu zrovna kolem. Říkají mi, že jsem odborník..."
+      text: \n<ODBORNÍK>Takže...\! Jaké léky by mi nejvíc pomohly vydržet třicetihodinový let? #"To máte štěstí, že jdu zrovna kolem. Říkají mi, že jsem odborník..."
 
 # ===================NĚKDO 10================
 #Player lookalike

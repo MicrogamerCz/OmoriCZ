@@ -20,7 +20,7 @@ message_0:
 #*Pluto laughs*
 
 message_1:
-    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+    text: \plu\Com[2]\sinv[2]\{GUAHA\{HAHA\{HAHAHAHA!!\} #krusáda proti w
 
 message_2:
     text: \pluRozumím vám...\!<br>Ale přesto stále cítím následky našeho minulého soublje.<br>\!Vzpomínku na něj si navždy budu hýčkat!
@@ -63,7 +63,7 @@ message_9:
 #*Pluto turns to KEL and walks forward 1 step*
 
 message_10:
-    text: \pluV této výzvě nebudu zkoušet vaši sílu.\!<br>Nýbrž...\! vaši výdrž.
+    text: \pluV této výzvě nebudu zkoušet tvou sílu.\!<br>Nýbrž...\! tvou výdrž. #tykání
 
 #*PLUTO flexes*
 
@@ -81,7 +81,7 @@ message_12:
 
 #Talk to PLUTO:
 message_13:
-    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+    text: \plu\Com[2]\sinv[2]\{GUAHA\{HAHA\{HAHAHAHA!!\} #krusáda
 
 #*Pluto laughs*
 #*Pluto launches off*
@@ -102,7 +102,7 @@ message_20:
     text: \n<BERLY>Grr... grrr...
 #BERLY hops.
 message_21:
-    text: \n<BERLY>Hej, VAN! Pojď sem za mnou!
+    text: \n<BERLY>Hej, VANE! Pojď sem za mnou!
 
 #*HAPPY hops and then HAPPY, BROWS, and BANGS walk off---screen.*
 
@@ -126,7 +126,7 @@ message_26:
     text: \aubCo zas chceš, BERLY?
 
 message_27:
-    text: \n<BERLY>AUBRY!\! \sinv[1]AUBRY, AUBRY, AUBRY...\sinv[0]\!<br>Jaktože jsi najednou tak drzá?\! No tak, vždyť jsme přece nejlepší kamarádky!
+    text: \n<BERLY>AUBRY!\! \sinv[1]AUBRY, AUBRY, AUBRY...\sinv[0]\!<br>Jaktože jsi najednou tak drzá?\! No tak, vždyť jsme přece nejlepší kámošky! #kámošky
 
 message_28:
     text: \n<BERLY>Vidíš támhle toho velkýho chlápka?
@@ -276,10 +276,10 @@ message_56:
 
 #Hero ATTACK Buff --- \n<PAN SPAŠÁK>
 #New Assets: Scarebro and knocked---over Scarebro
-#In CLUB SANDWICH in LAST RESORT
+#In CLUB SENDVIČ in LAST RESORT
 
 message_70:
-    text: \n<PAN SPAŠÁK>Nazdar, pašáci.\!<br>Užíváte si \c[11]SANDWICHOVÝ KLUB\c[0]?\!<br>Já teda jo...
+    text: \n<PAN SPAŠÁK>Nazdar, pašáci.\!<br>Užíváte si \c[11]SENDVIČOVÝ KLUB\c[0]?\!<br>Já teda jo...
 
 message_71:
     text: \n<PAN SPAŠÁK>Mí přátelé mi říkají, že umím dobře posuzovat ostatní.
@@ -288,13 +288,13 @@ message_72:
     text: \n<PAN SPAŠÁK>Á.\! Tak teď už je mi to jasné...\! Ty tam, v tom pruhovaném obleku!\!<br>Víš, co máš ty za problém, pašáku?\!<br>Seš prostě až moc hodnej.
 
 message_73:
-    text: \n<PAN SPAŠÁK>Mohl bych vynadat tobě, tvým kamarádům, tvý mamce... ale s tebou by to nehlo.\! Nemám pravdu, pašáku?
+    text: \n<PAN SPAŠÁK>Mohl bych vynadat tobě, tvým kamarádům, tvý mamce... ale tebe by ani nenapadlo použít pěsti.\! Nemám pravdu, pašáku? #blíže orig
 
 message_74:
     text: \n<PAN SPAŠÁK>Tak co s tím? To jako necháš jen tak?\!<br>Ne... Musíš mít ostrý lokty!
 
 message_75:
-    text: \n<PAN SPAŠÁK>Jen mi jednu vraž, pašáku.\!<br>No prosím! Udělej to!
+    text: \n<PAN SPAŠÁK>Jen mi jednu vraž, pašáku.\!<br>Jen do toho! Udělej to! #blíže orig
 
 #Talk to SCAREBRO as not---\n<HERO>
 message_76:
@@ -325,7 +325,7 @@ message_81:
     text: HERO získal 20 ÚTOKU.
 
 message_82:
-    text: \n<PAN SPAŠÁK>Ty...
+    text: \n<PAN SPAŠÁK>Ano... #přiroz
 
 message_83:
     text: \n<PAN SPAŠÁK>Přesně tak, pašáku.\! Tak to má vypadat...
@@ -366,7 +366,7 @@ message_102:
     text: \n<H. BA>Ty!\! Jo, ten kulatý!\!<br>Tvé oči... Jde z nich vyčíst, po čem toužíš!
 
 message_103:
-    text: \n<H. BA>Výborně!\! Výborně, výborně, vskutku výborně...\!<br>Vyučím tě.\! Pojď.
+    text: \n<H. BA>Výborné!\! Výborné, výborné, vskutku výborné...\!<br>Vyučím tě.\! Pojď. #ě na é
 
 #*MUSHROOM MAN walks to purple bud behind him*
 
@@ -381,7 +381,7 @@ message_106:
     text: \n<H. BA>Ovšem s velice specifickou a komplikovanou technikou bys nás byl schopen dostat ven jediným seknutím.
 
 message_107:
-    text: \n<H. BA>Ale naučit se tuto techniku ovládat trvá týdny, ba dokonce roky!\! Chceš-li se ji opravdu naučit, nedokážu ti říct, jak dlouho to bude trvat!
+    text: \n<H. BA>Ale naučit se tuto techniku ovládat trvá měsíce, ba dokonce roky!\! Chceš-li se ji opravdu naučit, nedokážu ti říct, jak dlouho to bude trvat! #týdny na měsíce
 
 message_108:
     text: \n<H. BA>Přesto věřím, že časem budeš chopen opravdu velikých věcí!\! Přijímáš tedy mou výzvu a stáváš se mým učněm?
@@ -444,11 +444,11 @@ message_123:
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Club Sandwich:
+#Club Sendvič:
 #map439
 #New Assets: Reuben at Counter, Hoagie Turnaround
 
-#You can enter CLUB SANDWICH after getting HERO back from LAST RESORT.
+#You can enter CLUB SENDVIČ after getting HERO back from LAST RESORT.
 
 #Last Resort:
 #Scarebro
@@ -477,7 +477,7 @@ message_130:
 message_131:
     text: \n<???>...
 message_132:
-    text: \n<???>Žádné heslo, žádný vstup.
+    text: \n<???>Bez hesla nikoho nepouštím. A basta! #no this, no that nefunguje tak dobře v češtině
 
 #*CLUB DOOR slit closes*
 
@@ -493,7 +493,7 @@ message_134:
     text: \n<???>...
 
 message_135:
-    text: \n<???>Žádné heslo, žádný vstup.
+    text: \n<???>Bez hesla nikoho nepouštím. A basta! #no this, no that nefunguje tak dobře v češtině
 
 #*CLUB DOOR slit closes*
 
@@ -505,7 +505,7 @@ message_136:
 message_137:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
-    text: \herJá je fakt miluju! Je s nima hrozná sranda.
+    text: \herZbožňuju to tady! Je tu hrozná sranda. #přiroz
 
 #If HERO is leader:
 message_138:
@@ -639,7 +639,7 @@ message_176:
 
 #Waterfall:
 #map160
-#Examining the waterfall in Pyrefly Forest will allow Omori to teleport to a map behind it. (Club Sandwich Alcove --- Map 433)
+#Examining the waterfall in Pyrefly Forest will allow Omori to teleport to a map behind it. (Club Sendvič Alcove --- Map 433)
 
 #Before overcoming Fear of Drowning, it shows the fear border.
 
@@ -683,16 +683,16 @@ message_176:
 #When examining the gates, random chance of one of these messages:
 
 message_185:
-  text: Toto uvězněné stvoření vypadá unaveně.
+  text: Tento uvězněný tvor vypadá unaveně.
 
 message_186:
-  text: Toto uvězněné stvoření vypadá smutně.
+  text: Tento uvězněný tvor vypadá smutně.
 
 message_187:
-  text: Toto uvězněné stvoření chce svobodu.
+  text: Tento uvězněný tvor chce svobodu.
 
 message_188:
-  text: Toto uvězněné stvoření potřebuje tvou pomoc.
+  text: Tento uvězněný tvor potřebuje tvou pomoc.
 
 #Switch:
 message_190:
@@ -719,12 +719,12 @@ message_199:
 
 #Library Cake:
 message_200:
-    text: Jahodový dort páchnoucí po řepě.\!<br>Kousneš si do něj?
+    text: Jahodový dort vonící po řepě.\!<br>Kousneš si do něj? #smrdí na voní (krom odpadků)
 #[YES/NO]
 
 #SW Room Cake:
 message_201:
-    text: Jahodový dort páchnoucí po rozmarínu.\!<br>Kousneš si do něj?
+    text: Jahodový dort vonící po rozmarínu.\!<br>Kousneš si do něj?
 #[YES/NO]
 
 #Servant's Room Cake:
@@ -734,7 +734,7 @@ message_202:
 
 #Ballroom Cake:
 message_203:
-    text: Jahodový dort páchnoucí po moři.\!<br>Kousneš si do něj?
+    text: Jahodový dort vonící po moři.\!<br>Kousneš si do něj?
 #[YES/NO]
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -789,7 +789,7 @@ message_215:
 #[YES]
 
 message_230:
-    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] již nebude nadále existovat.\!<br>Jsi si jistý, že tohle chceš?
+    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] tímto přestane existovat.\!<br>Jsi si jistý, že tohle chceš? #přiroz
 #[YES/NO]
 
 #*Keeper extends tendril to OMORI's head*
@@ -838,7 +838,7 @@ message_248:
 #[YES]
 
 message_255:
-    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] již nebude nadále existovat.\!<br>Jsi si jistý, že tohle chceš?
+    text: \n<KASTELÁN>\c[11]RŮŽOVÝ ZÁMEK\c[0] tímto přestane existovat.\!<br>Jsi si jistý, že tohle chceš? #konzistence
 #[YES/NO]
 
 #*Keeper extends tendril to OMORI's head*
@@ -994,7 +994,7 @@ message_287:
 
 #Examine doll:
 message_300:
-    text: Panenka s prázdnou tváří.\!<br>Nevypadá, že by zde patřila.\!<br>Chtěl bys ji vyhodit?
+    text: Panák s prázdnou tváří.\!<br>Nevypadá, že by zde patřila.\!<br>Chtěl bys ji vyhodit?
 #[YES/NO]
 
 #If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
@@ -1003,7 +1003,7 @@ message_300:
 
 #Examine OMORI doll:
 message_301:
-    text: Panenka s povědomou tváří.
+    text: Panák s povědomou tváří.
 
 message_302:
     text: Mý vydlábnuté oči.\! Podíváš se dovnitř?
@@ -1019,7 +1019,7 @@ message_302:
 
 #Examine bridge:
 message_310:
-    text: Nad propastí se tyčí jasný most.\!<br>Chtěl bys ho přejít?
+    text: Nad propastí se tyčí naplý most.\!<br>Chtěl bys ho přejít?
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1028,7 +1028,7 @@ message_310:
 #If you say “NO” to any Toll Booth payment dialogue:
 
 message_320:
-    text: \n<KROKOĎÁK>Hele, počkej!\! Vy... jste HERO, viď?\!<br>Šéfův oblíbenec!
+    text: \n<KROKOĎÁK>Hele, počkej!\! Vy... jste HERO, viďte?\!<br>Šéfův oblíbenec! #viďte
 
 message_321:
     text: \n<KROKOĎÁK>Promiňte pane, skoro jsem vás nepoznal.\! Tyhle brýle jsou na můj zrak příliš tmavé, víte?
@@ -1070,7 +1070,7 @@ message_330:
 #Talk to KORÁL as OMORI.
 
 message_331:
-    text: \n<KORÁL>Ode dne, co ses sem naposledy vydal, uplynula již dlouhá doba.<br><br><br>Čím zoufalejší je SNÍLEK, tím hloubější vrstvy tohoto světa se mu otvírají.<br><br>Ano, i představivost má své meze.
+    text: \n<KORÁL>Ode dne, co ses sem naposledy vydal, uplynula již dlouhá doba.<br><br>Čím zoufalejší je SNÍLEK, tím hloubější vrstvy tohoto světa se mu odkrývají.<br>Ano, i představivost má své meze.
 
 #*wait*
 message_332:
@@ -1101,13 +1101,13 @@ message_340:
 #*Everything except for the KORÁL, OMORI, and a small pool under the KORÁL are blacked out.*
 
 message_341:
-    text: \n<KORÁL>Kamarád, kterého jsi ztratil, se již nenachází v tomto světě.\!<br>Toho dne, kdy zmizel, se znovu narodil jinde.
+    text: \n<KORÁL>Kamarád, kterého jsi ztratil, se již nenachází v tomto světě.\!<br>Toho dne, kdy zmizel, se znovuzrodil jinde. #znovuzrodil
 
 message_342:
-    text: \n<KORÁL>Je pro tebe výjimečný.\! Jste spolu svázání provazy osudu.\! A z toho místa, kde je, se sám nedostane. #provaz protože pravda
+    text: \n<KORÁL>Je pro tebe výjimečný.\! Jste spolu svázáni provazy osudu.\! A z toho místa, kde je, se sám nedostane. #provaz protože pravda
 
 message_343:
-    text: \n<KORÁL>Proto, abys ho zachránil, se nejdříve musíš odstranit z tohoto světa způsobem, který je pro něj běžný.\! Způsobem běžným pro \c[11]MYŠLENKOVÝ PROSTOR\c[0].
+    text: \n<KORÁL>Proto, abys ho zachránil, se nejdříve musíš odstranit z tohoto světa způsobem, který je pro něj běžný.\! Způsobem běžným pro \c[11]MYSLOPROSTOR\c[0].
 
 message_344:
     text: \n<KORÁL>Tvá cesta se blíží ke konci.\!<br>Již víš, co máš udělat, SNÍLKU.
@@ -1130,7 +1130,7 @@ message_353:
     text: \n<KORÁL>Věk mu odstranil vědomí a postupně se sám sobě stal parazitem.\! Žije hned za touto jeskyní.
 
 message_354:
-      text: \n<KORÁL>Nejmoudřejší vykonal proti své vůli prečin proti SNÍLKOVI.\! O tomto přečinu nevím ani já sám.
+      text: \n<KORÁL>Nejmoudřejší vykonala proti svému rozumu čin proti SNÍLKOVI.\! O tomto činu nevím ani já sám. #blíže orig
 
 message_355:
     text: \n<KORÁL>Za to jí byla vzána moudrost a byla vyhnána kamsi daleko...\! do zvláštního vězení, kdesi hluboko.
@@ -1139,7 +1139,7 @@ message_356:
     text: \n<KORÁL>To poslední, nejoblíbenější, je VELKÁ ŽLUTÁ KOČKA, která nyní střeží SNÍLKOVU nejcennější místnost.
 
 message_357:
-    text: \n<KORÁL>Je SNÍLKOVÝM oblíbenem až dodnes...\! neustále ho sleduje...\! a čeká na něco.
+    text: \n<KORÁL>Je SNÍLKOVÝM oblíbencem až dodnes...\! neustále ho sleduje...\! a čeká, až se něco stane. #konzistence
 
 #---
 
@@ -1185,7 +1185,7 @@ message_374:
     text: \n<KORÁL>Poslouchal jsi dobře.\! Dal jsem ti sice poznání, avšak sílu ti zde dáti nemohu.
 
 message_375:
-    text: \n<KORÁL>Je zde výzva, která ti v tomto světě velice napomůže.\!<br>Nemyslíš-li, je jednoduchá... a pokud se ti podaří, zmizím také.
+    text: \n<KORÁL>Je zde výzva, která ti v tomto světě velice napomůže.\!<br>Nemyslíš-li, je jednoduchá... a pokud se ti podaří, zmizím taktéž. #taktéž
 
 message_376:
     text: \n<KORÁL>Nabízím ti tuto oběť.\! Využiješ této příležitosti?
@@ -1258,7 +1258,7 @@ message_387:
 #*Follow same sequence as above.*
 
 
-#CLUB SANDWICH JUICE
+#CLUB SENDVIČ JUICE
 
 message_390:
-    text: Všichni získali 10 ŠŤÁVY! 
+    text: Všichni získali 5 ŠŤÁVY! #jak se může stát, že z pětky je desítka???

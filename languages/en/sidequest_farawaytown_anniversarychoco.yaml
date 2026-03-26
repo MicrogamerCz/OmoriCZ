@@ -5,7 +5,7 @@
 #TRIGGER: Talk to MATLÁK
 
 message_0:
-      text: \n<MATLÁK>Safra... Jsem mrtvý muž...
+      text: \n<MATLÁK>Šmankote... Má drahá mě zabije... #přiroz, trocha variace
 
 message_1:
       text: \n<MATLÁK>Málem jsem zapomněl na to, že s ženou máme dneska výročí...\! tak se tady teď snažím jaksi zmírnit škody... Haha...
@@ -17,7 +17,7 @@ message_3:
       text: \n<MATLÁK>Akorát že...\! Jako obvykle...\! vůbec nevím, co mám dělat...\!<br>Jakákoliv pomoc by přišla vhod.
 
 message_4:
-      text: \n<MATLÁK>Takže...\! Pomohli byste mi vybrat ten dárek\! Předem děkuji!
+      text: \n<MATLÁK>Takže...\! Pomohli byste mi pomoct vybrat ten dárek\! Předem děkuji! #blíže orig
 
 #Examine CHOCOLATE / CARAMEL APPLES / CANDY:
 
@@ -58,7 +58,7 @@ message_11:
       text: \n<MATLÁK>Dobrý den!\!<br>Jedny \c[3]BONBÓNY\c[0], prosím!\!<br>Pro mou drahou ženu!\! Dnes máme výročí!
 
 message_12:
-      text: \n<PANÍ CANDICE>Jistě!\! Smiley, smiley!\!<br>Děkujeme vám za váš nákup a přijďte zas!\! Smiley, smiley!
+      text: \n<PANÍ SLADKÁ>Jistě, milí zlatí!\!<br>Děkujeme vám za váš nákup a přijďte zas, milí zlatí!
 
 message_13:
       text: \n<MATLÁK>Díky za vaši pomoc, děcka!\!<br>Jdu teda na to...\! Držte mi palce!
@@ -103,7 +103,7 @@ message_27:
       text: Měl by MATLÁK koupit \c[3]KARAMELOVÉ JABLKA\c[0]?
 
 message_60:
-      text: \n<PANÍ CANDICE>Vybíráte mezi \c[3]BONBÓNY\c[0], \c[3]ČOKOLÁDOU\c[0] a \c[3]KARAMELOVÝMI JABLKY\c[0]?\! To je teda těžká volba!\! Smiley, smiley!
+      text: \n<PANÍ SLADKÁ>Vybíráte mezi \c[3]BONBÓNY\c[0], \c[3]ČOKOLÁDOU\c[0] a \c[3]KARAMELOVÝMI JABLKY\c[0]?\! To je teda těžká volba, milí zlatí!
 
 message_300:
       text: Vybral jsi \c[3]ČOKOLÁDU\c[0].
@@ -131,7 +131,7 @@ message_43:
       text: \n<PANÍ S CULÍKEM>Ó! Ty sis vzpomněl?!\!<br>Děkuji ti, drahý...\! To je od tebe tak hezké...
 
 message_44:
-      text: \n<MATLÁK>Je...\! Vážně?!\! Haha!\! No...\! To je!\! Jsem ráda, že si to myslíš!
+      text: \n<MATLÁK>To...\! Vážně?!\! Haha!\! No...\! To je!\! Jsem rád, že si to myslíš! #matlák očividně prošel tranzicí mezi dialogy
 
 message_45:
       text: \n<PANÍ S CULÍKEM>Já pro tebe taky mám dárek...\!<br>A to sice \c[3]CELOU PIZZU\c[0 z \c[11]GINOVY PIZZERIE\c[0]!
@@ -140,7 +140,7 @@ message_46:
       text: \n<MATLÁK>\c[3]CELÁ PIZZA\c[0]!?\! Má drahá! Tos nemusela!\!<br>Tohle je snad nejlepší dárek, který jsem v životě dostal!
 
 message_47:
-      text: \n<PANÍ S CULÍKEM>Já...\! věděla, že se ti bude líbil...\!<br>Byla jsem na tebe poslední dobou tak zlá...
+      text: \n<PANÍ S CULÍKEM>Já...\! věděla, že se ti bude líbil...\!<br>Nechovala jsem se k tobě poslední dobou úplně nejlépe... #přátelštější ráz
 
 message_48:
       text: \n<PANÍ S CULÍKEM>A tak mě napadlo... že by tě tvé oblíbené jídlo mohlo rozveselit!

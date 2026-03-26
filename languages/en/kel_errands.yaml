@@ -20,10 +20,10 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: \kelMamka dneska ráno objednala \c[3]HERO SANDWICH\c[0]!\! Já ho mám jenom vyzvednout.
+      text: \kelMamka dneska ráno objednala \c[3]HERO SENDVIČ\c[0]!\! Já ho mám jenom vyzvednout.
 
 message_4:
-      text: \n<PIZZAŘ>Jo...\! Tak takhle...\! Vy jste ta rodina, co si pořád objednává sandwiche...\! a ne pizzu...
+      text: \n<PIZZAŘ>Jo...\! Tak takhle...\! Vy jste ta rodina, co si pořád objednává sendviče...\! a ne pizzu...
 
 message_5:
       faceset: MainCharacters_Faraway
@@ -46,10 +46,10 @@ message_8:
 message_9:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelMožná bys čekal že ji má protože by udělal kdysi něco hustýho, nevím, třeba zachránil šťenátko...\! ale ne...\!<br>Prostě miluje sandwiche!
+      text: \kelMožná bys čekal, že ji má proto, že udělal kdysi něco hustýho, nevím, třeba zachránil šťenátko...\! ale ne...\!<br>Prostě miluje sendviče!
 
 message_10:
-      text: \n<PIZZAŘ>Tak tady je ten váš \c[3]HERO SANDWICH\c[0].\! Dobrou chuť!
+      text: \n<PIZZAŘ>Tak tady je ten váš \c[3]HERO SENDVIČ\c[0].\! Dobrou chuť!
 
 #KEL turns to PIZZA MAN.
 

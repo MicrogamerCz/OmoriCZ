@@ -96,34 +96,34 @@ message_13:
 
 #Intro
 message_14:
-      text: \n<PANÍ CANDICE>Ahojky! To jsem já!\! Radostná a veselá PANÍ CANDICE!<br>Tak co to dneska bude? Milí zlatí!
+      text: \n<PANÍ CANDICE>Ahojky! To jsem já!\! Radostná a veselá PANÍ CANDICE!<br>Tak co to dneska bude, milí zlatí!
 #Purchase
 message_15:
-      text: \n<PANÍ CANDICE>Děkuji! Milí zlatí!
+      text: \n<PANÍ CANDICE>Děkuji, milí zlatí!
 #Insufficient Funds
 message_16:
-      text: \n<PANÍ CANDICE>Jejdanane...\! Vypadá, že na tohle nemáte!\!<br>Milí zlatí!
+      text: \n<PANÍ CANDICE>Jejdanane...\! Vypadá, že na tohle nemáte, milí zlatí!
 #item buying prompt
 message_70:
       text: \n<PANÍ CANDICE>Jasňačka! To bude $<SHOPTOTAL>,00.<br>Milí zlatí!\.\^
 #max item message
 message_71:
-      text: \n<PANÍ CANDICE>Promiňte, ale tohle všechno asi neunesete!\!<br>Milí zlatí!\.\^
+      text: \n<PANÍ CANDICE>Promiňte, ale tohle všechno asi neunesete, milí zlatí!\.\^
 #on item list buy ok
 message_72:
-      text: \n<PANÍ CANDICE>Super! A kolik byste jich chtěl? Milí zlatí!\.\^
+      text: \n<PANÍ CANDICE>Super! A kolik byste jich chtěli, milí zlatí?\.\^
 #item selling ok
 message_73:
-      text: \n<PANÍ CANDICE>Copak? Vy a prodávat mně? Milí zlatí!\.\^
+      text: \n<PANÍ CANDICE>Copak? Vy a prodávat mně, milí zlatí?\.\^
 #item selling prompt
 message_74:
-      text: \n<PANÍ CANDICE>Za tohle vám asi dám... tolik! Milí zlatí!\.\^
+      text: \n<PANÍ CANDICE>Za tohle vám asi dám... tolik, milí zlatí!\.\^
 #item buyin cancel prompt
 message_75:
-      text: \n<PANÍ CANDICE>Díky! Milí zlatí!
+      text: \n<PANÍ CANDICE>Díky, milí zlatí!
 #item buying cancel
 message_76:
-      text: \n<PANÍ CANDICE>Ale, to je v pořádku! Úplně v pohodě!<br>Milí zlatí!
+      text: \n<PANÍ CANDICE>Ale, to je v pořádku! Úplně v pohodě, milí zlatí!
 
 message_77:
       text: \n<PANÍ CANDICE>Přijďte prosím někdy zas!\! (Nebo bude zle...)
@@ -344,7 +344,7 @@ message_30:
 
 #Ribbon Cashier 2
 message_31:
-      text: \n<POKLADNÍ>Podle mě je jídlo jen základ pro omáčku.
+      text: \n<POKLADNÍ>Za mě je jídlo jen základ pro omáčku.
 
 #Glasses Cashier 3
 message_32:

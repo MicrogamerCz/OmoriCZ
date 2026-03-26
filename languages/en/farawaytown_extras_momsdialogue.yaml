@@ -9,13 +9,13 @@ message_0:
       text: \"Ahoj SUNNY, tady MAMKA.\! Pořád jsem ve městě a chystám věci pro ten nový dům.\! Máš už sbaleno?\"\n<MAMČIN VZKAZ>
 
 message_1:
-      text: \"Za pár dní přijedou stěhováci, a tak jsem ti připravila seznam domácích prací, které bys měl stihnout, než odjedeme.\"\n<MAMČIN VZKAZ> #povinnosti na práce
+      text: \"Za pár dní přijedou stěhováci, a tak jsem ti připravila rozpis domácích prací, které bys měl stihnout, než odjedeme.\"\n<MAMČIN VZKAZ> #povinnosti na práce
 
 message_2:
       text: \"A promiň!\! Trochu jsem něco popletla!\"\n<MAMČIN VZKAZ> #přiroz
 
 message_3:
-      text: \"Zapomněla jsem dodavateli elektřiny říct, že budeme potřebovat trochu více času, a proto ti možná v noci nepůjde proud.\"\n<MAMČIN VZKAZ>
+      text: \"Zapomněla jsem dodavateli elektřiny říct, že se ještě trochu zdržíme, a proto ti možná v noci nepůjde proud.\"\n<MAMČIN VZKAZ> #maty
 
 message_4:
       text: \"Jinak...\! Chápu, že jsi z toho stěhování možná vystresovaný, ale myslím, že by nám změna rozhodně přišla vhod!\"\n<MAMČIN VZKAZ> #lépe se hodí pro mámu
@@ -120,7 +120,7 @@ message_52:
 #Day 2:
 
 message_55:
-      text: \"Ahoj SUNNY, tady MAMKA.\! Jak se máš?\! Ani jendou mi ještě ani jednou nezavolal ani neodpověděl na tyhle vzkazy.\! Jestli mě budeš dále ignorovat, zase o tebe budu mít strach!\"\n<MAMČIN VZKAZ> #tón
+      text: \"Ahoj SUNNY, tady MAMKA.\! Jak se máš?\! Ani jednou jsi mi nezavolal ani neodpověděl na tyhle vzkazy.\! Jestli mě budeš dále ignorovat, zase o tebe budu mít strach!\"\n<MAMČIN VZKAZ> #tón
 
 message_56:
       text: \"Doufám, že sis dobře rozložil ty domácí práce...\! Ani já bych je za jeden den všechny nestihla!\"\n<MAMČIN VZKAZ>
@@ -132,7 +132,7 @@ message_58:
       text: \"Mimochodem, mohl bys z té skříně, kterou máme dole, vzít to, co bys chtěl s sebou?\! Zbytek asi vyhodíme.\"\n<MAMČIN VZKAZ> #srozumitelnější
 
 message_59:
-      text: \"Za dva dny tě teda přijedu vyzvednout.\!<br>To je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ> #dny
+      text: \"Pozítří pro tebe přijedu.\!<br>To je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ> #dny
 
 #Day 3:
 
