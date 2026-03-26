@@ -237,9 +237,9 @@ message_220:
 # - FLAG CHECKERS
 # -----------------------------------------------
 message_300:
-      faceset: MainCharacters_DreamWorld
-      faceindex: 39
-      text: \her\Com[2]Počkej, OMORI! Vydat se můžeme i potom, nejdříve musíme zkontrolovat BASILA!
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \her\Com[2]Počkej, OMORI! Vydat se můžeme i potom, nejdříve musíme zkontrolovat BASILA!
 
 # -----------------------------------------------
 # - Can't leave house
@@ -312,7 +312,7 @@ message_432:
 #==
 
 message_500:
-    text: Nyní máš přístup k \c[4]OBĚŠENCI\c[0].
+    text: Nyní máš přístup k \c[4]ŠIBENICI\c[0].
 
 message_501:
     text: Získal jsi \c[4]MAPU MYSLOPROSTORU\c[0].
