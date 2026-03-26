@@ -208,7 +208,7 @@ message_30:
     faceset: 05_MARI_OW
     faceindex: 2
     text: >
-        \mar(vzdechnutí)... Máte sice \c[4]JÍZDENKU\c[0], ale \c[4]VLAK\c[0] už bohužel odjel.
+        \marUff... Máte sice \c[4]JÍZDENKU\c[0], ale \c[4]VLAK\c[0] už bohužel odjel.
 
 message_31:
     faceset: 05_MARI_OW

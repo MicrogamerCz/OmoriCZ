@@ -10,7 +10,7 @@
 message_0:
       faceset: MainCharacter_Basil_Dark
       faceindex: 17
-      text: Á...\! SUNNY...\! To jsi jenom ty...\bas
+      text: Á...\! SUNNY...\! To jsi jen ty...\bas
 
 message_1:
       faceset: MainCharacter_Basil_Dark
@@ -20,7 +20,7 @@ message_1:
 message_2:
       faceset: MainCharacter_Basil_Dark
       faceindex: 17
-      text: Fakt...\! Rád tě vidím.\bas
+      text: Vážně...\! Rád tě vidím.\bas
 
 message_3:
       faceset: MainCharacter_Basil_Dark
@@ -66,7 +66,7 @@ message_8:
 message_9:
       faceset: MainCharacter_Basil_Dark
       faceindex: 17
-      text: Nejsi zlý, SUNNY.\! Já vím, že nejsi zlý!\bas
+      text: Ty nejsi zlý, SUNNY.\! Já vím, že nejsi zlý!\bas
 
 message_10:
       faceset: MainCharacter_Basil_Dark
@@ -263,7 +263,7 @@ message_53:
 message_54:
       faceset: MainCharacter_Basil
       faceindex: 16
-      text: \basAle...\! vždycky když ti chci pomoc...\!<br>Se mi jaksi povede ti jenom přidávat starosti.
+      text: \basAle...\! vždycky když ti chci pomoct...\!<br>Se mi jaksi povede ti jenom přidávat starosti.
 
 message_55:
       faceset: MainCharacter_Basil
@@ -298,7 +298,7 @@ message_60:
 message_61:
       faceset: MainCharacter_Basil
       faceindex: 30
-      text: \basAUBRY, KEL a HERO jsou skvělí kamarádi.\!<br>Musíš věřit, že nám to odpustí.
+      text: \basAUBRY, KEL a HERO jsou skvělí kamarádi.\!<br>Budeš muset doufat, že nám to odpustí.
 
 message_62:
       faceset: MainCharacter_Basil
@@ -361,7 +361,7 @@ message_82:
       text: Všichni občas děláme chyby...\!<br>A před jednou takovou chybou už hodně dlouho utíkáš.\mar
 
 message_83:
-      text: Otevřít se je občas těžké,<br>Ale ty si to odpustíš, viď?\mar
+      text: Svěřit se bývá těžké...<br>Ale ty si to odpustíš, viď?\mar
 
 #pause
 

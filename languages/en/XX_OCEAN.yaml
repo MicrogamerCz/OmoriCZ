@@ -305,7 +305,7 @@ message_174:
       text: \n<PRODAVAČ>Hele, hochu! Jen tak mimochodem, nechtěl bys můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?
 
 message_177:
-      text: \n<PRODAVAČ>Běžne se prodávají za $25.00...\! ale ty vypadáš, že bys ním uměli...\! a tak se ho vzdám jen za $10.00!\! Co ty na to?\$
+      text: \n<PRODAVAČ>Běžne se prodávají za $25.00...\! ale ty vypadáš, že bys ním uměl...\! a tak se ho vzdám jen za $10.00!\! Co ty na to?\$
 
 message_175:
       text: \n<PRODAVAČ>Super.\! Se svým \c[13]DOMÁCÍM KAMÍNKEM\c[0] jste skvělá dvojka.\!<br>Dobře se o něj starej!
@@ -417,13 +417,13 @@ message_251:
       text: \n<PRODAVAČ>Tak dobře... i když tenhle \c[13]DOMÁCÍ KAMÍNEK\c[0] volá tvoje jméno!\!<br>Cítím to.
 
 message_252:
-      text: \n<STARÁ PANÍ>Zde máte $\v[650],00 za vaši pomoc! Hoho!
+      text: \n<STAŘENKA>Zde máte $\v[650],00 za vaši pomoc! Hoho!
 
 message_253:
       text: \n<MATLÁK>\com[2]\{DÍKY, DÍKY, DÍKY!!
 
 message_254:
-      text: \n<MATLÁK>Prosím...\! Nepotřebuju další důvod, za který by na mě mohla být moje žena naštvaná!
+      text: \n<MATLÁK>Prosím...\! Nepotřebuju další důvod, za který by na mě mohla být moje žena naštvaná! #změnit
 
 #==================Kel graffiti====================
 #Day 2 Graffiti kels house
@@ -434,7 +434,7 @@ message_260:
 message_261:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]Co to sakra?!... Co se to tady stalo?!<br>\!Kurňa... V tom má beztak prsty AUBRY nebo ta její koloběžková banda...\kel
+      text: \Com[2]Co to sakra?!... Co se to tady stalo?!<br>\!Kurňa... V tom má beztak prsty AUBRY nebo ta její koloběžkařská banda...\kel
 
 message_262:
       faceset: MainCharacters_Faraway
@@ -664,7 +664,7 @@ message_908:
     text: \n<PODEZŘELÝ KRTEK>\}Na.\! Vemte si tohle a ukažte jí to.\!<br>Až to uvidí, není šance, že by vám neodstoupila.
 
 message_910:
-    text: Získal jsi \c[4]ČERNÝ DOPIS\c[0]. #výraz opět ztracen
+    text: Získal jsi \c[4]ČERNÁ OBÁLKA\c[0]. #výraz opět ztracen
 
 message_355:
     text: \n<PODEZŘELÝ KRTEK>\}A teď mě nechte s mou \c[4]P.O.S.T.E.L.\c[0] napokoji.<br>Tady naše spolupráce končí!
@@ -733,7 +733,7 @@ message_371:
 #====================  Faraway =======================
 
 message_380:
-    text: \n<POŘÁDNÝ AMERIČAN>\com[2]Uhni, máš tlustý sklo!\!<br>Nevidíš, že se snažím dívat?!
+    text: \n<POŘÁDNÝ ČECH>\com[2]Uhni, máš tlustý sklo!\!<br>Nevidíš, že se snažím dívat?!
 
 #==================== Pizza Delivery 2 =======================
 
@@ -761,7 +761,7 @@ message_394:
 # Moms to do list and voice mail
 
 message_395:
-      text: MAMČIN SEZNAM DOMÁCÍCH PRACÍ.\!<br>Domácí práce se ti teď moc dělat nechtějí.
+      text: MAMČIN ROZPIS DOMÁCÍCH PRACÍ.\!<br>Domácí práce se ti teď moc dělat nechtějí.
 
 message_396:
       text: Máš nový vzkaz.
@@ -775,7 +775,7 @@ message_398:
 # Kels house dinner time
 
 message_399:
-      text: Získal jsi \c[4]DOMÁCÍ VEČEŘI\c[0]...\! ale už zestydla.\!<br>V mikrovlnce si ji můžeš zahřát.
+      text: Získal jsi \c[4]DOMÁCÍ VEČEŘI\c[0]...\! ale už zestydla.\!<br>V mikrovlnce si ji můžeš ohřát.
 
 # Characters sleeping in bedfort
 
@@ -863,7 +863,7 @@ message_416:
       text: \n<KELŮV TÁTA>Ha!\! HERO, ty jsi takový slaďák.\! Stejně jak tvůj fotr!
 
 message_417:
-      text: \n<KELOVA MAMKA>Promiň, že jsem se na vás tak zlobila.\!<br>Vím, že tady SUNNY už dlouho nebude...
+      text: \n<KELOVA MAMKA>Promiňte, že jsem se na vás tak zlobila.\!<br>Vím, že tady SUNNY už dlouho nebude...
 
 message_418:
       text: \n<KELOVA MAMKA>Hlavně zkuste zůstat v kontaktu.\! Čím starší jsi, tím těžší je si najít nové kamarády!
@@ -877,7 +877,7 @@ message_420:
       text: \n<KELOVA MAMKA>Jo... Určitě budete.
 
 message_421:
-      text: Dveře jsou zamčené.
+      text: Zamčeno.
 
 message_422:
       text: \n<KELOVA MAMKA>Měj se, SUNNY.\!<br>A nezapomeň, že u nás jsi vždy vítán! #spíš "u nás jsi vždy vítán"
@@ -894,7 +894,7 @@ message_423:
 message_424:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelNemohl bys to v sobě udržet ještě chvilku, SUNNY?\! Fakt ti chci ukázat svůj pokoj!
+      text: \kelNemohl bys vydržet ještě chvilku, SUNNY?\! Fakt ti chci ukázat svůj pokoj!
 
 message_425:
       faceset: MainCharacters_Faraway
@@ -947,7 +947,7 @@ message_441:
       text: \n<SÁRA>\}...
 
 message_442:
-      text: \n<STŘEMHLAV>AUBRY je špatně?\! \com[2]Jak je to možné?!\! V tomhle musí mít prsty něco děsivějšího...\! Možná jakýsi zlý padouch!\! Musíme ho ihned dopátrat!
+      text: \n<STŘEMHLAV>AUBRY je špatně?\! \com[2]Jak je to možné?!\! V tomhle musí mít prsty něco děsivějšího...\! Možná jakýsi zlý padouch!\! Musíme ho ihned lapit!
 
 message_443:
       text: \n<KIM>\sinv[1]Grr, grr...\! ...\! Uff...
@@ -1210,7 +1210,7 @@ message_566:
 message_567:
     faceset: MainCharacters_Faraway
     faceindex: 15
-    text: \kelTyhle panáčky vždycky úplně žral...\! HEROVI se ale nelíbilo, že jsem na nich utrácel peníze za obědy.\!<br>To bych mu radši nepřipomínal...
+    text: \kelTyhle panáčky jsem vždycky úplně žral...\! HEROVI se ale nelíbilo, že jsem na nich utrácel peníze, které nám naši dali na oběd.\!<br>To bych mu radši nepřipomínal...
 
 message_568:
     faceset: MainCharacters_Faraway

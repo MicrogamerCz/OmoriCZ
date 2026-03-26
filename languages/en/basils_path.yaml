@@ -9,7 +9,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTy jo!\! Co je tohle za podivné stvoření?
+      text: \kelTy jo!\! Co je tohle za rostlinovou potvoru?
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -71,7 +71,7 @@ message_12:
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herOMORI!\! Když už ti tak začínají jít bitvy...\! Tady máš blok, do kterého si můžeme poznamenat všechny naše soupeře.
+      text: \herOMORI!\! Když už ti tak začínají jít bitvy...\! Tady máš blok, do kterého si můžeme zaznamenat všechny naše soupeře. #maty
 
 message_16:
       text: HERO ti dal \c[4]BITEVNÍ BLOK!\c[0].
@@ -84,7 +84,7 @@ message_17:
 message_18:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herPodívej se na něj skrz KAPSU v MENU, které otevřeš klávesou \DII[escape].
+      text: \herPodívej se na něj skrz KAPSU v NABÍDCE, kterou otevřeš klávesou \DII[escape].
 
 
 #========================================================================================================================
@@ -106,14 +106,14 @@ message_21:
 message_22:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basTakový bych chtěl být i já...\! někdo, kdo ve věcech vždycky vidí světlou stránku.
+      text: \basTakový bych chtěl být i já...\! někdo, kdo vždy vidí světlou stránku. #maty
 
 #LILY
 
 message_23:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že umí odhánět zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
+      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že odhánějí zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
 
 message_24:
       faceset: MainCharacter_Basil
@@ -227,12 +227,12 @@ message_48:
 message_49:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basProto mi gladioly připomínají AUBRY, tím, že si neústupně stojí za svým! #urputná za mě zní dost negativně, a tak tuto větu vnímá Kel, ale Basil ne
+      text: \basProto mi gladioly připomínají AUBRY tím, že si neústupně stojí za svým! #urputná za mě zní dost negativně, a tak tuto větu vnímá Kel, ale Basil ne, odstranění čárky
 
 message_50:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelAha...<br>\!Takže říkáš, že je AUBRY strašně tvrdohlavá!
+      text: \kelAha...<br>\!Takže říkáš, že AUBRY je strašně tvrdohlavá! #maty
 
 message_51:
       faceset: MainCharacters_DreamWorld
@@ -280,7 +280,7 @@ message_60:
 message_70:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTy brďo! Jak se jmenujou tyhle kytičky? Jsou husté a bodlavé!
+      text: \kelTy brďo! Jak se jmenujou tyhle kytičky? Jsou bodlavé... \!a husté! #maty
 
 message_71:
       faceset: MainCharacter_Basil
@@ -290,7 +290,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubA připomínají ti ho, protože...\! bývá pěkná osina? #díky Micro!
+      text: \aubA připomínají ti ho, protože...\! je pěkná osina? #díky Micro!, maty
 
 message_73:
       faceset: MainCharacters_DreamWorld
@@ -300,7 +300,7 @@ message_73:
 message_74:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basNo...\! To možná, ale hlavně protože kaktusy jsou přirozeně odolné rostliny.<br><br>Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
+      text: \basNo...\! To možná, ale hlavně protože kaktusy jsou přirozeně odolné rostliny.<br><br>Nepotřebujou, aby se o ně někdo staral a přežijí i v nejdrsnějších podmínkách!
 
 message_75:
       faceset: MainCharacter_Basil
@@ -357,7 +357,7 @@ message_209:
       text: \basProto mi gladioly připomínají AUBRY, tím, že si neústuně stojí za svým! #konzistence
 
 message_210:
-      text: \basKaktusy jsou přirozeně odolné rostliny.Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
+      text: \basKaktusy jsou přirozeně odolné rostliny. Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
 
 message_211:
       text: \basČímž se snažím říct... že i ty by ses mohl starat o kaktus, KELI!
@@ -380,7 +380,7 @@ message_214:
 message_80:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basAle ne! Už zase další KLÍČKOKRTEK!
+      text: \basAle ne! Zase další KLÍČKOKRTEK! #maty
 
 message_81:
       faceset: MainCharacters_DreamWorld
@@ -423,12 +423,12 @@ message_81:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herTy jo, tahle bitva je celkem náročná...\! Ale nezoufejte!<br>Pokud se semkneme, zvládneme to!
+      text: \herTy jo, tenhle souboj je celkem náročný...\! Ale nezoufejte!<br>Pokud se semkneme, zvládneme to!
 
 message_91:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herAsi vás budu muset trochu poučit o týmové práci!\! Zkusme to znovu, OMORI!<br>Tentokrát ho dostaneme!
+      text: \herAsi vás budu muset trochu poučit o týmové práci!\! Zkusme to znovu, OMORI!\! Tentokrát ho dostaneme! #maty
 
 #========================================================================================================================
 #WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
@@ -456,7 +456,7 @@ message_100:
 message_101:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubKam to jdeš, OMORI?\!<br>Musíme BASILOVI pomoct setřídit jeho \c[4]FOTOALBUM\c[0]!
+      text: \aubKam to jdeš, OMORI?\!<br>Musíme BASILOVI pomoct roztřídit jeho \c[4]FOTOALBUM\c[0]! #maty
 
 message_102:
       faceset: MainCharacter_Basil
@@ -477,7 +477,7 @@ message_156:
 message_163:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herTak tady to máte...\! HERŮV ZÁKLADNÍ PRŮVODCE BITVAMI!\! A jsem si jistý, že se s každou další bitvou naše souhra ještě zlepší! #plynulejší
+      text: \herTak tady to máte...\! HEROVY ZÁKLADY SOUBOJE!\! A jsem si jistý, že se s každou další bitvou naše souhra ještě zlepší! #plynulejší, maty
 
 message_157:
       faceset: MainCharacter_Basil
@@ -502,7 +502,7 @@ message_160:
 message_169:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herS tím, jak budeme nabírat sílu budu zároveň doplňovat i našeho \c[4]PRŮVODCE\c[0], takže se do něj nezapomeň čas od času mrknout! #změním, až zjistím překlad follow up
+      text: \herS tím, jak budeme nabírat sílu budu zároveň doplňovat sekci NÁSLEDNÝCH ÚTOKŮ \c[4]ZÁKLADŮ SOUBOJE\c[0], takže se do nich nezapomeň čas od času mrknout! #změním, až zjistím překlad follow up, maty
 
 message_152:
       faceset: MainCharacters_DreamWorld
@@ -542,12 +542,12 @@ message_165:
 message_166:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: \herPokud nevíš, EMOCE mohou rozhodovat o síle útoku.\! RADOST přemáhá HNĚV...\! HNĚV přemáhá SMUTEK...\! a SMUTEK zase RADOST!
+      text: \herjestlis nevěděl, EMOCE také rozhodují o síle útoku.\! RADOST přemáhá VZTEK...\! VZTEK přemáhá SMUTEK...\! a SMUTEK zase RADOST! #maty
 
 message_167:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Dívej, dokonce jsem nakreslil schéma, jak to přesně funguje!\! Nejsem sice žádný umělec, ale za mě to stačí.\! Dám ti ho do kapsy, aby ses na něj mohl kdykoli podívat.\her #plynulejší
+      text: Dívej, dokonce jsem nakreslil schéma, jak to přesně funguje!\! Nejsem sice úplně malíř, ale za mě to stačí.\! Dám ti ho do kapsy, aby ses na něj mohl kdykoli podívat.\her #plynulejší, maty
 
 message_168:
       text: Získal jsi \c[4]EMOČNÍ SCHÉMA\c[0].

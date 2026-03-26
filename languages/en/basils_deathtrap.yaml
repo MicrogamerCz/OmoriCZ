@@ -27,7 +27,7 @@ message_3:
 message_4:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basPromiň...\! Možná jsem se měl víc snažit...
+      text: \basPromiň...\! Asi jsem se měl víc snažit...
 
 message_5:
       faceset: MainCharacter_Basil
@@ -152,7 +152,7 @@ message_61:
 message_62:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basAu!\! Je tady tolik brouků...\! Vůbec se mi tohle nelíbí... #přirozenější
+      text: \basAu!\! Je tady tolik brouků...\! Tohle se mi vůbec nechce líbit... #přirozenější
 
 message_63:
       faceset: MainCharacter_Basil
@@ -194,7 +194,7 @@ message_81:
 message_90:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basOMORI...\|\^ Vůbec se mi tohle nelíbí...\|\^<br>Nepřipadá mi to tady moc bezpečné.\|\^ #blíže orig
+      text: \basOMORI...\|\^ Vůbec se mi tady nelíbí...\|\^<br>Nepřipadá mi to tady moc bezpečné.\|\^ #blíže orig
 
 message_91:
       faceset: MainCharacter_Basil

@@ -4,22 +4,22 @@
 
 #Trigger: Enter proximity of Medusa's Balcony
 
-#MEDÚZA is fiddling with chemicals at the table.
+#MEDÚSA is fiddling with chemicals at the table.
 #SWEETHEART is frustrated.
 
 
 message_0:
       text: Šmankote, tady to smrdí přímo otřesně!\!<br>Jak dlouho to ještě bude trvat?<br>Mám celkem citlivý nos, víte?!\swh
 
-#MEDÚZA turns to SWEETHEART.
+#MEDÚSA turns to SWEETHEART.
 
 message_1:
-      text: Na ten pach si zvykneš.\! Teď pšt, panenko, pracuju.\n<MEDÚZA>
+      text: Na ten pach si zvykneš.\! Teď pšt, panenko, pracuju.\n<MEDÚSA>
 
-#MEDÚZA turns back around.
+#MEDÚSA turns back around.
 
 message_2:
-      text: A je hotovo.\n<MEDÚZA>
+      text: A je hotovo.\n<MEDÚSA>
 
 #Fluid flows from table chemicals to test tube.
 
@@ -31,27 +31,27 @@ message_3:
 message_4:
       text: Ahoj, moje dokonalá partnerko!\! Vstáváme!\swh #má to přece být kopie zlatíčka
 
-#MEDÚZA slaps SWEETHEART out of the way.
+#MEDÚSA slaps SWEETHEART out of the way.
 #SWEETHEART is surprised.
 
 message_5:
-      text: Nesahej na sklo, ty hňupe! Celé to zkazíš!\n<MEDÚZA>
+      text: Nesahej na sklo, ty hňupe! Celé to zkazíš!\n<MEDÚSA>
 
 message_6:
       text: \quake[1]\{\Com[2]NO...\! \Com[2]TO BYCH...\! \Com[2] NEUDĚLALA! NIKDY!\swh #nejistota
 
-#The test tube starts to bubble. SWEETHEART and MEDÚZA look at the test tube. The test tube starts going and the screen turns white. The test tube is broken and fluid has become gold.
+#The test tube starts to bubble. SWEETHEART and MEDÚSA look at the test tube. The test tube starts going and the screen turns white. The test tube is broken and fluid has become gold.
 
 message_7:
       text: C-Co se stalo?\swh
 
-#PERFECTHEART descends from the top of the screen and lands in front of MEDÚZA and SWEETHEART.
+#PERFECTHEART descends from the top of the screen and lands in front of MEDÚSA and SWEETHEART.
 
 message_8:
-      text: Nemám slov...\! Tento experiment vyšel lépe, než jsem čekala.\! Pohleď, panenko.\n<MEDÚZA> #blíže orig
+      text: Nemám slov...\! Tento experiment vyšel lépe, než jsem čekala.\! Pohleď, panenko.\n<MEDÚSA> #blíže orig
 
 message_9:
-      text: Výsledek je naprosto dokonalý.\! Hle!\! Perfektní verze tebe samotné!\n<MEDÚZA> #pointa tady je, že to není "perfektní kopie zlatíčka", ale "perfektní forma zlatíčka"
+      text: Výsledek je naprosto dokonalý.\! Hle!\! Perfektní verze tebe samotné!\n<MEDÚSA> #pointa tady je, že to není "perfektní kopie zlatíčka", ale "perfektní forma zlatíčka"
 
 #SWEETHEART examines PERFECTHEART.
 #PERFECTHEART follows SWEETHEART's movements.
@@ -60,7 +60,7 @@ message_10:
       text: Hmmm...\! Nelíbí se mi.\swh
 
 message_11:
-      text: Cože? Slyším tohle správně?\!<br>Vždyť je všechno, cos chtěla, a ještě o něco víc!\n<MEDÚZA> #nepřátelštější
+      text: Cože? Slyším správně?\!<br>Vždyť je všechno, cos chtěla, a ještě o něco víc!\n<MEDÚSA> #nepřátelštější
 
 message_12:
       text: Ach, ty prosťáčku.\! Není nic dokonalejšího, než já...<br>což ty zjevně nechápeš.\swh
@@ -69,12 +69,12 @@ message_13:
       text: Jsi jenom obyčejný křupan.\!<br>Tohle byla jenom obrovská ztráta času!<br>\!No nic, já le-\swh
 
 message_14:
-      text: \Com[2]Už mám dost těch tvých keců!<br>Zákazník nezákazník, už mi fakt lezeš na nervy!\!<br>Kdo tě naučil si takhle pouštět hubu na špacýr?\n<MEDÚZA>
+      text: \Com[2]Už mám dost těch tvých keců!<br>Zákazník nezákazník, už mi fakt lezeš na nervy!\!<br>Kdo tě naučil si takhle pouštět hubu na špacýr?\n<MEDÚSA>
 
 message_15:
-      text: A teď... mě omluvte, neboť tohle je jenom obrovská ztráta mé energie...\! Mám o dost důležitější věci na práci.\n<MEDÚZA>
+      text: A teď... mě omluvte, neboť tohle je jenom obrovská ztráta mé energie...\! Mám o dost důležitější věci na práci.\n<MEDÚSA>
 
-#MEDÚZA walks off.
+#MEDÚSA walks off.
 
 message_16:
       text: Ne že odejdeš jako první!\! <br>Já se přece měla urazit a odejít jako první!\swh #to uražení nebylo v originálu, ale je to tak dobré, že to tady absolutně musím nechat
@@ -90,7 +90,7 @@ message_16:
 #MARINA is moving around checking different gadgets.
 
 message_30:
-      text: No fuj, smrdí to tady jako žumpa...\! <br>Co že tady vlastně provádíš?\swh #přiroz, tady bohužel nic lepšího nesedí
+      text: No fuj, smrdí to tady jako někde v žumpě...\! <br>Co že tady vlastně provádíš?\swh #přiroz, tady bohužel nic lepšího nesedí
 
 message_31:
       text: Po tom vám nic není, paní.<br>Jen si sedněte stranou a odpočiňte si!\n<MARINA> #vykání, přiroz
@@ -149,7 +149,7 @@ message_42:
 #SWEETHEART is frustrated.
 
 message_53:
-      text: Jak dlouho to ještě bude trvat? Nemám na tohle celý den!\swh #blíže orig
+      text: Jak dlouho to ještě bude trvat? Na tohle nemám celý den!\swh #blíže orig
 
 #MOLLY turns to SWEETHEART.
 

@@ -75,7 +75,7 @@ message_132:
 
 
 message_134:
-      text: Křídlový klavír.\!<br>Uprostřed je vyryto slovo "OMORI".
+      text: Křídlový klavír.\!<br>Do jeho střední lišty je vryto slovo \"OMORI\".
 
 
 message_135:
@@ -288,7 +288,7 @@ message_166:
 # ========================================================================================
 
 message_180:
-      text: Baseballová pálka.\! MARI hrávala softball, ale od té doby, co si poranila koleno, s ním musela zkončit.
+      text: Baseballová pálka.\! MARI hrávala softball, ale od té doby, co si poranila koleno, s ním musela skončit.
 
 message_181:
       text: AUBRYINA plyšová hračka, \"LILÍK\". #konzistence
@@ -407,7 +407,7 @@ message_249:
       text: Na pláž boty nepatří!\!<br>Chodit v botech v písku je hrůza.
 
 message_250:
-      text: \"ODPOČÍVEJTE, UVOLNĚTE A UŽÍVEJTE!\" #zkusím. lepší něco než nic ("unwind"... jindy by mě něco napadlo. dneska mám totální okno)
+      text: \"ODPOČÍVEJTE, UVOLNĚTE SE A UŽÍVEJTE!\" #zkusím. lepší něco než nic ("unwind"... jindy by mě něco napadlo. dneska mám totální okno)
 
 message_251:
       text: Plážové křeslo.
@@ -460,7 +460,7 @@ message_13:
 #Entrance
 
 message_14:
-      text: Dveře jsou zamčené.
+      text: Zamčeno.
 
 #Exit
 
@@ -474,7 +474,7 @@ message_61:
       text: \n<MAMKA>Prosím, nezlob, SUNNY...\|<br>Prosím...\| buď hodný...
 
 message_62:
-      text: Z televize září děsivá záře.\!<br>Cítíš, jak tě zvláštně přitahuje. #světlo na záře. popravdě si nemyslím, že měnit záři na světlo je kvůli komoušům nutné
+      text: Televize vyzařuje děsivou záři.\!<br>Cítíš, jak tě zvláštně přitahuje. #světlo na záře. popravdě si nemyslím, že měnit záři na světlo je kvůli komoušům nutné
 
 # =========================================================================================
 # HOSPITAL
@@ -486,7 +486,7 @@ message_16:
       text: Tato osoba nedýchá.
 
 message_40:
-      text: Tato osoba zběsile dýchá.
+      text: Tato osoba pravidelně dýchá. #konzistence, blíže orig
 
 #Television
 
@@ -610,7 +610,7 @@ message_304:
 message_305:
       faceset: MainCharacter_Mari
       faceindex: 23
-      text: Poslouchával jsi mě celé hodiny...\! S tím na tebe byl vždycky spoleh. \aub #vypouštím "mluvit"
+      text: Naslouchával si mi celé hodiny...\! S tím na tebe byl vždycky spoleh. \aub #vypouštím "mluvit"
 
 message_306:
       faceset: MainCharacter_Mari
@@ -625,7 +625,7 @@ message_307:
 message_308:
       faceset: MainCharacter_Mari
       faceindex: 8
-      text:  SUNNY...\! My víme, že se nerad stavíš do čela věcí.\her
+      text:  SUNNY...\! My víme, že se nerad stavíš věcem do čela.\her
 
 message_309:
       faceset: MainCharacter_Mari

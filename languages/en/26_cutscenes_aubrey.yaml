@@ -24,7 +24,7 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \Com[2]Krásné ráno, SUNNY!\!<br>Být tebou bych...\! ham...\! začal jíst, dokud ještě je co!\!<br>\}Stejně už po mě moc slaniny nezbylo.\kel
+      text: \Com[2]Krásné ráno, SUNNY!\!<br>Být tebou bych...\! ham...\! začal jíst, dokud je ještě co!\!<br>\}Stejně už po mně moc slaniny nezbylo.\kel
 
 #HERO enters.
 
@@ -36,14 +36,14 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Kamaráde! Ta je všechna pro mě?\! Díkec, brácha! Heh heh!\kel
+      text: No teda! Ta je všechna pro mě?\! Díkec, brácha! Heh heh!\kel #není na Heroa, to je zvolání
 
 #Doorbell rings.
 
 message_6:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ham, ham, ham...\! Kdo by to tak mohl...?\! <br>Jdu otevřít.\kel
+      text: Ham, ham, ham...\! Kdo by to tak mohl být?\! <br>Jdu otevřít.\kel #není důvod, proč větu ukončit dříve
 
 #KEL walks O.S.
 
@@ -81,13 +81,13 @@ message_12:
       text: Co tady vůbec chceš?\kel
 
 message_13:
-      text: Grr, grr...\! \Com[2]Teď jsem ti to chtěla říct, jenom kdybys mě nechal!\kim
+      text: Grr, grr...\! \Com[2]Už bych ti to dávno řekla, kdybys mě nechal!\kim #zní lépe
 
 message_14:
       text: Prostě...\! AUBRY.\kim
 
 message_15:
-      text: Klepeme jí na dveře a pořád nic...\! zadní dveře - taky nic...\!<br>ty šutry, kterýma jsme jí házeli po okně - taky nic...\kim
+      text: Klepeme jí na dveře...\! přední i zadní...\!<br>házíme šutry na okna... a ona pořád nic.\kim #zní lépe
 
 message_16:
       text: Včera byla dost naštvaná...\kim
@@ -115,7 +115,7 @@ message_19:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Je to přece koneckonců AUBRY.\!<br>Vždyť se známe od dětství!\her
+      text: Je to přece koneckonců AUBRY.\!<br>Vždyť se známe už od mala!\her
 
 #KEL turns to HERO.
 
@@ -142,14 +142,14 @@ message_24:
 message_25:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: S tím bych si nebyl moc jistý...\kel
+      text: S tím bych si nebyl dvakrát jistý...\kel
 
 #HERO jumps.
 
 message_26:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: Dneska máme poslední šanci s tím cokoliv udělat, než SUNNY odjede.\! <br>A já to v žádném případě takhle nenechám!\her
+      text: Dneska máme poslední šanci s tím něco udělat, než SUNNY odjede.\! <br>A já to v žádném případě takhle nenechám!\her #něco zní přirozeněji
 
 message_27:
       faceset: MainCharacters_Faraway
@@ -215,7 +215,7 @@ message_37:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: Haló?\! Je tam někdo?\her #změněno z "je někdo doma?", protože se to objevuje později
+      text: Haló?\! Je někdo doma?\her #předáno sem
 
 #HERO turns to KEL.
 
@@ -235,7 +235,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Haló?\! AUBRY?\! Je někdo doma?\her
+      text: Haló?\! AUBRY?\! Jsi tam?\her #přítelštější
 
 message_54:
       faceset: MainCharacters_Faraway
@@ -248,7 +248,7 @@ message_54:
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: Á! Vypadá, že celou dobu bylo otevřeno.\! Pojďme dovnitř.\her
+      text: Á! Vypadá, že bylo celou dobu otevřeno.\! Pojďme dovnitř.\her
 
 message_56:
       faceset: MainCharacters_Faraway
@@ -323,14 +323,14 @@ message_78:
 message_79:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]Shodilas BASILA do jezera!\! A ty víš, že neumí plavat!\kel
+      text: \Com[2]Shodilas BASILA do jezera!\! A ty moc dobře víš, že neumí plavat!\kel #přiroz
 
 #AUBREY turns around.
 
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: T-To byl omyl...\!<br>Jenom...\! jsem ho chtěla odstrčit...\aub
+      text: T-To jsem nechtěla...\!<br>Jenom...\! jsem ho chtěla odstrčit...\aub #blíže orig
 
 message_81:
       faceset: MainCharacters_Faraway
@@ -342,7 +342,7 @@ message_81:
 message_82:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \com[2]Už jsem ti řekla, že to byl omyl!\aub
+      text: \com[2]Už jsem ti řekla, že to bylo omylem!\aub #přiroz
 
 message_83:
       faceset: MainCharacters_Faraway
@@ -354,19 +354,19 @@ message_83:
 message_84:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: Proč se musíš pořád jenom nad ostatní povyšovat?!\aub
+      text: To ty se tady pořád nad všechny povyšujes!\aub #blíže orig
 
 message_85:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: No...\! Že to říká zrovna ta, co BASILA furt otravuje a krade mu jeho věci!\kel
+      text: No...\! Že to říká zrovna ta, co do BASILA furt strká a krade mu jeho věci!\kel #blíže orig
 
 #AUBREY is frustrated.
 
 message_86:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: \Com[2]Přestaň o tom mluvit, jako bys věděl, o co běží!\! <br>Pořád ti říkám, že ti do toho nic není.\aub
+      text: \Com[2]Přestaň o tom mluvit, jako bys věděl, o co jde!\! <br>Pořád ti říkám, že ti do toho nic není.\aub #neohrabanost
 
 message_87:
       faceset: MainCharacters_Faraway
@@ -376,7 +376,7 @@ message_87:
 message_88:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Ty...\! Ty a BASIL...\! A my všichni...\!<br>Jste byli mí nejlepší kamarádi...\kel
+      text: Ty...\! Ty a BASIL...\! A vy všichni...\!<br>Jste byli mí nejlepší kamarádi...\kel
 
 message_89:
       faceset: MainCharacters_Faraway
@@ -410,7 +410,7 @@ message_93:
 message_94:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: Hele...\ Tak tady zkončily ty fotky s MARI.\her
+      text: Hele...\ Tak tady skončily ty fotky s MARI.\her #pravopis
 
 message_95:
       faceset: MainCharacters_Faraway
@@ -440,7 +440,7 @@ message_99:
 message_100:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: To není pravda, AUBRY. \!SUNNY je má přímo tady!\kel
+      text: To není pravda, AUBRY. \!SUNNY je má u sebe!\kel #"hned tady" je extrémně doslovný překlad. hned člověka vytrhne z věci svou nepřirozeností a poukazuje na to, že se jedná o překlad
 
 #AUBREY is surprised.
 
@@ -469,7 +469,7 @@ message_104:
 message_105:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: To je...\! celkem odporný.\aub
+      text: To je...\! pěkně hnusný.\aub #přiroz
 
 #KEL puts his hand behind his head.
 
@@ -518,7 +518,7 @@ message_111:
 message_132:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: Tak.\! Teď jsou všechny zase tam, kde mají být!\her
+      text: Tak.\! A všechno je zas jak má být!\her #přiroz
 
 message_133:
       faceset: MainCharacters_Faraway
@@ -564,7 +564,7 @@ message_139:
 message_140:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Dobře! Omluvy přijmuty! Teď zase můžeme být všichni kamarádi!\!<br>\sinv[1]Kdo se chce obejmout?!\her
+      text: Dobře! Omluvy přijmuty! Teď zase můžeme být všichni kamarádi!\!<br>\sinv[1]To chce pořádné objetí, nemyslíte?\her #přiroz
 
 #KEL is sweaty.
 
@@ -578,26 +578,26 @@ message_141:
 message_142:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: J-Já jsem v pohodě... Díky.\aub
+      text: Z-Za mě by to šlo bez toho... Dík.\aub #přiroz, neohrabanost
 
 #HERO walks toward entrance.
 
 message_143:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Tak teď už nám zbývá jen BASIL.\her
+      text: Tak, teď už nám zbývá jen BASIL.\her #interpunkce
 
 message_144:
       faceset: MainCharacters_Faraway
       faceindex: 31
-      text: Snad se dneska cítí líp.\her
+      text: Snad už je mu líp.\her
 
 #HERO turns to AUBREY.
 
 message_145:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: AUBRY...\! S tím vším, co vím od KELA...\!<br>Určitě víš, že by ses měla omluvit i němu.\her
+      text: AUBRY...\! S tím vším, co vím od KELA...\!<br>Určitě víš, že by ses měla omluvit i jemu.\her #němu je gramaticky správně, ale jemu mi přijde přiroz
 
 message_146:
       faceset: MainCharacters_Faraway
@@ -607,7 +607,7 @@ message_146:
 message_147:
       faceset: MainCharacters_Faraway
       faceindex: 30
-      text: Díky, AUBRY. \!Jsem rád, že jsi zase zpátky. \!<br>A teď s tebou pryč odsud!\her
+      text: Díky, AUBRY. \!Jsem rád, že tě zase máme v partě. \!<br>A teď už jen odtud odejít!\her #přiroz
 
 message_148:
       faceset: MainCharacters_Faraway

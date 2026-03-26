@@ -54,8 +54,8 @@ Information:
     listIndex: 2
 
     text: |
-        Nebezpečný a agresivní ohavný rostlinný
-        tvor. Říká o sobě sice, že je
+        Nebezpečná a agresivní rostlinná
+        potvora. Říká o sobě sice, že je
         chytrý, ale tomu se nedá věřit.
         Není chytrý. A ještě k tomu
         smrdí jako špinavé prádlo.
@@ -187,7 +187,7 @@ Information:
 
 
         Kdysi jsem tyhle věci sbíral!
-        Tak tady všechny zkončily...
+        Tak tady všechny skončily...
 
         - HERO
 
@@ -1424,7 +1424,7 @@ Information:
         - OMORI
 
   879:
-    name: MEDŮZA
+    name: MEDÚSA
     background: {name: 'battleback_dw_slimegirls', x: 0, y: 0}
     position: {x: 170, y: 500}
     character: {name: 'DW_NPC_10', index: 0}

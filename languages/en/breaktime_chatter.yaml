@@ -356,7 +356,7 @@ message_60:
 message_61:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelAUBRY, AUBRY... Nebuď takový mrzout.\! Jen se podívej na světlou stránku věcí! #zkusím
+    text: \kelAUBRY, AUBRY... Nemusíš být taková mrzutá.\! Stačí se na věc podívat z jiného úhlu! #zkusím, předělávka, maty
 
 message_62:
     faceset: MainCharacters_DreamWorld
@@ -366,7 +366,7 @@ message_62:
 message_63:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aub\com[2]To nikdy neříkáš!
+    text: \aub\com[2]To teda neříkáš! #maty
 
 #------------------------------------------------------------------------------------------------------------------------
 
@@ -380,7 +380,7 @@ message_64:
 message_65:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marA co je na něm špatného, HERO?\! Vždyť je tak praktické!\! A ještě k tomu se shání jednodušeji, než \c[3]SNO-CONES\c[0]! #blíže orig
+    text: \marA co je na něm špatného, HERO?\! Vždyť je tak praktické!\! A ještě k tomu se shání jednodušeji, než \c[3]VÁNICUKS\c[0]! #blíže orig
 
 message_66:
     faceset: MainCharacters_DreamWorld
@@ -390,7 +390,7 @@ message_66:
 message_67:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marNo, popravdě moc velký ne...\! \c[3]SNO-CONES\c[0] v sobě mají jen větší kusy ledu.
+    text: \marNo, popravdě moc velký ne...\! \c[3]VÁNICUKS\c[0] v sobě mají jen větší kusy ledu.
 
 
 message_68:
@@ -1182,12 +1182,12 @@ message_210:
     text: \basP-Promiňte...\! Nejsem zas tak dobrý...\! A ani se o to moc nepokouším!\!<br>Jen fotím pro zábavu!
 
 message_211:
-    text: \n<KROKOĎÁK>Éééee? Co to s tebou je?\! Připadáš mi nějaký moc skromný, kluku!\!<br>S takovou tě nepřijmou! #"prodat se" v češtině není, nahrazuji přijetím
+    text: \n<KROKOĎÁK>Éééee? Co to s tebou je?\! Připadáš mi nějaký moc skromný, kluku!\!<br>Musíš se umět prodat! #více méně revert
 
 message_212:
     faceset: MainCharacter_Basil
     faceindex: 6
-    text: \basA-Ale...\! Já nechci, aby mě někde přijali... #viz výše
+    text: \basA-Ale...\! Já se nechci nikam prodávat... #viz výše
 
 message_213:
     text: \n<KROKOĎÁK>\com[2]Cože? Jak to?

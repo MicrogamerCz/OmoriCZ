@@ -53,64 +53,64 @@ message_60:
 # - FRUITS BASKET
 # -----------------------------------------------
 message_2:
-    text: Ach ano, šťavnaté ovoce.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...šťavnaté ovoce!\!<br>Chtěl by sis dát?
 
 message_3:
     text: Ty a tví kamarádi jste jako noví!
 
 message_4:
-    text: Ach ano, výživné sladkosti.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...výživné sladkosti!\!<br>Chtěl by sis dát?
 
 message_5:
-    text: Ach ano, vesmírné kondenzované trubičkové jídlo.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...vesmírné kondenzované trubičkové jídlo!\!<br>Chtěl by sis dát?
 
 message_6:
-    text: Ach ano, precizně upečené kuře.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...kuře upečené dokřupava!\!<br>Chtěl by sis dát? #maty, změněm začátek a zbytek pro konzistenci taky
 
 message_7:
-    text: Ach ano, domácí marmeláda.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...domácí marmeládu!\!<br>Chtěl by sis dát? #pád
 
 message_8:
-    text: Ach ano, jakási podivuhodná želatina.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...jakousi podivuhodnou želatinu!\!<br>Chtěl by sis dát? #pád
 
 message_9:
-    text: Ach ano, okurky.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...okurky!\!<br>Chtěl by sis dát?
 
 message_20:
-    text: Ach ano, XXL porce rychlého občerstvení.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...XXL porci rychléhoho občerstvení!\!<br>Chtěl by sis dát? #pád
 
 message_21:
-    text: Ach ano, vynikající ledová tříšť.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...vynikající ledovou tříšť.\!<br>Chtěl by sis dát? #pád
 
 message_22:
-    text: Ach ano, jeden osamělý kousek tofu.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...jeden jediný kousek tofu!\!<br>Chtěl by sis dát? #přiroz
 
 message_23:
-    text: Ach ano, písmenková polívka.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...písmenkovou polívku!\!<br>Chtěl by sis dát? #pád
 
 message_24:
-    text: Ach ano, vynikající sladká jablka.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...vynikající sladká jablka!\!<br>Chtěl by sis dát?
 
 message_25:
-    text: Ach ano, syrové ryby.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...syrové ryby!\!<br>Chtěl by sis dát?
 
 message_26:
-    text: Ach ano, dost dlouhý hero sandwich.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...dlouhatáncký hero sendvič!\!<br>Chtěl by sis dát? #přiroz
 
 message_27:
-    text: Ach ano, šťavnatá rajčata.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...šťavnatá rajčata!\!<br>Chtěl by sis dát?
 
 message_28:
-    text: Ach ano, čerstvě upečený chleba.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...čerstvě upečený chleba!\!<br>Chtěl by sis dát?
 
 message_29:
-    text: Ach ano, miska čerstvých jahod.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...misku čerstvých jahod!\!<br>Chtěl by sis dát? #pád
 
 message_31:
-    text: Ach ano, kýbl čerstvého a hutného ??? mléka.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...kýbl čerstvého kondenzovaného mléka!\!<br>Chtěl by sis dát? #temporary fix
 
 message_32:
-    text: Ach ano, ZLATÍČČIN zvláštní čaj a sušenky.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...ZLATÍČČIN zvláštní čaj a sušenky!\!<br>Chtěl by sis dát?
 
 message_33:
     text: Majestátně dlouhá, růžová postel.\!<br>Chtěl by sis tady se svými kamarády zdřímnout?
@@ -118,7 +118,7 @@ message_33:
 #Blackspace
 
 message_30:
-    text: Ach... ztvrdlý, zmražený steak.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme... ztvrdlý, zmražený steak.\!<br>Chtěl by sis dát?
 
 # -----------------------------------------------
 # - YES/NO

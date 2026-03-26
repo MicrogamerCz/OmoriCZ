@@ -18,13 +18,13 @@ message_2:
 message_3:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: No ne...\! Můžeme mu nějak pomoct?\her
+      text: Aj...\! Můžeme mu nějak pomoct?\her #no ne se nehodí, "aj" mi přijde celkem přirozené
 
 message_4:
-      text: To teď nevím.\!<br>Když se vrátil, hned šel k sobě do pokoje a zamkl se tam.\n<POLLY>
+      text: Těžko říct.\!<br>Když se vrátil, hned šel k sobě do pokoje a zamkl se tam.\n<POLLY>
 
 message_5:
-      text: A od té chvíle jsem z něho nedostala ani slovo.\!<br>Možná jenom potřebuje být chvilku sám...\! ale...\! Nevím...\!<br>Mám o něho strach.\n<POLLY>
+      text: A od té chvíle jsem z něho nedostala ani slovo.\!<br>Možná jenom potřebuje být chvilku o samotě...\! ale...\! Nevím...\!<br>Mám o něho trochu strach.\n<POLLY> #blíže orig
 
 message_6:
       text: Mohli byste si s ním prosím zkusit promluvit?\n<POLLY>
@@ -35,7 +35,7 @@ message_7:
       text: Samozřejmě!\! Uděláme, co můžem.\kel
 
 message_8:
-      text: Díky, všichni...\! Až budete připraveni, jen přijďte.\n<POLLY>
+      text: Díky, všichni...\! Až budete připraveni, pojďte dál.\n<POLLY> #přívětivější
 
 # =========================================================================================
 # Cutscene: Basil Won't Leave His Room
@@ -63,13 +63,13 @@ message_23:
 message_24:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: Jen jsme ti chtěli říct, že jsme tady.\! <br>Kdybys něco potřeboval, řekni, jo?\her
+      text: Jen jsme ti chtěli říct, že jsme tady.\! <br>Kdybys něco potřeboval, můžeš nám dát vědět!\her #přívětivější
 
 message_25:
       text: ...\| ...\| ...\| ...\| ...
 
 message_26:
-      text: Uff...\! Možná jenom opravdu potřebuje být o samotě...\!<br>Promiňte, že jsem vás s tímhle otravovala.\n<POLLY>
+      text: Ach...\! Možná jenom opravdu potřebuje být o samotě...\!<br>Promiňte, že jsem vás s tímhle otravovala.\n<POLLY> #citoslovce
 
 message_27:
       faceset: MainCharacters_Faraway
@@ -81,7 +81,7 @@ message_27:
 message_28:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Ahoj, BASILE...\! Tady AUBRY.\aub
+      text: Čau, BASILE...\! Tady AUBRY.\aub #blíže orig
 
 message_29:
       text: ... ... ...
@@ -97,7 +97,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: Řekneš prosím něco?\!<br>Jen se chceme ujistit, že jsi v pořádku.\aub
+      text: Řekneš prosím něco?\!<br>Jen se chceme ujistit, že jsi v poho.\aub #přiroz, Aubrey sedí do úst
 
 message_33:
       text: ...\| ...\| ...\| ...\| ...
@@ -115,7 +115,7 @@ message_35:
 message_36:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: Jo...\! Naposledy jsme udělali chybu v tom, že jsme se opustili, zrovna když jsme se nejvíc potřebovali.\!<br>Tentokrát...\! zůstaneme spolu. \her
+      text: No jo...\! Naposledy jsme udělali chybu v tom, že jsme se opustili, zrovna když jsme se nejvíc potřebovali.\!<br>Tentokrát...\! zůstaneme spolu. \her #lepší začátek
 
 #HERO turns to POLLY.
 
@@ -125,7 +125,7 @@ message_37:
       text: POLLY...\! Myslíte, že bychom tady mohli přespat?\her
 
 message_38:
-      text: Ó...\! Vy jste tak milí...\!<br>Jasně, že mohli!\n<POLLY> #spíš "hodní"? tohle je na tobě
+      text: Jé...\! Vy jste tak milí...\!<br>Samozřejmě, že mohli!\n<POLLY> #citoslovce a trochu spisovnější, zrovna "milí" jsi vybral správně
 
 message_39:
       text: Myslím, že by to BASILOVI udělalo radost...\!<br>Určitě by to pro něj znamenalo hodně.\n<POLLY>
@@ -136,10 +136,10 @@ message_40:
       text: \{\sinv[1]SUPER!\! ZABÍRÁM SI GAUČ!!\kel
 
 message_41:
-      text: Á, tohle na mě letí nějak moc rychle!\n<POLLY>
+      text: Á, toho na mě letí nějak moc rychle!\n<POLLY> #přiroz
 
 message_42:
-      text: Tak dobře. Jestli bude KEL na gauči, vy ostatní budete muset spát na dekách.\! Těch tady máme dost.\n<POLLY>
+      text: Tak dobře. Jestli bude KEL na gauči, vy ostatní si můžete vzít deky.\! Těch tady máme dost.\n<POLLY> #přívětivější
 
 message_43:
       text: Dojdu pro ně.\n<POLLY>
@@ -178,7 +178,7 @@ message_70:
 message_71:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Chtěl bych ti jenom říct, že i když se zítra stěhuješ...\! já budu tvůj kamarád napořád.\her
+      text: Chtěl bych ti jenom říct, že i když se zítra stěhuješ...\! kamarádi budeme pořád.\her #blíže orig
 
 message_72:
       faceset: MainCharacter_Basil
@@ -188,7 +188,7 @@ message_72:
 message_73:
       faceset: MainCharacter_Basil_dark
       faceindex: 31
-      text: Hej! Jenom říkám, co si myslím!\her
+      text: Hele! Jenom říkám, co si myslím!\her #Herovi lépe sedí "hele" než "hej"
 
 message_74:
       faceset: MainCharacter_Basil_dark
@@ -228,7 +228,7 @@ message_80:
 message_81:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: Ale jo... má pravdu.\! <br>Vím, že tam pro sebe teď budeme vždycky.\! <br>Stejně, jako je s náma celou dobu MARI.\kel
+      text: Ale jo... má pravdu.\! <br>Vím, že tady jeden pro druhého teď budeme vždycky.\! <br>Stejně, jako je s náma celou dobu MARI.\kel #přiroz
 
 message_82:
       faceset: MainCharacter_Basil_dark
@@ -266,7 +266,7 @@ message_88:
 message_89:
       faceset: MainCharacter_Basil
       faceindex: 47
-      text: Co to...\! Němu se už podařilo usnout?!\aub
+      text: Co to...\! Němu už se podařilo usnout?!\aub
 
 message_90:
       text: \sinv[1]Chráááááp...\| Chráááááp...\| Chráááááp...\| Chráááááp...\kel
@@ -281,7 +281,7 @@ message_91:
 message_92:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: SUNNY...\! Díky za všechno.\! Určitě nebylo lehké vyjít po tak dlouhé době ven z domu... ale vážím si, žes toho pro nás byl schopen.\her
+      text: SUNNY...\! Díky za všechno.\! Určitě nebylo lehké vyjít po tak dlouhé době ven z domu... ale vážím si toho, žes to pro nás udělal.\her #přiroz
 
 message_93:
       faceset: MainCharacter_Basil
@@ -291,7 +291,7 @@ message_93:
 message_94:
       faceset: MainCharacter_Basil
       faceindex: 14
-      text: Ono se to zlepší.\! Stačí být pořád pozitivní.\her
+      text: Ono se to zlepší.\! Stačí smýšlet optimisticky.\her #přiroz
 
 message_95:
       faceset: MainCharacter_Basil
@@ -306,7 +306,7 @@ message_96:
 message_97:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: Jo! A mohli bychom všichni spolu třeba na sandwich!\! A nebo do parku...\! nebo na pláž...\! nebo prostě jenom sedět doma a koukat na televizi...\! Kdo ví? Můžeme dělat cokoliv!\her
+      text: To určitě! A mohli bychom všichni spolu třeba na sendviče!\! A nebo do parku...\! nebo na pláž...\! nebo prostě jenom sedět doma a koukat na televizi...\! Kdo ví? Můžeme dělat cokoliv!\her #začátek. ajaj, z Heroa se stává Jevil...
 
 message_98:
       faceset: MainCharacter_Basil_dark
@@ -316,7 +316,7 @@ message_98:
 message_99:
       faceset: MainCharacter_Basil
       faceindex: 13
-      text: No jasně, že mohli, AUBRY! Na to se ani nemusíš ptát!\!<br>Čím víc, tím líp.\her
+      text: No jasně, že mohli, AUBRY! Na to se ani nemusíš ptát!\!<br>Čím víc nás bude, tím líp.\her #no, já úplně nevím, ale co mi je do toho
 
 message_100:
       text: \sinv[1]Chráááááp...\| No tak...\| <br>Spěte už...\kel
@@ -324,7 +324,7 @@ message_100:
 message_101:
       faceset: MainCharacter_Basil_dark
       faceindex: 0
-      text: Haha...\! Jo, furt...\aub
+      text: Haha...\! Jo, jo...\aub #blíže orig
 
 message_102:
       faceset: MainCharacter_Basil_dark

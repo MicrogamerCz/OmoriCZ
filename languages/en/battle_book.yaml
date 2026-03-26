@@ -3,7 +3,7 @@
 # =========================================================================================
 
 message_0:
-    text: Průvodce bitvami, napsán mnou samotným (HEREM)!\! Co bys chtěl projít?
+    text: Základy souboje, popsány mnou samotným (HEREM)!\! Co bys chtěl projít? #maty
 
 message_1:
     text: STATISTIKU

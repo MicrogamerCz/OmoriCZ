@@ -42,7 +42,7 @@ message_3:
 message_10:
     faceset: MainCharacter_Mari
     faceindex: 1
-    text: \marTakže... chtěl bys, abych ti s čímkoliv pomohla?<br>Bude tě to stát jen tvou lásku!
+    text: \marTakže... chceš, abych ti s čímkoliv pomohla?<br>Bude tě to stát jen tvou lásku!
 
 # =========================================================================================
 
@@ -54,7 +54,7 @@ message_10:
 message_15:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marSnad jsem ti alespoň trochu pomohla.<br>Jsem tady pro tebe, kdybys mě potřeboval.
+    text: \marSnad jsem ti alespoň trochu pomohla.<br>Jsem tady pro vás, kdybyste potřebovali.
 
 # =========================================================================================
 
@@ -568,7 +568,7 @@ message_186:
 message_190:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marSVÍČKA ztratila svého \c[4]PLYŠOVÉHO MEDVÍDKA\c[0] a teď ho nemůže najít.\. (vzdechnutí)...\. Kdo bude teď naposlouchávat jejím strastem?\.\^
+      text: \marSVÍČKA ztratila svého \c[4]PLYŠOVÉHO MEDVÍDKA\c[0] a teď ho nemůže najít.\. Uff...\. Kdo bude teď naposlouchávat jejím strastem?\.\^
 
 #After getting \c[4]TEDDY BEAR\c[0]:
 
@@ -651,12 +651,12 @@ message_220:
 message_225:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marNašli jste ten \c[4]SOPEL\c[0], po kterém se sháněla MEDŮZA!\. Asi byste jí ho měli dát, dřív než to tady celé kontaminuje...\.\^
+      text: \marNašli jste ten \c[4]SOPEL\c[0], po kterém se sháněla MEDÚSA!\. Asi byste jí ho měli dát, dřív než to tady celé kontaminuje...\.\^
 
 message_226:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marAha... Tak MEDŮZA si to tělo dělá pro sebe...\. Teď se nedivím, že vypadá tak vypracovaně.\.\^
+      text: \marAha... Tak MEDÚSA si to tělo dělá pro sebe...\. Teď se nedivím, že vypadá tak vypracovaně.\.\^
 
 # =========================================================================================
 
@@ -764,7 +764,7 @@ message_261:
 message_260:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marPESSI snad bude v té frontě čekat nadosmrti...\. Neměli bychom ji říct, že už to zkončilo?\.\^
+      text: \marPESSI snad bude v té frontě čekat nadosmrti...\. Neměli bychom ji říct, že už to skončilo?\.\^
 
 # =========================================================================================
 
@@ -877,7 +877,7 @@ message_281:
 message_282:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \mar\sinv[1](vzdechnutí)...\sinv[0]\. Koukla jsem se už všude, ale po BASILOVI ani stopa...\. Nesmíme to ale vzdát...\. BASIL nás potřebuje!\.\^
+        text: \mar\sinv[1]Uff...\sinv[0]\. Koukla jsem se už všude, ale po BASILOVI ani stopa...\. Nesmíme to ale vzdát...\. BASIL nás potřebuje!\.\^
 
 #Sproutmole Town I
 message_283:

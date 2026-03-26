@@ -51,7 +51,7 @@ terms:
         actorLoss: "%1 ztrácí %3 %2!"
         actorNoDamage: "%1 nepřichází o žádné ŽIVOTY!"
         actorNoHit: "VEDLE! %1 nepřichází o žádné ŽIVOTY!"
-        actorRecovery: "%1 získává %2 bodů do %2!"
+        actorRecovery: "%1 doplnil/a %3 o %2 bodů!"
         alwaysDash: "VŽDY BĚŽET"
         bgmVolume: "HLASITOST HUDBY"
         bgsVolume: "HLASITOST POZADÍ"
@@ -63,30 +63,30 @@ terms:
         criticalToEnemy: "TREFA PŘÍMO DO SRDCE!"
         debuffAdd: "%2 %1 se zvýšilo!"
         defeat: "%1 byl poražen/a..."
-        emerge: "%1 přichází na scénu!"
-        enemyDamage: "%1 přichází o %2 ŽIVOTŮ!"
-        enemyDrain: "%1 přichází o %3 ŠŤÁVY!"
-        enemyGain: "%1 získává %2 ŠŤÁVY!"
-        enemyLoss: "%1 ztrácí %2 ŠŤÁVY!"
-        enemyNoDamage: "%1 nepřichází o žádné ŽIVOTY!"
-        enemyNoHit: "VEDLE! %1 nepřichází o žádné ŽIVOTY!"
-        enemyRecovery: "%1 doplňuje %2 ŠŤÁVY!"
+        emerge: "%1 se objevil!"
+        enemyDamage: "%1 byl/a ztrefen/a za %2 životy!"
+        enemyDrain: "%1 přišel/a o %3 %2!"
+        enemyGain: "%1 získal/a %3 %2!"
+        enemyLoss: "%1 ztratil/a %3 %2!"
+        enemyNoDamage: "%1 nepřišel/a o žádné životy!"
+        enemyNoHit: "VEDLE! %1 nepřišel/a o žádné životy!"
+        enemyRecovery: "%1 doplnil/a %3 o %2 bodů!"
         escapeFailure: "...ovšem, nepovedl se."
         escapeStart: "%1 se pokouší o útěk!"
-        evasion: "%1 uhýbá útoku!"
+        evasion: "%1 se vyhnul/a útoku!"
         expNext: "K příštímu %1"
         expTotal: "Současný %1"
         file: "Hra"
-        levelUp: "%1 získává %2 %3!"
+        levelUp: "%1 nabil %2 %3!"
         loadMessage: "Načíst kterou hru?"
-        magicEvasion: "%1 zabraňuje účinku kouzla!"
-        magicReflection: "%1 obrací kouzlo!"
+        magicEvasion: "%1 překazil účinek kouzla!"
+        magicReflection: "%1 obrátil kouzlo!"
         meVolume: "Hlasitost hudebních efektů"
         obtainExp: "Získal jsi %1 %2!"
         obtainGold: "Získal jsi %1\\M!"
         obtainItem: "Našel jsi %1!"
         obtainSkill: "...a naučil se dovednost %1!"
-        partyName: "%Tvá parta"
+        partyName: "%1HO parta"
         possession: "Vlastnictví"
         preemptive: "%1 má náskok!"
         saveMessage: "Do jaké hry chceš ULOŽIT?"
@@ -529,7 +529,7 @@ plugins:
 
   itemMenu:
     categories:
-      - SVÁČA
+      - MLS
       - HRAČKY
       - DŮLEŽITÉ
     itemUse:
@@ -957,7 +957,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_106'
 
   questMenu:
-    header: MARIINY RADY
+    header: MARINY RADY
     questStates:
         - NESPLNĚNO
         - SPLNĚNO

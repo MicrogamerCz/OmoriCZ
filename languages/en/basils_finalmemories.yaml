@@ -45,7 +45,7 @@ message_11:
       text: \kelTajíš nám něco, BASILE?
 
 message_12:
-      text: \basNeboj...\! Za chvilku ti to doje.
+      text: \basNeboj...\! Za chvilku ti to docvakne.
 
 #=================Talk to Aubrey==================
 
@@ -150,7 +150,7 @@ message_43:
       text: \herAleee... Teď ne, MARI... Haha...
 
 message_44:
-      text: \kel\sinv[1]\{JÓOOOO!!!\!\}\sinv[0]<br>V horkém letním dni se nic nevyrovná pořádnému, šťavnatému kousku melounu!
+      text: \kel\sinv[1]\{JÓOOOO!!!\!\}\sinv[0]<br>V takovýhle den se nic nevyrovná šťavnatému kousku melounu!
 
 message_45:
       text: \kel\com[2]Ham! Ham! Ham! Ham! Ham! Ham!
@@ -273,7 +273,7 @@ message_89:
       text: \marJsem ráda, že zase víc fotíš, BASILE.\!<br>Řekla bych, že se ti ten tvůj nový koníček dost zalíbil.
 
 message_90:
-      text: \basTo teda!\! Když se to člověk jednou naučí, tak je to super. #přirozenější
+      text: \basTo teda!\! Když to člověka jednou chytne, tak je to super. #přirozenější
 
 message_91:
       text: \basP-Počkej...\! S touhle fotkou něco je...
@@ -289,7 +289,7 @@ message_93:
 #----------Talk to MARI-------------
 
 message_94:
-      text: \marPromiň, bráško!\! Snad jsme tě nevzbudili... #rozhodl jsem se změnit bratříčku na bráško a plánuju to změnit i v předchozích dokumentech
+      text: \marPromiň, bráško!\! Snad jsme tě nevzbudili... #rozhodl jsem se změnit bráško na bráško a plánuju to změnit i v předchozích dokumentech
 
 message_95:
       text: \marVypadal jsi tak klidně...\!<br>Jako když jsi byl miminko.
@@ -480,7 +480,7 @@ message_162:
 # Leave
 
 message_163:
-      text: \kelAha, ty chceš jít napřed, SUNNY?\! Neboj, my tě hned dohoníme! #blíže orig
+      text: \kelAha, ty chceš jít napřed, SUNNY?\! Neboj, my tě hned doženeme! #blíže orig
 
 # =========================================================================================
 # Basil's Birthday Party
@@ -543,7 +543,7 @@ message_192:
       text: \bas...
 
 message_193:
-      text: \basNeříkám. #tady se mi úplně nic nehodí, nechávám to takhle
+      text: \basNeřeknu. #tady se mi úplně nic nehodí, nechávám to takhle
 
 message_194:
       text: \basJe to tajemství!
@@ -615,7 +615,7 @@ message_225:
       text: \basSice to možná nevypadá na první pohled jako něco extra...<br>ale všichni jsme se na tenhle dárek dlouho skládali.
 
 message_226:
-      text: \aubPřesně tak!\! Já a BASIL jsme kvůli tomu dokonce v létě museli prodávat sušenky a limonádu.
+      text: \aubPřesně tak!\! Já a BASIL jsme kvůli tomu museli celé léto prodávat sušenky a limonádu.
 
 message_227:
       text: \herA MARI šla na brigádu do pekárny,<br>ale na to si asi vzpomínáš. #no tak to musela být hrůza. o práci v pekárně jsem slyšel... věci
@@ -624,7 +624,7 @@ message_228:
       text: \kelA já?\! Já musel tři měsíce v kuse každé ráno roznášet noviny...
 
 message_229:
-      text: \kel\Com[2]A moc dobře víte, jak moc nesnáším ranní vstávání! #blíže orig
+      text: \kel\Com[2]A vy moc dobře víte, jak moc nesnáším ranní vstávání! #blíže orig
 
 message_230:
       text: \marNechtěli bychom na tebe nějak moc tlačit...
@@ -636,7 +636,7 @@ message_232:
       text: \basA MARI nám řekla o tom, jak si k ní vždycky sedáš, když hraje na klavír.
 
 message_233:
-      text: \kelA nezapomeňme na to, jak jsme tě jednou přichytili, jak hraješ na tvoje staré, které už ti jsou tak dlouho malé. #pravopis
+      text: \kelA nezapomeňme na to, jak jsme tě jednou načapali, jak hraješ na tvoje staré, které už ti jsou tak dlouho malé. #pravopis
 
 message_234:
       text: \aubKaždopádně...\! to byl vlastně BASILŮV nápad...\! ale rozhodli jsme se mu v tom pomoct...\! takže...\! jo!
@@ -697,7 +697,7 @@ message_270:
       text: Na vůni melounu.
 
 message_271:
-      text: Vždy chutnal o něco líp, když jsi ho jedl spolu se svými kamarády na pláži.
+      text: Vždy chutnal o něco líp, když jsi ho jedl se svými kamarády na pláži.
 
 message_272:
       text: Část \c[4]HOUSLÍ\c[0] se opravila. #opravila. definitivně opravi
@@ -779,7 +779,7 @@ message_319:
       text: Prázdný stojan.\!<br>Položíš na něj své \c[4]NOTY\c[0]? #na noty je nadbytečné
 
 message_320:
-      text: Položil jsi \c[4]NOTY\c[0] do stojanu. #položil místo vložil
+      text: Položil jsi \c[4]NOTY\c[0] na stojan. #položil místo vložil
 
 message_400:
       text: Pódium je připraveno.\!<br>Chceš jít hrát na \c[4]HOUSLE\c[0]?
@@ -808,7 +808,7 @@ message_605:
       text: \whoVypadal jsi tak klidně...\|<br>Jako když jsi byl miminko.
 
 message_607:
-      text: \whoAha, ty chceš jít napřed?\| Neboj, my tě hned dohoníme! #konzistence
+      text: \whoAha, ty chceš jít napřed?\| Neboj, my tě hned doženeme! #konzistence
 
 #LAKE COOKIES
 

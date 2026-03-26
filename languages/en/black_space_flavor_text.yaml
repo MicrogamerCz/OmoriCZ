@@ -6,7 +6,7 @@
 #Door
 
 message_500:
-      text: Jsi si jistý, že tam cheš jít? #neutrálnější
+      text: Jsi si jistý, že cheš jít? #neutrálnější
 
 # =========================================================================================
 # BLACKSPACE ENTRANCE: 264
@@ -231,7 +231,7 @@ message_46:
       text: Tyto dveře jsou zamčený "KLÍČOVOU" INGREDIENCÍ.
 
 message_48:
-      text: Odemkl jsi dveře.
+      text: Odemknul jsi dveře.
 
 # ========================================================================================
 
@@ -626,10 +626,10 @@ message_230:
 # ========================================================================================
 
 message_300:
-      text:  Z venku na tebe dívá zlověstná záře.\!<br>Něco tě k ní zvlášťně přitahuje. #zlověstná záře, vyhneme se zápotockému a zároveň to bude znít dobře. (glow je sice spíše záře, ale nebudeme tady cpát nějakou rudou záři, nejsme žádné JZD)
+      text:  Z venku ti do očí bije zlověstná záře.\!<br>Něco tě k ní podivně přitahuje. #zlověstná záře, vyhneme se zápotockému a zároveň to bude znít dobře. (glow je sice spíše záře, ale nebudeme tady cpát nějakou rudou záři, nejsme žádné JZD), maty
 
 message_301:
-      text: Dveře jsou zamčené. #nadbytečné tyto. a "rudá záře" pobavila
+      text: Zamčeno. #nadbytečné tyto. a "rudá záře" pobavila
 
 # =========================================================================================
 # TOMBSTONES
@@ -757,7 +757,7 @@ message_255:
 #---- FEAR spiders
 
 message_260:
-      text: Zevnitř krabice se ozývá šepot. #jsem si jistý, že šepot je nepočítatelný
+      text: Z krabice se ozývá šepot. #jsem si jistý, že šepot je nepočítatelný
 
 message_261:
       text: \}\n<???>\fn<OMORI_GAME>Poznáváš ještě svůj domov?

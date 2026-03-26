@@ -25,8 +25,8 @@ OMOCAT:
 # =========================================================================================
 
 World_Currency_Unit:
-  clams: M
-  dollars: KČ
+  clams: C
+  dollars: $
 
 # =========================================================================================
 # Common Event 3 - Game Chapters Names
@@ -62,7 +62,7 @@ Map_Display_Names:
   80: BASILŮV DŮM
   83: PŘEDALEKÝ PARK
   92: HŘIŠTĚ U LESA
-  96: ROZSÁHLÝ LES
+  96: ROZLEHLÝ LES
   100: VĚTRNÍKOVÝ LES
   106: POMERANČOVÁ POUŠŤ
   111: DEŠTNÉ MĚSTEČKO
@@ -102,7 +102,7 @@ Map_Display_Names:
   384: ALEJ VZPOMÍNEK
   455: ČERNÝ PROSTOR
   466: LOŽNICE SOUSEDŮ
-  497: ROZSÁHLÝ LES
+  497: ROZLEHLÝ LES
 
 # =========================================================================================
 # Pluto Ride Names
@@ -112,7 +112,7 @@ Map_Display_Names:
 Pluto_Ride_Names:
   otherworld: JINOSFÉRA
   orange_oasis: POMERANČOVÁ POUŠŤ
-  vast_forest: ROZSÁHLÝ LES
+  vast_forest: ROZLEHLÝ LES
   pyrefly: LES SVĚTLUŠEK
   deep_well: HLUBOKÁ STUDNA
   snowglobe_mountain: SNĚŽÍTKOVÝ VRCH
@@ -139,7 +139,7 @@ Quest_Names:
   Orange: ROZSUDEK NAD POMERANČOVÝM JOEM
   PresentForPalmie: DÁREK PRO PALMINKU
   FascinatingLiterature: ÚCHVATNÁ LITERATURA
-  Candlie: DOBRÝ POSLUCHAČ
+  Candlie: DOBRÝ NASLOUCHAČ
   CarePackage: POZOR, KŘEHKÉ!
   BED: P.O.S.T.E.L.
   Sweaty: ZPOCENÁ SVAČINA
@@ -170,7 +170,7 @@ Quest_Names:
 
 Map_Character_Tag:
   leader: VEDE
-  tag_who: KOMU?
+  tag_who: KOMU
 
 # =========================================================================================
 # OMORI BATTLE SYSTEM

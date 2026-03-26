@@ -21,17 +21,17 @@ message_3:
       text: Čau AUBRY. Už se cítíš líp?<br>Dívej, tuhle karamelku jsem schoval pro tebe.\van
 
 message_4:
-      text: Co se ti stalo?! Jsi celá červená...\!<br>\Com[2]Mám někomu ukázat, co pro to?!\mav
+      text: Co se ti stalo?! Jsi celá červená...\!<br>\Com[2]Mám někomu dát co proto?!\mav #přiroz
 
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: Ne, nedělejte si se mnou starosti...\!<br>A promiňte, že jsem vás předtím ignorovala.\aub
+      text: Ne, nedělejte si se mnou starosti...\!<br>A promiňte, že jsem si vás předtím nevšímala.\aub #rozcuchání
 
 #ANGEL jumps.
 
 message_6:
-      text: Ale, nic se neděje! My jsme hlavně rádi, že jsi v pohodě.<br>\!Viď, ŠÁRO?\ang
+      text: Ále, to nic není! My jsme hlavně rádi, že jsi v pohodě.<br>\!Viď, ŠÁRO?\ang #přiroz
 
 message_7:
       text: \}...\! Jo.\{\cha
@@ -49,7 +49,7 @@ message_9:
 message_10:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: Půjdem spolu ven zítra, slibuju.\aub
+      text: Sejdeme se zase zítra, slibuju.\aub #přiroz
 
 message_11:
       text: Ach jo... Tak dobře...\! Uvidíme se pak.\ang
@@ -78,7 +78,7 @@ message_30:
       text: Ahoj, POLLY! Jak je na tom BASIL?\! <br>Napadlo nás, že bychom s ním šli ven!\her
 
 message_31:
-      text: Jé, ahoj všichni!\!<br>Obávám se, že zrovna není doma.\! <br>Je...\! v nemocnici.\n<POLLY>
+      text: Jé, ahoj všichni!\!<br>Promiňte, zrovna není doma.\! <br>Je...\! v nemocnici.\n<POLLY> #priroz
 
 #Everyone is surprised.
 
@@ -90,7 +90,7 @@ message_32:
 #POLLY is confused, then has an idea.
 
 message_33:
-      text: Né, promiňte!\! Já to myslela jinak...\n<POLLY>
+      text: Promiňte!\! Já to myslela jinak...\n<POLLY>
 
 message_34:
       text: BASIL šel do nemocnice za BABIČKOU...\! <br>Včera večer ji odvezli na JIPku.\n<POLLY>
@@ -125,7 +125,7 @@ message_42:
 message_43:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Ale, to nic.\!<br>Kamarádi...\! by tam pro sebe měli vždycky být...\!<br>Viď, AUBRY?\kel
+      text: Ale, to nic.\!<br>Kamarádi...\! by tam pro sebe vždycky měli být...\!<br>Viď, AUBRY?\kel
 
 message_44:
       faceset: MainCharacters_Faraway
@@ -138,19 +138,19 @@ message_45:
       text: No nic, my se ozvem později.\! Mějte se, POLLY!\kel
 
 message_46:
-      text: Dobře, zatím ahoj!\n<POLLY>
+      text: Dobře, zatím nashledanou!\n<POLLY> # vykání
 
 #POLLY shuts door.
 
 message_47:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Tak holt nezbývá, než na něho počkat...\! <br>Nemáte náhodou něco, co byste chtěli zatím stihnout?\her
+      text: Tak holt nezbývá, než na něho počkat...\! <br>Nemáte náhodou něco, co byste zatím chtěli stihnout?\her
 
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Ne, klidně s váma někam půjdu, já jsem v klidu.\aub
+      text: Klidně s váma někam půjdu, já teď nic nemám.\aub #blíže orig
 
 message_49:
       faceset: MainCharacters_Faraway
@@ -165,12 +165,12 @@ message_50:
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Jo! TO bychom měli!\!<br>Hlavně teď, když je s náma i AUBRY.\kel
+      text: Jo! To bychom měli!\!<br>Hlavně teď, když je s náma i AUBRY.\kel #malé o
 
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: Náš starý dům na stromě, říkáte?\! Tam už jsem nebyla fest dlouho...\aub
+      text: Tak náš starý dům na stromě?\! Tam už jsem nebyla fest dlouho...\aub #přiroz
 
 message_53:
       faceset: MainCharacters_Faraway
@@ -196,12 +196,12 @@ message_55:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: ...\! Počkat, není tohle ten strom, na kterém se MARI-\kel
+      text: ...\! Není tohle ten strom, na kterém se MARI-\kel #blíže orig
 
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 34
-      text: Jo...\! Je.\her
+      text: Ano...\! Je.\her #v důležitých situacích raději dávám přednost spisovnosti
 
 message_72:
       faceset: MainCharacters_Faraway
@@ -211,7 +211,7 @@ message_72:
 message_73:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: Připadá mi to jako strašně dávno...\!<br>ale pořád si ten den pamatuju, jako by byl včera.\aub
+      text: Připadá mi to tak strašně dávno...\!<br>ale pořád si ten den pamatuju, jako by byl včera.\aub
 
 #HERO walks a step.
 
@@ -240,7 +240,7 @@ message_77:
 message_78:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Měla být tu noc...\! ale...\! když jsme večer přišli domů...\aub
+      text: Měla být ten den...\! ale...\! když jsme večer přišli domů...\aub #přiroz
 
 message_79:
       faceset: MainCharacters_Faraway
@@ -252,7 +252,7 @@ message_79:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: I po tom všem...\!<br>M-Mi nejde do hlavy, proč by to dělala.\kel
+      text: I po tom všem...\!<br>M-Mi nejde do hlavy, proč to udělala.\kel #již se stalo
 
 message_81:
       faceset: MainCharacters_Faraway
@@ -298,12 +298,12 @@ message_102:
 message_103:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: PANE VAJÍČKO...\! Ach, vy jste tak špinavý...\aub
+      text: LILÍKU...\! Ty teda vypadáš...\aub #přiroz
 
 message_104:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Koukejte na všechny tyhle staré knížky...\!<br>Tak tady zkončily ty kuchařky!\her
+      text: Koukejte na všechny tyhle staré knížky...\!<br>Tak tady skončily ty kuchařky!\her
 
 message_105:
       faceset: MainCharacters_Faraway
@@ -313,7 +313,7 @@ message_105:
 message_106:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Ty jo... To byly časy.\kel
+      text: No jo... To byly časy.\kel #blíže orig
 
 #HERO walks to toaster.
 
@@ -344,7 +344,7 @@ message_109:
 message_110:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Nechyběla nám náhodou ve \c[4]FOTOALBU\c[0] jedna poslední fotka?\!<br>Tahle musí být ona!\kel
+      text: Nechyběla nám náhodou ve \c[4]FOTOALBU\c[0] jedna poslední fotka?\!<br>To musí být ona!\kel #přiroz
 
 message_111:
       faceset: MainCharacters_Faraway
@@ -356,12 +356,12 @@ message_111:
 message_112:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: Tak...\! A teď je \c[4]FOTOALBUM\c[0] zase kompletní.\aub
+      text: Tak...\! A \c[4]FOTOALBUM\c[0] je zase tak, jak má být.\aub #přiroz
 
 message_113:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Víte... Tohle je asi naposledy, kdy tady takhle budeme spolu.\! A teď, když je to \c[4]FOTOALBUM\c[0] zas celé...\! bychom si ho mohli jednou naposledy projít.\her
+      text: Když nad tím přemýšlím... Tohle je asi naposledy, kdy tady takhle spolu budeme.\! A teď, když je to \c[4]FOTOALBUM\c[0] zas celé...\! bychom si ho mohli jednou naposledy projít.\her #přiroz
 
 message_114:
       faceset: MainCharacters_Faraway
@@ -373,7 +373,7 @@ message_114:
 message_115:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: ...\! Ach, MARI...\! Ona mi tak chybí.\her
+      text: ...\! Ach, MARI...\! Ty mi pořád tak chybíš.\her #přiroz
 
 message_116:
       faceset: MainCharacters_Faraway
@@ -400,12 +400,12 @@ message_119:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 35
-      text: Jo, to máš recht... Měla.\her
+      text: Jo... To by měla.\her #přiroz
 
 message_121:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Uff...\! Kéž by tady byl s náma i BASIL.\her
+      text: Ach...\! Kéž by tady s náma byl i BASIL.\her #citoslovce
 
 message_122:
       faceset: MainCharacters_Faraway
@@ -429,7 +429,7 @@ message_123:
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Vypadá, že se brzo začne stmívat.\!<br>Chtěl by ses tam jít podívat teď, SUNNY?\her
+      text: Vypadá, že se brzo začne stmívat.\!<br>Nechtěl by ses jít na dům na stromě podívat teď, SUNNY?\her #upřesnění, přiroz
 
 #-------------------------------------------------------------------
 #UPON WALKING INTO PLAYER'S HOUSE WITH AUBREY FOR THE FIRST TIME
@@ -446,7 +446,7 @@ message_130:
 message_131:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubKdyž vidím, jak to tady máš prázdné, připadá mi to tak z ničeho nic.\! Ale tobě...\! to muselo být jasné už od začátku.
+      text: \aubKdyž vidím, jak to tady máš prázdné, připadá mi to tak z ničeho nic.\! Ale pro tebe...\! to musela být jasnačka už dlouho. #přiroz
 
 message_132:
       faceset: MainCharacters_Faraway
@@ -465,7 +465,7 @@ message_133:
 message_134:
       faceset: MainCharacters_Faraway
       faceindex: 42
-      text: \herAle i navzdory tomu...\! Jsem rád, že jsme pořád kamarádi.\! Jsem rád, že jsme tady všichni spolu...\! a že se tomuhle můžeme taky spolu konečně postavit.
+      text: \herAle i navzdory tomu...\! Jsem rád, že jsme pořád kamarádi.\! Jsem rád, že jsme tady všichni spolu...\! a že se tomu můžeme spolu konečně postavit. #lepší na atmosféru
 
 #*pause*
 #HERO turns to the sliding door.

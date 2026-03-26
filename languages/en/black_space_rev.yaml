@@ -107,7 +107,7 @@ message_62:
       text: \n<ČMÁRANICE>O tohle se už jednou někdo pokoušel.\!<br>Ty?\! Já?\! Ten kluk s kytičkama?
 
 message_63:
-      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Někam, kde to znáš.\! Někam, kde se cítíš bezpečně. Někam, kde máš všechny své dobré vzpomínky.\!<br>Kéž by jen takové místo bylo.
+      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Tam, kde to znáš.\! Někam, kde se cítíš bezpečně. Někam, kde máš všechny své dobré vzpomínky.\!<br>Kéž by jen takové místo bylo.
 
 message_64:
       text: \n<ČMÁRANICE>Zde nic není.\! Zde nic nezůstalo.
@@ -167,7 +167,7 @@ message_99:
 
 #Houses with small doorways:
 message_100:
-      text: Příliš malé.
+      text: Příliš malá.
 
 #--------------------------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ message_123:
 
 #Talk to BUTLER:
 message_140:
-      text: \n<PINGL>MEWO byla dnes velmi, velmi zlobivá. #blíže originálu
+      text: \n<PINGL>MEWO dnes moc zlobila. #blíže originálu
 
 message_150:
       text: \n<PINGL>Čekáš snad na něco?
@@ -281,7 +281,7 @@ message_172:
 #When Player reaches the end of the stump path, something is hovering over one of the stumps. It will say:
 
 message_173:
-      text: \n<NĚCO>\SUNNY...\| Mám tě ráda...
+      text: \n<NĚCO>SUNNY...\| Mám tě ráda...
 
 #Then it will start following you and every 6 seconds it will repeat the message. It will disappear if you leave the map.
 
@@ -513,12 +513,12 @@ message_255:
 message_256:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basPamatuju si...\! Že jsi mi kdysi říkal o tom, jak ti na rameno skočil pavouk když se připravoval skočit do toho našeho tajného jezera!
+      text: \basPamatuju si...\! Že jsi mi kdysi říkal o tom, jak ti na rameno skočil pavouk když ses chystal skočit do toho našeho tajného jezera!
 
 message_257:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basUrčitě ti ten pavouk musel připadat strašidelně. Jen si ale představ, jak strašidelně jsi ty musel připadat němu!\! To samozřejmě nemyslím zle... Haha...
+      text: \basUrčitě ti ten pavouk musel připadat strašidelný. Jen si ale představ, jak strašidelně jsi ty musel připadat němu!\! To samozřejmě nemyslím zle... Haha...
 
 #*Walk more
 
@@ -554,7 +554,7 @@ message_262:
 message_263:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \basJe jich až moc... Nemůžu je ze sebe setřást!
+      text: \basJe jich moc... Nemůžu je ze sebe setřást!
 
 #BASIL looks around.
 
@@ -662,12 +662,12 @@ message_321:
 message_322:
       faceset: MainCharacter_Basil
       faceindex: 6
-      text: \basSice se neumím moc dobře bránit, ale řekl bych že přežívání mi jde.
+      text: \basSice se neumím moc dobře bránit, ale řekl bych, že přežívání mi jde.
 
 message_323:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basKaždopádně... věděl jsem, že mě přijdeš zachránit, OMORI!\! A jsem si jistý, že se spolu odsud dostaneme.
+      text: \basKaždopádně... Já věděl, že mě přijdeš zachránit, OMORI!\! A jsem si jistý, že se spolu odsud dostaneme.
 
 message_324:
       faceset: MainCharacter_Basil
@@ -685,7 +685,7 @@ message_325:
 
 
 message_326:
-      text: Nastoupíš na raft?
+      text: Nastoupíš na vor?
 #[YES/NO]
 
 #[YES]
@@ -713,7 +713,7 @@ message_350:
 message_351:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basUf... To je úleva.
+      text: \basUf... To se mi ale ulevilo.
 
 message_352:
       faceset: MainCharacter_Basil
@@ -723,29 +723,29 @@ message_352:
 message_353:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basPromiň...\! Už tě asi nebaví mě pořád zachraňovat.\! Možná jsem se měl více snažit.
+      text: \basPromiň...\! Už tě asi nebaví mě pořád zachraňovat.\! Asi jsem se měl více snažit.
 
 message_354:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basKaždopádně, když jsi tady tak je všechno v pořádku.\!<br>Pojďme domů!
+      text: \basKaždopádně, když už jsi tady, tak je zase všechno v pořádku.\!<br>Pojďme domů!
 
 #*Walk a bit
 
 message_355:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basCelou tu dobu, co jsem tady jsem si projížděl své \c[4]FOTOALBUM\c[0], abych se zabavil.
+      text: \basCelou tu dobu, co jsem tady, jsem si prohlížel své \c[4]FOTOALBUM\c[0], abych se zabavil.
 
 message_356:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basVždycky když jsem měl strach tak jsem se podíval na naše společné šťastné vzpomínky.\! Vážně mi to pomohlo neztrácet naději!
+      text: \basVždycky, když jsem měl strach, jsem se podíval na naše společné šťastné vzpomínky.\! Vážně mi to pomohlo nepřicházet o naději!
 
 message_357:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basZdá se mi, že pár fotek chybí, ale to se mi asi jenom zdá... #bližší originálu
+      text: \basPřipadá mi, že pár fotek chybí, ale to se mi asi jenom zdá... #bližší originálu
 
 message_358:
       faceset: MainCharacter_Basil
@@ -773,7 +773,7 @@ message_361:
 message_362:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basKELI!\! AUBRY!\! Já vás tak rád vidím!
+      text: \basKELI!\! AUBRY!\! Jak rád vás zase vidím!
 
 message_363:
       faceset: MainCharacter_Basil
@@ -800,7 +800,7 @@ message_366:
 message_367:
       faceset: MainCharacters_DreamWorld
       faceindex: 50
-      text: \herKEL a AUBRY se spolu zase nepřestanou prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech!
+      text: \herKEL a AUBRY se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech!
 
 message_368:
       faceset: MainCharacters_DreamWorld
@@ -959,10 +959,10 @@ message_424:
       text: \bas\sinv[1]...\| Teď už si konečně můžeme odpočinout, OMORI...\| Jsou tady všichni naši kamarádi...
 
 message_425:
-      text: \mar\sinv[1]...\| Budu tě vždy chránit...\| bratříčku...
+      text: \mar\sinv[1]...\| Budu tě vždy chránit...\| bráško...
 
 message_426:
-      text: MARIIN košík s ovocem.\! Pořád plný.
+      text: MARIN košík s ovocem.\! Pořád plný.
 
 message_427:
       text: Mixér.

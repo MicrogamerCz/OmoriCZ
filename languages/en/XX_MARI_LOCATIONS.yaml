@@ -34,7 +34,7 @@ message_10:
 message_11:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marKlidně si odpočiňte!\! Všechno je už nachystané,<br>a dokonce jsem vám vzala i nějaké to ovoce!
+    text: \marKlidně si odpočiňte!\! Všechno je už nachystané,<br>a dokonce jsem vám vzala i nějaké ovoce! #maty
 
 #After using fruit to heal:
 
@@ -154,7 +154,7 @@ message_40:
 message_41:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \mar\sinv[1]Ahhhhhhhh...\!\sinv[0]<br>Že máte taky rádi vůni krbu?\! A ještě k tomu šum proudu vody...\! A vesmírný vánek... #sum
+    text: \mar\sinv[1]Achhhhhhh...\!\sinv[0]<br>Že máte taky rádi vůni táboráku?\! A ještě k tomu šum proudu vody...\! A vesmírný vánek... #sum, citoslovce maty
 
 message_42:
     faceset: MainCharacter_Mari
@@ -396,7 +396,7 @@ message_130:
 message_131:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marVypadá to, že dále se dostanete jen přes veliký most. #blize orig
+    text: \marDále se dostanete asi leda jen přes ten veliký most. #blize orig
 
 message_132:
     faceset: MainCharacter_Mari
@@ -440,7 +440,7 @@ message_141:
 message_142:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marŽe je sice doporučeno pořádat pikniky spíše v lesích nebo tábořištích...\!<br>Ale... to přece není žádná sranda!
+    text: \marŽe je sice doporučeno pořádat pikniky spíše v lesích nebo na tábořištích...\!<br>Ale... to přece není žádná sranda!
 
 message_143:
     faceset: MainCharacter_Mari

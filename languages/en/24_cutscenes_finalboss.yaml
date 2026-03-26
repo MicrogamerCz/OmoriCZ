@@ -7,7 +7,7 @@
 #SWEETHEART is walking toward the open elevator.
 
 message_0:
-      text: \{STŮJ!!\!\}<br>Kampak kampak, panenko?\n<MEDÚZA>
+      text: \{STŮJ!!\!\}<br>Kampak kampak, panenko?\n<MEDÚSA>
 
 message_1:
       text: Jen chceme zaplatit, miláčku.<br>Copak nevidíš, jak se MARINA vzteká?\n<MOLLY>
@@ -28,23 +28,23 @@ message_4:
 message_5:
       text: Ani krok, děti.\!<br>Musím vás opravit...\! neboť se vážně mýlíte.\! <br>Nejsme čarodějnice...\! nýbrž ctitelky vědy!\n<MOLLY>
 
-#MEDÚZA turns to MOLLY.
+#MEDÚSA turns to MOLLY.
 
 message_6:
-      text: Obávám se, že je to dost časté nedorozumění.\!<br>Lidé mají většinou strach z toho, co nechápou.\n<MEDÚZA> #že by odkaz na pravdu?
+      text: Obávám se, že je to dost časté nedorozumění.\!<br>Lidé mají většinou strach z toho, co nechápou.\n<MEDÚSA> #že by odkaz na pravdu?
 
 message_7:
-      text: Ale..\! vlastně asi chápu, proč si o nás myslí, že jsme čarodějnice...\n<MEDÚZA>
+      text: Ale..\! vlastně asi chápu, proč si o nás myslí, že jsme čarodějnice...\n<MEDÚSA>
 
-#MEDÚZA turns to MOLLY.
+#MEDÚSA turns to MOLLY.
 
 message_8:
       text: Hele? Proč koukáte všichni na mě?!\n<MARINA>
 
 message_9:
-      text: Ale krom toho tady máme o něco větší problém.\n<MEDÚZA>
+      text: Ale krom toho tady máme o něco větší problém.\n<MEDÚSA>
 
-#MEDÚZA turns to SWEETHEART.
+#MEDÚSA turns to SWEETHEART.
 
 message_10:
       text: To je pravda!\! Kam si jako myslíš, že jdeš...\!<br>\sinv[1]ZLATÍČKO, miláčko?\n<MOLLY>
@@ -55,7 +55,7 @@ message_11:
 #SWEETHEART turns to SLIME GIRLS.
 
 message_12:
-      text: \com[2]Ts! Děláte, jako byste byly něčeho takového hodny!\swh
+      text: \com[2]Ts! Děláte, jako byste si nějaký zasloužily!\swh
 
 message_13:
       text: Jediné, co jsem po vás chtěla bylo, abyste mi vyrobili dokonalého partnera...\!<br>ale jediné, co se vám zatím povedlo, bylo mě třikrát zklamat, a to pokaždé jinak!\swh
@@ -94,12 +94,12 @@ message_21:
 #MARINA is surprised.
 
 message_22:
-      text: \{TA KRÁVA NÁS PODVEDLA!!\!\}<br>Mě se na ní něco nelíbilo už od začátku.\n<MARINA> #přiroz
+      text: \{TA KRÁVA NÁS PODVEDLA!!\!\}<br>Něco se mi na ní nezdálo už od začátku.\n<MARINA> #přiroz
 
-#MEDÚZA looks at MARINA.
+#MEDÚSA looks at MARINA.
 
 message_23:
-      text: Hmm... No, zas tak špatně na tom ale nejsme.\!<br>Řekla přece, že by to za ni tyhle děti měli být schopné pokrýt.\n<MEDÚZA>
+      text: Hmm... No, zas tak špatně na tom ale nejsme.\!<br>Řekla přece, že by to za ni tyhle děti měly být schopné pokrýt.\n<MEDÚSA>
 
 #MARINA is surprised.
 
@@ -111,10 +111,10 @@ message_24:
 message_25:
       text: Co z nich prodáme jako první?\n<MARINA>
 
-#MEDÚZA jumps.
+#MEDÚSA jumps.
 
 message_26:
-      text: Nebuď takový barbar, MARINO!\!<br>Určitě to myslela tak, že nám ty děcka zaplatí...<br>ne, že bychom je měli prodat!\n<MEDÚZA>
+      text: Nebuď takový barbar, MARINO!\!<br>Určitě to myslela tak, že nám ty děcka zaplatí...<br>ne, že bychom je měli prodat!\n<MEDÚSA>
 
 #MOLLY turns to children and walks up.
 
@@ -131,7 +131,7 @@ message_28:
 message_29:
       text: Tak... Spočítejme si to!\n<MOLLY>
 
-#MOLLY turns around. MEDÚZA and MARINA join to discuss.
+#MOLLY turns around. MEDÚSA and MARINA join to discuss.
 
 message_30:
       text: \}Poplatek za konzultaci... počáteční poplatek... zahajovací poplatek... kontrolní poplatek... poplatek za údržbu... náklady... poplatek za záruku... poplatek za odpad... doprava... spropitné... poplatek za zrušení objednávky... poplatek za poškození... poplatek za pozdní zaplacení...\n<MOLLY> #změna pár položek
@@ -157,7 +157,7 @@ message_33:
       text: ...\! Vážně?\n<MOLLY>
 
 message_34:
-      text: ...\. ...\. ... \n<MEDÚZA>
+      text: ...\. ...\. ... \n<MEDÚSA>
 
 message_35:
       text: ...\. ...\. ...\. ...\. ... \n<MARINA>
@@ -166,13 +166,13 @@ message_36:
       text: Tak...\! To je opravdu smůla.\n<MOLLY>
 
 message_37:
-      text: \quake[1]\Com[2]\{BENDO!!\! UZAVŘI VÝCHODY!!!\n<MARINA>
+      text: \quake[1]\Com[2]\{BENDO!!\! ZAVŘI CESTU VEN!!!\n<MARINA>
 
 
 #Lights go off. When returned SLIME GIRLS are in their battle sprites.
 
 message_39:
-      text: To je opravdu smůla, děti...\! Vkročili jste do špatné velryby.\n<MARINA>
+      text: To je opravdu smůla, děti...\! Vkročily jste do špatné velryby.\n<MARINA>
 
 message_40:
       text: Někdo to zaplatit musí.\n<MARINA>
@@ -189,12 +189,12 @@ message_43:
 #MARINA goes up to HERO.
 
 message_44:
-      text: \sinv[1]Ale...\! Tohohle by byla škoda prodat, na to je moc hezký... Nemslíš, MOLLY?\n<MEDÚZA>
+      text: \sinv[1]Ale...\! Tohohle by byla škoda prodat, na to je moc hezký... Nemyslíš, MOLLY?\n<MEDÚSA>
 
 #MOLLY goes up to OMORI.
 
 message_45:
-      text: \sinv[1]No... Mě se spíš líbí tenhle tichý.\! Byl by z něho dobrý mazlíček.\n<MOLLY>
+      text: \sinv[1]No... Mně se spíš líbí tenhle tichý.\! Byl by z něho dobrý mazlíček.\n<MOLLY>
 
 #AUBREY jumps.
 
@@ -207,7 +207,7 @@ message_47:
       text: \sinv[1]Áhle, tady máme nějakého rebela!\! Tenhle je pro tebe jako dělaný, MARINO! \sinv[1]Fufufu...\sinv[0]\n<MOLLY> #blíže orig
 
 message_48:
-      text: Ha.\! No...\! Možná by stačilo prodat jen jednoho.\n<MARINA>
+      text: Ha.\! No...\! Možná by stačilo rozprodat jen jednoho.\n<MARINA>
 
 #MARINA grabs KEL.
 
@@ -254,10 +254,10 @@ message_54:
 message_55:
       text: \quake[1]\{ZA TOHLE ZAPLATÍŠ, TY SPRATKU!!!\n<MARINA>
 
-#MEDÚZA looks at party.
+#MEDÚSA looks at party.
 
 message_56:
-      text: Jejda, MARINA vypadá zvlášť rozzuřeně!\! <br>Nečekala bych, že by si naše malá kořist dovolila protestovat.\n<MEDÚZA>
+      text: Jejda, MARINA vypadá zvlášť rozzuřeně!\! <br>Nečekala bych, že by si naše malá kořist dovolila protestovat.\n<MEDÚSA>
 
 #HERO jumps.
 
@@ -277,10 +277,10 @@ message_58:
 message_59:
       text: Je pravda, že už jsem dlouho nebyla na lovu!\n<MOLLY>
 
-#MEDÚZA takes step toward party.
+#MEDÚSA takes step toward party.
 
 message_60:
-      text: Ano... Vypadá, že naší kořisti trochu chybí kázeň.\! <br>Už bylo na čase, aby tyto děcka někdo naučil, jak se správně chovat!\n<MEDÚZA> #přiroz
+      text: Ano... Vypadá, že naší kořisti poněkud schází kázeň.\! <br>Už bylo na čase, aby tyto děcka někdo naučil, jak se správně chovat!\n<MEDÚSA> #přiroz
 
 message_61:
       text: Na kořist jste dost vybíraví...\!<br>\sinv[1]Nechcete, abychom vás prodali...\! Nechcete, abychom si z vás udělali mazlíčky...\!<br>Měli byste si uvědomit svoje postavení...\n<MARINA> #blíže orig
@@ -292,7 +292,7 @@ message_63:
       text: Vždy to jde i jinak. \sinv[1]Fufufu~ \n<MOLLY>
 
 message_64:
-      text: A pokud nám budete pořád odporovat...<br>tak nám nedáváte na výběr.<br>\!Obávám se, že...\n<MEDÚZA>
+      text: A pokud nám budete pořád odporovat...<br>tak nám nedáváte na výběr.<br>\!Obávám se, že...\n<MEDÚSA>
 
 message_65:
       text: \{Z NICH BUDEME MUSET NADĚLAT KAŠI!!!\n<MARINA>
@@ -304,13 +304,13 @@ message_65:
 #Trigger: Defeat Slime Girls.
 
 message_90:
-      text: Hff...\! hff...\!<br>Sakra...\! Co se to s náma stalo?\!<br>Tenhle souboj jsme měli zvládnout levou zadní!\n<MARINA>
+      text: Hff...\! hff...\!<br>Sakra...\! Co se to s náma stalo?\!<br>Tenhle souboj jsme měly zvládnout levou zadní!\n<MARINA>
 
 message_91:
       text: Hff...\! Kašlu na lovení...\! Na tohle už nemám léta.\! Raději... hff...\! se teď už budu soustředit jenom na výzkum.\n<MOLLY>
 
 message_92:
-      text: Tak, panenky...\! Vypadá, že opravdu už nejsme ve formě.\! <br>Kéž bychom byly jen o 200 let mladší...\n<MEDÚZA>
+      text: Tak, panenky...\! Vypadá, že opravdu už nejsme ve formě.\! <br>Kéž bychom byly jen o 200 let mladší...\n<MEDÚSA>
 
 #Screen shakes.
 
@@ -339,13 +339,13 @@ message_97:
       text: \sinv[1]Začínám mít... \quake[1]\{HLAD!\n<BENDA> #přiroz
 
 #MARINA is sweaty.
-#MARINA turns to MEDÚZA.
+#MARINA turns to MEDÚSA.
 
 message_98:
-      text: No tak dobře...\! Co ty, MEDÚZO?\n<MARINA>
+      text: No tak dobře...\! Co ty, MEDÚSO?\n<MARINA>
 
 message_99:
-      text: No, já...\! nečekala, že by na BENDU přišel hlad tak brzo.\! A jestli si dobře vzpomínám, nejsi náhodou na řadě ty, MARINO?\n<MEDÚZA> #tady jsem si všiml, že medúza zůstala medusou, měním všuse
+      text: No, já...\! nečekala, že by na BENDU přišel hlad tak brzo.\! A jestli si dobře vzpomínám, nejsi náhodou na řadě ty, MARINO?\n<MEDÚSA> #tady jsem si všiml, že MEDÚSA zůstala medusou, měním všuse
 
 #Screen shakes.
 #MARINA is nervous.
@@ -361,7 +361,7 @@ message_101:
 #MOLLY walks one step toward MARINA.
 
 message_102:
-      text: Jsem si jistá, že tentokrát je na řadě MEDÚZA.\n<MOLLY> #jméno
+      text: Jsem si jistá, že tentokrát je na řadě MEDÚSA.\n<MOLLY> #jméno
 
 #BENDA appears in front of SLIME GIRLS.
 
@@ -376,16 +376,16 @@ message_104:
 #SLIME GIRLS are sweaty.
 
 message_105:
-      text: \{\quake[1]NÉÉÉÉÉÉÉÉEEEE!! MŮJ NÁBYTEK!!\n<MEDÚZA>
+      text: \{\quake[1]NÉÉÉÉÉÉÉÉEEEE!! MŮJ NÁBYTEK!!\n<MEDÚSA>
 
 message_106:
       text: Co si teď počnem!?\! BENDA všechno pohltí!\n<MARINA> #blíže orig
 
 message_107:
-      text: Hmmm...\! Možná... bychom mohli naplánovat útěk?\n<MEDÚZA>
+      text: Hmmm...\! Možná... bychom mohly naplánovat útěk?\n<MEDÚSA>
 
 message_108:
-      text: Už jsme si toho prošli tolik...\! Víte co, možná už je na čase natáhnout ploutve...\n<MOLLY>
+      text: Už jsme si toho prošly tolik...\! Víte co, možná už je na čase natáhnout ploutve...\n<MOLLY>
 
 #BENDA's face appears below SLIME GIRLS.
 
@@ -395,7 +395,7 @@ message_109:
 #BENDA swallows SLIME GIRLS.
 
 message_110:
-      text: \quake[1]\{ÁÁÁÁÁ\{ÁÁÁÁÁÁÁÁÁÁÁ\{ÁÁAAAA\{AAAAA!!!!\n<SLIZOVÉ HOLKY>
+      text: \quake[1]\{ÁÁÁÁÁ\{ÁÁÁÁÁÁÁÁÁÁÁ\{ÁÁAAAA\{AAAAA!!!!\n<SLIZOVÉ SESTRY>
 
 message_111:
       text: Mňam...\! \com[538]Plody moře...\n<BENDA>
@@ -438,7 +438,7 @@ message_131:
       text: \Com[2]Dost, BENDO!\! Nesnědl jsi toho už dost?\! Nakrmíme tě potom, slibujeme!\aub
 
 message_132:
-      text: ALe...\! Vždyť mě můžete přece nakrmit už teď!\! <br>Jen...\! \quake[1]mě nechte vás sníst.\n<BENDA>
+      text: Ale...\! Vždyť mě můžete přece nakrmit už teď!\! <br>Jen...\! \quake[1]mě nechte vás sníst.\n<BENDA>
 
 #Multiple BENDA appear and surround party.
 
@@ -520,7 +520,7 @@ message_183:
 message_184:
       faceset: MainCharacters_DreamWorld
       faceindex: 48
-      text: \herPřesně... Teď se nesmíme vzdát!\!<br>Nějaká cesta ven se najde...
+      text: \herPřesně... Teď to nesmíme vzdát!\!<br>Nějaká cesta ven se určitě najde...
 
 message_145:
       text: \sinv[1]Kampak jdete?\. \quake[1]Ňak, ňak!\quake[0]\n<BENDA>
