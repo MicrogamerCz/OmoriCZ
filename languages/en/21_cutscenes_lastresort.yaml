@@ -67,7 +67,7 @@ message_3:
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Já mám na starost navigování lidí ke \c[11]KONEČNÉ\c[0].\!<br>Tam pracuju!\kel
+      text: Já lidi vedu ke \c[11]KONEČNÉ\c[0].\!<br>Tam pracuju!\kel
 
 #KEL turns toward the LAST RESORT. Camera pans to LAST RESORT.
 
@@ -139,7 +139,7 @@ message_6:
 message_7:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Tak co kdybychom prostě všechny přesvědčili, aby odešli a pak odsud vypadli?\kel #na kela se vice hodi
+      text: Tak co kdybychom prostě všechny přesvědčili, aby s tím sekli a pak odsud vypadli?\kel #na kela se vice hodi
 
 message_8:
       faceset: MainCharacters_DreamWorld
@@ -318,7 +318,7 @@ message_57:
 # (MR. JAWSUM from Phone)
 
 message_58:
-      text: \}\Com[2]AUBRY...\! AUBRY!\! Kde se to zas touláš?\!<br>Už se s tebou snažím 10 vteřin spojit!...\!<br>Tak jak jsou na tom ty náhrádní termíny?\who
+      text: \}\Com[2]AUBRY...\! AUBRY!\! Kde to sakra vázne?\!<br>Už se s tebou deset vteřin snažím spojit!...\!<br>Tak jak jsou na tom ty náhrádní termíny?\who
 
 #AUBREY is sweating.
 
@@ -335,7 +335,7 @@ message_60:
       text: \sinv[1]\{\{ZDRAVÍM, PANE CENILE!!\kel
 
 message_61:
-      text: \}Sakryš! Zase ty, KELI?\! Vždyť jsem tě odsud poslal daleko, předaleko!\!<br>A neřekl jsem ti náhodou, že nemáš opouštět své místo?\jaw #priroz
+      text: \}Sakryš! Zase ty, KELI?\! Neposlal jsem tě snad kamsi daleko, předaleko odsud!?\!<br>A neřekl jsem ti náhodou, abys neopouštel své místo?\jaw #priroz
 
 message_62:
       faceset: MainCharacters_DreamWorld
@@ -427,7 +427,7 @@ message_86:
 message_87:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Umm... Ano, přesně tak!\! <br>A to znamená, že nás pusíte pustit, je to přece slib!\kel #blize orig
+      text: No... Ano, přesně tak!\! <br>A to znamená, že nás musíte pustit, je to přece slib!\kel #blize orig
 
 message_88:
       text: Hmm... To dává smysl.\! Slib je slib.\! AUBRY, nechám tě jít...\! ale jedině pod podmínkou, že si s sebou vezmeš i KELA.\jaw
@@ -440,7 +440,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{\{\sinv[1]SUPER!! POJĎME ODSUD KONEČNĚ PRYČ!!!\kel
+      text: \{\{\sinv[1]SUPER!! VYPADNĚME KONEČNĚ ODSUD!!!\kel
 
 #AUBREY and KEL turn around to leave.
 
@@ -463,7 +463,7 @@ message_94:
       text: Ha...\! Ty jsi opravdu vtipálek, KELI.\jaw
 
 message_95:
-      text: Ty po mě vážně chceš, abych se vzdal HELA?!\jaw
+      text: Ty po mně vážně chceš, abych propustil HERA?!\jaw
 
 #add JAWHAWHAW
 
@@ -512,7 +512,7 @@ message_136:
 message_102:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: V-Vážně?\! To by pro mě byla veliká čest, pane!\her
+      text: V-Vážně?\! To by mi bylo velikou ctí, pane!\her
 
 #HERO is surprised and walks up to party.
 
@@ -551,12 +551,12 @@ message_108:
 message_109:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Na co tady ještě jsme?! Musíme odejít, a to hned teď!\her
+      text: Co tady vůbec ještě děláme?! Musíme odejít, a to hned teď!\her
 
 #HERO attempts to walk out.
 
 message_110:
-      text: Hele, brzdi, HERO\!<br>Ještě máš pořád nějakou tu práci.\jaw
+      text: Hele, brzdi, HERO.\!<br>Ještě máš pořád nějakou tu práci.\jaw
 
 message_111:
       text: Musíš přece uvést všechny naše VIP hosty na tu charitativní akci!\jaw
@@ -623,7 +623,7 @@ message_124:
 #GATOR GUYS step back.
 
 message_125:
-      text: Ts...\! Musím přiznat...\! že jste celkem silní na to, že jste děcka.\! <br>Ale na tom teď neleží.\jaw
+      text: Ts...\! Musím přiznat...\! že jste celkem silní na to, že jste děcka.\! <br>Ale na tom teď nezáleží.\jaw
 
 message_126:
       text: HERO není mým jediným dokonalým zaměstnancem.\! <br>Mám...\! ještě jednoho.\jaw
@@ -668,7 +668,7 @@ message_133:
 #Trigger: Defeat Pluto.
 
 message_150:
-      text: Hff... hff...\! Nabyli jste tolik síly.\! <br>Hff... \! Jsem na vás... tak pyšný.\plu
+      text: Hff... hff...\! Nabyli jste tolik síly.\! <br>Hff... \!Jsem na vás... tak pyšný.\plu
 
 message_151:
       text: Ale...\! I přesto... mám práci.<br>A já ji nehodlám nechat nedokončneou.\plu
@@ -697,7 +697,7 @@ message_156:
       text: Ale pane, já je porazím!<br>Dejte mi ještě trochu času.\plu #priroz
 
 message_157:
-      text: Nech to letět, PLUTO.<br>Dneska už nemám náladu na riskování.\jaw
+      text: Nech to letět, PLUTO.<br>Dneska už nemám chuť riskovat.\jaw
 
 #MR. JAWSUM turns around.
 
@@ -757,7 +757,7 @@ message_168:
 message_169:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Už teď je to sice celkem dlouhá cesta, ale jsem si jistý, že ho nakonec najdeme...\! ale jen pokud se nevzdáme! \her
+      text: Už teď je to sice celkem dlouhá cesta, ale jsem si jistý, že ho nakonec najdeme...\! ale jen pokud to nevzdáme! \her
 
 message_170:
       faceset: MainCharacters_DreamWorld
@@ -770,7 +770,7 @@ message_171:
       text: Vydrž, BASILE, vydrž! Už brzy tě najdeme!\aub #priroz
 
 message_172:
-      text: Přesně akhle to má vypadat...\!<br>A teď do akce, děcka!\jaw #priroz
+      text: Přesně tak to má vypadat...\!<br>A teď do akce, děcka!\jaw #priroz
 
 
 #----- MARI IN THE elevator
@@ -826,7 +826,7 @@ message_187:
 #Trigger: Head to North Coast
 
 message_200:
-      text: Hustá mhla zcela obklopuje les.
+      text: Hustá mhla zcela pohltila les.
 
 #Trigger: Construction Bridge
 
@@ -871,12 +871,12 @@ message_221:
 message_222:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \aubZa žádnou cenu!<br>Tady by se BASIL neukázal ani ve snu!<br><br>Připadá ti jako někdo, komu by se tohle líbilo?! #"za žádnou cenu"... haha
+      text: \aubZa žádnou cenu!<br>Tady by se BASIL neukázal ani ve snu!<br><br>Připadá ti jako někdo, komu by se tady líbilo?! #"za žádnou cenu"... haha
 
 message_223:
       faceset: MainCharacters_DreamWorld
       faceindex: 28
-      text: \kelNo, já popravdě nevím... měl by?\! Proč se vlastně nezeptáme, jestli ho tady někdo neviděl?
+      text: \kelNo, já popravdě nevím... líbilo?\! Proč se vlastně nezeptáme, jestli ho tady někdo neviděl?
 
 message_224:
       faceset: MainCharacters_DreamWorld
@@ -1005,4 +1005,4 @@ message_311:
 message_312:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herTak...\! Teď by měly všechny výtahy jezdit o něco rychleji.\! Ale musím vás varovat...\! Občas to není nejklidnější jízda!
+      text: \herTak...\! Teď by měly všechny výtahy jezdit o něco rychleji.\! Ale musím vás varovat...\! Občas to není dvakrát pohodlná jízda!

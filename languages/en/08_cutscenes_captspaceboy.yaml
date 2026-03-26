@@ -27,10 +27,10 @@ message_5:
       text: Ach...\! Už tomu rozumím...\! Musela se mě zmocnit má druhá tvář.\cap
 
 message_6:
-      text: Omlouvám se. To, co jste udělali, bylo dost možná ospravedlnitelné.\!<br>Jen doufám, že jsem vám nezpůsobil příliš moc problémů.\cap #přirozenější
+      text: Omlouvám se. To, co jste udělali, bylo dost možná ospravedlnitelné.\!<br>Jen doufám, že jsem vám nezpůsobil přiliš velké potíže.\cap #přirozenější, maty
 
 message_7:
-      text: Poslední dobou se nedokážu ovládnout.\!<br>Snažím se udržet své emoce na uzdě co nejlépe, co to jde, ale...\cap
+      text: Poslední dobou se nedokážu ovládat.\!<br>Snažím se udržet své emoce na uzdě co nejlépe, co to jde, ale...\cap #maty
 
 message_8:
       text: ZLATÍČKO...\! Byla mou životní láskou...\!<br>Skoro si nedokážu představit svůj život bez ní.\cap
@@ -72,7 +72,7 @@ message_18:
       text: Prosím, nezlobte se! Strašně se omlouváme!\spd #přir
 
 message_19:
-      text: Prosím, smilujte se...\spb #bližší orig
+      text: Prosím, odpusťte nám...\spb #bližší orig, maty
 
 message_20:
       text: Aha.\cap
@@ -87,10 +87,10 @@ message_23:
       text: To myslíte vážně, KAPITÁNE VES- teda, VESMÍRNÝ MILENČE?\spd
 
 message_24:
-      text: To rozhodně.\! Svolejte zbytek posádky.\!<br>Vydáme se k \c[11]LEDOVÉMU RYBNÍKU\c[0] a dáme si pár \c[3]SNO-CONES\c[0].\cap #rybník je o 2 pokoje vedle, nemá smysl letět
+      text: To rozhodně.\! Svolejte zbytek posádky.\!<br>Vydáme se k \c[11]LEDOVÉMU RYBNÍKU\c[0] a dáme si pár \c[3]VÁNICUKŮ\c[0].\cap #rybník je o 2 pokoje vedle, nemá smysl letět
 
 message_25:
-      text: Ležení v posteli zlomené srdce nezpraví, <BR>ale pár \c[3]SNO-CONES\c[0] s přáteli by mohlo alespoň pomoct!\cap
+      text: Ležení v posteli zlomené srdce nezpraví, <BR>ale pár \c[3]VÁNICUKŮ\c[0] s přáteli by mohlo alespoň pomoct!\cap
 
 message_26:
       text: Jo, a už mi nemusíte říkat VESMÍRNÝ MILENEC.\!<br>Jsem KAPITÁN VESMÍRŇÁK!\cap
@@ -124,7 +124,7 @@ message_34:
 message_35:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herTeda...\! Nevěřím, že jsem na tohle byl schopen zapomenout, ale...\! Vlastně hledáme našeho kamaráda BASILA.
+      text: \herTeda...\! Nemůžu uvěřit, že se mi na tohle podařilo zapomenout, ale...\! Vlastně hledáme našeho kamaráda BASILA. #maty
 
 message_36:
       faceset: MainCharacters_DreamWorld
@@ -159,7 +159,7 @@ message_49:
 #AUBREY turns back.
 
 message_50:
-      text: Získal jsi \c[4]SNO-CONE TICKET\c[0]!
+      text: Získal jsi \c[4]POUKAZ NA VÁNICUK\c[0]! #konzistence
 
 message_51:
       faceset: MainCharacters_DreamWorld
@@ -178,10 +178,10 @@ message_53:
       text: Získal jsi \c[4]JÍZDENKU\c[0].
 
 message_54:
-      text: Na tuhle jsem jezdíval kdysi, když jsem byl jestě dítě...\!<br> dávno předtím, než jsem se stal VESMÍRNÝM PIRÁTEM.\cap
+      text: Na tuhle jsem jezdíval kdysi, když jsem byl jestě dítě...\!<br>dávno předtím, než jsem se stal VESMÍRNÝM PIRÁTEM.\cap #maty
 
 message_55:
-      text: A pokud jsem já kdysi jezdil vlakem a nakonec skončil jako král vesmíru, vám se určitě povede najít vašeho kamaráda.\cap
+      text: A jestli jsem já kdysi jezdil vlakem a dnes stojím za kormidlem vesmírné lodi, tak vám se vašeho kamaráda určitě podaří najít.\cap
 
 message_56:
       faceset: MainCharacters_DreamWorld
@@ -197,7 +197,7 @@ message_58:
 #CAPT. SPACEBOY walks to door, but turns back.
 
 message_59:
-      text: Nezoufejte, malá paní!\!<br>A kdyby toho na Vás bylo moc, nějaký ten \c[3]SNO-CONE\c[0]\!<br> by tomu mohl rozhodně pomoct.\cap
+      text: Nezoufejte, malá paní!\!<br>A kdyby toho na Vás bylo moc, nějaký ten \c[3]VÁNICUK\c[0]\!<br> by tomu mohl rozhodně pomoct.\cap
 
 #CAPT. SPACEBOY turns toward the door.
 

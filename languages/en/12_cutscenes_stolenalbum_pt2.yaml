@@ -7,7 +7,7 @@
 message_0:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Hmmm...\! Jak znák KIM a VANCE, měli by být někde poblíž.\kel
+      text: Hmmm...\! Jak znám KIM a VANCE, měli by být někde poblíž.\kel
 
 #KEL looks around
 #KEL is surprised
@@ -77,7 +77,7 @@ message_12:
 #MISS CANDY is surprised and walks toward KIM and VANCE.
 
 message_13:
-      text: \{\Com[2]UŽ ZASE VY DVA!?\!\}<br>Neříkala jsem vám snad, abyste se tady už nikdy neukázali! Úsměv, úsměv!\n<MISS CANDICE> #nechme tam to smiley smiley takhle
+      text: \{\Com[2]UŽ ZASE VY DVA!?\!\}<br>Neříkala jsem vám snad, abyste se tady už nikdy neukázali, milí zlatí?!\n<PANÍ SLADKÁ> #milí zlatí
 
 #KIM and VANCE turn around.
 
@@ -85,7 +85,7 @@ message_14:
       text: Ajaj...\van
 
 message_15:
-      text: \com[2]Koukejte ty kradené \c[3]BONBÓNY\c[0] navalit zpátky!\! <br>Nebo na vás zavolám policajty Úsměv, úsměv!\n<MISS CANDICE>
+      text: \com[2]Koukejte ty kradené \c[3]BONBÓNY\c[0] navalit zpátky!\! <br>Nebo na vás zavolám policajty, milí zlatí!\n<PANÍ SLADKÁ>
 
 message_16:
       text: Chytli nás.\van #blíže orig
@@ -136,7 +136,7 @@ message_22:
 message_38:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Počkej, SUNNY.\! Myslím, že mám nápad!\kel
+      text: Počkej, SUNNY.\! Něco mě napadlo!\kel
 
 message_39:
       faceset: MainCharacters_Faraway
@@ -150,13 +150,13 @@ message_39:
 #Trigger: Enter TOWN PLAZA.
 
 message_40:
-      text: Brr, brr...\! Promiň, VANCI.\! Dneska jsme bez \c[3]BONBÓNŮ\c[0]...\kim #přirozenější
+      text: Grr, Grr...\! Promiň, VANCI.\! Tak holt dneska budeme bez \c[3]BONBÓNŮ\c[0]...\kim #přirozenější, konzistence
 
 message_41:
-      text: Ne...\! Už zase...\! Nevím, jak dlouho to ještě vydržím.\! Takhle umřeme.\van #přirozenější
+      text: Ne...\! Už zase...\! Nevím, jak dlouho to ještě vydržím.\! S takovouhle brzo umřeme.\van #přirozenější
 
 message_42:
-      text: Uff...\! Pojďme už domů.\! Ještě abychom nestihli večeři.\kim
+      text: Uff...\! Pojďme už domů.\! Ještě abysme nestihli večeři.\kim #abysme místo abychom - hovorovější
 
 #KEL walks up to KIM.
 
@@ -183,7 +183,7 @@ message_46:
 #VANCE looks at KIM.
 
 message_47:
-      text: No, já nevím, KIM.\! Vždyť už jsme bez \c[3]BONBÓNŮ\c[0] celý týden... <br>\! a teď máme celý pytel na dosah.\!<br>A ještě k tomu zdarma!\van
+      text: No, já nevím, KIM.\! Vždyť už jsme bez \c[3]BONBÓNŮ\c[0] celý týden... <br>\!a teď máme celý pytel na dosah.\!<br>A ještě k tomu zdarma!\van
 
 message_48:
       text: \}Zeptala by ses aspoň, jestli tam mají karamelky?\van
@@ -236,7 +236,7 @@ message_59:
       text: Dobře.\! Pokud to vážně chcete tak moc vědět...\kim
 
 message_60:
-      text: \{TAK TO POJĎME VYŘEŠIT NAŠIMI PĚSTMI!\kim
+      text: \{TAK TO POJĎME VYŘEŠIT PĚSTMI!\kim
 
 message_61:
       text: Jestli vyhrajete, řeknu vám, kde je AUBRY...\! ale jestli ne, tak je ten pytel náš a vy se nám už nikdy nepřijdete na oči.\kim
@@ -262,7 +262,7 @@ message_65:
 message_66:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Jdeme do toho, SUNNY.\! Však už to znáš.\kel #lépe navazuje na předchozí dialog
+      text: Jen do toho, SUNNY.\! Však už to znáš.\kel #lépe navazuje na předchozí dialog
 
 # =========================================================================================
 # Cutscene:  Kim & Vance's Loss
@@ -286,7 +286,7 @@ message_82:
 message_83:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \kelChápu, že jste kámoši a tak...\! ale...\! i ty snad musíš uznat, že to AUBRY občas přehání.
+      text: \kelChápu, že jste kámošky a tak...\! ale...\! i ty snad musíš uznat, že to AUBRY občas přehání. #kámošky
 
 message_84:
       faceset: MainCharacters_Faraway
@@ -296,7 +296,7 @@ message_84:
 #IF YOU WIN
 
 message_90:
-      text: Brr, brr...\! Brr, brr, brr...\! <br>Uff... Nevěřím, že jsme to zkadili. <br>\!Tohle se AUBRY nesmí nikdy dozvědět.\kim
+      text: Grr, grr...\! grr, grr, grr...\! <br>Uff... Nevěřím, že jsme to zkadili. <br>\!Tohle se AUBRY nesmí nikdy dozvědět.\kim
 
 #Church bells ring.
 #Everyone is surprised.
@@ -323,7 +323,7 @@ message_95:
       text: ...\| ...\| ...\kim
 
 message_96:
-      text: AUBREY je v \c[11]KOSTELE\c[0].\! V tom, jak ho má u domu.\kim
+      text: AUBREY je v \c[11]KOSTELE\c[0].\! V tom u jejího domu.\kim
 
 #KEL is confused.
 
@@ -335,7 +335,7 @@ message_97:
 #KIM looks at KEL and jumps.
 
 message_98:
-      text: Hele, nedělej!\!<br>Chtěls to vědět, máš to mít.\kim
+      text: Hele, nedělej!\!<br>Chtěls to vědět, tak tady to máš.\kim #dává větší smysl v kontextu - už to řekla
 
 #KIM turns back around.
 
@@ -346,7 +346,7 @@ message_99:
 
 
 message_100:
-      text: Pojď, KIM... Musíme letět...\!<br>Víš, jaká je mamka vždycky, když přijdeme pozdě.\van
+      text: Pojď, KIM... Musíme letět...\!<br>Víš, jaká je mamka dycky, když přijdeme pozdě.\van #nespisovnější
 
 message_101:
       text: Jo, jo... Chápu...\! Jdeme...\kim
@@ -395,7 +395,7 @@ message_108:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Tak jsme tady.\!<br>Tohle je vážně poslední místo, jak bych šel, kdybych ji měl hledat po svých.\kel
+      text: Tak jsme tady.\!<br>Tohle je vážně poslední místo, kam bych šel, kdybych ji měl hledat po svých.\kel
 
 message_121:
       faceset: MainCharacters_Faraway
@@ -405,28 +405,28 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Pořád se mi tomu moc vlastně nechce věřit.\! Mohl by to být nějaký žert.\! <br>Raději tam nejdřív nakouknu.\kel #podfuk je neuvěřitelně nepřirozené slovo v této sitauci, nahrazuju něčím za mě lepším
+      text: Pořád se mi tomu moc vlastně nechce věřit.\! Co když to je jen nějaká bouda?\! <br>Raději tam nejdřív nakouknu.\kel #podfuk je neuvěřitelně nepřirozené slovo v této sitauci, nahrazuju něčím za mě lepším
 
 #KEL turns to face the Church door.
 
 message_123:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \}Hmmm...\! Za mě v pohodě...<br>\!Myslím, že tam zrovna probíhá mše.\kel
+      text: \}Hmmm...\! Nic zvláštního nevidím...<br>\!Myslím, že tam zrovna probíhá mše.\kel #nic zvláštního
 
 #KEL is surprised.
 
 message_124:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: \}Ha!\! Támhle je, tam vpravo.\! Hmmm...\! Jen tam...\! sedí...\!<br>úplně obyčejně...\! To je ale divný!\kel #obyčejně mi sedí více
+      text: \}Ha!\! Támhle je, tam vpravo.\! Hmmm...\! Jen tam...\! sedí...\!<br>úplně normálně...\! To je ale divný!\kel #obyčejně na normálně, možná to je revert
 
 #KEL turns to PLAYER.
 
 message_125:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: No, jen tak tam vtrhnout se mi úplně nechce.\! <br>Asi bychom měli počkat, než to kázání skončí, nebo tak něco.\kel #změna začátku aby se neopakovalo asi a blíže orig
+      text: No, jen tak tam vtrhnout mi přijde celkem blbé.\! <br>Asi bychom měli počkat, než to kázání skončí, nebo tak něco.\kel #změna začátku aby se neopakovalo asi a blíže orig, blíže orig při druhé úpravě
 
 message_126:
       faceset: MainCharacters_Faraway
@@ -454,7 +454,7 @@ message_128:
 message_140:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: Ty jo! Nečekal jsem, že bys tam prostě takhle vtrhl, SUNNY.\! <br>Tak...\! Teď už není cesty zpět...\!<br>\}Hlavně potichu.\kel
+      text: Ty jo! Nečekal jsem, že bys sem prostě takhle vtrhl, SUNNY.\! <br>Tak...\! Teď už není cesty zpět...\!<br>\}Hlavně potichu.\kel
 
 #[Trigger: PLAYER walks near AUBREY.]
 
@@ -481,7 +481,7 @@ message_160:
 message_161:
       faceset: MainCharacters_Faraway
       faceindex: 5
-      text: \}\Com[2]Co to-?\! Co tady ksakru vy dva děláte!?\aub #x na ks
+      text: \}\Com[2]Co to-?\! Co tady ksakru vy dva pohledáváte!?\aub #x na ks, pohledáváte
 
 message_162:
       faceset: MainCharacters_Faraway
@@ -491,7 +491,7 @@ message_162:
 message_163:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}Tak vy si s tím nedáte pokoj?\! Do toho vám nic není.\aub
+      text: \}Tak vy s tím nedáte pokoj?\! Po tom vám nic není.\aub #vypouštím si
 
 message_164:
       faceset: MainCharacters_Faraway
@@ -521,7 +521,7 @@ message_168:
 message_169:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Koho zajímá, co si myslí MARI?\! Vždyť už je dávno mrtvá.\aub #Aubrey opravdu nemůže říct, že mari chcípla. tohle celé vzplálo tím, že všichni se do sebe uzavřeli po její smrti a pak si šli svými životy jako předtím a tak si myslela Aubrey, že se jak na Mari tak na ni všichni vybodli i přes to všechno, co bylo před tím. měla ji ráda. tohle by o ní neřekla ani v nejhorší chvíli.
+      text: \}Proč by mě mělo zajímat, co by si myslela MARI?\! Vždyť už je dávno mrtvá.\aub #Aubrey opravdu nemůže říct, že mari chcípla. tohle celé vzplálo tím, že všichni se do sebe uzavřeli po její smrti a pak si šli svými životy jako předtím a tak si myslela Aubrey, že se jak na Mari tak na ni všichni vybodli i přes to všechno, co bylo před tím. měla ji ráda. tohle by o ní neřekla ani v nejhorší chvíli. Koho zajímá na proč by mě mělo zajímat
 
 message_170:
       faceset: MainCharacters_Faraway
@@ -551,7 +551,7 @@ message_174:
 message_175:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \}Tak o tomhle to všechno je...\kel
+      text: \}Tak v tom to vězí...\kel
 
 message_176:
       faceset: MainCharacters_Faraway
@@ -583,7 +583,7 @@ message_180:
 message_181:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \}Takhle vám to řekl BASIL!?\! Jenom se ho snažím ochránit.\aub #přirozenější
+      text: \}Takhle vám to řek BASIL!?\! Jenom se ho snažím ochránit.\aub #přirozenější, řek
 
 message_182:
       faceset: MainCharacters_Faraway
@@ -595,7 +595,7 @@ message_182:
 message_183:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}Ugh...\! Ty jsi pěkně tvrhohlavý.\aub #měním na tvrdohlavý
+      text: \}Ugh...\! Ty jsi ale neodbytný.\aub #měním na tvrdohlavý, jsi teda
 
 message_184:
       faceset: MainCharacters_Faraway
@@ -605,12 +605,12 @@ message_184:
 message_185:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \}Víš ty, proč sem vůbec každý týden chodím?\!<br>Protože bych po tom všem chtěla alespoň nějaký pokoj...\! <br>ale ten mi dneska asi nedáte.\aub #trocha neohrabanosti, tohle je až necharaktristicky spisovné
+      text: \}Víš, proč sem vůbec každý týden chodím?\!<br>Protože bych po tom všem chtěla aspoň ňáký pokoj...\! <br>ale ten mi dneska asi nedáte.\aub #trocha neohrabanosti, tohle je až necharaktristicky spisovné, další nespisoviny
 
 message_186:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}Už jsme spolu čtyři roky nemluvili, KELI.\! <br>A za čtyři roky se toho hodně změní.\aub
+      text: \}Už jsme spolu čtyři roky nemluvili, KELI.\! <br>Za čtyři roky se toho hodně změní.\aub #vypouštím A
 
 #AUBREY turns to party.
 
@@ -659,7 +659,7 @@ message_194:
 message_195:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \}Ne.\! Nepřijímá se.\aub
+      text: \}Ne.\! Omluvu nepřijímám.\aub
 
 #AUBREY walks to the center aisle and attempts to walk out of the Church.
 
@@ -698,17 +698,17 @@ message_201:
 message_202:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text: Ty si myslíš, že seš ten klaďas, co, KELI?\aub #nepřátelštější
+      text: Ty si myslíš, že seš tady ten hrdina, co, KELI?\aub #nepřátelštější
 
 message_203:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: A že jsem já ta zlá kráva, která ne a ne přestat terorizovat chudáčka BASILA...\aub
+      text: A že jsem já ta zlá bestie, která ne a ne přestat terorizovat chudáčka BASILA...\aub
 
 message_204:
       faceset: MainCharacters_Faraway
       faceindex: 4
-      text: \com[2]Zatímco se ty táhneš s magorem, který s sebou nosí nůž!\aub
+      text: \com[2]A to se tu táhneš s magorem, co s sebou tahá nůž!\aub #neohrabanost
 
 message_205:
       faceset: MainCharacters_Faraway
@@ -718,7 +718,7 @@ message_205:
 message_206:
       faceset: MainCharacters_Faraway
       faceindex: 7
-      text: O tom nerozhoduješ ty!\!<br>\Com[2]Ty jsi tu vtrhl a celé to začal!\aub #přirozenější
+      text: O tom nerozhoduješ ty!\!<br>\Com[2]Tys tu vtrhl a celé si to začal!\aub #přirozenější
 
 message_207:
       faceset: MainCharacters_Faraway
@@ -758,7 +758,7 @@ message_221:
 message_222:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Safra...\! Vím, že je poslední dobou dost... neúprosná...\! ale i tak ji dost lituju.\! Možná že tohle nebyl nejlepší nápad.\kel
+      text: Safra...\! Vím, že je poslední dobou dost... neúprosná...\! ale i tak ji dost lituju.\! Možná, že tohle nebyl nejlepší nápad.\kel
 
 #After a battle
 
@@ -785,13 +785,13 @@ message_302:
 #CHUCH FOLK
 
 message_400:
-      text: \n<NÁVŠTĚVNÍK>Co je tohle za chování, rvát se v kostele?\! Styďte se!
+      text: \n<LAIK>Co je tohle za chování, rvát se v kostele?\! Styďte se!
 
 message_401:
-      text: \n<NÁVŠTĚVNÍK>Chtěl jsem dneska mít trochu pokoj... #blíže orig
+      text: \n<LAIK>Chtěl jsem dneska klid... #blíže orig
 
 message_402:
-      text: \n<NÁVŠTĚVNÍK>Nebudu vás soudit.\! To přenechám Pánu.
+      text: \n<LAIK>Nebudu vás soudit.\! Sama vím, že cesty Páně bývají nevyzpytatelné. #inside joke, který za mě nekompromituje kvalitu překladu
 
 message_403:
-      text: \n<NÁVŠTEVNÍK>Už bylo na čase, aby odsud ta holka vypadla.\! Teď sem konečně snad zase přijdou i moji kamarádi! #blíže orig
+      text: \n<LAIK>Už bylo na čase, aby odsud ta holka vypadla.\! Teď sem konečně snad zase budou moct chodit i moji kamarádi! #blíže orig

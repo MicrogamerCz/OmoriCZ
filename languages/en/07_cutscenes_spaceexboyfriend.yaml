@@ -5,7 +5,7 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
 
 message_0:
-      text: No to potěš koště! Vám se to fakt povedlo!\! Je sice trochu špinavá, ale určitě je to naše \c[4]VÝJIMEČNÁ KAZETA\c[0]\!<br>Fakt děkujeme, borci.\spg #více se hodí určitě
+      text: No to potěš koště! Vám se to fakt povedlo!\! Je sice trochu špinavá, ale je to bez pochyby naše \c[4]VÝJIMEČNÁ KAZETA\c[0]\!<br>Fakt děkujeme, borci.\spg #více se hodí určitě, maty
 
 message_1:
       text: S tímhle se nám snad konečně povede vzbudit VESMÍRNÉHO MILENCE!\spg
@@ -13,7 +13,7 @@ message_1:
 #KEL walks up to you.
 
 message_2:
-      text: KEL ti sáhl do KAPSY a <br>vyndal z ní \c[4]VÝJIMEČNOU KAZETU\c[0].
+      text: KEL ti sáhl do KAPSY a <br>vytáhl z ní \c[4]VÝJIMEČNOU KAZETU\c[0]. #maty
 
 message_3:
       faceset: MainCharacters_DreamWorld
@@ -154,7 +154,7 @@ message_31:
       text: Ta kráva, ZLATÍČKO...\!<br>Draze zaplatí za to, že se na mě vykašlala!\sbf #přirozenější, za mě zní lépe
 
 message_32:
-      text: Udělal jsem pro ni cokoliv! Dal jsem jí všechno!\!<br>\{VŠECHNO! SLYŠÍTE!?!?\sbf\} #blíže orig
+      text: Dělal jsem pro ni první poslední! Dal jsem jí všechno!\!<br>\{VŠECHNO! SLYŠÍTE!?!?\sbf\} #blíže orig, maty
 
 message_33:
       text: Ta jedna nevděčná, malá...\! Aughhhhhh... \sbf
@@ -201,7 +201,7 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: Jestli chceš někde dělat neplechu,<br> nejdřív se budeš muset dostat přes nás!\her #myslím, že tady se více hodí přes
+      text: Jestli chceš někde dělat neplechu,<br>nejdřív se budeš muset dostat přes nás!\her #myslím, že tady se více hodí přes, maty
 
 message_47:
       text: ...\sxbf
@@ -213,4 +213,4 @@ message_49:
       text: \{\quake[1]PŘEPERU VÁS VŠECHNY!!\quake[0]\sxbf
 
 message_50:
-      text: \{\{\quake[1]JEN POJĎTE NA MĚ, POZEMSKÁ SPODINO!!\quake[0]\sxbf
+      text: \{\{\quake[1]JEN POJĎTE NA MĚ, <br>POZEMSKÁ SPODINO!!\quake[0]\sxbf #snad maty

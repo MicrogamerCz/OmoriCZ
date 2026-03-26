@@ -62,7 +62,7 @@ message_23:
 #KIM turns away from BASIL.
 #Kim talking:
 message_24:
-      text: Do toho mi nic není.\!<br>Jestli s ní máš problém, běž si to s ní vyřídit sám, ty nulo!\who
+      text: Do toho mi nic není.\!<br>Jestli s ní máš problém, běž si to s ní vyřídit sám, magore!\who #blíže orig
 
 #BASIL walks up to KIM.
 
@@ -79,14 +79,14 @@ message_26:
 message_27:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Počkat...\! Není to náhodou...?\kel #přirozenější
+      text: Počkat...\! to je přece...!\kel #přirozenější
 
 #KEL walks forward one step.
 
 message_28:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Vždyť to je BASIL!\! Nech ho bejt, ty surovče!\kel #blíže orig
+      text: Vždyť to je BASIL!\! Nech ho bejt, ty otravo!\kel #blíže orig
 
 #KIM looks around.
 #KIM is surprised.
@@ -99,7 +99,7 @@ message_29:
 #KIM is frustrated.
 
 message_30:
-      text: Jo, to je jenom KEL...\! Mrr, mrr...\who
+      text: Jo, to je přece KEL...\! Grr, Grr...\who #přiroz, konzistence
 
 message_31:
       text: Co kdyby sis hleděl svýho?\who
@@ -123,14 +123,14 @@ message_35:
 #AUBREY walks to KIM's side and faces her.
 
 message_36:
-      text: No, čau AUBRY...\!<br>Tenhle šprťák KEL se tady <br>ukázal a myslí si, že mi může poroučet!\! Pojďme mu dát co proto!\kim
+      text: No, čau AUBRY...\!<br>Tenhle šprťák KEL se tady <br>ukázal a myslí si, že mi bude poroučet!\! Dejme mu co proto!\kim #může na bude
 
 #AUBREY get off scooter, and turns to KEL.
 
 message_37:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: KELI...\! Co tady pohledáváš?\aub #tady se hodí ten tvůj "nepřítelštější ráz"
+      text: KELI...\! Co tu chceš?\aub
 
 message_38:
       faceset: MainCharacters_Faraway
@@ -154,7 +154,7 @@ message_40:
 message_41:
       faceset: MainCharacters_Faraway
       faceindex: 10
-      text: Jak dlouhos nevylezl z baráku?\!<br>Tři roky...?\! Že by čtyři?\!<br>Muselo být fajn žít v bublině.\aub
+      text: Jak dlouhos nevylezl z baráku?\!<br>Tři roky...?\! Že by čtyři?\!<br>Muselo bejt fajn žít v bublině.\aub #být na bejt
 
 message_42:
       faceset: MainCharacters_Faraway
@@ -183,7 +183,7 @@ message_45:
 message_46:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: Vypadni, KELI. Do tohohle ti nic není.\aub
+      text: Vypadni, KELI. Do tohodle ti nic není.\aub
 
 message_47:
       faceset: MainCharacters_Faraway
@@ -220,7 +220,7 @@ message_70:
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 6
-      text: J-Jsem v pohodě...\aub
+      text: J-Jsem v poho...\aub #v pohodě na v poho
 
 message_72:
       text: No to teda nejseš! Krvácíš!\!<br>Dělej, musíme rychle odsud!\kim #tady je sus Sunny, ne Kim
@@ -265,7 +265,7 @@ message_79:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Pojďme ho zkontrolovat.\kel
+      text: Pojďme za ním.\kel
 
 # =========================================================================================
 # Cutscene: Faraway Basil

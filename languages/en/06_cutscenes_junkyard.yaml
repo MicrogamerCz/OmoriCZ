@@ -20,7 +20,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 0
-      text: OMORI, víš jak se ty dokážeš prosekávat kořenama a kuželama? \!Tak jen abys věděl, nejsi tady jediný se zvláštní schopností!\aub
+      text: OMORI, víš, jak se ty dokážeš prosekávat kořenama a kuželama? \!Tak jen abys věděl, nejsi tady jediný se zvláštní schopností!\aub #maty
 
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -57,7 +57,7 @@ message_7:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \Com[2]Hej, PÁSOROBOTE!\!<br>Změňtě už konečně ten směr!\kel
+      text: \Com[2]Hej, PÁSOROBOTE!\!<br>Změň už konečně ten směr!\kel #tykání jako nezdvořilost
 
 message_31:
       text: \n<PAN PÁSOROBOT>\quake[1]Bzzzzum...\! Hm...\! Neslušný...\quake[0]
@@ -65,7 +65,7 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: KELI, nemůžeš na lidi takhle prostě štěkat pokyny!\!<br>Chování trochu!\aub
+      text: KELI, nemůžeš lidem jen tak poroučet!\!<br>Chování trochu!\aub #přiroz, maty
 
 message_33:
       faceset: MainCharacters_DreamWorld
@@ -75,7 +75,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Ahm...\! Zdravím, PANE PÁSOROBOTE.\! Já a mí společníci by po vás vyžadovali změnu směru jízdy pásů.\! Byl byste vy a vaši přátelé hodný a pomohl nám, prosím?\her
+      text: Ahm...\! Zdravím, PANE PÁSOROBOTE.\! Já a mí společníci by po Vás vyžadovali změnu směru jízdy pásů.\! Byli byste vy a vaši přátelé tak hodní a pomohli nám, prosím?\her #mn č, maty
 
 #HERO CHARM ANIMATION
 
@@ -88,7 +88,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: No tak... Jen nezoufejte!\! Nech to na mě!\!<br>Předej mi BABU, OMORI!\her
+      text: No tak... Jen nezoufejte!\! Nechte to na mě!\!<br>Předej mi BABU, OMORI!\her #maty
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================
@@ -120,7 +120,7 @@ message_52:
 message_53:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Kamarádi, tohle je křeček EMILY. Já ji ale říkám jednoduše EMS!\!<br>Známe se spolu už dlouho.\her
+      text: Kamarádi, tohle je křeček EMILY. Já ji ale říkám jednoduše EMS!\!<br>Táhneme spolu už dlouho.\her #maty
 
 message_54:
       faceset: MainCharacters_DreamWorld
@@ -140,7 +140,7 @@ message_56:
 message_57:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Jak se to do ní všecko vůbec vejde?\aub
+      text: Jak se to do ní všecko vůbec vleze?\aub #maty
 
 message_58:
       faceset: MainCharacters_DreamWorld
@@ -175,7 +175,7 @@ message_80:
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: Počkat, my něco hledáme?\kel
+      text: Počkat, my máme něco hledat?\kel #přiroz
 
 message_82:
       text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\who
@@ -187,10 +187,10 @@ message_84:
       text: Po stovkách hodin neustálého kopání...\!<br>patří tato \c[4]VÝJIMEČNÁ KAZETA\c[0] jen a jen mně!\who
 
 message_85:
-      text: ROSE!\! Té \největší ZLATÍČČINÉ fanynce na světě!\ros #asi si taky myslí, že je nejlepší, ale tady se spíše hodí největší
+      text: ROSE!\! Té největší ZLATÍČČINÉ fanynce na světě!\ros #asi si taky myslí, že je nejlepší, ale tady se spíše hodí největší, zbytečná závorka, snad maty
 
 message_86:
-      text: S touto jedinečnou položkou v mé sbírce<br> konečně předeženu všechny její falešné fanoušky!\ros #konečně místo absolutně - blíž orig
+      text: S touto jedinečnou položkou v mé sbírce<br>konečně předeženu všechny její falešné fanoušky!\ros #konečně místo absolutně - blíž orig
 
 message_87:
       text: Počkat...\! Čuch...\! Ale ne!\! <br>Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0]...\! Smrdí po hovínkách.\!<br>Čuch... čuch...\! No ne!\! A já teď taky smrdím po hovínkách!\ros
@@ -211,7 +211,7 @@ message_90:
       text: Jdeme si pro ni!\kel
 
 message_91:
-      text: \Com[2]Víte, že vás všechny slyším?!\!<br>Ano, čekala jsem, že vlastnictví tak vzácné relikvie mi přinese nějaké ty problémy.\ros
+      text: \Com[2]Víte, že vás všechny slyším?!\!<br>Ano, čekala jsem, že vlastnictví tak vzácné relikvie mi přinese jisté potíže.\ros #více sedí
 
 message_92:
       text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros\sinv[0]
@@ -220,18 +220,18 @@ message_93:
       text: Tak o co běží? Závidíte mi snad??\ros
 
 message_94:
-      text: Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] je moje!\!<br>A nikdy vám ji nedám! Ne teď a ne nikdy jindy!\ros
+      text: Tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] je moje!\!<br>A nikdy vám ji nedám! Za žádnou cenu! Vyloučeno!\ros #přiroz
 
 message_95:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Hele! Tak jsme sem snad nešli jen tak pro nic za nic!\!<br>Jestli nám tu tvoji \c[4]VÝJIMEČNOU KAZETU\c[0] sama nevydáš, budeme si ji muset vzít silou!\kel
+      text: Hele! Tak jsme sem snad nešli jen tak pro nic za nic!\!<br>Jestli nám tu tvoji \c[4]VÝJIMEČNOU KAZETU\c[0] sama nedáš, budeme si ji muset vzít silou!\kel #nevydáš na nedáš
 
 message_96:
-      text: \Com[2]\{\quake[1]EEEEEK!! BARBAŘI!!\quake[0]\}\!<br>Násilí nikdy nic nevyřešilo.\ros
+      text: \Com[2]\{\quake[1]ÁÁÁÁÁÁ!! BARBAŘI!!\quake[0]\}\!<br>Copak nevíte, že násilím nic nevyřešíte?\ros #přiroz
 
 message_97:
-      text: Hmf!\! Tohle je pod mou úroveň.\!<br>Sbohem, vy matláci... už vás nechci nikdy vidět!\ros #hmph na hmf - přirozenější zápis tohoto zvuku v češtině
+      text: Hmf!\! Tohle je pod mou úroveň.\!<br>Sbohem, vy matláci... už vás nechci ani vidět!\ros #hmph na hmf - přirozenější zápis tohoto zvuku v češtině, ani vidět
 
 #ROSA runs off screen
 
@@ -254,7 +254,7 @@ message_99:
 message_120:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: ROSO... tak tě konečné máme!\!<br>A teď nám vrať tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
+      text: ROSO... tak tě konečné máme!\!<br>A teď nám naval tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel #naval
 
 message_121:
       faceset: MainCharacters_DreamWorld
@@ -316,10 +316,10 @@ message_146:
 #ADD Ohohoho
 
 message_147:
-      text: Ach, ty nevědomé dítě.\!<br>To se k tobě nedostala ta žhavá zpráva?\ros
+      text: Ach, ty ubožátko nezasvěcené.\!<br>To se k tobě nedostala ta žhavá zpráva?\ros #maty
 
 message_148:
-      text: Důvěryhodné zdroje říkají, že se <br>VESMÍRNÝ MILENEC a ZLATÍČKO již dávno rozešli!\ros
+      text: Důvěryhodné zdroje tvrdí, že se <br>VESMÍRNÝ MILENEC a ZLATÍČKO již dávno rozešli!\ros #maty
 
 message_149:
       text: Jakpak by asi tahle \c[4]VÝJIMEČNÁ KAZETA\c[0] jinak skončila na \c[11]SMETIŠTI\c[0]?\! Vždyť ji sem vyhodil sám VESMÍRNÝ MILENEC!\ros
@@ -337,7 +337,7 @@ message_151:
 message_152:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Budoucnost kdysi prosnulé koalice VESMÍRNÝCH PIRÁTŮ závisí jen na nás...\aub
+      text: Budoucnost kdysi proslulé koalice VESMÍRNÝCH PIRÁTŮ závisí jen na nás...\aub #maty
 
 message_153:
       text: Hmm.\! Tak to už je váš problém.\ros
@@ -348,7 +348,7 @@ message_154:
       text: \com[2]Hele, počkej ještě!\! A jak máme vědět, jestli nám prostě nekecáš?\! Co když se z nás jen snažíš vymámit zpátky tu \c[4]VÝJIMEČNOU KAZETU\c[0]!\kel
 
 message_155:
-      text: No...\! Já...\! \Com[2]nikdy!\!<br>Jsem možná otravná a drzá, ale nejsem lhářka!\ros #správný rod
+      text: To...\! Já...\! \Com[2]nikdy!\!<br>Jsem možná otravná a drzá, ale nejsem lhářka!\ros #správný rod, to
 
 message_156:
       faceset: MainCharacters_DreamWorld
@@ -358,7 +358,7 @@ message_156:
 message_157:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: A teď vypal, ty kytkovitá obludo!\! Běž otravovat někoho jiného!\kel
+      text: A teď vypal, ty kytková obludo!\! Běž otravovat někoho jiného!\kel #kytkovitá na kytková
 
 message_158:
       text: Ach, panečku!\! Jak neslušné.\ros
@@ -396,4 +396,4 @@ message_172:
 message_173:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Támhleta plošina vypadá jako fajn místo na házení.\!<br>dej mi BABU! Tohle je moje!\kel #odzvýraznění dej mi
+      text: Támhleta plošina vypadá jako fajn místo na házení.\!<br>Dej mi BABU! Tohle je moje!\kel #odzvýraznění dej mi. maty

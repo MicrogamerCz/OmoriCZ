@@ -43,7 +43,7 @@ message_5:
 message_6:
       faceset: MainCharacter_Basil
       faceindex: 32
-      text: No...\! Víte...\!<br>Někdo mi vzal něco, co pro mě hodně znamená.\bas #přirozenější
+      text: No...\! Víte...\!<br>Někdo mi vzal něco, čeho si moc vážím.\bas #přirozenější
 
 #BASIL walks one step back.
 
@@ -77,14 +77,14 @@ message_11:
 message_12:
       faceset: MainCharacter_Basil
       faceindex: 34
-      text: No...\! A...\! Nechce mi ho vrátit...\bas
+      text: No...\! a...\! Nechce mi ho vrátit...\bas
 
 #KEL turns around.
 
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]\{KREATURA JEDNA!!\}\kel #"kráva" tady Kel absolutně říct nemůže
+      text: \Com[2]\{POTVORA JEDNA!!\}\kel
 
 message_14:
       faceset: MainCharacters_Faraway
@@ -108,7 +108,7 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Pořád jsme kamarádi.\! Nezapomeň na to, okej?\kel #přeložen zbytek věty
+      text: Přece jsme pořád kamarádi.\! Nezapomeň na to, okej?\kel #přeložen zbytek věty
 
 message_18:
       faceset: MainCharacter_Basil
@@ -199,7 +199,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: V boji!?\! Ale...\! Já...\! se nechci rvát s dítětem...\kel
+      text: V boji!?\! Ale...\! Já...\! se nechci rvát s malým děckem...\kel
 
 #ADD FWEFWEFWEFWE
 
@@ -288,7 +288,7 @@ message_104:
 #BOTH
 
 message_77:
-      text: Popravdě...\ang #přirozenější
+      text: Abych pravdu řek'...\ang #přirozenější
 
 message_78:
       text: AUBRY je...\! někde...\! v \c[11]PŘEDALEKÉ LHOTĚ\c[0]...\! myslím.\ang
@@ -298,20 +298,20 @@ message_78:
 message_79:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Sakra, ANDĚLI!\! Jestli sis z nás celou dobu utahovala, tak si mě-\kel #převedení do min času
+      text: Sakra, ANDĚLI!\! Jestli sis z nás celou dobu utahoval, tak si mě-\kel #převedení do min času, tranzice
 
 message_80:
-      text: Řekla jsem, že vám řeknu všechno, co vím!\! <br>A pravda je, že vím velký kulový!\ang
+      text: Řekl jsem, že vám řeknu všechno, co vím!\! <br>A pravda je, že vím velký kulový!\ang
 
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: ANDĚLI...\! Jestli nám teď hned neřekneš, kde je...\!<br> tak všem povím o tom, jak jsi tehdá na letním táboře počůrala postel.\kel
+      text: ANDĚLI...\! Jestli nám teď hned neřekneš, kde je...\!<br>tak všem povím o tom, jak jsi tehdá na letním táboře počůrala postel.\kel
 
 #ANGEL is surprised, and jumps.
 
 message_82:
-      text: \Com[2]Co!? C-C-C-Cože!?<br>To ne! Ty není fér!\ang #přirozenější
+      text: \Com[2]Co!? C-C-C-Cože!?<br>To ne! To není fér!\ang #přirozenější
 
 #ANGEL turns around.
 
@@ -346,7 +346,7 @@ message_90:
       text: \{\{\quake[1]GAH!! \ang
 
 message_91:
-      text: Tak dobře, řeknu vám to.\! Mistr šel ke kašne na \c[11]NÁMĚSTÍ\c[0].\!<br>Prý tam šel za nějakýma holkama...\!<br>na rande nebo co...\ang
+      text: Tak dobře, řeknu vám to.\! Mistr šel ke kašne u \c[11]OBCHOĎÁKU\c[0].\!<br>Prý tam šel za nějakýma holkama...\!<br>na rande nebo co...\ang
 
 message_92:
       faceset: MainCharacters_Faraway
@@ -373,13 +373,13 @@ message_110:
       text: A pak jsem mu řekl... Nejsem STŘÍDMLAV.\! <br>Ale \Com[2]STŘEMHLAV!\mav #lepší něco, než nic
 
 message_111:
-      text: Ale, \Com[2]STŘEMHLAVE, ty jsi tak vtipný!\n<GIRL>
+      text: Ale, \Com[2]STŘEMHLAVE, ty jsi tak vtipný!\n<HOLKA>
 
 message_112:
-      text: Ho-ho! Ty jo, to byla ale skvělá historka, \Com[2]STŘEMHLAVE!\n<GIRL 2>
+      text: Ho-ho! Ty jo, to byla ale skvělá historka, \Com[2]STŘEMHLAVE!\n<DRUHÁ HOLKA>
 
 message_113:
-      text: \sinv[1]No tak, holky... prosímvás! Stačíte mě všechny vůbec?...\sinv[2]\mav
+      text: \sinv[1]No tak, holky... prosímvás! Já vás všechny nestíhám...\sinv[2]\mav
 
 #KEL walks up.
 
@@ -409,7 +409,7 @@ message_118:
 #THE MAVERICK starts to sweat.
 
 message_119:
-      text: N-Neříkej mi tak!\! <br>To jméno jsem již dávno odhodil!\mav
+      text: N-Neříkej mi tak!\! <br>To jméno jsem již dávno zavrhl!\mav
 
 message_120:
       faceset: MainCharacters_Faraway
@@ -436,7 +436,7 @@ message_125:
 message_126:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Uff...\! Fakt je tohle nutné?\kel
+      text: Uff...\! Fakt to musí být?\kel
 
 message_127:
       faceset: MainCharacters_Faraway
@@ -471,10 +471,10 @@ message_153:
       text: \Com[2]\sinv[1]HAA\Com[2]\{AAAAJ\Com[2]\{ÁÁÁÁÁÁ\Com[2]\{ÁÁÁÁAAAAA!!!\mav
 
 message_154:
-      text: Fuj, co je tohle za hňupa? Ten je ale trapnej.\n<GIRL>
+      text: Fuj, co je tohle za hňupa? Ten je ale trapnej.\n<HOLKA>
 
 message_155:
-      text: Tohle nemá cenu ani té dvoustovky. Pojďme raději pryč...\n<GIRL 2> #přirozenější
+      text: Tohle nestojí ani za ty dvě stovky. Pojďme raději pryč...\n<DRUHÁ HOLKA> #přirozenější
 
 #The girls walk O.S.
 #THE MAVERICK looks where the girls left and walks 1 step forward.
@@ -498,7 +498,7 @@ message_159:
 #THE MAVERICK turns away from KEL.
 
 message_160:
-      text: \Com[2]\{TOHLE JMÉNO NIKOMU TADY NEPATŘÍ!!\mav
+      text: \Com[2]\{TAKHLE SE TADY NIKDO NEJMENUJE!!\mav
 
 message_161:
       faceset: MainCharacters_Faraway

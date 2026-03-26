@@ -5,7 +5,7 @@
 #Trigger: Enter SWEETHEART'S CASTLE ENTRANCE.
 
 message_0:
-      text: Někdo! Prosím, pojďte!\! <br>Potřebovali bychom pohledného mladého muže!\n<KNÍRKOKRTEK>
+      text: Někdo! Prosím, nabídněte se!\! <br>Potřebovali bychom pohledného mladého muže!\n<KNÍRKOKRTEK>
 
 #KNÍRKOKRTEK jumps
 
@@ -32,12 +32,12 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: No, když jste se zeptal tak hezky... Jak bych Vás mohl odmítnout?\her
+      text: No, když jste se zeptal tak hezky... Jak bych Vám na to nemohl kývnout?\her
 
 #KNÍRKOKRTEK jumps.
 
 message_6:
-      text: Děkuji vám! Děkuji, mladý muži! Jste velmi velkorysý.\! <br>Pojďte prosím za mnou. Šup šup!\n<KNÍRKOKRTEK> #citoslovce
+      text: Děkuji vám! Děkuji, mladý muži! Jste velice velkorysý.\! <br>Pojďte prosím za mnou. Šup šup!\n<KNÍRKOKRTEK> #citoslovce
 
 #KNÍRKOKRTEK attempts to push HERO O.S. toward stage.
 #HERO sweats.
@@ -55,7 +55,7 @@ message_8:
 #KNÍRKOKRTEK turns to party.
 
 message_9:
-      text: Vy jste se sem přišli podívat na \"ZLATÍČKO HLEDÁ ZLATÍČKA\", že?\!<br>V tom případě byste se měli potkat dost brzy.\n<KNÍRKOKRTEK>
+      text: Vy jste se sem přišli podívat na \"ZLATÍČKO HLEDÁ ZLATÍČKA\", že?\!<br>V tom případě byste se měli setkat znovu dost brzy.\n<KNÍRKOKRTEK>
 
 #KNÍRKOKRTEK turns to HERO.
 
@@ -70,7 +70,7 @@ message_11:
 #Take seats
 
 message_12:
-      text: Jsi připraven se posadit do první řady?
+      text: Jsi připraven se usadit do první řady?
 
 # =========================================================================================
 # Cutscene: Hero the Bachelor / To THE DUNGEON With You! (Cont.)
@@ -78,10 +78,10 @@ message_12:
 
 #Trigger: Examine Front Row Seats.
 message_30:
-      text: Zdravíme všechny fanoušky ZLATÍČKA.<br>Omlouváme se za krátké vyrušení.\! <br>Vítejte zpátky na našem pravidelném programu!\smm #přestávka na vyrušení
+      text: Zdravíme všechny fanoušky ZLATÍČKA.<br>Omlouváme se za krátké vyrušení.\! <br>Vítejte zpět u našeho pravidelném programu!\smm #přestávka na vyrušení
 
 message_31:
-      text: A se zármutkem vám musíme oznámit tragickou událost, která se před chvílí zde v zákulisí stala...\smm #aby se to neopakovalo
+      text: A se zármutkem vám musíme oznámit tragickou událost, která se před chvílí přihodila zde v zákulisí...\smm #aby se to neopakovalo
 
 #Curtain opens, revealing a portrait of SNALEY.
 
@@ -89,7 +89,7 @@ message_32:
       text: Oznamujeme vám nešťastnou smrt <br>SOUTĚŽÍCÍHO Č.3...\smm
 
 message_33:
-      text: Budeme na něj vřele vzpomínat, ač s námi byl jen pár chvílí.\! Byl opravdu jedinečná a nenahraditelná osobnost.\smm #unikátní na jedinečná
+      text: Budeme na něj vřele vzpomínat, ač s námi strávil jen pár chvílí.\! Byl opravdu jedinečná a nenahraditelná osobnost.\smm #unikátní na jedinečná
 
 #Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
 
@@ -97,7 +97,7 @@ message_34:
       text: \Com[2]\{\sinv[1]ALE SHOW MUSÍ POKRAČOVAT!!\smm
 
 message_35:
-      text: Prosím potlest pro našeho nového SOUTĚŽÍCÍHO Č.3...\!<br>Přicházejícího k nám až z \c[11]ROZLEHLÉHO LESA\c[0]...\!<br>Náš rytíř na bílém koni...!\smm #zde to nejde do ČJ přeložit
+      text: Prosím o potlesk pro našeho nového SOUTĚŽÍCÍHO Č.3...\!<br>Přicházejícího k nám až z \c[11]ROZLEHLÉHO LESA\c[0]...\!<br>Náš rytíř na bílém koni...!\smm #zde to nejde do ČJ přeložit
 
 message_36:
       text: Držte si klobouky, pánové.\!<br>HERO je opravdový štramák, vysoký neuvěřitelných 170 centimetrů!\smm
@@ -110,7 +110,7 @@ message_37:
 #Wild applause.
 
 message_38:
-      text: A nyní...<br>je opět čas představit hlavní hvězdu tohoto pořadu!\smm
+      text: A nyní...<br>je opět čas představit hlavní hvězdu tohoto představení!\smm
 
 message_39:
       text: \{\Com[2]ZHASNĚTE, PROSÍM!!\smm
@@ -118,13 +118,13 @@ message_39:
 #The lights dim.
 
 message_40:
-      text: \sinv[1]Oplývá...\| krásou... \|Vyzařuje...\| půvab...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm
+      text: \sinv[1]Oplývá...\| krásou... \|Září...\| půvabem...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm
 
 message_41:
-      text: Ano!\! Všichni víte, o kom mluvíme!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #ještě to bude chtít nějak dobře přeložit to pod tím
+      text: Ano!\! Všichni víte, o kom je řeč!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #ještě to bude chtít nějak dobře přeložit to pod tím
 
 message_42:
-      text: She's the one... \!the only... \!the magnificent...\smm
+      text: Jediná... \!Jedinečná... \!Majestátní...\smm #přeloženo
 
 message_43:
       text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
@@ -152,18 +152,18 @@ message_48:
       text: Zdravím, mí hloupí, posedlí fanoušci!\swh
 
 message_49:
-      text: \sinv[1]Milujume tě, ZLATÍČKO!<br>Jo, jsi nejlepší!\n<HLOUPÍ POSEDLÍ FANOUŠCI>
+      text: \sinv[1]Milujume tě, ZLATÍČKO!<br>Jóóóó, jsi nejlepší!\n<HLOUPÍ POSEDLÍ FANOUŠCI> #jo na jooo
 
 message_50:
       text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
 
 message_51:
-      text: ZLATÍČKO...\! Zde na toto pódium jsme Vám přinesli tři nejlepší nápadníky, které tento svět kdy viděl.\!Bude dnešek ten den, kdy vám jeden z nich padne do oka?\smm #malé v, ale dost možná to změním zpátky
+      text: ZLATÍČKO...\! Zde na tomto pódiu vám představujeme tři nejlepší nápadníky, které tento svět kdy viděl.\! Bude dnes ten den, kdy vám jeden z nich padne do oka?\smm #malé v, ale dost možná to změním zpátky, přiroz
 
 #SMM and SWEETHEART turn to face the CONTESTANTs.
 
 message_52:
-      text: Začněme s pár otázkami.\! <br>Jedna z věcí, které ZLATÍČKO vyžaduje po partnerovi je bezpodmínečná a absolutní poslušnost!\smm
+      text: Začněme nějakými těmi otázkami.\! <br>Jedna z věcí, které ZLATÍČKO vyžaduje po partnerovi je bezpodmínečná a absolutní poslušnost!\smm
 
 message_106:
       text: SOUTĚŽÍCÍ Č.1...\! Skládáte ZLATÍČKU slib věrnosti do konce vašeho života?\!<br>SOUTĚŽÍCÍ Č.1! Jak zní vaše odpověď?\smm
@@ -197,7 +197,7 @@ message_57:
 #SMM turns to CONTESTANT #2.
 
 message_58:
-      text: A nyní je na řadě SOUTĚŽÍCÍ Č.2.\! Na vás máme stejnou otázku.\! <br>Není žádná správná ani špatná odpověď. Stačí odpověďet upřímně\smm #malé v, přirozenější
+      text: A nyní je na řadě SOUTĚŽÍCÍ Č.2.\! Na vás máme stejnou otázku.\! <br>Není žádná správná ani špatná odpověď. Jen buďte upřímný.\smm #malé v, přirozenější
 
 message_59:
       text: SOUTĚŽÍCÍ Č.2...\!<br>Skládáte ZLATÍČKU slib věrnosti do konce vašeho života?\smm
@@ -238,7 +238,7 @@ message_66:
       text: Ach...\! Tenhle.\! Je přímo bezvadný!\! <br>Jak je tohle možné?\! Že by se ZLATÍČKO...\! \sinv[1]konečně zamilovalo?\swh
 
 message_67:
-      text: \{\Com[2]TO JE ALE NEPŘEDPOVÍDATELNÝ ZVRAT!\!\}<br>Tohle musí být osud! Pro ZLATÍČKO jako stvořený!\smm #tohle říká sprout mole mike (myslí, že tak se jmenuje)
+      text: \{\Com[2]TO JE ALE NEPŘEDPOVÍDATELNÝ ZVRAT!\!\}<br>Tohle musí být osud! Pro ZLATÍČKO jako stvořený!\smm #tohle říká sprout mole mike (myslím, že tak se jmenuje)
 
 message_68:
       faceset: MainCharacters_DreamWorld
@@ -342,7 +342,7 @@ message_85:
 message_86:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: Ty jo, haha... To je od vás ale pěkné...\! Teda-\her #malé v
+      text: Ty jo, haha... To je od vás ale milé...\! Teda-\her #malé v
 
 message_87:
       faceset: MainCharacters_DreamWorld
@@ -360,7 +360,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text:  Já...\! umm...\! Všechno tohle je mě velice těší, ale, víte...<br>Potkali jsme se teprve před chvílí a...\her #velice ohromující na velice těší
+      text:  Já...\! umm...\! Všechno tohle mě velice těší, ale, víte...<br>Poznali jsme se teprve před chvílí a...\her #velice ohromující na velice těší
 
 message_91:
       faceset: MainCharacters_DreamWorld
@@ -413,7 +413,7 @@ message_102:
       text: Aha...\! Rozumím...\! Tím pádem musíte být HEROVI fanoušci!\swh
 
 message_103:
-      text: Ta vaše drzost...<br>Nejdříve ze mě děláte blbce... a potom mi ještě začnete kazit můj vlastní pořad?!\swh
+      text: Ta vaše drzost...<br>Nejdříve ze mě děláte blbce... a potom mi ještě začnete kazit mé vlastní představení?!\swh
 
 message_104:
       text: Tady velím já!\swh #přirozenější, ale dost možná by to šlo i lépe. pokud máte nápad, klidně nahraďte
@@ -480,7 +480,7 @@ message_138:
 #KNÍRKOKRTEK takes off MUSTACHE.
 
 message_139:
-      text: \{\Com[2]JSEM TO CELOU DOBU JÁ!\! ROSA!!\!\}<br>ZLATÍČČINA největší fanynka!\ros
+      text: \{\Com[2]TO JSEM BYLA JÁ!\! ROSA!!\!\}<br>ZLATÍČČINA největší fanynky!\ros
 
 message_140:
       text: Já vám říkala, že zaplatíte za to, co jste mi udělali!\ros
@@ -488,18 +488,18 @@ message_140:
 message_141:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Sakryš! Oni na nás ušili boudu!\kel
+      text: Sakryš! Ušila na nás boudu!\kel #přiroz
 
 message_142:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Měl jsem tušit, žes v tom měla prsty!\kel
+      text: Že mě nenapadlo, žes v tom měla prsty ty!\kel #přiroz
 
 message_143:
       text: Jak se říká... <br>\{POMSTA JE SLADKÁ!!\ros
 
 message_144:
-      text: A teď tady všichni zhynete! Hyňte v \c[11]HLADOMORNĚ\C[0] nadosmrti!\ros
+      text: A teď tady všichni zhynete! Ano, hyňte v \c[11]HLADOMORNĚ\C[0] nadosmrti!\ros
 
 #ROSA walks O.S.
 
@@ -519,7 +519,7 @@ message_147:
 message_148:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Kde bychom vůbec začli?\! <br>Snad by prostě nenechali dveře odemčené...\!<br>nebo snad...?\her
+      text: Kde bychom vůbec začli?\! <br>Vždyť by prostě nenechali dveře odemčené...\!<br>že ne...?\her #přiroz
 
 # =========================================================================================
 # Cutscene: The Ugliest
@@ -558,7 +558,7 @@ message_173:
 message_200:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: Kam jdeš, OMORI?! Musíme se přece podívat na ten pořad!\aub
+      text: Kam jdeš, OMORI?! Musíme se přece podívat na to představení!\aub
 
 #Trigger: Trying to leave after ROSA takes HERO
 

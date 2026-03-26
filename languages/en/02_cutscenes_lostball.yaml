@@ -6,7 +6,7 @@
 #BERLY is pacing back and forth in frustration.
 
 message_0:
-      text: Brrrr, brrr...\! Mrrrr, mrrrrr, mrrrr...\ber
+      text: Grrrr, grrr...\! Mrrrr, mrrrrr, mrrrr...\ber #konzistence
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -19,30 +19,30 @@ message_2:
 #BERLY walks up to party
 
 message_3:
-      text: uffff...\! Já to celé vysvětlím. \ber
+      text: Uffff...\! Já vám to teda vysvětlím. \ber #maty
 
 #BERLY turns to the pole.
 
 message_4:
-      text: \{\Com[2]PODÍVEJTE SE NA TU TYČ!!\}\!<br>\Com[2] věříte vlastním očím!? \ber
+      text: \{\Com[2]PODÍVEJTE SE NA TU TYČ!!\}\!<br>\Com[2]Věříte vlastním očím!? \ber #maty
 
 #Camera centers on POLE
 
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Na co se máme dívat? \kel
+      text: Na co se jako máme dívat? \kel #maty
 
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: Přesně, co s ní? \aub
+      text: Přesně, já na ní nic moc nevidím? \aub #blíže orig
 
 #Camera centers on scene
 #BERLY turns to the party
 
 message_7:
-      text: Přesně tak!\! Chybí mu míč.\!<br>Tady VAN ho natáhl příliš silně a odletěl kdovíkam...\ber
+      text: A v tom je ten problém!\! Chybí jí míč.\!<br>Tady VAN ho natáhl příliš silně a odletěl kdovíkam...\ber #blíže orig
 
 #BERLY looks in the distance
 
@@ -78,7 +78,7 @@ message_13:
 message_14:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: No tak, hlavu vzhůru, BERLY. My to ten míč najdeme!\her #hrubka
+      text: No tak, hlavu vzhůru, BERLY. My ti ten míč najdeme!\her #hrubka, maty
 
 message_15:
       text: Heh.\! To vážně?\!<br>\c[11]ROZLEHLÝ LES\c[0] je přece celkem nebezpečné místo, viďte?\ber
@@ -87,7 +87,7 @@ message_16:
       text: Jednou jsem se tam dokonce porvala s jakousi<br>živou rostlinou s prázdnýma, mrtvýma očima a dokořán otevřenou pusou. \ber #zachování even z originálu
 
 message_17:
-      text: Ale s tím jak jsem chytrá a hustá se mi ji samozřejmě podařilo přechytračit.\!<br>Na tomto světě není obluda, která by mě byla schopna předstihnout!\ber
+      text: Ale s tím, jak jsem chytrá a hustá, se mi ji samozřejmě podařilo přechytračit.\!<br>Na tomto světě není obluda, která by mě byla schopna dohnat!\ber #blíže orig
 
 message_18:
       text: \Com[2]\SINV[2]\{BAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
@@ -127,7 +127,7 @@ message_25:
       text: Uff...\! Ať už to máme z krku...\aub
 
 message_26:
-      text: BERLY se přidal do tvé party.
+      text: BERLY se přidala do tvé party. #maty
 
 # =========================================================================================
 
@@ -175,7 +175,7 @@ message_28:
       text: \{\sinv[1]HA!\ber
 
 message_29:
-      text: Konečně!\! Pojďme tohle číslo donést zpátky na hřiště!\!<br>Už se nemůžu dočkat, než si spolu zase zahrajeme tetherball!\ber
+      text: Konečně!\! Pojďme tohle číslo donést zpátky na hřiště!\!<br>Už se nemůžu dočkat, až si spolu zase zahrajeme tetherball!\ber
 
 message_30:
       text: Hele, tudy se přece na hřiště nejde!\! Jdeme blbě!\ber

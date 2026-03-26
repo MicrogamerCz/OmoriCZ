@@ -46,7 +46,7 @@ message_15:
     text: Baseballová pálka a míček.
 
 message_16:
-    text: Chapadlo trčící z podlahy.
+    text: Chapadlo trčící ze země. #z podlahy na ze země
 
 
 #- Omori's CUT Tag Skill
@@ -75,7 +75,7 @@ message_30:
 #- Snake money
 
 message_100:
-    text: \n<HAD>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Jdeš ven, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Tady máš dnešní kapesné.) #za mě zní přirozeněji
+    text: \n<HAD>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Jdeš ven, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Tady máš kapesné.) #za mě zní přirozeněji, vypouštění dnešní
 
 message_101:
     text: Získal jsi \v[1001] MUŠLÍ.
@@ -96,7 +96,7 @@ message_110:
 message_111:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basI just finished planting some little sprouts and wanted to show everyone.\! Come on! They're really cute!
+      text: \basPrávě jsem zasadil pár klíčků a chtěl bych je všem ukázat.\! Notak! Jsou tak krásné! #přeloženo
 
 message_112:
       faceset: MainCharacters_DreamWorld

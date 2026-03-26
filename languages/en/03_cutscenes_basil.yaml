@@ -44,7 +44,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \SINV[1]Jsme všichni tak krásní!\SINV[0]\aub
+      text: \SINV[1]Jsme všichni tak hezcí!\SINV[0]\aub #maty
 
 #HERO walks up to the side of BASIL.
 
@@ -81,7 +81,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \sinv[1]Jupí!\sinv[0] Další číslo do \c[4]FOTOALBA\c[0]!\kel
+      text: \sinv[1]Jupí!\sinv[0] Další kousek do \c[4]FOTOALBA\c[0]!\kel #maty
 
 #SLIDE: BASIL'S PHOTO ALBUM (DREAM)
 
@@ -190,7 +190,7 @@ message_47:
 message_48:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: Nebojte se, je to vpořádku.\! Nehody se občas dějí...\bas
+      text: Nebojte, to nevadí.\!To se prostě někdy stává...\bas #maty, mezera, přiroz
 
 #HERO helps BASIL pick up his photos.
 
@@ -232,12 +232,12 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Jo, už slibuju, že se nikdy nebudu znovu prát s AUBRY!\.<br>\}Pokud si nezačne ona...\kel #lépe zachován původní význam
+      text: Jo, už slibuju, že se nikdy nebudu znovu prát s AUBRY!\.<br>\}Pokud si teda nezačne ona...\kel #lépe zachován původní význam
 
 message_73:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: Nedělejte si s tím hlavu.\!<br>Vím, že jste se jenom chtěli podívat na moje \c[4]FOTOALBUM\c[0].\!<br>A díky, že jste mi ho pomohli znovu roztřídit!\bas
+      text: Nedělejte si s tím hlavu.\!<br>Vím, že jste se jenom chtěli podívat na moje \c[4]FOTOALBUM\c[0].\!<br>A díky, že jste mi ho pomohli dát dohromady!\bas
 
 
 #BASIL walks to the dinner table carrying the album.

@@ -2,7 +2,7 @@
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_0:
-    text: "Bílé dveře před sebe hází vratký stín.\\!<br>Co by sis přál udělat?"
+    text: "Bílé dveře před sebe vrhají vratký stín.\\!<br>Co bys chtěl udělat?" #konzistence, vrhají
 message_1:
     text: "OTEVŘÍT"
 message_2:
@@ -41,7 +41,7 @@ message_409:
 message_5:
     text: "Zapl jsi svůj počítač."
 message_6:
-    text: "Co by sis přál udělat?"
+    text: "Co bys chtěl udělat?" #konzistence
 message_7:
     text: "HLEDĚT NA KLÁVESNICI"
 message_8:
@@ -53,9 +53,9 @@ message_9:
 message_10:
     text: "Ulpěl jsi pohled na obrazovku."
 message_11:
-    text: "Teplo vycházející z počítače ti ohřálo klín.\\!\\lb Bylo to příjemné."
+    text: "Počítač ti ohřál klín.\\!\\lb Bylo to příjemné." #počítač ohřál
 message_12:
-    text: "Z téhle strany svůj počítač nedokážeš použít."
+    text: "Z této strany svůj počítač nemůžeš použít." #téhle, nemůžeš
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
@@ -117,7 +117,7 @@ message_32:
 # - THE WHITE DOOR
 # -----------------------------------------------
 message_100:
-    text: "Bílé dveře před sebe hází vratký stín.\\!<br>Co by sis přál udělat?"
+    text: "Bílé dveře před sebe hází vratký stín.\\!<br>Co bys chtěl udělat?" #konzistence
 message_101:
     text: "OTEVŘÍT"
 message_102:
@@ -149,7 +149,7 @@ message_110:
 # message_111:
 #     text: "Teplo vycházející z počítače ti ohřálo klín.\\!\\lb Bylo to příjemné."
 message_112:
-    text: "Z téhle strany svůj počítač nedokážeš použít."
+    text: "Z této strany svůj počítač nemůžeš použít." #konzistence
 
 # -----------------------------------------------
 # - THE SKETCHBOOK
@@ -171,7 +171,7 @@ message_116:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+    text: "Žárovka visí ze stropu, o kterém sám nevíš, kde končí.\\!\\lb<br>Podíváš se dovnitř?" #okopírované z předešlé iterace
 message_118:
     text: "Uvnitř je úplně černá.\\! Nevidíš v ní jediný náznak čehokoliv."
 
@@ -195,4 +195,4 @@ message_126:
 #BLACK SPACE Door
 
 message_200:
-    text: "Černé dveře před sebe hází mohutný stín.\\!<br>Co by sis přál udělat?"
+    text: "Černé dveře před sebe vrhají mohutný stín.\\!<br>Co bys chtěl udělat?" #konzistence

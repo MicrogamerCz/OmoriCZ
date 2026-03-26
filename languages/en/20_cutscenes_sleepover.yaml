@@ -40,12 +40,12 @@ message_10:
 message_11:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Tady bývel ten gauč, na kterém jsme se dívali na televizi...\! <br>Chodili jsme sem každý týden a ráno se dívali na animáky.\her
+      text: Tady býval ten gauč, na kterém jsme se dívali na televizi...\! <br>Chodili jsme sem každý týden a ráno se dívali na animáky.\her
 
 message_12:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Hele, tady je ta skvrna po \c[3]POMERANČOVÉM JOEOVI\c[0]!\! MARI se na mně kvůli ní tak naštvala...\kel
+      text: Hele, tady je ta skvrna po \c[3]POMERANČOVÉM JOEOVI\c[0]!\! MARI se na mě kvůli ní tak naštvala...\kel
 
 message_13:
       faceset: MainCharacter_Basil_dark
@@ -84,7 +84,7 @@ message_18:
 message_19:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: A kdy příště budeme moct strávit noc takhle všichni se SUNNYM?\kel #blíže orig
+      text: A kdy budeme znovu moct strávit noc takhle všichni se SUNNYM?\kel #blíže orig
 
 message_20:
       faceset: MainCharacter_Basil_dark
@@ -144,7 +144,7 @@ message_42:
 message_60:
       faceset: MainCharacter_Basil
       faceindex: 15
-      text: Nesuďte mně.\! Už jsem dlouho nehrál.\her
+      text: Kritiku si nechte pro sebe.\! Už jsem dlouho nehrál.\her
 
 #HERO plays an immaculate piece.
 
@@ -187,12 +187,12 @@ message_66:
 message_67:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: \sinv[1]Zíííív...\! Kámo, z ničeho nic jsem hrozně ospalý.\! <br>Možná bychom to už pro dnešek mohli zabalit.\kel\sinv[0]
+      text: \sinv[1]Zíííív...\! Kámo, z ničeho nic jsem nějaký ospalý.\! <br>Možná bychom to už pro dnešek mohli zabalit.\kel\sinv[0]
 
 message_68:
       faceset: MainCharacter_Basil_dark
       faceindex: 28
-      text: Za mě dobrý. Stejně se musím ráno vzbudit brzo, chci běhat!\her
+      text: Za mě dobrý. Stejně se musím ráno vzbudit brzo, chtěl bych si jít zaběhat!\her
 
 message_69:
       faceset: MainCharacter_Basil
@@ -241,7 +241,7 @@ message_110:
 message_93:
       faceset: MainCharacter_Basil_dark
       faceindex: 13
-      text: STARONOVÁ KUCHAŘKA TATÍKA CHIPA!\! <br>Pamatuješ si ji ještě?\kel
+      text: STARONOVÁ KUCHAŘKA TATÍKA ČIPA!\! <br>Pamatuješ si ji ještě?\kel
 
 message_94:
       faceset: MainCharacter_Basil
@@ -261,7 +261,7 @@ message_96:
 message_97:
       faceset: MainCharacter_Basil_dark
       faceindex: 12
-      text: Ale...\! Ty přece rád vaříš, ne?\!<br>A něco se jíst přece musí!\! Tak...\! Proč ne?\kel
+      text: Ale...\! Ty stejně rád vaříš, ne?\!<br>A něco se jíst přece musí!\! Tak...\! Proč ne?\kel
 
 message_98:
       faceset: MainCharacter_Basil_dark
@@ -313,7 +313,7 @@ message_106:
 message_107:
       faceset: MainCharacter_Basil_dark
       faceindex: 30
-      text: Uff...\! Ale ne, opravdu jsem tě znovu rád viděl.\! <br>Kéž by tady s náma byli i BASIL a AUBRY. \her
+      text: Uff...\! Ale ne, opravdu jsem tě rád zas viděl.\! <br>Kéž by tady s náma byli i BASIL a AUBRY. \her
 
 #HERO is surprised.
 

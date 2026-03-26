@@ -5,19 +5,19 @@
 #Trigger: Defeating SPACE EX-BOYFRIEND
 
 message_0:
-      text: \who\Sinv[1]Halóooooo...\! Halóoooooo?\!<br>SUNNY?\! Jsi tam?\who\sinv[0]
+      text: \who\Sinv[1]Halóooooo...\! Halóoooooo?\!<br>SUNNY?\! Jsi doma?\who\sinv[0]
 
 message_1:
-      text: Tady tvůj starý kámoš, KEL!\! Pamatuješ si mě? \who #přiroz, změna pořadí
+      text: To jsem já, tvůj starý kámoš KEL!\! Vzpomínáš si na mě? \who #přiroz, změna pořadí
 
 message_2:
-      text: Takže, jsem...\! si...\! Všiml jsem si té cedule s nápisem "NA PRODEJ" před vaším domem...\! a...\! no...\! moje mamka taky říkala, že se budete brzo stěhovat.\kel #přiroz
+      text: Takže, všiml jsem...\! si...\! Všiml jsem si té cedule před vaším domem s nápisem "NA PRODEJ"...\! a...\! no...\! mamka taky říkala, že se budete brzo stěhovat.\kel #přiroz
 
 message_3:
       text: A tak mě napadlo...\! jestli bys se mnou nechtěl jít ještě jednou ven, než se odstěhuješ... nebo něco tak...\! jako za starých časů, že?\kel #přiroz
 
 message_4:
-      text: ... ... ...\! <br>\sinv[1]Halóoooo?\! SUNNY?\! Jsi tam?\kel
+      text: ... ... ...\! <br>\sinv[1]Halóoooo?\! SUNNY?\! Jsi doma?\kel
 
 #Switch to PLAYER'S LIVING ROOM REVERSE (map780)
 #[OPEN THE DOOR / DO NOTHING]
@@ -63,7 +63,7 @@ message_12:
 message_13:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Víš co, řeknu ti to na rovinu, SUNNY.\! <br>Nečekal jsem, že dnes vyjdeš ven, a proto nemám žádný bojový plán.\kel #říká se to tak opravdu? nepamatuju si, že bych tuto frázi někdy slyšel. ale nevím, jak to přeložit, aby to znělo lépe, tak to tak vezmu
+      text: Víš co, řeknu ti to na rovinu, SUNNY.\! <br>Fakt jsem nečekal, že vyjdeš ven, takže nemám žádný bojový plán.\kel #přiroz
 
 message_14:
       faceset: MainCharacters_Faraway
@@ -118,7 +118,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Tahle tlupa jsou jen samé problémy<br> a dneska bych se bez nich nejraději obešel!\kel #banda na tlupa
+      text: Tahle banda jsou jen samé problémy<br> a dneska bych se bez nich nejraději obešel!\kel #revert
 
 
 # =========================================================================================
@@ -131,24 +131,24 @@ message_32:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Tak...\! Zase v \c[11]HOBBEEZ\c[0]!\kel
+      text: Tak...\! Zpátky v \c[11]HOBBEEZ\c[0]!\kel
 
 message_51:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Asi už jsi tady nějaký ten pátek nebyl...\! ale popravdě se to ani moc nezměnilo!\kel #nějaký ten pátek
+      text: Asi jsi tady nějaký ten pátek nebyl...\! ale popravdě se to ani moc nezměnilo!\kel #nějaký ten pátek, vypouštím už
 
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Pořád ty samý starý věci...\! <br>hry s KAPITÁNEM VESMÍRŇÁKEM, filmy se ZLATÍČKEM, pár \c[13]DOMÁCÍCH KAMÍNKŮ\c[0]...\! akorát, že všechno už je to dneska retro!\kel #přiroz
+      text: Pořád ty samý starý věci...\! <br>hry s KAPITÁNEM VESMÍRŇÁKEM, filmy se ZLATÍČKEM, pár \c[13]DOMÁCÍCH KAMÍNKŮ\c[0]...\! akorát že teď je to všechno retro!\kel #přiroz
 
 #KEL has an idea.
 
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: A...\! Když už jsme tady, asi bych měl něco koupit HEROVI.\! Teď už je na výšce, ale zítra by se měl vrátit na návštěvu.\kel
+      text: A...\! Když už jsme tady, asi bych měl něco koupit HEROVI.\! Teď už je na výšce, ale zítra by měl přijet na návštěvu.\kel
 
 message_54:
       faceset: MainCharacters_Faraway
@@ -160,12 +160,12 @@ message_54:
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ne, to je otřesný nápad.\kel #zkrášlení
+      text: Ne, co je to sakra za nápad?\kel #přiroz
 
 message_56:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Co kdybys ten dárek vybral ty, SUNNY?\!<br>Pojďme se podívat, co tady mají!\kel #přiroz
+      text: Co kdybys ten dárek vybral ty, SUNNY?\!<br>Koukneme se, co tady mají!\kel #přiroz
 
 # =========================================================================================
 # Cutscene: Buying Hero's Gift
@@ -179,7 +179,7 @@ message_57:
 message_58:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: Vím, že už jsi u mě dlouho nebyl, ale teď možná není nejlepší chvíle, he he...\!\kel #křížová výprava proti "heh heh"
+      text: Vím, že už jsi u mě dlouho nebyl, ale teď na to není zrovna nejlepší chvíle, he he...\!\kel #křížová výprava proti "heh heh"
 
 
 #Trigger: Examine book in Hobby Shop.
@@ -207,7 +207,7 @@ message_73:
 message_74:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ale ještě předtím...\!<br>Se musíme zeptat na tu nejdůležitější otázku!\!<br>Kolik...\! stojí?\kel #blíže orig
+      text: Ale ještě předtím...\!<br>Si musíme položit tu nejdůležitější otázku!\!<br>Kolik...\! stojí?\kel #blíže orig
 
 message_75:
       faceset: MainCharacters_Faraway
@@ -217,7 +217,7 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \Com[2]20 korun!?\! To je ale zlodějina!\kel #tohle bude asi působit směšně, chce to zjistit, jak to tady funguje a změnit částku
+      text: \Com[2]200 korun!?\! To je ale zlodějina!\kel #tohle bude asi působit směšně, chce to zjistit, jak to tady funguje a změnit částku
 
 message_77:
       faceset: MainCharacters_Faraway
@@ -248,7 +248,7 @@ message_82:
       text: Jo, brácha z ní kdysi vařil!\!<br>Ty sušenky byly ze všech nejlepší.\kel #přiroz
 
 message_83:
-      text: Dalšího fanouška TATÍKA ČIPA člověk jen tak často nepodká.\!<br>20 korun prosím!\n<PRODAVAČ> #dolary na koruny a bez čárky
+      text: Dalšího fanouška TATÍKA ČIPA člověk jen tak často nepodká.\!<br>200 korun prosím!\n<PRODAVAČ> #dolary na koruny a bez čárky
 
 #Currency noise
 message_84:

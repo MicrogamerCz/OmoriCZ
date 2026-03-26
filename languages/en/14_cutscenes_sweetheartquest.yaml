@@ -27,7 +27,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Když jsme tu zase všichni, pojďme hledat BASILA!\!<br>Potřebuje nás!\kel #přirozenější, opravuji dle původního komentáře
+      text: Když jsme tu zase všichni, pojďme hledat BASILA!\!<br>Bez nás se neobejde!\kel #přirozenější, opravuji dle původního komentáře
 
 #AUBREY jumps.
 
@@ -48,7 +48,7 @@ message_5:
 message_6:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: No tak, OMORI! Pojďme na dobrodružství...\aub
+      text: No tak, OMORI! Pojďme spolu na dobrodružství...\aub
 
 message_7:
       faceset: MainCharacters_DreamWorld
@@ -72,21 +72,21 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Nikdy nevíš, kdy by ti něčí pomoc přišla vhod.\! <br>Spolu jsme přece silnější!\her #nadbytečné A
+      text: Nikdy nevíš, kdy ti něčí pomoc přijde vhod.\! <br>Spolu jsme přece silnější!\her #nadbytečné A
 
 #AUBREY looks away.
 
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: Ts! My dva to zvládneme sami.\aub
+      text: Ts! My dva bychom to zvládli sami.\aub #přiroz
 
 #AUBREY looks at OMORI.
 
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Ty na mě budeš dávat pozor, viď, OMORI?\aub
+      text: Ty se o mě přece postaráš, viď, OMORI?\aub
 
 #KEL looks at AUBREY.
 
@@ -114,19 +114,19 @@ message_15:
 #A line of four KLÍČKOKRTEKS are walking toward PYREFLY FOREST.
 
 message_30:
-      text: Kamaráde!\! Ach, jak dlouho jsem se na dnešek těšil!\!<br>Jaký krásný den to dnes máme!\n<KLÍČKOKRTEK>
+      text: Kamaráde!\! Ach, jak dlouho jsem se na dnešek těšil!\!<br>Toť ale dnes krásný den!\n<KLÍČKOKRTEK>
 
 message_31:
       text: Ach ano, ano!\! Dnes se naše úctihodná princezna ZLATÍČKO konečně opět ukáže na veřejnosti!\n<KLÍČKOKRTEK>
 
 message_32:
-      text: Panečku!\! Mám pocit, že brzo rupnu z toho, jak se těším!\!<br>Tohle bude nejnapínavější pořad, co svět kdy viděl!\n<KLÍČKOKRTEK> #blíže orig
+      text: Panečku!\! Mám pocit, že brzo rupnu z toho, jak se těším!\!<br>Tohle bude nejnapínavější představení, co svět kdy zažil!\n<KLÍČKOKRTEK> #blíže orig
 
 message_33:
       text: Propána!\! Musíme si pospíšit!\! <br>Máme čtyři \c[4]LÍSTKY\c[0] do přední řady!\!<br>Tuto životní událost si přece nesmíme nechat ujít!\n<KLÍČKOKRTEK>
 
 message_34:
-      text: Počkat... kudy že se vlastně jde?\n<KLÍČKOKRTEK>
+      text: Počkat... kudy se tam vlastně jde?\n<KLÍČKOKRTEK>
 
 #Before Cutscene block
 message_43:
@@ -160,7 +160,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Ukaž!\!<br>Hmm... Lístky do první řady k nějakému pořadu... \aub
+      text: Ukaž!\!<br>Hmm... Lístky do první řady k nějakému představení... \aub
 
 message_38:
       faceset: MainCharacters_DreamWorld
@@ -170,7 +170,7 @@ message_38:
 message_39:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Ta bejvalá od KAPITÁNA VESMÍRŇÁKA?\her
+      text: Ta VESMÍRŇÁKOVA bejvalá?\her
 
 #AUBREY looks at HERO.
 
@@ -198,17 +198,17 @@ message_42:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: Fuj...\! ...pojďme raději BASILA hledat jinde.\! Z tohohle místa se mi zvedá žaludek.\kel #blíže orig
+      text: Fuj...\! ...pojďme raději BASILA hledat jinde.\! Z tohohle místa se mi dělá šoufl.\kel #blíže orig
 
 message_61:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: No tak, nebuď takový posera, KELI.\!<br>Tak je tady občas nějaká ta pavučina, no a co?!\aub #přirozenější
+      text: No tak, nebuď takový strašpytel, KELI.\!<br>Tak je tady občas nějaká ta pavučina, no a co?!\aub #strašpytel, vsadím se, že revert
 
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \{\quake[1]ÁÁÁAAAAA!!\!<br>MÁŠ PAVOUKA VE VLASECH!!\kel\quake[0]
+      text: \{\quake[1]ÁÁÁAAAAA!!\!<br>MÁŠ VE VLASECH PAVOUKA!!\kel\quake[0]
 
 message_63:
       faceset: MainCharacters_DreamWorld
@@ -218,7 +218,7 @@ message_63:
 message_64:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: Haha! Kecám!<br>A koukej, kdo je nakonec posera!\kel
+      text: Haha! Kecám!<br>Tak kdo je tady teď strašpytel?\kel #přiroz, konzistence
 
 message_65:
       faceset: MainCharacters_DreamWorld
@@ -234,7 +234,7 @@ message_65:
 message_80:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Tý jo, koukejte na tohle obří pódium!<br>Je to tady tak úžasné, jak jsem si to představovala!\aub #dlouhé ý
+      text: Tý jo, koukněte na to obří pódium!<br>Je to tady tak úžasné, jak jsem si představovala!\aub #dlouhé ý
 
 message_81:
       faceset: MainCharacters_DreamWorld
@@ -252,12 +252,12 @@ message_81:
 #SMM walks onto the stage.
 
 message_100:
-      text: Klíčkodámy a klíčkopánové...\!<br>Vítejte na mimořádném díle pořadu...\!<br>\"ZLATÍČKO HLEDÁ ZLATÍČKA!\"\smm
+      text: Klíčkodámy a klíčkopánové...\!<br>Vítejte na mimořádném díle představení...\!<br>\"ZLATÍČKO HLEDÁ ZLATÍČKA!\"\smm
 
 #Applause
 
 message_101:
-      text: Ovšem předtím, než začneme, bychom tento díl chtěli věnovat jednomu našemu druhu, jenž byl žijícím vzorem pro nás všechny. \!<br>Našemu drahému vůdci, KLÍČKODĚDKOVI.\smm
+      text: Ovšem předtím, než začneme, bychom tento díl chtěli věnovat jednomu našemu druhu, jenž byl životním vzorem pro nás všechny. \!<br>Našemu drahému vůdci, KLÍČKODĚDKOVI.\smm #žijícím na životním
 
 #The curtain opens and a portrait of YE OLD SPROUT is shown.
 
@@ -273,7 +273,7 @@ message_104:
 #Curtains close.
 
 message_105:
-      text: \sinv[1]\{A NYNÍ...\. POŘAD ZAČÍNÁ!!\smm
+      text: \sinv[1]\{A NYNÍ...\. PŘEDSTAVENÍ ZAČÍNÁ!!\smm
 
 #Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
 
@@ -281,7 +281,7 @@ message_106:
       text: V minulém díle \"ZLATÍČKA HLEDÁ ZLATÍČKA\" jste viděli...\!<br>jak se naší milované princezně...\! opět...\! nepovedlo zamilovat do ani jednoho nápadníka!\smm #já bych je označil za nápadníky
 
 message_107:
-      text: Tentokrát...\! zde máme tři nové, velice přitažlivé soutěžící!\! Stane se jeden z nich zlatíčko našeho ZLATÍČKA?\! Pojďm si je představit!\smm #zakomponování názvu soutěže
+      text: Tentokrát...\! zde máme tři nové, velice přitažlivé soutěžící!\! Stane se jeden z nich zlatíčkem našeho ZLATÍČKA?\! Pojďme si je představit!\smm #zakomponování názvu soutěže, překlep
 
 #Contestant #1 comes out and makes a circle around the stage.
 
@@ -289,7 +289,7 @@ message_108:
       text: SOUTĚŽÍCÍ Č.1 je místní, tedy z VESNICE KLÍČKOKRTKŮ!\smm
 
 message_109:
-      text: Měří neuvěřitelných 914 centimetrů!\! Jeho oblíbené jídlo je \c[3]TOFU\c[0]. Vlastní obrovskou sbírku plastových plameňáků... a baví ho dlouhé procházky úzkými tunely!\smm
+      text: Měří neuvěřitelných 91,4 centimetrů!\! Jeho oblíbené jídlo je \c[3]TOFU\c[0]. Vlastní obrovskou sbírku plastových plameňáků... a baví ho dlouhé procházky úzkými tunely!\smm
 
 message_110:
       text: \Com[2]\{PROSÍM O POTLESK PRO SOUTĚŽÍCÍHO Č.1!\smm #pravopis
@@ -301,7 +301,7 @@ message_111:
       text: SOUTĚŽÍCÍ Č.2 je... Ano, správně!\! <br>Také místní!\smm
 
 message_112:
-      text: Ale pozor! Měří neuvěřitelných 944 centimetrů!\!<br>Jeho koníčky jsou chůze, běh a plížení!\smm
+      text: Ale pozor! Měří neuvěřitelných 94,4 centimetrů!\!<br>Jeho koníčky jsou chůze, běh a plížení!\smm
 
 message_113:
       text: Jeho oblíbená kombinace barev je hnědá se zelenou a své víkendy tráví válením se ve špinavém prádle!<br>\!Mmm... pikantní.\smm
@@ -333,10 +333,10 @@ message_119:
 #Lights dim.
 
 message_120:
-      text: \sinv[1]Oplývá...\| krásou... \|Vyzařuje...\| půvab...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm
+      text: \sinv[1]Oplývá...\| krásou... \|Září...\| půvabem...\|<br>Má...\| ten nejpůsobivější obličej ze všech...\smm #půvab na půvabem
 
 message_121:
-      text: Ano!\! Všichni víte, o kom mluvíme!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #trochu majestátnější, z "brzy" "teď"
+      text: Ano!\! Všichni víte, o kom je řeč!<br>\!Ztělesnění všeho úžasného a báječného... vstupuje mezi nás na toto pódium!\smm #trochu majestátnější, z "brzy" "teď", o kom
 
 message_122:
       text: Prosím...\! Velké, vřelé přivítání pro..<br>\!majestátní...\smm #pro
@@ -399,7 +399,7 @@ message_132:
 message_133:
       faceset: MainCharacters_DreamWorld
       faceindex: 42
-      text: ...\! No...\! Možná bychom se tam pro jistotu mohli podívat.\her
+      text: ...\! No...\! Možná bychom se tam pro jistotu měli podívat.\her
 
 # =========================================================================================
 # Cutscene: Sweetheart's Bachelor Contest (Cont.)

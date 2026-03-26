@@ -19,14 +19,14 @@ message_0:
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \Com[2]Ty brďo! To snad není pravda!\! BASILOVO \c[4]FOTOALBUM\c[0].\kel
+      text: \Com[2]Ty brďo! To se mi snad zdá!\! Vždyť to je BASILOVO \c[4]FOTOALBUM\c[0]!\kel #přiroz
 
 #KEL puts hand behind head.
 
 message_21:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: Jak by ho vůbec mohla takhle vyhodit?\!<br>Ještě že jsme tu popelnici prohledali.\kel
+      text: Jak by ho vůbec mohla takhle vyhodit?\!<br>Ještěže jsme tu popelnici prohledali.\kel
 
 message_22:
       faceset: MainCharacters_Faraway
@@ -116,7 +116,7 @@ message_52:
 message_53:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Ty jo, ty jsi teda vášnivý.\kel
+      text: Ty jo, ty jsi teda zapálený.\kel
 
 message_54:
       faceset: MainCharacters_Faraway
@@ -169,7 +169,7 @@ message_61:
 message_62:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Jinak, koukněte, jaký jsem tehdy byl malý. Haha!\kel
+      text: Jinak, koukejte, jaký jsem tehdy byl malý. Haha!\kel
 
 message_63:
       faceset: MainCharacters_Faraway
@@ -336,7 +336,7 @@ message_121:
 message_122:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Ham... ham... ham... ham...\! Takže, jak jsem říkal, <br> POLLY... \!Zítra... ham... \!<br>Se HERO, můj starší brácha, konečně vrátí z výšky\kel #viz výše
+      text: Ham... ham... ham... ham...\! Takže, jak jsem říkal,<br> POLLY... \!Zítra... ham... \!<br>Se HERO, můj starší brácha, konečně vrátí z výšky.\kel #viz výše
 
 message_123:
       faceset: MainCharacters_Faraway
@@ -354,7 +354,7 @@ message_125:
       text: Letos...\! ham...\! už budu... ham...\! <br>konečně já ten vyšší...\! <br>Už to... ham...\! cítím v kostech!\kel #přirozenější
 
 message_126:
-      text: Hehe...\! Určitě jste si spolu blízcí.\! <br>To je dobře...\! Rodina je důležitá!\n<POLLY>
+      text: Hehe...\! Vypadá, že si dost rozumíte.\! <br>To je dobře...\! Rodina je důležitá!\n<POLLY> #vypouštím spolu
 
 #KEL looks surprised.
 
@@ -400,7 +400,7 @@ message_133:
 message_134:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Omluvíte mě?\! Já...\! Musím si odskočit.\bas
+      text: Dáte mi chvilku?\! Já...\! Musím si odskočit.\bas #přiroz
 
 #BASIL gets up leaves the table.
 #KEL is confused.
@@ -408,7 +408,7 @@ message_134:
 message_135:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: Co mu je?\! ham...\! <br>No...\! tak to skrátka chodívá.\!<br>Když to přijde, tak to přijde!\kel
+      text: Co mu je?\! ham...\! <br>No...\! tak to zkrátka chodívá.\!<br>Když to přijde, tak to přijde!\kel
 
 message_136:
       text: \n<POLLY>BASIL chodí na ten záchod čím dál častěji.\!<br>Doufám, že to není tím mým jídlem...
@@ -461,7 +461,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Takže...\! <br>Kdybyste mě někdy potřebovala, POLLY, tady je moje adresa.\!<br>Je to jen o pár ulic vedle!\kel
+      text: Takže...\! <br>Kdybyste mě někdy potřebovala, POLLY, tady máte moji adresu.\!<br>Je to jen o pár ulic vedle!\kel
 
 message_172:
       text: Díky, KELI. Jsi zlatý.\n<POLLY>
@@ -484,7 +484,7 @@ message_174:
 message_190:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: SUNNY...\! Dík, žes se mnou šel dneska ven.\kel
+      text: SUNNY...\! Dík, žes se mnou dneska šel ven.\kel
 
 message_191:
       faceset: MainCharacter_Basil_dark
@@ -499,12 +499,12 @@ message_192:
 message_193:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Každopádně, s tím, že se HERO zítra vrátí, asi by ses mu mohl ukázat. Určitě by tě chtěl vidět, než se odstěhuješ.\kel
+      text: Každopádně, s tím, že se HERO zítra vrátí, by ses mu možná taky mohl ukázat. Určitě by tě chtěl vidět, než se odstěhuješ.\kel
 
 message_194:
       faceset: MainCharacter_Basil_dark
       faceindex: 8
-      text: Takže... Kdyby ti to nevadilo...\!<br>Zítra ráno pro tebe zase dojdu.\kel
+      text: Takže... Jestli by ti to nevadilo...\!<br>Zítra ráno pro tebe zase dojdu.\kel
 
 message_195:
       faceset: MainCharacter_Basil_dark
@@ -531,4 +531,4 @@ message_220:
 message_221:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: Vím, že už jsi u nás dlouho nebyl, ale teď není ta správná chvíle, heh heh...\!\kel #pravopis
+      text: Vím, že už jsi u nás dlouho nebyl, ale teď není ta správná chvíle, he he...\!\kel #pravopis, krusáda proti heh

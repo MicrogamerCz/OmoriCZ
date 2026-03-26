@@ -28,7 +28,7 @@ message_3:
       text: Tak...\! jak je na tom to vaše manželství?\kel
 
 message_4:
-      text: Ha!\! Manželství je jeden velký vtip!\! A s tamtou ostudou, která si říká KAPITÁN, jsem už dávno zkončila!\swh
+      text: Ha!\! Manželství je jeden velký vtip!\! A s tamtou ostudou, která si říká KAPITÁN, jsem už dávno skončila!\swh
 
 message_5:
       faceset: MainCharacters_DreamWorld
@@ -58,7 +58,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: To nemůžeš říct, ZLATÍČKO! <br>Ten pravý se pro tebe jistě někde najde!\her
+      text: Něco takového nemůžeš říct, ZLATÍČKO! <br>Ten pravý se pro tebe jistě někde najde!\her
 
 #SWEETHEART turns to HERO.
 
@@ -226,7 +226,7 @@ message_79:
 #BENDA appears in front of AUBREY.
 
 message_80:
-      text: Ts...\! Jak drzé...\n<BENDA>
+      text: Ts...\! Jaká drzost...\n<BENDA> #přiroz
 
 #HERO walks toward the center of the map and looks around.
 
@@ -238,7 +238,7 @@ message_81:
 #BENDA appears in front of HERO.
 
 message_82:
-      text: Doleva...\! Doprava...\! Nahoru...\! Dokola...\! <br>Záleží na tom vůbec?\! Všechny cesty vedou dopředu, ne?\! <br>Jen si něco vyberte! Je to hračka!\n<BENDA>
+      text: Doleva...\! Doprava...\! Nahoru...\! Dokola...\! <br>Záleží na tom vůbec?\! Všechny cesty vedou dál, ne?\! <br>Jen si něco vyberte! Je to hračka!\n<BENDA>
 
 message_83:
       text: \n<BENDA>\{\sinv[1]KUKYKŮŮŮŮŮK~!! #univerzálnější, tohle využívá celkem často

@@ -28,10 +28,10 @@ message_4:
 message_5:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Nedělej si s tím hlavu, mami. Na co máme přece mikrovlnky?!\kel
+      text: Nedělej si s tím hlavu, mami. Na co máme doma mikrovlnku?!\kel
 
 message_6:
-      text: \com[2]\sinv[1]Áááááaaac\{hhh!\! MÁ UBOHÁ VEČEŘE!!\n<KELOVA MAMKA>
+      text: \com[2]\sinv[1]Áááááaaac\{hhh!\! CHUDÁK VEČEŘE!!\n<KELOVA MAMKA>
 
 #KELŮV TÁTA walks up to KELOVA MAMKA.
 
@@ -49,7 +49,7 @@ message_9:
 #KELŮV TÁTA walks up to HERO.
 
 message_10:
-      text: Rád tě zase vidím, chlape.\n<KEL's DAD>
+      text: Rád tě zase vidím, chlape.\n<KELŮV TÁTA>
 
 message_11:
       faceset: MainCharacters_Faraway
@@ -57,7 +57,7 @@ message_11:
       text: Díky, tati.\her
 
 message_12:
-      text: Fňuk...\n<KEL's MOM>
+      text: Fňuk...\n<KELOVA MAMKA>
 
 message_13:
       text: Ale jo. Tvůj táta má pravdu. Teď nestojí za to fňukat.\n<KELOVA MAMKA>
@@ -141,12 +141,12 @@ message_47:
 message_48:
       faceset: MainCharacters_Faraway
       faceindex: 28
-      text: Jo, tentokrát jsme dělali všecko spolu.\!<br>Chodili jsme spolu do parku, k rybníku, na pláž...\! Ale nejvíc mi z toho upřímně chybí, jak jsme chodili k tobě, SUNNY!\her
+      text: Jo, tenkrát jsme dělali všecko spolu.\!<br>Chodili jsme spolu do parku, k rybníku, na pláž...\! Ale nejvíc mi z toho upřímně chybí, jak jsme chodili k tobě, SUNNY!\her
 
 message_49:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Vy jste tam měli snad všechno...\!<br>Velká televize, nejnovější hračky, klavír...\!<br>a hlavně ten dům na stromě!\her
+      text: Vy jste tam měli snad všechno...\!<br>Velkou televizi, nejnovější hračky, klavír...\!<br>a hlavně ten dům na stromě!\her
 
 message_50:
       faceset: MainCharacters_Faraway
@@ -263,12 +263,12 @@ message_87:
 #KELOVA MAMKA is surprised.
 
 message_88:
-      text: Cože?\! Vždyť jste teprve teď přišli!\! A už je tak pozdě...\! <br>Co kdybyste radši chvilku strávili se svou mamkou?\n<KELOVA MAMKA>
+      text: Cože?\! Vždyť jste teprve teď přišli!\! A už je tak pozdě...\! <br>Co kdybyste radši chvilku strávili se svou maminkou?\n<KELOVA MAMKA>
 
 message_89:
       faceset: MainCharacters_Faraway
       faceindex: 32
-      text: Dívej, já tady budu celý zbytek léta, to SUNNY odjíždí!\!<br>My toho ještě spolu stihneme dost...\her
+      text: Dívej, já tady budu celý zbytek léta, zatímco SUNNY pozítří odjíždí!\!<br>My toho ještě spolu stihneme dost...\her
 
 #KELŮV TÁTA walks up to KELOVA MAMKA.
 

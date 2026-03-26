@@ -18,7 +18,7 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: MAMKA mě poslala nakoupit na \c[11]NÁMĚSTÍ\c[0], než přijede, a...\! Napadlo mě, že by to mohla být větší sranda, kdybys šel se mnou!\kel
+      text: MAMKA mě poslala nakoupit do \c[11]OBCHOĎÁKU\c[0], než přijede, a...\! Napadlo mě, že by to mohla být větší sranda, kdybys šel se mnou!\kel #obchoďák
 
 message_3:
       faceset: MainCharacters_Faraway
@@ -30,7 +30,7 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Takže...\! Pokud si to správně pamatuju, měli bychom se stavit v \c[11]GINOVĚ PIZZERII\c[0] a ještě do pekárny v \c[11]HUBERTU\c[0]...\! Veď, SUNNY!\kel #pravopis. a stále oceňuji Hubert
+      text: Takže...\! Pokud jsem si to správně zapamatoval, měli bychom se stavit v \c[11]GINOVĚ PIZZERII\c[0] a pak ještě do pekárny v \c[11]HUBERTU\c[0]...\! Veď, SUNNY!\kel #pravopis. a stále oceňuji Hubert
 
 
 # =========================================================================================
@@ -40,7 +40,7 @@ message_4:
 #Trigger: Enter GINO's Pizza.
 
 message_20:
-      text: \c[11]GINOVA PIZZERIE\c[0] je BOMBA!\! Tohle je teprv řádná, umazaná, mazlavá pizza... přesně podle mého gusta!\kim
+      text: \c[11]GINOVA PIZZERIE\c[0] je fakt BOMBA!\! Tohle je teprv řádná, umazaná, mazlavá pizza... přesně podle mého gusta!\kim
 
 message_21:
       text: \Com[2]\{DOBROU CHUŤ!!\kim #přeloženo
@@ -70,7 +70,7 @@ message_29:
       text: Ha.\! Ham...\! Ať děláš co můžeš, AUBRYIN rekord nepřekonáš!\mav
 
 message_30:
-      text: Sklapni, MICHAELI!\! Děláš, jako by s tam s tebou ty holky...\! ham...\! fakt chtěly bez toho, že bys jim za to platil!\kim #bez i
+      text: Sklapni, MICHAELI!\! Děláš, jako by tam s tebou ty holky...\! ham...\! fakt chtěly bez toho, že bys jim za to platil!\kim #bez i
 
 message_31:
       text: Říkál jsem ti, že mi máš říkat STŘE- <br>\{\Com[2]\quake[1]AUU!!\! \Com[2]KOUFL FEM FE DO JAFYKA!!\mav
@@ -107,7 +107,7 @@ message_60:
 message_61:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: To by mělo být všecko, a právě v čas.\! <br>Už zapadá slunce!\kel #přirozenější
+      text: To by mělo být všecko, a zrovna včas.\! <br>Už zapadá slunce!\kel #přirozenější
 
 message_62:
       faceset: MainCharacters_Faraway
@@ -133,7 +133,7 @@ message_64:
 message_80:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Než půjdeme dovnitř...\! bych ti chtěl říct, že se na mě mamka asi bude zlobit s tím, jak dlouho nám trvalo nakoupit.\kel
+      text: Než půjdeme dovnitř...\! bych ti možná měl říct, že se na mě mamka asi bude zlobit, když nám tak dlouho trvalo nakoupit.\kel #přiroz
 
 message_81:
       faceset: MainCharacters_Faraway
@@ -153,7 +153,7 @@ message_83:
 message_84:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Vidíš? Výhra v každém případě! Ha, ha!\!<br>Jasný?\! Dobře, jdeme!\kel
+      text: Vidíš? Výhra v každém ohledu! Ha, ha!\!<br>Jasný?\! Dobře, jdeme!\kel
 
 # =========================================================================================
 # Cutscene: Dropping off Stuff at Kel's
@@ -168,15 +168,15 @@ message_100:
       text: \{\{\sinv[1]MAMI, SUNNY PŘIŠEL!!\kel
 
 message_101:
-      text: \Com[2]Kde ses tak dlouho flákal, KELI? Vždyť jsem tě vyslala ráno! <br>To je tak těžké dojít pro pár sandwi-\n<KEL'S MOM>
+      text: \Com[2]Kde ses tak dlouho flákal, KELI? Vždyť jsem tě vyslala ráno! <br>To je tak těžké dojít pro pár sendvi-\n<KELOVA MAMKA>
 
 message_102:
-      text: Počkat... tohle že je SUNNY?\! No... musí být!\n<KEL'S MOM>
+      text: Počkat... tohle že je SUNNY?\! No... musí být!\n<KELOVA MAMKA>
 
 message_103:
-      text: Tak ráda tě tady zase vidím!\! Ale... jsi tak vyhublý... Jedls pořádně?\n<KEL'S MOM>
+      text: Tak ráda tě tady zase vidím!\! Ale... jsi tak vychrtlý... Jedls vůbec?\n<KELOVA MAMKA>
 
-#KEL drops off groceries near KEL'S MOM.
+#KEL drops off groceries near KELOVA MAMKA.
 
 message_104:
       faceset: MainCharacters_Faraway
@@ -193,7 +193,7 @@ message_105:
 #KEL pushes PLAYER toward the hallway.
 
 message_106:
-      text: \Com[2]Chviličku, mladý muži-\n<KEL'S MOM>
+      text: \Com[2]Chviličku, mladý muži-\n<KELOVA MAMKA>
 
 message_107:
       faceset: MainCharacters_Faraway
@@ -247,7 +247,7 @@ message_125:
       text: SALLY je moje mladší sestra.\! Mamka ji asi na večeři vezme ke stolu.\! Je hrozně malá a roztomilá, ha ha!\kel
 
 message_126:
-      text: \Com[2]KELI!\! U dveří je nějaká holka! <br>Prý že jde za tebou!\n<KEL'S MOM>
+      text: \Com[2]KELI!\! U dveří je nějaká holka! <br>Prý že jde za tebou!\n<KELOVA MAMKA>
 
 #KEL is confused.
 
@@ -277,7 +277,7 @@ message_143:
       text: Ne, nevadí, v pořádku!\! Určitě...\! Určitě se nakonec ukáže.\! <br>Ráno kamsi utekl a už se neukázal...\n<POLLY>
 
 message_144:
-      text: Kdybyste ho viděli, řekli byste mu prosím, ať se vrátí domů?\!<br>Mám o něj vážně strach.\n<POLLY>
+      text: Kdybyste ho viděli, řekli byste mu prosím, ať se vrátí domů?\!<br>Mám o něj opravdu strach.\n<POLLY>
 
 message_145:
       faceset: MainCharacters_Faraway
@@ -297,7 +297,7 @@ message_147:
 message_148:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její tlupu.\! <br>Měli bychom se ho pokusit najít, než se setmí.\kel #přirozenější
+      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její bandu.\! <br>Měli bychom se ho pokusit najít, než se setmí.\kel #přirozenější, revert na bandu
 
 #KEL turns around.
 
@@ -307,10 +307,10 @@ message_149:
       text: Můžeme ho jít hledat, mami?\! Prosíím?\kel
 
 message_150:
-      text: No...\! Ta holka vypadala, že o něj měla vážně strach.\!<br>\sinv[1]Uff...\sinv[0]\! Dobře.\! Ale koukejte se vrátit na večeři!\n<KEL'S MOM>
+      text: No...\! Ta holka vypadala, že o něj měla vážně strach.\!<br>\sinv[1]Uff...\sinv[0]\! Dobře.\! Ale koukejte se vrátit na večeři!\n<KELOVA MAMKA>
 
 message_154:
-      text: Koukejte se vrátit na večeři!\! Minulý rok mi to stačilo!\n<KEL'S MOM>
+      text: Koukejte se vrátit na večeři!\! Minulý rok mi to stačilo!\n<KELOVA MAMKA>
 
 
 
@@ -328,7 +328,7 @@ message_151:
 message_152:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její tlupu.\!\kel #konzistence
+      text: BASIL se ztratil?\! To se mi nechce líbit...\!<br>a už vůbec ne když do toho započítáme AUBRY a její bandu.\!\kel #revert
 
 message_153:
       faceset: MainCharacters_Faraway

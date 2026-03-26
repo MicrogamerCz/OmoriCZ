@@ -30,12 +30,12 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Kruci písek!... \Com[2]Co to mělo bejt, AUBRY!?\!<br>Zkazila si nám karty!\!<br>A zrovna, když jsem vyhrával!\kel #za mě plynulejší
+      text: Kruci písek!... \Com[2]Co to mělo bejt, AUBRY!?\!<br>Zkazilas nám karty!\!<br>A zrovna, když jsem vyhrával!\kel #za mě plynulejší, zkazilas
 
 message_4:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: No tak, KELI, nerozčiluj se.\!<br>Je to přece jenom hra.\her #zní přirozeněji
+      text: No tak, KELI, nerozčiluj se.\!<br>Vždyť je to jenom hra.\her #zní přirozeněji. 2X
 
 #KEL looks at HERO
 
@@ -56,12 +56,12 @@ message_6:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubPročpak je na mě \n[3] pořád tak zlý!?\! <br>Slyšel jsi o tom, jak mi teď nedávno ukradl můj \c[13]PLYŠOVÝ LILEK\c[0] a kdesi ho schoval? #Nezněl by plysový lilek lépe? Vycpaný se myslím více užívá u skutečných zvířat, které byly zabity a vycpány. Sice by to slovo tady asi taky sedělo, ale když nad tím popřemýšlím, tak mi tam plyšový sedí lépe.
+    text: \aubPročpak je na mě \n[3] pořád tak zlý!?\! <br>Teď mi zase ukradl můj \c[13]PLYŠOVÝ LILEK\c[0] a kdesi ho schoval. #Nezněl by plysový lilek lépe? Vycpaný se myslím více užívá u skutečných zvířat, které byly zabity a vycpány. Sice by to slovo tady asi taky sedělo, ale když nad tím popřemýšlím, tak mi tam plyšový sedí lépe.
 
 message_11:
     faceset: MainCharacters_DreamWorld
     faceindex: 10
-    text: \aubProč by to dělal?\! Neposeda jeden\! <br>Co jsem mu kdy vůbec udělala!? #za mě zní přirozeněji
+    text: \aubProč mi to dělá?\! Neposeda jeden!\! <br>Co jsem mu kdy vůbec udělala!? #za mě zní přirozeněji, proč mi to dělá
 
 message_12:
     faceset: MainCharacters_DreamWorld
@@ -76,7 +76,7 @@ message_12:
 message_13:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kelTy jo, \n[1], koukej, co jsem našel!
+    text: \kelHej \n[1]! Koukej, co jsem našel! #tý jo na čau - blíže orig
 
 message_14:
     faceset: MainCharacters_DreamWorld
@@ -96,7 +96,7 @@ message_16:
 message_126:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kel\}Jo a, jen tak mezi náma...\!<br>Můžeš se s ním vidět kdykoliv se podíváš do mého VYBAVENÍ přes MENU!
+    text: \kel\}Jo a, jen tak mezi náma...\!<br>Můžeš se na něj podívat, kdykoliv se podíváš do mého VYBAVENÍ přes MENU! #s ním vidět na na něho podívat
 
 message_17:
     faceset: MainCharacters_DreamWorld
@@ -115,7 +115,7 @@ message_18:
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] a \n[2] se spolu zase nepřestanou prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #osobně si myslím, že pytel blech lépe sedí
+    text: \her\n[3] a \n[2] se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #osobně si myslím, že pytel blech lépe sedí
 
 # =========================================================================================
 # Cutscene: STUFFED TOY
@@ -126,7 +126,7 @@ message_19:
 message_27:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: Že by?\! Není to snad...?\aub #zní přirozeněji
+      text: Že by?\! To je přece...?\aub #zní přirozeněji, není to snad na to je přece
 
 #AUBREY does a twirl.
 
@@ -145,7 +145,7 @@ message_29:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: \Com[2]Sakra!...\! Jak jsi ho našla?\kel
+      text: \Com[2]Sakra!...\! Kdes ho našla?\kel #jak jsi na kdes
 
 message_31:
       faceset: MainCharacters_DreamWorld
@@ -194,7 +194,7 @@ message_37:
 message_38:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubDíky, \n[1]! Věděla jsem, že je na tebe spoleh.\!<br>Jsi nejlepší!
+    text: \aubDíky, \n[1]! Věděla jsem, že je na tebe spoleh.\!<br>Jsi zlatíčko! #přiroz
 
 # =========================================================================================
 # Hero's Dialogue after Omori gives Aubrey PlantEgg
@@ -282,7 +282,7 @@ message_61:
 message_62:
       faceset: MainCharacters_DreamWorld
       faceindex: 8
-      text: KELI, přestaň blbnout a koukej mi pomoct!\aub
+      text: KELI, neblbni a koukej mi pomoct!\aub #přestaň blbnout na neblbni
 
 message_63:
       faceset: MainCharacters_DreamWorld
@@ -352,7 +352,7 @@ message_93:
 message_94:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: (ufff)\! Tak už se konečně zklidněte, vy dva.\!<br>\}Proč to vždycky dopadá takhle?\her
+      text: ufff\! Tak už se konečně uklidněte, vy dva.\!<br>\}Proč to vždycky dopadá takhle?\her #uklidněte, vypouštění závorek pro konzistenci s pozdějším textem
 
 message_95:
       faceset: MainCharacter_Mari
@@ -372,7 +372,7 @@ message_97:
 message_98:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš jaký jsi hezký když se zarazíš?!\mar #plynulejší
+      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš, jaký jsi hezký, když se zarazíš?!\mar #plynulejší, čárky
 
 message_99:
       faceset: MainCharacters_DreamWorld
@@ -387,7 +387,7 @@ message_100:
 message_101:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Zatímco jsme na vás čekali, projížděla jsem si s BASILEM jeho \c[4]FOTOALBUM\c[0]!\! Chtěli byste se přidat?\mar
+      text: Zatímco jsme na vás čekali jsem si projížděla s BASILEM jeho \c[4]FOTOALBUM\c[0]!\! Chtěli byste se přidat?\mar #menší změna slovosledu
 
 message_102:
       faceset: MainCharacters_DreamWorld
@@ -416,12 +416,12 @@ message_105:
 message_106:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Ty je rád fotíš když to nečekají a chovají se přirozeně, že, BASILE?\her
+      text: Ty rád fotíš, když se lidé chovají přirozeně, jakoby nebyli před foťákem, že, BASILE?\her #kompletní předělávka - ne opakování, blíže originálu
 
 message_107:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: Jo...\! Na tom, jak si všichni jen žijeme své životy je cosi tak kouzelného.\! Přesně takové chvíle bych chtěl zachytit!\bas
+      text: Jo...\! Na tom, jak si všichni žijeme je něco tak kouzelného.\! Přesně takové chvíle bych chtěl zachytit!\bas
 
 message_108:
       faceset: MainCharacters_DreamWorld
@@ -443,12 +443,12 @@ message_110:
 message_111:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: Ukázal bys nám teda svoje \c[4]FOTOALBUM\c[0], BASILE?\mar
+      text: Ukázal bys nám teda to svoje \c[4]FOTOALBUM\c[0], BASILE?\mar #přidávka "to"
 
 message_112:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: No tak dobře...\! i když na něm nic moc není.\bas
+      text: No tak dobře...\! i když vlastně není nic moc.\bas #na něm nic moc není - není nic moc
 
 message_113:
       faceset: MainCharacters_DreamWorld
@@ -458,7 +458,7 @@ message_113:
 message_114:
       faceset: MainCharacter_Basil
       faceindex: 6
-      text: Más pravdu, AUBRY.\!<br>Promiň...\! Zkusím si pro příště možná trochu víc věřit.\bas
+      text: Máš pravdu, AUBRY.\!<br>Promiň...\! Zkusím si pro příště možná trochu víc věřit.\bas #překlep
 
 #Basil takes out PHOTO ALBUM.
 #Party surrounds Basil, except Kel.
@@ -471,7 +471,7 @@ message_115:
 message_116:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Tyhle fotky jsou vážne kouzelné, BASILE.\!<br>Umíš vždycky skvěle vystihnout moment!\her
+      text: Tyhle fotky jsou opravdu kouzelné, BASILE.\!<br>Umíš vždycky skvěle vystihnout moment!\her #vážně na opravdu
 
 message_117:
       faceset: MainCharacter_Basil
@@ -503,7 +503,7 @@ message_120:
 message_121:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Jižně od hřiště, že?\her
+      text: Na jih od hřiště, že?\her #na jih od hřiště místo jižně
 
 message_122:
       faceset: MainCharacter_Basil

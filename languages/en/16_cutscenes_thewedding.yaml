@@ -40,7 +40,7 @@ message_5:
       text: Dnešní den nemá v dějínách našeho království obdoby.\smm #den je den, jenž je nadbytečné
 
 message_6:
-      text: Po čtyřiceti dvou sezónách <br>\"ZLATÍČKA HLEDÁ ZLATÍCKO\"...\!<br>Nadešel čas odvysílat poslední díl.\smm
+      text: Po čtyřiceti dvou řadách pořadu <br>\"ZLATÍČKO HLEDÁ ZLATÍČKA\"...\!<br>Nadešel čas na poslední díl.\smm
 
 #Audience awwws.
 
@@ -54,7 +54,7 @@ message_10:
       text: Ale pokaždé...\!<br>se ZLATÍČKU nepodařilo najít svou pravou životní lásku.\smm #menší úprava
 
 message_11:
-      text: Ale tentokrát věříme...\!<br>že jsme se překonali.\smm
+      text: Ale tentokrát věřím...\!<br>že jsme se překonali.\smm #věříme na věřím
 
 message_12:
       text: Tohle je...\! chvíle všech chvil...\!<br>Zde...\! se začínají psát nové dějiny.\smm
@@ -120,7 +120,7 @@ message_23:
 message_24:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Nesměj se jí, KELI!\! Vlastně...\! ji celkem lituju.\aub
+      text: Nesměj se jí, KELI!\! Vlastně...\! mi jí je celkem líto.\aub
 
 #Camera pans to the stage.
 
@@ -151,13 +151,13 @@ message_30:
 message_31:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: Nedělej to, ZLATÍČKO!\!<br>Tahle svatba je jeden velký trapas...\! Chápu, že mít se ráda je důležité...<br>ale co je moc, to je moc!\aub #rod
+      text: Nedělej to, ZLATÍČKO!\!<br>Tahle svatba je jeden velký trapas...\! Chápu, že mít se ráda je důležité...<br>ale co je moc, to je moc!\aub #rod, za mě lepší slovní obrat
 
 #Camera pans to SWEETHEART.
 #SWEETHEART jumps.
 
 message_32:
-      text: \{UŽ ZASE TY!!\}<br>Jak si dovoluješ sem vůbec znovu vkráčet?!\swh
+      text: \{UŽ ZASE TY!!\}<br>Jak si dovoluješ sem vůbec znovu vkročit?!\swh
 
 message_33:
       text: \{\{\Com[2]STRÁŽE!?\! \Com[2]STRÁŽE!?!?\swh
@@ -348,7 +348,7 @@ message_79:
       text: \sinv[1]Ach, ZLATÍČKO!\! Mé ZLATÍČKO!\!<br>Můj sladký, marmeládou plněný koblížku!\cap #tohle celé budeme asi muset dříve nebo později předělat. do teď měním džem na marmeládu, kterou jsou u nás koblihy často plněny
 
 message_80:
-      text: Prosím, prohlédni své srdce a dej mi druhou šanci.\cap #spíš "mé" srdce, ne?
+      text: Prosím, zahledej ve svém srdci a dej mi druhou šanci.\cap #spíš "mé" srdce, ne?
 
 message_81:
       text: Neměl jsem tě nechat tak dlouho samotnou.\cap
@@ -374,10 +374,10 @@ message_87:
       text: Ano! Rozkaz, Vaše Veličenstvo!\smm #vaše veličenstvo
 
 message_88:
-      text: \}Vážení a Drazí! Dnes se setká-\smm #konzistence
+      text: \}Vážení a drazí! Dnes se setká-\smm #konzistence, malé d
 
 message_89:
-      text: Kašli na ty formality, MICHALE! <br>Pravá láska nemůže přece čekat!\swh
+      text: Kašli na ty formality, MICHALE! <br>Pravá láska nepočká!\swh
 
 #SMM sweats.
 
@@ -388,7 +388,7 @@ message_91:
       text: Tedy...\smm
 
 message_92:
-      text:Prohlašuji vás za...<br>\!\{\Com[2]ZLATÍČKO A VESMÍRNÉHO MANŽELA!\smm #asi se pak budu muset podívat na formality svatby, už jsem dlouho na žádné nebyl
+      text: Prohlašuji vás za...<br>\!\{\Com[2]ZLATÍČKO A VESMÍRNÉHO MANŽELA!\smm #asi se pak budu muset podívat na formality svatby, už jsem dlouho na žádné nebyl
 
 message_93:
       text: A nyní je čas na novomanželský polibek!\smm
@@ -432,7 +432,7 @@ message_103:
       text: Teď jsem připravena, můj milý.\swh
 
 message_104:
-      text: Konečně můžeme být znovu spolu...\!<br>\sinv[1]Pojď, má královno! Náš kočár čeká!\n<VESMÍRNÝ MANŽEL>
+      text: Konečně můžeme být zase spolu...\!<br>\sinv[1]Pojď, má královno! Náš kočár čeká!\n<VESMÍRNÝ MANŽEL>
 
 #SWEETHEART and SPACEHUSBAND board his ship and fly away.
 #Camera pans back to party.
@@ -448,7 +448,7 @@ message_105:
 message_106:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: Jo...\! Tohle celé byla celkem ztráca času.\kel
+      text: Jo...\! Tohle celé byla celkem ztráta času.\kel
 
 message_107:
       faceset: MainCharacters_DreamWorld
