@@ -120,15 +120,30 @@ public partial class MainWindow : Window
             Message = "Získávání nejnovější verze OneLoaderu";
             string? oneloaderUrl = await GetLatestReleaseZipAssetUrl("rphsoftware", "OneLoader");
             if (string.IsNullOrEmpty(oneloaderUrl)) {
-                Environment.Exit(1);
+                Message = "[DEBUG] URL pro stažení Oneloaderu neexistuje";
+                // Environment.Exit(1); // TODO: notify about error
                 return;
             }
 
             Message = "Stahování nejnovější verze OneLoaderu";
-            using Stream oneloaderStream = await client.GetStreamAsync(oneloaderUrl);
-            
+            Stream oneloaderStream;
+            try {
+                oneloaderStream = await client.GetStreamAsync(oneloaderUrl);
+            }
+            catch (Exception ex) {
+                Message = $"[DEBUG] {ex.GetType().Name}: {ex.Message}";
+                return;
+            }
+
             Message = "Instalace nejnovější verze OneLoaderu";
-            await Task.Run(() => ZipFile.ExtractToDirectory(oneloaderStream, installDir, null, true));
+            try {
+                await Task.Run(() => ZipFile.ExtractToDirectory(oneloaderStream, installDir, null, true));
+            }
+            catch (Exception ex) {
+                Message = $"[DEBUG] {ex.GetType().Name}: {ex.Message}";
+                oneloaderStream.Close();
+                return;
+            }
 
             oneloaderStream.Close();
         }
@@ -136,15 +151,23 @@ public partial class MainWindow : Window
         Message = "Získávání překladu";
         string? translationUrl = await GetLatestReleaseZipAssetUrl("MicrogamerCz", "OmoriCz");
         if (string.IsNullOrEmpty(translationUrl)) {
-            Environment.Exit(1);
+            Message = "[DEBUG] URL pro stažení Překladu neexistuje";
+            // Environment.Exit(1);
             return;
         }
 
         Message = "Stahování překladu";
 
         wc.DownloadProgressChanged += (_, e) => LoadValue = e.ProgressPercentage / 10 + 1;
-        byte[] translationZip = await wc.DownloadDataTaskAsync(translationUrl);
-        
+        byte[] translationZip;
+        try {
+            translationZip = await wc.DownloadDataTaskAsync(translationUrl);
+        }
+        catch (Exception ex) {
+            Message = $"[DEBUG] {ex.GetType().Name}: {ex.Message}";
+            return;
+        }
+
         Message = "Instalace překladu";
         using Stream stream = new MemoryStream(translationZip);
 
