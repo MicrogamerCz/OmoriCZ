@@ -1,10 +1,10 @@
 #=========================================================================================
 # Updated at 06/25/2021
-# This file has been created by BLUEMOON for exporting all the hardcoded strings 
+# This file has been created by BLUEMOON for exporting all the hardcoded strings
 # from JS files.
 #
-# Just for a good memo, some strings are incapsulated in "" quotes because they have 
-# : inside the string. 
+# Just for a good memo, some strings are incapsulated in "" quotes because they have
+# : inside the string.
 #=========================================================================================
 
 # =========================================================================================
@@ -15,7 +15,7 @@
 # WARNING! This feature is not available for console releases for rights problems.
 # =========================================================================================
 
-OMOCAT: 
+OMOCAT:
   text: OMOCAT
 
 # =========================================================================================
@@ -120,7 +120,7 @@ Pluto_Ride_Names:
 # =========================================================================================
 # QUEST NAMES
 #
-# Those are the quest names in-game. Originally, those names were taken from the 
+# Those are the quest names in-game. Originally, those names were taken from the
 # XX_QUEST.YAML file. However, I have decided to NOT EDIT it as I fear problems with
 # other stuff I may not know. So, I have decided to apply Quest Names here and to make
 # a small edito to OMORI QUEST MENU.
@@ -209,7 +209,7 @@ Omori_Mainmenu_Sceneskill:
   swap: VYMĚNIT
 
 # =========================================================================================
-# OMORI MAIN MENU 
+# OMORI MAIN MENU
 # =========================================================================================
 
 Omori_Mainmenu:
@@ -278,7 +278,7 @@ Omori_Title_Screen:
 
 # =========================================================================================
 # YIN PIZZA MINIGAME
-# As I have not coded this plugin myself, I'm trying to imagine the logic of the 
+# As I have not coded this plugin myself, I'm trying to imagine the logic of the
 # original coder. - BLUEMOON
 # =========================================================================================
 
@@ -329,7 +329,7 @@ Yin_Pizza_Delivery:
         "Take The Pizza To The House That Has The ",
         "Find The House With The ",
         "Can You Find The House With The ",
-        "Take This Pizza To The House With The ", 
+        "Take This Pizza To The House With The ",
         "Take This Pizza Down The Street To The House With The ",
         "Please Find The House With The ",
         "This Pizza Goes To The House That Has The ",
@@ -348,12 +348,12 @@ Yin_Pizza_Delivery:
   # some kind of mispelling/grammar problem. If you think that this is not
   # needed in the localization by any chance, just leave void the strings
   # this way ["", ""]
-  theNo: ["The No", "No"] 
+  theNo: ["The No", "No"]
 
 # =========================================================================================
 # UI_CONFIGURATION
 # In the object below, you can edit some settings related to some UI parts of the game
-# that were originally edited directly in the source code. 
+# that were originally edited directly in the source code.
 # =========================================================================================
 # LanguageManager.getMessageData("XX_BLUE.Window_Base")
 
@@ -415,7 +415,7 @@ Scene_OmoriTitleScreen:
   commandHints_cancel_position: ["iconSize*2 + 20 + this._commandHints.bitmap.measureTextWidth(confirm)", "paddingY"] # OMORI TITLE SCREEN line 214
   gameVersion_position: [0,0] # OMORI TITLE SCREEN line 234
   gameVersion_fontsize: 24 # OMORI TITLE SCREEN line 235
-  
+
 Window_OmoTitleScreenBox:
   refresh_contents_fontsize: 28 # OMORI TITLE SCREEN line 1134
   refresh_drawText_position: [0, -13] # OMORI TITLE SCREEN line 1140

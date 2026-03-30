@@ -94,7 +94,7 @@ Bitmap.prototype.keyIconRects = function(key, type = this.defaultInputIcons(), s
     let vendorRect = this.determineVendorRect();
     rects.up.x -= vendorRect;
     rects.down.x -= vendorRect;
-  }  
+  }
   return rects;
 };
 //=============================================================================
@@ -686,8 +686,8 @@ ConfigManager.applyData = function(config) {
   if (Input.keyMapper === undefined) { this.setDefaultKeyboardKeyMap(); };
   if (Input.gamepadMapper === undefined) { this.setDefaultGamepadKeyMap(); };
   // If Full Screen Request full screen
-  if (config.fullScreen) { 
-    Graphics._requestFullScreen(); 
+  if (config.fullScreen) {
+    Graphics._requestFullScreen();
   }
   else {
     Yanfly.updateResolution();
@@ -3872,7 +3872,7 @@ Window_OmoMenuHelp.prototype.refresh = function() {
     this.drawText(this._item.name, 6, -6 + itemfix, 200);
     this.contents.fontSize = 16; //20
     // replace with drawtextex
-    
+
     this.drawTextEx(this._item.description, 6, +28 + itemfix, 28); // CHANGE: Item descriptions text (6, +28, 28)
     // Get Icon width
     var width = 106 * this._iconRate;
@@ -3971,11 +3971,11 @@ Window_OmoWindowIndexCursor.prototype.setText = function(text) {
 Window_OmoWindowIndexCursor.prototype.refresh = function() {
   // Clear Contents
   let fontSize = LanguageManager.getMessageData("XX_BLUE.Window_OmoWindowIndexCursor").refresh_contents_fontsize;
-  this.contents.fontSize = fontSize; // Change: Selection Text Size
+  this.contents.fontSize = 16; //fontSize; // Change: Selection Text Size
   this.width = this.textWidth(this._text) + (this.standardPadding() * 2) + 10;
   this.createContents()
   this.contents.clear();
-  this.contents.fontSize = fontSize; // Change: Selection Text Size
+  this.contents.fontSize = 16; //fontSize; // Change: Selection Text Size
   // Draw Text
   const loc_position = LanguageManager.getMessageData("XX_BLUE.Window_OmoWindowIndexCursor").refresh_draw_text_position;
   this.drawText(this._text, loc_position[0], loc_position[1], this.contents.width, 'center');
@@ -5118,7 +5118,7 @@ Scene_Gameover.prototype.createRetryWindows = function() {
     let win = new Window_Base(0, 0, 0, 0);
     win.standardPadding = function() { return 4; };
     win.initialize(0, 0, win.contents.measureTextWidth(text[i]) + win.standardPadding() * 4, 32)
-    win.contents.fontSize = 20;
+    win.contents.fontSize = 16;//20;
 
     win.x = Math.floor(Graphics.boxWidth / 2.6) + i * 100
     win.y = 382;
@@ -6643,5 +6643,3 @@ Spriteset_Map.prototype.updateLightAmbienceOverlay = function() {
   };
 
 })();
-
-
