@@ -4219,7 +4219,7 @@
   ],
   "versionId": 35599841,
   "victoryMe": { "name": "xx_victory", "pan": 0, "pitch": 100, "volume": 90 },
-  "weaponTypes": ["", "OMORI", "AUBREY", "KEL", "HERO", "NORMAL"],
+  "weaponTypes": ["", "OMORI", "AUBRY", "KEL", "HERO", "NORMAL"],
   "windowTone": [0, 0, 0, 0],
   "hasEncryptedImages": true,
   "hasEncryptedAudio": true,
