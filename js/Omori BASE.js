@@ -4663,7 +4663,7 @@ _TDS_.OmoriBASE.Window_ChoiceList_updatePlacement = Window_ChoiceList.prototype.
 Window_ChoiceList.prototype.isUsingCustomCursorRectSprite = function() { return true; }
 Window_ChoiceList.prototype.standardPadding = function() { return 10; };
 Window_ChoiceList.prototype.customCursorRectTextXOffset = function() { return 32; }
-Window_ChoiceList.prototype.customCursorRectTextYOffset = function() { return -2; }
+Window_ChoiceList.prototype.customCursorRectTextYOffset = function() { return -10; }
 Window_ChoiceList.prototype.lineHeight = function() { return 22; }; // 30 選択肢高さ
 Window_ChoiceList.prototype.standardFontSize = function() { return LanguageManager.getMessageData("XX_BLUE.Window_ChoiceList").standardFontSize; };
 //=============================================================================
