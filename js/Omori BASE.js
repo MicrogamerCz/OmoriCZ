@@ -4412,7 +4412,7 @@ Window_Message.prototype.closeSpeed = function() { return 25; };
 //=============================================================================
 Window_Message.prototype.calcTextHeight = function(textState, all) {
   // Return Original Value Plus Offset
-  return _TDS_.OmoriBASE.Window_Message_calcTextHeight.call(this, textState, all) + 4;　// - 7　メッセージウィンドウ行数
+  return _TDS_.OmoriBASE.Window_Message_calcTextHeight.call(this, textState, all) - 7;// + 4;　// - 7　メッセージウィンドウ行数
 };
 //=============================================================================
 // * Determine If Battle Message Tail should be visible
