@@ -72,7 +72,7 @@ message_18:
       text: Prosím, nezlobte se! Strašně se omlouváme!\spd #přir
 
 message_19:
-      text: Prosím, odpusťte nám...\spb #bližší orig, maty
+      text: Prosím, slitování...\spb #bližší orig, maty
 
 message_20:
       text: Aha.\cap
@@ -197,7 +197,7 @@ message_58:
 #CAPT. SPACEBOY walks to door, but turns back.
 
 message_59:
-      text: Nezoufejte, malá paní!\!<br>A kdyby toho na Vás bylo moc, nějaký ten \c[3]VÁNICUK\c[0]\!<br> by tomu mohl rozhodně pomoct.\cap
+      text: Nezoufejte, slečno!\!<br>A kdyby toho na vás bylo moc, nějaký ten \c[3]VÁNICUK\c[0]\!<br>by tomu mohl rozhodně pomoct.\cap
 
 #CAPT. SPACEBOY turns toward the door.
 

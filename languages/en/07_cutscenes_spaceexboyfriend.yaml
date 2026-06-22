@@ -18,7 +18,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: No, ohledně něho...\! Tak trochu se k nám dostaly celkem špatné zprávy.\!<br>Slyšeli jsme, že se prý VESMÍRNÝ MILENEC a ZLATÍČKO...\! Že...\! No, že se rozešli.\aub #interpunkce, Aubrey nezní tak jistě
+      text: No, ohledně něho...\! Tak trochu se k nám dostaly celkem špatné zprávy.\! Zaslechli jsme, že se prý VESMÍRNÝ MILENEC a ZLATÍČKO...\! Že...\! No, že se rozešli.\aub #interpunkce, Aubrey nezní tak jistě
 
 #KEL slowly walks to SPACE BOYFRIEND.
 
@@ -55,7 +55,7 @@ message_9:
 message_10:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: Lidé se přece z rozchodů vždycky zpamatují!\! <br>VESMÍRNÝ MILENEC bude určitě co nevidět zase svůj.\!<br>Jenom potřebuje nějaký ten čas, aby si zase zvykl.\aub #odstraňuji, že lidé se pořád rozchází - nesedí mi k originálu
+      text: Lidé se přece z rozchodů vždycky vzpamatují!\! <br>VESMÍRNÝ MILENEC bude určitě co nevidět zase svůj.\!<br>Jenom potřebuje nějaký ten čas, aby si zase zvykl.\aub #odstraňuji, že lidé se pořád rozchází - nesedí mi k originálu
 
 #KEL slowly walks to cassette player.
 
@@ -157,19 +157,19 @@ message_32:
       text: Dělal jsem pro ni první poslední! Dal jsem jí všechno!\!<br>\{VŠECHNO! SLYŠÍTE!?!?\sbf\} #blíže orig, maty
 
 message_33:
-      text: Ta jedna nevděčná, malá...\! Aughhhhhh... \sbf
+      text: Ta jedna nevděčná, malá...\! Áááááá... \sbf
 
 message_34:
-      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+      text: \quake[1]ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁÁ!!!\sbf\quake[0]
 
 message_35:
-      text: \quake[1]\{ZAPOMEŇTE NA TO!!\! NA VŠECHNO!!\sbf\quake[0]
+      text: \quake[1]\{KAŠLU NA TO NA TO!!\! NA VŠECHNO!!\sbf\quake[0]
 
 message_37:
       text: Najdu ji...\sbf
 
 message_38:
-      text: \{A PAK PŘIJDE ODVETA!!\sbf\quake[0] #donutím ji zaplatit v češtině nefunguje
+      text: \{A PAK PŘIJDE MÁ ODVETA!!\sbf\quake[0] #donutím ji zaplatit v češtině nefunguje
 
 message_39:
       faceset: MainCharacters_DreamWorld

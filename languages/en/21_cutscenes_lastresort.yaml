@@ -277,7 +277,7 @@ message_50:
 message_51:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Jé, OMORI! Jsi to vážně ty?\aub
+      text: Jé, OMORI! Jsi to ty?\aub
 
 #AUBREY twirls.
 
@@ -351,7 +351,7 @@ message_64:
       text: \com[540]Ano, hned ho tam pošlu.\aub
 
 message_65:
-      text: \}Ty taky, AUBRY.\!<br><br>...\! \quake[1]Bzzz.\jaw
+      text: \}Ty taky, AUBRY.\!<br>...\! \quake[1]Bzzz.\jaw
 
 message_66:
       faceset: MainCharacters_DreamWorld
@@ -735,7 +735,7 @@ message_164:
       text: I když jste unesl všechny mé kamarády a vnutil nám ty zavádějící smlouvy...\! Tak jsem si o vás občas pomyslel, že jste celkem fajn chlap.\her #priroz
 
 message_165:
-      text: HERO...\! Tohle tě možná trochu zaskočí, ale...\!<br>Vždy jsi pro mě byl tím synem, kterého jsem nikdy neměl.\!<br>Vím, že toho ještě hodně dokážeš.\jaw
+      text: HERO...\! Tohle tě možná trochu zaskočí, ale...\!<br>Vždy jsi pro mě byl tím synem, kterého jsem nikdy neměl.\!<br>Jistě toho ještě hodně dokážeš.\jaw
 
 #MR. JAWSUM takes out the contracts and eats them.
 

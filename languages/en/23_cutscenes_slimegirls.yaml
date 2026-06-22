@@ -69,7 +69,7 @@ message_13:
       text: Jsi jenom obyčejný křupan.\!<br>Tohle byla jenom obrovská ztráta času!<br>\!No nic, já le-\swh
 
 message_14:
-      text: \Com[2]Už mám dost těch tvých keců!<br>Zákazník nezákazník, už mi fakt lezeš na nervy!\!<br>Kdo tě naučil si takhle pouštět hubu na špacýr?\n<MEDÚSA>
+      text: \Com[2]Už mám dost těch tvých keců!<br>Zákazník nezákazník, už mi fakt lezeš na nervy!\!<br>Kde ses naučila si takhle pouštět hubu na špacýr?\n<MEDÚSA>
 
 message_15:
       text: A teď... mě omluvte, neboť tohle je jenom obrovská ztráta mé energie...\! Mám o dost důležitější věci na práci.\n<MEDÚSA>
@@ -149,7 +149,7 @@ message_42:
 #SWEETHEART is frustrated.
 
 message_53:
-      text: Jak dlouho to ještě bude trvat? Na tohle nemám celý den!\swh #blíže orig
+      text: Jak dlouho to ještě bude trvat? Nemám na tohle celý den!\swh #blíže orig
 
 #MOLLY turns to SWEETHEART.
 
@@ -181,7 +181,7 @@ message_59:
       text: A teď mluv!\! Mluv, můj nádherný robote!\n<MOLLY>
 
 message_60:
-      text: V2hhdCBpcyB0aGlzIGZlZWxpbmcgSSBoYXZlIG5ldmVyIGZlbHQg<br>YmVmb3JlPyBJIGZlZWwgYWxsIHdhcm0gYW5kIGZ1enp5IGluc2<br>lkZSEgSSB3YW50IGEgaHVnISBQbGVhc2UgaHVnIG1lISBJIGFtI<br>GluIG5lZWQgb2YgYWZmZWN0aW9uIGFuZCBsb3ZlISA=\n<ROBOHEART>
+      text: V2hhdCBpcyB0aGlzIGZlZWxpbmcgSSBoYXZlIG5ldmVyIGZlbHQg<br>YmVmb3JlPyBJIGZlZWwgYWxsIHdhcm0gYW5kIGZ1enp5IGluc2<br>lkZSEgSSB3YW50IGEgaHVnISBQbGVhc2UgaHVnIG1lISBJIGFtI<br>GluIG5lZWQgb2YgYWZmZWN0aW9uIGFuZCBsb3ZlISA=\n<ROBOTÍČKO>
 
 message_61:
       text: ... ... ... \n<MOLLY>
@@ -192,10 +192,10 @@ message_62:
 #MOLLY turns to SWEETHEART.
 
 message_63:
-      text: To protože jste na mě tak naléhala!\! <br>A proto ho místo milování přeprogramuju... \!\quake[1]na zabíjení!\n<MOLLY>
+      text: To protože jste na mě tak naléhala!\! <br>A proto ho místo lásky přeprogramuju... \!\quake[1]na zabíjení!\n<MOLLY>
 
 message_64:
-      text: Tm8sIHBsZWFzZSEgVGhpcyBpcyBhIG1pc3VuZGVyc3RhbmRpbm<br>chIEkganVzdCB3YW50IHRvIGJlIHlvdXIgZnJpZW5kISBPciBtYX<br>liZSBtb3JlIQ==\n<ROBOHEART>
+      text: Tm8sIHBsZWFzZSEgVGhpcyBpcyBhIG1pc3VuZGVyc3RhbmRpbm<br>chIEkganVzdCB3YW50IHRvIGJlIHlvdXIgZnJpZW5kISBPciBtYX<br>liZSBtb3JlIQ==\n<ROBOTÍČKO>
 
 message_65:
       text: Ts!\! Tohle není moje chyba, je to přece váš robot, ne?!\swh
@@ -220,7 +220,7 @@ message_69:
 #MOLLY types and presses buttons.
 
 message_70:
-      text: SSBhbSBzbyBsb25lbHkgaGVyZS4uLiBJIG11c3QgdmVudHVy<br>ZSBzb21ld2hlcmUgZWxzZSB0byBmaW5kIG15IHNvdWxtYXRlIGF<br>uZCBsaXZlIGhhcHBpbHkgZXZlciBhZnRlciEgV29vc2gh\n<ROBOHEART>
+      text: SSBhbSBzbyBsb25lbHkgaGVyZS4uLiBJIG11c3QgdmVudHVy<br>ZSBzb21ld2hlcmUgZWxzZSB0byBmaW5kIG15IHNvdWxtYXRlIGF<br>uZCBsaXZlIGhhcHBpbHkgZXZlciBhZnRlciEgV29vc2gh\n<ROBOTÍČKO>
 
 #ROBOHEART flies off.
 #MOLLY types and presses buttons.
@@ -238,22 +238,22 @@ message_71:
 #Trigger: Enter proximity of Roboheart.
 
 message_80:
-      text: V293LCB5b3UgYXJlIHJlYWxseSBoYW5kc29tZS4=\n<ROBOHEART>
+      text: V293LCB5b3UgYXJlIHJlYWxseSBoYW5kc29tZS4=\n<ROBOTÍČKO>
 
 message_81:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text: Dávejte bacha kolem toho robota!\! Vždyť je to stroj na vraždění!\her
+      text: Pozor na toho robota!\! Vždyť je to stroj na vraždění!\her
 
 #ROBOHEART walks forward.
 
 message_82:
-      text: V2lsbCB5b3UgbG92ZSBtZT8=\n<ROBOHEART>
+      text: V2lsbCB5b3UgbG92ZSBtZT8=\n<ROBOTÍČKO>
 
 message_83:
       faceset: MainCharacters_DreamWorld
       faceindex: 10
-      text: \{DRŽ SE OD NÁS DÁL, ROBOTE!!\aub
+      text: \{NECH NÁS BÝT, ROBOTE!!\aub
 
 message_84:
       faceset: MainCharacters_DreamWorld

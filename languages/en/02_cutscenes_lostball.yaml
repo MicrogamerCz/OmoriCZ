@@ -81,13 +81,13 @@ message_14:
       text: No tak, hlavu vzhůru, BERLY. My ti ten míč najdeme!\her #hrubka, maty
 
 message_15:
-      text: Heh.\! To vážně?\!<br>\c[11]ROZLEHLÝ LES\c[0] je přece celkem nebezpečné místo, viďte?\ber
+      text: Heh.\! To vážně?\!<br>\c[11]ROZLEHLÝ LES\c[0] je přece celkem nebezpečný, nemyslíte?\ber
 
 message_16:
       text: Jednou jsem se tam dokonce porvala s jakousi<br>živou rostlinou s prázdnýma, mrtvýma očima a dokořán otevřenou pusou. \ber #zachování even z originálu
 
 message_17:
-      text: Ale s tím, jak jsem chytrá a hustá, se mi ji samozřejmě podařilo přechytračit.\!<br>Na tomto světě není obluda, která by mě byla schopna dohnat!\ber #blíže orig
+      text: Ale s tím, jak jsem chytrá a hustá, se mi ji samozřejmě podařilo přechytračit.\!<br><br>Na tomto světě není obluda, která by mě byla schopna dohnat!\ber #blíže orig
 
 message_18:
       text: \Com[2]\SINV[2]\{BAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
@@ -98,7 +98,7 @@ message_19:
       text: Hele, OMORI, co kdybys se svými kamarády šel s BERLY a pohlídal, aby se ji nic nestalo?\! Šel bych s ní sám, ale...\n<VAN> #za mě věta s hele zní přirozeněji
 
 message_20:
-      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNNEEEEE!!\}\!<br>\Com[2]OBČA už zase přejel OFČU!\SINV[0]\hap #za mě s už zní přirozeněji
+      text: \Com[2]\SINV[1]VANNNNN\{NNNNNNNEEEEE!!\}\!<br>\Com[2]OBČA už zase srazil OFČU!\SINV[0]\hap #za mě s už zní přirozeněji
 
 #VAN looks toward the noise and is surprised.
 

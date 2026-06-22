@@ -288,7 +288,7 @@ message_104:
 #BOTH
 
 message_77:
-      text: Abych pravdu řek'...\ang #přirozenější
+      text: Abych pravdu řek...\ang #přirozenější
 
 message_78:
       text: AUBRY je...\! někde...\! v \c[11]PŘEDALEKÉ LHOTĚ\c[0]...\! myslím.\ang
@@ -474,7 +474,7 @@ message_154:
       text: Fuj, co je tohle za hňupa? Ten je ale trapnej.\n<HOLKA>
 
 message_155:
-      text: Tohle nestojí ani za ty dvě stovky. Pojďme raději pryč...\n<DRUHÁ HOLKA> #přirozenější
+      text: Tohle nestojí ani za tu dvacku. Pojďme raději pryč...\n<DRUHÁ HOLKA> #přirozenější
 
 #The girls walk O.S.
 #THE MAVERICK looks where the girls left and walks 1 step forward.

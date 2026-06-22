@@ -81,7 +81,7 @@ message_30:
       text: Zdravíme všechny fanoušky ZLATÍČKA.<br>Omlouváme se za krátké vyrušení.\! <br>Vítejte zpět u našeho pravidelném programu!\smm #přestávka na vyrušení
 
 message_31:
-      text: A se zármutkem vám musíme oznámit tragickou událost, která se před chvílí přihodila zde v zákulisí...\smm #aby se to neopakovalo
+      text: A se zármutkem vám musíme oznámit tragickou událost, která se před chvílí přihodila zde na jevišti...\smm #aby se to neopakovalo
 
 #Curtain opens, revealing a portrait of SNALEY.
 
@@ -89,7 +89,7 @@ message_32:
       text: Oznamujeme vám nešťastnou smrt <br>SOUTĚŽÍCÍHO Č.3...\smm
 
 message_33:
-      text: Budeme na něj vřele vzpomínat, ač s námi strávil jen pár chvílí.\! Byl opravdu jedinečná a nenahraditelná osobnost.\smm #unikátní na jedinečná
+      text: Budeme na něj vřele vzpomínat, ač s námi strávil jen pár chvil.\! Byl opravdu jedinečná a nenahraditelná osobnost.\smm #unikátní na jedinečná
 
 #Curtains close and open, changing the graphic behind to SWEETHEART'S Show Graphic. SPROUT MOLE #1 and #2 are already in their right spots.
 
@@ -426,7 +426,7 @@ message_105:
 message_107:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: Tys tomu dala, AUBRY...\kel #za mě zní lépe
+      text: Tos tomu dala, AUBRY...\kel #za mě zní lépe
 
 #Guards surround party and screen turns black.
 
@@ -480,7 +480,7 @@ message_138:
 #KNÍRKOKRTEK takes off MUSTACHE.
 
 message_139:
-      text: \{\Com[2]TO JSEM BYLA JÁ!\! ROSA!!\!\}<br>ZLATÍČČINA největší fanynky!\ros
+      text: \{\Com[2]TO JSEM BYLA JÁ!\! ROSA!!\!\}<br>ZLATÍČČINA největší fanynka!\ros
 
 message_140:
       text: Já vám říkala, že zaplatíte za to, co jste mi udělali!\ros

@@ -139,7 +139,7 @@ message_30:
 #MOLLY turns around.
 
 message_31:
-      text: Tak to mluvíme o častce okolo...<br>\!1000000 MUŠLÍ.\n<MOLLY> #přiroz
+      text: Tak to mluvíme o částce okolo...<br>\!1000000 MUŠLÍ.\n<MOLLY> #přiroz
 
 message_32:
       faceset: MainCharacters_DreamWorld
@@ -163,7 +163,7 @@ message_35:
       text: ...\. ...\. ...\. ...\. ... \n<MARINA>
 
 message_36:
-      text: Tak...\! To je opravdu smůla.\n<MOLLY>
+      text: Tak...\! To je mi opravdu nemilé.\n<MOLLY>
 
 message_37:
       text: \quake[1]\Com[2]\{BENDO!!\! ZAVŘI CESTU VEN!!!\n<MARINA>
@@ -283,10 +283,10 @@ message_60:
       text: Ano... Vypadá, že naší kořisti poněkud schází kázeň.\! <br>Už bylo na čase, aby tyto děcka někdo naučil, jak se správně chovat!\n<MEDÚSA> #přiroz
 
 message_61:
-      text: Na kořist jste dost vybíraví...\!<br>\sinv[1]Nechcete, abychom vás prodali...\! Nechcete, abychom si z vás udělali mazlíčky...\!<br>Měli byste si uvědomit svoje postavení...\n<MARINA> #blíže orig
+      text: Na kořist jste dost vybíraví...\!<br>\sinv[1]Nechcete, abychom vás prodali...\! Nechcete, abychom si z vás udělali mazlíčky...\! Měli byste si uvědomit svoje postavení...\n<MARINA> #blíže orig
 
 message_62:
-      text: No...\! Co...\! My jsme s tím v pohodě.\n<MARINA>
+      text: No...\! Co...\! Nám to nevadí.\n<MARINA>
 
 message_63:
       text: Vždy to jde i jinak. \sinv[1]Fufufu~ \n<MOLLY>
@@ -351,7 +351,7 @@ message_99:
 #MARINA is nervous.
 
 message_100:
-      text: Jsem?\n<MARINA>
+      text: Vážně?\n<MARINA>
 
 #MARINA turns around.
 

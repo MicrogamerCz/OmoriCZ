@@ -53,7 +53,7 @@ message_9:
 message_10:
     text: "Ulpěl jsi pohled na obrazovku."
 message_11:
-    text: "Počítač ti ohřál klín.\\!\\lb Bylo to příjemné." #počítač ohřál
+    text: "Počítač ti ohřál klín.\\!\\lb Máš z toho příjemný pocit." #počítač ohřál
 message_12:
     text: "Z této strany svůj počítač nemůžeš použít." #téhle, nemůžeš
 
@@ -77,7 +77,7 @@ message_16:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "Žárovka visí ze stropu, o kterém sám nevíš, kde končí.\\!\\lb<br>Podíváš se dovnitř?"
+    text: "Žárovka visí ze stropu, o kterém sám nevíš, kam až sahá.\\!\\lb<br>Podíváš se do ní?"
 message_18:
     text: "Uvnitř je úplně černá.\\! Nevidíš v ní jediný náznak čehokoliv."
 
@@ -147,7 +147,7 @@ message_109:
 message_110:
     text: "Ulpěl jsi pohled na obrazovku."
 # message_111:
-#     text: "Teplo vycházející z počítače ti ohřálo klín.\\!\\lb Bylo to příjemné."
+#     text: "Počítač ti ohřál klín.\\!\\lb Máš z toho příjemný pocit."
 message_112:
     text: "Z této strany svůj počítač nemůžeš použít." #konzistence
 

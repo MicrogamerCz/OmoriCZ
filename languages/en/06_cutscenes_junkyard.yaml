@@ -10,7 +10,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Dalo by se říct že je to...\! překážka...\! chápeš?\her #tady to chce nějak zachovat vtip, ale zatím mě nic moc nenapadá
+      text: Dalo by se říct že je to...\! smeťážka...\! chápeš?\her #tady to chce nějak zachovat vtip, ale zatím mě nic moc nenapadá
 
 message_2:
       faceset: MainCharacters_DreamWorld
@@ -75,7 +75,7 @@ message_33:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 49
-      text: Ahm...\! Zdravím, PANE PÁSOROBOTE.\! Já a mí společníci by po Vás vyžadovali změnu směru jízdy pásů.\! Byli byste vy a vaši přátelé tak hodní a pomohli nám, prosím?\her #mn č, maty
+      text: Ahm...\! Zdravím, PANE PÁSOROBOTE.\! Já a mí společníci by po vás vyžadovali změnu směru jízdy pásů.\! Byli byste vy a vaši přátelé tak hodní a pomohli nám, prosím?\her #mn č, maty
 
 #HERO CHARM ANIMATION
 
@@ -88,7 +88,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: No tak... Jen nezoufejte!\! Nechte to na mě!\!<br>Předej mi BABU, OMORI!\her #maty
+      text: No tak... Jen nezoufejte!\! Nechte to na mně!\!<br>Předej mi BABU, OMORI!\her #maty
 # =========================================================================================
 # Cutscene: Hero's CHARM Tag Skill (Cont.)
 # =========================================================================================

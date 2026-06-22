@@ -96,7 +96,7 @@ message_16:
 message_126:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kel\}Jo a, jen tak mezi náma...\!<br>Můžeš se na něj podívat, kdykoliv se podíváš do mého VYBAVENÍ přes MENU! #s ním vidět na na něho podívat
+    text: \kel\}Jo a, jen tak mezi náma...\!<br>Můžeš se na něj podívat, kdykoliv se podíváš do mého VYBAVENÍ v NABÍDCE! #s ním vidět na na něho podívat
 
 message_17:
     faceset: MainCharacters_DreamWorld
@@ -110,12 +110,12 @@ message_17:
 message_18:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herJak se máš, \n[1]? Už tady na tebe čekáme! #zachování přátelštějšího rázu
+    text: \herJak se máš, OMORI? Už tady na tebe čekáme! #zachování přátelštějšího rázu
 
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] a \n[2] se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #osobně si myslím, že pytel blech lépe sedí
+    text: \herKEL a AUBRY se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #osobně si myslím, že pytel blech lépe sedí
 
 # =========================================================================================
 # Cutscene: STUFFED TOY
@@ -150,7 +150,7 @@ message_30:
 message_31:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: OMORI mi ho našel!\!<br>Ještě že mám i skutečné kamarády!\aub #přirozenější, lépe zachovává původní význam (lucky for me)
+      text: OMORI mi ho našel!\!<br>Ještě, že mám i opravdové kamarády!\aub #přirozenější, lépe zachovává původní význam (lucky for me)
 
 message_32:
       faceset: MainCharacters_DreamWorld
@@ -194,7 +194,7 @@ message_37:
 message_38:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubDíky, \n[1]! Věděla jsem, že je na tebe spoleh.\!<br>Jsi zlatíčko! #přiroz
+    text: \aubDíky, \n[1]! Věděla jsem, že je na tebe spoleh.\!<br>Jsi zlatý! #přiroz
 
 # =========================================================================================
 # Hero's Dialogue after Omori gives Aubrey PlantEgg
@@ -218,7 +218,7 @@ message_40:
 message_41:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herV pořádku!\! Počkáme tady.
+    text: \herJak myslíš.\! Zůstaneme tady.
 
 message_42:
     faceset: MainCharacters_DreamWorld
@@ -230,7 +230,7 @@ message_42:
 message_50:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herVítej zpátky, OMORI!\! Můžeme vyrazit??
+    text: \herVítej zpátky, OMORI!\! Můžeme vyrazit?
 
 #DAY 1 PYREFLY
 
@@ -287,7 +287,7 @@ message_62:
 message_63:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: No tak jo... \}dobře.\kel
+      text: No tak... \}dobře.\kel
 
 #KEL pulls AUBREY out of the stump.
 
@@ -332,7 +332,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 25
-      text: Ts, já nebyl na nikoho zlý!\! AUBRY je zase jenom uplakaná.\kel #zní přirozeněji
+      text: Pche, já nebyl na nikoho zlý!\! AUBRY je zase jenom uplakaná.\kel #zní přirozeněji
 
 message_91:
       faceset: MainCharacter_Mari
@@ -352,7 +352,7 @@ message_93:
 message_94:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: ufff\! Tak už se konečně uklidněte, vy dva.\!<br>\}Proč to vždycky dopadá takhle?\her #uklidněte, vypouštění závorek pro konzistenci s pozdějším textem
+      text: Ufff...\! Tak už se konečně uklidněte, vy dva.\!<br>\}Proč to vždycky dopadá takhle?\her #uklidněte, vypouštění závorek pro konzistenci s pozdějším textem
 
 message_95:
       faceset: MainCharacter_Mari
@@ -372,7 +372,7 @@ message_97:
 message_98:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš, jaký jsi hezký, když se zarazíš?!\mar #plynulejší, čárky
+      text: To nic, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš, jaký jsi hezký, když se zarazíš?!\mar #plynulejší, čárky
 
 message_99:
       faceset: MainCharacters_DreamWorld

@@ -77,7 +77,7 @@ message_17:
       text: Brzo bude zase všechno v pořádku. Slibuju!\aub
 
 message_18:
-      text: Uff...\! Děkuji, malá paní.\! To doufám, že bude.\spg #taky - to - zní lépe
+      text: Uff...\! Děkuji, slečno.\! To doufám, že bude.\spg #taky - to - zní lépe
 
 # =========================================================================================
 # Cutscene: Blackletter here
@@ -139,7 +139,7 @@ message_58:
 message_59:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: Ach... Zní tak smutně.\!<br>Musíme mu nějak pomoct.\aub #ale na ach - citoslovce
+      text: Ach... Je mi ho tak líto.\!<br>Musíme mu nějak pomoct.\aub #ale na ach - citoslovce
 
 message_60:
       text: \}\quake[1]Kuc, kuc...\! Kuc...\! Ach, mé ZLATÍČKO...\!<br>Kam jsi mi tentokrát utekla?\sbf\quake[0]

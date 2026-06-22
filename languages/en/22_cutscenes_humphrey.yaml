@@ -139,7 +139,7 @@ message_47:
       text: Co? Že by ZLATÍČKO?\! Kde je?\her
 
 message_48:
-      text: Hmm...\! Kde je... kde je...?\!<br>Mám to na jazyku...\! ...\! \quake[1]Ňak, ňak!\quake[0]\!<br>To je vtip, víte!\! Je...\! ve mně!\n<BENDA> #otazník na vykřičník
+      text: Hmm...\! Kdepak je... kdepak je...?\!<br>Mám to na jazyku...\! ...\! \quake[1]Ňak, ňak!\quake[0]\!<br>To je vtip, víte!\! Je...\! ve mně!\n<BENDA> #otazník na vykřičník
 
 message_49:
       faceset: MainCharacters_DreamWorld
