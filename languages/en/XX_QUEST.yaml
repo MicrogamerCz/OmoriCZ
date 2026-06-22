@@ -293,7 +293,7 @@ message_90:
 message_95:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marJé, vy jste našli \c[4]KYTIČKOVÉ PUZZLE\c[0]!\. Nesháněla se po nich náhodou SEDMIKRÁSKA, kvůli tomu jejimu nápadníkovi?\. No, za mě je celkem jasné, o koho se jedná.\. \}<br>(odkašlávání) Je to NEB... Hehe...\.\^
+      text: \marJé, vy jste našli \c[4]KYTIČKOVÉ PUZZLE\c[0]!\. Nesháněla se po nich náhodou SEDMIKRÁSKA, kvůli tomu jejimu nápadníkovi?\. No, za mě je celkem jasné, o koho se jedná.\. \}<br>Kuc, kuc... Je to NEB... Hehe...\.\^
 
 message_96:
       faceset: MainCharacter_Mari
@@ -311,7 +311,7 @@ message_96:
 message_100:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marKamarádi PANA STRAŠÁKA jsou rozházení po celém \c[11]ORO-BINCI\c[0].\. Měli byste jim pomoct se znovu setkat. Připadá mi takový osamělý...\.\^
+      text: \marKamarádi PANA STRAŠÁKA jsou rozehnáni po celém \c[11]ORO-BINCI\c[0].\. Měli byste jim pomoct se znovu setkat. Připadá mi takový osamělý...\.\^
 
 
 # =========================================================================================
@@ -465,7 +465,7 @@ message_156:
 message_160:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marVidím, že jste se rozhodli ujmout šlechetného úkolu předání balíčku od BRATROKRTKA obyvatelům \c[11]KLÍČIKRTČÍ KOLONIE\c[0].\. Don't you dare fail him!\.\^
+      text: \marVidím, že jste se rozhodli ujmout šlechetného úkolu předání balíčku od BRATROKRTKA obyvatelům \c[11]KLÍČIKRTČÍ KOLONIE\c[0].\. Běda vám, jestli se vám to nepovede!\.\^
 
 message_161:
       faceset: MainCharacter_Mari
@@ -507,12 +507,12 @@ message_167:
 message_170:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe brachiosaurus SCOTT can't scratch an itch in a specific spot...\. I guess...\. that leaves...\. it up to you...\.\^
+      text: \marBrachiosaurus SCOTT se nemůže poškrábat...\. Tím pádem...\. je to asi...\. na vás...\.\^
 
 message_171:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marThe itch has been scratched!\. SCOTT better be thankful.\. Not just anyone would do that for him.\.\^
+      text: \marA je poškrábáno!\. Snad vám za to bude SCOTT vďečný.\. To by pro něj jen tak kdokoliv neudělal.\.\^
 
 # =========================================================================================
 
@@ -537,7 +537,7 @@ message_180:
 message_181:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marTy jo! BERLY ti vážně dala \c[4]TVRDOHLAVÝ DIPLOM\c[0]?\. To ji teď beztak nenechá pár dní spát!\.\^
+      text: \marTy jo! BERLY ti opravdu dala \c[4]DIPLOM HLAVO-TVRDOSTI\c[0]?\. To ji teď beztak nenechá pár dní spát!\.\^
 
 # =========================================================================================
 
@@ -550,7 +550,7 @@ message_181:
 message_185:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marCelá ta léta se přece POMERANČOVÝ JOE nepřestal pohledávat po svém ztraceném bratrovi.\. Jeho odhodlání je tak inspirující...\. Ale stejně, kdo ví, jak to s ním bude?\. Možná, že je ten jeho bratr blíž, než si myslí...\.\^
+      text: \marCelá ta léta se přece POMERANČOVÝ JOE nepřestal pohledávat po svém ztraceném bratrovi.\. Jeho odhodlání je tak inspirující...\. Ale stejně, kdo ví, jak to s ním bude?\.<br> Možná, že je ten jeho bratr blíž, než si myslí...\.\^
 
 message_186:
       faceset: MainCharacter_Mari
@@ -600,12 +600,12 @@ message_200:
 message_205:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marFuj... Zdá se, že byl KACHNIČKA ML. hlavou úplně jinde.\. Ty jsi takový občas taky, OMORI.\. Měli byste zkontrolovat, jestli se dostal bezpečně zpátky domů!\.\^
+      text: \marUf... Zdá se, že KACHNIČKA ML. byl hlavou úplně jinde.\. Ty takový býváš občas taky, OMORI.\. Měli byste zkontrolovat, jestli se dostal bezpečně zpátky domů!\.\^
 
 message_206:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marFuj... Zdá se, že byl KACHNIČKA ML. hlavou úplně jinde.\. Ty jsi takový občas taky, OMORI!\.\^
+      text: \marUf... Zdá se, že KACHNIČKA ML. byl hlavou úplně jinde.\. Ty takový býváš občas taky, OMORI!\.\^
 
 # =========================================================================================
 
@@ -618,14 +618,14 @@ message_206:
 message_210:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMARINA po vás chce, abyste ji našli \c[4]KRYSÍ MASO\c[0], prý ho potřebuje pro svoje nové tělo...\. Zní to sice trochu divně, ale ona je přece odborník...\. Aspoň myslím...\.\^
+      text: \marMARINA po vás chce, abyste ji našli \c[4]MYŠÍ MASO\c[0], prý ho potřebuje pro svoje nové tělo...\. Zní to sice trochu divně, ale ona je přece odborník...\. Aspoň myslím...\.\^
 
 #After getting RAT MEAT:
 
 message_215:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marNašli jste to \c[4]KRYSÍ MASO\c[0], po kterém se MARINA sháněla!\. Asi byste ji ho měli dát dřív, než se začne kazit...\.\^
+      text: \marNašli jste to \c[4]MYŠÍ MASO\c[0], po kterém se MARINA sháněla!\. Asi byste ji ho měli dát dřív, než se začne kazit...\.\^
 
 message_216:
       faceset: MainCharacter_Mari
@@ -764,7 +764,7 @@ message_261:
 message_260:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marPESSI snad bude v té frontě čekat nadosmrti...\. Neměli bychom ji říct, že už to skončilo?\.\^
+      text: \marPESSI snad bude v té frontě čekat nadosmrti...\. Neměli bychom mu říct, že už je po všem?\.\^
 
 # =========================================================================================
 
@@ -834,7 +834,7 @@ message_274:
 message_275:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marMyslíš, že by se tady mohl BASIL nějak zatoulat?\. Jsem si jistá, že by mě pozdravil, kdyby tudy šel.\. A kolik KARAMELOVÝCH JABLÍČEK bych mu hned na potkání dala! A je mi fuk, že nemá rád sladké!\.\^
+      text: \marMyslíš, že by se tady mohl BASIL nějak zatoulat?\. Jsem si jistá, že by mě pozdravil, kdyby tudy šel.\. A kolik KARAMELOVÝCH JABLÍČEK bych mu hned na potkání dala, je mi fuk, že nemá rád sladké!\.\^
 
 #Rain town
 message_276:
@@ -994,7 +994,7 @@ message_404:
 message_405:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marMOŘSKÉ KRÁVY jsou tak roztomilé!\. A teď, když je na farmě méně ČAROLIHNÍ, vsadila bych se, že budou všechny mít hned světlejší bůůůůůdoucnost, hehe.\.\^
+      text: \marMOŘSKÉ KRÁVY jsou tak roztomilé!\. A teď, když je na farmě méně ČAROLIHNÍ, vsadila bych se, že budou všechny mít hned světlejší búúúúúdoucnost, hehe.\.\^
 
 
 # =========================================================================================
@@ -1049,4 +1049,4 @@ message_407:
 message_420:
       faceset: MainCharacter_Mari
       faceindex: 7
-      text: \marSlyšela jsem někoho mluvit o jakémsi opuštěném domě, jižně od hřiště.\. To by mě zajímalo...\. jestli je doopravdy opuštěný, hehe...\.\^
+      text: \marSlyšela jsem někoho mluvit o jakémsi opuštěném domě na jihu od hřiště.\. To by mě zajímalo...\. jestli je doopravdy opuštěný, hehe...\.\^

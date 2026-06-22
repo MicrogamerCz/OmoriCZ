@@ -192,7 +192,7 @@ message_69:
 # -----------------------------------------------
 
 message_100:
-    text: Co udělají OMORI a jeho parta?
+    text: Co udělá OMORI a jeho parta?
 
 message_101:
     text: Co udělá \n[8]?
@@ -201,7 +201,7 @@ message_102:
     text: Co udělají %1 a %2 ?
 
 message_103:
-    text: Co udělají OMORI a jeho parta?
+    text: Co udělá OMORI a jeho parta?
 
 message_104:
     text: Co udělá %1?

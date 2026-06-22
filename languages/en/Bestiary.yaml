@@ -955,7 +955,7 @@ Information:
         - OMORI
 
   83:
-    name: SNĚŽNÝ ANDĚL
+    name: ANDĚL SNĚŽNÝ
     background: {name: 'battleback_ff_xsh', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_EN_8', index: 0}
@@ -1207,8 +1207,8 @@ Information:
     listIndex: 71
 
     text: |
-        Zuřivá a krásná vévodkyně žijicí
-        ve velkém zámku ve SVĚTLUŠČÍM LESE.
+        Zuřivá a překrásná vévodkyně žijicí
+        ve velkém zámku v LESE SVĚTLUŠEK.
         Zbožňována KLÍČKOKRTKY po celém světě.
         Má slabost pro HERA.
 

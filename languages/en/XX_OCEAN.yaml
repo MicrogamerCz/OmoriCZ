@@ -455,10 +455,10 @@ message_264:
 #====================Save point Faraway=======================
 
 message_270:
-      text: Prázdný piknikový košík.\! Přál by sis ULOŽIT HRU?
+      text: Prázdný piknikový košík.\! Chceš zde ULOŽIT HRU?
 
 message_271:
-      text: Přál by sis pohladit psa?
+      text: Chtěl bys pohladit psa?
 
 message_272:
       text: Pohladil jsi psa.
@@ -573,7 +573,7 @@ message_911:
       text: Dal jsi PESSIMU \c[4]PESSIHO VĚC\c[0].
 
 message_323:
-      text: \pesDěkuji...\! Říkám vám ještě jednou...\! Děkuji!\! Ještě jednou vám říkám...
+      text: \pesDěkuji...\! Říkám vám ještě jednou...\! Děkuji!\! Mnohokrát děkuji...
 
 message_324:
       text: \pesZa vaši obětavou pomoc bych vám chtěl odkázat největší dar.
@@ -598,7 +598,7 @@ message_329:
 message_330:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelZase ta potvora ROSA!\! No tak, OMORI! Musíme jí přinutit vrátit tu \c[4]PESSIHO VĚC\c[0] ať to stojí, co to stojí!
+      text: \kelZase ta potvora ROSA!\! No tak, OMORI! Musíme ji přinutit vrátit tu \c[4]PESSIHO VĚC\c[0] ať to stojí, co to stojí!
 
 
 #Sidequest B.E.D. with Rosa and PODEZŘELÝ KRTEK
@@ -620,7 +620,7 @@ message_344:
 message_345:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \herJá... si nejsem jistý, že by to byla naše chyba...
+      text: \herJá... si nejsem jistý, že bychom za to mohli zrovna my...
 
 message_346:
       faceset: MainCharacters_DreamWorld
@@ -636,7 +636,7 @@ message_348:
 message_909:
     faceset: MainCharacters_DreamWorld
     faceindex: 43
-    text: \herNebojte.\! Nechte to na mě...
+    text: \herNebojte.\! Nechte to na mně...
 
 message_349:
     faceset: MainCharacters_DreamWorld
@@ -661,16 +661,16 @@ message_354:
     text: \n<PODEZŘELÝ KRTEK>\}Ha...\! Tak ROSA zas dělá potíže?\!<br>To se dalo čekat... To je prostě ona...
 
 message_908:
-    text: \n<PODEZŘELÝ KRTEK>\}Na.\! Vemte si tohle a ukažte jí to.\!<br>Až to uvidí, není šance, že by vám neodstoupila.
+    text: \n<PODEZŘELÝ KRTEK>\}Na.\! Vemte si tohle a ukažte jí to.\!<br>Až to uvidí, určitě vám bezpodmíněčně ustoupí.
 
 message_910:
     text: Získal jsi \c[4]ČERNÁ OBÁLKA\c[0]. #výraz opět ztracen
 
 message_355:
-    text: \n<PODEZŘELÝ KRTEK>\}A teď mě nechte s mou \c[4]P.O.S.T.E.L.\c[0] napokoji.<br>Tady naše spolupráce končí!
+    text: \n<PODEZŘELÝ KRTEK>\}A teď mě nechte s mou \c[4]P.O.S.T.E.L.í\c[0] napokoji.<br>Tady naše spolupráce končí!
 
 message_356:
-    text: \n<ROSA>Tak jste zase zpátky?\! Ts...\! Bavíte mě...\!<br>Tak bezcenná urputnost!
+    text: \n<ROSA>Tak jste zase zpátky?\! Ts...\! To je úsměvné...\!<br>Tak bezcenná urputnost!
 
 #INSERT OHOHOO 15_cutscenes_herothebachelor.message_145
 
@@ -700,7 +700,7 @@ message_361:
     text: \kel\{\{\Com[2]KOUKEJ NA TOHLE!!
 
 message_362:
-    text: KEL vytáhl \c[4]ČERNÝ DOPIS\c[0].
+    text: KEL vytáhl \c[4]ČERNOU OBÁLKU\c[0].
 
 message_363:
     text: \n<ROSA>K-K-Kdes k tomuhle přišel?
@@ -724,7 +724,7 @@ message_369:
     text: \n<ROSA>Teď bych byla ráda, kdybyste odešli z mojeho domu.\!<br>Však už stejně máte to, co jste chtěli, ne?
 
 message_370:
-    text: \n<ROSA>\{\{\Com[2]TÁHNĚTE! SLYŠÍTE, TÁHNĚTE!
+    text: \n<ROSA>\{\{\Com[2]TÁHNĚTE, ŘÍKÁM, TÁHNĚTE!!!
 
 message_371:
     text: \n<ROSA>Vypadněte! Zlobím se na vás!
@@ -1307,7 +1307,7 @@ message_598:
 message_599:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \aubPAN VAJÍČKO je tak špinavý...
+      text: \aubLILÍKU, ty ale vypadáš...
 #Talking to yellow bun granny after you are given prescription
 
 message_600:
@@ -1320,7 +1320,7 @@ message_601:
 #Dreamworld Train station jash
 
 message_603:
-      text: \n<ŠNEČEK>Ahoj! Já jsem ŠNEČEK, notorický smolař!\! Zrovna jsem si chtěl koupit \c[4]JÍZDENKU\c[0], a hádejte co? Prý mají vyprodáno.\! To je ale vtipná náhoda!
+      text: \n<ŠNEČÍK>Ahoj! Já jsem ŠNEČÍK, notorický smolař!\! Zrovna jsem si chtěl koupit \c[4]JÍZDENKU\c[0], a hádejte co? Prý mají vyprodáno.\! To je ale vtipná náhoda!
 
 #Aubreys mom if you try to talk to her (ano, už asi po čtvré napříč několika dokumenty.)
 
@@ -1516,7 +1516,7 @@ message_671:
       text: Opravdu chceš STARÉMU BEZĎÁKOVI dát $\v[1167],00?
 
 message_672:
-      text: Opravdu chceš SMRADLAVÉMU BEZĎÁKOVI dát $\v[1167],00?
+      text: Opravdu chceš SMRAĎOCHOVI dát $\v[1167],00?
 
 message_673:
       text: Opravdu chceš KYTARISTOVI dát $\v[1167],00?

@@ -46,7 +46,7 @@ message_12:
 message_13:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marAle, to nic...\! Jen na vás dávám pozor...
+    text: \marAle, to nic...\! Já se o vás starám ráda...
 
 message_14:
     faceset: MainCharacter_Basil
@@ -169,7 +169,7 @@ message_42:
 message_50:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marOMORI... Že je tady krásně?\!<br>Vločky tady padají na zem tak pomalu, ale nakonec všechny dopadnou na své místo jako by každá byla kousek puzzlí. #bliz orig
+    text: \marOMORI... Že je tady krásně?\!<br>Vločky tady padají na zem tak pomalu, ale nakonec všechny dopadnou na své místo jako by každá byla dílek puzzlí. #bliz orig
 
 message_51:
     faceset: MainCharacter_Mari
@@ -193,7 +193,7 @@ message_60:
 message_61:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marVidíš, OMORI? Uklízení má i své světlé stránky!\!<br>Přesně tak!\! Musím přece svému nepořádnému bráškovi jít příkladem!
+    text: \marVidíš, OMORI? Uklízení má i své světlé stránky!\!<br>Přesně tak!\! Musím přece svému občas nepořádnému bráškovi jít příkladem!
 
 # =========================================================================================
 # PYREFLY FOREST-  BEFORE BOSS
@@ -303,17 +303,17 @@ message_100:
 message_101:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marNo, je pravda, že tady není zrovna nejlepší počasí na piknik, ale proč by mě lělo špatné počasí zastavit? #priroz
+    text: \marNo, je pravda, že tady není zrovna nejlepší počasí na piknik, ale proč by mě mělo špatné počasí zastavit? #priroz
 
 message_102:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelPřesně tak! Na piknik je vždycky dobrý čas! #lepe se hodi na kela
+    text: \kelPřesně tak! Na piknik je správná chvíle vždycky! #lepe se hodi na kela
 
 message_103:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marHehe... Máš pravdu, KELI!<br>\!S kamarády je vždycky ten správný čas!
+    text: \marHehe... Máš pravdu, KELI!<br>\!S kamarády je opravdu správná chvíle vždycky!
 
 # =========================================================================================
 # DOUGH DUNGEON

@@ -165,7 +165,7 @@ message_815:
     text: OMORI se naučil DOVEDNOST \c[1]POSTIHNOUT\c[0]. #"zkryplit" se mi moc nezdálo
 
 message_816:
-    text: OMORI se naučil DOVEDNOST \c[1]UDUSIT\c[0].
+    text: OMORI se naučil DOVEDNOST \c[1]DUSIT\c[0].
 
 # === Otherworld Ladder ===
 
@@ -318,7 +318,7 @@ message_997:
     text: Na štítku je napsáno, že TAJUPLNÝ LETKVAR působí jen pod vodou.
 
 message_998:
-    text: The effects of the MYSTERY POTION wore off...
+    text: Účinky TAJUPLNÉHO LEKTVARU vyprchaly...
 
 # === NEIGHBOR'S ROOM ===
 
@@ -411,7 +411,7 @@ message_349:
     text: \n<PAN STŘELÁK>...
 
 message_350:
-    text: \n<PAN STŘELÁK>Jestli toho teď nenecháš, budu tě muset ohlásit kompetentním orgánům.
+    text: \n<PAN STŘELÁK>Jestli toho teď nenecháš, budu tě muset nahlásit příslušnému útvaru městské policie.
 
 message_351:
     text: \n<PAN STŘELÁK>Prosím, přestaň...\! Prosím tě...
@@ -450,7 +450,7 @@ message_362:
     text: \n<PAN STŘELÁK>Safra...\! Jaksi mi vyjel z ruky...\! Haha...\! <br>Nebojte...\! Příště ho chytnu.
 
 message_363:
-    text: \n<PAN STŘELÁK>Á! Už jsem ho skoro měl!\! Tentokrát jsem byl fakt blízko... Ne snad?\!<br>No tak... Zkuste to znova.
+    text: \n<PAN STŘELÁK>Á! Už jsem ho skoro měl!\! Tentokrát jsem byl fakt blízko... Nebo ne?\!<br>No tak... Zkuste to znova.
 
 message_364:
     text: \n<PAN STŘELÁK>Haha...\! Ty jo... To byly časy...
@@ -462,7 +462,7 @@ message_366:
     text: \n<PAN STŘELÁK>Uff...\! Kéž bych se mohl pohnout z místa...
 
 message_367:
-    text: \n<PAN STŘELÁK>Mohl bych procestovat svět...\! usadit se s někým, koho mám rád...\! založit rodinu...
+    text: \n<PAN STŘELÁK>Mohl bych cestovat...\! a usadit se s někým, koho bych měl rád...\! založit rodinu...
 
 message_368:
     text: \n<PAN STŘELÁK>Ne...\! Takovéhle neobratné snění je nebezpečné.\!<br>Proč tady musím být zaražený?\!<br>To snad v životě nemůžu zažít nic příjemného?
@@ -503,7 +503,7 @@ message_178:
 #ROSA
 
 message_341:
-    text: \n<???>Dobře...?\! To bylo ale divný...
+    text: \n<???>Co to...?\! To bylo ale divný...
 
 # -----------------------------------------------
 # - JUNKYARD IX (150)
@@ -572,7 +572,7 @@ message_163:
 # -----------------------------------------------
 
 message_188:
-    text: Hladina vody šimrá.
+    text: Hladina srčí.
 
 message_189:
     text: Hodíš do jezera 10 MUŠLÍ?\$
@@ -590,7 +590,7 @@ message_193:
     text: Vtipy se vždycky hodí.\!<br>Kéž bys měl \c[4]SBÍRKU VTIPŮ\c[0], do které by sis je mohl zapsat...
 
 message_194:
-    text: Vyni-kající!\!<br>Tento vtip sis zaznamenal do \c[4]SBÍRKY VTIPŮ\c[0].
+    text: Vynikající!\!<br>Tento vtip sis zaznamenal do \c[4]SBÍRKY VTIPŮ\c[0].
 
 # -----------------------------------------------
 # - PYREFLY: VIII (160)
@@ -789,7 +789,7 @@ message_535:
     text: \n<KRTEK PINGL>Ts! Tak \sinv[1]ééélegantní\sinv[0] knír, jo?!<br>\!Tomu že ty říkáš knír?!\! Vždyť to jsou chlupy z nosu!
 
 message_536:
-    text: \n<KRTEK PINGL>Milý bratře...\! \com[2]Už mi opravdu začínáš lést na nervy!\!<br>Ale neboj... já vím, jak tohle vyřešit!
+    text: \n<KRTEK PINGL>Milý bratře...\! \com[2]Už mi opravdu začínáš lézt na nervy!\!<br>Ale neboj... já vím, jak tohle vyřešit!
 
 message_537:
     text: \n<KRTCI PINGLOVÉ>\{\{BRATŘI KLÍČKOKRTCI!!
@@ -819,7 +819,7 @@ message_544:
     text: \n<KRTEK PINGL>S tím jeho vzhledem...<br>mi je už teď jasné, že skončí v \c[11]HLADOMORNĚ\C[0].
 
 message_545:
-    text: \n<KRTEK PINGL>Stejně jako náš třetí pratr...
+    text: \n<KRTEK PINGL>Stejně jako náš třetí bratr...
 
 message_546:
     text: \n<KRTEK PINGL>Nevěřím, že mi ten můj plán vyšel!\! Tak teď mám celý tenhle pokoj pro sebe...
@@ -911,7 +911,7 @@ message_565:
     text: \n<KASTELA>Já zatím budu civět na tuto sochu a doufat, že se spustí mé psychotronické schopnosti.
 
 message_566:
-    text: \n<KASTELA>Fuj... zachránili jste mi život!\!<br>Opravdu jsem to měla nechat na odbornících!
+    text: \n<KASTELA>Uff... zachránili jste mi život!\!<br>Opravdu jsem to měla nechat na odbornících!
 
 #AUBREY READYS
 
@@ -969,7 +969,7 @@ message_575:
     text: \kel\com[2]Hej, hoši! Nechtěli byste pomoct?\!<br>My jsme tady pomocníci z povolání!
 
 message_576:
-    text: \n<KRTEK SBORMISTR>Ach, ještě že tak! Odborníci konečně dorazili!
+    text: \n<KRTEK SBORMISTR>Ach, ještě, že tak! Odborníci konečně dorazili!
 
 message_577:
     text: \n<KRTEK SBORMISTR>Je nezbytné, aby byl sbor připraven na hlavní událost, ale na to prostě nemáme čas!
@@ -978,7 +978,7 @@ message_578:
     text: \n<KRTEK SBORMISTR>Víte... my KLÍČKOKRTCI při poslechu hudby dost lehce usínáme...\! takže vás asi nepřekvapuje, že nám sboristi pořád usínají!
 
 message_579:
-    text: \n<KRTEK SBORMISTR>Uff... Obávám se, že se budeme muset přiklonit k...\!<br>\quake[1]alternativním...\!\quake[0] způsobům, jak je udržet při smyslech...
+    text: \n<KRTEK SBORMISTR>Uff... Obávám se, že se budeme muset přiklonit k...\!<br>\quake[1]netradičním...\!\quake[0] způsobům, jak je udržet při smyslech...
 
 message_580:
     faceset: MainCharacters_DreamWorld
@@ -991,12 +991,12 @@ message_900:
     text: \herT-Ty...\! Víš?
 
 message_581:
-    text: \n<KRTEK SBORMISTR>No ještě že tak! Jsme zachránění!<br>\!To se od vás odborníků ovšem dalo čekat.
+    text: \n<KRTEK SBORMISTR>No ještě, že tak! Jsme zachránění!<br>\!To se od vás odborníků ovšem dalo čekat.
 
 message_640:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelNechte to na mě, milý pane!
+    text: \kelNechte to na mně, milý pane!
 
 message_582:
     faceset: MainCharacters_DreamWorld
@@ -1149,7 +1149,7 @@ message_318:
 message_319:
     faceset: MainCharacters_DreamWorld
     faceindex: 17
-    text: \kelTak dobře! Dám do toho maximum!
+    text: \kelTak dobře! Dám do toho vše!
 
 #Vine Moles
 
@@ -1212,7 +1212,7 @@ message_6:
     text: \n<BRIAN VÝJIMEČNÝ>Vy byste ho chtěli znát, že?\!<br>\com[2]Tak to zas prr.\!<br>Musím říct... že jste na KLÍČKOKRTY nějací výřeční...
 
 message_7:
-    text: \n<BRIAN VÝJIMEČNÝ>\com[2]Jak vám mám věřit, že jste opravdu jedni z nás inteligentních, majestátních tvorů?\! Myslíte snad, že bych byl schopen možnému špiónovi prozradit heslo? \!Ha!\! To je mi ale úsměvná představa!
+    text: \n<BRIAN VÝJIMEČNÝ>\com[2]Jak vám mám věřit, že jste opravdu jedni z nás inteligentních, majestátních tvorů?\! Myslíte snad, že bych byl schopen možnému špiónovi prozradit heslo? \!Ha!\!<br>To je mi ale úsměvná představa!
 
 message_8:
     text: \n<BRIAN VÝJIMEČNÝ>Když tvrdíte, že jste KLÍČKOKRTCI každým coulem, proč mi to teda nedokážete?\! To heslo vám řeknu... pokud uhádnete, nad čím právě teď přemýšlím!
@@ -1270,7 +1270,7 @@ message_20:
 
 #Give mole TOFU
 message_18:
-    text: \n<KAROLÍNA PROSLULÁ>Ach...\! Mmm...\! Vynikající, neodolatelné \c[3]TOFU\c[0]...<br>\!Tak bych ho možná jednou prozradit mohla...
+    text: \n<KAROLÍNA PROSLULÁ>Ach...\! Mmm...\! Vynikající, neodolatelné \c[3]TOFU\c[0]...<br>\!Tak bych ho možná pro jednou prozradit mohla...
 
 #Give mole anything else
 message_19:
@@ -1420,10 +1420,10 @@ message_173:
 #TOP LEFT ROOM
 
 message_211:
-    text: KLÍČKOKRTEK
+    text: KRTEK
 
 message_212:
-    text: JINÝ KLÍČKOKRTEK
+    text: DRUHÝ KRTEK
 
 # -----------------------------------------------
 # - TRAIN (328)
@@ -1463,15 +1463,15 @@ message_434:
     text: \n<DINO>Hele, kam jako jdete?\! \com[2]Vy byste nechtěli zažít pořádné \sinv[1]dobrodružství\c[0]!?
 
 message_435:
-    text: Získal jsi DINO DOLAR.
+    text: Získal jsi DINODOLAR.
 
 message_436:
-    text: Získal jsi \v[1001] DINO DOLARŮ.
+    text: Získal jsi \v[1001] DINODOLARŮ.
 
 #EXCAVATION DINO (108)
 
 message_439:
-    text: \n<DINO>Chtěli byste si koupit \c[4]LŽIČKU\c[0]?\!<br>Stojí jen 1 DINO DOLAR!
+    text: \n<DINO>Chtěli byste si koupit \c[4]LŽIČKU\c[0]?\!<br>Stojí jen 1 DINODOLAR!
 
 message_441:
     text: \n<DINO>Zahrabejte si se svou \c[4]LŽIČKOU\c[0] a objevte nespočet zázračných pokladů!
@@ -1626,47 +1626,47 @@ message_88:
     text: Vrátíš \c[3]\v[102]\c[0] zpět na své místo?
 
 message_80:
-    text: \n<TATÍK CHIP>TATÍK CHIP vidí, že se koukáte po těch OVESNÝCH SUŠENKÁCH.\! TATÍK CHIP vás pro vaše vlastní dobro varuje...\! Nedělejte to!
+    text: \n<TATÍK ČIPS>TATÍK ČIPS vidí, že se koukáte po těch OVESNÝCH SUŠENKÁCH.\! TATÍK ČIPS vás pro vaše vlastní dobro varuje...\! Nedělejte to!
 
 message_81:
-    text: \n<TATÍK CHIP>A teď poslouchejte...\! TATÍK CHIP zachránil již nespočet dobrodruhů svými moudrými radami.
+    text: \n<TATÍK ČIPS>A teď poslouchejte...\! TATÍK ČIPS zachránil již nespočet dobrodruhů svými moudrými radami.
 
 message_82:
-    text: \n<TATÍK CHIP>Být váma bych TATÍKA CHIPA poslechl.
+    text: \n<TATÍK ČIPS>Být váma bych TATÍKA ČIPA poslechl.
 
 message_83:
-    text: \n<TATÍK CHIP>\quake[1]Pracky pryč...\! od těch...\! \c[3]OVESNÝCH SUŠENEK\c[0].
+    text: \n<TATÍK ČIPS>\quake[1]Pracky pryč...\! od těch...\! \c[3]OVESNÝCH SUŠENEK\c[0].
 
 message_84:
-    text: \n<TATÍK CHIP>Prosím, dobrodruzi...\! TATÍK CHIP vás prosí!\! Nedělejte to!\!<br>Nepokládejte za něco tak zbytečného své mladé životy!
+    text: \n<TATÍK ČIPS>Prosím, dobrodruzi...\! TATÍK ČIPS vás prosí!\! Nedělejte to!\!<br>Nepokládejte za něco tak zbytečného své mladé životy!
 
 message_85:
-    text: Navzdory varování TATÍKA CHIPA sis vzal \c[3]OVESNÉ SUŠENKY\c[0].
+    text: Navzdory varování TATÍKA ČIPA sis vzal \c[3]OVESNÉ SUŠENKY\c[0].
 
 message_86:
-    text: \n<TATÍK CHIP>Ach ne! Tak tohle je konec!\! Tak tohle je opravdu konec!\!<br>Na tohle se TATÍK CHIP nedokáže dívat!
+    text: \n<TATÍK ČIPS>Ach ne! Tak tohle je konec!\! Tak tohle je opravdu konec!\!<br>Na tohle se TATÍK ČIPS nedokáže dívat!
 
 message_87:
-    text: \n<TATÍK CHIP>Hmm...\! TATÍK CHIP by vás teď měl varovat před ZLOMYSLNÝM CHIPEM...\! ale zdá se, že i ZLOMYSLNÝ CHIP je na vás krátký.<br>TATÍK CHIP je tedy asi k ničemu.
+    text: \n<TATÍK ČIPS>Hmm...\! TATÍK ČIPS by vás teď měl varovat před ZLOMYSLNÝM ČIPEM...\! ale zdá se, že i ZLOMYSLNÝ ČIPS je na vás krátký.<br>TATÍK ČIPS je tedy asi k ničemu.
 
-#'TATÍK CHIP'
+#'TATÍK ČIPS'
 
 message_179:
-    text: \n<TATÍK CHIP>\sinv[1]Hoho!\sinv[0]\! TATÍK CHIP vám nese dobré zprávy!
+    text: \n<TATÍK ČIPS>\sinv[1]Hoho!\sinv[0]\! TATÍK ČIPS vám nese dobré zprávy!
 
 message_180:
-    text: \n<TATÍK CHIP>Za vaši dobromyslnost vám TATÍK CHIP dá něco, co TATÍK CHIP ví, že se vám bude líbit!
+    text: \n<TATÍK ČIPS>Za vaši dobromyslnost vám TATÍK ČIPS dá něco, co TATÍK ČIPS ví, že se vám bude líbit!
 
 message_521:
-    text: TATÍK CHIP ti dal \c[3]CHLEBA\c[0]!
+    text: TATÍK ČIPS ti dal \c[3]CHLEBA\c[0]!
 
 message_181:
-    text: \n<TATÍK CHIP>Já jsem TATÍK CHIP!
+    text: \n<TATÍK ČIPS>Já jsem TATÍK ČIPS!
 
-#'NEFARIOUS Chip'
+#'NEFARIOUS ČIPS'
 
 message_406:
-    text: \n<ZLOMYSLNÝ CHIP>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
+    text: \n<ZLOMYSLNÝ ČIPS>\com[2]\{\sinv[1]HON, HON, HON, HON, HON!
 
 #'KRTEK' in DOOM TOMB
 
@@ -2070,7 +2070,7 @@ message_234:
 # -----------------------------------------------
 
 message_372:
-    text: \n<BENDA>Tady to mám rád!
+    text: \n<BENDA>Tady se mi líbí!
 
 message_621:
     text: \n<BENDA>Zaslech jsem, že tady jsou vynikající MELOUNY, a tak jsem je všechny snědl!\ Mmm... vy-ni-ka-jí-cí!
@@ -2116,7 +2116,7 @@ message_242:
     text: \n<VELKÝ KRTKUS>Já jsem VELKÝ KRTKUS.
 
 message_243:
-    text: \n<VELKÝ KRTKUS>Za to, že jste mě skryli, vás odměním velikým pokladem.
+    text: \n<VELKÝ KRTKUS>Za to, že jste mě našli, vás odměním velikým pokladem.
 
 message_904:
     text: \n<VELKÝ KRTKUS>Můj úděl je hotov.
@@ -2126,7 +2126,7 @@ message_904:
 # -----------------------------------------------
 
 message_327:
-    text: \n<BENDA>Všichni moji kamarádi odešli stavět most...\! však já jim ukážu, postavím ještě větší most!
+    text: \n<BENDA>Všichni moji kamarádi odešli stavět most...\! však já jim ukážu, postavím ještě větší!
 
 message_328:
     text: \n<BENDA>Kdybyste narazili na nějaké BENDY, co nemají nic na práci, pošlete mi je sem, prosím.
@@ -2178,7 +2178,7 @@ message_496:
     text: Chtěl bys aktivovat tento rébus?\!<br>Dokud jej nevyřešíš, nemůžeš aktivovat jiný.
 
 message_497:
-    text: \"DRUH... RÉBUS\"<br>\"STATV... VYŘEŠEN\"
+    text: \"DRUH... RÉBUS\"<br>\"STAV... VYŘEŠEN\"
 
 #PASSWORD PUZZLE (Bomb Collision)
 
@@ -2309,7 +2309,7 @@ message_476:
 #FOURTH BENDA (Pattern)
 
 message_452:
-    text: \n<BENDA>Á! Zdravím, návštěvníci!\! Po několika měsících tvrdé práce jsem konečně zkonstruoval první hologram BENDY na světě!<br>Že vypadá úplně, jako opravdový?\!<br>Fňuk...\! Pyšnější bych snad být nemohl...
+    text: \n<BENDA>Á! Zdravím, návštěvníci!\! Po několika měsících tvrdé práce jsem konečně zkonstruoval první hologram BENDY na světě!<br>Že vypadá úplně, jako opravdový?\! Fňuk...\! Pyšnější bych snad být nemohl...
 
 message_453:
     text: \n<BENDA>MOLLY mi řekla, ať tady dál stojím, ale nevím proč!
@@ -2352,7 +2352,7 @@ message_467:
 message_468:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Nechte to na mě...\! I když se mi to vůbec nezdá.\her
+      text: Nechte to na mně...\! I když se mi to vůbec nezdá.\her
 
 message_469:
     text: \n<BENDA>Pospěšte si! Nemáme na to celý den!
@@ -2367,7 +2367,7 @@ message_472:
     text: \n<BENDA>Děkuji za to, že jste dobrovolně riskovali své životy ve jménu vědy.
 
 message_473:
-    text: \n<BENDA>Tak... Teď bych to asi měl jít zpravit.
+    text: \n<BENDA>Tak... Teď bych to asi měl jít spravit.
 
 message_474:
     text: \n<BENDA>Hmm...\| Uf...\| Uch...\| Hrm...\| É?
@@ -2427,7 +2427,7 @@ message_330:
 message_331:
     faceset: MainCharacters_DreamWorld
     faceindex: 49
-    text: \n<HERO>Ahm...\! Zdravím, PANE PÁSOROBOTE...\! Já a mí společníci by po Vás vyžadovali změnu směru jízdy pásů.\! Byli byste vy a vaši přátelé tak hodní a pomohli nám, prosím? #maty, mn.č.
+    text: \n<HERO>Ahm...\! Zdravím, PANE PÁSOROBOTE...\! Já a mí společníci by po vás vyžadovali změnu směru jízdy pásů.\! Byli byste vy a vaši přátelé tak hodní a pomohli nám, prosím? #maty, mn.č.
 
 message_332:
     text: \n<PAN PÁSOROBOT>\quake[1]Bzzz...\! Hmm...\! Slušný...\quake[0]
@@ -2485,10 +2485,10 @@ message_489:
     text: \n<BENDA>Nebo aspoň myslím, že to po nás chtěla...
 
 message_490:
-    text: \n<BENDA>Já si jsem celkem jistý, že bych se měl vyměnit s tím vedle tebe...
+    text: \n<BENDA>Já si jsem celkem jistý, že bych se měl vyměnit s po tvé pravici...
 
 message_491:
-    text: \n<BENDA>A když říkám "vedle tebe", myslím tebe, toho přede mnou... ne nějakou teoretickou osobu, dívající se na nás skrz obrazovku.
+    text: \n<BENDA>A když říkám "po tvé pravici", myslím tvé, jakože toho přede mnou... ne jakési teoretické osoby, dívající se na nás skrz obrazovku.
 
 message_492:
     text: \n<BENDA>Tohle je beztak jeden z těch MOLLYNÝCH šílených rébusů...
@@ -2669,7 +2669,7 @@ message_289:
     text: \n<RECYKLOSEKTAŘ>Rád bych s tebou šel, ale myslím, že pro mě už není místo...
 
 message_290:
-    text: \n<RECYKLOSEKTAŘ>Spolčit se se špinavým plastožroutem?\! To já nikdy!\!<br>...\! I když...\! Možná, kdyby mi to řekl někdo trochu šaramantnější...
+    text: \n<RECYKLOSEKTAŘ>Spolčit se se špinavým plastožroutem?\! To já nikdy!\!<br>...\! I když...\! Možná, kdyby mi to řekl někdo trochu půvabnější...
 
 message_291:
     text: \n<RECYKLOSEKTAŘ>Měl bych se nad sebou zamyslet...

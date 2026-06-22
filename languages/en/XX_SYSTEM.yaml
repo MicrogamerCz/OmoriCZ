@@ -74,7 +74,7 @@ message_8:
     text: Tak copak to tady máme...\! ...jakousi podivuhodnou želatinu!\!<br>Chtěl by sis dát? #pád
 
 message_9:
-    text: Tak copak to tady máme...\! ...okurky!\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme...\! ...kyselé okurky!\!<br>Chtěl by sis dát?
 
 message_20:
     text: Tak copak to tady máme...\! ...XXL porci rychléhoho občerstvení!\!<br>Chtěl by sis dát? #pád
@@ -118,7 +118,7 @@ message_33:
 #Blackspace
 
 message_30:
-    text: Tak copak to tady máme... ztvrdlý, zmražený steak.\!<br>Chtěl by sis dát?
+    text: Tak copak to tady máme... ztvrdlý, zmražený steak!\!<br>Chtěl by sis dát?
 
 # -----------------------------------------------
 # - YES/NO

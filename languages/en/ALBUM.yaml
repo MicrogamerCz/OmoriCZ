@@ -61,7 +61,7 @@ faraway_message9:
 faraway_message10:
     background: 0
     position: 2
-    text: \n<10/3>KEL byl ještě pořád zklamaný z toho, jak včera večer prohrál v páce, a tak se ho HERO rozhodl pořádně zmuckat!<br>KEL vypadá tak otráveně...<br>\!Ach, ta bratrská láska... #přidávám ta
+    text: \n<10/3>KEL byl ještě pořád zklamaný z toho, jak včera večer prohrál v páce, a tak se ho HERO rozhodl pořádně zmuckat!<br>KELOVI se to moc nelíbilo...<br>\!Ach, ta bratrská láska... #přidávám ta
 
 faraway_message11:
     background: 0
@@ -216,7 +216,7 @@ faraway_message40:
 faraway_message41:
     background: 0
     position: 2
-    text: \n<6/9>Já, KEL, HERO a AUBRY jak hrajeme karty.\! Jsou tak jasní! Jejich myšlenky jdou vždycky tak lehce vyčíst...<br><br>MARI nám všem upekla sušenky úplně sama.<br>A jako vždycky byly nejen čokoládové, ale i výborné! #přiroz
+    text: \n<6/9>Já, KEL, HERO a AUBRY jak hrajeme karty.\! Jsou tak jasní! Jejich myšlenky jdou vždycky tak snadno vyčíst...<br><br>MARI nám všem upekla sušenky úplně sama.<br>A jako vždycky byly nejen čokoládové, ale i výborné! #přiroz
 
 faraway_message42:
     background: 0
@@ -288,7 +288,7 @@ dreamworld_message6:
 dreamworld_message7:
     background: 0
     position: 2
-    text: \"HERO jak se připravuje KELA zmuckat!<br>\!KEL vypadá tak otráveně...\! Ach, ta bratrská láska...\" #konzistence
+    text: \"HERO jak se připravuje KELA zmuckat!<br>\!KELOVI se to moc nelíbilo...\! Ach, ta bratrská láska...\" #konzistence
 
 dreamworld_message8:
     background: 0

@@ -46,21 +46,21 @@ terms:
     message:
         actionFailure: "Na %1 to nemělo žádný vliv!"
         actorDamage: "%1 ztrácí %2 ŽIVOTŮ!"
-        actorDrain: "%1 přichází o %3 %2!"
-        actorGain: "%1 získává %3 %2!"
-        actorLoss: "%1 ztrácí %3 %2!"
+        actorDrain: "%1 přichází o %3 ŠŤÁVY!"
+        actorGain: "%1 získává %3 ŠŤÁVY!"
+        actorLoss: "%1 ztrácí %3 ŠŤÁVY!"
         actorNoDamage: "%1 nepřichází o žádné ŽIVOTY!"
         actorNoHit: "VEDLE! %1 nepřichází o žádné ŽIVOTY!"
-        actorRecovery: "%1 doplnil/a %3 o %2 bodů!"
+        actorRecovery: "%1 doplňuje ŠŤÁVU o %3 bodů!"
         alwaysDash: "VŽDY BĚŽET"
         bgmVolume: "HLASITOST HUDBY"
         bgsVolume: "HLASITOST POZADÍ"
         buffAdd: "%2 %1 se zvýšilo!"
         buffRemove: "%1 se vrací zpět k normálu!"
-        commandRemember: "Příkaz zapamatován"
+        commandRemember: "Pokyn zapamatován"
         counterAttack: "%1 vrací úder!"
-        criticalToActor: "TREFA PŘÍMO DO SRDCE!"
-        criticalToEnemy: "TREFA PŘÍMO DO SRDCE!"
+        criticalToActor: "TREFA JAKO O ŽIVOT!"
+        criticalToEnemy: "TREFA JAKO O ŽIVOT!"
         debuffAdd: "%2 %1 se zvýšilo!"
         defeat: "%1 byl poražen/a..."
         emerge: "%1 se objevil!"
@@ -73,19 +73,19 @@ terms:
         enemyRecovery: "%1 doplnil/a %3 o %2 bodů!"
         escapeFailure: "...ovšem, nepovedl se."
         escapeStart: "%1 se pokouší o útěk!"
-        evasion: "%1 se vyhnul/a útoku!"
+        evasion: "%1 se vyhýbá útoku!"
         expNext: "K příštímu %1"
         expTotal: "Současný %1"
         file: "Hra"
-        levelUp: "%1 nabil %2 %3!"
+        levelUp: "%1 nabývá %3. ÚROVNĚ!"
         loadMessage: "Načíst kterou hru?"
         magicEvasion: "%1 překazil účinek kouzla!"
-        magicReflection: "%1 obrátil kouzlo!"
+        magicReflection: "%1 obrací kouzlo!"
         meVolume: "Hlasitost hudebních efektů"
         obtainExp: "Získal jsi %1 %2!"
-        obtainGold: "Získal jsi %1\\M!"
+        obtainGold: "Získal jsi %1\\G!"
         obtainItem: "Našel jsi %1!"
-        obtainSkill: "...a naučil se dovednost %1!"
+        obtainSkill: "...a nyní umí se dovednost %1!"
         partyName: "%1HO parta"
         possession: "Vlastnictví"
         preemptive: "%1 má náskok!"
@@ -93,21 +93,21 @@ terms:
         saveWait: "UKLÁDÁNÍ"
         seVolume: "Hlasitost zvukových efektů"
         substitute: "%1 brání %2!"
-        surprise: "%1 je překvapen/a!"
+        surprise: "%1 prožívá překvapení!"
         useItem: "%1 používá %2!"
         victory: "%1 zvítězila!"
 
     param:
-        0: "Max HP"
-        1: "Max MP"
-        2: "Attack"
-        3: "Defense"
-        4: "M.Attack"
-        5: "M.Defense"
-        6: "Speed"
-        7: "Luck"
-        8: "Hit"
-        9: "Evasion"
+        0: "Max. ŽIVOTY"
+        1: "Max. ŠŤÁVA"
+        2: "Útok"
+        3: "Obrana"
+        4: "Max. Útok"
+        5: "Max. Obrana"
+        6: "Rychlost"
+        7: "Štěstí"
+        8: "Počet úderů"
+        9: "Šance na úhyb"
 
 # Table of Keys for Input
 inputKeysTable:
@@ -535,7 +535,7 @@ plugins:
     itemUse:
       commands:
         - [POUŽÍT, OTEVŘÍT, VYPÍT, SNÍST]
-        - BINEC
+        - ZAHODIT
 
       confirm:
         single:
@@ -558,7 +558,7 @@ plugins:
 
   optionsMenu:
     alertMessages:
-      restoreGeneral: Proběhlo navrácení původního nastavení. Přeješ si obnovit také hlavní uloženou hru?
+      restoreGeneral: Proběhlo navrácení původního nastavení. Chceš obnovit také hlavní uloženou hru?
     buttonHints:
       confirm: POTVRDIT
       cancel: ZRUŠIT
@@ -861,7 +861,7 @@ plugins:
           itemSellingCancelMessage: 'farawaytown_extras_shop.message_96'
       candy:
         showMailboxShopkeeper: false
-        shopName: SMILEY, SMILEY!
+        shopName: ZDRAVÍM, MILÍ ZLATÍ!
         buyHeader: CO BY SIS CHTĚL KOUPIT?
         sellHeader: CO BYS CHTĚL PRODAT?
         texts:
