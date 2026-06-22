@@ -34,7 +34,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 50,
-    "name": "AUBRY",
+    "name": "AUBREY",
     "nickname": "",
     "note": "<BattleStatusFaceName: 02_AUBREY_BATTLE>\n<BattleStatusIndex: 0>\n\n<BattleCommandsList>\nskill: 64\nskillList\ndefend\nitems\n</BattleCommandsList>\n\n<Hit Counter>",
     "profile": ""

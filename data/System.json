@@ -36,7 +36,7 @@
     "startX": 0,
     "startY": 0
   },
-  "currencyUnit": " CLAMS",
+  "currencyUnit": " MUŠLE",
   "defeatMe": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "editMapId": 999,
   "elements": [
@@ -4219,7 +4219,7 @@
   ],
   "versionId": 35599841,
   "victoryMe": { "name": "xx_victory", "pan": 0, "pitch": 100, "volume": 90 },
-  "weaponTypes": ["", "OMORI", "AUBRY", "KEL", "HERO", "NORMAL"],
+  "weaponTypes": ["", "OMORI", "AUBREY", "KEL", "HERO", "NORMAL"],
   "windowTone": [0, 0, 0, 0],
   "hasEncryptedImages": true,
   "hasEncryptedAudio": true,

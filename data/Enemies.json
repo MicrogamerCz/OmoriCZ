@@ -2167,7 +2167,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 842,
-    "name": "SNĚŽNÝ ANDĚL",
+    "name": "ANDĚL SNĚŽNÝ",
     "note": "<TransformBaseID: 83>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 327, target\nState === State 186: SKILL 326, target\nState === State 6: SKILL 328, target\nRandom 40%: SKILL 326, target\nRandom 100%: SKILL 327, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_snow_angel>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 536, 479>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -260>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -160>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [1000, 225, 86, 22, 10, 10, 80, 25]
   },
@@ -2193,7 +2193,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 1263,
-    "name": "SNĚŽNÝ ANDĚL",
+    "name": "ANDĚL SNĚŽNÝ",
     "note": "<TransformBaseID: 83>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 327, target\nState === State 186: SKILL 326, target\nState === State 6: SKILL 328, target\nRandom 30%: SKILL 326, target\nRandom 100%: SKILL 327, target\n</AI Priority>\n\n<Sideview Battler: !battle_snow_angel>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 536, 479>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -260>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -160>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [1000, 225, 86, 22, 10, 10, 80, 25]
   },
@@ -2219,7 +2219,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 632,
-    "name": "SNĚŽNÝ ANDĚL",
+    "name": "ANDĚL SNĚŽNÝ",
     "note": "<TransformBaseID: 83>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 327, target\nState === State 186: SKILL 326, target\nState === State 6: SKILL 328, target\nRandom 40%: SKILL 326, target\nRandom 100%: SKILL 327, target\n</AI Priority>\n\n<Sideview Battler: !battle_snow_angel>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 536, 479>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -260>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -160>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [1000, 225, 86, 22, 10, 10, 80, 25]
   },
@@ -2245,7 +2245,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 842,
-    "name": "SNĚŽNÝ ANDĚL",
+    "name": "ANDĚL SNĚŽNÝ",
     "note": "<TransformBaseID: 83>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 327, target\nState === State 186: SKILL 326, target\nState === State 6: SKILL 328, target\nRandom 70%: SKILL 326, target\nRandom 100%: SKILL 327, target\n</AI Priority>\n\n<Sideview Battler: !battle_snow_angel>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 536, 479>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -260>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -160>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [1000, 225, 86, 22, 10, 10, 80, 25]
   },
@@ -3722,7 +3722,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 16,
-    "name": "ZAZAJÍČEK",
+    "name": "HMYZAJÍČEK",
     "note": "<TransformBaseID: 142>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 426, target\nRandom 65%: SKILL 426, target\nRandom 30%: SKILL 427, target\nRandom 50%: SKILL 428, target\nRandom 100%: SKILL 429, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_bug_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 142, 170>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [145, 62, 25, 5, 10, 10, 25, 10]
   },
@@ -3748,7 +3748,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 24,
-    "name": "ZAZAJÍČEK",
+    "name": "HMYZAJÍČEK",
     "note": "<TransformBaseID: 142>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 426, target\nRandom 35%: SKILL 426, target\nRandom 30%: SKILL 427, target\nRandom 100%: SKILL 428, target\n</AI Priority>\n\n<Sideview Battler: !battle_bug_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 142, 170>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [145, 62, 25, 5, 10, 10, 25, 10]
   },
@@ -3774,7 +3774,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 12,
-    "name": "ZAZAJÍČEK",
+    "name": "HMYZAJÍČEK",
     "note": "<TransformBaseID: 142>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 426, target\nRandom 30%: SKILL 426, target\nRandom 65%: SKILL 427, target\nRandom 30%: SKILL 428, target\nRandom 100%: SKILL 429, target\n</AI Priority>\n\n<Sideview Battler: !battle_bug_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 142, 170>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [145, 62, 25, 5, 10, 10, 25, 10]
   },
@@ -3800,7 +3800,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 16,
-    "name": "ZAZAJÍČEK",
+    "name": "HMYZAJÍČEK",
     "note": "<TransformBaseID: 142>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 426, target\nRandom 65%: SKILL 426, target\nRandom 15%: SKILL 427, target\nRandom 65%: SKILL 428, target\nRandom 100%: SKILL 429, target\n</AI Priority>\n\n<Sideview Battler: !battle_bug_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 142, 170>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [145, 62, 25, 5, 10, 10, 25, 10]
   },
@@ -5202,7 +5202,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 100,
-    "name": "ZAJÍČEK-RYBA",
+    "name": "RYBÍČEK",
     "note": "<TransformBaseID: 198>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 530, target\nRandom 40%: SKILL 530, target\nRandom 25%: SKILL 531, target\nTroop Alive Members === 3: SKILL 530, target\nRandom 100%: SKILL 532, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_fish_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 188, 172>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 40>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [280, 90, 40, 13, 10, 10, 42, 10]
   },
@@ -5228,7 +5228,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 150,
-    "name": "ZAJÍČEK-RYBA",
+    "name": "RYBÍČEK",
     "note": "<TransformBaseID: 198>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 530, target\nRandom 35%: SKILL 530, target\nRandom 25%: SKILL 531, target\nTroop Alive Members === 3: SKILL 530, target\nRandom 100%: SKILL 532, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_fish_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 188, 172>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 40>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [280, 90, 40, 13, 10, 10, 42, 10]
   },
@@ -5254,7 +5254,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 75,
-    "name": "ZAJÍČEK-RYBA",
+    "name": "RYBÍČEK",
     "note": "<TransformBaseID: 198>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 530, target\nRandom 30%: SKILL 530, target\nRandom 45%: SKILL 531, target\nTroop Alive Members === 3: SKILL 531, target\nRandom 100%: SKILL 532, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_fish_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 188, 172>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 40>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [280, 90, 40, 13, 10, 10, 42, 10]
   },
@@ -5280,7 +5280,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 100,
-    "name": "ZAJÍČEK-RYBA",
+    "name": "RYBÍČEK",
     "note": "<TransformBaseID: 198>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 530, target\nRandom 50%: SKILL 530, target\nRandom 15%: SKILL 531, target\nTroop Alive Members === 3: SKILL 531, target\nRandom 100%: SKILL 532, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_fish_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 188, 172>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -150>\n<DamageOffsetY: 40>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [280, 90, 40, 13, 10, 10, 42, 10]
   },
@@ -7262,7 +7262,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 80,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "<TransformBaseID: 274>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 95, 10]
   },
@@ -7288,7 +7288,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 120,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "<TransformBaseID: 274>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 95, 10]
   },
@@ -7314,7 +7314,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 60,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "<TransformBaseID: 274>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 95, 10]
   },
@@ -7340,7 +7340,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 80,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "<TransformBaseID: 274>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 95, 10]
   },
@@ -7395,7 +7395,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 5000,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "//Chicken Ball Chicken\n<TransformBaseID: 279>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 110, 10]
   },
@@ -7421,7 +7421,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 5000,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "//Chicken Ball Chicken\n<TransformBaseID: 279>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 110, 10]
   },
@@ -7447,7 +7447,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 5000,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "//Chicken Ball Chicken\n<TransformBaseID: 279>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 110, 10]
   },
@@ -7473,7 +7473,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 5000,
-    "name": "KUŘECÍ?",
+    "name": "KUŘE?",
     "note": "//Chicken Ball Chicken\n<TransformBaseID: 279>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 90%: SKILL 660, target\nRandom 100%: SKILL 661, target\n</AI Priority>\n\n<Sideview Battler: !battle_chicken>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 146, 224>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -250>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 300, 10, 10, 10, 10, 110, 10]
   },
@@ -9987,7 +9987,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 374>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [9999, 0, 1, 999, 10, 999, 1, 10]
   },
@@ -10016,7 +10016,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 374>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [9999, 0, 1, 15, 10, 10, 1, 10]
   },
@@ -10045,7 +10045,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 374>\n\n<Static Level: 1>\n<AI Level: 100>\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [9999, 0, 1, 15, 10, 10, 1, 10]
   },
@@ -10074,7 +10074,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 374>\n\n<Static Level: 1>\n<AI Level: 100>\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [9999, 0, 1, 15, 10, 10, 1, 10]
   },
@@ -10872,7 +10872,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 1000,
-    "name": "ZLOMYSLNÝ CHIP",
+    "name": "ZLOMYSLNÝ ČIPS",
     "note": "<TransformBaseID: 406>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 873, target\nRandom 40%: SKILL 873, target\nRandom 30%: SKILL 874, target\nRandom 35%: SKILL 875, target\nRandom 100%: SKILL 876, target\n</AI Priority>\n\n<Sideview Battler: !battle_uncle_chip>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 612, 432>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -230>\n<StatusCursorPosition: 0>\n<DamageOffsetX: -10>\n<DamageOffsetY: -150>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [3456, 1700, 43, 47, 10, 10, 10, 15]
   },
@@ -10898,7 +10898,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 1500,
-    "name": "ZLOMYSLNÝ CHIP",
+    "name": "ZLOMYSLNÝ ČIPS",
     "note": "<TransformBaseID: 406>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 873, target\nRandom 25%: SKILL 873, target\nRandom 25%: SKILL 874, target\nRandom 100%: SKILL 877, target\n</AI Priority>\n\n<Sideview Battler: !battle_uncle_chip>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 612, 432>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -230>\n<StatusCursorPosition: 0>\n<DamageOffsetX: -20>\n<DamageOffsetY: -150>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [3456, 1700, 43, 47, 10, 10, 10, 15]
   },
@@ -10924,7 +10924,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 750,
-    "name": "ZLOMYSLNÝ CHIP",
+    "name": "ZLOMYSLNÝ ČIPS",
     "note": "<TransformBaseID: 406>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 873, target\nRandom 35%: SKILL 873, target\nRandom 50%: SKILL 874, target\nRandom 25%: SKILL 875, target\nRandom 100%: SKILL 876, target\n</AI Priority>\n\n<Sideview Battler: !battle_uncle_chip>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 612, 432>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -230>\n<StatusCursorPosition: 0>\n<DamageOffsetX: -20>\n<DamageOffsetY: -150>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>",
     "params": [3456, 1700, 43, 47, 10, 10, 10, 15]
   },
@@ -10950,7 +10950,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 1000,
-    "name": "ZLOMYSLNÝ CHIP",
+    "name": "ZLOMYSLNÝ ČIPS",
     "note": "<TransformBaseID: 406>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 873, target\nRandom 60%: SKILL 873, target\nRandom 25%: SKILL 874, target\nRandom 25%: SKILL 875, target\nRandom 100%: SKILL 876, target\n</AI Priority>\n\n<Sideview Battler: !battle_uncle_chip>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 612, 432>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -230>\n<StatusCursorPosition: 0>\n<DamageOffsetX: -20>\n<DamageOffsetY: -150>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [3456, 1700, 43, 47, 10, 10, 10, 15]
   },
@@ -15176,7 +15176,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "DOKONALÉ ZLATÍČKO",
+    "name": "SUPERZLATÍČKO",
     "note": "<TransformBaseID: 559>\n<Passive State: 184>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 1046, target\nState === State 186: SKILL 1044, target\nVariable 1001 === 1: Skill 1046, target\nRandom 35%: SKILL 1044, target\nRandom 25%: SKILL 1045, target\nRandom 35%: SKILL 1049, target\nRandom 45%: SKILL 1047, target\nRandom 100%: SKILL 1048, target\n</AI Priority>\n\n\n<Sideview Battler: !battle_perfect_heart>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 343, 414>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 125>\n<StatusCursorPosition: 0>\n<StatusYOffset: -165>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [10000, 5000, 140, 140, 10, 10, 140, 15]
   },
@@ -15202,7 +15202,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "DOKONALÉ ZLATÍČKO",
+    "name": "SUPERZLATÍČKO",
     "note": "<TransformBaseID: 559>\n<Passive State: 184>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 1046, target\nState === State 186: SKILL 1044, target\nVariable 1001 === 1: Skill 1046, target\nRandom 35%: SKILL 1044, target\nRandom 25%: SKILL 1045, target\nRandom 35%: SKILL 1049, target\nRandom 45%: SKILL 1047, target\nRandom 100%: SKILL 1048, target\n</AI Priority>\n\n<Sideview Battler: !battle_perfect_heart>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 343, 414>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 125>\n<StatusCursorPosition: 0>\n<StatusYOffset: -165>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [10000, 5000, 140, 140, 10, 10, 140, 15]
   },
@@ -15228,7 +15228,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "DOKONALÉ ZLATÍČKO",
+    "name": "SUPERZLATÍČKO",
     "note": "<TransformBaseID: 559>\n<Passive State: 184>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 1046, target\nState === State 186: SKILL 1044, target\nVariable 1001 === 1: Skill 1046, target\nRandom 35%: SKILL 1044, target\nRandom 25%: SKILL 1045, target\nRandom 35%: SKILL 1049, target\nRandom 45%: SKILL 1047, target\nRandom 100%: SKILL 1048, target\n</AI Priority>\n\n<Sideview Battler: !battle_perfect_heart>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 343, 414>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 125>\n<StatusCursorPosition: 0>\n<StatusYOffset: -165>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>",
     "params": [10000, 5000, 140, 140, 10, 10, 140, 15]
   },
@@ -15254,7 +15254,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "DOKONALÉ ZLATÍČKO",
+    "name": "SUPERZLATÍČKO",
     "note": "<TransformBaseID: 559>\n<Passive State: 184>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 185: SKILL 1046, target\nState === State 186: SKILL 1044, target\nVariable 1001 === 1: Skill 1046, target\nRandom 35%: SKILL 1044, target\nRandom 25%: SKILL 1045, target\nRandom 35%: SKILL 1049, target\nRandom 45%: SKILL 1047, target\nRandom 100%: SKILL 1048, target\n</AI Priority>\n\n<Sideview Battler: !battle_perfect_heart>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 343, 414>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 125>\n<StatusCursorPosition: 0>\n<StatusYOffset: -165>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [10000, 5000, 140, 140, 10, 10, 140, 15]
   },
@@ -15778,7 +15778,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 581>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [3700, 425, 68, 30, 10, 10, 1, 10]
   },
@@ -15804,7 +15804,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 581>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [3700, 425, 68, 30, 10, 10, 1, 10]
   },
@@ -15830,7 +15830,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 581>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>",
     "params": [3700, 425, 68, 30, 10, 10, 1, 10]
   },
@@ -15856,7 +15856,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 581>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [3700, 425, 68, 30, 10, 10, 1, 10]
   },
@@ -23257,7 +23257,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 30,
-    "name": "ZALÍVANEC",
+    "name": "ZAJÍVANEC",
     "note": "<TransformBaseID: 847>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1321, target\nRandom 50%: SKILL 1321, target\nRandom 100%: SKILL 1322, target\n</AI Priority>\n\n<Sideview Battler: !battle_pancake_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 206, 175>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [200, 100, 10, 10, 10, 10, 30, 30]
   },
@@ -23283,7 +23283,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 45,
-    "name": "ZALÍVANEC",
+    "name": "ZAJÍVANEC",
     "note": "<TransformBaseID: 847>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1321, target\nRandom 55%: SKILL 1321, target\nRandom 100%: SKILL 1322, target\n</AI Priority>\n\n<Sideview Battler: !battle_pancake_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 206, 175>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [200, 100, 10, 10, 10, 10, 30, 30]
   },
@@ -23309,7 +23309,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 23,
-    "name": "ZALÍVANEC",
+    "name": "ZAJÍVANEC",
     "note": "<TransformBaseID: 847>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1321, target\nRandom 40%: SKILL 1321, target\nRandom 100%: SKILL 1322, target\n</AI Priority>\n\n<Sideview Battler: !battle_pancake_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 206, 175>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [200, 100, 10, 10, 10, 10, 30, 30]
   },
@@ -23335,7 +23335,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 30,
-    "name": "ZALÍVANEC",
+    "name": "ZAJÍVANEC",
     "note": "<TransformBaseID: 847>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1321, target\nRandom 65%: SKILL 1321, target\nRandom 100%: SKILL 1322, target\n</AI Priority>\n\n<Sideview Battler: !battle_pancake_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 206, 175>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 20>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [200, 100, 10, 10, 10, 10, 30, 30]
   },
@@ -23465,7 +23465,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "ZAJÍČEK-DUCH",
+    "name": "DUŠÍČEK",
     "note": "<TransformBaseID: 855>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1334, target\nRandom 55%: SKILL 1334, target\nRandom 100%: SKILL 1335, target\n</AI Priority>\n\n<Sideview Battler: !battle_ghost_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 138, 155>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 25>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 999, 20, 10, 10, 10, 100, 10]
   },
@@ -23491,7 +23491,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "ZAJÍČEK-DUCH",
+    "name": "DUŠÍČEK",
     "note": "<TransformBaseID: 855>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1334, target\nRandom 50%: SKILL 1334, target\nRandom 100%: SKILL 1335, target\n</AI Priority>\n\n<Sideview Battler: !battle_ghost_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 138, 155>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 25>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 999, 20, 10, 10, 10, 100, 10]
   },
@@ -23517,7 +23517,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "ZAJÍČEK-DUCH",
+    "name": "DUŠÍČEK",
     "note": "<TransformBaseID: 855>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1334, target\nRandom 45%: SKILL 1334, target\nRandom 100%: SKILL 1335, target\n</AI Priority>\n\n<Sideview Battler: !battle_ghost_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 138, 155>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 25>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 999, 20, 10, 10, 10, 100, 10]
   },
@@ -23543,7 +23543,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "ZAJÍČEK-DUCH",
+    "name": "DUŠÍČEK",
     "note": "<TransformBaseID: 855>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nState === State 186: SKILL 1334, target\nRandom 60%: SKILL 1334, target\nRandom 40%: SKILL 1335, target\n</AI Priority>\n\n<Sideview Battler: !battle_ghost_bunny>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 138, 155>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 0>\n<StatusYOffset: -175>\n<DamageOffsetY: 25>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<FallOnDeath>",
     "params": [150, 999, 20, 10, 10, 10, 100, 10]
   },
@@ -26841,7 +26841,7 @@
       { "code": 14, "dataId": 20, "value": 1 }
     ],
     "gold": 0,
-    "name": "STRANGER",
+    "name": "NĚKDO",
     "note": "<TransformBaseID: 970>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\n\n</AI Priority>\n\n<Sideview Battler: !battle_shadow_basil>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 40>\n\n<Sideview Battler Size: 722, 480>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset X: -8>\n<Position Offset Y: 120>\n<StatusYOffset: -200>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -150>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\nFrames: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [9999, 9999, 10, 99, 10, 10, 99, 10]
   },
@@ -29053,7 +29053,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 1053>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n<FallOnDeath>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [9999, 0, 1, 999, 10, 999, 1, 10]
   },
@@ -29079,7 +29079,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 1053>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [9999, 0, 1, 999, 10, 999, 1, 10]
   },
@@ -29105,7 +29105,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 1053>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [9999, 0, 1, 999, 10, 999, 1, 10]
   },
@@ -29131,7 +29131,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "CHLÁPEK S ŽIVÝM DŽEMEM",
+    "name": "DŽEMÁK",
     "note": "<TransformBaseID: 1053>\n\n<Static Level: 1>\n<AI Level: 100>\n\n<AI Priority>\nAlways: SKILL 1399, target\n</AI Priority>\n\n<Sideview Battler: !battle_life_jam>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 454, 410>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 100>\n<StatusYOffset: -350>\n<DamageOffsetY: -75>\n\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [9999, 0, 1, 999, 10, 999, 1, 10]
   },
@@ -29781,7 +29781,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 1081>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 0\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 0\nLoop\n</Sideview Battler Motion>",
     "params": [9000, 4000, 100, 25, 10, 10, 1, 10]
   },
@@ -29807,7 +29807,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 1081>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 5\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 5\nLoop\n</Sideview Battler Motion>\n",
     "params": [9000, 4000, 100, 25, 10, 10, 1, 10]
   },
@@ -29833,7 +29833,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 1081>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 3\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 3\nLoop\n</Sideview Battler Motion>",
     "params": [9000, 4000, 100, 25, 10, 10, 1, 10]
   },
@@ -29859,7 +29859,7 @@
       { "code": 14, "dataId": 16, "value": 1 }
     ],
     "gold": 0,
-    "name": "BENDA GRANDE",
+    "name": "MAXIBENDA",
     "note": "<TransformBaseID: 1081>\n\n<Static Level: 1>\n\n<AI Level: 100>\n\n<AI Priority>\nRandom 100%: SKILL 1077, target\n</AI Priority>\n\n<Sideview Battler: !battle_humphrey_stage2>\n<Sideview Battler Frames: 4>\n<Sideview Battler Speed: 12>\n\n<Sideview Battler Size: 510, 498>\n<Sideview Width: 0>\n<Sideview Height: 0>\n<Position Offset Y: 150>\n<StatusYOffset: -255>\n<StatusCursorPosition: 0>\n<DamageOffsetY: -180>\n\n<Sideview Battler Motion>\nName: Walk\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Thrust\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Guard\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Victory\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Damage\nIndex: 1\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Dead\nIndex: 2\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Spell\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Skill\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Item\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n<Sideview Battler Motion>\nName: Other\nIndex: 4\nLoop\n</Sideview Battler Motion>\n\n",
     "params": [9000, 4000, 100, 25, 10, 10, 1, 10]
   },

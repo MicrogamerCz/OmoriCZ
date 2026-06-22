@@ -146,7 +146,9 @@
       {
         "code": 355,
         "indent": 4,
-        "parameters": ["$gameVariables.setValue(23,\"ONE DAY LEFT...\");"]
+        "parameters": [
+          "$gameVariables.setValue(23,\"JEDEN DEN DO STĚHOVÁNÍ...\");"
+        ]
       },
       { "code": 0, "indent": 4, "parameters": [] },
       { "code": 411, "indent": 3, "parameters": [] },
@@ -9463,7 +9465,7 @@
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 111, "indent": 0, "parameters": [1, 1083, 0, 13, 0] },
-      { "code": 108, "indent": 1, "parameters": ["HUMPHREY: 13"] },
+      { "code": 108, "indent": 1, "parameters": ["BENDA: 13"] },
       {
         "code": 122,
         "indent": 1,
