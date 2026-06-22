@@ -769,8 +769,8 @@ Window_OmoriFilePrompt.prototype.setPromptText = function (text) {
 // * Make Command List
 //=============================================================================
 Window_OmoriFilePrompt.prototype.makeCommandList = function () {
-  this.addCommand("Ano", 'ok');
-  this.addCommand("Zrušit", 'cancel');
+  this.addCommand("ANO", 'ok');
+  this.addCommand("ZRUŠIT", 'cancel');
 };
 //=============================================================================
 // * Refresh

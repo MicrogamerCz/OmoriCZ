@@ -15,7 +15,6 @@ var _TDS_ = _TDS_ || {} ; _TDS_.CustomBattleActionText = _TDS_.CustomBattleActio
  */
 //=============================================================================
 
-
 //=============================================================================
 // ** Window_BattleLog
 //-----------------------------------------------------------------------------
@@ -90,7 +89,7 @@ if (hpDam != 0) {
 }
 
 if (critical) {
-    hpDamageText = 'TREFA PŘÍMO DO SRDCE!\r\n' + hpDamageText;
+    hpDamageText = "TREFA JAKO O ŽIVOT!\r\n" + hpDamageText;
 }
 
 if (mpDam > 0) {
@@ -270,16 +269,16 @@ if (mpDam > 0) {
 
   case 'VERTIGO': // OMORI VERTIGO
     if(target.index() <= unitLowestIndex) {
-      text = user.name() + ' throws the foes off balance!\r\n';
-      text += 'All foes\' ATTACK fell!\r\n';
+      text = user.name() + ' protivníky vyvádí z rovnováhy!\r\n';
+      text += "Všichni ztrácí' na ÚTOKU!\r\n";
     }
     text += hpDamageText;
     break;
 
   case 'CRIPPLE': // OMORI CRIPPLE
     if(target.index() <= unitLowestIndex) {
-      text = user.name() + ' cripples the foes!\r\n';
-      text += "All foes' SPEED fell.\r\n";
+      text = user.name() + " postihuje protivníky!\r\n";
+      text += "Všichni protivníci ztrácí na RYCHLOSTI.\r\n";
     }
     text += hpDamageText;
     break;
@@ -559,7 +558,7 @@ if (mpDam > 0) {
 
     case 'PASS HERO 2':  // KEL PASS HERO
       if(target.index() <= unitLowestIndex) {
-        text = user.name() + ' ohromuje protivníky ve stylu!\r\n';
+        text = user.name() + ' stylově ohromuje protivníky!\r\n';
         text += "Všem protivníkům klesl ÚTOK!\r\n";
       }
       text += hpDamageText;
@@ -602,7 +601,7 @@ if (mpDam > 0) {
       else {text += parseNoEffectEmotion(target.name(), "ŠŤASTNĚJŠÍ!")}
       break;
     case 'TENDERIZE': // TENDERIZE
-      text = user.name() + ' silně masážuje\r\n';
+      text = user.name() + ' silně naklepává\r\n';
       text += target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + '\ ztrácí na OBRANĚ!\r\n';}
       else {text += parseNoStateChange(target.name(), "OBRANA", "nižší!\r\n")}
@@ -648,8 +647,8 @@ if (mpDam > 0) {
     case 'ENCHANT':  // ENCHANT
       text = user.name() + ' upoutává protivníkovu pozornost\r\n';
       text += 's úsměvem.\r\n';
-      if(!target._noEffectMessage) {text += target.name() + " feels HAPPY!";}
-      else {text += parseNoEffectEmotion(target.name(), "HAPPIER!")}
+      if(!target._noEffectMessage) {text += target.name() + " má RADOST!";}
+      else {text += parseNoEffectEmotion(target.name(), "ŠŤASTNĚJŠÍ!");}
       break;
 
     case 'MENDING': //MENDING
@@ -696,7 +695,7 @@ if (mpDam > 0) {
       }
       if(!!$gameTemp._statsState[1]) {
         var absMp = Math.abs($gameTemp._statsState[1] - $gameActors.actor(2).mp);
-        if(absMp > 0) {text += `AUBREY získává ${absMp} ŠŤÁVY...`;}
+        if(absMp > 0) {text += `AUBRY získává ${absMp} ŠŤÁVY...`;}
       }
       break;
 
@@ -868,7 +867,7 @@ if (mpDam > 0) {
 
     //MIXTAPE//
     case 'MIXTAPE ATTACK':  // MIXTAPE ATTACK
-      text = user.name() + ' dává facku ' + target.name() + '!\r\n';
+      text = user.name() + ' fackuje ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
@@ -877,7 +876,7 @@ if (mpDam > 0) {
       break;
 
     case 'TANGLE':  // TANGLE
-      text = target.name() + ' se zamotala v ' + user.name() + '!\r\n';
+      text = target.name() + ' se zamotává do ' + user.name() + '!\r\n';
       text += target.name() + '\ ztrácí RYCHLOST...';
       break;
 
@@ -966,7 +965,7 @@ if (mpDam > 0) {
       break;
 
     case 'PIERCE HEART': //PIERCE HEART
-      text = user.name() + ' píchá ' + target.name() + ' do srdce.\r\n';
+      text = user.name() + ' bodá ' + target.name() + ' do srdce.\r\n';
       text += hpDamageText;
       break;
 
@@ -2630,13 +2629,13 @@ if (mpDam > 0) {
         break;
 
       case 'MUTANT HEART KILL': //MUTANT HEART KILL
-        text = 'MUTANTÍČKO dává facku ' + user.name() +'!\r\n';
+        text = 'MUTANTÍČKO fackuje ' + user.name() +'!\r\n';
         text += hpDamageText;
         break;
 
         //PERFECT HEART//
         case 'PERFECT STEAL HEART': //PERFECT HEART STEAL HEART
-          text = user.name() + ' beree ' + target.name() + '\'s\r\n';
+          text = user.name() + ' bere ' + target.name() + '\'s\r\n';
           text += 'ŽIVOTY.\r\n';
           text += hpDamageText + "\r\n";
           if(user.result().hpDamage < 0) {text += `${user.name()} získává ${Math.abs(user.result().hpDamage)} ŽIVOTŮ!\r\n`}
@@ -2666,7 +2665,7 @@ if (mpDam > 0) {
             text = user.name() + ' zpívá procítěnou písničku...\r\n';
             if(!user._noEffectMessage) {text += user.name() + " má SMUTEK.\r\n"}
             else {text += parseNoEffectEmotion(user.name(), "SMUTNĚJŠÍ!\r\n")}
-            text += 'Everyone feels HAPPY!';
+            text += 'Všichni mají RADOST!';
           }
           break;
 
