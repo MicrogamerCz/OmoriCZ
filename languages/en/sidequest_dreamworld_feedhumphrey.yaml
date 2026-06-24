@@ -9,7 +9,7 @@ message_0:
       text: \herZdravím, PANE CENILE! Přišli jsme vás pozdravit!
 
 message_1:
-      text: \jawHERO...\! Opravdu jsi to ty?
+      text: \jawHERO...\! Jsi to opravdu ty?
 
 message_2:
       faceset: MainCharacters_DreamWorld
@@ -64,7 +64,7 @@ message_40:
 message_15:
       faceset: MainCharacters_DreamWorld
       faceindex: 46 #replace
-      text: \her\Com[2]C-Cože?\! Jste si jistý?\! Vždyť je mi jen patnáct!
+      text: \her\Com[2]C-Cože?\! Jste si jistý?\! Vždyť je mi teprve patnáct!
 
 message_16:
       text: \jawHERO!\! S ničím jsem si v životě snad jistější nebyl!\! Tohle neříkej ostatním, ale...\! vždy jsi byl můj oblíbenec.
@@ -84,7 +84,7 @@ message_20:
       text: \jawStarej CENIL si konečně užije trochu srandy!\!<br>Jednou se ještě uvidíme! Ne, abych ti chyběl, HERO!
 
 message_28:
-      text: \jaw\Com[2]\Sinv[2]\{\{CEHEHE\{HEHEHE\{HEHEHE!!\Sinv[0]
+      text: \jaw\Com[2]\Sinv[2]\{\{ŽRÁÁÁ\{HAHAHAHA\{HAHA!!\Sinv[0]
 
 
 #Talk to Humphrey
@@ -111,7 +111,7 @@ message_25:
 #BENDAS stomach gurgles
 
 message_26:
-      text: \humA... Je to!\! Tak teď, když jsem konečně sytý <br>, bych měl být vevnitř zase v běžném pořádku...
+      text: \humA... Je to!\! Tak teď, když jsem konečně sytý, <br>bych měl být vevnitř zase v běžném pořádku...
 
 #note: Humphrey becomes re-accessible as a map
 

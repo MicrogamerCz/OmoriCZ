@@ -28,7 +28,7 @@ message_3:
 message_4:
     faceset: MainCharacters_DreamWorld
     faceindex: 33
-    text: \kel\{\Com[2]\sinv[1]\c[13]HEKTO\{OOOOOO\{OOOOOORE\c[0]!!!
+    text: \kel\{\Com[2]\sinv[1]\c[13]HEKTO\{OOOOOO\{OOREEEEEE\c[0]!!!
 
 message_5:
     faceset: MainCharacters_DreamWorld
@@ -43,7 +43,7 @@ message_6:
 message_7:
     faceset: MainCharacters_DreamWorld
     faceindex: 11
-    text: \aubCo řešíš? Vždyť to byl jen blbej kámen, ne?
+    text: \aubCo řešíš? Vždyť to byl jen obyčejný šutr, ne?
 
 message_8:
     faceset: MainCharacters_DreamWorld
@@ -76,7 +76,7 @@ message_13:
     text: \kelVydrž, \c[13]HEKTORE\c[0]!\!<br>Najdu tě...\! Přísahám!
 
 message_15:
-    text: \n<HEATHER>Vždy na tebe budeme hrdí, synu.
+    text: \n<HANKA>Vždy na tebe budeme hrdí, synu.
 
 message_16:
-    text: \n<HEATHER ML.>Jdi si za svými sny, bratře!
+    text: \n<HANKA ML.>Jdi si za svými sny, bratře!

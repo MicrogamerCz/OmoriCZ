@@ -12,7 +12,7 @@ message_18:
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 23
-      text: \kelAch...\! \c[13]HEKTOR\c[0]?!\! Je tohle možné? Jsi to vážně ty?\!<br>Pojď, \c[13]HEKTORE\c[0]! Šup zpátky do kapsy!\!<br>Jako za starých časů!
+      text: \kelAch...\! \c[13]HEKTORE\c[0]?!\! Je tohle možné? Jsi to fakt ty?\!<br>Pojď, \c[13]HEKTORE\c[0]! Šup zpátky do kapsy!\!<br>Jako za starých časů!
 
 message_1:
       faceset: MainCharacters_DreamWorld

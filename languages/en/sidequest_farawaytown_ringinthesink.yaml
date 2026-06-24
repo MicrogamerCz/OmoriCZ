@@ -29,7 +29,7 @@ message_6:
 #examine Sink
 
 message_7:
-      text: \n<MATLÁK>Tak jsme na místě činu...\! Umýval jsem nádobí, a pak najednou...\! \Com[2]mi můj \c[4]SVATEBNÍ PRSTEN\c[0] sklouzl s prstu a spadl do dřezu...
+      text: \n<MATLÁK>Tak jsme na místě činu...\! Umýval jsem nádobí, a pak najednou...\! \Com[2]mi můj \c[4]ZÁSNUBNÍ PRSTEN\c[0] sklouzl s prstu a spadl do dřezu...
 
 message_8:
       text: \n<MATLÁK>Šílený, viď?\! Tohle by snad ani v televizi nevymysleli...
@@ -50,10 +50,10 @@ message_12:
       text: Na dně dřezu se něco leskne.
 
 message_13:
-      text: Získal jsi \c[4]SVATEBNÍ PRSTEN\c[0]!
+      text: Získal jsi \c[4]ZÁSNUBNÍ PRSTEN\c[0]!
 
 message_14:
-      text: Dal jsi SÁŘINĚ TÁTOVI \c[4]SVATEBNÍ PRSTEN\c[0].
+      text: Dal jsi SÁŘINĚ TÁTOVI \c[4]ZÁSNUBNÍ PRSTEN\c[0].
 
 message_15:
       text: \n<MATLÁK>\Com[2]Hele, to je on, to je fakt on!\! \Com[2]Díky moc!\! \Com[2]Díky, díky, díky!\!<br>Tohle vám nikdy nezapomenu, slibuju!\! Kdykoliv se stavte, u nás jste vždy vítáni!
@@ -65,7 +65,7 @@ message_17:
       text: Na dně dřežu se něco leskne.
 
 message_18:
-      text: \n<MATLÁK>P-Počkejte!\! Pomožte mi prosím vylovit ten \c[4]SVATEBNÍ PRSTEN\c[0]!
+      text: \n<MATLÁK>P-Počkejte!\! Pomozte mi prosím vylovit ten \c[4]ZÁSNUBNÍ PRSTEN\c[0]!
 
 message_19:
       text: \n<MATLÁK>Tady!

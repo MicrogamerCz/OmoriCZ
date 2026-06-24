@@ -81,7 +81,7 @@ message_18:
       text: \kelAno, tvůj bratr tě celou dobu hledá!\!<br>Na, posílá ti tohle!
 
 message_19:
-      text: Předal POMERANČOVÉMU JOEMU \c[4]POMERANČOVÝ HŘEBEN\c[0]!
+      text: Předal jsi POREMANČOVÉMU JOEMU \c[4]POMERANČOVÝ HŘEBEN\c[0]!
 
 message_20:
       text: \n<POREMANČOVÝ JOE>Tohle...\! Tento hřeben!\! Že by...?\! <br>Od mala jsem hledal svůj pravý domov, prošel jsem snad celý svět...
@@ -93,7 +93,7 @@ message_22:
       text: \n<POREMANČOVÝ JOE>Který vypadal naprosto stejně, jako tenhle!
 
 message_23:
-      text: \n<POREMANČOVÝ JOE>Už mi to všechno dává smysl...\! <br>Konečně vím, kdo doopravdy jsem!\! Musím být...\!<br>POREMANČOVÝ JOE!
+      text: \n<POREMANČOVÝ JOE>Už mi to všechno dává smysl...\! <br>Konečně vím, kdo doopravdy jsem!\! Jsem...\!<br>POREMANČOVÝ JOE!
 
 #POMERANČOVÝ JOE walks in.
 
@@ -136,6 +136,6 @@ message_35:
       text: \n<POREMANČOVÝ JOE>Ach, to je od tebe příliš milé, bratře!\!<br>Pojďme na počest tohoto setkání nadále spolu!
 
 message_36:
-      text: \n<POMERANČOVÝ JOE A POREMANČOVÝ JOE>\sinv[1]Naděje a vášeň!\! Naděje a vášeň!\! Naděje a vášeň!
+      text: \n<POMERANČOVÝ JOE A POREMANČOVÝ JOE>\sinv[1]Naděje a vytrvalost!\! Naděje a vytrvalost!\! Naděje a vytrvalost!
 
 #POMERANČOVÝ JOE AND POREMANČOVÝ JOE walk off

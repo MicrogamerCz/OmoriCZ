@@ -7,7 +7,7 @@ message_1:
     text: \n<PAN STRAŠÁK>Á, nová tvář.\!<br>Díky, že jsi ochoten mi věnovat chvilku svého času... #maty
 
 message_2:
-    text: \n<PAN STRAŠÁK>Omlouvám se, ale musím vám předam břemeno, na které již sám nemám.
+    text: \n<PAN STRAŠÁK>Dělám to nerad, ale musím vám předat břemeno, na které již sám nemám.
 #original line was about being "in a rut", which means something else entirely
 message_3:
     text: \n<PAN STRAŠÁK>Docela nedávno se tudy strašlivou rychlostí prohnala jakási zběhlá planeta.\! Mí tři nejmilejší přátelé se toho polekali a rozutekli se, každý jiným směrem...
@@ -25,7 +25,7 @@ message_7:
     text: \n<PAN STRAŠÁK>Ach, děkuji ti, člověče!\!<br>Nedokážu popsat, jak moc si vážím tvé pomoci. #maty
 
 message_8:
-    text: \n<PAN STRAŠÁK>Nyní budu vřele očekávat jejich návrat.\! Neboť jak jistě vidíte... \!Bez nich\! jsem ba sláma na ztrouchnivělé dřevěné tyči. #maty
+    text: \n<PAN STRAŠÁK>Nyní budu vřele očekávat jejich návrat.\! Neboť jak jistě vidíte... \!Bez nich jsem ba sláma na ztrouchnivělé dřevěné tyči. #maty
 
 message_9:
     text: \n<PAN STRAŠÁK>Chápu...\! To se rozumí.\! Chápu, proč by na vás tato prosba mohla být příliš.
@@ -53,7 +53,7 @@ message_14:
     text: \herZdravím, malé stvoření.\!<br>Tvému příteli PANU STRAŠÁKOVI opravdu hrozně chybíš!\!<br>Pokud budeš chtít, pomůžu ti ho najít.
 
 message_15:
-    text: \n<VRÁNA>Krá, krá!\!<br>(Pomožte prosím, pokud to pro vás není příliš práce. Taky mi chybí!)
+    text: \n<VRÁNA>Krá, krá!\!<br>(Pomozte prosím, pokud to pro vás není příliš práce. Taky mi chybí!)
 # Crows caw, not squawk
 # Talking to Crow 2 with Hero as Leader
 
@@ -82,13 +82,13 @@ message_20:
 # Talking to PAN STRAŠÁK before finding his friends
 
 message_21:
-    text: \n<PAN STRAŠÁK>Ach, děkuji ti, člověče!\!<br>Nedokážu popsat, jak si vážím tvé pomoci
+    text: \n<PAN STRAŠÁK>Ach, děkuji ti, člověče!\!<br>Nedokážu popsat, jak si vážím tvé pomoci.
 
 message_22:
     text: VRÁNA opustila tvou partu, aby se vrátila ke svému příteli.
 
 message_23:
-    text: \n<PAN STRAŠÁK>Teď počkám, než se vrátí zbytek.\!<br>Neboť jak jistě vidíte... \! Bez nich\! jsem ba sláma na ztrouchnivělé dřevěné tyči.
+    text: \n<PAN STRAŠÁK>Teď počkám, než se vrátí zbytek.\!<br>Neboť jak jistě vidíte... \! Bez nich jsem ba sláma na ztrouchnivělé dřevěné tyči.
 
 # Talking to PAN STRAŠÁK after finding his friends
 
@@ -102,7 +102,7 @@ message_26:
     text: \n<PAN STRAŠÁK>Sbohem, nápomocný člověče.\! Snad se jednoho dne znovu potkáme.
 
 message_29:
-    text: Získal jsi\c[13]PĚTILÍSTEK\c[0].
+    text: Získal jsi \c[13]PĚTILÍSTEK\c[0].
 
 # Talking to Crows before Quest is Accepted
 

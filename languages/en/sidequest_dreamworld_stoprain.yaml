@@ -6,114 +6,114 @@
 #Talk to Potatogirl
 
 message_1:
-      text: \n<VEGGIE KID>\Com[2]Ahhhh!\! It is raining too hard!\!<br>It is making us slightly uncomfortable!
+      text: \n<ZELENINÁČEK>\Com[2]Ááááá!\! Ten déšť je hrozný!\!<br>Cítíme se kvůli němu mírně nepříjemně!
 
 message_2:
-      text: \n<VEGGIE KID>There is a mystical valve nearby which controls our rainfall, but only the CHOSEN ONE is able to turn it...
+      text: \n<ZELENINÁČEK>Nedaleko odsud je kouzelný kohoutek, který ho ovldádá, ale může jím točit jedině VYVOLENÝ...
 
 message_3:
-      text: \n<VEGGIE KID>If no one helps us, we are doomed to be slightly uncomfortable forever!
+      text: \n<ZELENINÁČEK>Jestli nám nikdo nepomůže, budeme se cítit mírně nepříjemně nadosmrti!
 
-#EXTRA VEGGIE KID VILLAGERS:
+#EXTRA ZELENIŇÁČEK VILLAGERS:
 
 message_4:
-      text: \n<VEGGIE KID>We are slightly uncomfortable!\! Please make it stop!
+      text: \n<ZELENINÁČEK>Cítíme se mírně nepříjemně!\! Prosím, už dost!
 
 message_5:
-      text: \n<VEGGIE KID>I am slightly bothered by the amount of rain.
+      text: \n<ZELENINÁČEK>To množství deště mě trochu otravuje.
 
 message_6:
-      text: \n<VEGGIE KID>If only the rain were slightly lighter...
+      text: \n<ZELENINÁČEK>Kéž by jen pršelo o něco méně...
 
 message_7:
-      text: \n<VEGGIE KID>It is raining just a bit too much, don't you think?
+      text: \n<ZELENINÁČEK>Prší tady poněkud moc, nemyslíš?
 
 message_8:
-      text: \n<VEGGIE KID>I am uncomfortable.
+      text: \n<ZELENINÁČEK>Není mi dobře.
 
 message_9:
-      text: \n<VEGGIE KID>This rain is slightly untolerable.
+      text: \n<ZELENINÁČEK>Ten déšť je trochu nesnesitelný.
 
 message_10:
-      text: \n<VEGGIE KID>I am feeling a small amount of physical discomfort.
+      text: \n<ZELENINÁČEK>Cítím se poněkud nepohodlně.
 
 message_11:
-      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 6.
+      text: \n<ZELENINÁČEK>Na měřítku nepohodlí a pohodlí,\. kde značí 1 pohodlí a 10 nepohodlí,\. se cítím tak na 6.
 
 message_12:
-      text: \n<VEGGIE KID>Bleh!
+      text: \n<ZELENINÁČEK>Blé!
 
 message_13:
-      text: \n<VEGGIE KID>Ick!
+      text: \n<ZELENINÁČEK>Au!
 
 message_14:
-      text: \n<VEGGIE KID>Yucky!
+      text: \n<ZELENINÁČEK>Fuj!
 
 message_15:
-      text: \n<VEGGIE KID>Ewwie!
+      text: \n<ZELENINÁČEK>Fujky!
 
 message_16:
-      text: \n<VEGGIE KID>Bleurgh!
+      text: \n<ZELENINÁČEK>Fujtajbl!
 
 message_17:
-      text: \n<VEGGIE KID>Gross!
+      text: \n<ZELENINÁČEK>To je hnůj!
 
 #EXAMINE VALVE AS OMORI
 
 message_18:
-      text: Would you like to turn the valve slightly to the right or left?
+      text: Otočíš kohoutkem mírně doleva nebo doprava?
 
 #[RIGHT/LEFT]
 #[RIGHT]
 message_19:
-      text: RIGHT
+      text: DOPRAVA
 #RAIN BECOMES lighter
 #Song changes to Puddles
 
 message_20:
-      text: The rain is slightly lighter now.
+      text: Prší o něco méně.
 
 #[LEFT]
 message_21:
-      text: LEFT
+      text: DOLEVA
 #[Screen turns black.]
 
 message_45:
-      text: The rainfall intensifies and floods \c[11]RAIN TOWN\c[0].\!<br>\c[11]RAIN TOWN\c[0] and its inhabitants were never heard from again.
+      text: Déšť posílil a zcela zatopil \c[11]DEŠTNÉ MĚSTEČKO\c[0].\!<br>O \c[11]DEŠTNÉM MĚSTEČKU\c[0] a jeho obyvatelích již nikdy nepadla zmínka.
 
 #[Party teleports to Oasis.]
 
 message_46:
-      text: You are the hero of \c[11]RAIN TOWN\c[0]!
+      text: Stal ses hrdinou \c[11]DEŠTNÉHO MĚSTEČKA\c[0]!
 
 #EXAMINE VALVE AS anyone else
 
 #[RIGHT/LEFT]
 message_22:
-      text: It won't budge.
+      text: Nejde jím hnout.
 
 #Talk to Potatogirl after adjusting Valve
 message_23:
-      text: \n<VEGGIE KID>The rain has been adjusted!\! Neat!\!<br>Thank you, CHOSEN ONE!\!<br>We will remember your act of kindness forever.
+      text: \n<ZELENINÁČEK>Déšť byl zkrocen!\! Super!\!<br>Děkujeme ti, VYVOLENÝ!\!<br>Na tvou laskavost nikdy nezapomeneme.
 
 #TOMATO KID walks up
 message_24:
-      text: \n<VEGGIE KID>What's that, child?\! You want to go with them?\! Are you sure?
+      text: \n<ZELENINÁČEK>Copak, dítě?\! Chtěla bys s jít nima?\! Vážně?
 
-#VEGGIE KID (Tomato) turns to VEGGIE KID (Potato).
+#ZELENIŇÁČEK (Tomato) turns to ZELENIŇÁČEK (Potato).
 
 message_25:
-      text: \n<VEGGIE KID>If that is your wish...
+      text: \n<ZELENINÁČEK>Je-li to opravdu tvé přání...
 
 message_26:
-      text: \n<VEGGIE KID>CHOSEN ONE...\! This child wishes to join you on your quest.\!<br>She is yours now.\! Please take good care of her.
+      text: \n<ZELENINÁČEK>VYVOLENÝ...\! Toto dítě by si tě přálo doprovázet.\!<br>Teď je tvoje.\! Dávej na něj prosím pozor.
 
 message_27:
-      text: You got a \c[13]VEGGIE KID\c[0].
+      text: Získal jsi \c[13]ZELENINÁČKA\c[0].
 
 #Potato speaking:
 message_28:
-      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+      text: \n<ZELENINÁČEK>Jen tak dál, hrdinové! Vyražte své cestě naproti!
 
 #QUEST complete
 
@@ -121,60 +121,60 @@ message_28:
 
 #talk to potatogirl
 message_29:
-      text: \n<VEGGIE KID>Go forth, heroes! Your journey awaits you!
+      text: \n<ZELENINÁČEK>Jen tak dál, hrdinové! Vyražte své cestě naproti!
 
 #extra veggie kid VILLAGERS
 
 message_30:
-      text: \n<VEGGIE KID>The rain is at a perfect intensity right now!
+      text: \n<ZELENINÁČEK>Déšť je dokonale vyrovnaný!
 
 message_31:
-      text: \n<VEGGIE KID>Ahh...\! so...\! comfortable...
+      text: \n<ZELENINÁČEK>Ach...\! to je tak...\! příjemné...
 
 message_32:
-      text: \n<VEGGIE KID>I am satisfied by the amount of rain.
+      text: \n<ZELENINÁČEK>Jsem spokojen s množstvím deště.
 
 message_33:
-      text: \n<VEGGIE KID>The rain is comfortable now that it's slightly lighter...
+      text: \n<ZELENINÁČEK>Déšť je teď příjemný, když je ho méně...
 
 message_34:
-      text: \n<VEGGIE KID>It is raining the perfect amount, don't you think?
+      text: \n<ZELENINÁČEK>Prší tady tak akorát, nemyslíš?
 
 message_35:
-      text: \n<VEGGIE KID>I am comfortable.
+      text: \n<ZELENINÁČEK>Je mi dobře.
 
 message_36:
-      text: \n<VEGGIE KID>This rain feels great!
+      text: \n<ZELENINÁČEK>Tenhle déšť je super!
 
 message_37:
-      text: \n<VEGGIE KID>I am feeling comfortable.
+      text: \n<ZELENINÁČEK>Cítím se pohodlně.
 
 message_38:
-      text: \n<VEGGIE KID>On the scale of comfortable to uncomfortable,\. where 1 is very comfortable and 10 is very uncomfortable,\. I am at a 1.
+      text: \n<ZELENINÁČEK>Na měřítku příjemnosti a nepříjemnosti,\. kde číslo jedna značí pocit velice příjemný a deset velice nepříjemný,\. se nacházím na jedničce.
 
 message_39:
-      text: \n<VEGGIE KID>Hurray!
+      text: \n<ZELENINÁČEK>Hurá!
 
 message_40:
-      text: \n<VEGGIE KID>Feels good!
+      text: \n<ZELENINÁČEK>Cítím se skvěle!
 
 message_41:
-      text: \n<VEGGIE KID>Yahoo!
+      text: \n<ZELENINÁČEK>Jupí!
 
 message_42:
-      text: \n<VEGGIE KID>Huzzah!
+      text: \n<ZELENINÁČEK>Jo!
 
 message_43:
-      text: \n<VEGGIE KID>Whoopee!
+      text: \n<ZELENINÁČEK>Super!
 
 message_44:
-      text: \n<VEGGIE KID>Yay!
+      text: \n<ZELENINÁČEK>Žůžo!
 
 message_50:
-      text: The surface of the water is shimmering.
+      text: Hladina se leskne.
 
 message_51:
-      text: Do you want to stare at it intently?
+      text: Chceš se na ni nevraživě pohlédnout?
 
 message_52:
-      text: The surface of the water is emitting a dark energy.
+      text: Cítíš, jak z hladiny stoupá temná moc.

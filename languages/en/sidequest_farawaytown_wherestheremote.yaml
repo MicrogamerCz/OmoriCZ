@@ -28,7 +28,7 @@ message_6:
       text: \n<POŘÁDNÝ ČECH>Hele, to je můj \c[4]DÁLKOVÝ OVLADAČ\c[0]!
 
 message_7:
-      text: Předal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] POŘÁDNÉMU AMERIČANOVI.
+      text: Předal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] POŘÁDNÉMU ČECHOVI.
 
 message_8:
       text: \n<POŘÁDNÝ ČECH>Díky děcka!\! Dejte si na mě tohohle \c[3]POMERANČOVÉHO JOEHO\c[0]!
@@ -56,7 +56,7 @@ message_14:
       text: \n<POŘÁDNÝ ČECH>Díky moc, děcka!\! Dlouho jsem nad tím usilovně přemýšlel...\! a myslím, že jsem ho omylem vzal s sebou do koupelny<br>a zapomněl ho vzít zpátky!
 
 message_15:
-      text: \n<POŘÁDNÝ ČECH>Ušetřili jste mě od zvedání z tohohle super pohodlného<br> gauče.\! Nejde slovně vyjádřit můj vděk.\! Nabídnětě si další plechovku \c[3]POMERANČOVÉHO JOEHA!\c[0]\! Zasloužíte si ji!
+      text: \n<POŘÁDNÝ ČECH>Ušetřili jste mě od zvedání z tohohle super pohodlného<br> gauče.\! Nejde slovně vyjádřit můj vděk.\! Nabídnětě si další plechovku \c[3]POMERANČOVÉHO JOEHO!\c[0]\! Zasloužíte si ji!
 
 #Remote 3
 
@@ -76,7 +76,7 @@ message_20:
       text: \n<POŘÁDNÝ ČECH>Hele, tady je!
 
 message_21:
-      text: Podal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] AMERICKÉMU CHLÁPKOVI.
+      text: Podal jsi \c[4]DÁLKOVÝ OVLADAČ\c[0] POŘÁDNÉMU ČECHOVI.
 
 message_22:
       text: \n<POŘÁDNÝ ČECH>Opět jste mě zachránily, děcka!\! A vy už asi víte, co to znamená...\! Tady máte další plechovku \c[3]LIMONÁDOVÉHO JOEHO!\c[0]

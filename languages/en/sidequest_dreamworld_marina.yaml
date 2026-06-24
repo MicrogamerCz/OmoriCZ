@@ -6,7 +6,7 @@
 #Talk to Marina:
 
 message_0:
-      text: \n<MARINA>\Com[2]Zatraceně!\!<br>Já věděla, že jsem tamtomu ZLATÍČKU neměla věřit.\!<br>Jak mám teď sakra odchytnout všechny ty rozuteklé pokusné králíky?!
+      text: \n<MARINA>\Com[2]Zatraceně!\!<br>Já věděla, že jsem tamtomu ZLATÍČKU neměla věřit.\!<br>Jak mám teď sakra odchytnout<br> všechny ty rozuteklé pokusné králíky?!
 
 message_1:
       text: \n<MARINA>Ale...\! Co už...

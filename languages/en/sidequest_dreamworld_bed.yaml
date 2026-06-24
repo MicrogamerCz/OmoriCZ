@@ -5,7 +5,7 @@
 #B.E.D. Trade Quest 1
 
 message_0:
-    text: \maySakryš!\! Kde sakra je ten můj budiž-k-ničemu syn?
+    text: \maySakryš!\! Kde sakra je ten malej budižkničema?
 
 message_1:
     text: \mayVčera jsem po něm chtěl, aby zanalyzoval můj nejnovější vynález, \c[4]P.O.S.T.E.L.\c[0], ale výsledky pořád nikde...
@@ -81,7 +81,7 @@ message_30:
 #B.E.D. Trade Quest 3
 
 message_40:
-    text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!
+    text: \sle\Com[2]ÁÁÁÁ\{ÁÁÁÁ\{ÍÍÍÍÍÍ!!
 
 message_41:
     text: \sleCo jste zač?!
@@ -137,7 +137,7 @@ message_61:
     text: \mayNemůžu si dovolit tenhle přístroj vypustit do světa... Naše vesnice už by se snad nikdy neprobudila!...
 
 message_62:
-    text: \may\Com[2]Hej, vy tam!\! Vemte si tuhle \c[4]P.O.S.T.E.L.\c[0], a dostaňte ji od nás daleko, opravdu daleko!\!<br>O takovouhle moc nestojíme!
+    text: \may\Com[2]Hej, vy tam!\! Vemte si tuhle \c[4]P.O.S.T.E.L.\c[0], a dostaňte ji od nás daleko, předaleko!\!<br>O takovouhle moc nestojíme!
 
 message_63:
     text: \mayPadejte a opovažte se komukoliv říct, co jste dnes zaslechli!
@@ -152,7 +152,7 @@ message_66:
     text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Š-Šálí mě mé oči?
 
 message_67:
-    text: \n<PODEZŘELÝ KRTEK>\}Nevěřím tomu...\! Je tohle... opravdu \c[4]P.O.S.T.E.L.\c[0]?!\! Opravdová, nefalšovaná, autentická \c[4]P.O.S.T.E.L.\c[0]!\!<br>Vím přesně, co s ní udělat!
+    text: \n<PODEZŘELÝ KRTEK>\}Nevěřím tomu...\! Je tohle... opravdu \c[4]P.O.S.T.E.L.\c[0]?!\! Opravdová, nefalšovaná, pravá \c[4]P.O.S.T.E.L.\c[0]!\!<br>Vím přesně, co s ní udělat!
 
 message_68:
     faceset: MainCharacters_DreamWorld
@@ -160,10 +160,10 @@ message_68:
     text: \aubHej, jak si to představuješ?\!<br>My ti pomohli, tak koukej pomoct ty nám!
 
 message_69:
-    text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Hej, hej, hej!\}\!<br>Co to s váma najednou je?\!<br>Možná vám to tak nepřijde, ale já jsem KRTEK svého slova!
+    text: \n<PODEZŘELÝ KRTEK>\}\Com[2]Hej, hej, hej!\}\!<br>Co to s váma najednou je?\!<br>Možná vám to tak nepřijde, ale mně ji můžete svěřit, čestné krtkovské!
 
 message_70:
-    text: Pokusíš se vzbudit OSPALÉHO KRTKA \c[4]VELKOU HOUKAČKOU\c[0]?
+    text: Pokusíš se vzbudit OSPALÉHO KRTKA \c[4]VELKÝM KLAKSONEM\c[0]?
 
 message_71:
     text: \sleAle...\! Mě se ta \c[4]P.O.S.T.E.L.\c[0] tak líbila...

@@ -47,7 +47,7 @@ message_8:
 #MOLLY HEAD JUMPS OFF ROBOT Body
 
 message_9:
-      text: \n<MOLLY>Ale přesto... Bych vás měla odměnit za vaše snahy...\!<br>Á, přesně vím jak!!\Vezměte si tohle!
+      text: \n<MOLLY>Ale přesto... Bych vás měla odměnit za vaše snahy...\!<br>Á, přesně vím jak!!\<br>Vezměte si tohle!
 
 message_10:
       text: Získal jsi \c[13]PODPATKY\c[0].
@@ -60,7 +60,7 @@ message_12:
 #AFTER-QUEST Dialogue talk to Molly
 
 message_11:
-      text: \n<MOLLY>Nemít žádné tělo je tak praktické!\!<br>Jaktože mě to nenapadlo dřív?!<br>\sinv[1]Fufufu~
+      text: \n<MOLLY>Nemít tělo je tak praktické!\!<br>Jaktože mě to nenapadlo dřív?!<br>\sinv[1]Fufufu~
 
 message_13:
       text: Těžkopádné ocelové tělo.
