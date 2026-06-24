@@ -356,19 +356,19 @@ message_138:
       text: PLUTO vypadá dnes nesvůj.\!<br>Usoudil jsi, že je lepší ho nechat na pokoji. #přirozenější
 
 message_139:
-      text: \n<LOOMY>A! Můj starý brachu!\! Mám schopnost se rychle přesouvat pomocí záchodů!
+      text: \n<CHÝŠKA>A! Můj starý brachu!\! Mám schopnost se rychle přesouvat pomocí záchodů!
 
 message_140:
-      text: \n<LOOMY>DEJ MI BABU a ukážu ti to, OMORI!
+      text: \n<CHÝŠKA>DEJ MI BABU a ukážu ti to, OMORI!
 
 message_141:
       text: Tuhle osobu neznáš.
 
 message_142:
-      text: \n<LOOMY>dej mi BABU, OMORI! #malé písmena
+      text: \n<CHÝŠKA>dej mi BABU, OMORI! #malé písmena
 
 message_143:
-      text: \n<LOOMY>Notak, dej mi BABU! #přátelštější ráz, malá písmena
+      text: \n<CHÝŠKA>Notak, dej mi BABU! #přátelštější ráz, malá písmena
 
 message_144:
       text: Toužíš vidět své kamarády. #blíže orig, pravopis
@@ -588,7 +588,7 @@ message_210:
       text: \n<BEZTVÁŘE>I když něco schováš, pořád to tam je.
 
 message_211:
-      text: \n<BEZTVÁŘE>Promiň, ale nepamatuju si, kdo ji.
+      text: \n<BEZTVÁŘE>Promiň, ale nepamatuju si, kdo jsi.
 
 message_212:
       text: BEZTVÁŘÍ mezi sebou mluví tichým šepotem.
@@ -603,7 +603,7 @@ message_215:
       text: \n<BEZTVÁŘE>Snad ses bez nás bavil.
 
 message_216:
-      text: \n<BEZTVÁŘE>Viděl jsem, že tady na tebe někdo čeká.\!<br>Měl bys jít za ním. #přidáno jít
+      text: \n<BEZTVÁŘE>Viděl jsem, že tady na tebe někdo čeká.\!<br>Měl bys za ním. #přidáno jít
 
 message_217:
       text: \n<BEZTVÁŘE>Pozor na to zábradlí.
@@ -619,7 +619,7 @@ message_219:
 # ========================================================================================
 
 message_230:
-      text: \n<HEROSAURUS>Jsi stále schopen mě přijmout?
+      text: \n<HEROSAURUS>Hodláš mě ještě přijmout? #nebo "jsi stále ochoten mě přijmout"?
 
 # =========================================================================================
 # FEAR (Heights): 322
@@ -695,16 +695,16 @@ message_313:
 # ========================================================================================
 
 message_315:
-      text: \n<ZELENIŇÁČEK>Už zase zmizel můj oblíbený POLŠTÁŘ!\!<br>Já bez něj prostě neusnu...
+      text: \n<ZELENINÁČEK>Už zase zmizel můj oblíbený POLŠTÁŘ!\!<br>Já bez něj prostě neusnu...
 
 message_316:
-      text: \n<ZELENIŇÁČEK>Tak co, už jsi ho našel? #přirozenější
+      text: \n<ZELENINÁČEK>Tak co, už jsi ho našel? #přirozenější
 
 message_317:
       text: Našel jsi POLŠTÁŘ.
 
 message_318:
-      text: \n<ZELENIŇÁČEK>Tohle není můj POLŠTÁŘ...\! ale i tak děkuju!
+      text: \n<ZELENINÁČEK>Tohle není můj POLŠTÁŘ...\! ale i tak děkuju!
 
 message_319:
       text: \n<SCHOVÁVAČ POLŠTÁRŮ>Říkají mi SCHOVÁVAČ POLŠTÁŘŮ! A ve schovávání polštářů jsem mistrem!

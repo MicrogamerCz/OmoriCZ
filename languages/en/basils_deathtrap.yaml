@@ -337,7 +337,7 @@ message_134:
 message_130:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basOMORI...\! Jsi nějaký... chladný...\!<br>Nezlobíš se na mě?
+      text: \basOMORI...\! Připadáš mi takový... zaražený...\!<br>Nezlobíš se na mě?
 
 message_131:
       faceset: MainCharacter_Basil
@@ -518,7 +518,7 @@ message_188:
       text: Vzhůru nohama.
 
 message_189:
-      text: \n<SKELE>Tancuj, kůže! #BLADE RUNNER REFERENCE ??!?!??!?!?!?!?1?!?!1?!1?!1
+      text: \n<KOSTL>Tancuj, kůže! #BLADE RUNNER REFERENCE ??!?!??!?!?!?!?1?!?!1?!1?!1
 
 message_190:
       text: Pořádně sis zdříml.

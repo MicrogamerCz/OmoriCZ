@@ -51,7 +51,7 @@ message_5:
 message_6:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \her\com[2]Hele, já se na tom taky snažím zapracovat!\! Pro někoho je to přirozené, někdo se to zase musí naučit!\! Každý z nás nemá paměť, jako OMORI... #hej na hele
+    text: \her\com[2]Hele, já se na tom taky snažím zapracovat!\! Pro někoho je to přirozené, někdo se to zase musí naučit!\! Nemáme každý paměť, jako OMORI... #hej na hele
 
 #------------------------------------------------------------------------------------------------------------------------
 #**Path to Basil (II) - Disappears after entering SGL**
@@ -64,7 +64,7 @@ message_7:
 message_8:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \herHmm...\! Jeho náhlé zmizení je dost zvláštní...\! ale zbytečné zoufání nám teď nepomůže.
+    text: \herHmm...\! Jeho náhlé zmizení je dost zvláštní...\! ale obavy teď nepomůžou.
 
 message_9:
     faceset: MainCharacters_DreamWorld
@@ -74,7 +74,7 @@ message_9:
 message_10:
     faceset: MainCharacters_DreamWorld
     faceindex: 7
-    text: \aubCo když ho někdo přesvědčil něco udělat?\! Co když na něho někdo ušil boudu?!
+    text: \aubCo když ho někdo do něčeho zatáhl?\! Co když na něho někdo ušil boudu?!
 
 message_11:
     faceset: MainCharacters_DreamWorld
@@ -311,12 +311,12 @@ message_52:
 message_53:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kel\sinv[1]To mě zajímá, jaké další kamarády potkáme!\! S jakými protivníky se střetneme...\! Ale jsem si jistý, že to bude dobrodružství nade všechny ostatní!
+    text: \kel\sinv[1]To mě zajímá, na jaké další kamarády tady narazíme!\! S jakými protivníky se střetneme...\! Ale jsem si jistý, že to bude dobrodružství nade všechny ostatní!
 
 message_54:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubJsi strašně bezstarostlivý, KELI...\! To už jsi zapomněl, že máme hledat BASILA?
+    text: \aubTy jsi tak bezstarostlivý, KELI...\! To už jsi zapomněl, že máme hledat BASILA?
 
 message_55:
     faceset: MainCharacters_DreamWorld
@@ -380,7 +380,7 @@ message_64:
 message_65:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marA co je na něm špatného, HERO?\! Vždyť je tak praktické!\! A ještě k tomu se shání jednodušeji, než \c[3]VÁNICUKS\c[0]! #blíže orig
+    text: \marA co je na něm špatného, HERO?\! Vždyť je tak praktické!\! A ještě k tomu se shání jednodušeji, než \c[3]VÁNICUKY\c[0]! #blíže orig
 
 message_66:
     faceset: MainCharacters_DreamWorld
@@ -390,7 +390,7 @@ message_66:
 message_67:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marNo, popravdě moc velký ne...\! \c[3]VÁNICUKS\c[0] v sobě mají jen větší kusy ledu.
+    text: \marNo, popravdě moc velký ne...\! \c[3]VÁNICUKY\c[0] v sobě mají jen větší kusy ledu.
 
 
 message_68:
@@ -401,7 +401,7 @@ message_68:
 message_69:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marJá...\! Vážně nevím, KELI!\! Na to ti asi nedokážu odpovědět...
+    text: \marJá...\! Vlastně ani nevím, KELI!\! Na to ti asi nedokážu odpovědět...
 
 #=====================================================================
 
@@ -458,7 +458,7 @@ message_77:
 message_78:
     faceset: MainCharacters_DreamWorld
     faceindex: 4
-    text: \aubTenhle les je o dost strašidelnější než ten, u hřiště...\! A taky starší...
+    text: \aubTenhle les je o dost strašidelnější než ten u hřiště...\! A taky starší...
 
 message_79:
     faceset: MainCharacter_Mari
@@ -650,7 +650,7 @@ message_113:
 message_114:
     faceset: MainCharacter_Mari
     faceindex: 6
-    text: \marAha! Potkala jsem tady jednoho notorického smolaře, myslím, že se jmenoval ŠNEČEK...
+    text: \marAha! Potkala jsem tady jednoho notorického smolaře, myslím, že se jmenoval ŠNEČÍK...
 
 message_115:
     faceset: MainCharacter_Mari
@@ -706,7 +706,7 @@ message_123:
 message_124:
     faceset: MainCharacters_DreamWorld
     faceindex: 43
-    text: \herS tím si nemůžeme být jistí...\! ale je jen jeden způsob, kterým bychom si to mohli zodpovědět!
+    text: \herS tím si nemůžeme být jistí...\! ale když se tam nepodíváme, tak to nezjistíme!
 
 #------------------------------------------------------------------------------------------------------------------------
 
@@ -900,7 +900,7 @@ message_156:
 message_157:
     faceset: MainCharacters_DreamWorld
     faceindex: 26
-    text: \kelNo... Asi je...\! Jen tak občas je fajn, ale já bych nedokázal bydlet někde, kde sněží pořád!
+    text: \kelNo... Asi je...\! Jen tak někdy je fajn, ale fakt bych nesnesl bydlet někde, kde sněží furt!
 
 message_158:
     faceset: MainCharacters_DreamWorld
@@ -1019,7 +1019,7 @@ message_179:
 message_180:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marAle, ty víš, že já bych ráda...\! ale nesmím na sebe tlačit.\! Mám přece to koleno, vzpomínáš?
+    text: \marTy víš, že bych ráda...\! ale neměla bych se příliš namáhat.\! Mám přece to koleno, vzpomínáš?
 
 message_181:
     faceset: MainCharacters_DreamWorld
@@ -1029,7 +1029,7 @@ message_181:
 message_182:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marNe, obávám se, že ne...\! Ale to je úplně v pořádku! Alespoň vám můžu pořád chystat tyhle pikniky!
+    text: \marNe, obávám se, že ne...\! Ale to nevadí! Alespoň vám můžu pořád chystat tyhle pikniky!
 
 message_183:
     faceset: MainCharacter_Mari

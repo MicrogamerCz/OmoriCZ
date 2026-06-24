@@ -167,7 +167,7 @@ message_43:
     text: O jakém z OMORIHO NÁSLEDNÝCH ÚTOKŮ by ses chtěl dozvědět víc?
 
 message_44:
-    text: ATTACK AGAIN
+    text: ÚTOČIT ZNOVU
 
 message_45:
     text: OMORI útočí podruhé!
@@ -338,7 +338,7 @@ message_71:
     text: UČENÍ SE DOVEDNOSTÍ
 
 message_72:
-    text: \c[1]DOVEDNOSTI\c[0] se naučíš buď s nabývající ÚROVNÍ, děláním vedlejších úkolů a nebo pomocí různých předmětů.\! Některé \c[1]DOVEDNOSTI\c[0], třeba HEROVO \c[1]VAŘENÍ\c[0], mohou být použity i mimo bitvu.
+    text: \c[1]DOVEDNOSTI\c[0] se naučíš buď s nabývající ÚROVNÍ, děláním vedlejších úkolů a nebo pomocí různých předmětů.\!<br>Některé \c[1]DOVEDNOSTI\c[0], třeba HEROVO \c[1]VAŘENÍ\c[0], mohou být použity i mimo bitvu.
 
 message_73:
     text: VÝMĚNA DOVEDNOSTÍ

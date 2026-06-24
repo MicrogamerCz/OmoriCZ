@@ -13,7 +13,7 @@
 #BGM: Duet
 #If you examine the hole:
 message_1:
-      text: Podlaha se topí.
+      text: Podlaha se propadá.
 
 #All necessary Black letters - Map 434, Map 358
 #No BGM
@@ -82,7 +82,7 @@ message_41:
 
 #Laptop replaced with picnic basket. Flavor Text:
 message_42:
-      text: Košík.\! Přeješ si ULOŽIT HRU?
+      text: Košík.\! Chceš zde ULOŽIT HRU?
 #*Open up save menu
 
 #--------------------------------------------------------------------------------------------
@@ -107,7 +107,7 @@ message_62:
       text: \n<ČMÁRANICE>O tohle se už jednou někdo pokoušel.\!<br>Ty?\! Já?\! Ten kluk s kytičkama?
 
 message_63:
-      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Tam, kde to znáš.\! Někam, kde se cítíš bezpečně. Někam, kde máš všechny své dobré vzpomínky.\!<br>Kéž by jen takové místo bylo.
+      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Tam, kde to znáš.\! Někam, kde se cítíš bezpečně. Někam, kde máš všechny své dobré vzpomínky.\! Kéž by jen takové místo bylo.
 
 message_64:
       text: \n<ČMÁRANICE>Zde nic není.\! Zde nic nezůstalo.
@@ -167,7 +167,7 @@ message_99:
 
 #Houses with small doorways:
 message_100:
-      text: Příliš malá.
+      text: Příliš malý.
 
 #--------------------------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ message_100:
 
 #Most Things:
 message_123:
-      text: Tolik bolesti...\| tolik bolesti...\| tolik bolesti...
+      text: Bolest...\| Samá bolest...\| Bolest...
 
 ##--------------------------------------------------------------------------------------------
 
@@ -220,7 +220,7 @@ message_143:
 #[YES]
 
 message_144:
-      text: MEWO se na tebe dívá.\! Její oči se rozzáří.\! Už chce jít.
+      text: MEWO se na tebe dívá.\! Náhle se jí rozzářily oči.\! Už chce jít.
 #Do you want to cut open MEWO?
 
 #[YES]
@@ -360,7 +360,7 @@ message_197:
 
 #Examine BASIL's something:
 message_198:
-      text: Přeješ si jít za BASILEM?
+      text: Chceš jít za BASILEM?
 #[YES/NO]
 
 #[YES]
@@ -426,7 +426,7 @@ message_201:
 
 #When entering proximity of BASIL without flower crown:
 message_220:
-      text: \basOMORI... Ty ses pro mě vrátil!
+      text: \basOMORI... Tak ses mi nakonec vrátil!
 
 message_221:
       text: \basJe tohle můj \c[4]VĚNEC\c[0]?\! Jsem tak rád, žes ho našel.
@@ -481,7 +481,7 @@ message_228:
 message_250:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basJeště že jsi tady, OMORI!\!<br>Bál jsem se, že bych tady byl už navždy.
+      text: \basJeště že jsi tady, OMORI!\!<br>Bál jsem se, že tady budu trčet nadosmrti.
 
 message_251:
       faceset: MainCharacter_Basil
@@ -496,7 +496,7 @@ message_252:
 message_253:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basTak teď když už jsi tady můžu jít konečně domů.\!<br>Jdi napřed, OMORI! #zachování přátelského rázu a variace
+      text: \basTak teď, když už jsi tady se můžu konečně vrátit domů.\!<br>Jdi napřed, OMORI! #zachování přátelského rázu a variace
 
 #*Walk a bit
 
@@ -513,7 +513,7 @@ message_255:
 message_256:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basPamatuju si...\! Že jsi mi kdysi říkal o tom, jak ti na rameno skočil pavouk když ses chystal skočit do toho našeho tajného jezera!
+      text: \basPamatuju si...\! Že jsi mi kdysi říkal o tom, jak ti na rameni přistál pavouk, když ses chystal skočit do toho našeho tajného jezera!
 
 message_257:
       faceset: MainCharacter_Basil
@@ -603,7 +603,7 @@ message_269:
 message_290:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basOMORI! Jsi to vážně ty?<br>\!Jak jsi mě našel?
+      text: \basOMORI! Jsi to ty?<br>\!Jak jsi mě našel?
 
 message_291:
       faceset: MainCharacter_Basil
@@ -679,7 +679,7 @@ message_324:
 message_325:
       faceset: MainCharacter_Basil
       faceindex: 4
-      text: \basH-Hele, OMORI...\! Jsi nějaký... zaražený.\!<br>Neudělal jsem něco špatně?
+      text: \basH-Hele, OMORI...\! Připadáš mi nějaký... zaražený.\!<br>Provedl jsem něco?
 
 #While walking, OMORI finds a raft.
 
@@ -795,7 +795,7 @@ message_365:
 message_366:
       faceset: MainCharacters_DreamWorld
       faceindex: 13
-      text: \aubAhoj, OMORI! Doufali jsme, že se ukážeš!\!<br>Zahraješ si s náma karty?\! <br>Zrovna chystáme novou hru!
+      text: \aubAhoj, OMORI! Už jsme se těšili, až přijdeš!\!<br>Zahraješ si s náma karty?\! <br>Zrovna chystáme novou hru!
 
 message_367:
       faceset: MainCharacters_DreamWorld
@@ -944,7 +944,7 @@ message_418:
 #*One day left... Slide shows*
 
 message_420:
-      text: \aub\sinv[1]...\| Pojďme něco podniknout, OMORI...\| Jen...\| my dva...
+      text: \aub\sinv[1]...\| Pojďme spolu na dobrodružství, OMORI...\| Jen...\| my dva...
 
 message_421:
       text: \sinv[1]Chrrr...\| Chrrr...\| Chrrr...\| Chrrr...\kel
@@ -1092,10 +1092,10 @@ message_507:
 #----
 
 message_665:
-      text: \whoChceš se vzbudit nebo chceš spát?\!<br>Máš jen dvě možnosti.
+      text: \whoChceš se vzbudit, nebo chceš dál spát?\!<br>Máš jen dvě možnosti.
 
 message_666:
-      text: \whoNo...\! Jedna se vždy najde...\| ale... #ale se více hodí
+      text: \whoNo...\! Je tady i jiná cesta...\| ale... #ale se více hodí
 
 #-----
 

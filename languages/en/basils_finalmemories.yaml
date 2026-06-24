@@ -571,10 +571,10 @@ message_200:
 
 
 message_201:
-      text: \sinv[1]BASIL má narozeniny!\! My máme přání jediný!\n<EVERYONE> #tady nehraje žádná speciální hudba, takže si můžu dovolit to zaměnit za známější Českou písničku
+      text: \sinv[1]Hodně štěstí, zdraví!\! Hodně štestí, zdraví!\n<EVERYONE> #tady nehraje žádná speciální hudba, takže si můžu dovolit to zaměnit za známější Českou písničku
 
 message_202:
-      text: \sinv[1]Štěstí, zdraví! Štěstí zdraví!\! Hlavně to, zdravíííííí!\n<EVERYONE> #viz výše
+      text: \sinv[1]Hodně štěstí, milý BASILE...\! Hodně štěstí, zdraví!!!!!\n<EVERYONE> #viz výše
 
 message_203:
       text: \kel\sinv[1]\{JUPÍÍÍÍIII!!\!\}\sinv[0]<br>Sfoukni svíčky, BASILE!

@@ -9,7 +9,7 @@
 message_0:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: \kelTy jo!\! Co je tohle za rostlinovou potvoru?
+      text: \kelTy brďo!\! Co je tohle za rostlinovou potvoru?
 
 message_1:
       faceset: MainCharacters_DreamWorld
@@ -74,7 +74,7 @@ message_15:
       text: \herOMORI!\! Když už ti tak začínají jít bitvy...\! Tady máš blok, do kterého si můžeme zaznamenat všechny naše soupeře. #maty
 
 message_16:
-      text: HERO ti dal \c[4]BITEVNÍ BLOK!\c[0].
+      text: HERO ti dal \c[4]NOTES NEPŘÁTEL!\c[0].
 
 message_17:
       faceset: MainCharacters_DreamWorld
@@ -101,12 +101,12 @@ message_20:
 message_21:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basTohle jsou slunečnice.\! Říká se jim tak proto, že jsou pořád natočené ke slunci. #spisovnější, když jsme pro spisovného Basila
+      text: \basTohle jsou slunečnice.\! Říká se jim tak proto, že jsou pořád otočené za sluncem. #spisovnější, když jsme pro spisovného Basila
 
 message_22:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basTakový bych chtěl být i já...\! někdo, kdo vždy vidí světlou stránku. #maty
+      text: \basTakový bych chtěl být i já...\! někdo, kdo na všem vidí světlou stránku. #maty
 
 #LILY
 
@@ -134,7 +134,7 @@ message_30:
 message_31:
       faceset: MainCharacter_Basil
       faceindex: 3
-      text: \bas\Com[2]Prosím Vás, pane KLÍČKOKRTKU! Nechte toho!<br>Zašlapete mi všechny moje kytičky...
+      text: \bas\Com[2]Prosím vás, pane KLÍČKOKRTKU! Nechte toho!<br>Zašlapete mi všechny moje kytičky...
 
 #SPROUT MOLE STOMP HARDER
 #SPROUT MOLE RAMS INTO PARTY
@@ -164,7 +164,7 @@ message_31:
 message_36:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basUf...\! Většina kytiček je v pořádku...\! Ještě že tak!
+      text: \basUf...\! Většina kytiček je v pořádku...\! Ještě, že tak!
 
 message_37:
       faceset: MainCharacter_Basil
@@ -315,7 +315,7 @@ message_76:
 message_77:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basAha...\! Tohle jsou bílé tulipány.\!<br>Obyčejné, jednoduché a zaoblené... stejně jako OMORI!
+      text: \basA...\! Tohle jsou bílé tulipány.\!<br>Obyčejné, jednoduché a zaoblené... stejně jako OMORI!
 
 message_78:
       faceset: MainCharacter_Basil
@@ -327,10 +327,10 @@ message_78:
 #========================================================================================================================
 
 message_200:
-      text: \basTohle jsou slunečnice.\! Tak se jim říká proto, že jsou pořád natočené ke slunci.
+      text: \basTohle jsou slunečnice.\! Tak se jim říká proto, že jsou pořád otočené za sluncem.
 
 message_201:
-      text: \basTakový bych chtěl být i já...\! někdo, kdo ve věcech vždycky vidí světlou stránku.
+      text: \basTakový bych chtěl být i já...\! někdo, kdo na všem vidí světlou stránku.
 
 message_202:
       text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že umí odhánět zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
@@ -392,7 +392,7 @@ message_81:
 #message_X:
 #      faceset: MainCharacters_DreamWorld
 #      faceindex: 40
-#      text: \herHmm...\! Podle jeho výrazu bych řekl, že je tenhle KLÍČKOKRTEK SMUTNÝ...<br><br>Vidíte, jak je schoulený v klubíčku?\!<br>Proto mu nedokážeme ublížit tolik na ŽIVOTĚ, ale ubereme mu více ŠŤÁVY...
+#      text: \herHmm...\! Podle jeho výrazu bych řekl, že je tenhle KLÍČKOKRTEK SMUTNÝ...<br>Vidíte, jak je schoulený v klubíčku?\!<br>Proto mu nedokážeme ublížit tolik na ŽIVOTĚ, ale ubereme mu více ŠŤÁVY...
 
 #message_82:
 #      faceset: MainCharacters_DreamWorld
@@ -497,7 +497,7 @@ message_159:
 message_160:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Víš...\! Nějaký ten pátek už píšu knížku celou jen o bitvách!\! Možná bychom ji mohli příště projít celou společně.\! Prozatím ji svěřím OMORIMU. \her
+      text: Víš...\! Nějaký ten pátek už píšu knížku o soubojích!\! Možná bychom ji mohli příště projít celou společně.\! Prozatím ji svěřím OMORIMU. \her
 
 message_169:
       faceset: MainCharacters_DreamWorld
@@ -517,7 +517,7 @@ message_153:
 message_154:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: Poté, co se naučís novou \c[1]DOVEDNOSTI\c[0], si ji nezapomeň vybavit v MENU!\her
+      text: Poté, co se naučís novou \c[1]DOVEDNOST\c[0], si ji nezapomeň vybavit v MENU!\her
 
 message_161:
       faceset: MainCharacters_DreamWorld
@@ -553,4 +553,4 @@ message_168:
       text: Získal jsi \c[4]EMOČNÍ SCHÉMA\c[0].
 
 message_170:
-      text: Přeješ si podívat se na \c[4]EMOČNÍ SCHÉMA\c[0]?
+      text: Chceš se podívat se na \c[4]EMOČNÍ SCHÉMA\c[0]?

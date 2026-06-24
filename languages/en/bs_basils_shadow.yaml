@@ -43,17 +43,17 @@ message_22:
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Tahle místa...\! jsou plna rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Tento prostor...\! jsou pln rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi.
 
 message_1:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Ten svět, který jsi vytvořil nad tímhle...\! Vytvořil jsi jej, aby jsi tohle místo ochránil, nebo schoval? #stranger musí mluvit spisovně
+      text: \n<NĚKDO>\fn<OMORI_GAME>Ten svět, který jsi vytvořil nad tímhle...\! Vytvořil jsi jej, abys tento prostor ochránil, nebo schoval? #stranger musí mluvit spisovně
 
 message_2:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už to je jakkoli...\! Teď už tě zcela přemohlo.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Ať už to je jakkoli...\! Teď už tě zcela přemohl.
 
 #===========================================================================================
 
@@ -82,7 +82,7 @@ message_6:
 message_8:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Chybíš mi, SUNNY.\! Tys pro mě vždycky byl ten, na koho jsem mohl spolehnout a ten, kdo mi vždy naslouchal.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Chybíš mi, SUNNY.\! Tys pro mě vždycky byl ten, na koho jsem se mohl spolehnout a ten, kdo mi vždy naslouchal.
 
 message_9:
       faceset: MainCharacter_Basil
@@ -148,7 +148,7 @@ message_67:
 message_66:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Prostě...\! Tak dlouho jsem čekal, než se vrátíš, SUNNY...\! ale...\! nikdy ses nevrátil. #přirozenější
+      text: \n<NĚKDO>\fn<OMORI_GAME>Prostě...\! Tak dlouho jsem čekal, než se vrátíš, SUNNY...\! ale...\! nevrátil ses. #přirozenější
 
 
 message_68:
@@ -311,19 +311,19 @@ message_52:
 
 message_53:
    text: >
-    \>NĚKDO: \<\fn<OMORI_GAME>\n[8]...\! All those times that I reached out to you...\! Why didn't you answer?
+    \>NĚKDO: \<\fn<OMORI_GAME>SUNNY...\! Tolikrát jsem se tě doprošoval...\! Proč ses nikdy neozval?
 
 message_54:
    text: >
-    \>NĚKDO: \<\fn<OMORI_GAME>You promised me that we'd face this together...\! but you left me all alone.
+    \>NĚKDO: \<\fn<OMORI_GAME>Slíbil jsi mi, že se tomu postavíme spolu...\! ale nakonec jsi mě nechal samotného.
 
 message_55:
    text: >
-    \>NĚKDO: \<\fn<OMORI_GAME>If we can't face it together...\! at least we can be together here.
+    \>NĚKDO: \<\fn<OMORI_GAME>Jestli se tomu nemůžeme spolu postavit...\! můžeme tady alespoň spolu zůstat.
 
 message_56:
    text: >
-    \>NĚKDO: \<\fn<OMORI_GAME>\n[8]...\! I'll trap you down here with me forever.
+    \>NĚKDO: \<\fn<OMORI_GAME>SUNNY...\! Budu tě tady se mnou držet navždy.
 
 #===========================================================================================
 #AFTER OMORI WINS
@@ -333,7 +333,7 @@ message_56:
 message_57:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Takže ses rozhodl takto nadále žít.\! Zajímalo by mě...\! zda tomu vůbec můžeš říkat život. #tak na takto
+      text: \n<NĚKDO>\fn<OMORI_GAME>Takže ses rozhodl takto nadále žít.\! Zajímalo by mě...\! zda se tomu dá vůbec ještě říkat život. #tak na takto
 
 message_58:
       faceset: MainCharacter_Basil
