@@ -100,7 +100,7 @@ message_33:
 #Location: Starting at Bakery
 
 message_40:
-      text: \n<STŘEMHLAV>Možná jsem ten náš rodinný podnik odsoudil až moc rychle...\!<br>Pečení se snažím utéct už nějakou dobu, ale zatím jsem nenašel cokoliv jiného, co by mi šlo.
+      text: \n<STŘEMHLAV>Možná jsem to naše rodinné řemeslo odsoudil příliš rychle...\!<br>Pečení se snažím utéct už nějakou dobu, ale zatím jsem nenašel cokoliv jiného, co by mi šlo.
 
 message_41:
       text: \n<STŘEMHLAV>Je snad možné, že bych já, \Com[2]STŘEMHLAV, mohl být dobrý pekař?

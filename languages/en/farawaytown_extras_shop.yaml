@@ -81,16 +81,16 @@ message_86:
       text: \n<PAN PEKAŘ>Cože? Tak nakonec ne?
 
 message_10:
-      text: \n<PANÍ PEKAŘOVÁ>Nazdárek, děti!\! Víte, že mám syna asi stejně starého, jako vy?\!<br>Pořád se jenom někde fláká s těma jeho chuligánama a nosí tu svoji otřesnou blonďatou paruku...
+      text: \n<PANÍ PEKAŘKA>Nazdárek, děti!\! Víte, že mám syna asi stejně starého, jako vy?\!<br>Pořád se jenom někde fláká s těma jeho chuligánama a nosí tu svoji otřesnou blonďatou paruku...
 
 message_11:
-      text: \n<PANÍ PEKAŘOVÁ>Kéž by byl tak zodpovědný, jako jeho starší sourozenci!
+      text: \n<PANÍ PEKAŘKA>Kéž by byl tak zodpovědný, jako jeho starší sourozenci!
 
 message_12:
-      text: \n<PANÍ PEKAŘOVÁ>Tuhle pekárnu tady provozujeme už čtvrtou generací potom, co se sem má mamka přestěhovala přes půl země! #přes oceán dává mysl, když jsme ve spojených státech, ale ne v čr
+      text: \n<PANÍ PEKAŘKA>Tuhle pekárnu tady provozujeme už čtvrtou generací potom, co se sem má mamka přestěhovala přes půl země! #přes oceán dává mysl, když jsme ve spojených státech, ale ne v čr
 
 message_13:
-      text: \n<PANÍ PEKAŘOVÁ>Doufám, že ji po mně jednou mé děti převezmou...\! Pro mě a mého manžela by to znamenalo opravdu hodně!
+      text: \n<PANÍ PEKAŘKA>Doufám, že ji po mně jednou mé děti převezmou...\! Pro mě a mého manžela by to znamenalo opravdu hodně!
 
             #Candy Shop
 
@@ -259,7 +259,7 @@ message_56:
 
 #Intro
 message_26:
-      text: \n<PRODAVAČ NÁŘADÍ>Vítejte v \c[11]OPRAVSI\c[0]...<br>kde seženeš cokoliv na to, aby sis to \c[11]OPRAVIL SÁM\c[0]!\!<br>Co by tě tak zajímalo?
+      text: \n<PRODAVAČ NÁŘADÍ>Vítej v \c[11]OPRAVSI\c[0]...<br>kde seženeš cokoliv na to, aby sis to \c[11]OPRAVIL SÁM\c[0]!\!<br>Co by tě tak zajímalo?
 #Purchase
 message_27:
       text: \n<PRODAVAČ NÁŘADÍ>Super! Hned ti to zabalím.

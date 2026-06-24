@@ -15,7 +15,7 @@ message_2:
        text: \"Asi jsme se ztratili...\!<br>Nemůžeme být moc daleko...\!<br>Najdi nás, náš drahý bráško.\"
 
 message_3:
-       text: Podepsáni <br>DAPHNE a BOWEN (Tví drazí starší sourozenci)
+       text: Podepsáni <br>TEREZKA A ONDRA (Tví drazí starší sourozenci)
 
 #upon exiting, song stays as goofy_times.ogg
 
@@ -111,13 +111,13 @@ message_27:
        text: \n<DVOJČE>Počkat...\! Ty nejsi náš drahý bratříček...
 
 message_28:
-       text: \n<DVOJČE>Hmm...\! Hmm...\! Že bychom na našeho bratříčka byli příliš trapní, BOWENE?\! Proč by si jinak se svými milovanými staršími sourozenci nechtěl hrát?!
+       text: \n<DVOJČE>Hmm...\! Hmm...\! Že bychom na našeho bratříčka byli příliš trapní, ONDRO?\! Proč by si jinak se svými milovanými staršími sourozenci nechtěl hrát?!
 
 message_29:
-       text: \n<DRUHÉ DVOJČE>Ano, DAPHNE...\! Je to...\! velká smůla...
+       text: \n<DRUHÉ DVOJČE>Ano, TEREZKO...\! Je to...\! velká smůla...
 
 message_30:
-       text: \n<DVOJČE>Ach jo...\! Pomalu nemáme v práci volno...\! A když už jo...\! tak si s náma malý MICHAEL nikdy nechce hrát!\!<br>To je tak nefér, co, BOWENE? #citoslovce, co
+       text: \n<DVOJČE>Ach jo...\! Pomalu nemáme v práci volno...\! A když už jo...\! tak si s náma malý MICHAEL nikdy nechce hrát!\!<br>To je tak nefér, co, ONDRO? #citoslovce, co
 
 message_31:
        text: \n<DRUHÉ DVOJČE>Život je tak krutý...

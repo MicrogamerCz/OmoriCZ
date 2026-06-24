@@ -55,7 +55,7 @@ message_12:
 
                 #Examine Steak Knife
 message_13:
-      text: Vzal jsi \c[13]NŮŽ NA STEAK\c[0] do ruky.
+      text: Vzal jsi \c[13]STEAKOVÝ NŮŽ\c[0] do ruky.
 
 # Auto-equip steak KNIFE
 

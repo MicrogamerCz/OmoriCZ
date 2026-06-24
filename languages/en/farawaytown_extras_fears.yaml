@@ -43,7 +43,7 @@ message_11:
 # =========================================================================================
 
 message_30:
-      text: Chceš vážně sejít schody?
+      text: Opravdu chceš sejít schody?
 
 message_31:
       text: Nechceš sejít schody.

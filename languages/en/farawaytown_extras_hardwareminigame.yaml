@@ -4,96 +4,96 @@
 
 
 message_19:
-      text: You see a 'HELP WANTED' poster for a short-term hardware sorting job.
+      text: Na plakátě je nabídka nádenní brigády, konkrétně třídění nářadí.
 
 message_20:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelOh! You're taking this job, \n[8]?\! In that case, I'll come back for you later.\! Work hard, okay?
+      text: \kelA! Chtěl bys na tuhle brigádu, SUNNY?\! V tom případě přijdu později.\! Hlavně píle, jo?
 
 #Intro
 message_0:
-      text: \n<FIX-IT GUY>Yo, kid! I see you staring at that HELP WANTED poster!\!<br>You interested in a quick job?
+      text: \n<PRODAVAČ NÁŘADÍ>Nazdar prcku! Vidím, jak tady koukáš na ten plakát!\!<br>Chtěl by sis rychle přivydělat?
 
 #[Nod/Shake]
 #[Nod]
 message_1:
-      text: \n<FIX-IT GUY>That's awesome, kid!\! I'll help you get started.
+      text: \n<PRODAVAČ NÁŘADÍ>Tak to je skvělý!\! Jdeme na to.
 #[Shake]
 message_2:
-      text: \n<FIX-IT GUY>Well, alright.<br>\!If you ever want some extra cash, just let me know.
+      text: \n<PRODAVAČ NÁŘADÍ>Tak dobře.<br>\!Ale kdybys někdy potřeboval peníze, jen se ozvi.
 
 #Tool Names
 message_3:
-      text: DRILL
+      text: VRTAČKU
 
 message_4:
-      text: TAPE
+      text: PÁSKU
 
 message_5:
-      text: SHOVEL
+      text: LOPATU
 
 message_6:
-      text: SAW
+      text: PILKU
 
 message_7:
-      text: HAMMER
+      text: KLADIVO
 
 message_8:
-      text: WRENCH
+      text: HASÁK
 
 message_9:
-      text: Do you want to put \v[815] here?
+      text: Chtěl bys sem položit \v[815]?
 
 message_10:
-      text: What do you want to replace?
+      text: Co chceš zaměnit?
 
 message_11:
-      text: You put the \v[813] where the \v[815] was.
+      text: Dal jsi \v[813] tam, kde jsi předtím měl \v[815].
 
 message_12:
-      text: You have a \v[815] in your hands.
+      text: Práve držíš \v[815].
 
 message_13:
-      text: You put the \v[815] here.
+      text: Položil jsi \v[815].
 
 message_14:
-      text: What do you want to pick up?
+      text: Co bys chtěl vzít?
 
 message_15:
-      text: You grab the \v[815].
+      text: Vzal jsi \v[815].
 
 # Trying to leave the shop without finishing your job
 message_16:
-      text: \n<FIX-IT GUY>Hey! Where do you think you're going?
+      text: \n<PRODAVAČ NÁŘADÍ>Hej! Kam si myslíš, že jdeš?
 
 message_17:
-      text: \n<FIX-IT GUY>I thought we had a deal!\! Fix the displays and you'll get paid!
+      text: \n<PRODAVAČ NÁŘADÍ>Snad jsme se na něčem domluvili!\! Dotřiď to zboží a dostaneš zaplaceno!
 
 # Complete
 message_18:
-      text: Everything is finally in its rightful place.
+      text: Všechno je konečně tam, kde má být.
 
 #Rule Explanation
 message_23:
-      text: \n<FIX-IT GUY>Alright, kid.\! Take a good look at those shelves behind you and you'll probably notice that everything's a big jumbled mess!
+      text: \n<PRODAVAČ NÁŘADÍ>Dobrá, prcku.\! Pořádně se podívej na tyhle poličky a brzo ti dojde, že tady máme hroznej bordel!
 
 message_24:
-      text: \n<FIX-IT GUY>You'd think with a sign above the shelf it'd be obvious where to put things, but people just don't give a crap these days...\! Sigh...\! I hate working retail...
+      text: \n<PRODAVAČ NÁŘADÍ>Dalo by se čekat, že by lidi věděli, kam co patří, zvlášť, když u toho jsou cedule...\! Ach jo...\! Já tuhle fachu tak nesnáším...
 
 message_21:
-      text: \n<FIX-IT GUY>Anyway, the sign above the shelf shows what product should be on display.\! Your job is to move everything back to its rightful place, got it?\! I'm countin' on you, kid.
+      text: \n<PRODAVAČ NÁŘADÍ>Každopádně, ty cedule značí, kde by mělo co být.\! A ty to teď musíš podle nich vytřídit, jasný?\! A teď už je to jen na tobě, prcku.
 
 #Quest Finish
 
 message_22:
-      text: \n<FIX-IT GUY>\sinv[1]Snore...\| Snore...\!\sinv[0] H-Huh? What? You're finally done?\!<br>Excellent work, kid!\! Here's $30.00!\!<br>Don't spend it all in one place!
+      text: \n<PRODAVAČ NÁŘADÍ>\sinv[1]Chrr...\| Chrr...\!\sinv[0] C-Cože? Co? Už máš konečně hotovo?\!<br>Skvělá práce, prcku!\! Tady máš třicet korun?!\!<br>Ne, že je utratíš za nějakou capinu!
 
 #Return to Party:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \KelHey, \n[8]! How'd you do?\! While you were working,<br>I decided to play some basketball at the park!\!<br>Man, that was fun...\! Well...\! I'm ready to go when you are!
+      text: \KelAhoj, SUNNY! Tak co, jak ti to šlo?\! Zatímco jsi pracoval jsem si <br>šel do parku zahrát basket!\!<br>Ty jo, to byla sranda...\! Každopádně...\! Řekni a jdeme!
 
 message_30:
-      text: \n<FIX-IT GUY>Hmm...\! Let's see here...\! Uh... yeah! You're almost there!\! Just get in the zone!
+      text: \n<PRODAVAČ NÁŘADÍ>Hmm...\! Takže, jak jsme na tom...\! No... jo! Už jsme skoro doma!\! Jen do toho!

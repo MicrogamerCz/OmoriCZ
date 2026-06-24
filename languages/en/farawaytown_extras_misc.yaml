@@ -114,10 +114,10 @@ message_31:
       text: Co umyješ jako první?
 
 message_32:
-      text: KOVOVÁ VIDLIČKA
+      text: KOVOVOU VIDLIČKU
 
 message_33:
-      text: KOVOVÁ LŽIČKA #obě jsou kovové, ne stříbrné
+      text: KOVOVOU LŽIČKU #obě jsou kovové, ne stříbrné
 
 message_34:
       text: JÍDELNÍ HŮLKY #ať je jasné, že se jedná o ty japonské
@@ -129,22 +129,22 @@ message_36:
       text: PÁNEV #jedna
 
 message_37:
-      text: NABĚRAČKA
+      text: NABĚRAČKU
 
 message_38:
-      text: MALÁ MISKA
+      text: MALOU MISKU
 
 message_39:
-      text: OBŘÍ MISKA #přejmenováno
+      text: OBŘÍ MISKU #přejmenováno
 
 message_40:
-      text: HONOSNÁ MISKA
+      text: HONOSNOU MISKU
 
 message_41:
       text: ZDOBENÝ TALÍŘ
 
 message_42:
-      text: SKLENICE NA VÍNO
+      text: SKLENICI NA VÍNO
 
 message_43:
       text: SKLENĚNÝ HRNEK
@@ -162,7 +162,7 @@ message_60:
       text: Vzal jsi do ruky \v[806].
 
 message_80:
-      text: ...\! Ups.\! \v[806] ti spadl a rozbil se.
+      text: ...\! Ups.\! Omylem jsi pustil \v[806] z rukou na zem...
 
 message_90:
       text: Snad si toho MAMKA nevšimne...
@@ -244,10 +244,10 @@ message_138:
 #  Sorting Items
 
 message_140:
-      text: AKČNÍ FIGURKA KAPITÁNA VESMÍRŇÁKA[HRAČKA]
+      text: AKČNÍ FIGURKU KAPITÁNA VESMÍRŇÁKA[HRAČKA]
 
 message_141:
-      text: STAVEBNICE[HRAČKA]
+      text: STAVEBNICI[HRAČKA]
 
 message_142:
       text: PYTLÍK PLNÝ KULIČEK[HRAČKA]
@@ -256,16 +256,16 @@ message_143:
       text: JOJO[HRAČKA]
 
 message_144:
-      text: PLASTELÍNA[HRAČKA]
+      text: PLASTELÍNU[HRAČKA]
 
 message_145:
-      text: PRUŽINKA[HRAČKA] #ať je to jasnější. a zjistil jsem, že "slinky" je copyrightované. ještě že to je tady skryté...
+      text: PRUŽINKU[HRAČKA] #ať je to jasnější. a zjistil jsem, že "slinky" je copyrightované. ještě že to je tady skryté...
 
 message_146:
-      text: PLYŠOVÝ KLÍČKOKRTEK[HRAČKA]
+      text: PLYŠOVÉHO KLÍČKOKRTKA[HRAČKA]
 
 message_147:
-      text: PANENKA ZLATÍČKA[HRAČKA]
+      text: PANENKU ZLATÍČKA[HRAČKA]
 
 message_148:
       text: OVLADAČ NA AUTÍČKO[HRAČKA]
@@ -274,10 +274,10 @@ message_149:
       text: AUTÍČKO NA DÁLKOVÉ OVLÁDÁNÍ[HRAČKA] #blíže orig, výše též
 
 message_150:
-      text: ROZTRHLÝ DRAK[HRAČKA]
+      text: ROZTRHLÉHO DRAKA[HRAČKA]
 
 message_151:
-      text: HRACÍ KASA[HRAČKA]
+      text: HRACÍ KASU[HRAČKA]
 
 message_152:
       text: DUHOVÝ XYLOFON[HRAČKA]
@@ -295,10 +295,10 @@ message_156:
       text: KOMIKS \"DOBRODRUŽSTVÍ KAPITÁNA VESMÍRŇÁKA\"[KNIHA]
 
 message_157:
-      text: Kniha \"JAK VYTRHNOUT BENDOVI STOLIČKU\"[KNIHA] #odkaz na původ jména
+      text: KNIHU \"JAK VYTRHNOUT BENDOVI STOLIČKU\"[KNIHA] #odkaz na původ jména
 #delete the entry below
 message_158:
-      text: Komisk \"ZLATÍČČINA POMSTA\"[KNIHA] #komiks
+      text: KOMIKS \"ZLATÍČČINA POMSTA\"[KNIHA] #komiks
 #delete the entry below
 message_159:
       text: OMALOVÁNKY \"DINOUSAUŘÍ KOPÁNÁ\"[KNIHA]
@@ -310,40 +310,40 @@ message_161:
       text: \"DUETY PRO KLAVÍR A HOUSLE\"[KNIHA]
 
 message_162:
-      text: \"POTRAVINOVÁ PYRAMIDA\"[KNIHA] #konzistence
+      text: \"POTRAVINOVOU PYRAMIDU\"[KNIHA] #konzistence
 #delete the entry below
 message_163:
-      text: \"SKLESLÁ VRBA\"[KNIHA]
+      text: \"SKLESLOU VRBU\"[KNIHA]
 
 message_164:
-      text: \"VOŇAVÁ KNÍŽKA POMERANČOVÉHO JOEHO\"[KNIHA]
+      text: \"VOŇAVOU KNÍŽKU POMERANČOVÉHO JOEHO\"[KNIHA]
 
 message_165:
-      text: STRATEGICKÁ PŘIRUČKA \"DOMÁCÍ KAMÍNKY\"[KNIHA]
+      text: VŠEOBECNOU PŘÍRUČKU \"JAK NA DOMÁCÍ KAMÍNKY\"[KNIHA]
 #delete the entry below
 message_166:
-      text: Kniha \"VELKÁ ŽLUTÁ KOČKA\"[KNIHA] #kniha
+      text: KNIHU \"VELKÁ ŽLUTÁ KOČKA\"[KNIHA] #kniha
 
 message_167:
-      text: Kniha \"KLUK A JEHO DRAK\"[KNIHA] #kniha
+      text: KNIHU \"KLUK A JEHO DRAK\"[KNIHA] #kniha
 #delete the entry below
 message_168:
-      text: Kniha \"HŘIŠTĚ V LESE\"[KNIHA]
+      text: KNIHU \"HŘIŠTĚ V LESE\"[KNIHA]
 #delete the entry below
 message_169:
-      text: Kniha \"OSAMĚLÝ STRAŠÁK\"[KNIHA]
+      text: KNIHU \"OSAMĚLÝ STRAŠÁK\"[KNIHA]
 
 message_170:
-      text: Kniha \"VÝHODY TOFU\"[KNIHA]
+      text: KNIHU \"VÝHODY TOFU\"[KNIHA]
 
 message_171:
-      text: STARÁ PLECHOVKA POMERANČOVÉHO JOEHO[ODPAD]
+      text: STAROU PLECHOVKU POMERANČOVÉHO JOEHO[ODPAD]
 
 message_172:
       text: JEDEN KOUSEK PUZZLÍ[ODPAD]
 
 message_173:
-      text: STARÁ SMRADLAVÁ PONOŽKA[ODPAD]
+      text: STAROU SMRADLAVOU PONOŽKU[ODPAD]
 
 message_174:
       text: VRŠEK PERA[ODPAD]
@@ -431,7 +431,6 @@ message_210:
 message_211:
       text: Je ti na zvracení...
 
-
 message_236:
       text: Přání k uzdravení od TÁTY KIM A VANCE. #í
 
@@ -505,7 +504,7 @@ message_247:
       text: \"Nazdar, SUNNY...\"\!<br>\"Posílám dobrou náladu.\"\!<br>\"A nezapomeň, u nás v HOBBEEZ jsi vždy vítán!\"
 
 message_232:
-      text: Dárky k uzdravení od DAPHNE a BOWENA.
+      text: Dárky k uzdravení od TEREZKY A ONDRY.
 
 message_248:
       text: \"Vyžij se v tomto chlebu a naber zpět síly.\"\!<br>\"A poté si s námi znovu přijď zahrát...\"
@@ -575,7 +574,7 @@ message_410:
       text: Chlapec se jmenuje \v[1]?
 
 message_500:
-      text: Ach ano, skvělý, propečený steak.\! Dáš si?
+      text: Tak copak to tady máme... skvělý, propečený steak.\! Dáš si?
 
 message_501:
       text: Uff...\! To se tvému žaludku moc nelíbilo... #citoslovce
