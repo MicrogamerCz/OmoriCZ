@@ -46,7 +46,7 @@ message_6:
       text: \n<PŘÍTULNÝ HRÁČ GIBS>Byli byste tak hodní a dali mi 5 MUŠLÍ? To by mi<br>fakt pomohlo.\!<br>A když mi je dáte, ukážu vám něco \SINV[1]fakt hustýho\SINV[0]!\$ #hustý - hustýho
 
 message_7:
-      text: \n<PŘÍTULNÝ HRÁČ GIBS>Díky za váš přízpěvek!\! A na oplátku... vám zahraji píseň svého lidu. #maty
+      text: \n<PŘÍTULNÝ HRÁČ GIBS>Díky za váš příspěvek!\! A jak vždycky říkám... ten, kdo dá příspěvek, si zaslouží \SINV[1]přízpěvek\SINV[0]! #maty
 
 message_8:
       faceset: MainCharacters_DreamWorld
@@ -168,7 +168,7 @@ message_41:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_40:
-      text: \n<VČELA HLÁSKA>J-\!A-\!K-\!P-\!A-\!K\! S-\!E\! V-\!Á-\!M\! L-\!Í-\!B-\!Í\! T-\!E-\!N-\!T-\!O <br> \!P-\!Ř-\!E-\!K-\!R-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!N-\!Ý\! V-\!E-\!Č-\!E-\!R? \!N-\!O\! N-\!E-\!M-\!Á-\!M-\!E-\! T-\!O \!H-\!E-\!Z-\!K-\!É \!P-\!O-\!Č-\!A-\!S-\!Í?
+      text: \n<VČELA HLÁSKA>J-\!A-\!K-\!P-\!A-\!K\! S-\!E\! V-\!Á-\!M\! L-\!Í-\!B-\!Í\! T-\!E-\!N-\!T-\!O \!P-\!Ř-\!E-\!K-\!R-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!N-\!Ý\! V-\!E-\!Č-\!E-\!R? \!N-\!O\! N-\!E-\!M-\!Á-\!M-\!E\! T-\!O \!H-\!E-\!Z-\!K-\!É \!P-\!O-\!Č-\!A-\!S-\!Í-\!Í-\!Í-\!Í-\!Í?
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: Same as Night 1-1
 #Gator Guy 2: Same as Night 1-1

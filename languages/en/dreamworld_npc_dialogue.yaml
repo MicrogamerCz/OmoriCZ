@@ -26,7 +26,7 @@ message_2:
 #Bangs
 #Location: Forest Playground #CO JE TOHLE ZA CAPINU? PROČ JE TADY ZASE PROSTĚ HORA DUPLIKÁTNÍHO DIALOGU? 
 message_10:
-      text: \banBavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi.
+      text: \n<OFČA>Bavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi.
 
 #Bun
 #Location: Forest Playground
@@ -52,7 +52,7 @@ message_16:
 # ==============HEADBUTT=======================================
 
 message_20:
-      text: \berHej, hoši! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
+      text: \berHej, frajeři! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
 
 message_21:
       text: \n<VAN>To teda.
@@ -153,4 +153,4 @@ message_46:
       text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
 
 message_47:
-      text: Získal jsi \c[4]TVRDOHLAVÝ DIPLOM\c[0].
+      text: Získal jsi \c[4]DIPLOM HLAVO-TVRDOSTI\c[0].

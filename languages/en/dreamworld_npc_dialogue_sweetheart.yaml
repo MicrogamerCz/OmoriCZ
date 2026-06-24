@@ -6,7 +6,7 @@ message_200:
       text: \n<HAROLD>\com[2]\{\{\quake[1]STŮJTE, VĚZNI!!
 
 message_201:
-      text: \n<HAROLD>To jste si vážně mysleli, že se vám povede utéct tak lehce?!
+      text: \n<HAROLD>To jste si vážně mysleli, že se vám povede utéct tak snadno?!
 
 message_202:
       text: \n<HAROLD>Zpátky do \c[11]HLADOMORNY\C[0] s váma!
@@ -117,7 +117,7 @@ message_12:
       text: \n<KRTEK SPRÁVCE>\Com[2]\{STRÁŽĚ!!\!\}<br>Hoďte tyhle KLÍČKOKRTKY do \c[11]HLADOMORNY\C[0]!
 
 message_20:
-      text: \n<KRTEK SPRÁVCE>Jak si dovolujete mě tady zdržovat?! Jsem vážený host!
+      text: \n<RŮŽOVÝ? KRTEK>Jak si dovolujete mě tady zdržovat?! Jsem vážený host!
 
 message_21:
       text: \n<RŮŽOVÝ? KRTEK>Jak si dovolujete mě tady zdržovat! Jsem vážěný host!
@@ -126,13 +126,13 @@ message_22:
       text: \n<RŮŽOVÝ? KRTEK>\v[1001]
 
 message_23:
-      text: Někomu trochu šaramantnějšímu by se povedlo je přesvědčit...
+      text: Někomu trochu půvabnějšímu by se povedlo je přesvědčit...
 
 message_30:
     text: Řekneš tomuto KLÍČKOKRTKOVI, aby šel za tebou?
 
 message_40:
-      text: \n<HAROLD>\sinv[1]Slyšel jsem, však nevím jistě...\!<br>že na ZLATÍČČINA láska je nám vždy na prvním místě!
+      text: \n<HAROLD>\sinv[1]Slyšel jsem, však nevím jistě...\!<br>že ZLATÍČČINA láska je nám vždy na prvním místě!
 
 message_41:
       text: \n<HAROLD>\sinv[2]Hut! Hut! Hut!
@@ -165,7 +165,7 @@ message_71:
       text: \n<JINÝ ZÁSTUPCE ŠÉFKUCHAŘE>Mě taky, je mi trochu špatně od žaludku... #návaznost
 
 message_74:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Bah! O přízeň takových otravů, jako jste vy, stejně nestojím!\! Uvařím dort nade všechny dorty! Jen počkejte! #vypouštím já, přiroz
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Pche! O přízeň takových otravů, jako jste vy, stejně nestojím!\! Uvařím dort nade všechny dorty! Jen počkejte! #vypouštím já, přiroz
 
 message_72:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Hej, vy tam!\! Od teď jste moji zástupci.\!<br>Pojďte za mnou do kuchyně, a fofrem! #přiroz
@@ -453,13 +453,13 @@ message_352:
 #SW Foyer
 
 message_359:
-      text: \n<SVÍČKOZAJÍC>\sinv[1]Pyon?
+      text: \n<SVÍČKOZAJÍC>\sinv[1]Hop?
 
 message_355:
       text: \n<HAROLD>Zpět na svá místa, nováčci!\!<br>S ulejvákama se tady nemazlíme!
 
 message_356:
-      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská garda přijímá jen ty nejlepší z nejlepších! #počeštění jména
+      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská stráž přijímá jen ty nejlepší z nejlepších! #počeštění jména
 
 message_357:
       text: \n<LUCIUS>Celý život jsem studoval bojová umění.\! Když budeš tvrdě makat...\! možná se z tebe taky jednou stane LUCIUS!
@@ -489,7 +489,7 @@ message_375:
       text: \n<HAROLD>Co říkáte na ten konec?\! To jste nečekali, co?
 
 message_376:
-      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská garda přijímá jen ty nejlepší z nejlepších!
+      text: \n<MARŠA>My naši práci bereme vážně!\! ZLATÍČČINA královská stráž přijímá jen ty nejlepší z nejlepších!
 
 message_377:
       text: \n<LUCIUS>Celý život jsem studoval bojová umění.\! Mladí KLÍČKOKRTCI studují, aby se z nich jednou stali LUCIOVÉ!
@@ -538,7 +538,7 @@ message_411:
       text: \n<RŮŽOVÝ? KRTEK>Jenom protože na sobě mám svou oblíbenou modrou?!\! Zapomeňte na to, nehnu se odsud!
 
 message_412:
-      text: \n<RŮŽOVÝ? KRTEK>Tak vyžadována?\! No jistě.
+      text: \n<RŮŽOVÝ? KRTEK>Naléhavě potřeba?\! No jistě.
 
 message_413:
       text: \n<RŮŽOVÝ? KRTEK>Ts...\! A když ne, tak co?

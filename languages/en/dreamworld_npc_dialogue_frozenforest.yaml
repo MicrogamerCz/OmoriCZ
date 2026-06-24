@@ -28,81 +28,81 @@ message_0:
 #SNOWGLOBE 1
 #Location: Frozen Forest
 message_1:
-      text: You look into the SNOWGLOBE.\! You see a car stuck in the snow.\! Some kids are drawing on the fog on the backseat windows.
+      text: Podíval ses do SNĚŽÍTKA.\! Vidíš auto zabořené ve sněhu.\! Děti prsty malují na zamlžená zadní okna.
 
 #SNOWGLOBE 2
 #Location: Frozen Forest
 message_2:
-      text: You look into the SNOWGLOBE.\! You see a small house at the top of a snow-covered hill.\! It looks warm inside.
+      text: Podíval ses do SNĚŽÍTKA.\! Vidíš domeček na zasněženém kopci.\! Tam ale musí být příjemně...
 
 #SNOWGLOBE 3
 #Location: Frozen Forest
 message_3:
-      text: You look into the SNOWGLOBE.\! You see some kids sledding down a steep hill.\! They look like they're having fun.
+      text: Podíval ses do SNĚŽÍTKA.\! Vidíš děti sáňkující z prudkého kopce.\! Vypadá, že je to baví.
 
 #MOUNTAIN
 message_10:
-      text: You find yourself at the foot of a mountain.
+      text: Jsi u úpatí hory.
 
 message_11:
-      text: You find yourself back where you started.
+      text: Jsi tam, kde jsi začal.
 
 #====
 
 #FISHING
 
 message_20:
-      text: You hooked up a SPROUT MOLE!<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi KLÍČKOKRTKA!<br>\!A hodil jej zpátky do vody.
 
 message_21:
-      text: You hooked up an old boot...<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi starou botu...<br>\!A hodil ji zpátky do vody.
 
 message_23:
-      text: You hooked up a crab!<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi kraba!<br>\!A hodil jej zpátky do vody.
 
 message_24:
-      text: You hooked up an octopus!<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi chobotnici!<br>\!A hodil ji zpátky do vody.
 
 message_25:
-      text: You hooked up nuclear waste...<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi jaderný odpad...<br>\!A hodil jej zpátky do vody.
 
 message_26:
-      text: You hooked up a vending machine!
+      text: Vytáhl jsi výdejní automat!
 
 message_27:
-      text: You hooked up an \"O\".<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi \"O\".<br>\!A hodil jej zpátky do vody.
 
 message_29:
-      text: You hooked up an orange.<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi pomeranč.<br>\!A hodil jej zpátky do vody.
 
 message_30:
-      text: You hooked up a MESSAGE IN A BOTTLE!
+      text: Vytáhl jsi VZKAZ V LAHVI!
 
 message_31:
-      text: \n<MESSAGE IN A BOTTLE>\"When the Moon hits your eye like a big pizza pie, that's _____.\"
+      text: \n<VZKAZ V LAHVI>\"Není nutno, není nutno, _____ bylo přímo veselo.\"
 
 #Show Choices OMORI, AUBREY, KEL, HERO
 
 message_32:
-      text: You hooked up a plastic fish...<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi plastovou rybu...<br>\!A hodil ji zpátky do vody.
 
 message_33:
-      text: You hooked up a real fish!<br>\!And then threw it back into the lake.
+      text: Vytáhl jsi opravdovou rybu!<br>\!A hodil ji zpátky do vody.
 
 message_34:
-      text: You hooked up \c[3]TOFU\c[0]!
+      text: Vytáhl jsi \c[3]TOFU\c[0]!
 
 message_35:
-      text: You hooked up \c[3]LIFE JAM\c[0]!
+      text: Vytáhl jsi \c[3]ŽIVÝ DŽEM\c[0]!
 
 message_36:
-      text: No luck this time...
+      text: Tentokrát se nepovedlo...
 
 message_40:
       text: OMORI
 
 message_41:
-      text: AUBREY
+      text: AUBRY
 
 message_42:
       text: KEL
@@ -111,4 +111,4 @@ message_43:
       text: HERO
 
 message_44:
-      text: You threw the bottle back into the lake.
+      text: Hodil jsi láhev zpátky do vody.

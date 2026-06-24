@@ -38,10 +38,10 @@ message_5:
 
 #Ferris
 message_6:
-      text: \n<FERRIS>Tady kdysi byla proslulá přirodní rezervace, ale kvůli turistickému ruchu je to tady poslední dobou samý odpad... #blíže orig
+      text: \n<FERDA>Tady kdysi byla proslulá přirodní rezervace, ale kvůli turistickému ruchu je to tady poslední dobou samý odpad... #blíže orig
 
 message_7:
-      text: \n<FERRIS>Uklízejte po sobě, lidi! Není to snad taková hrůza! #překlep
+      text: \n<FERDA>Uklízejte po sobě, lidi! Není to snad taková hrůza! #překlep
 
 #Laramie
 message_8:
@@ -180,10 +180,10 @@ message_43:
 
 #SNALEY
 message_44:
-      text: \n<ŠNEČEK>Ach, panečku! \!Stojím vám v cestě?\!<br>Promiňte.\! Hned uhnu.
+      text: \n<ŠNEČÍK>Ach, panečku! \!Stojím vám v cestě?\!<br>Promiňte.\! Hned uhnu.
 
 message_45:
-      text: \n<ŠNEČEK>Jejda!\! Asi vám stojím v cestě, viďte?\!<br>Ach, pardón.\! Hned vám uhnu.
+      text: \n<ŠNEČÍK>Jejda!\! Asi vám stojím v cestě, viďte?\!<br>Ach, pardón.\! Hned vám uhnu.
 
 #TV Girl
 #Coffee Machine quest
@@ -192,25 +192,25 @@ message_45:
 #Outskirts
 
 message_50:
-      text: \n<ZELENIŇÁČEK>Jsme na dobrodružství!
+      text: \n<ZELENINÁČEK>Jsme na dobrodružství!
 
 #Veggie Kid (Onion)
 #Outskirts
 
 message_51:
-      text: \n<ZELENIŇÁČEK>Jsme dobrodruzi!
+      text: \n<ZELENINÁČEK>Jsme dobrodruzi!
 
 #Veggie Kid (Potato)
 #Outskirts
 
 message_52:
-      text: \n<ZELENIŇÁČEK>Jsme na cestě! #zachování stejného začátku
+      text: \n<ZELENINÁČEK>Jsme na cestě! #zachování stejného začátku
 
 #Veggie Kid (Tomato)
 #Outskirts
 
 message_53:
-      text: \n<ZELENIŇÁČEK>Jsme cestovatelé!
+      text: \n<ZELENINÁČEK>Jsme cestovatelé!
 
 #Space Pirate ESO
 #Location: Space boyfriends House
@@ -348,7 +348,7 @@ message_89:
 #Space Pirate BRO N/A
 #Space Pirate KÁMOŠ
 message_90:
-      text: \n<VESMÍRNÝ KÁMOŠ>\SINV[1]PLUTO...\! Ať jsi, kde si, ukaž se!\SINV[0]
+      text: \n<VESMÍRNÝ KÁMOŠ>\SINV[1]PLUTO...\! Ať jsi, kde jsi, ukaž se!\SINV[0]
 
 #Space Pirate NÁČELNÍK N/A
 #Space Pirate CÁPEK
@@ -439,7 +439,7 @@ message_111:
                         #====NIGHT 4====
 
 message_130:
-      text: \n<LARAMIE>Zaslechla jsem, že se VESMÍRŇÁKŮV táta, RŮŽOVOUS, po zmizení svého syna vrátil!\!<br>Ach, pořád jen samá dramata!\! Mohlo by to snad být ještě šťavnatější? #srozumitelnější
+      text: \n<LARAMIE>Zaslechla jsem, že se VESMÍRŇÁKŮV táta, RŮŽOVOUS, po zmizení svého syna vrátil!\!<br>Ach, pořád jen samá dramata!\!<br>Mohlo by to tady snad být ještě šťavnatější? #srozumitelnější
 
 #Lone Mole: N/A
 #ESSI: Slime Girl's Lair

@@ -98,7 +98,7 @@ message_16:
 #RITA
 #Location: Last Resort
 message_17:
-      text: \n<RITA>Mě a mým sestrám patří malá kavárna východně odsud.\! Doporučovala bych vám se tam jít podívat.\! Vaří tam úžasně!
+      text: \n<RITA>Mě a mým sestrám patří malá kavárna na východ odsud.\! Doporučovala bych vám se tam jít podívat.\! Vaří tam úžasně!
 
 #SADIE
 #Location: MUSTARD SUBMERSIBLE
@@ -107,7 +107,7 @@ message_17:
 #SHARK PICKLE
 #Location: Last Resort
 message_18:
-      text: \n<ŽRALOČÍ OKUREK>Chtěli byste se něco dozvědět o ŽRALOCÍCH anebo OKURKÁCH?\!<br>Za \c[3]CELÉ MENU\c[0] vám řeknu, co vím!
+      text: \n<ŽRALOČÍ OKUREK>Chtěli byste se něco dozvědět o ŽRALOCÍCH anebo OKURKÁCH?\!<br>Za \c[3]MENÍČKO\c[0] vám řeknu, co vím!
 #yes/no (only if combo meal is in inventory)
 
 #yes
@@ -159,7 +159,7 @@ message_106:
 #SEACOW
 #Location:Underwater Highway
 message_25:
-      text: \n<MOŘSKÁ KRÁVA>No... \!Bůů?
+      text: \n<MOŘSKÁ KRÁVA>No... \!Búú?
 
 #SEACOW FARMER
 #Location:Underwater Highway- Hunt Squizzards Quest
@@ -260,7 +260,7 @@ message_33:
       text: \n<OVEČKA>Chtěli jsme na svatební cestu do \c[11]KONEČNÉ\c[0]...<br>což se nám moc nevydařilo, a proto jsme raději jeli vlakem sem do \c[11]POMERANČOVÉ POUŠTĚ\c[0]!
 
 message_34:
-      text: \n<OVEČKA>Nevím, co jsem čekala...\! ale je...\!<br>dost pomerančová. #vtip ztracen :(
+      text: \n<OVEČKA>Nevím, co jsem čekala...\! ale...\!<br>pomeranče tu nechybí, písku taky ne. #vtip ztracen :(
 
 #WOLF
 #Location: ORANGE OASIS
@@ -273,7 +273,7 @@ message_80:
       text: \n<ŠARLOT>Ahoj, já jsem ŠARLOT!\! Tahle kavárna patří mě a mým sestrám!
 
 message_81:
-      text: \n<ŠARLOT>Kasu obsluhuje ELEONORA, takže pokud máte zájem o vynikající \c[3]CELÉ MENU\c[0], promluvte si s ní!
+      text: \n<ŠARLOT>Kasu obsluhuje ELEONORA, takže pokud máte zájem o vynikající \c[3]MENÍČKO\c[0], promluvte si s ní!
 
 message_82:
       text: \n<ŠARLOT>Jo, a ty zpěvačky jsou taky moje sestry!\!<br>Že mají krásné hlasy?
@@ -332,12 +332,12 @@ message_60:
 #Location: Mustard Submersible
 #KROKOĎÁK is on his tiny phone.
 message_61:
-      text: \n<KROKOĎÁK>\}Jo jo...\! Tři objednávky...\! Jo jo...\! Jo jo...\! Nevím...\! Mohl bych se zeptat...\!<br>Aha, takže teď chcete čtyři...
+      text: \n<KROKOĎÁK>\}Jo jo...\! Tři objednávky...\! Jo jo...\! Jo jo...\! Nevím...\! Mohl bych se zeptat...\!<br>Aha, takže čtyři...
 
 #KROKOĎÁK
 #Location: Last Resort
 message_62:
-      text: \n<KROKOĎÁK>Šéf není tak energetický, jako obvykle...\!<br>Zajímalo by mě, jestli se něco neděje...
+      text: \n<KROKOĎÁK>Připadá mi, že šéf poslední dobou nemá moc energie...\!<br>Zajímalo by mě, jestli s ním něco není...
 #After Cutscene: Feed Humphrey 1
 message_63:
       text: \n<KROKOĎÁK>\Com[2]Zdravím, pane HERO!\! \Com[2]Přeji hezký den, pane! #dekapita(liza)ce

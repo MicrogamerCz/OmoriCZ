@@ -63,7 +63,7 @@ message_10:
 #SNALEY
 #Location: Slime Girls Lair / Medusa River 1 (228)
 message_50:
-      text: \n<ŠNEČEK>To je ale krásný bazén!
+      text: \n<ŠNEČÍK>To je ale krásný bazén!
 
 #WATERFALL HUMPHRIES 1
 message_11:
@@ -76,7 +76,7 @@ message_13:
       text: \humAch jo... Už zase mostařina?\!<br>Když už se budu moct najíst?
 
 message_22:
-      text: \humMáte na mysli tam ten velký vodopád, jižně odsud?\! Tak dobře! Klidně si s váma zazávodím!
+      text: \humMáte na mysli tam ten velký vodopád na jih odsud?\! Tak dobře! Klidně si s váma zazávodím!
 
 #WATERFALL HUMPHRIES 2
 
@@ -212,7 +212,7 @@ message_56:
       text: \n<BENDA>Aha... no jasně!\! Takhle ty výpočty hned dávají smysl...
 
 message_57:
-      text: \n<BENDA>Takže když vynásobím výsledek...\! Odečtu nekonečko...\! a pak to podělím nulou...\! a tu jedničku dám do zbytku...\! Tak mi z toho vyjde...\!<br>imaginární číslo!
+      text: \n<BENDA>Takže když vynásobím výsledek...\! Odečtu nekonečko...\! a pak to podělím nulou...\! a tu jedničku dám do zbytku...\! Tak mi z toho vyjde...\! imaginární číslo!
 
 message_58:
       text: \n<MOUDRÝ BENDA>\sinv[1]Keporkak se máte, přátele?!\!\sinv[0] Chápu, že rébusy nejsou pro všechny, ale to teď není k věci.

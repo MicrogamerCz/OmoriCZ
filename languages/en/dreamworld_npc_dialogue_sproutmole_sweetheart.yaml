@@ -96,7 +96,7 @@ message_23:
 #Family Mole 2
 #Location: Sprout Mole Village
 message_24:
-      text: \n<RODINNÝ KRTEK>Nesnáším pondělí.
+      text: \n<RODINNÝ KRTEK>Nesnáším pondělky.
 
 #RODINNÝ KRTEK 3
 #Location: Sprout Mole Village
@@ -175,7 +175,7 @@ message_45:
 message_46:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herKdo ví?\! Možná máte oba pravdu!\! A nebo byste spolu mohli zkusit uvařit \c[3]TOFU\c[0] na způsob, který ještě nikdo před vámi neudělal...\! Jako třeba něco meži teplým a studeným...
+      text: \herKdo ví?\! Možná máte oba pravdu!\! A nebo byste spolu mohli zkusit uvařit \c[3]TOFU\c[0] na způsob, který ještě nikdo před vámi neudělal...\! Jako třeba něco mezi teplým a studeným...
 
 message_47:
       faceset: MainCharacters_DreamWorld
@@ -582,16 +582,16 @@ message_122:
 
 
 message_130:
-      text: Nazdar, JIMZI! My jsme se ale dlouho neviděli!<br>\!Jak sis užil víkend, kámo?\n<KLÍČKOKRTEK>
+      text: Nazdar, BŘEŤO! My jsme se ale dlouho neviděli!<br>\!Jak sis užil víkend, kámo?\n<KLÍČKOKRTEK>
 
 message_131:
       text: Čau, LINDO! Tebe jsem neviděl už snad léta!\!<br>Jak je na tom ten tvůj tatík?\! Začíná mi celkem chybět.\n<KLÍČKOKRTEK>
 
 message_132:
-      text: Čau, SALE! Koukám, že jsi zhubl! Ty se máš!\n<KLÍČKOKRTEK>
+      text: Čau, STANDO! Koukám, že jsi zhubl! Ty se máš!\n<KLÍČKOKRTEK>
 
 message_133:
-      text: JEFFREY! Kamaráde!\! Tebe jsem tak dlouho neviděl.\!<br>Musíme spolu někdy někam zajít.\n<KLÍČKOKRTEK>
+      text: PRŮŠO! Kamaráde!\! Tebe jsem tak dlouho neviděl.\!<br>Musíme spolu někdy někam zajít.\n<KLÍČKOKRTEK>
 
 
 #SPROUT CROWD

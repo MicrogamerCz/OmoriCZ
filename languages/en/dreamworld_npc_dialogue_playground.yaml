@@ -8,7 +8,7 @@
 #Bangs
 #Location: Forest Playground
 message_0:
-      text: \banBavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi. #plynulejší
+      text: \n<OFČA>Bavit se je moc velká fuška, tak se raději dívám na to, jak se baví moji kamarádi. #plynulejší
 
 #After Cutscene: Lost Ball
 
@@ -82,7 +82,7 @@ message_15:
 #NOSE
 #Location: Forest Playground
 message_16:
-      text: Řekl bych, se NOSKA je zabavená.
+      text: Vypadá, že NOSKA je zabavená.
 
 #REN
 #Location: Forest Playground
@@ -99,7 +99,7 @@ message_19:
 
 #stargaze
 message_20:
-      text: Hvězdy ti světle září nad hlavou...<br>\!Nemáš jedinou starost. #jsi bez jediné starosti na nemáš jedinou starost
+      text: Hvězdy ti jako sedmikrásky září nad hlavou...<br>\!Nemáš jedinou starost. #jsi bez jediné starosti na nemáš jedinou starost
 
 message_21:
       text: OMORI se naučil \c[1]POZOROVAT\c[0]!
@@ -116,7 +116,7 @@ message_30:
 message_44:
       text: \hap\Com[2]No tak, OFČO!\! Budeš v pořádku!
 message_45:
-      text: \banOBČA mě přejel a shodil, ale je mi tady tak dobře, že ještě chvíli zůstanu ležet.
+      text: \banOBČA mě srazil a shodil, ale je mi tady tak dobře, že ještě chvíli zůstanu ležet.
 message_46:
       text: \n<VAN>Neboj, OBČO... \!Ty za to nemůžeš...
 message_47:
@@ -133,7 +133,7 @@ message_48:
 # ==============HEADBUTT=======================================
 
 message_60:
-      text: \berHej, hoši! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
+      text: \berHej, frajeři! Díky, že jste mi pomohli najít můj \c[4]ZTRACENÝ MÍČEK\c[0].\!<br>Jak vidíte, mám pro něj skvělé místo!
 
 message_61:
       text: \n<VAN>To teda.
@@ -235,7 +235,7 @@ message_86:
       text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
 
 message_87:
-      text: Získal jsi \c[4]TVRDOHLAVÝ DIPLOM\c[0].
+      text: Získal jsi \c[4]DIPLOM HLAVO-TVRDOSTI\c[0].
 
 
 #After Headbutt Quest
@@ -447,7 +447,7 @@ message_130:
       text: \bunUff...\!<br>Naši štamgasti teda fakt umí dělat binec.
 
 message_132:
-      text: \bunNepracuje se mi tady lehce. \!<br>Doufám, že je NOSKA vpořádku i beze mě...
+      text: \bunNemám to tady lehké. \!<br>Doufám, že se NOSCE daří i beze mě...
 
 #CHARLENE (Lifeguard)
 #Location: Last Resort - Entrance
@@ -504,7 +504,7 @@ message_151:
 #BANGS
 #Location: Forest Playground
 message_142:
-      text: \banUff...<br>\!Mrzí mě, že už nejsem zkoušeč postelí na \c[11]KONEČNÉ\c[0]...\!<br>Měl jsem tam poprvé v životě pocit, že jsem našel své poslání.
+      text: \banUff...<br>\!Mrzí mě, že už nejsem zkoušeč postelí na \c[11]KONEČNÉ\c[0]...\! <br>Měl jsem tam poprvé v životě pocit, že jsem našel své poslání.
 
 #BERLY
 #Location: Forest Playground

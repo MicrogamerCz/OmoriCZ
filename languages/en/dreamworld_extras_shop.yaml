@@ -27,16 +27,16 @@ message_7:
       text: Získal jsi \c[13]CENOVKU\c[0].
 
 message_203:
-      text: \n<VÁNICUK JAŠ>Na tohle nemáte dost MUŠLÍ.
+      text: \n<VÁNICUKOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_204:
-      text: \n<VÁNICUK JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
 
 message_205:
-      text: \n<VÁNICUK JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
+      text: \n<VÁNICUKOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
 
 message_206:
-      text: \n<VÁNICUK JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
+      text: \n<VÁNICUKOVÝ JAŠ>Vemte si prosím tuto \c[13]CENOVKU\c[0].\! U mě sice za ní nedostanete žádnou slevu, ale jsem si jistý, že vám někde jinde přijde vhod.
 
 message_213:
       text: \n<TOFUOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
@@ -108,7 +108,7 @@ message_11:
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubUmmm...\! OMORI...\! Zdá se mi, že k nám mluví támhleta poštovní schránka...\! <br>Možná bychom se na ní mohli jít juknout...
+      text: \aubUmmm...\! OMORI...\! Zdá se mi to, nebo k nám mluví támhleta poštovní schránka?...\! <br>Možná bychom se na ní mohli jít juknout...
 
 #Mailbox opens
 message_13:
@@ -212,7 +212,7 @@ message_200:
 #SELECTING POOL NOODLE
 
 message_70:
-      text: \maiHej, děti? Neměli byste zájem o tuhle \c[13]PLAVACÍ NUDLI\c[0]?\!<br>Vypadá sice trochu nepůsobivě, ale věřte mi, že má veliký potenciál být smrtící zbraní!
+      text: \maiHej, děcka? Neměli byste zájem o tuhle \c[13]PLAVACÍ NUDLI\c[0]?\!<br>Vypadá sice trochu nepůsobivě, ale věřte mi, že má veliký potenciál být smrtící zbraní!
 
 message_71:
       text: \maiA i přesto...\! toho tolik za ní ani nechci! Jen rozumných 5000 MUŠLÍ!
@@ -350,25 +350,25 @@ message_94:
 
 #Intro  start at 110
 message_110:
-      text: \n<VÁNICUK JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
+      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
 
 #Purchase
 message_111:
-      text: \n<VÁNICUK JAŠ>Děkuji vám za váš nákup.
+      text: \n<VÁNICUKOVÝ JAŠ>Děkuji vám za váš nákup.
 
 #Decline
 message_112:
-      text: \n<VÁNICUK JAŠ>Respektuji vaše rozhodnutí.
+      text: \n<VÁNICUKOVÝ JAŠ>Respektuji vaše rozhodnutí.
 
 #Not enough money
 message_113:
-      text: \n<VÁNICUK JAŠ>Zdá se, že nemáte dost MUŠLÍ...
+      text: \n<VÁNICUKOVÝ JAŠ>Zdá se, že nemáte dost MUŠLÍ...
 #item buying prompt
 message_114:
-      text: \n<VÁNICUK JAŠ>Skvěle! Dohromady vás to bude stát <SHOPTOTAL>\G.
+      text: \n<VÁNICUKOVÝ JAŠ>Skvěle! Dohromady vás to bude stát <SHOPTOTAL>\G.
 #max item message
 message_115:
-      text: \n<VÁNICUK JAŠ>Na tohle nemáte místo...
+      text: \n<VÁNICUKOVÝ JAŠ>Na tohle nemáte místo...
 #on item list buy ok
 message_116:
       text: Kolik byste jich chtěl?\^
@@ -377,10 +377,10 @@ message_117:
       text: Kolik byste jich chtěl prodat?\^
 #item selling prompt
 message_118:
-      text: \n<VÁNICUK JAŠ>Výborně.\! Vaše objednávká vám vyjde na tolik!
+      text: \n<VÁNICUKOVÝ JAŠ>Výborně.\! Vaše objednávká vám vyjde na tolik!
 #item buying cancel
 message_119:
-      text: \n<VÁNICUK JAŠ>Respektuji vaše rozhodnutí.
+      text: \n<VÁNICUKOVÝ JAŠ>Respektuji vaše rozhodnutí.
 
 # =========================================================================================
 # TOFUOVÝ JAŠ
@@ -578,7 +578,7 @@ message_199:
 
 #Intro     start at 160
 message_160:
-      text: Prodejní automat.\!<br>Koupíš si \c[3]LAHODNOU SODU\c[0] za 100 MUŠLÍ?\$ #z výdajní na prodejní
+      text: Prodejní automat.\!<br>Koupíš si \c[3]LAHODNOU SODOVKU\c[0] za 100 MUŠLÍ?\$ #z výdajní na prodejní
 
 message_162:
       text: Na tohle nemáš dost MUŠLÍ.
@@ -587,7 +587,7 @@ message_164:
       text: Ve své KAPSE nemáš dostatek místa.
 
 message_163:
-      text: Z výdejního automatu vypadla studené \c[3]LAHODNÁ SODA\c[0]!
+      text: Z výdejního automatu vypadla studená \c[3]LAHODNÁ SODOVKA\c[0]!
 
 #Examine when Sold out
 message_161:
@@ -643,7 +643,7 @@ message_300:
 # SLIZÁKS
 
 message_350:
-      text: \n<SLIZÁK>Vy vypadáte jako někdo, koho by mohlo zajímat čerstvé \c[3]MLÉKO\c[0] z našeho \c[11]CHOVU MOŘSKÝCH KRAV\c[0]!\! Je to nejčerstvější mléko, které tady seženete, a to jen za 500 MUŠLÍ!\$
+      text: \n<SLIZÁK>Vy vypadáte jako někdo, koho by mohlo zajímat čerstvé \c[3]MLÉKO\c[0] z našeho \c[11]CHOVU MOŘSKÝCH KRAV\c[0]!\! Čerstvější mléko neseženete, a za 500 MUŠLÍ už vůbec!\$
 
 message_351:
       text: \n<SLIZÁK>Je opravdu to nejčerstvější, které seženete široko daleko! #reklamovější

@@ -53,7 +53,7 @@ message_9:
       text: \n<DINO>Skvěle! Takhle to má vypadat!\!<br>Vy se zjevně učíte rychle!
 
 message_10:
-      text: \n<DINO>Na \c[11]POTRAVINOVÁ PYRAMIDA\c[0], našem speciálním výkopu, teď můžete narazit na všelijaké úžasné poklady z celého vesmíru...\! ale nejlepší na tom je... že si můžete nechat cokoliv, co najdete!
+      text: \n<DINO>Na \c[11]POTRAVINOVÁ PYRAMIDA\c[0], našem speciálním výkopu, teď můžete narazit na všelijaké úžasné poklady z celého vesmíru...\! ale nejlepší na tom je...\! že si můžete nechat cokoliv, co najdete!
 
 message_11:
       text: \n<DINO>\sinv[1]\com[2]\{A TO JE DINO-GARANTOVÁNO! #více "reklamové"
@@ -82,14 +82,13 @@ message_16:
 #message_10-16
 
 message_17:
-      text: \n<DINO>A teď přišel čas na naše DINO VAROVÁNÍ...\! V \c[11]POTRAVINOVÉ PYRAMIDĚ\c[0] nenarazíte jen na poklady.
+      text: \n<DINO>A teď přišel čas na naše DINO-VAROVÁNÍ...\! V \c[11]POTRAVINOVÉ PYRAMIDĚ\c[0] nenarazíte jen na poklady.
 
 message_18:
-      text: \n<DINO>Při vašem lovu dost možná narazíte na potvory, které by se s vámi možná dokonce mohly prát...\! Berte na vědomí, že nejsme zodpovědni za jakékoliv úrazy či jiné příhody, které by se vám u nás mohly stát. Kapišto?
-
+      text: \n<DINO>Při vašem lovu dost možná narazíte na potvory, které by se s vámi možná dokonce mohly prát...\! Berte na vědomí, že nejsme zodpovědni za\! jakékoliv úrazy či jiné příhody, které by se vám u nás mohly stát. Kapišto?
 
 message_19:
-      text: \n<DINO>To by teprv byl konec lovu, kdyby vás jedna z těch potvor odkráhlovala!
+      text: \n<DINO>To by teprv byl konec kopu, kdyby vás jedna z těch potvor odkráhlovala!
 
 message_20:
       text: \n<DINO>Každopádně, to je asi všechno!\! Tak teď už vám zbývá jen vyjít schody, nadechnout se toho čerstvého vzduchu \c[11]POTRAVINOVÉ PYRAMIDY\c[0] a začít kopat! #kop je v pyramidě, vypouštím "kolem"
@@ -101,7 +100,7 @@ message_21:
 #GAME end
 #-------------------------
 message_23:
-      text: \n<DINO>\{\Com[2]\sinv[1]LŽIČKA ZNIČENA!\! KONEC LOVU!!!\sinv[0] #lžíce na lžičku pro konzistenci
+      text: \n<DINO>\{\Com[2]\sinv[1]LŽIČKA ZNIČENA!\! KONEC KOPU!!!\sinv[0] #lžíce na lžičku pro konzistenci
 
 #[Transport to DINO'S DIG ENTRANCE]
 
@@ -166,7 +165,7 @@ message_113:
 
 #Default>
 message_29:
-      text: \n<BRETT>Vítej v DINOBCHODĚ!\!<br>Podle mých záznamů máš na kontě \v[1020] DINO DOLARŮ!
+      text: \n<BRETT>Vítej v DINOBCHODĚ!\!<br>Podle mých záznamů máte na kontě \v[1020] DINODOLARŮ!
 
 message_32:
       text: \n<BRETT>Jestli si chcete koupit \c[4]LŽIČKU\c[0], jen si řekněte, a já vám hned pomůžu!
@@ -174,13 +173,13 @@ message_32:
 #Purchase
 
 message_101:
-      text: \n<BRETT>Chtěl by sis koupit \c[4]PLASTIC SPOON\c[0] (10 KOPŮ) za 3 DINO DOLARY?
+      text: \n<BRETT>Chtěl byste si koupit \c[4]PLASTOVOU LŽIČKU\c[0] (10 KOPŮ) za 3 DINODOLARY?
 
 message_102:
-      text: \n<BRETT>Chtěl by sis koupit \c[4]WOODEN SPOON\c[0] (15 KOPŮ) for 6 DINO DOLARŮ?
+      text: \n<BRETT>Chtěl byste si koupit \c[4]DŘEVĚNOU LŽIČKU\c[0] (15 KOPŮ) za 6 DINODOLARŮ?
 
 message_103:
-      text: \n<BRETT>Chtěl by sis koupit \c[4]SILVER SPOON\c[0] (20 KOPŮ) for 10 DINO DOLARŮ?
+      text: \n<BRETT>Chtěl byste si koupit \c[4]STŘÍBRNOU LŽIČKU\c[0] (20 KOPŮ) za 10 DINODOLARŮ?
 
 #buy
 message_30:
@@ -188,7 +187,7 @@ message_30:
 
 #Insufficient funds
 message_31:
-      text: \n<BRETT>Promiň, kámo. Na tu nemáš dost DINO DOLARŮ...
+      text: \n<BRETT>Promiň, kámo. Na tu nemáš dost DINODOLARŮ...
 
 #Dino 3
 

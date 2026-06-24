@@ -64,7 +64,7 @@ message_13:
 
 #MAP 5
 message_18:
-    text:  \n<POKOUTNÍK>Zapomeň, co chceš, či spíše co můžeš.\! Temnota se před tebou zhmotní, ať už si to uvědomuješ, nebo ne.\! Schovej vše, v čem žiješ do nevědomosti a sleduj, jak se ti tvá lež boří před očima. #nedává mi smysl v originále
+    text:  \n<POKOUTNÍK>Zapomeň, co chceš, či spíše co můžeš.\! Temnota se před tebou zhmotní, ať už si to uvědomuješ, nebo ne.\!<br>Schovej vše, v čem žiješ do nevědomosti a sleduj, jak se ti tvá lež začne rozpadat před očima. #nedává mi smysl v originále
 
 #Once you complete the forest, his page 2 is always:
 message_19:
@@ -94,7 +94,7 @@ message_27:
     text:  \n<POKOUTNÍK>Do světa zcela odlišného...\!<br>Do světa vytapetovaného chaosem a omytého temnotou. #vytapetovaného na tapetovaného
 
 message_28:
-    text:  \n<POKOUTNÍK>SNÍLKA brzy začal přemáhat strach. \!Ač byly ještě stále tiché, již tehdy začal slýchat šepoty svých zlomyslných myšlenek.\! Šepoty, ve kterých se skrývaly jak lži, tak tajemství i pravdy. #pravopis, i místo a
+    text:  \n<POKOUTNÍK>SNÍLKA brzy začal přemáhat strach. \!Ač byly ještě stále tiché, již tehdy začal slýchat šepoty svých zlomyslných myšlenek.\!<br>Šepoty, ve kterých se skrývaly jak lži, tak tajemství i pravdy. #pravopis, i místo a
 
 message_29:
     text:  \n<POKOUTNÍK>Jejich hluk nebyl schopen zastavit, a tak do všech svých světů nastolil stvoření podřízená jeho vůli...
