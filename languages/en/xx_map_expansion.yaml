@@ -26,7 +26,7 @@ message_2:
     text: \pluRozumím vám...\!<br>Ale přesto stále cítím následky našeho minulého soublje.<br>\!Vzpomínku na něj si navždy budu hýčkat!
 
 message_3:
-    text: \pluVšichni jste už tak silní, ale stejně platí to, co vždy. Stále byste mohli být lepší.
+    text: \pluVšichni jste už tak silní, ale stejně platí to, co vždy. Stále je, co zlepšovat.
 
 #*Pluto walks in front of KEL*
 
@@ -233,7 +233,7 @@ message_47:
 #*AUBREY smashes VAN.*
 
 message_48:
-    text: AUBRY získala 50 ŠŤÁVY!
+    text: AUBREY získala 50 ŠŤÁVY!
 
 message_49:
     faceset: MainCharacters_DreamWorld
@@ -426,13 +426,13 @@ message_115:
 #Intro:
 
 message_119:
-    text: Ve zdi je promáčknuta velice výrazná tvář.\!<br>Nejsi si jistý, co znamená.
+    text: Ve zdi je promáčknuta velice výrazná tvář.\!<br>Nemáš pomětí, co je zač.
 
 message_120:
     text: \n<VELKÁ TVÁŘ>Tyto...\! dutá místa já značím.\!<br>A v nich...\! jsem skryl svůj nejcennější majetek...\! ano.
 
 message_121:
-    text: \n<VELKÁ TVÁŘ>Bouchám se do tváře, abych si vzpomněl...\! ale jen lehce.\!<br>Jinak by se roztříštila.
+    text: \n<VELKÁ TVÁŘ>Praštím svou tváří, abych si vzpomněl...\! ale jen lehce.\!<br>Jinak by se roztříštila.
 
 message_122:
     text: \n<VELKÁ TVÁŘ>Jen lehce...\! jinak...\! by se roztříštila.
@@ -517,17 +517,17 @@ message_139:
 message_140:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herČau, HOAGIE! To jsem já, HERO!\!<br>Heslo je ☐☐☐☐☐☐☐.
+    text: \herČau, OLEGU! To jsem já, HERO!\!<br>Heslo je ☐☐☐☐☐☐☐.
 
 message_141:
-    text: \n<HOAGIE>HERO, kamaráde! Vítej, vítej!\!<br>Je odemčeno. Jen pojď dál!
+    text: \n<OLEG>HERO, kamaráde! Vítej, vítej!\!<br>Je odemčeno. Jen pojď dál!
 
 #---------------
 
 #Talk to REUBEN at 1ST location:
 
 message_150:
-    text: \n<REUBEN>Tahle putyka patří mě a HOAGIEMU..\!<br>On jsou ruce... a já jsem taky ruce.
+    text: \n<REUBEN>Tahle putyka patří mě a OLEGOVI..\!<br>On jsou ruce... a já jsem taky ruce.
 
 #Talk to REUBEN again.
 
@@ -558,18 +558,18 @@ message_156:
 #Talk to REUBEN at 4TH location:
 
 message_157:
-    text: \n<REUBEN>Tahle putyka patří mě a HOAGIEMU..\!<br>On jsou ruce... a já jsem taky ruce.
+    text: \n<REUBEN>Tahle putyka patří mě a OLEGOVI..\!<br>On jsou ruce... a já jsem taky ruce.
 
 #Talk to REUBEN again.
 message_158:
-    text: \n<REUBEN>S HOAGIEM jsme to tady vybudovali cihlu po cihle.\!<br>A teď k nám chodí zákazníci z celýho světa!\!<br>Já vám řeknu, to je nepřekonatelnej pocit.
+    text: \n<REUBEN>S OLEGEM jsme to tady vybudovali cihlu po cihle.\!<br>A teď k nám chodí zákazníci z celýho světa!\!<br>Já vám řeknu, to je nepřekonatelnej pocit.
 
 #Talk to REUBEN again.
 message_159:
     text: \n<REUBEN>Čas od času k nám chodí všelijaký typy, ale jinak se tady hlavně relaxuje.<br><br>Popravdě mi to tady ani nepřipadá jako práce, har har!<br>No, dokud není čas umývat nádobí...
 
 message_160:
-    text: \n<REUBEN>HOAGIE pořád říká, že jsme se hledali.\! Je sice trochu hrubý, ale rozumíme si, chápeš?
+    text: \n<REUBEN>OLEG pořád říká, že jsme se hledali.\! Je sice trochu hrubý, ale rozumíme si, chápeš?
 
 #Talk to REUBEN again.
 message_161:
@@ -581,12 +581,12 @@ message_162:
 #Talk to HOAGIE at all locations:
 
 message_163:
-    text: \n<HOAGIE>Tady jste jako doma, děcka.<br>HEROVI kámoši jsou i moji kámoši.
+    text: \n<OLEG>Tady jste jako doma, děcka.<br>HEROVI kámoši jsou i moji kámoši.
 
 #Talk to HOAGIE after talking to REUBEN at 4TH location (once only):
 
 message_164:
-    text: \n<HOAGIE>Tak že o mě REUBEN zas mluvil?\! Už jsem mu říkal, aby toho nechal.\! ...\! No co...\! Koneckonců je mi to celkem jedno...\! Nemůžu se na něho zlobit navždycky.
+    text: \n<OLEG>Tak že o mě REUBEN zas mluvil?\! Už jsem mu říkal, aby toho nechal.\! ...\! No co...\! Koneckonců je mi to celkem jedno...\! Nemůžu se na něho zlobit navždycky.
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -749,10 +749,10 @@ message_204:
     text: \n<KASTELÁN>Jste velice odvážní, máte-li na to se mnou hovořit, děti.\!<br>Povězte mi, užíváte si RŮŽOVÝ ZÁMEK?
 
 message_205:
-    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\! Místo, které můžeme nazvat svým domovem.
+    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\!<br>Místo, které můžeme nazvat svým domovem.
 
 message_206:
-    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malá, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
+    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malé, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
 
 message_207:
     text: \n<KASTELÁN>Tak jsem jí ustoupil.\! A dal jí hrad plný bohatství, poslušných sluhů a místa, kde by se mohla prezentovat.
@@ -812,10 +812,10 @@ message_241:
     text: \n<KASTELÁN>Jste velice odvážní, máte-li na to se mnou hovořit, děti.\!<br>Povězte mi, užíváte si RŮŽOVÝ ZÁMEK?
 
 message_242:
-    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\! Místo, které můžeme nazvat svým domovem.
+    text: \n<KASTELÁN>Ta holka.\! Ona byla důmyslná.\!<br>Tohle obydlí mění tvar podle našich nejhlubších tužeb.\!<br>Je to místo, kam se můžeme kdykoliv vrátit.\!<br>Místo, které můžeme nazvat svým domovem.
 
 message_243:
-    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malá, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
+    text: \n<KASTELÁN>ZLATÍČKO ke mně přišlo kdysi dávno, tehdy ještě bylo malé, chudé děvčátko z pouště...\! a na kolenou mě prosila, abych jí tohle místo dal.
 
 message_244:
     text: \n<KASTELÁN>Tak jsem jí ustoupil.\! A dal jí hrad plný bohatství, poslušných sluhů a místa, kde by se mohla prezentovat.
@@ -827,7 +827,7 @@ message_246:
     text: \n<KASTELÁN>Teď je ale pryč a už se nevrátí.\! To já vím.\!<br>A teď je třeba najít tomuto zámku nového vlastníka.
 
 message_247:
-    text: \n<KASTELÁN>Ty, s těma prázdnýma očima.\! Jsi zde.\! Tvá duše je rozkolena, ovšem cestu si můžeš vybrat pouze jednu.\! Zajímá mě, co by z tohoto obydlí v tvých rukou vzniklo.
+    text: \n<KASTELÁN>Ty, s těma prázdnýma očima.\! Jsi zde.\! Tvá duše je rozkolena, ovšem cestu si můžeš vybrat pouze jednu.\!<br>Zajímá mě, co by z tohoto místa v tvých rukou vzniklo.
 
 message_248:
     text: \n<KASTELÁN>Přál by sis mít tu moc?
@@ -994,7 +994,7 @@ message_287:
 
 #Examine doll:
 message_300:
-    text: Panák s prázdnou tváří.\!<br>Nevypadá, že by zde patřila.\!<br>Chtěl bys ji vyhodit?
+    text: Panák s prázdnou tváří.\!<br>Nevypadá, že by sem patřil.\!<br>Chtěl bys ho vyhodit?
 #[YES/NO]
 
 #If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
@@ -1139,7 +1139,7 @@ message_356:
     text: \n<KORÁL>To poslední, nejoblíbenější, je VELKÁ ŽLUTÁ KOČKA, která nyní střeží SNÍLKOVU nejcennější místnost.
 
 message_357:
-    text: \n<KORÁL>Je SNÍLKOVÝM oblíbencem až dodnes...\! neustále ho sleduje...\! a čeká, až se něco stane. #konzistence
+    text: \n<KORÁL>Je SNÍLKOVÝM oblíbencem až dodnes...\! neustále ho sleduje...\! jako by snad na něco čekala. #konzistence
 
 #---
 
@@ -1206,7 +1206,7 @@ message_378:
     text: Ze stromu visí velké, červené, šťavnaté \c[3]JABLKO\c[0].
 
 message_379:
-    text: Přál by sis tohle \c[3]JABLKO\c[0] sníst?
+    text: Chtěl bys tohle \c[3]JABLKO\c[0] sníst?
 #[YES/NO]
 
 #*Screen turns black*

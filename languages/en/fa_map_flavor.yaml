@@ -82,7 +82,7 @@ message_21:
 
 #House Plant:
 message_22:
-      text: Obyčejná květina.\! Není na ní nic zajímavého. #blíže orig
+      text: Obyčejná květina.\! Není ničím zajímavá. #blíže orig
 
 #Bookcase - Dining Room:
 message_23:
@@ -1063,7 +1063,7 @@ message_365:
       text: Znak \c[11]PŘEDALEKÉ LHOTY\c[0].\!<br>Má symbolizovat bránu do lepšího života.<br><br>Vybavuješ si, jak ti o tomhle říkali na základce, ale zbytek detailů si nevybavuješ. #základka - přiroz
 
 message_366:
-      text: \"NAŠE NEJMILEJŠÍ MARI\"\!<br>\"SLUNCE SVÍTILO VÍC, KDYŽ TADY S NÁMI BYLA.\"
+      text: \"NAŠE NEJMILEJŠÍ MARI\"\!<br>\"SLUNCE ZÁŘILO JASNĚJI, KDYŽ TADY S NÁMI BYLA.\"
 
 message_367:
       text: Na tomhle hrobě by vypadaly dobře \c[4]KVĚTINY\c[0].

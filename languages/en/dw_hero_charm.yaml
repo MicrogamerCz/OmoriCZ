@@ -36,7 +36,7 @@ message_101:
 #Hot Diggity Dog - Train Station - Volunteered at the shelter → HOT DOG
 
 message_6:
-    text: \n<HOTDOŽÍK>Hot...\! do...\! žík TEĎ MI DOŠLO, JAK FUNGUJE JEHO JMÉNO... SAFRA!\! Nevěřím svým očím!\!<br>Jsi to vážně ty, HERO! 
+    text: \n<HOTDOŽÍK>Hot...\! do...\! žík TEĎ MI DOŠLO, JAK FUNGUJE JEHO JMÉNO... SAFRA!\! Nevěřím svým očím!\!<br>Jsi to vážně ty, HERO!
 
 message_7:
     text: \n<HOTDOŽÍK>Chtěl bych ti poděkovat za všechno to dobrovolničení v útulku.\! Tohle je pro tebe!
@@ -67,7 +67,7 @@ message_12:
     text: \n<KRTEK SAMOTÁŘ>\Com[2]\{Hej, o co se jako-
 
 message_13:
-    text: \n<KRTEK SAMOTÁŘ>Počkat, HERO!?\! Jsi to vážně ty!?\! Tebe jsem neviděl od té doby, co jsi mě odnesl do bezpečí při tom dobývání!<br><br>Připadá mi, že je to už tak dávno...\! ale když jsem viděl, jaký jsi silný, inspiroval jsi mě a od té doby jsem se ti alespoň snažil přiblížit!
+    text: \n<KRTEK SAMOTÁŘ>Počkat, HERO!?\! Jsi to opravdu ty!?\! Tebe jsem neviděl od té doby, co jsi mě odnesl do bezpečí při tom dobývání!<br><br>Připadá mi, že je to už tak dávno...\! ale když jsem viděl, jaký jsi silný, inspiroval jsi mě a od té doby jsem se ti alespoň snažil přiblížit!
 
 message_14:
     text: \n<KRTEK SAMOTÁŘ>Vem si tenhle dárek.\! Zasloužil sis ho.
@@ -95,16 +95,16 @@ message_105:
 #Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → VÁNICUK
 
 message_18:
-    text: \n<KRTEK Z KRABICE>HERO... Ty ses vrátil!\! Od té doby, cos mi řekl o čem jsou doopravdy Vánoce, je ze mě úplně nový KRTEK.\!<br>Musím ti poděkovat za to, žes mě dovedl k mému novému životu.
+    text: \n<VÁNOČNÍ KRTEK>HERO... Ty ses vrátil!\! Od té doby, cos mi řekl o čem jsou doopravdy Vánoce, je ze mě úplně nový KRTEK.\!Musím ti poděkovat za to, žes mě dovedl k mému novému životu.
 
 message_19:
-    text: \n<KRTEK Z KRABICE>Tohle je jedna z mých nejcennějších věcí, ale chtěl bych ti ji přenechat.
+    text: \n<VÁNOČNÍ KRTEK>Tohle je jedna z mých nejcennějších věcí, ale chtěl bych ti ji přenechat.
 
 message_20:
-    text: KRTEK Z KRABICE gave you a \c[3]VÁNICUK\c[0].
+    text: VÁNOČNÍ KRTEK ti dal \c[3]VÁNICUK\c[0].
 
 message_106:
-    text: \n<KRTEK Z KRABICE>Jen tak dál, HERO!\!<br>Buď nadále takovým vůdčím, jakos byl tehdy!
+    text: \n<VÁNOČNÍ KRTEK>Jen tak dál, HERO!\!<br>Buď nadále takovým vůdčím, jakos byl tehdy!
 
 #Skeleton - SW Castle - Slayed the demon king → 300 CLAMS
 
@@ -179,7 +179,7 @@ message_111:
 #Basket Case - Last Resort - Helped file taxes. → CARDBOARD
 
 message_36:
-    text: \n<KOŠÍČEK>Panečku... Jsi to vážně ty, HERO?\! Dostals mě z pořádné patálie, když jsi mi pomohl sepsat to daňové přiznání.\! Upřímně nevěřím, že bych to sám v životě zvládl.
+    text: \n<KOŠÍČEK>Panečku... Jsi to opravdu ty, HERO?\! Dostals mě z pořádné patálie, když jsi mi pomohl sepsat to daňové přiznání.\! Upřímně nevěřím, že bych to sám v životě zvládl.
 
 message_37:
     text: \n<KOŠÍČEK>Opravdu jsi mi zachránil život!\! Vem si tenhle dárek.\! Dlužím ti ho!
@@ -248,47 +248,47 @@ message_114:
 #Shamboo - Concierge - Held me accountable for my actions → DYNAMITE
 
 message_48:
-    text: \n<SHAMBOO>Ah...\! You are the boy who held me accountable for my actions.\! I have changed my ways since my past confrontation with you... perhaps for the better.
+    text: \n<ŠLAMBUS>Á...\! Ty jsi ten klučina, co za mě převzal zodpovědnost.\! Od našeho posledního setkání jsem se změnil... snad k lepšímu.
 
 message_49:
-    text: \n<SHAMBOO>It is not much, but take this from me...\! Please, I insist.
+    text: \n<ŠLAMBUS>Sice to není nic moc, ale vem si tohle...\! Prosím, vážně na tom trvám.
 
 message_50:
-    text: SHAMBOO lifted up his hat and gave you \c[5]DYNAMITE\c[0].
+    text: ŠLAMBUS před tebou smekl klobouk a dal ti \c[5]DYNAMIT\c[0].
 
 message_115:
-    text: \n<SHAMBOO>Jen tak dál, HERO...\!<br>Buď nadále takový pacesetter jakos byl tehdy...
+    text: \n<ŠLAMBUS>Jen tak dál, HERO...\!<br>Buď nadále takový tahoun, jakos byl tehdy...
 
 #Touchdown - Concierge - Awakened my true potential → WATERMELON JUICE
 
 message_51:
-    text: \n<PŘISŤA>Wait just a sec! You're HERO, right?\! I remember you!\! Back when I was still a rookie, your training helped me awaken my true potential.
+    text: \n<PŘISŤA>Hele, počkej chvilku! Ty seš HERO, viď?\! Na tebe si vzpomínám!\! Tvůj trénink ve mně probudil opravdovou vášeň, když jsem ještě býval bažant.
 
 message_52:
-    text: \n<PŘISŤA>I don't got much on me right now, but I don't like owing people nothin' either.\! Take this and let's call it even.
+    text: \n<PŘISŤA>Moc toho u sebe zrovna nemám, ale zase nerad ostatním dlužím.\! Vem si tohle a jsme si kvit.
 
 message_53:
-    text: PŘISŤA gave you \c[3]WATERMELON JUICE\c[0].
+    text: PŘISŤA ti dal \c[3]MELOUNOVOU ŠŤÁVU\c[0].
 
 message_116:
-    text: \n<PŘISŤA>Jen tak dál, HERO!\!<br>Buď nadále takový influence jakos byl tehdy!
+    text: \n<PŘISŤA>Jen tak dál, HERO!\!<br>Buď nadále takovým příkladem jakos byl tehdy!
 
 #Hoagie - Club Sendvič - Donated organs to save REUBEN's life → 5000 CLAMS
 
 message_54:
-    text: \n<HOAGIE>Yo, HERO.\! I know you'll never bring this up yourself, but...\! me and REUBEN really owe our lives to you.
+    text: \n<OLEG>Nazdar, HERO.\! Nevím, jestlis o tomhle někdy někomu vůbec říkal...\! ale s REUBENEM ti fakt dlužíme snad i oba naše životy.
 
 message_55:
-    text: \n<HOAGIE>When you said you were going to donate your organs to save REUBEN's life...\! I didn't think you would actually go through with it.
+    text: \n<OLEG>Když jsi říkal, že bys mohl REUBENOVI darovat orgány...\! Tak jsem vážně nevěřil, že to fakt uděláš.
 
 message_56:
-    text: \n<HOAGIE>You're one of a kind and I hope you know that, HERO.\! It's not much, but take this.
+    text: \n<OLEG>Jsi opravdu výjimečný. Doufám, že si toho jsi vědom, HERO.\! Sice to není nic moc, ale vem si tohle.
 
 message_80:
-    text: HOAGIE reached into his shirt and gave you 5000 CLAMS.
+    text: OLEG hrábl do trička a dal ti 5000 MUŠLÍ.
 
 message_81:
-    text: \n<HOAGIE>Wishing you good vibes, HERO.\!<br>Buď nadále takový donor jakos byl tehdy!
+    text: \n<OLEG>Měj se hezky, HERO.\!<br>Buď nadále tak obětavý, jakos byl tehdy!
 
 #City Slicker - Underwater Highway - Helped me recover through surgery → MILK
 
@@ -327,7 +327,7 @@ message_64:
     text: \n<LEBKODRTIČ>Tady je ta knížka, na kterés mě to naučil.\! Už jsem si ji přečetl dostkrát, tak si ji klidně vem zpátky.
 
 message_65:
-    text: LEBKODRTIČ sáhl do kapsy a podal ti z ní <br>\c[5]SBÍRKU BÁSNÍ\c[0].
+    text: LEBKODRTIČ sáhl do kapsy a podal ti z ní <br>\c[5]SBÍRKU VERŠŮ\c[0].
 
 message_82:
     text: \n<LEBKODRTIČ>Vzdělávání...\! To je teprv nenahraditelný, kámo.
@@ -355,7 +355,7 @@ message_70:
     text: \n<MOŘSKÁ KRÁVA>Nikdy jsem neměla příležitost ti to oplatit, hrozně mě to zžíralo... \! Ale teď už můžu!\! Vem si tohle, kamaráde.
 
 message_71:
-    text: MOŘSKÁ KRÁVA ti jaksi dala \c[3]CELÉ MENU\c[0].
+    text: MOŘSKÁ KRÁVA ti jaksi dala \c[3]MENÍČKO\c[0].
 
 message_120:
     text: \n<MOŘSKÁ KRÁVA>Jen tak dál, HERO!\!<br>Buď nadále takový salám, jakos byl tehdy!

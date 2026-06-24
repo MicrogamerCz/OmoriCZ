@@ -47,7 +47,7 @@ message_8:
 # BERLY looks around.
 
 message_9:
-      text: \berZajímá mě, co dělá teď, blbec jeden.\!<br>...\! Ts...\! Teď už mi to může být buřt! #buřt
+      text: \berZajímá mě, co dělá teď, blbec jeden.\!<br>...\! Pche...\! Teď už mi to může být buřt! #buřt
 
 message_10:
       faceset: MainCharacters_DreamWorld
@@ -94,7 +94,7 @@ message_175:
 # *BERLY goes down in a row passing straws to everyone*
 
 message_18:
-      text: \berMáte všichni brčka?\! Dobře!
+      text: \berMáte všichni brčka?\! Výborně!
 
 message_19:
       text: \berTak, a teď se dozvíme, kdo bude pikat! #a teď se dozvíme
@@ -115,7 +115,7 @@ message_22:
 message_23:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herZvládneš to tady, OMORI?
+      text: \herZvládneš to, OMORI?
 
 message_24:
       faceset: MainCharacter_Basil
@@ -156,7 +156,7 @@ message_29:
 message_30:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelTeď ti můžu jít pomoct najít zbytek!\!<br>Jenom o tomhle neříkej BERLY, jo? He he...
+      text: \kelTeď ti můžu jít pomoct najít ostatní!\!<br>Jenom o tomhle neříkej BERLY, jo? He he...
 
 message_31:
       text: KEL se přidal to tvé party.
@@ -166,7 +166,7 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelOMORI!\! Psst... OMORI!\! Jsem tady!
+      text: \kelOMORI!\! Psst... OMORI!\! Já jsem tady!
 
 message_33:
       faceset: MainCharacters_DreamWorld
@@ -223,7 +223,7 @@ message_44:
 message_176:
       text: HERO se přidal do tvé party.
 
-# NOSE AND BUN:
+# NOSE AND CULDA:
 # *Slide shakes*
 
 message_45:
@@ -233,10 +233,10 @@ message_46:
       text: \whoPšššt... Když budeš mluvit moc nahlas, uslyší nás!
 
 message_47:
-      text: \n<NOSKA>\com[2]NOSKA jede! BUN jede!
+      text: \n<NOSKA>\com[2]NOSKA jede! CULDA jede!
 
 message_48:
-      text: \n<BUN>Aaa! Ztiš se, NOSKO! Přece se snažíme schovat!
+      text: \n<CULDA>Aaa! Ztiš se, NOSKO! Přece se snažíme schovat!
 
 # *KEL examines slide.*
 
@@ -246,13 +246,13 @@ message_49:
       text: \kel\Com[2]A-ha!\! Našli jsme BUNA a NOSKU!
 
 message_50:
-      text: \n<BUN>NOSKO... Našli nás!
+      text: \n<CULDA>NOSKO... Našli nás!
 
 message_51:
       text: \n<NOSE>\}NOSKA... jede...
 
 message_52:
-      text: \n<BUN>Aha... Nezlobím se.\!<br>Pojďme si zahrát pacičky!
+      text: \n<CULDA>Aha... Nezlobím se.\!<br>Pojďme si zahrát pacičky!
 
 message_53:
       text: \n<ŠTÍSTKO>\sinv[1]Hop! To jsem já, ŠTÍSTKO!
@@ -302,16 +302,16 @@ message_66:
 
 # After being found, the character will take their place back in BERLY's line-up in the FOUND PEOPLE ZONE.
 
-# NOSE and \n<BUN>(Facing each other)
+# NOSE and \n<CULDA>(Facing each other)
 
 message_177:
       text: \n<ŠÁRA>...
 
 message_67:
-      text: \n<NOSKA a BUN>\sinv[1]Paci paci pacičky! Táta koupil botičky!!\sinv[0]
+      text: \n<NOSKA a CULDA>\sinv[1]Paci paci pacičky! Táta koupil botičky!!\sinv[0]
 
 message_68:
-      text: \n<NOSKA a BUN>\sinv[1]A maminka pásek za myší ocásek!
+      text: \n<NOSKA a CULDA>\sinv[1]A maminka pásek\| za myší ocásek!
 
 message_69:
       text: \n<ŠTÍSTKO>Q... R... S... T... U... H... I... J...\! Umm...
@@ -401,7 +401,7 @@ message_86:
       text: \berA vypadá to, že jsi nás všechny našel!\!<br>Nečekané...\! ale opravdu mi to dělá radost!
 
 message_87:
-      text: \berPojďme se ještě jednou seřadit a spočítat! #maty
+      text: \berTak nástup a ještě jednou docházku! #maty
 
 # *Black screen to move everyone into position*
 
@@ -452,7 +452,7 @@ message_101:
       text: \berBUN!
 
 message_102:
-      text: \n<BUN>BUN je tu!
+      text: \n<CULDA>CULDA je tu!
 
 message_103:
       text: \berNOSKA!
@@ -474,7 +474,7 @@ message_107:
 message_108:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: \kel(zív)...\! Vážně tohle musíš dělat pokaždý, BERLY?
+      text: \kelZííííív...\! Vážně tohle musíš dělat pokaždý, BERLY?
 
 # *BERLY hits KEL*
 
@@ -533,7 +533,7 @@ message_118:
 message_119:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \kelJsi...\! zaseklý?
+      text: \kelZasekl ses?...
 
 message_120:
       text: \n<ŠÉF>\com[2]\sinv[1]\{HUEHUE\{HUEHU\{EHUE!!
@@ -566,10 +566,10 @@ message_127:
       text: \n<ŠÉF>\com[2]\sinv[1]\{HUEHUE\{HUEHU\{EHUE!!
 
 message_128:
-      text: \n<ŠÉF>Vy blbouni!\! Vy si vážně myslíte, že mi jde o BASILA?
+      text: \n<ŠÉF>Vy pitomci!\! Vy si vážně myslíte, že mi jde o BASILA?
 
 message_129:
-      text: \n<ŠÉF>Nedělejte hloupé!\! Moc dobře víte, proč tady jsem!
+      text: \n<ŠÉF>Nedělejte blbé!\! Moc dobře víte, proč tady jsem!
 
 message_130:
       text: \n<ŠÉF>Jak se opovažujete hrát beze mě!
@@ -737,20 +737,20 @@ message_152:
       text: \aubÚplně k ničemu, jako vždycky...
 
 message_153:
-      text: \herTo je zlé...\! Neměli byste náhodou někdo \c[3]LIFE JAM\c[0] po ru-
+      text: \herTo je zlé...\! Neměli byste náhodou někdo \c[3]ŽIVÝ DŽEM\c[0] po ru-
 
 message_154:
-      text: \n<LIFE JAM GUY>\com[2]\{ŘEKL TADY NĚKDO \{\c[3]LIFE JAM\c[0]!?
+      text: \n<DŽEMÁK>\com[2]\{ŘEKL TADY NĚKDO \{\c[3]ŽIVÝ DŽEM\c[0]!?
 
 # -----------------------------------------------------------------------------------------------------------------------------
 
-# LIFE JAM GUY: (Use placeholder graphic)
+# DŽEMÁK: (Use placeholder graphic)
 
 message_155:
-      text: \n<LIFE JAM GUY>Zdravím, děti! Jsem \c[3]LIFE JAM\c[0] guy!<br>\!Prodávám \c[3]LIFE JAM\c[0]!\! Fakt funguje!
+      text: \n<DŽEMÁK>Zdravím, děti! Jsem \c[3]ŽIVÝ DŽEM\c[0] guy!<br>\!Prodávám \c[3]ŽIVÝ DŽEM\c[0]!\! Vážně zabírá!
 
 message_156:
-      text: \n<LIFE JAM GUY>Chtěli byste vzorek zdarma?
+      text: \n<DŽEMÁK>Chtěli byste vzorek zdarma?
 
 # [YES/NO]
 
@@ -758,33 +758,33 @@ message_156:
 # *fade out of battle*
 
 message_157:
-      text: \n<LIFE JAM GUY>Ale nedělejte...\! \com[2]Jasně, že jo!
+      text: \n<DŽEMÁK>Ale nedělejte...\! \com[2]Jasně, že jo!
 
 message_158:
-      text: \n<LIFE JAM GUY>Ano?<br>\!Tak... Chtěli byste si koupit \c[3]LIFE JAM\c[0]?<br>\!Bude vás stát jen 250 MUŠLÍ.\$
+      text: \n<DŽEMÁK>Ano?<br>\!Tak... Chtěli byste si koupit \c[3]ŽIVÝ DŽEM\c[0]?<br>\!Bude vás stát jen 250 MUŠLÍ.\$
 
 message_159:
-      text: \n<LIFE JAM GUY>Chtěli byste si koupit \c[3]LIFE JAM\c[0]?<br>\!Bude vás stát jen 250 MUŠLÍ.\$
+      text: \n<DŽEMÁK>Chtěli byste si koupit \c[3]ŽIVÝ DŽEM\c[0]?<br>\!Bude vás stát jen 250 MUŠLÍ.\$
 
 message_160:
-      text: Získal jsi \c[3]LIFE JAM\c[0].
+      text: Získal jsi \c[3]ŽIVÝ DŽEM\c[0].
 
 message_161:
-      text: \n<LIFE JAM GUY>Hm, nemáte dost MUŠLÍ.<br>\!Budete se muset vrátit, až jich najdete víc!
+      text: \n<DŽEMÁK>Hm, nemáte dost MUŠLÍ.<br>\!Budete se muset vrátit, až jich najdete víc!
 
 message_162:
-      text: \n<LIFE JAM GUY>Haha, to nevadí.\! Však stejně ho budete později potřebovat. #maty, přiroz
+      text: \n<DŽEMÁK>Haha, to nevadí.\! Však stejně ho budete později potřebovat. #maty, přiroz
 
 message_163:
-      text: \n<LIFE JAM GUY>\com[2]\c[3]LIFE JAM\c[0]!\! Fakt funugje!
+      text: \n<DŽEMÁK>\com[2]\c[3]ŽIVÝ DŽEM\c[0]!\! Fakt funugje!
 
 message_164:
-      text: \n<LIFE JAM GUY>Jak se vám líbil můj vzorek zdarma?\! Haha, kecám.\!<br>Vím, že jste ho zbožňovali!
+      text: \n<DŽEMÁK>Jak se vám líbil můj vzorek zdarma?\! Haha, kecám.\!<br>Vím, že jste ho zbožňovali!
 
 message_165:
-      text: \n<LIFE JAM GUY>Aha! Vidím, že jste pořád ještě zranění.\! Nebojte! Uzdravím vás, haha!
+      text: \n<DŽEMÁK>Aha! Vidím, že jste pořád ještě zranění.\! Nebojte! Uzdravím vás, haha!
 
-# Note: He'll probably do something similar later with SUPER LIFE JAM
+# Note: He'll probably do something similar later with SUPER ŽIVÝ DŽEM
 
 message_180:
       text: \basHaha, to byl ale zvláštní pán.\!<br>Jak se cítíš, KELI?
@@ -807,7 +807,7 @@ message_185:
 # -----------------------------------------------------------------------------------------------------------------------------
 
 message_171:
-      text: \berHej, OMORI! Víš co?\!<br>Vajco! Ne, mám pro dnešek velký plány...\! Jen chvíli počkej.\! Však brzo uvidíš proč!
+      text: \berHej, OMORI! Víš co?\!<br>Vajco! Ne, mám pro dnešek velký plány...\! Jen chvíli počkej.\! Však brzo uvidíš!
 
 message_172:
       text: \n<VAN>BERLY mluví hodně rychle, když se na něco těší.\!<br>Vím, nejde ji moc rozumět...
@@ -828,10 +828,10 @@ message_251:
       text: \}...\! Budu se snažit...\n<ŠÁRA>
 
 message_252:
-      text: \sinv[1](zívnutí)...\! Chce se mi spát...\n<MÍKAL>
+      text: \sinv[1]Zííív...\! Chce se mi spát...\n<MÍKAL>
 
 message_253:
-      text: \{Jupí!\} Je čas \{\nanv[1]hru!\}\n<ŠTÍSTKO>
+      text: \{Jupí!\} Čas si \{\sinv[1]hrát!\}\n<ŠTÍSTKO>
 
 message_254:
       text: \sinv[1]Ahhh?\sinv[0]\n<OBČA>
@@ -840,7 +840,7 @@ message_255:
       text: Uff...\! Nevím, kam se schovat.\!<br>Nejsem vůbec vynalézavý...\n<OFČA> #jak na kam
 
 message_256:
-      text: Kampak bychom se s NOSKOU měli schovat?...\n<BUN>
+      text: Kampak bychom se s NOSKOU měli schovat?...\n<CULDA>
 
 message_257:
       text: NOSKA jede!\n<NOSKA>

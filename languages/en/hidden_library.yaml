@@ -19,7 +19,7 @@ message_2:
       text: \"☐☐☐ usnul první, po něm brzy všichni ostatní.\"
 
 message_3:
-      text: \"Při západu slunce spadne ☐a hlava <br>omylem na ☐☐☐☐☐☐o rameno.<br><br>To ho vzbudí,<br>on se ovšem neodváží otevřít oči.\"
+      text: \"Při západu slunce spadne ☐ho hlava <br>omylem na ☐☐☐☐☐no rameno.<br><br>To ho vzbudí,<br>on se ovšem neodváží otevřít oči.\"
 
 message_4:
       text: \"Předstírá, že spí a zadrží dech.\! <br>Zaposlouchá se do zvuku cesty.\"
@@ -51,13 +51,13 @@ message_24:
       text: \"Malinké černé kotě se projde po koberci a na své cestě pokojem zanechá několik mokrých, žvatlavých stop.\"
 
 message_25:
-      text: \"☐☐☐☐v obličej zrudne. Okřikne ☐☐☐, <br>ovšem ten je už dávno pryč.\"
+      text: \"☐☐☐☐n obličej zrudne. Okřikne ☐☐☐a, <br>ovšem ten je už dávno pryč.\"
 
 message_26:
       text: \"☐☐☐☐ podá ☐☐☐☐ pár mokrých ubrousků.\"
 
 message_27:
-      text: \"Asi tady jsou vážně jediní dospělí...\! a pokud to tady neuklidí v čas, bude po koberci.\! A s ☐☐☐ si to vyřídí později...\"
+      text: \"Asi tady jsou vážně jediní dospělí...\! a pokud to tady neuklidí v čas, bude po koberci.\! A s ☐☐☐em si to vyřídí později...\"
 
 
 #========================================================================================
@@ -65,13 +65,13 @@ message_27:
 #========================================================================================
 
 message_40:
-      text: \"Byl parný, letní den, a jediné, co se honilo ☐o hlavou bylo proč sem nemohli jít i zítra.\"
+      text: \"Byl parný, letní den, a jediné, co se honilo ☐ho hlavou bylo proč sem nemohli jít i zítra.\"
 
 message_41:
-      text: \"Na zahradě byl totální čurbes.\"
+      text: \"Na zahradě byl naprostý nepořádek.\"
 
 message_42:
-      text: \"Dřevěná prkna poházena po celé ploše.\! <br>Stopy po barvě, důsledkem ☐☐☐☐☐vy a ☐☐☐☐☐☐vy práce pokrývaly trávu.\"
+      text: \"Dřevěná prkna poházena po celé ploše.\! <br>Stopy po barvě, ☐☐☐☐☐ova a ☐☐☐☐☐na práce, pokrývaly trávu.\"
 
 message_43:
       text: \"☐ celé dny koukal na ☐☐☐☐ nesoucího prkna sem a tam z pickupu svého táty.\"
@@ -118,13 +118,13 @@ message_74:
       text: \"A dnešek byl den, jako každý jiný.\! ☐ prázdně civěl na mraky, tančící po obloze, jeden po druhém, neustále a dál.\"
 
 message_75:
-      text: \"Přičemž jej kamarádské plácnutí po zádech vytrhne z jeho běsnění.\! ☐ uhne pohledem od okna pryč.\"
+      text: \"Přičemž jej kamarádské plácnutí po zádech vytrhne z jeho snění.\! ☐ uhne pohledem od okna pryč.\"
 
 message_76:
       text: \"☐☐☐ se usměje.\! Naznačí, že skončilo vyučování, a že je čas jít na oběd.\! Dnes servírují pizzu, a tak by <br>tam měli vyrazit rovnou, aby na ně vůbec zbylo.\"
 
 message_77:
-      text: \"☐u začne kručet v břiše.\! Jednou naposledy upře pohled na okénko.\"
+      text: \"☐mu začne kručet v břiše.\! Jednou naposledy upře pohled na okénko.\"
 
 message_78:
       text: \"Jeho dobrodružství holt bude muset počkat na další den.\"
@@ -148,7 +148,7 @@ message_93:
       text: \"☐☐☐☐ skáče první.\! Po něm je na řadě ☐☐☐.\! <br>Poté zase ☐☐☐☐.\! A pak znovu ☐☐☐.\"
 
 message_94:
-      text: \"Bratři radostně apelují na ☐, aby skákal s nimi. Po opatrné úvaze se k nim ☐ rozhodne přidat.\"
+      text: \"Bratři radostně apelují na ☐ho, aby skákal s nimi. Po opatrné úvaze se k nim ☐ rozhodne přidat.\"
 
 message_95:
       text: \"☐ kostrbatě vyjde na sochu a upře pohled na morkou hladinu.\! Slyší, jak mu buší srdce.\! Začne mu pískat v uších.\"

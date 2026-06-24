@@ -31,7 +31,7 @@ plugins:
     consumables: CONSUMABLES
     toys: HRAČKY
     important: DŮLEŽITÉ
-    trash: BINEC
+    trash: ZAHODIT
     use: POUŽÍT
     sure: VÁŽNĚ?
     useon: POUŽÍT NA KOHO?

@@ -130,7 +130,7 @@ message_30:
 #Location: Deeper Well Whirlpool
 
 message_31:
-      text: \n<ŠIFRAN>Slunce svítilo víc...\| když tady byla s námi... #mluví o mari
+      text: \n<ŠIFRAN>Slunce zářilo jasněji...\| když tady byla s námi... #mluví o mari
 
 message_32:
       text:
@@ -227,7 +227,7 @@ message_54:
 #Burro
 #[UNPLACED]
 message_55:
-      text: \n<BURRO>Jsem MARININ šestý experiment.\! Vytvořila mě z kartonu a \c[3]BONBÓNŮ\c[0], když byla malá. #překlep
+      text: \n<BURRO>Jsem MARININ šestý experiment.\! Vytvořila mě z kartonu a \c[3]BONBÓNŮ\c[0], když byla ještě školačka. #překlep
 
 message_350:
       text: \n<BURRO>\com[2]Á!\! Mí bonbónci!
@@ -360,18 +360,18 @@ message_71:
 #Sully
 #[UNPLACED]
 message_73:
-      text: \n<SULLY>Já jsem MARININ sedmý experiment...\! po mně už ty čísla přestanou vycházet.\! Vytvořila mě z ptáků, když byla ještě puberťačka.
+      text: \n<SÓRA>Já jsem MARININ sedmý experiment...\! po mně už ty čísla přestanou vycházet.\! Vytvořila mě z ptáků, když byla ještě puberťačka.
 
 message_355:
-      text: \n<SULLY>TOHLE mě absolutně rozhorčuje. #kontext
+      text: \n<SÓRA>TOHLE mě absolutně rozhorčuje. #kontext
 
 message_356:
-      text: \n<SULLY>Tohle napomáhá mé oplývající radosti.
+      text: \n<SÓRA>Tohle napomáhá mé oplývající radosti.
 
 #Yellow
 #[UNPLACED]
 message_75:
-      text: \n<ŽLUTEK>Ale... safra!\! Chybí mi jeden \c[4]DINO DOLAR\c[0] na \c[4]STŘÍBRNOU LŽIČKU\c[0]!
+      text: \n<ŽLUTEK>Ale... safra!\! Chybí mi jeden \c[4]DINODOLAR\c[0] na \c[4]STŘÍBRNOU LŽIČKU\c[0]!
 
 #Chow
 #Location: Train Station
@@ -442,12 +442,12 @@ message_93:
 #Artichoke
 #[UNPLACED]
 message_95:
-      text: \n<ARTYŠOK>Poklady vystavené tady jsou z celého světa!\!<br>Taky bych někdy chtěl procestovat svět...
+      text: \n<ARTYŠOK>Tady jsou vystaveny poklady snad ze všech koutů světa!\!<br>Taky bych někdy chtěl procestovat svět...
 
 #Fuchsia
 #[UNPLACED]
 message_96:
-      text: \n<FUCHSY>Jsem MARININ první experiment.\! Vytvořila mě z písku a ovoce, když byla ještě batole.
+      text: \n<FUCHSY>Jsem MARININ první experiment.\! Vytvořila mě z písku a ovoce, když byla ještě novorozeně.
 
 message_97:
       text: \n<FUCHSY>Hehe...\! To lechtá...
@@ -485,7 +485,7 @@ message_104:
 #Zarf
 #Location: Otherworld Campsite
 message_106:
-      text: \n<ZARF>Tady je dneska tolik pozemšťanů...\! To jste opravdu takoví fanoušci vesmírného cestování? #nutné odlišit od lidí jako people
+      text: \n<ZARF>Tady je dneska tolik pozemšťanů...\! To jste opravdu takoví fanoušci vesmírné turistiky? #nutné odlišit od lidí jako people
 
 #Jorge
 #Location: Last Resort Entrance
@@ -518,7 +518,7 @@ message_113:
 #JABKOMUCH
 #[UNPLACED]
 message_114:
-      text: \n<JABKOMUCH>Já jsem MARININ čtvrtý experiment.\! Vytvořila mě ze zhnilých jablek, když byla malá. #změna jména
+      text: \n<JABKOMUCH>Já jsem MARININ čtvrtý experiment.\! Vytvořila mě ze zhnilých jablek, když byla ještě předškolačka. #změna jména
 
 message_115:
       text: \n<JABKOMUCH>Cože?
@@ -543,7 +543,7 @@ message_118:
       text: \n<WILY>\c[11]POMERANČOVÁ POUŠŤ\c[0] je samá žijící fosílije, která tady bydlí kdovíjak dlouho. #přidán dvojsmysl
 
 message_119:
-      text: \n<WILY>Ale já neztrácím naději...\! Tohle místo bude jeden den obrovské, prospívající město!\! Koukejte, kolik tady je místa!
+      text: \n<WILY>Ale já neztrácím naději...\! Jednoho dne tady bude obrovské, prospívající město!\! Koukejte, kolik tady je místa!
 
 #Cinder
 #Location: Last Resort Casino
@@ -572,7 +572,7 @@ message_124:
 #Ghian
 #Loation: Outskirts
 message_125:
-      text: \n<GIÁN>Po téhle obří tůře jsem úplně nadraka!\! Už teď vím, že zítra neucítím nohy.
+      text: \n<GIÁN>Po téhle obří túře jsem úplně nadraka!\! Už teď vím, že zítra neucítím nohy.
 
 #Chelle
 #Location: Cattail Field
@@ -584,7 +584,7 @@ message_126:
 #Goosey
 #Location: Train Station
 message_128:
-      text: \n<HUSKA>Tahle dlouhá řada je dokonalou příležitostí znovu poznat krásy spánku!
+      text: \n<HUSKA>Tahle dlouhá řada je dokonalou příležitostí objevit krásy spánku!
 
 
 
@@ -613,11 +613,11 @@ message_131:
 #Jerko
 #Location: Train Station
 message_132:
-      text: \n<JERKO>Mohl bys říct tomu přede mnou, aby si pohl?\!<br>Někteří máme přece taky svůj život, že?
+      text: \n<MOROUSEK>Mohl bys říct tomu přede mnou, aby si pohl?\!<br>Někteří snad spěcháme, ne?
 
 #Location 2: Last Resort
 message_133:
-      text: \n<JERKO>\com[2]Jaktože po nás šéf pořád chce, abychom čekali?\!<br>Kdo si myslí, že je?!\! Někteří máme přece taky svůj život, že?
+      text: \n<MOROUSEK>\com[2]Jaktože po nás šéf pořád chce, abychom čekali?\!<br>Kdo si myslí, že je?!\! Někteří máme přece taky svůj život, že?
 
 
 
@@ -625,38 +625,38 @@ message_133:
 
 #Location: Train Station
 message_137:
-      text: \n<MOTT>Poslední dobou je to tady samý KROKOĎÁK...\!<br>Takže šéf zase cosi provádí...<br><br>Co?\! Tys ještě neslyšel o šéfovi?\! No, však brzo ještě uslyšíš.
+      text: \n<MŮR>Poslední dobou je to tady samý KROKOĎÁK...\!<br>Takže šéf zase cosi provádí...<br><br>Cože?\! Tys ještě neslyšel o šéfovi?\! No, však brzo ještě uslyšíš.
 
 #Location: Mr. Jawsum's Concierge
 message_135:
-      text: \n<MOTT>PAN CENIL...\! To je jméno, které tady budí u všech pozornost.
+      text: \n<MŮR>PAN CENIL...\! To je jméno, které tady budí u všech pozornost.
 
 message_136:
-      text: \n<MOTT>Slyšel jsem, že si nerad s ničím sám zlobí...\! a ani se mu nedivím!\! Já bych byl stejný, kdybych mohl taky na povel mít cokoliv!
+      text: \n<MŮR>Slyšel jsem, že si nerad s ničím sám zlobí...\! a ani se mu nedivím!\! Já bych byl stejný, kdybych mohl taky na povel mít cokoliv!
 
 
 #Miggie
 #Location: Last Resort Casino
 message_138:
-      text: \n<MIGGIE>Kvůli tomzhle jsem jela ten kus z města?\! Zasloužila bych si dovolenou od mojí dovolené...
+      text: \n<MIGGY>Kvůli tomzhle jsem jela ten kus z města?\! Zasloužila bych si dovolenou od mojí dovolené...
 
 
 
 #Tapioca
 #Location: Underwater Highway
 message_140:
-      text: \n<TAPIOCA>Voda je tady o něco teplejší než u nás v horské jeskyni.
+      text: \n<TAPIOKA>Voda je tady o něco teplejší než u nás v horské jeskyni.
 
 
 
 #Brooke
 #Location: Train Station
 message_142:
-      text: \n<BROOKE>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
+      text: \n<EVŽEN>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
 
 #Location 2: Last Resort Casino
 message_143:
-      text: \n<BROOKE>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
+      text: \n<EVŽEN>Já vždycky skočním v nějaké té patálii.\!<br>Schválně, jestli se tohle počítá...
 
 message_144:
       text:
@@ -719,7 +719,7 @@ message_158:
 #This Guy
 #[UNPLACED]
 message_160:
-      text: \n<TENHLENSTEN>Jsem MARININ druhý experiment...\! Vytvořila mě z jílu a kamínků, když byla ještě batole.
+      text: \n<TENHLENSTEN>Jsem MARININ druhý experiment...\! Vytvořila mě z jílu a kamínků, když byla ještě kojenec.
 
 #POKE
 message_159:
@@ -767,7 +767,7 @@ message_169:
 #Mooncake
 #Location: Train Station
 message_170:
-      text: \n<MĚSEŇ>BLUKY je často smutý, ale doopravdy mu jen schází někdo, s kým mluvit...\! a ten někdo jsem já!
+      text: \n<MĚSEŇ>MODRÁSEK je často smutý, ale doopravdy mu jen schází někdo, s kým mluvit...\! a ten někdo jsem já!
 
 message_171:
       text:
@@ -775,7 +775,7 @@ message_171:
 #Blookie
 #Location: Train Station
 message_172:
-      text: \n<BLUKY>Všichni jsou tady tak odlišní a zajímaví...\! Zajímalo by mě, v čem jsem já odlišný a zajímavý...
+      text: \n<MODRÁSEK>Všichni jsou tady tak odlišní a zajímaví...\! Zajímalo by mě, v čem jsem já odlišný a zajímavý...
 
 message_173:
       text:
@@ -795,7 +795,7 @@ message_176:
 #Babo
 #Location: Frozen Forest
 message_177:
-      text: \n<BABO>BABO rád studený čas...\! BABO potom vděčný za teplý čas...
+      text: \n<BABO>BABO rád studené období...\! BABO potom vděčný za teplé období...
 
 
 message_178:
@@ -820,7 +820,7 @@ message_182:
 #Quaspy
 #Location: Outskirts
 message_183:
-      text: \n<KVASPA>Na tůře jsem si všiml jakéhosi obličeje ve skále.\! To by mě zajímalo, co to bylo zač... #blíže orig, maty
+      text: \n<KVASPA>Na túře jsem si všiml jakéhosi obličeje ve skále.\! To by mě zajímalo, co to bylo zač... #blíže orig, maty
 
 
 message_184:
@@ -936,7 +936,7 @@ message_208:
 #Diving Man
 #Location: Underwater Highway
 message_210:
-      text: \n<POTAPĚČ>Čekal jsem sice podmořský život...\!<br>ale tohle jsem opravdu nečekal...
+      text: \n<POTAPĚČ>Čekal jsem sice hlubokomořský život...\!<br>ale tohle je fakt něco...
 
 message_211:
       text:
@@ -1023,13 +1023,13 @@ message_418:
       text: \n<PAN TEHDÁ>Toť vše!\! Chtěli byste povědět o čemsi jiném?
 
 message_420:
-      text: PAN TEHDÁ se změnil v písek.
+      text: PAN TEHDÁ se usadil v písek.
 
 message_421:
-      text: Písečná socha určitého pamětníka.
+      text: Písková socha určitého pamětníka.
 
 message_422:
-      text: \n<???>Zdravíčko!
+      text: \n<???>Zdarec!
 
 #rootin and tootin
 #buckaroo
@@ -1284,7 +1284,7 @@ message_311:
       text: \n<KROKOĎÁK>Atmosféra je tady opravdu ťip ťop.\! A REUBEN dělá \sinv[1]faaaaakt skvělou \c[3]OVOCNOU ŠŤÁVU\c[0]...\sinv[0]
 
 message_312:
-      text: \n<KROKOĎÁK>KLUBOVÝ SENDVIČ je prostě jiná liga.\!<br>REUBEN a HOAGIE jsou prostě třída! #konzitence sendvič
+      text: \n<KROKOĎÁK>KLUBOVÝ SENDVIČ je prostě jiná liga.\!<br>REUBEN a OLEG jsou prostě třída! #konzitence sendvič
 
 
 #PYREFLY FOREST
@@ -1323,7 +1323,7 @@ message_322:
       text: \herAhoj, EMS! Jak jsi na tom?
 
 message_323:
-      text: \n<EMS>\}Jo, v pohodě...\! HOAGIE mě za trest poslal na gauč...
+      text: \n<EMS>\}Jo, v pohodě...\! OLEG mě za trest poslal na gauč...
 
 message_324:
       faceset: MainCharacters_DreamWorld
@@ -1382,7 +1382,7 @@ message_39:
       text: \n<VÁNEK>\sinv[1]Dejte si voraz... Odpočiňte.\! Vítejte v zahradě ticha...
 
 message_340:
-      text: \n<TATÍK CHIP>Já jsem TATÍK CHIP!
+      text: \n<TATÍK ČIPS>Já jsem TATÍK ČIPS!
 
 message_341:
       text: \n<CHLEBÍČEK>\quake[1]Syk...
@@ -1416,15 +1416,15 @@ message_603:
 #-
 
 message_604:
-      text: \n<NICOTA>Když se vyskytnou potíže, vždy se s nimi vyskytne možnost utéct.\! Ale jednou dost možná poběžíš sám.
+      text: \n<NICOTA>Když se vyskytnou potíže, vždy se s nimi vyskytne možnost utéct.\! Ale jednou dost možná zjistíš, že utíkáš sám.
 
 #-
 
 message_607:
-      text: \n<POVÝŠENEC>A co když je to na tobě?\! Co když je to jen na tobě?
+      text: \n<POVÝŠENOST>A co když je to na tobě?\! Co když je to jen na tobě?
 
 message_606:
-      text: \n<POVÝŠENEC>Dotáhni to do konce, SNÍLKU.\! Nikdo krom tebe nemůže.
+      text: \n<POVÝŠENOST>Dotáhni to do konce, SNÍLKU.\! Nikdo krom tebe nemůže.
 
 #-
 
@@ -1451,7 +1451,7 @@ message_611:
 #-
 
 message_612:
-      text: \n<PRÁZDNOTA>Do jaké dálky zajdeš za svým kamarádem?
+      text: \n<PRÁZDNOTA>Co vše hodláš obětovat záchraně svého kamaráda?
 
 #-
 

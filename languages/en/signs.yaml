@@ -36,10 +36,10 @@ message_6:
       text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Běžte pryč!)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
 
 message_7:
-      text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Otočte se zpátky, dokud můžete...)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
+      text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Vraťte se zpátky, dokud můžete...)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
 
 message_8:
-      text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Není tady nic pro vás... Táhněte!)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
+      text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Nemáte tady, co pohledávat... Táhněte!)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
 
 message_9:
       text: \n<PAN TUČŇÁK>Brrrrrrr!\! (Běžte pryč! Jen mě nechte trpět!)\!<br>Brr... Brrrrr!\! (Podepsán, VXM)
@@ -131,7 +131,7 @@ message_33:
       text: \n<PAN RACEK>Vrrr!\! (HUDEBNÍ MUŠLE v zácviku.)\!<br>Vrrr, vrrr!\! (Prosím, povzbuďte je!)
 
 message_34:
-      text: \"TAK TEĎ SE TEPRVE HRAJE O VELKÉ ČÁSTKY!\"<br>\!\"DEJTE TŘI DOHROMADY A VYHRAJTE CENU!\"
+      text: \"TAK TEĎ SE TEPRVE HRAJE O VELKÉ CENY!\"<br>\!\"DEJTE TŘI DOHROMADY A VYHRAJTE CENU!\"
 
 message_35:
       text: \n<PTÁKOKRTEK>Píp?

@@ -63,12 +63,12 @@ message_12:
 message_20:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubOMORI! Ještě že jsi zpátky!
+      text: \aubOMORI! Ještě, že jsi zpátky!
 
 message_21:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelNeviděl jsi někde BASILA\! Nemůžeme ho najít...
+      text: \kelNeviděl jsi někde BASILA?\! Nemůžeme ho najít...
 
 message_22:
       faceset: MainCharacters_DreamWorld
@@ -110,7 +110,7 @@ message_39:
 message_34:
       faceset: MainCharacters_DreamWorld
       faceindex: 4
-      text: \aubAspoň že ses našel ty, OMORI...\! ale doufám, že s BASILEM nic není.\! Kdo by ho přece chránil, když ne my?
+      text: \aubAspoň, že ses našel ty, OMORI...\! ale doufám, že s BASILEM nic není.\! Kdo by ho přece chránil, když ne my?
 
 message_35:
       faceset: MainCharacters_DreamWorld
@@ -125,7 +125,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: \herHmm...\! Co kdybychom se zkusili znova kouknout do BASILOVA DOMU?\!<br>Mohlo by tam být něco, co nám uteklo.
+      text: \herHmm...\! Co kdybychom se zkusili znova kouknout do BASILOVA DOMU?\! Mohlo by tam být něco, co nám uteklo.
 
 message_38:
       faceset: MainCharacter_Mari
@@ -221,7 +221,7 @@ message_55:
 message_56:
       faceset: MainCharacters_DreamWorld
       faceindex: 29
-      text: \kelA nemohl BASIL prostě někam odejít bez toho, aby nám řekl?
+      text: \kelA nemohl BASIL prostě někam odejít a neříct nám to?
 
 message_57:
       faceset: MainCharacters_DreamWorld
@@ -241,7 +241,7 @@ message_59:
 message_60:
       faceset: MainCharacters_DreamWorld
       faceindex: 43
-      text: \herV klidu, AUBRY...\! Mám o něj taky strach, ale to ničemu nepomůže.\! Pojďme prohledat les. Možná se někde procházel a ztratil.
+      text: \herV klidu, AUBRY...\! Mám o něj taky strach, ale to ničemu nepomůže.\! Pojďme prohledat les. Možná se někde procházel a ztratil se.
 
 message_61:
       faceset: MainCharacters_DreamWorld
@@ -256,7 +256,7 @@ message_62:
 message_63:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubDobře! Nesmíme ztrácet naději!<br>\!Pojďme se podívat po BASILOVI do \c[11]ROZLEHLÉHO LESA\c[0].
+      text: \aubDobře! Nesmíme ztrácet naději!<br>\!Pojďme hledat BASILA do \c[11]ROZLEHLÉHO LESA\c[0].
 
 #------------------------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ message_71:
 message_72:
       faceset: MainCharacters_DreamWorld
       faceindex: 16
-      text: \kelAha! Mám nápad\! Můj domácí kamínek beztak bude vědět, co dělat!
+      text: \kelAha! Mám nápad!\! Můj domácí kamínek beztak bude vědět, co dělat!
 
 message_73:
       faceset: MainCharacters_DreamWorld
@@ -391,7 +391,7 @@ message_99:
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelPřesně tak, OMORI! Je to přece jenom jeden malej pidi žebřík...\!<br>Co by se tak mohlo stát? #tak, pidi
+      text: \kelPřesně tak, OMORI! Je to přece jenom jeden malej pidi žebříček...\!<br>Co by se tak mohlo stát? #tak, pidi
 
 message_101:
       faceset: MainCharacters_DreamWorld
@@ -449,7 +449,7 @@ message_110:
 message_111:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: \herNemáš čeho se bát, dokud jsme spolu.\! BASIL je asi teď úplně sám...\! Potřebuje nás, a to hned teď! #přirozenější
+      text: \herNemáš čeho se bát, když jsme spolu.\! BASIL je asi teď úplně sám...\! Potřebuje nás, a to hned teď! #přirozenější
 
 message_112:
       faceset: MainCharacter_Mari
@@ -617,7 +617,7 @@ message_161:
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubKoukej, MARI! Mám \c[4]LÍSTEK NA ZMRZLINU\c[0]!
+      text: \aubKoukej, MARI! Dostala jsem \c[4]POUKAZ NA VÁNICUK\c[0]!
 
 message_163:
       faceset: MainCharacter_Mari
@@ -716,7 +716,7 @@ message_183:
 message_500:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marHmm...\! BASIL pořád nic?<br>\!Kde by tak mohl být?
+      text: \marHmm...\! BASIL pořád nikde?<br>\!Kde by tak mohl být?
 
 message_185:
       faceset: MainCharacters_DreamWorld
@@ -1614,12 +1614,12 @@ message_401:
 message_402:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herHeh...\! Kéž bychom měli vlastní kameru.
+      text: \herAch...\! Kéž bychom měli vlastní kameru.
 
 message_403:
       faceset: MainCharacters_DreamWorld
       faceindex: 17
-      text: \kelEh... To přece nevadí!\! Však spolu máme dost fotek, ne?
+      text: \kelAle... To přece nevadí!\! Však spolu máme dost fotek, ne?
 
 message_404:
       faceset: MainCharacters_DreamWorld
@@ -1892,13 +1892,13 @@ message_460:
 message_461:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: \marNevadí!\! Počkám na té cestě jižně od hřiště!
+      text: \marNevadí!\! Počkám na té cestě na jihu od hřiště!
 
 #[NO]
 message_462:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marTak tím pádem pojďme zpátky na tu lesní cestu...<br>tu jižně od hřiště!
+      text: \marTak tím pádem pojďme zpátky na tu lesní cestu...<br>tu na jihu od hřiště!
 
 #------------------------------------------------------------------------------------------
 
@@ -2022,7 +2022,7 @@ message_499:
 
 #Examine Black Door:
 message_501:
-      text: Černé dveře beze stínu.\! Co si přeješ udělat?
+      text: Černé dveře beze stínu.\! Co chceš udělat?
 
 #STARE AT THE DOOR
 #OPEN THE DOOR
@@ -2038,7 +2038,7 @@ message_501:
 message_520:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: Ahoj, OMORI! Doufali jsme, že se ukážeš!\!<br>Zahraješ si s náma karty?\! <br>Zrovna chystáme novou hru!\aub
+      text: Ahoj, OMORI! Už jsme se těšili, až přijdeš!\!<br>Zahraješ si s náma karty?\! <br>Zrovna chystáme novou hru!\aub
 
 #AUBREY looks behind her.
 message_521:
@@ -2072,31 +2072,31 @@ message_525:
 message_526:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herJak se máš, \n[1]? Už tady na tebe čekáme!
+    text: \herJak se máš, OMORI? Už tady na tebe čekáme!
 
 message_527:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] a \n[2] se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #tady bude třeba vyměnit ty tagy za jména kvůli Aubrey / Aubry problému
+    text: \herKEL a AUBRY se spolu zase ne a ne přestat prát.\!<br>Možná bys čekal, že je to přestane bavit, ale ne. Jsou jako pytel blech! #tady bude třeba vyměnit ty tagy za jména kvůli Aubrey / Aubry problému
 
 #Talk to HERO again:
 message_528:
     faceset: MainCharacters_DreamWorld
     faceindex: 36
-    text: \herNechtěl bys za chvíli vyrazit?\!<br>MARI a BASIL nás pozvali na piknik!
+    text: \herMARI a BASIL nás pozvali na piknik na hřišti!\!<br>Nechtěl bys za nima?
 #[YES/NO]
 
 #[YES]
 message_529:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
-    text: \herDobře, všichni...\! Pojďme!
+    text: \herTakže, všichni...\!<br>Pojďme za BASILEM a MARI!
 
 #[NO]
 message_530:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \herDobře, nevadí! Budeme tady, kdybys nás potřeboval.
+    text: \herJak myslíš.\! Zůstaneme tady.
 
 #Talk to KEL
 
@@ -2126,7 +2126,7 @@ message_534:
 
 #[YES]
 message_535:
-      text: Potřásl si KELOVOU vlhkou rukou.\! Fuj... #mírná předělávka
+      text: Potřásl si KELOVOU vlhkou rukou.\! No fuj... #mírná předělávka
 
 message_536:
       faceset: MainCharacters_DreamWorld
@@ -2155,7 +2155,7 @@ message_539:
 message_540:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Tudy se nejde k MARI!\! Je na hřišti jižně od pařezu.\! Cestu jistě znáš\her #přátelštější ráz
+      text: Tudy se nejde k MARI!\! Je na hřišti na jih od pařežu.\! Cestu jistě znáš!\her #přátelštější ráz
 
 #------------------------------------------------------------------------------------------
 
@@ -2227,7 +2227,7 @@ message_561:
 message_562:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš jaký jsi hezký když se zarazíš?!\mar
+      text: No tak, HERO, jenom si tě chtěla trochu poškádlit.\!<br>Víš, jaký jsi hezký, když se zarazíš?!\mar
 
 message_563:
       faceset: MainCharacters_DreamWorld
@@ -2286,7 +2286,7 @@ message_572:
 message_573:
       faceset: MainCharacter_Basil
       faceindex: 2
-      text: \basVždy když se dívám na tyhle fotky, jsem za vás tak vděčný.
+      text: \basVždy když se dívám na tyhle fotky, jsem za vás vážně vděčný.
 
 message_574:
       faceset: MainCharacter_Basil
@@ -2402,7 +2402,7 @@ message_595:
 message_596:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basJsem za vás tak vděčný.\!<br>Budu si vás všech vážit navždycky.
+      text: \basJsem tak rád, že vás mám.\!<br>Budu si vás všech vážit navždycky.
 
 #------------
 
@@ -2479,7 +2479,7 @@ message_1001:
 message_1002:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basDoufám, že ti sedne.\! Kdyby ne, tak řekni a já ho spravím.
+      text: \basDoufám, že ti sedne.\! Kdyby ne, tak řekni, a já ho spravím.
 
 #JUNKYARD CONVEYOR
 

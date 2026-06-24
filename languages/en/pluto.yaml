@@ -19,7 +19,7 @@ message_52:
 #PLUTO looks around in a panic and turns to party
 
 message_3:
-    text: \whoHej, vy tam!\} Hff... Hff...\!<br>Prosím...\! Pomožte mi!
+    text: \whoHej, vy tam!\} Hff... Hff...\!<br>Prosím...\! Pomozte mi!
 
 message_4:
     faceset: MainCharacters_DreamWorld
@@ -106,7 +106,7 @@ message_15:
     text: \herN-Ne? Nevybavuju si, že bychom se s ním někde setkali...
 
 message_16:
-    text: \n<VESMÍRNÝ CÁPEK>Vážně?\! ... ... ... \!No, takový je holt život!\!<br>Pojď, kámo. Jdeme dál.\!<br>Však ho jednou najdem!
+    text: \n<VESMÍRNÝ CÁPEK>Vážně?\! ... ... ... \!No, co se dá dělat!\!<br>Pojď, kámo. Jdeme dál.\!<br>Však ho jednou najdem!
 
 #SPACE PIRATES leave
 #KEL turns around
@@ -294,7 +294,7 @@ message_133:
     text: \pluMhm...\! Opakuj po mně.
 
 message_134:
-    text: \plu\Com[2]\{\quake[1]KDYŽ \c[1]ZATNU\c[0] SLAVY, HNED PŘENÁŠÍM SKÁLY!!\}
+    text: \plu\Com[2]\{\quake[1]KDYŽ \c[1]ZATNU\c[0] SLAVY, HNED PŘENÁŠÍM HORY!!\}
 
 message_135:
     text: \pluTeď si to zkus ty!
@@ -307,7 +307,7 @@ message_136:
 message_137:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kelSkály?
+    text: \kelHory?
 
 message_138:
     faceset: MainCharacters_DreamWorld
@@ -360,10 +360,10 @@ message_210:
 # =========================================================================================
 
 message_100:
-  text: \n<ŠNEČEK>Krásné počasí, viďte?
+  text: \n<ŠNEČÍK>Krásné počasí, viďte?
 
 message_101:
-  text: \n<ŠNEČEK>Ach, panečku! \!Stojím vám v cestě?\!<br>Omlouvám se.\! Hned vám uhnu.
+  text: \n<ŠNEČÍK>Ach, panečku! \!Stojím vám v cestě?\!<br>Omlouvám se.\! Hned vám uhnu.
 
 # =========================================================================================
 # PLUTO DOCK
@@ -391,7 +391,7 @@ message_162:
   text: ROZLEHLÝ LES
 
 message_163:
-  text: SVĚTLUŠČÍ LES
+  text: LES SVĚTLUŠEK
 
 message_164:
   text: HLUBOKÁ STUDNA

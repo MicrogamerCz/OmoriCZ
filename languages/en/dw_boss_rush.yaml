@@ -17,7 +17,7 @@ message_3:
     text: \n<ŠÉF>Čekají na vás tady počítačem simulované souboje, které jste již podstoupili...\! akorát že jsou o dost těžší!
 
 message_4:
-    text: \n<ŠÉF>Máte tedy zájem o ŠÉFOVU VÝZVU?
+    text: \n<ŠÉF>Myslíte si, že máte na ŠÉFOVU VÝZVU?
 
 message_5:
     text: \n<ŠÉF>\sinv[1]Supr dupr!\sinv[0] Jde se na to.
@@ -67,7 +67,7 @@ message_22:
 message_10:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marPřemýšlíte, že byste zkusili tu ŠÉFOVU VÝZVU?\! Tak to hodně štěstí! Budeme vám držet palce.
+    text: \marMyslíte, že byste zvládli tu ŠÉFOVU VÝZVU?\! Tak to hodně štěstí! Budeme vám držet palce.
 
 message_11:
     faceset: MainCharacter_Basil

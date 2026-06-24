@@ -109,13 +109,13 @@ message_34:
     text: \n<NĚKDO>Něco odsud bylo dávno vzato...\! Kam jsi to schoval?\! Jedině ty víš, kde to najít.
 
 message_35:
-    text: \n<NĚKDO>Proč musíš žít v této hrůzné podobě?\! Pravda, je silná a chrání tě...\! ale pokud na ni budeš spoléhat příliš...\! to, co obětuješ, už nikdy nezískáš zpět. #vágnější, jako orig, Inu se nehodí, mírně předěláno
+    text: \n<NĚKDO>Proč žiješ v této hrůzné podobě?\! Na jednu stranu je silná a chrání tě...\! ale pokud na ni budeš spoléhat příliš...\! to, co obětuješ, už nikdy nezískáš zpět. #vágnější, jako orig, Inu se nehodí, mírně předěláno
 
 message_36:
     text: \n<NĚKDO>Zabloudil sem snad ten kluk s kytkama?\! Přišel jsi ho znovu zachránit?\! To má ale štěstí...
 
 message_37:
-    text: \n<NĚKDO>Za jednimy z těchto dveří čeká vysvobození...\! ovšem v této podobě se ti neotevřou.\! Budeš se tam muset dostat jinak. #vykouopení se zde vůbec nehodí, když už, tak spása, já na podoba, jinudy na jina - pravý způsob je změnit podobu, pravopis. díky wikidictionary... bez tebe bych "jedny" nevyskloňoval...
+    text: \n<NĚKDO>Jedny z těchto dveří skrývají vysvobození...\! ovšem v této podobě se ti neotevřou.\! Budeš se tam muset dostat jinak. #vykouopení se zde vůbec nehodí, když už, tak spása, já na podoba, jinudy na jina - pravý způsob je změnit podobu, pravopis. díky wikidictionary... bez tebe bych "jedny" nevyskloňoval...
 
 message_38:
     text: \n<NĚKDO>Za těmito dveři leží místa nestálá, tvořena roztříštěnými kusy.<br><br>Ztratíš-li se, nezoufej.\! Rudé ruce tě povedou...\! a...\! tvá současná podoba...\! zde nedokáže zemřít. #blíže orig
@@ -130,10 +130,10 @@ message_41:
     text: \n<NĚKDO>Velká moc s sebou nese velké břemeno...\! pro tebe...\! a všechny tvé nejbližší.\! Koho to chráníš?\! A... stojí ti to vůbec za to?
 
 message_42:
-    text: \n<NĚKDO>Hluboce doufám, že se duše dvého kamaráda zrozdí nenarušena.\! Všichni víme, jaký by byl jeho osud, kdyby tomu tak nebylo. #čas, blíže orig
+    text: \n<NĚKDO>Hluboce doufám, že se duše tvého kamaráda znovuzrodí nenarušena.\! Všichni víme, jaký by byl jeho osud, kdyby se tak tehdy nestalo. #čas, blíže orig
 
 message_43:
-    text: \n<NĚKDO>Prokaž jim prosím milost, SNÍLKU.\! I když se duše, které zde potkáš, nedokážou zhmotnit, jejich řev se stejně nepřestane ozývat. #blíže orig
+    text: \n<NĚKDO>Prokaž jim prosím milost, SNÍLKU.\! I když se duše, jež zde potkáš, nedokážou zhmotnit, jejich nářky se stejně nepřestanou ozývat. #blíže orig
 
 message_44:
     text: \n<NĚKDO>Ten kluk s kytkama, který má k pravdě nejblíž...\! jehož oči rudě září...\! Viděl jsem, co jsi mu předtím udělal...\! a proto se modlím, abys ho znovu nenašel. #blíže orig

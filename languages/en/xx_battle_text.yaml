@@ -470,7 +470,7 @@ message_87:
 
 message_88:
    text: >
-    \>PAN CENIL: \<Hoši...\! ukázali byste laskavě těmto dětem, kde máme východ?
+    \>PAN CENIL: \<Hoši...\! ukázali byste laskavě těmhle děckám, kde máme východ?
 
 
 # Before ‘Summon Henchmen':
@@ -721,7 +721,7 @@ message_133:
 
 message_134:
    text: >
-    \>SUPERZLATÍČKO: \<<br>Pamatujte, děti...\! Tohle jste si způsobily samy!
+    \>SUPERZLATÍČKO: \<<br>Pamatujte, děti...\! Můžete si za to samy!
 
 # Getting Weaker (50%):
 
@@ -789,17 +789,17 @@ message_145:
 
 message_146:
    text: >
-    \>ZLOMYSLNÝ CHIP: \<Mamma-mia...
+    \>ZLOMYSLNÝ ČIPS: \<Mamma-mia...
 
 message_147:
    text: >
-    \>ZLOMYSLNÝ CHIP: \<...\! Je tady..\!<br>nějak horko, nemyslíte?
+    \>ZLOMYSLNÝ ČIPS: \<...\! Je tady..\!<br>nějak horko, nemyslíte?
 
 # After Defeat:
 
 message_148:
    text: >
-    \>ZLOMYSLNÝ CHIP: \<Molto triste...
+    \>ZLOMYSLNÝ ČIPS: \<Molto triste...
 
 # After Victory:
 
@@ -885,7 +885,7 @@ message_163:
 
 message_164:
    text: >
-    \>VESMÍRNÝ EX-MANŽEL: \<<br>Ta bolest...\! Cítím ji...
+    \>VESMÍRNÝ EX-MANŽEL: \<<br>Ta bolest...\! Celá mnou otřásá...
 
 # After Victory:
 
@@ -1085,7 +1085,7 @@ message_201:
 
 message_202:
    text: >
-    \>KIM: \<Ukážu ti, že výška není všecko!\! Nepodám se takovým šprtům, jako jste vy!
+    \>KIM: \<Ukážu ti, že na výšce nezáleží!\! Nepodám se takovým šprtům, jako jste vy!
 
 # After Defeat:
 
@@ -1387,7 +1387,7 @@ message_269:
 # Snow ANDĚL Pierce Heart Skill
 message_270:
    text: >
-    \>SNĚŽNÝ ANDĚL: \<\quake[1]Acta deos numquam mortalia fallunt...
+    \>ANDĚL SNĚŽNÝ: \<\quake[1]Acta deos numquam mortalia fallunt...
 
 # PREJSEK Muffled Scream
 message_271:
@@ -1403,7 +1403,7 @@ message_272:
 # Before transforming into a lump
 message_273:
    text: >
-    \>BENDA: \<\sinv[1]Poslední bitva začíná!\| Jste nás schopni porazit, spojíme-li se?
+    \>BENDA: \<\sinv[1]Tak došlo na souboj poslední!\| Porazíte nás, jsme-li spojeni?
 
 # Before swallow 1
 message_274:
@@ -1534,7 +1534,7 @@ message_295:
 # ANGRY MOLE
 message_296:
    text: >
-    \>HERO: \<Á! Tenhle KLÍČKOKRTEK se zjevně VZTEKÁ! \!KLÍČKOKRTCI cítí EMOCE stejně, jako my.
+    \>HERO: \<Áhle! Tenhle KLÍČKOKRTEK se zjevně VZTEKÁ! \!KLÍČKOKRTCI cítí EMOCE stejně, jako my.
 
 message_297:
    text: >
@@ -1655,17 +1655,17 @@ message_341:
 
 
 message_344:
-   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
 
 message_345:
-   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
 
 message_346:
-   text: CHLÁPEK S DŽEMEM ŽIVOTA čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
 
 message_347:
    text: >
-    \>CHLÁPEK S DŽEMEM ŽIVOTA: \<Použijte \c[3]DŽEM ŽIVOTA\c[0]!\!<br>Fakt funguje!
+    \>DŽEMÁK: \<Použijte \c[3]DŽEM ŽIVOTA\c[0]!\!<br>Vážně zabírá!
 
 
 # =========================================================================================
@@ -1861,19 +1861,19 @@ message_427:
 
 message_446:
    text: >
-    \>BOSS: \<\sinv[1]Huehuehue!\sinv[0]\!<br>Vy slaboši!\! Tomuhle že říkáte útok?!
+    \>ŠÉF: \<\sinv[1]Huehuehue!\sinv[0]\!<br>Vy slaboši!\! Tomuhle že říkáte útok?!
 
 message_447:
    text: >
-    \>BOSS: \<Hele, to trochu bolelo!\! Ts!\! Tohle mě už nebaví...
+    \>ŠÉF: \<Hele, to trochu bolelo!\! Ts!\! Tohle mě už nebaví...
 
 message_448:
    text: >
-    \>BOSS: \<Grr...\!<br>Tak teď jste mě ROZVZTEKALI...
+    \>ŠÉF: \<Grr...\!<br>Tak teď jste mě ROZVZTEKALI...
 
 message_449:
    text: >
-    \>BOSS: \<Je čas na můj speciální útok!
+    \>ŠÉF: \<Je čas na můj speciální útok!
 
 message_450:
    text: >
@@ -1881,7 +1881,7 @@ message_450:
 
 message_445:
    text: >
-    \>BOSS: \<CO?!\! JAKTOŽE SE POŘÁD HÝBEŠ?!
+    \>ŠÉF: \<CO?!\! JAKTOŽE SE JEŠTĚ HEJBEŠ?!
 
 # ============ZLATÍČKO
 message_451:
@@ -1965,7 +1965,7 @@ message_471:
 
 message_472:
    text: >
-    Vítr je slabý.
+    Vítr je příliš slabý.
 
 # =========================================================================================
 # HANGING BODY SOMETHING
@@ -2039,11 +2039,11 @@ message_522:
 # ============FEAR OF FALLING COUNTDOWN
 message_525:
    text: >
-    Voda začíná zaplavovat pokoj.
+    Voda zaplavuje pokoj.
 
 message_526:
    text: >
-    Nemůžeš dýchat.
+    Nemůžeš se nadechnout.
 
 
 # =========================================================================================
@@ -2204,7 +2204,7 @@ message_630:
 # Happy Memories
 message_631:
    text: >
-    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... a mé ZLATÍČKO...\! jak se spolu líbáme na jejím překrásném pódiu!
+    \>VESMÍRNÝ EX-MANŽEL: \<Vidím sebe... a mé ZLATÍČKO...\! jak se líbáme na jejím překrásném pódiu!
 
 message_632:
    text: >
@@ -2270,7 +2270,7 @@ message_644:
 # Wrong answer
 message_646:
    text: >
-    \>VESMÍRNÝ EX-MANŽEL: \<Uff...\! Nikdo nedokáže pochopit rozměry mého žalu.
+    \>VESMÍRNÝ EX-MANŽEL: \<Ach...\! Nikdo z vás není schopen pochopit, kam až sahá můj žal.
 
 message_647:
    text: >
@@ -2520,18 +2520,18 @@ message_934:
 
 message_935:
     text: >
-      Z CHLÁPKA S DŽEMEM ŽIVOTA ukáplo trochu \c[3]DŽEMU ŽIVOTA\c[0]!
+      Z DŽEÁKA ukáplo trochu \c[3]DŽEMU ŽIVOTA\c[0]!
 
 message_936:
     text: >
-      \>CHLÁPEK S DŽEMEM ŽIVOTA: \<Užijte si vaši ochutnávku zdarma!\! A teď nashle, haha!
+      \>DŽEMÁK: \<Užijte si vaši ochutnávku zdarma!\! A teď nashle, haha!
 
 message_937:
     text: >
 
 message_938:
     text: >
-      VESMÍRNÝ EX-MILENEC již nemůže mít RADOST nebo VZTEK!
+      VESMÍRNÝ EX-MILENEC již nemůže mít RADOST nebo SMUTEK!
 
 message_939:
     text: >
@@ -2569,19 +2569,19 @@ message_944:
 
 message_950:
    text: >
-    \>ŠNEČEK: \<Jupí, můj první souboj!\! A jde se na to!
+    \>ŠNEČÍK: \<Jupí, můj první souboj!\! A jde se na to!
 
 message_951:
     text: >
-     \>ŠNEČEK: \<Ty jo, to je ale fuška.\!<br>Dejte mi prosím ještě jeden pokus!
+     \>ŠNEČÍK: \<Ty jo, to je ale fuška.\!<br>Dejte mi prosím ještě jeden pokus!
 
 message_952:
     text: >
-     \>ŠNEČEK: \<Nevím, jestli na tohle mám...
+     \>ŠNEČÍK: \<Nevím, jestli na tohle mám...
 
 message_953:
     text: >
-     \>ŠNEČEK: Dobře, to by stačilo.\!<br>Děkuji vám.
+     \>ŠNEČÍK: Dobře, to by stačilo.\!<br>Děkuji vám.
 
 #----------------------------
 # ** IN BATTLE: ŠNEČEK 2
@@ -2589,19 +2589,19 @@ message_953:
 
 message_954:
     text: >
-     \>ŠNEČEK: Od toho, co jsme se naposledy viděli, jsem se naučil pár nových DOVEDNOSTÍ!\! Být váma bych si dával bacha!
+     \>ŠNEČÍK: Od toho, co jsme se naposledy viděli, jsem se naučil pár nových DOVEDNOSTÍ!\! Být váma bych si dával bacha!
 
 message_955:
     text: >
-     \>ŠNEČEK: To bylo hustý, že?!
+     \>ŠNEČÍK: To bylo hustý, že?!
 
 message_956:
     text: >
-     \>ŠNEČEK: Taky jsem se naučil, jak dělat NÁSLEDNÉ ÚTOKY!\! Koukejte na tohle!
+     \>ŠNEČÍK: Taky jsem se naučil, jak dělat NÁSLEDNÉ ÚTOKY!\! Koukejte na tohle!
 
 message_957:
     text: >
-     \>ŠNEČEK: To bylo ale něco!\! Jsem skoro tak silný, jako vy!
+     \>ŠNEČÍK: To bylo ale něco!\! Jsem skoro tak silný, jako vy!
 
 #----------------------------
 # ** IN BATTLE: ŠNEČEK 3
@@ -2609,20 +2609,20 @@ message_957:
 
 message_958:
     text: >
-     \>ŠNEČEK: Už jsem se těšil, kdy vám zase budu moct ukázat, co nového jsem se naučil!\! Tentokrát se nekroťte!
+     \>ŠNEČÍK: Už jsem se těšil, kdy vám zase budu moct ukázat, co nového jsem se naučil!\! Tentokrát se nekroťte!
 
 message_959:
     text: >
-     \>ŠNEČEK: Nejste jediný, komu jsou EMOCE vhod!
+     \>ŠNEČÍK: Nejste jediný, komu jsou EMOCE vhod!
 
 message_960:
     text: >
-     \>ŠNEČEK: Jste opravdu silní\! ale teď přišla správná chvíle na můj ultimátní útok!
+     \>ŠNEČÍK: Jste opravdu silní\! ale teď přišla správná chvíle na můj ultimátní útok!
 
 message_961:
    text: >
-    ŠNEČEK je SMUTNÝ...
+    ŠNEČÍK je SMUTNÝ...
 
 message_962:
    text: >
-    ŠNEČEK má RADOST!
+    ŠNEČÍK má RADOST!

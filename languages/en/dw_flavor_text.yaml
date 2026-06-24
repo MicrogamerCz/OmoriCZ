@@ -17,7 +17,7 @@ message_1:
 #Butt Certificate Flag
 
 message_50:
-      text: \nAUBRYIN \c[4]TVRDOHLAVÝ DIPLOM\c[0].\!<br>\sinv[1]Tak majestátní...\|Tak krásný...
+      text: \nAUBRYIN \c[4]DIPLOM HLAVO-TVRDOSTI\c[0].\!<br>\sinv[1]Tak majestátní...\|Tak krásný...
 
 #============================
 
@@ -105,7 +105,7 @@ message_84:
       text: Konev.
 
 message_85:
-      text: Přál by sis zalít kytky?
+      text: Chtěl bys zalít kytky?
 
 #Sunflower:
 message_86:
@@ -125,11 +125,11 @@ message_89:
 
 #Cactus:
 message_90:
-      text: Kaktus.\! Odolný a bdělý.
+      text: Kaktus.\! Odolný a statný.
 
 #White Tulip:
 message_91:
-      text: White tulips.
+      text: Bílé tulipány.
 
 message_92:
       text: Kytka.
@@ -300,7 +300,7 @@ message_177:
       text: Letáky populárních turistických atrakcí.\! Jednou z nich je resort jménem \c[11]KONEČNÁ\c[0]. #bližší originálu
 
 message_178:
-      text: \"Navštivte \c[11]KONEČNOU\c[0], nově otevřenou v úchvatné \c[11]HLUBOKÉ STUDNĚ\c[0]!\! Užijte si tento stylový útěk, jen pár kilometrů za městem!\"
+      text: \"Navštivte \c[11]KONEČNOU\c[0], nově otevřenou v úchvatné \c[11]HLUBOKÉ STUDNĚ\c[0]!\! Dopřejte si stylovou dovolenou, jen pár kilometrů za městem!\"
 
 message_188:
       text: \"Utečte do výjimečného světa luxusu a komfortu a odejděte zcela změněn!\" #změněn místo přetvořen
@@ -384,7 +384,7 @@ message_194:
       text: Koní voda.
 
 message_195:
-      text: Zastávka.\!<br>Zdá se, že již nefunguje.
+      text: Zastávka.\!<br>Vypadá, že je mimo provoz.
 
 message_196:
       text: Zastávka PLUTOVY OBĚŽNÉ DRÁHY.\!<br>Počkáš zde na PLUTA?
@@ -402,7 +402,7 @@ message_199:
       text: Obraz vyzobrazující jistou otravnou osobu. #maty
 
 message_200:
-      text: Z tohoto kazeťáku hraje poměrně otravná písnička.
+      text: Z tohoto kazeťáku hraje písnička jisté otravné osoby.
 
 message_201:
       text: Knihovna plná knížek o jisté otravné osobě. #maty, ostatní změněny pro konzistenci
@@ -417,7 +417,7 @@ message_204:
       text: Prázdný hrnek.
 
 message_205:
-      text: Šťastná rodina.
+      text: Šťastná rodinka.
 
 message_206:
       text: Knihovna.
@@ -426,7 +426,7 @@ message_207:
       text: Extra široká postel... jako dělaná pro tříčlennou rodinu.
 
 message_208:
-      text: Knihovna plná DVDček.\! Tahle rodina si nahrává všechno. #vypouštím snad - bližší originálu
+      text: Knihovna plná DVDček.\! Tahle rodina si nahrává snad všechno. #vypouštím snad - bližší originálu
 
 #============================
 
@@ -442,7 +442,7 @@ message_212:
       text: \"NEJMENŠÍ KENTAUR - 1. MÍSTO\"
 
 message_213:
-      text: \"NEJVÍCE PIĎI KENTAUR - 1. MÍSTO\"
+      text: \"NEJVÍCE PIDI KENTAUR - 1. MÍSTO\"
 
 message_214:
       text: \"NEJZKONĚNĚJŠÍ KŮŇ - 1. MÍSTO\"
@@ -475,7 +475,7 @@ message_458:
       text: \"NEJLIDŠTĚJŠÍ ČLOVEK - CENA ZA ÚČAST\" #tady je to zřejmě myšlěno, že nevyhrál nic
 
 message_459:
-      text: \"NEJVÍCE PIĎI-MIĎI KENTAUR - 1. MÍSTO\"
+      text: \"NEJVÍCE PIDI-MIĎI KENTAUR - 1. MÍSTO\"
 
 
 #============================
@@ -535,16 +535,16 @@ message_234:
 #Map 131:
 
 message_235:
-      text: Automat na \c[3]VÁNICUK\c[0].\!<br>Vypadá, že bere \c[4]POUKAZY NA VÁNICUK\c[0].
+      text: Automat na \c[3]VÁNICUKY\c[0].\!<br>Vypadá, že bere \c[4]POUKAZY NA VÁNICUKY\c[0].
 
 message_236:
       text: \"MIMO PROVOZ. SYRUP DOŠEL.\" #přiroz
 
 message_237:
-      text: Automat na \c[3]VÁNICUK\c[0].\!<br>Vložíš do něj \c[4]POUKAZ NA VÁNICUK\c[0]?
+      text: Automat na \c[3]VÁNICUKY\c[0].\!<br>Vložíš do něj \c[4]POUKAZ NA VÁNICUKY\c[0]?
 
 message_238:
-      text: Z automatu na \c[3]VÁNICUK\c[0] vypadl \c[3]VÁNICUK\c[0].
+      text: Z automatu na \c[3]VÁNICUKY\c[0] vypadl \c[3]VÁNICUK\c[0].
 
 
 #============================
@@ -907,7 +907,7 @@ message_421:
       text: \“Ach.\| Den.\| Jaký to byl den.\| Překrásný den.\”
 
 message_422:
-      text: Našel jsi \c[13]TULÍTKO\c[0]. #pozn. možná by mohl zůstat jako bodypillow?
+      text: Našel jsi \c[13]BODY PILLOW\c[0]. #pozn. možná by mohl zůstat jako bodypillow?
 
 
 #RED liquid
@@ -988,7 +988,7 @@ message_521:
 #INFOMERCIALS
 
 message_530:
-      text: \n<REKLAMA>\}NÝNÍ SI MŮŽETE NECHAT VYRŮST CELOU SBÍRKU SRANDY...\| ZAJÍČCI, VČELIČKY, MEDVÍDCI...\| MILUJU SVÉHO NOVÉHO MAZLÍČKA! MŮŽU HO VZÍT KAMKOLIV...\| PODĚLTE SE...\| PÍSK, PÍSK, PÍSK...\| JESTLI JIM SE LÍBÍ, TAK JÁ HO MILUJU...
+      text: \n<REKLAMA>\}NÝNÍ SI MŮŽETE NECHAT VYRŮST CELOU SBÍRKU SRANDY...\| ZAJÍČCI, VČELIČKY, MEDVÍDCI...\| MILUJU SVÉHO NOVÉHO MAZLÍČKA! MŮŽU HO VZÍT KAMKOLIV...\| PODĚLTE SE...\| PÍSK, PÍSK, PÍSK...\|<br>JESTLI SE JIM LÍBÍ, TAK JÁ HO MILUJU...
 
 message_531:
       text: \n<REKLAMA>\}TOTÁLNÍ POHODLÍ...\| TEPLÍČKO...\| DO OBOU RUK...\| PŘÍMO PŘED VÁMI...\| OBSAHUJE PĚNU S VYSOKOU HUSTOTOU...\| TO JE ALE NÁPAD...\| ZAVOLEJTE HNED A OBJEDNEJTE JEN ZA 3000 MUŠLÍ...
@@ -1023,7 +1023,7 @@ message_550:
 
 
 message_552:
-      text: Barevná ruleta.
+      text: Kolo štěstí.
 
 #---
 
@@ -1056,7 +1056,7 @@ message_59:
       text: Obří stolek na líčení pro ZLATÍČČIN papundeklový ksicht. #viz výš
 
 message_590:
-      text: ZLATÍČČIN soukromý útěk. #tady potřebuju vidět, u čeho se to zobrazuje
+      text: ZLATÍČČINO soukromé útočiště. #tady potřebuju vidět, u čeho se to zobrazuje
 
 # JAWSUM portraits
 
@@ -1100,7 +1100,7 @@ message_567:
       text: Našel jsi \c[3]OVOCNOU ŠŤÁVU?\c[0].
 
 message_568:
-      text: Našel jsi \c[5]SBÍRKU POEZIE\c[0].
+      text: Našel jsi \c[5]SBÍRKU VERŠŮ\c[0].
 
 message_569:
       text: Skříň.
@@ -1111,7 +1111,7 @@ message_670:
 #---
 
 message_581:
-      text: Príma kolo. #trochu variace
+      text: Príma mašina. #trochu variace
 
 
 #---
@@ -1120,25 +1120,25 @@ message_581:
 
 #+1 EXP
 message_570:
-      text: Cítíš se o trochu lépe, než předtím.
+      text: Cítíš se, jako bys byl o trošku lepší než předtím.
 
 #+1 CLAM
 message_571:
-      text: Cítíš se o trochu bohatěji, než předtím.
+      text: Cítíš se, jako bys byl o trošku bohatší než předtím.
 
 #+1 JUICE
 message_572:
-      text: Cítíš se trochu veselejší, než předtím. #oprava
+      text: Cítíš se, jako bys byl o trošku veselejší než předtím. #oprava
 
 #+1 HEART
 message_573:
-      text: Cítíš se trochu zdravěji, než předtím.
+      text: Cítíš se, jako bys byl o trošku zdravější než předtím.
 
 message_666:
       text: BASILOVO \c[4]FOTOALBUM\c[0].
 
 message_667:
-      text: Nastoupíš na vlak?
+      text: Nastoupíš do vlaku?
 
 message_668:
       text: Zavazadlo.
@@ -1308,7 +1308,7 @@ message_848:
       text: Toust.
 
 message_849:
-      text: Záhadná polévka.
+      text: Podivná polévka.
 
 #CASINO
 
@@ -1327,7 +1327,7 @@ message_855:
       text: Odpad.
 
 message_856:
-      text: Jaderný odpak.
+      text: Jaderný odpad.
 
 message_857:
       text: Nástroje pro... výzkum.
@@ -1342,13 +1342,13 @@ message_860:
 #Yellow Sub
 
 message_900:
-      text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]DŽEM ŽIVOTA\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]COMBO MEAL\c[0]!\" #překlad, dodělat názvy
+      text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]DŽEM ŽIVOTA\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]MENÍČKO\c[0]!\" #překlad, dodělat názvy
 
 message_901:
       text: Letáky.
 
 message_902:
-      text: \"KAŽDOROČNÍ \c[11]HLUBOKOSTUDNOVÁ\c[0] SOUTĚŽ TANCE A ZPĚVU -<br>1. MÍSTO DRŽÍ PITSTOP PIROUETTES\" #překlad, dodělat název skupiny
+      text: \"KAŽDOROČNÍ \c[11]HLUBOKOSTUDNOVÁ\c[0] SOUTĚŽ TANCE A ZPĚVU -<br>1. MÍSTO DRŽÍ ZPĚVAČKY ZE ZASTÁVKY\" #překlad, dodělat název skupiny
 
 message_903:
       text: Polička plná kytek.\! Voní jako jaro.
@@ -1433,7 +1433,7 @@ message_932:
       text: Pomeranče, na kterých jsou napsány poznámky.
 
 message_933:
-      text: \"Mému milému bratru POMERAČNOVÉMU JOEMU.\! Doufám, že se k tobě tato zpráva donese.\! Vrať se prosím domů.\" #tohle je o oraGNe Joeovy, ne oreNGe joeovy, to jsou dvě postavy
+      text: \"Mému milému bratru POREMAČNOVÉMU JOEMU.\! Doufám, že se k tobě tato zpráva donese.\! Vrať se prosím domů.\" #tohle je o oraGNe Joeovy, ne oreNGe joeovy, to jsou dvě postavy
 
 message_934:
       text: Pomerančovité ovoce.
@@ -1495,7 +1495,7 @@ message_951:
 #orange Oasis
 
 message_952:
-      text: Ty krávo.
+      text: Ty krávo...
 
 #girls bathroom
 
