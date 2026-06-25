@@ -70,7 +70,7 @@ Map_Display_Names:
   131: LEDOVÝ RYBNÍK
   140: SNEŽÍTKOVÝ VRCH
   145: SMETIŠTĚ
-  150: SMETIĚTĚ
+  150: SMETIŠTĚ
   158: ORO-BINEC
   162: ZTRACENÝ LES
   164: LES SVĚTLUŠEK
@@ -375,7 +375,7 @@ Window_OmoWindowIndexCursor:
   refresh_draw_text_position: [0, -13] # OMORI BASE line 3976
 
 Window_NameBox:
-  refresh_draw_text_position: ["padding", -14] # OMORI BASE line 4634
+  refresh_draw_text_position: ["padding", -9] # OMORI BASE line 4634
   standardFontSize: "$gameSystem.getMessageFontSize()" # YEP MESSAGE CORE line 1094
 
 Window_OmoriBattleActorStatus:

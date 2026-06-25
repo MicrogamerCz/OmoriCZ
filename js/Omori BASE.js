@@ -4615,7 +4615,7 @@ Window_Message.prototype.wordwrapWidth = function(){
 // * Settings
 //=============================================================================
 Window_NameBox.prototype.standardPadding = function() { return 12; };
-Window_NameBox.prototype.lineHeight = function() { return 20; };
+Window_NameBox.prototype.lineHeight = function() { return 20 + 5; };
 //=============================================================================
 // * Openness Type (0: Vertical, 1: Horizontal, 2: All)
 //=============================================================================
