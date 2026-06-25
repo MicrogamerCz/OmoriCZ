@@ -503,7 +503,7 @@ DataManager.getItemIconGraphicsData = function(item) {
 //=============================================================================
 // * Get Blackletter hangman word
 //=============================================================================
-DataManager.hangmanWord = function() { return "VITEJTE V CERNE CIMRE"; };
+DataManager.hangmanWord = function() { return "VITEJ V CERNOPROSTORU"; };
 //=============================================================================
 // * Get Blackletter Collection State (Completed, Failed, Incomplete)
 //=============================================================================
