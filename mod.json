@@ -18,7 +18,8 @@
       "img/animations/",
       "img/slotmachine/",
       "img/faces/",
-      "img/pictures/sequence/"
+      "img/pictures/sequence/",
+      "fonts/"
     ],
     "exec": [],
     "fonts": ["fonts/"]

@@ -71,7 +71,7 @@ message_8:
       text: \spxhKAPITÁN... VESMÍRŇÁK?\! Kdo to je?\!<br>Já jsem nic.\! Jsem očištěn.\! Jsem chladný, jako led.
 
 message_9:
-    faceset: MainCharacters_DreamWorld
+      faceset: MainCharacters_DreamWorld
       faceindex: 5 #replace
       text: \aubUff... S takovou nás nikdy neposlechne...\!<br>Co teď?
 
