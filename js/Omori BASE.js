@@ -710,7 +710,7 @@ ConfigManager.applyData = function(config) {
 ConfigManager.setDefaultKeyboardKeyMap = function() {
   Input.keyMapper = {
       9: 'tab',       // tab
-      90: 'ok',       // enter
+      89: 'ok',       // enter (mělo by být Y podle *standardní české* QWERTZ klávesnice)
       16: 'shift',    // shift
       17: 'control',  // control
       65: 'tag',      // A
