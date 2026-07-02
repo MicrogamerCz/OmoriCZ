@@ -562,7 +562,7 @@ message_407:
 # =========================================================================================
 
 message_400:
-      text: Vidíš chlapce spícího v posteli.\! Jak se jmenuje? #přeloženo
+      text: Vidíš chlapce spícího v posteli. #přeloženo
 message_401:
       text: Nemáš žádné vzkazy.
 message_402:
