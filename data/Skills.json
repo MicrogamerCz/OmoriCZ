@@ -793,7 +793,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Vždy způsobí kritický zásah.<br>\nJe-li OMORI SMUTNÝ, ignoruje OBRANU protivníka. Stojí 13 ŠŤÁVY.",
+    "description": "Vždy způsobí kritický zásah. Je-li OMORI SMUTNÝ,\nignoruje OBRANU protivníka. Stojí 13 ŠŤÁVY.",
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
@@ -3230,7 +3230,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Zvýší poškození, které KEL příští tah způsobí,<br>\nspolečně s POČTEM ÚDERŮ dalšího útoku. Stojí 10 ŠŤÁVY.",
+    "description": "Zvýší poškození a POČET ÚDERŮ, které KEL\npříští tah způsobí. Stojí 10 ŠŤÁVY.",
     "effects": [{ "code": 21, "dataId": 33, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 0,
