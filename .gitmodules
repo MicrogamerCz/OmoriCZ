@@ -1,3 +1,0 @@
-[submodule "src/VDF"]
-	path = src/VDF
-	url = git@github.com:TinyTinni/ValveFileVDF.git
