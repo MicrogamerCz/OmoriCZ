@@ -8,3 +8,7 @@ OmoriCZ
 *DotSettings.user
 
 *.html
+
+android
+build/
+.qmlls.ini
