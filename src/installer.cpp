@@ -4,7 +4,6 @@
 #include "installer.h"
 #include <VDF/include/vdf_parser.hpp>
 #include <fstream>
-#include <memory>
 #include <qdir.h>
 #include <qurl.h>
 

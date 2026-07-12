@@ -1,54 +1,19 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 // SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 
+#include "installer.h"
 #include "omoributton.h"
 #include "omoricard.h"
-#include "omoriradio.h"
-#include <QPushButton>
-#include <QtGlobal>
-#include <qboxlayout.h>
-#include <qcolor.h>
-#include <qfont.h>
-#include <qfontinfo.h>
-#include <qinputmethod.h>
-#include <qkeysequence.h>
-#include <qlabel.h>
-#include <qmargins.h>
-#include <qnamespace.h>
-#include <qobject.h>
-#include <qpalette.h>
-#include <qsize.h>
-#include <qsizepolicy.h>
-#include <qwidget.h>
-#include <qwindow.h>
-#ifdef Q_OS_ANDROID
-#include <QGuiApplication>
-#else
+#include "omoriprogressbar.h"
+#include "optionsmessagecard.h"
 #include <QApplication>
-#endif
-
-#include <KAboutData>
-#include <KLocalizedContext>
-#include <KLocalizedString>
-#include <QFont>
 #include <QFontDatabase>
-#include <QIcon>
 #include <QLabel>
-#include <QQmlApplicationEngine>
-#include <QQmlContext>
-#include <QQuickStyle>
-#include <QShortcut>
-#include <QSizePolicy>
-#include <QStackedLayout>
-#include <QStringLiteral>
-#include <QUrl>
 #include <QVBoxLayout>
-#include <QWidget>
-#include <QWindow>
-
-#include "omoricard.h"
-// #include "version-omopatch.h"
-// #include "omopatchconfig.h"
+#include <qapplication.h>
+#include <qboxlayout.h>
+#include <qobject.h>
+#include <qwidget.h>
 
 using namespace Qt::Literals::StringLiterals;
 

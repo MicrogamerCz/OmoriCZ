@@ -3,10 +3,6 @@
 
 #include "omoricard.h"
 #include <QPainter>
-#include <qmargins.h>
-#include <qobject.h>
-#include <qtpreprocessorsupport.h>
-#include <qwidget.h>
 
 OmoriCard::OmoriCard(QWidget *parent) : QWidget(parent) {
     int margin = 20;

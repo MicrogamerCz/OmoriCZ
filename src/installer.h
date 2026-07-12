@@ -5,9 +5,7 @@
 
 #include <QObject>
 #include <QtGlobal>
-#include <QtQmlIntegration>
 #include <qobject.h>
-#include <qtmetamacros.h>
 #include <qurl.h>
 
 using namespace Qt::Literals::StringLiterals;
