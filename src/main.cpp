@@ -1,7 +1,5 @@
-/*
-    SPDX-License-Identifier: GPL-2.0-or-later
-    SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
-*/
+// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 
 #include "omoributton.h"
 #include "omoricard.h"

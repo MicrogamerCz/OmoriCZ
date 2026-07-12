@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
+
 #include "installer.h"
 #include <VDF/include/vdf_parser.hpp>
 #include <fstream>
