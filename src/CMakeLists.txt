@@ -7,8 +7,8 @@ qt_add_qml_module(omopatch_static
     URI org.kde.omopatch
     VERSION 1.0
     RESOURCES
-        contents/OMORI_GAME2.ttf
-        contents/radio.png
+        # contents/OMORI_GAME2.ttf
+        # contents/radio.png
         contents/progress/a1.png
         contents/progress/a2.png
         contents/progress/a3.png
@@ -41,7 +41,11 @@ qt_add_qml_module(omopatch_static
 
 target_compile_options (omopatch_static PUBLIC -fexceptions -Wno-undef)
 
-target_sources(omopatch_static PUBLIC installer.cpp)
+target_sources(omopatch_static PUBLIC
+  installer.cpp
+  omoricard.cpp
+  omoriradio.cpp
+  omoributton.cpp)
 
 target_link_libraries(omopatch_static PUBLIC
     Qt6::Core
@@ -50,23 +54,29 @@ target_link_libraries(omopatch_static PUBLIC
     Qt6::Quick
     Qt6::QuickControls2
     Qt6::Svg
+    Qt6::Widgets
     KF6::I18n
     KF6::CoreAddons
 )
 target_include_directories(omopatch_static PUBLIC ${CMAKE_BINARY_DIR})
 
 if (ANDROID)
-    kirigami_package_breeze_icons(ICONS
+  kirigami_package_breeze_icons(ICONS
         list-add
         help-about
         application-exit
         applications-graphics
     )
 else()
-    target_link_libraries(omopatch_static PUBLIC Qt::Widgets)
+  target_link_libraries(omopatch_static PUBLIC Qt::Widgets)
 endif()
 
 # Target: main executable
-add_executable(omopatch main.cpp)
+qt_add_executable(omopatch main.cpp)
+qt_add_resources(omopatch "assets"
+  PREFIX "/"
+  FILES contents/OMORI_GAME2.ttf
+  FILES contents/radio.png
+)
 target_link_libraries(omopatch PUBLIC omopatch_static omopatch_staticplugin)
 install(TARGETS omopatch ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})

@@ -3,7 +3,26 @@
     SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 */
 
+#include "omoributton.h"
+#include "omoricard.h"
+#include "omoriradio.h"
+#include <QPushButton>
 #include <QtGlobal>
+#include <qboxlayout.h>
+#include <qcolor.h>
+#include <qfont.h>
+#include <qfontinfo.h>
+#include <qinputmethod.h>
+#include <qkeysequence.h>
+#include <qlabel.h>
+#include <qmargins.h>
+#include <qnamespace.h>
+#include <qobject.h>
+#include <qpalette.h>
+#include <qsize.h>
+#include <qsizepolicy.h>
+#include <qwidget.h>
+#include <qwindow.h>
 #ifdef Q_OS_ANDROID
 #include <QGuiApplication>
 #else
@@ -13,13 +32,23 @@
 #include <KAboutData>
 #include <KLocalizedContext>
 #include <KLocalizedString>
+#include <QFont>
+#include <QFontDatabase>
 #include <QIcon>
+#include <QLabel>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QQuickStyle>
+#include <QShortcut>
+#include <QSizePolicy>
+#include <QStackedLayout>
 #include <QStringLiteral>
 #include <QUrl>
+#include <QVBoxLayout>
+#include <QWidget>
+#include <QWindow>
 
+#include "omoricard.h"
 // #include "version-omopatch.h"
 // #include "omopatchconfig.h"
 
@@ -34,6 +63,66 @@ int main(int argc, char *argv[]) {
 #else
     QApplication app(argc, argv);
 #endif
+
+    QFontDatabase::addApplicationFont(u":/contents/OMORI_GAME2.ttf"_s);
+    app.setFont(QFont(QFontDatabase::applicationFontFamilies(0)));
+
+    QPalette omoriPalette;
+    omoriPalette.setColor(QPalette::Window, Qt::white);
+    omoriPalette.setColor(QPalette::WindowText, Qt::white);
+
+    QWidget window(nullptr, Qt::FramelessWindowHint);
+    window.setPalette(omoriPalette);
+    window.setFixedSize(800, 420);
+    int padding = 5;
+    window.setContentsMargins(padding, padding, padding, padding);
+
+    OmoriCard headerCard;
+    QVBoxLayout headerLayout(&headerCard);
+    QLabel header(u"INSTALACE ČESKÉ LOKALIZACE OMORI"_s);
+    headerLayout.addWidget(&header);
+    header.setAlignment(Qt::AlignCenter);
+    QFont headerFont = header.font();
+    headerFont.setPixelSize(42);
+    header.setFont(headerFont);
+
+    OmoriCard optionsCard;
+    QVBoxLayout hangmanOptionLayout;
+    QLabel hangmanLabel(u"Vytvořit zálohu savů?"_s);
+    headerFont.setPixelSize(36);
+    hangmanLabel.setFont(headerFont);
+    QHBoxLayout radioLayout;
+    OmoriRadio noButton(u"Ne"_s);
+    OmoriRadio yesButton(u"Ano"_s);
+    radioLayout.addWidget(&noButton);
+    radioLayout.addWidget(&yesButton);
+    radioLayout.addStretch();
+    radioLayout.setSpacing(20);
+    hangmanOptionLayout.addWidget(&hangmanLabel);
+    hangmanOptionLayout.addLayout(&radioLayout);
+    hangmanOptionLayout.setSpacing(20);
+    hangmanOptionLayout.setAlignment(Qt::AlignVCenter);
+    optionsCard.setLayout(&hangmanOptionLayout);
+
+    OmoriCard installCard;
+    QHBoxLayout buttonsLayout;
+    buttonsLayout.setSpacing(30);
+    OmoriButton installButton(u"Nainstalovat"_s);
+    OmoriButton closeButton(u"Zavřít"_s);
+    buttonsLayout.addWidget(&installButton);
+    buttonsLayout.addWidget(&closeButton);
+    buttonsLayout.addStretch();
+    installCard.setLayout(&buttonsLayout);
+
+    QVBoxLayout layout;
+    // layout.addLayout(&headerContainer, 1);
+    layout.addWidget(&headerCard);
+    layout.addWidget(&optionsCard, 1);
+    layout.addWidget(&installCard);
+
+    window.setLayout(&layout);
+    window.show();
+    return app.exec();
 
 #ifdef Q_OS_WINDOWS
     if (AttachConsole(ATTACH_PARENT_PROCESS)) {
