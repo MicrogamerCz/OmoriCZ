@@ -12,11 +12,6 @@ using namespace Qt::Literals::StringLiterals;
 
 class Installer : public QObject {
     Q_OBJECT
-    QML_ELEMENT
-    QML_SINGLETON
-
-    Q_PROPERTY(QString message MEMBER m_message NOTIFY dataChanged)
-    Q_PROPERTY(int progress MEMBER m_progress NOTIFY dataChanged)
 
     const QString omoriSteamID = u"1150690"_s;
 #ifdef Q_OS_LINUX

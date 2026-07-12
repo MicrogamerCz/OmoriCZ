@@ -17,18 +17,19 @@
 
 using namespace Qt::Literals::StringLiterals;
 
-#ifdef Q_OS_ANDROID
-Q_DECL_EXPORT
-#endif
+void setWidgetFontSize(QWidget &widget, QFont &font, int size) {
+    font.setPixelSize(size);
+    widget.setFont(font);
+}
+
 int main(int argc, char *argv[]) {
-#ifdef Q_OS_ANDROID
-    QGuiApplication app(argc, argv);
-#else
     QApplication app(argc, argv);
-#endif
+
+    Installer installer;
 
     QFontDatabase::addApplicationFont(u":/contents/OMORI_GAME2.ttf"_s);
-    app.setFont(QFont(QFontDatabase::applicationFontFamilies(0)));
+    QFont omoriFont(QFontDatabase::applicationFontFamilies(0));
+    app.setFont(omoriFont);
 
     QPalette omoriPalette;
     omoriPalette.setColor(QPalette::Window, Qt::white);
@@ -45,27 +46,9 @@ int main(int argc, char *argv[]) {
     QLabel header(u"INSTALACE ČESKÉ LOKALIZACE OMORI"_s);
     headerLayout.addWidget(&header);
     header.setAlignment(Qt::AlignCenter);
-    QFont headerFont = header.font();
-    headerFont.setPixelSize(42);
-    header.setFont(headerFont);
+    setWidgetFontSize(header, omoriFont, 42);
 
-    OmoriCard optionsCard;
-    QVBoxLayout hangmanOptionLayout;
-    QLabel hangmanLabel(u"Vytvořit zálohu savů?"_s);
-    headerFont.setPixelSize(36);
-    hangmanLabel.setFont(headerFont);
-    QHBoxLayout radioLayout;
-    OmoriRadio noButton(u"Ne"_s);
-    OmoriRadio yesButton(u"Ano"_s);
-    radioLayout.addWidget(&noButton);
-    radioLayout.addWidget(&yesButton);
-    radioLayout.addStretch();
-    radioLayout.setSpacing(20);
-    hangmanOptionLayout.addWidget(&hangmanLabel);
-    hangmanOptionLayout.addLayout(&radioLayout);
-    hangmanOptionLayout.setSpacing(20);
-    hangmanOptionLayout.setAlignment(Qt::AlignVCenter);
-    optionsCard.setLayout(&hangmanOptionLayout);
+    OptionsMessageCard optionsMessageCard;
 
     OmoriCard installCard;
     QHBoxLayout buttonsLayout;
@@ -76,57 +59,19 @@ int main(int argc, char *argv[]) {
     buttonsLayout.addWidget(&closeButton);
     buttonsLayout.addStretch();
     installCard.setLayout(&buttonsLayout);
+    QVBoxLayout progressLayout;
+    OmoriProgressBar progressBar;
+    progressLayout.addWidget(&progressBar);
 
     QVBoxLayout layout;
-    // layout.addLayout(&headerContainer, 1);
     layout.addWidget(&headerCard);
-    layout.addWidget(&optionsCard, 1);
+    layout.addWidget(&optionsMessageCard, 1);
     layout.addWidget(&installCard);
+
+    QObject::connect(&installButton, &OmoriButton::clicked, &installer, &Installer::beginSetup);
+    QObject::connect(&closeButton, &OmoriButton::clicked, &app, &QApplication::exit);
 
     window.setLayout(&layout);
     window.show();
-    return app.exec();
-
-#ifdef Q_OS_WINDOWS
-    if (AttachConsole(ATTACH_PARENT_PROCESS)) {
-        freopen("CONOUT$", "w", stdout);
-        freopen("CONOUT$", "w", stderr);
-    }
-
-    auto font = app.font(); // TODO: change for app-wide font
-    font.setPointSize(10);
-    app.setFont(font);
-#endif
-
-    KLocalizedString::setApplicationDomain("omopatch");
-    QCoreApplication::setOrganizationName(u"KDE"_s);
-
-    KAboutData aboutData(
-        // The program name used internally.
-        u"omopatch"_s,
-        // A displayable program name string.
-        i18nc("@title", "Omopatch"),
-        // The program version string.
-        QStringLiteral("0.0.1"),
-        // Short description of what the app does.
-        i18n("Application Description"),
-        // The license this code is released under.
-        KAboutLicense::GPL,
-        // Copyright Statement.
-        i18n("(c) 2026"));
-    aboutData.addAuthor(i18nc("@info:credit", "Micro"), i18nc("@info:credit", "Maintainer"), u"microgamercz@proton.me"_s, u"https://yourwebsite.com"_s);
-    aboutData.setTranslator(i18nc("NAME OF TRANSLATORS", "Your names"), i18nc("EMAIL OF TRANSLATORS", "Your emails"));
-    KAboutData::setApplicationData(aboutData);
-    QGuiApplication::setWindowIcon(QIcon::fromTheme(u"org.kde.omopatch"_s));
-
-    QQmlApplicationEngine engine;
-
-    engine.rootContext()->setContextObject(new KLocalizedContext(&engine));
-    engine.loadFromModule("org.kde.omopatch", u"Main");
-
-    if (engine.rootObjects().isEmpty()) {
-        return -1;
-    }
-
     return app.exec();
 }
