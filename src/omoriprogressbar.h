@@ -21,6 +21,7 @@ class OmoriProgressBar : public QWidget {
   protected:
     void paintEvent(QPaintEvent *event) override;
     void resizeEvent(QResizeEvent *event) override;
+    int heightForWidth(int w) const override;
 
   private:
     void updateVariant();

@@ -6,6 +6,7 @@
 #include <QObject>
 #include <QtGlobal>
 #include <qobject.h>
+#include <qtmetamacros.h>
 #include <qurl.h>
 
 using namespace Qt::Literals::StringLiterals;
@@ -21,11 +22,13 @@ class Installer : public QObject {
 #else
     const QUrl steamPath = QUrl::fromLocalFile(u"~/Library/Application Support/Steam/steamapps/"_s);
 #endif
-    QString m_message;
     int m_progress;
 
   public:
     Installer(QObject *parent = nullptr);
-    Q_SIGNAL void dataChanged();
     Q_SLOT void beginSetup();
+  Q_SIGNALS:
+    void progressChanged(int progress);
+    void messageChanged(const QString &message);
+    void installingChanged(bool installing);
 };

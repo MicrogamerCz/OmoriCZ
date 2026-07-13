@@ -13,17 +13,17 @@ Installer::Installer(QObject *parent) : QObject(parent), m_progress(0) {
 }
 
 void Installer::beginSetup() {
-    m_progress = 0;
-    m_message = u"Příprava"_s;
-    Q_EMIT dataChanged();
+    Q_EMIT installingChanged(true);
+
+    Q_EMIT progressChanged(m_progress = 1);
+    Q_EMIT messageChanged(u"Příprava"_s);
 
     QString libraryFoldersPath = steamPath.resolved(QUrl(u"./libraryfolders.vdf"_s)).toLocalFile();
-    qDebug() << "Library folders path: " << libraryFoldersPath.toStdString();
+
     std::ifstream libraryFoldersFile(libraryFoldersPath.toStdString());
     if (!libraryFoldersFile.is_open()) {
-        m_progress = 10;
-        m_message = u"Nepodařilo se otevřít "_s + libraryFoldersPath;
-        Q_EMIT dataChanged();
+        Q_EMIT progressChanged(m_progress = 10);
+        Q_EMIT messageChanged(u"Nepodařilo se otevřít "_s + libraryFoldersPath);
         return;
     }
 

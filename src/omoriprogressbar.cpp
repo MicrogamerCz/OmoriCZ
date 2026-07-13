@@ -5,15 +5,24 @@
 
 #include <QPainter>
 #include <QTimer>
+#include <qbrush.h>
+#include <qmargins.h>
+#include <qnamespace.h>
+#include <qsize.h>
 
 using namespace Qt::Literals::StringLiterals;
 
 OmoriProgressBar::OmoriProgressBar(QWidget *parent) : QWidget(parent) {
     setSizePolicy(QSizePolicy::Expanding, QSizePolicy::Expanding);
 
+    QSizePolicy sp = sizePolicy();
+    sp.setHeightForWidth(true);
+    setSizePolicy(sp);
+
     for (int v = 0; v < 2; v++) {
-        for (int i = 1; i <= 10; i++)
-            m_frames[v][i] = QPixmap(u":/contents/progress/%1%2.png"_s.arg(v ? "a" : "b").arg(i));
+        for (int i = 1; i <= 10; i++) {
+            m_frames[v][i - 1] = QPixmap(u":/contents/progress/%1%2.png"_s.arg(v ? "a" : "b").arg(i));
+        }
     }
     m_pixmapSize = m_frames[0][0].size();
 
@@ -52,11 +61,19 @@ QSize OmoriProgressBar::sizeHint() const {
 }
 
 QSize OmoriProgressBar::minimumSizeHint() const {
-    return QSize(0, 0);
+    return m_pixmapSize; // QSize(0, 0);
 }
 
 void OmoriProgressBar::resizeEvent(QResizeEvent *event) {
     QWidget::resizeEvent(event);
+}
+
+int OmoriProgressBar::heightForWidth(int w) const {
+    if (m_pixmapSize.width() <= 0)
+        return -1;
+    const int innerW = qMax(0, w - 4);
+    const int innerH = qRound(qreal(innerW) * m_pixmapSize.height() / m_pixmapSize.width());
+    return innerH + 4;
 }
 
 void OmoriProgressBar::paintEvent(QPaintEvent *event) {
@@ -69,8 +86,7 @@ void OmoriProgressBar::paintEvent(QPaintEvent *event) {
     if (frame.isNull())
         return;
 
-    // PreserveAspectFit: scale proportionally to fit within widget bounds
-    const QSize scaled = frame.size().scaled(size() - QSize(4, 4), Qt::KeepAspectRatio); // 2px padding on each side
+    const QSize scaled = frame.size().scaled(size() - QSize(4, 4), Qt::KeepAspectRatio);
     const QPoint offset = QPoint((width() - scaled.width()) / 2, (height() - scaled.height()) / 2);
 
     painter.drawPixmap(QRect(offset, scaled), frame);

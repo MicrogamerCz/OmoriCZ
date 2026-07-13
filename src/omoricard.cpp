@@ -3,10 +3,23 @@
 
 #include "omoricard.h"
 #include <QPainter>
+#include <qnamespace.h>
+#include <qoverload.h>
+#include <qwidget.h>
 
 OmoriCard::OmoriCard(QWidget *parent) : QWidget(parent) {
     int margin = 20;
     setContentsMargins(margin * 2, margin, margin * 2, margin);
+
+    connect(this, &OmoriCard::innerFrameChanged, this, QOverload<>::of(&OmoriCard::update));
+}
+
+bool OmoriCard::innerFrame() const {
+    return m_innerFrame;
+}
+void OmoriCard::setInnerFrame(bool infr) {
+    m_innerFrame = infr;
+    Q_EMIT innerFrameChanged(infr);
 }
 
 void OmoriCard::resizeEvent(QResizeEvent *event) {
@@ -25,10 +38,14 @@ void OmoriCard::resizeEvent(QResizeEvent *event) {
 
 void OmoriCard::paintEvent(QPaintEvent *) {
     QPainter p(this);
-    p.fillRect(rect(), Qt::white);
+    p.setRenderHint(QPainter::Antialiasing, false);
 
-    p.setPen(QPen(Qt::black, 2));
-    p.drawRect(rect().adjusted(1, 1, -1, -1));
-
+    p.fillRect(rect(), Qt::black);
+    p.fillRect(rect().adjusted(2, 2, -2, -2), Qt::white);
     p.fillRect(rect().adjusted(9, 9, -9, -9), Qt::black);
+
+    if (!innerFrame())
+        return;
+
+    p.fillRect(rect().adjusted(11, 11, -11, -11), Qt::white);
 }

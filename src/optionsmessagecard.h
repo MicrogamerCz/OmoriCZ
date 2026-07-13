@@ -3,6 +3,7 @@
 
 #pragma once
 #include "omoricard.h"
+#include <qlabel.h>
 #include <qtmetamacros.h>
 
 using namespace Qt::Literals::StringLiterals;
@@ -14,4 +15,7 @@ class OptionsMessageCard : public OmoriCard {
 
   public:
     OptionsMessageCard();
+
+    void resetMessage();
+    Q_SIGNAL void setMessage(const QString &string);
 };

@@ -10,6 +10,7 @@
 #include <QFontDatabase>
 #include <QLabel>
 #include <QVBoxLayout>
+#include <pthread.h>
 #include <qapplication.h>
 #include <qboxlayout.h>
 #include <qobject.h>
@@ -59,15 +60,27 @@ int main(int argc, char *argv[]) {
     buttonsLayout.addWidget(&closeButton);
     buttonsLayout.addStretch();
     installCard.setLayout(&buttonsLayout);
-    QVBoxLayout progressLayout;
+
     OmoriProgressBar progressBar;
-    progressLayout.addWidget(&progressBar);
+    // progressBar.setMinimumHeight(60);
+    progressBar.setVisible(false);
+    buttonsLayout.addWidget(&progressBar, 1);
 
     QVBoxLayout layout;
     layout.addWidget(&headerCard);
     layout.addWidget(&optionsMessageCard, 1);
     layout.addWidget(&installCard);
 
+    QObject::connect(&installer, &Installer::messageChanged, &optionsMessageCard, &OptionsMessageCard::setMessage);
+    QObject::connect(&installer, &Installer::installingChanged, &progressBar, &OmoriProgressBar::setVisible);
+    QObject::connect(&installer, &Installer::installingChanged, &installCard, &OmoriCard::setInnerFrame);
+    QObject::connect(&installer, &Installer::installingChanged, [&installButton, &closeButton, &optionsMessageCard](bool installing) {
+        installButton.setVisible(!installing);
+        closeButton.setVisible(!installing);
+
+        if (!installing)
+            optionsMessageCard.resetMessage();
+    });
     QObject::connect(&installButton, &OmoriButton::clicked, &installer, &Installer::beginSetup);
     QObject::connect(&closeButton, &OmoriButton::clicked, &app, &QApplication::exit);
 
