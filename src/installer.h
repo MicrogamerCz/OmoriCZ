@@ -3,32 +3,47 @@
 
 #pragma once
 
+#include <QNetworkAccessManager>
 #include <QObject>
 #include <QtGlobal>
+#include <QtQml/qqmlengine.h>
 #include <qobject.h>
 #include <qtmetamacros.h>
-#include <qurl.h>
 
 using namespace Qt::Literals::StringLiterals;
 
 class Installer : public QObject {
     Q_OBJECT
 
-    const QString omoriSteamID = u"1150690"_s;
+    const std::string omoriSteamID = "1150690";
+    const QUrl relativeModsPath = QUrl(u"./www/mods"_s);
+    const QUrl relativeOneloaderPath = QUrl(u"./www/modloader"_s);
+    const QUrl relativeSavesPath = QUrl(u"./www/save"_s);
+
 #ifdef Q_OS_LINUX
-    const QUrl steamPath = QUrl::fromLocalFile(u"~/.local/share/Steam/steamapps"_s);
+    const QUrl steamPath = QUrl::fromLocalFile(qEnvironmentVariable("HOME") + u"/.local/share/Steam/steamapps/"_s);
 #elifdef Q_OS_WINDOWS
     const QUrl steamPath = QUrl::fromLocalFile(u"C:\\Program Files (x86)\\Steam\\steamapps\\"_s);
-#else
+#elifdef Q_OS_MACOS
     const QUrl steamPath = QUrl::fromLocalFile(u"~/Library/Application Support/Steam/steamapps/"_s);
 #endif
+
+    QString componentName;
     int m_progress;
+    QNetworkAccessManager nam;
+
+    QString getLibraryPath();
+    QNetworkRequest githubLatestRequest(const QString &owner, const QString &repo);
+    void updateProgress(qint64 bytesReceived, qint64 bytesTotal);
+    void installOneloader(QNetworkReply *reply);
+    void downloadTranslation();
+    void installTranslation(QNetworkReply *reply);
 
   public:
     Installer(QObject *parent = nullptr);
     Q_SLOT void beginSetup();
   Q_SIGNALS:
-    void progressChanged(int progress);
+    void progressChanged(qreal progress);
     void messageChanged(const QString &message);
     void installingChanged(bool installing);
 };

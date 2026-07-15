@@ -71,6 +71,7 @@ int main(int argc, char *argv[]) {
     layout.addWidget(&optionsMessageCard, 1);
     layout.addWidget(&installCard);
 
+    QObject::connect(&installer, &Installer::progressChanged, &progressBar, &OmoriProgressBar::setValue);
     QObject::connect(&installer, &Installer::messageChanged, &optionsMessageCard, &OptionsMessageCard::setMessage);
     QObject::connect(&installer, &Installer::installingChanged, &progressBar, &OmoriProgressBar::setVisible);
     QObject::connect(&installer, &Installer::installingChanged, &installCard, &OmoriCard::setInnerFrame);
