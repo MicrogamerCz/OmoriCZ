@@ -282,61 +282,61 @@ Omori_Title_Screen:
 # original coder. - BLUEMOON
 # =========================================================================================
 
-Yin_Pizza_Delivery:
+Yin_Pizza_Delivery: # NEPŘEKLÁDAT JINAK TO ROZBIJE PIZZA MINIHRU !!!
   houseHints:
-    1: ["Plechovkama Na Dvoře", "Červeným Pickupem", "Zelenou Rohožkou", "Plechovkama U Smetí", "Ošuntělou Hnědou Střechou", "Zátaraseným Oknem", "Cihlovou Fasádou", "Chybějícím Plotem", "Kořeny Na Dvoře", "Kytkama U Vjezdu", "Řadou Popelnic Před Ním"]
-    2: ["Tmavě Zeleným Pickupem", "Fialovou Rohožkou", "Kamenným Komínem Vystrkujícím Ze Žluté Střechy", "Žlutýma Dveřma A Okny", "Oknama Ve Dveřích"]
-    3: ["Bílou Rohožkou", "Tmavě Růžovýma Dveřma", "Tetherballem Na Dvoře", "Růžovou Střechou", "Jedním Růžovým Oknem", "Fialovýma Kytkama U Okna"]
-    4: ["Šedou Rohožkou", "Oranžovýma Dveřma", "Kužely Před Vjezdem", "Světle Modrou Střechou", "Žebříkem U Stromu"]
-    5: ["Šedým Oknem", "Velikým Kamenem Na Dvoře", "Kytkama U Velikého Kamene", "Fialovou Rohožkou", "Oranžovou Střechou", "Cihlovou Fasádou", "Chybějícíma Popelnicema"]
-    6: ["Bílýma Dveřma", "Tmavě Modrou Střechou S Kamenným Komínem", "Ošuntělou Fasádou", "Malířským Stojanem Na Dvoře", "Kytkama Na Dvoře"]
-    7: ["Červeným Pickupem", "Světle Žlutýma Dvěřma S Okny", "Krabicema Na Dvoře", "Fialovýma Kytkama U Žlutého Okna", "Tmavě Fialovou Rohožkou", "Chybějící Popelnicí", "Červenou Střechou", "Chybějícím Plotem"]
-    8: ["Fialovou Střechou S Komínem", "Nepořádkem Na Dvoře", "Hnědou Rohožkou", "Chybějícím Plotem", "Žebříkem U Vchodu", "Hydrantem Vepředu", "Tmavě Červenýma Dveřma"]
-    9: ["Světle Hnědou Střechou", "Růžovýma Dveřma", "Šedým Pickupem", "Chybějícím Plotem"]
-    10: ["Žlutou Střechou", "Pneumatikama Na Dvoře", "Bílýma Dveřma Bez Oken", "Piknikovou Lavičkou", "Grilem Na Dvoře"]
-    11: ["Modrou Střechou", "Světle Hnědýma Dveřa", "Hnědou Rohožkou", "Psí Boudou", "Kořeny Na Dvoře"]
-    12: ["Světle Zelenou Střechou", "Hračkama Na Dvoře", "Plechovkama U Bílého Plotu", "Bílou Rohožkou", "Jedním Zeleným Oknem", "Velikým Kamenem Na Dvoře", "Hydrantem Vepředu"]
-    13: ["Světlem U Vjezdu", "Tmavě Zelenou Rohožkou", "Modrým Pickupem", "Hnědým Plotem S Keři", "Hydrantem Vepředu", "Komínem Z Fialových Cihel A Tmavě Zelenou Střechou"]
-    14: ["Hnědou Střechou", "Kořeny A Květinami Na Dvoře", "Stromořadím U Dveří", "Tmavě Žlutou Rohožkou", "Tmavě Červenýma Dveřma", "Bílými Garážovými Vratami"]
-    15: ["Modrou Střechou A Modrým Komínem Z Cihel", "Bílou Fasádou Z Cihel", "Zeleným Pickupem", "Smetím Nalevo", "Koši Na Dvoře", "Tetherballem", "Keři U Světle Hnědých Garážových Vrat"]
-    16: ["Zaparkovaným Růžovým Autem", "Hnědou Střechou S Tmavě Zeleným Komínem", "Žlutýma Dveřma A Okny", "Žlutýma Kytkama V Keřích"]
-    17: ["Bílým Autem", "Světle Růžovými Garážovými Vraty", "Světle Růžovou Rohožkou", "Bílýma Dvěřma A Okny", "Hlínou U Plotu", "Světle Šedou Střechou", "Kytkama Na Dvoře", "Krabicema U Garážových Vrat"]
-    18: ["Tmavě Hnědou Taškovou Střechou", "Garážovými Vraty Bez Oken", "Ošuntělým Plotem", "Zeleným Pickupem", "Smetím Vepředu", "Žlutýma Kytkama V Keřích", "Stromy Na Dvoře", "Gaučem V Garáži"]
-    19: ["Červenou Střechou", "Smetím Nalevo", "Modrou Rohožkou", "Šedé Dveře", "Kameny U Vjezdu", "Láhvema A Plechovkama Na Dvoře", "Stromem U Dveří", "Garážovými Vraty Bez Oken", "Komínem Z Červených Cihel"]
-    20: ["Světle Hnědou Střechou", "Oranžovýma Dveřma", "Smetím U Vjezdu", "Šedým Autem", "Hnědým Komínem", "Vjezdem Zdobeným Kytkama A Keři"]
-    21: ["Fialovou Střechou", "Fialovým Komínem", "Růžovýma Dveřma", "Tmavě Červenými Garážovými Vraty", "Hydrantem Vepředu", "Tmavě Modrou Rohožkou", "Růžovým Autem", "Ptačí Budkou Na Dvoře", "Poštovní Schránkou Vepředu", "Kytkama A Krabicema Na Dvoře", "Grilem Napravo", "Dřevěnými Prkny U Stromů"]
-    22: ["Tmavě Hnědýma Dvěrma", "Tmavě Zelenou Střechou", "Fasádou Z Bílých Cihel", "Kytkama U Dveří", "Mulčem Na Dvoře", "Smetím U Plotu", "Psí Boudou", "Komínem Z Fialových Cihel", "Koši"]
-    23: ["Žlutou Střechou", "Pracovním Stolem Na Straně", "Nářadím Na Dvoře", "Žlutou Rohožkou", "Šedým Pickupem", "Bílými Garážovými Vraty S Okny", "Pneumatikama Na Dvoře"]
-    24: ["Červeným Pickupem", "Modrou Střechou", "Kužely", "Žlutýma Dveřma A Okny", "Plameňákem", "Ptačí Budkou", "Komínem Z Modrých Cihel"]
-    25: ["Fialovou Střechou", "Bílou Rohožkou", "Plameňáky A Stromy U Vjezdu", "Hnědým Plotem Nalevo", "Šedým Kamenným Komínem", "Jedním Růžovým Oknem", "Grilem U Piknikové Lavičky"]
-    26: ["Světle Hnědou Střechou", "Hnědýma Dveřma", "Koši U Hnědého Plotu", "Fialovou Rohožkou", "Dvěma Černýma Popelnicema", "Hračkama Na Dvoře", "Světle Hnědou Fasádou Z Cihel", "Kužely Vepředu"]
-    27: ["Tmavě Hnědou Střechou", "Cedulí Vepředu", "Kořeny Na Dvoře", "Červenýma Kytkama U Žlutého Okna"]
-    28: ["Květnatou Cestičkou", "Smetím Nalevo I Napravo", "Dvěma Zelenýma Popelnicema Napravo", "Bílou Střechou", "Bílýma Dveřma", "Hydrantem Vepředu", "Bílým Kamenným Komínem"]
-    29: ["Žlutou Střechou", "Tmavě Červenýma Dveřma", "Hnědou Rohožkou", "Smetím Vepředu", "Pneumatikama Na Dvoře", "Žebříkem U Dveří", "Šedým Pickupem", "Modrým Pickupem", "Prknama"]
-    30: ["Bílým Plotem", "Růžovým Autem", "Květinama Zdobeným Vězdem", "Světle Hnědou Střechou", "Grilem Nalevo", "Tmavě Růžovýma Dveřma"]
-    31: ["Tmavě Hnědou Střechou", "Houpačkou", "Tetherballem", "Kytkama Na Dvoře", "Smetím Na Hlíněném Úseku", "Malým Hlíněným Úsekem", "Hračkama Vepředu"]
-    32: ["Červenou Střechou", "Šedou Rohožkou", "Oranžovýma Dveřma", "Kořeny Na Dvoře", "Dvěma Zelenýma Popelnicema", "Ošuntělou Fasádou", "Hydrantem Vepředu", "Žebříkem Na Prknech", "Šedým Kamenným Komínem"]
-    33: ["Šedou Střechou", "Cihlovou Fasádou", "Fialovou Rohožkou", "Žebříkem U Dveří", "Dvěma Popelnicema", "Láhvema U Smetí", "Psí Boudou", "Prknama Na Dvoře", "Chybějícím Plotem", "Zaparkovaným Šedým Pickupem"]
-    34: ["Bílým Autem Vepředu", "Schránkou Vepředu", "Plechovkama U Smetí", "Světle Modrou Střechou", "Stromy U Vstupu", "Světle Červenýma Dveřma", "Koši", "Světle Zelenou Rohožkou"]
-    35: ["Žlutým Autem Vepředu", "Červenýma Kytkama U Okna", "Kytkama U Cestičky", "Mulčem Na Dvoře", "Modrou Střechou", "Tmavě Modrou Rohožkou", "Stromy Před Bílým Plotem"]
-    36: ["Hydrantem Vepředu", "Chybějícím Plotem", "Fialovýma Kytkama U Růžového Okna", "Smetím Napravo U Hraček", "Růžové Dveře", "Bílou Střechou", "Šedým Autem", "Autíčkama Na Dvoře"]
+    1: ["Cans In The Yard", "Red PickupTruck", "Green Rug", "Cans By The Garbage", "RunDown Brown Roof", "Boarded Up Window", "Brick Front", "No Fence", "Roots In The Yard", "Plants On The Driveway", "Garbage Lined Up In The Front"]
+    2: ["Dark Green PickupTruck", "Purple Rug", "Stone Chimney In The Yellow Roof", "Yellow Door With Windows", "Windows In The Door"]
+    3: ["White Rug", "Dark Pink Door", "Tether Ball In The Yard", "Pink Roof", "One Pink Front Window", "Purple Flowers By The Window"]
+    4: ["Gray Rug", "Orange Door", "Cones In Front Of The Driveway", "Light Blue Roof", "Ladder By The Tree"]
+    5: ["Gray Car", "Large Rock In The Yard", "Flowers By The Large Rock", "Purple Rug", "Orange Roof", "Brick Front", "No Garbage Cans"]
+    6: ["White Door", "Dark Blue Roof With The Stone Chimney", "Beat Up Front", "Easel In The Yard", "Plants In The Yard"]
+    7: ["Red PickupTruck", "Light Yellow Door With Windows", "Boxes In The Side Yard", "Purple Flowers By The Yellow Window", "Dark Purple Rug", "No Garbage Can", "Red Roof", "No Fence"]
+    8: ["Purple Roof With A Chimney", "Messy Yard", "Brown Rug", "No Fence", "Ladder By The Door", "Hydrant Out Front", "Dark Red Door"]
+    9: ["Light Brown Roof", "Pink Door", "Gray PickupTruck", "No Fence"]
+    10: ["Yellow Roof", "Tires In The Yard", "White Door With No Windows", "Picnic Table On The Side", "Grill In The Yard"]
+    11: ["Blue Roof", "Light Brown Door", "Brown Rug", "Dog House", "Roots In The Yard"]
+    12: ["Light Green Roof", "Toys In The Yard", "Cans By The White Fence", "White Rug", "One Green Window", "Large Rock In The Yard", "Hydrant Out Front"]
+    13: ["Light By The Driveway", "Dark Green Rug", "Blue PickupTruck", "Brown Fence With Bushes", "Hydrant Out Front", "Purple Brick Chimney In A Dark Green Roof"]
+    14: ["Brown Roof", "Roots And Flowers In The Yard", "Tree Lined Entrance", "Dark Yellow Rug", "Dark Red Door", "White Garage Door"]
+    15: ["Blue Roof With The Blue Brick Chimney", "White Brick Front", "Green PickupTruck", "Garbage On The Left Side", "Hoops In The Yard", "Tether Ball", "Bushes By The Light Brown Garage Door"]
+    16: ["Pink Car In The Driveway", "Brown Roof With Dark Green Chimney", "Yellow Door With Windows", "Yellow Flowers In The Bushes"]
+    17: ["White Car", "Light Pink Garage Door", "Light Pink Rug", "White Door With Windows", "Dirt Patch By The Fence", "Light Gray Roof", "Flowers In The Yard", "Boxes By The Garage Door"]
+    18: ["Dark Brown Brick Roof", "Garage Door With No Windows", "Beat Up Fence", "Green PickupTruck", "Garbage Out Front", "Yellow Flowers In The Bushes", "Trees In The Yard", "Couch In The Garbage"]
+    19: ["Red Roof", "Messy Garbage On The Left Side", "Blue Rug", "Gray Door", "Rock Lined Driveway", "Bottles And Cans In The Yard", "Tree By The Door", "No Windows In The Garage Door", "Red Brick Chimney"]
+    20: ["Light Brown Roof", "Orange Door", "Garbage On The Side Of The Driveway", "Gray Car", "Brown Chimney", "Flowers Bushes Lined Driveway"]
+    21: ["Purple Roof", "Purple Chimney", "Pink Door", "Dark Red Garage Door", "Hydrant Out Front", "Dark Blue Rug", "Pink Car", "Birdhouse In The Yard", "Mailbox Out Front", "Flowers Boxes In The Yard", "Grill On The Right Side", "Wood Planks By The Trees"]
+    22: ["Dark Brown Door", "Dark Green Roof", "White Brick Front", "Plants By The Door", "Mulch On The Side Of The Yard", "Garbage By The Fence", "Dog House", "Purple Brick Chimney", "Hoops"]
+    23: ["Yellow Roof", "Work Table On The Side", "Tools In The Yard", "Yellow Rug", "Gray PickupTruck", "White Garage Door With Windows", "Tires In The Yard"]
+    24: ["Red PickupTruck", "Blue Roof", "Cones Out Front", "Yellow Door With Windows", "Flamingo", "Birdhouse", "Blue Brick Chimney"]
+    25: ["Purple Roof", "White Rug", "Flamingo And Trees On The Driveway", "Brown Fence On The Left Side", "Gray Stone Chimney", "One Pink Window", "Grill By The Picnic Table"]
+    26: ["Light Brown Roof", "Brown Door", "Hoops By The Brown Fence", "Purple Rug", "Two Black Garbage Cans", "Toys In The Yard", "Light Brown Brick Front", "Cones Out Front"]
+    27: ["Dark Brown Roof", "Sign Out Front", "Roots In The Yard", "Red Flowers By The Yellow Window"]
+    28: ["Flowers Lined Path", "Garbage On The Left And Right Side", "Two Green Garbage Cans On The Right", "White Roof", "White Door", "Hydrant Out Front", "White Stone Chimney"]
+    29: ["Yellow Roof", "Dark Red Door", "Brown Rug", "Garbage In The Front", "Tires In The Yard", "Ladder By The Door", "Gray PickupTruck", "Blue PickupTruck", "Wood Planks On The Side"]
+    30: ["White Fence", "Pink Car", "Flowers Lined Driveway", "Light Brown Roof", "Grill On The Left Side", "Dark Pink Door"]
+    31: ["Dark Brown Roof", "Swing", "Tether Ball", "Flowers In The Yard", "Garbage On The Dirt Patch", "Small Dirt Path", "Toys Out Front"]
+    32: ["Red Roof", "Gray Rug", "Orange Door", "Roots In The Yard", "Two Green Garbage Cans", "Beat Up Front", "Hydrant Out Front", "Ladder On The Wood Planks", "Gray Stone Chimney"]
+    33: ["Gray Roof", "Brick Front", "Purple Rug", "Ladder By The Door", "Two Garbage Cans", "Bottles By The Garbage", "Dog House", "Wood Planks In The Yard", "No Fence", "Gray PickupTruck Out Front"]
+    34: ["White Car Out Front", "Mailbox Out Front", "Cans By The Garbage Out Front", "Light Blue Roof", "Trees By The Entrance", "Light Red Door", "Hoops", "Light Green Rug"]
+    35: ["Yellow Car Out Front", "Red Flowers By The Window", "Flowers By The Small Path", "Mulch In The Yard", "Blue Roof", "Dark Blue Rug", "Trees In Front Of The White Fence"]
+    36: ["Hydrant Out Front", "No Fence", "Purple Flowers By The Pink Window", "Garbage On The Right Side By The Toys", "Pink Door", "White Roof", "Gray Car", "Car Toys In The Yard"]
 
   partPool: [
-        "Tato Pizza Patří Do Ulice K Domu S ",
-        "Dones Prosím Tuto Pizzu Do Domu S ",
-        "Hledej Dům S ",
-        "Tuhle Pizzu Dones Do Domu S ",
-        "Dones Tuhle Pizzu K Domu S ",
-        "Hledej Dům S ",
-        "Mohl Bys Najít Dům S ",
-        "Dones Tuhle Pizzu K Domu S ", 
-        "Tato Pizza Patří Do Ulice K Domu S ",
-        "Najdi Prosím Dům S ",
-        "Tato Pizza Patří K Domu S ",
-        "Mohl Bys Najít Dům S "
+        "This Pizza Goes Down The Street To The House With The ",
+        "Please Take This Pizza To The House With The ",
+        "Look For The House That Has The ",
+        "This Pizza Goes To The House With The ",
+        "Take The Pizza To The House That Has The ",
+        "Find The House With The ",
+        "Can You Find The House With The ",
+        "Take This Pizza To The House With The ",
+        "Take This Pizza Down The Street To The House With The ",
+        "Please Find The House With The ",
+        "This Pizza Goes To The House That Has The ",
+        "Can You Find The House That Has The "
     ]
 
-  descriptionLink: " A " # This part of the string seems to be used to link the description of the House Pools -> var text = part + $gameSystem.pizza[0] + " And The " + $gameSystem.pizza[1];
+  descriptionLink: " And The " # This part of the string seems to be used to link the description of the House Pools -> var text = part + $gameSystem.pizza[0] + " And The " + $gameSystem.pizza[1];
 
   #==========================
   # In the original code, there is this line
@@ -348,7 +348,7 @@ Yin_Pizza_Delivery:
   # some kind of mispelling/grammar problem. If you think that this is not
   # needed in the localization by any chance, just leave void the strings
   # this way ["", ""]
-  theNo: ["Ne", "Ne"] 
+  theNo: ["The No", "No"] 
 
 # =========================================================================================
 # UI_CONFIGURATION
