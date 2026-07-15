@@ -36,7 +36,7 @@ int main(int argc, char *argv[]) {
     omoriPalette.setColor(QPalette::Window, Qt::white);
     omoriPalette.setColor(QPalette::WindowText, Qt::white);
 
-    QWidget window(nullptr, Qt::FramelessWindowHint);
+    QWidget window(nullptr, Qt::FramelessWindowHint); // TODO: qt-layer-shell (for linux)
     window.setPalette(omoriPalette);
     window.setFixedSize(800, 420);
     int padding = 5;

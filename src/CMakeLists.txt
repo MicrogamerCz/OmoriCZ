@@ -40,7 +40,7 @@ target_sources(omopatch_static PUBLIC
   optionsmessagecard.cpp
 )
 
-target_link_libraries(omopatch_static PUBLIC Qt6::Widgets)
+target_link_libraries(omopatch_static PUBLIC Qt6::Network Qt6::Widgets QuaZip::QuaZip)
 target_include_directories(omopatch_static PUBLIC ${CMAKE_BINARY_DIR})
 
 qt_add_executable(omopatch main.cpp)

@@ -2,12 +2,17 @@
 // SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 
 #include "installer.h"
+#include <QApplication>
+#include <QBuffer>
+#include <QFile>
 #include <QJsonArray>
 #include <QJsonDocument>
 #include <QJsonObject>
 #include <QNetworkReply>
 #include <VDF/include/vdf_parser.hpp>
 #include <fstream>
+#include <qapplication.h>
+#include <qbuffer.h>
 #include <qdir.h>
 #include <qeventloop.h>
 #include <qfloat16.h>
@@ -16,7 +21,8 @@
 #include <qnetworkaccessmanager.h>
 #include <qnetworkreply.h>
 #include <qnetworkrequest.h>
-#include <qurl.h>
+#include <quazip.h>
+#include <quazipfile.h>
 
 using namespace tyti;
 
@@ -40,10 +46,9 @@ void Installer::beginSetup() {
         return;
     }
 
-    QUrl omoriInstallDir = QUrl::fromLocalFile(libraryPath).resolved(QUrl(u"./steamapps/common/OMORI"_s));
-
     // Implement optional saves backup
 
+    omoriInstallDir = QUrl::fromLocalFile(libraryPath).resolved(QUrl(u"./steamapps/common/OMORI/"_s));
     if (!QDir().exists(omoriInstallDir.resolved(relativeOneloaderPath).toLocalFile())) {
         Q_EMIT messageChanged(u"Získávání informací o Oneloaderu"_s);
 
@@ -134,7 +139,12 @@ void Installer::installOneloader(QNetworkReply *reply) {
     }
 
     QByteArray replyData = reply->readAll();
-    // TODO: extract
+
+    if (!extractData(replyData, omoriInstallDir)) {
+        Q_EMIT progressChanged(m_progress = 10);
+        Q_EMIT messageChanged(u"Nešlo extrahovat jeden nebo více souborů OneLoaderu"_s);
+        return;
+    }
 
     downloadTranslation();
 }
@@ -166,5 +176,38 @@ void Installer::installTranslation(QNetworkReply *reply) {
     }
 
     QByteArray replyData = reply->readAll();
-    // TODO: extract
+    if (!extractData(replyData, omoriInstallDir.resolved(relativeModsPath))) {
+        Q_EMIT progressChanged(m_progress = 10);
+        Q_EMIT messageChanged(u"Nešlo extrahovat jeden nebo více souborů překladu"_s);
+        return;
+    }
+
+    // TODO: finalised signal with fadeout and closure
+}
+
+bool Installer::extractData(QByteArray &data, const QUrl &url) const {
+    QBuffer dataBuffer(&data);
+    if (!dataBuffer.open(QIODevice::ReadOnly))
+        return false;
+
+    QuaZip archive(&dataBuffer);
+    if (!archive.open(QuaZip::mdUnzip))
+        return false;
+
+    QuaZipFile archiveFile(&archive);
+    while (archive.goToNextFile()) {
+        QString fileName = archive.getCurrentFileName();
+        QString filePath = url.resolved(QUrl(u"./" + fileName)).toLocalFile();
+
+        QFile file(filePath);
+        if (!file.open(QIODevice::WriteOnly) || !archiveFile.open(QIODevice::ReadOnly))
+            return false;
+
+        file.write(archiveFile.readAll());
+
+        file.close();
+        archiveFile.close();
+    }
+
+    return true;
 }

@@ -31,10 +31,11 @@ include(KDECompilerSettings NO_POLICY_SCOPE)
     # VERSION_HEADER "${CMAKE_CURRENT_BINARY_DIR}/src/version-omopatch.h"
 # )
 
-find_package(Qt6 ${QT6_MIN_VERSION} REQUIRED COMPONENTS Core Gui Qml QuickControls2 Svg Widgets)
+find_package(Qt6 ${QT6_MIN_VERSION} REQUIRED COMPONENTS Network Widgets)
+find_package(QuaZip-Qt6)
 # find_package(KF6 ${KF6_MIN_VERSION} REQUIRED COMPONENTS Kirigami CoreAddons Config I18n)
 
-qt_policy(SET QTP0001 NEW)
+# qt_policy(SET QTP0001 NEW)
 
 # ecm_find_qmlmodule(org.kde.kirigamiaddons.formcard 1.0)
 

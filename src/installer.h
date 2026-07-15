@@ -9,6 +9,8 @@
 #include <QtQml/qqmlengine.h>
 #include <qobject.h>
 #include <qtmetamacros.h>
+#include <qurl.h>
+#include <qvariant.h>
 
 using namespace Qt::Literals::StringLiterals;
 
@@ -16,9 +18,9 @@ class Installer : public QObject {
     Q_OBJECT
 
     const std::string omoriSteamID = "1150690";
-    const QUrl relativeModsPath = QUrl(u"./www/mods"_s);
-    const QUrl relativeOneloaderPath = QUrl(u"./www/modloader"_s);
-    const QUrl relativeSavesPath = QUrl(u"./www/save"_s);
+    const QUrl relativeModsPath = QUrl(u"./www/mods/"_s);
+    const QUrl relativeOneloaderPath = QUrl(u"./www/modloader/"_s);
+    const QUrl relativeSavesPath = QUrl(u"./www/save/"_s);
 
 #ifdef Q_OS_LINUX
     const QUrl steamPath = QUrl::fromLocalFile(qEnvironmentVariable("HOME") + u"/.local/share/Steam/steamapps/"_s);
@@ -28,6 +30,7 @@ class Installer : public QObject {
     const QUrl steamPath = QUrl::fromLocalFile(u"~/Library/Application Support/Steam/steamapps/"_s);
 #endif
 
+    QUrl omoriInstallDir;
     QString componentName;
     int m_progress;
     QNetworkAccessManager nam;
@@ -38,6 +41,7 @@ class Installer : public QObject {
     void installOneloader(QNetworkReply *reply);
     void downloadTranslation();
     void installTranslation(QNetworkReply *reply);
+    bool extractData(QByteArray &data, const QUrl &url) const;
 
   public:
     Installer(QObject *parent = nullptr);
