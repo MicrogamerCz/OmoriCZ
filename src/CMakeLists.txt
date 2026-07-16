@@ -2,10 +2,19 @@
 # SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 
 # Target: static library
-add_library(omopatch_static STATIC)
+add_library(omopatch_static STATIC
+  installer.cpp
+  omoricard.cpp
+  omoriradio.cpp
+  omoributton.cpp
+  omoriprogressbar.cpp
+  optionsmessagecard.cpp
+  fadeoverlay.cpp
+)
 qt_add_resources(omopatch_static "assets"
   PREFIX "/"
   FILES contents/OMORI_GAME2.ttf
+  FILES contents/omori.png
   FILES contents/radio.png
   FILES contents/progress/a1.png
   FILES contents/progress/a2.png
@@ -30,16 +39,6 @@ qt_add_resources(omopatch_static "assets"
 )
 
 target_compile_options (omopatch_static PUBLIC -fexceptions -Wno-undef)
-
-target_sources(omopatch_static PUBLIC
-  installer.cpp
-  omoricard.cpp
-  omoriradio.cpp
-  omoributton.cpp
-  omoriprogressbar.cpp
-  optionsmessagecard.cpp
-  fadeoverlay.cpp
-)
 
 target_link_libraries(omopatch_static PUBLIC Qt6::Network Qt6::Widgets QuaZip::QuaZip)
 target_include_directories(omopatch_static PUBLIC ${CMAKE_BINARY_DIR})
