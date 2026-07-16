@@ -24,7 +24,6 @@ find_package(QuaZip-Qt6)
 
 add_subdirectory(src)
 
-install(FILES org.kde.omopatch.desktop DESTINATION ${KDE_INSTALL_APPDIR})
-install(FILES org.kde.omopatch.metainfo.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
+install(FILES omopatch.desktop DESTINATION ${KDE_INSTALL_APPDIR})
 
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)

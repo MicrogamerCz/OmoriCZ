@@ -2,12 +2,9 @@
 # SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 [Desktop Entry]
 Name=Omopatch
-Comment=Omopatch Kirigami Application
+Comment=Instalační program pro českou lokalizaci Omori
 Version=1.0
 Exec=omopatch
-Icon=applications-development
+Icon=omori
 Type=Application
 Terminal=false
-# Add an actual main category here (and possibly applicable additional ones)
-#   https://specifications.freedesktop.org/menu-spec/latest/apa.html#main-category-registry
-Categories=Qt;KDE;
