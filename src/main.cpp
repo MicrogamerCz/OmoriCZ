@@ -29,6 +29,7 @@ void setWidgetFontSize(QWidget &widget, QFont &font, int size) {
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
+    app.setWindowIcon(QIcon(u":/contents/omori.png"_s));
 
     Installer installer;
 
@@ -75,12 +76,13 @@ int main(int argc, char *argv[]) {
     layout->addWidget(&installCard);
 
     FadeOverlay overlay;
+    overlay.setVisible(false);
 
-    QWidget layoutContainer;
-    layoutContainer.setLayout(layout);
+    QWidget *layoutContainer = new QWidget;
+    layoutContainer->setLayout(layout);
     QStackedLayout stackLayout;
     stackLayout.setStackingMode(QStackedLayout::StackAll);
-    stackLayout.addWidget(&layoutContainer);
+    stackLayout.addWidget(layoutContainer);
     stackLayout.addWidget(&overlay);
 
     QObject::connect(&overlay, &FadeOverlay::fadeFinished, &app, &QApplication::quit);

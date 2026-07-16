@@ -12,7 +12,10 @@ FadeOverlay::FadeOverlay(QWidget *parent) : QWidget(parent) {
 
     m_fadeAnimation = new QPropertyAnimation(m_opacityEffect, "opacity", this);
     m_fadeAnimation->setDuration(2300);
-    connect(m_fadeAnimation, &QPropertyAnimation::finished, this, &FadeOverlay::fadeFinished);
+    connect(m_fadeAnimation, &QPropertyAnimation::finished, this, [this] {
+        if (isVisible())
+            Q_EMIT fadeFinished();
+    });
 }
 
 void FadeOverlay::setVisible(bool visible) {
