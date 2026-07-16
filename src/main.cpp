@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 // SPDX-FileCopyrightText: 2026 Micro <microgamercz@proton.me>
 
+#include "fadeoverlay.h"
 #include "installer.h"
 #include "omoributton.h"
 #include "omoricard.h"
@@ -9,11 +10,14 @@
 #include <QApplication>
 #include <QFontDatabase>
 #include <QLabel>
+#include <QStackedLayout>
 #include <QVBoxLayout>
+#include <cmath>
 #include <pthread.h>
 #include <qapplication.h>
 #include <qboxlayout.h>
 #include <qobject.h>
+#include <qstackedlayout.h>
 #include <qwidget.h>
 
 using namespace Qt::Literals::StringLiterals;
@@ -62,15 +66,27 @@ int main(int argc, char *argv[]) {
     installCard.setLayout(&buttonsLayout);
 
     OmoriProgressBar progressBar;
-    // progressBar.setMinimumHeight(60);
     progressBar.setVisible(false);
     buttonsLayout.addWidget(&progressBar, 1);
 
-    QVBoxLayout layout;
-    layout.addWidget(&headerCard);
-    layout.addWidget(&optionsMessageCard, 1);
-    layout.addWidget(&installCard);
+    QVBoxLayout *layout = new QVBoxLayout;
+    layout->addWidget(&headerCard);
+    layout->addWidget(&optionsMessageCard, 1);
+    layout->addWidget(&installCard);
 
+    FadeOverlay overlay;
+
+    QWidget layoutContainer;
+    layoutContainer.setLayout(layout);
+    QStackedLayout stackLayout;
+    stackLayout.setStackingMode(QStackedLayout::StackAll);
+    stackLayout.addWidget(&layoutContainer);
+    stackLayout.addWidget(&overlay);
+
+    QObject::connect(&overlay, &FadeOverlay::fadeFinished, &app, &QApplication::quit);
+    QObject::connect(&installer, &Installer::finishedInstall, [&overlay] {
+        overlay.setVisible(true);
+    });
     QObject::connect(&installer, &Installer::progressChanged, &progressBar, &OmoriProgressBar::setValue);
     QObject::connect(&installer, &Installer::messageChanged, &optionsMessageCard, &OptionsMessageCard::setMessage);
     QObject::connect(&installer, &Installer::installingChanged, &progressBar, &OmoriProgressBar::setVisible);
@@ -85,7 +101,7 @@ int main(int argc, char *argv[]) {
     QObject::connect(&installButton, &OmoriButton::clicked, &installer, &Installer::beginSetup);
     QObject::connect(&closeButton, &OmoriButton::clicked, &app, &QApplication::exit);
 
-    window.setLayout(&layout);
+    window.setLayout(&stackLayout);
     window.show();
     return app.exec();
 }

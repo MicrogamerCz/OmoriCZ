@@ -50,4 +50,5 @@ class Installer : public QObject {
     void progressChanged(qreal progress);
     void messageChanged(const QString &message);
     void installingChanged(bool installing);
+    void finishedInstall();
 };

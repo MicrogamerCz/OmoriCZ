@@ -10,7 +10,7 @@ class OmoriProgressBar : public QWidget {
 
   public:
     explicit OmoriProgressBar(QWidget *parent = nullptr);
-    ~OmoriProgressBar();
+    ~OmoriProgressBar() = default;
 
     qreal value() const;
     void setValue(qreal value);

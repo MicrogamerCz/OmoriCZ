@@ -38,6 +38,7 @@ target_sources(omopatch_static PUBLIC
   omoributton.cpp
   omoriprogressbar.cpp
   optionsmessagecard.cpp
+  fadeoverlay.cpp
 )
 
 target_link_libraries(omopatch_static PUBLIC Qt6::Network Qt6::Widgets QuaZip::QuaZip)

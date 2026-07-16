@@ -30,10 +30,6 @@ OmoriProgressBar::OmoriProgressBar(QWidget *parent) : QWidget(parent) {
     variantTimer->start(230);
     connect(variantTimer, &QTimer::timeout, this, &OmoriProgressBar::updateVariant);
 }
-OmoriProgressBar::~OmoriProgressBar() {
-    disconnect(variantTimer, &QTimer::timeout, this, &OmoriProgressBar::updateVariant);
-    delete variantTimer;
-}
 
 qreal OmoriProgressBar::value() const {
     return m_value;

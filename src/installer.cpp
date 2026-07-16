@@ -21,6 +21,7 @@
 #include <qnetworkaccessmanager.h>
 #include <qnetworkreply.h>
 #include <qnetworkrequest.h>
+#include <qtmetamacros.h>
 #include <quazip.h>
 #include <quazipfile.h>
 
@@ -182,26 +183,41 @@ void Installer::installTranslation(QNetworkReply *reply) {
         return;
     }
 
-    // TODO: finalised signal with fadeout and closure
+    Q_EMIT finishedInstall();
 }
 
 bool Installer::extractData(QByteArray &data, const QUrl &url) const {
     QBuffer dataBuffer(&data);
-    if (!dataBuffer.open(QIODevice::ReadOnly))
+    if (!dataBuffer.open(QIODevice::ReadOnly)) {
+        qWarning() << u"Buffer error: '%1'"_s.arg(dataBuffer.errorString());
         return false;
+    }
 
     QuaZip archive(&dataBuffer);
-    if (!archive.open(QuaZip::mdUnzip))
+    if (!archive.open(QuaZip::mdUnzip)) {
+        qWarning() << u"Archive error: '%1'"_s.arg(archive.getZipError());
         return false;
+    }
 
     QuaZipFile archiveFile(&archive);
     while (archive.goToNextFile()) {
         QString fileName = archive.getCurrentFileName();
-        QString filePath = url.resolved(QUrl(u"./" + fileName)).toLocalFile();
+
+        QUrl fileUrl = url.resolved(QUrl(u"./" + fileName));
+        QString filePath = fileUrl.toLocalFile();
+        if (fileName.endsWith(u"/"_s)) {
+            QDir().mkpath(filePath);
+            continue;
+        }
+        QDir().mkpath(fileUrl.resolved(QUrl(u"."_s)).toLocalFile().removeLast());
 
         QFile file(filePath);
-        if (!file.open(QIODevice::WriteOnly) || !archiveFile.open(QIODevice::ReadOnly))
+        if (!file.open(QIODevice::WriteOnly) || !archiveFile.open(QIODevice::ReadOnly)) {
+            qWarning() << u"File error code: '%1'"_s.arg(file.error());
+            qWarning() << u"File error: '%1' ('%2')"_s.arg(file.errorString()).arg(filePath);
+            qWarning() << u"Archive file error: '%1'"_s.arg(archiveFile.errorString());
             return false;
+        }
 
         file.write(archiveFile.readAll());
 
