@@ -7,7 +7,7 @@
 #include <qoverload.h>
 #include <qwidget.h>
 
-OmoriCard::OmoriCard(QWidget *parent) : QWidget(parent) {
+OmoriCard::OmoriCard(QWidget *parent) : QWidget(parent), m_innerFrame(false) {
     int margin = 20;
     setContentsMargins(margin * 2, margin, margin * 2, margin);
 

@@ -28,6 +28,7 @@ void setWidgetFontSize(QWidget &widget, QFont &font, int size) {
 }
 
 int main(int argc, char *argv[]) {
+    Q_INIT_RESOURCE(assets);
     QApplication app(argc, argv);
     app.setWindowIcon(QIcon(u":/contents/omori.png"_s));
 

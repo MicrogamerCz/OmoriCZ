@@ -11,7 +11,14 @@ add_library(omopatch_static STATIC
   optionsmessagecard.cpp
   fadeoverlay.cpp
 )
-qt_add_resources(omopatch_static "assets"
+
+target_compile_options (omopatch_static PUBLIC -fexceptions -Wno-undef)
+
+target_link_libraries(omopatch_static PUBLIC Qt6::Network Qt6::Widgets QuaZip::QuaZip)
+target_include_directories(omopatch_static PUBLIC ${CMAKE_BINARY_DIR})
+
+qt_add_executable(omopatch main.cpp)
+qt_add_resources(omopatch "assets"
   PREFIX "/"
   FILES contents/OMORI_GAME2.ttf
   FILES contents/omori.png
@@ -37,13 +44,6 @@ qt_add_resources(omopatch_static "assets"
   FILES contents/progress/b9.png
   FILES contents/progress/b10.png
 )
-
-target_compile_options (omopatch_static PUBLIC -fexceptions -Wno-undef)
-
-target_link_libraries(omopatch_static PUBLIC Qt6::Network Qt6::Widgets QuaZip::QuaZip)
-target_include_directories(omopatch_static PUBLIC ${CMAKE_BINARY_DIR})
-
-qt_add_executable(omopatch main.cpp)
 
 target_link_libraries(omopatch PRIVATE omopatch_static)
 install(TARGETS omopatch ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})

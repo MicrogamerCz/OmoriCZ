@@ -25,5 +25,6 @@ find_package(QuaZip-Qt6)
 add_subdirectory(src)
 
 install(FILES omopatch.desktop DESTINATION ${KDE_INSTALL_APPDIR})
+install(FILES src/contents/omori.png DESTINATION ${KDE_INSTALL_ICONDIR}/hicolor/scalable/apps)
 
 feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)

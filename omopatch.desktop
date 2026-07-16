@@ -8,3 +8,4 @@ Exec=omopatch
 Icon=omori
 Type=Application
 Terminal=false
+Categories=Qt
