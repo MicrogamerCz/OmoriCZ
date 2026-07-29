@@ -1398,7 +1398,7 @@ message_271:
 # BENDA Swarm Intro
 message_272:
    text: >
-    \>BENDA: \<\sinv[1]<br>Hostina se chystá! Hostina se chystá!<br>Vaše smrt je jistá!
+    \>BENDA: \<\sinv[1]<br>Hostina se chystá! Hostina se chystá!Vaše smrt je jistá!
 
 # Before transforming into a lump
 message_273:

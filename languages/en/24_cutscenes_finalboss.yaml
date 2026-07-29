@@ -443,7 +443,7 @@ message_132:
 #Multiple BENDA appear and surround party.
 
 message_133:
-      text: \sinv[1]Hostina se chystá!\! Hostina se chystá!\!<br>\{A VAŠE SMRT JE JISTÁ!!\n<BENDA> #tak tohle teda musím ocenit, s tímhle bych nepřišel, skvělá práce
+      text: \sinv[1]Hostina se chystá!\! Hostina se chystá!\!\{A VAŠE SMRT JE JISTÁ!!\n<BENDA> #tak tohle teda musím ocenit, s tímhle bych nepřišel, skvělá práce
 
 #Party looks around.
 #AUBREY is sweating.
