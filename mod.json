@@ -23,5 +23,10 @@
     ],
     "exec": [],
     "fonts": ["fonts/"]
+  },
+  "plugin_parameters": {
+    "YEP_CoreEngine": {
+      "Gold Overlap": ""
+    }
   }
 }
