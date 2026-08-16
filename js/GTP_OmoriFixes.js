@@ -3408,7 +3408,7 @@ Gamefall.JPWordWrap = Gamefall.JPWordWrap || {};
 		}
 
 		static renameActorNames() {
-			// Dream World - id 2, Faraway - id 9
+		  const actorIDs = [2, 9]; // Dream World - id 2, Faraway - id 9
 			for (let i = 0; i < actorIDs.length; i++) {
 				let actorID = actorIDs[i];
 				if ($dataActors[actorID]) {
