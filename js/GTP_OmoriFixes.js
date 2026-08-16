@@ -1436,6 +1436,7 @@ Gamefall.OmoriFixes = Gamefall.OmoriFixes || {};
 		}
 
 		static setupNewGame() {
+			this.renameActorNames();
 			super.setupNewGame();
 			$gameTemp._toneBelowUI = undefined; // Added 01/04 -> Failsafe needed?
 			Playtime_Manager.clear();
@@ -3400,6 +3401,26 @@ Gamefall.JPWordWrap = Gamefall.JPWordWrap || {};
 			return name;
 		}
 
+		static renameActorName(name) {
+			if(!name) {return name}
+			let normalized = name.toUpperCase().replace('-', '');
+			return normalized === "AUBREY" ? "AUBRY" : name;
+		}
+
+		static renameActorNames() {
+			// Dream World - id 2, Faraway - id 9
+			for (let i = 0; i < actorIDs.length; i++) {
+				let actorID = actorIDs[i];
+				if ($dataActors[actorID]) {
+					$dataActors[actorID].name = this.renameActorName($dataActors[actorID].name);
+				}
+				if (typeof $gameActors !== "undefined" && $gameActors && $gameActors._data) {
+					let actor = $gameActors._data[actorID];
+					if (actor) {actor.setName(this.renameActorName(actor.name()))}
+				}
+			}
+		}
+
 		static loadGameWithoutRescue(savefileId) {
 			let result = super.loadGameWithoutRescue(savefileId);
 			$gameSystem.initMessageFontSettings();
@@ -3417,7 +3438,8 @@ Gamefall.JPWordWrap = Gamefall.JPWordWrap || {};
 		static loadSavefileInfo(savefileId) {
 			var globalInfo = this.loadGlobalInfo();
 			if (globalInfo && globalInfo[savefileId]) {
-				globalInfo[savefileId].actorData.name = this.convertNameToLanguage('actor', globalInfo[savefileId].actorData.name);
+                // globalInfo[savefileId].actorData.name = this.convertNameToLanguage('actor', globalInfo[savefileId].actorData.name);
+				globalInfo[savefileId].actorData.name = this.renameActorName(this.convertNameToLanguage('actor', globalInfo[savefileId].actorData.name));
 				if(!isTextInCurrentLanguage(globalInfo[savefileId].actorData.name)) {
 					const lang = LanguageManager.defaultLanguage();
 					globalInfo[savefileId].actorData.name = LanguageManager._data[lang]["text"]["XX_BLUE"]["Omori_Name_Input"]["defaultname"] // Assuming this is Sunny as all the other characters that could save
