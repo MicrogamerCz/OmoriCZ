@@ -3432,6 +3432,7 @@ Gamefall.JPWordWrap = Gamefall.JPWordWrap || {};
 				if (newName != name)
 					actor.setName(newName);
 			};
+			this.renameActorNames();
 			return result;
 		}
 
