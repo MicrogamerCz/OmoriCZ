@@ -190,7 +190,7 @@ message_41:
 message_42:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basRůže mají hodně různých druhů a barev, a každá z nich má i svůj vlastní význam.
+      text: \basRůže mají hodně různých druhů a barev a každá z nich má i svůj vlastní význam.
 
 message_43:
       faceset: MainCharacter_Basil
@@ -222,7 +222,7 @@ message_47:
 message_48:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: \basA tak jste už možná teď uhodli, že reprezentují sílu osobnosti.\! Někoho kdo je upřímný a má pevné zásady...\! Někoho, kdo je vždy svůj... #osobnost je v této větě důležitá
+      text: \basA tak jste už možná teď uhodli, že reprezentují sílu osobnosti.\! Někoho, kdo je upřímný a má pevné zásady...\! Někoho, kdo je vždy svůj... #osobnost je v této větě důležitá
 
 message_49:
       faceset: MainCharacter_Basil
@@ -305,7 +305,7 @@ message_74:
 message_75:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basČímž se snažím říct... že i ty by ses mohl starat o kaktus, KELI!
+      text: \basČímž se snažím říct... že i ty by ses dokázal starat o kaktus, KELI!
 
 message_76:
       faceset: MainCharacters_DreamWorld
@@ -315,7 +315,7 @@ message_76:
 message_77:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: \basA...\! Tohle jsou bílé tulipány.\!<br>Obyčejné, jednoduché a zaoblené... stejně jako OMORI!
+      text: \basA...\! Tohle jsou bílé tulipány.\!<br>Jednoduché, cudné a dokonalé.... stejně jako OMORI!
 
 message_78:
       faceset: MainCharacter_Basil
@@ -327,19 +327,19 @@ message_78:
 #========================================================================================================================
 
 message_200:
-      text: \basTohle jsou slunečnice.\! Tak se jim říká proto, že jsou pořád otočené za sluncem.
+      text: \basTohle jsou slunečnice.\! Říká se jim tak proto, že jsou pořád otočené za sluncem.
 
 message_201:
       text: \basTakový bych chtěl být i já...\! někdo, kdo na všem vidí světlou stránku.
 
 message_202:
-      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že umí odhánět zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
+      text: \basTěmhle kytičkám se říká konvalinky.\! Říká se, že odhánějí zlé duchy a pomáhají lidem vidět šťastnější budoucnost...
 
 message_203:
-      text: \basSnad proto mi asi tak připomínají MARI!\!<br>Protože s ní můžu počítat vždycky, když potřebuju povzbudit! #konzistence
+      text: \basSnad proto mi tak připomínají MARI!\!<br>Protože s ní můžu počítat vždycky, když potřebuju povzbudit! #konzistence
 
 message_204:
-      text: \basRůže mají hodně různých druhů a barev, a každá z nich má i svůj vlastní význam.
+      text: \basRůže mají hodně různých druhů a barev a každá z nich má i svůj vlastní význam.
 
 message_205:
       text: \basRůžové symbolizují obdiv... Oranžové vášeň... Žluté přátelství... a tak dále! #konzistence
@@ -348,22 +348,22 @@ message_206:
       text: \basHERO mi nepřipomíná ale jen jednu růži.\!<br>Myslím si, že HERO je jako všechny růže, protože je všestranný a všemi oblíbený!
 
 message_207:
-      text: \basTyhle kytičky se jmenujou gladioly, ale občas se jim říká i mečík.
+      text: \basTyhle kytičky se jmenujou gladioly! Taky se jim někdy říká mečík!
 
 message_208:
-      text: \basA tak jste už možná teď uhodli, že reprezentují sílu osobnosti.\! Někoho kdo je upřímný a má pevné zásady...\! Někoho, kdo je vždy svůj... #konzistence
+      text: \basA tak jste už možná teď uhodli, že reprezentují sílu osobnosti.\! Někoho, kdo je upřímný a má pevné zásady...\! Někoho, kdo je vždy svůj... #konzistence
 
 message_209:
-      text: \basProto mi gladioly připomínají AUBRY, tím, že si neústuně stojí za svým! #konzistence
+      text: \basProto mi gladioly připomínají AUBRY tím, že si neústupně stojí za svým! #konzistence
 
 message_210:
       text: \basKaktusy jsou přirozeně odolné rostliny. Nepotřebujou, aby se o ně někdo staral a vydrží i v nejdrsnějších podmínkách!
 
 message_211:
-      text: \basČímž se snažím říct... že i ty by ses mohl starat o kaktus, KELI!
+      text: \basČímž se snažím říct... že i ty by ses dokázal starat o kaktus, KELI!
 
 message_213:
-      text: \basA tohle...\! Tohle jsou bílé tulipány.\! Nejsou moc výrazné kytičky.\! Nejsou moc malé ani moc velké, nesnaží se být nápadné ani šaramantní.
+      text: \basA...\! Tohle jsou bílé tulipány.\! Nejsou moc výrazné kytičky.\! Nejsou moc malé ani moc velké, nesnaží se být nápadné ani šaramantní.
 
 message_214:
       text: \basKdybych to měl vysvětlit jinak...\! Asi bych řekl...\! že jsou příjemné.\! Jednoduché, cudné a dokonalé.\!<br>Stejně jako SUNNY. #tady je důležité, že stranger neříká OMORI, ale SUNNY
@@ -472,7 +472,7 @@ message_102:
 #short pause
 
 message_156:
-      text: BASILOVO \c[4]FOTOALBUM\c[0].\! Jeho nejcennější majetek. #moc doslovný překlad, ale tady nevím, jak by to mělo být...
+      text: BASILOVO \c[4]FOTOALBUM\c[0].\! Není nic, čeho by si víc vážil. #moc doslovný překlad, ale tady nevím, jak by to mělo být...
 
 message_163:
       faceset: MainCharacters_DreamWorld

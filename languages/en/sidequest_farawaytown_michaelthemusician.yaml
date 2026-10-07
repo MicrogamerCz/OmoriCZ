@@ -9,7 +9,7 @@ message_1:
       text: \n<KYTARISTA>Čau! Jsem MICHAL, potulný hráč!\! <br>Po letech hraní tady u \c[11]OBCHOĎÁKU\c[0] jsem konečně připraven to dotáhnout dál!
 
 message_24:
-      text: \n<KYTARISTA>Ahoj, to jste zase vy.\! Pořád si snažím vydělat, abych mohl odjet do velkoměsta.
+      text: \n<KYTARISTA>Ahoj, to jste zase vy.\! Pořád si snažím vydělat, abych mohl odjet do města.
 
 message_2:
       text: \n<KYTARISTA>Pomůžete mi dosáhnout mého cíle?\! Žádný haléř není nazmar!
@@ -18,7 +18,7 @@ message_4:
       text: Kolik chceš přispět?\$
 
 message_5:
-      text: \n<KYTARISTA>Díky moc!\! Na oplátku vám zahraji mou vlastní píseň!
+      text: \n<KYTARISTA>Díky za váš příspěvek!\! A jak vždycky říkám... ten, kdo dá příspěvek, si zaslouží \SINV[1]přízpěvek\SINV[0]!
 
 #Default
 

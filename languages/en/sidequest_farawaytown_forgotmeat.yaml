@@ -15,12 +15,12 @@ message_3:
       text: \n<KELŮV TÁTA>Tady máš nějaký drobáky...\! Zajdi za tím ŘEZNÍKEM vzadu, on už bude vědět!
 
 message_4:
-      text: Získal jsi $20,00.
+      text: Získal jsi 20,00 Kč.
 
 #Buy Meat / Talk to PANÍ Z HUBERTA:
 
 message_5:
-      text: \n<PANÍ Z HUBERTA>DOBY  DEN!\! 你是要 maso 吗? 是 $18,00!
+      text: \n<PANÍ Z HUBERTA>DOBY  DEN!\! 你是要 maso 吗? 是 18,00 Kč!
 
 #[yes / no]
 

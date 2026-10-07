@@ -40,7 +40,7 @@ message_5:
       text: Dnešní den nemá v dějínách našeho království obdoby.\smm #den je den, jenž je nadbytečné
 
 message_6:
-      text: Po čtyřiceti dvou řadách pořadu <br>\"ZLATÍČKO HLEDÁ ZLATÍČKA\"...\!<br>Nadešel čas na poslední díl.\smm
+      text: Po čtyřiceti dvou sezónách představení <br>\"ZLATÍČKO HLEDÁ ZLATÍČKA\"...\!<br>Nadešel čas na poslední díl.\smm #odstranění posledních stop pořadu
 
 #Audience awwws.
 
@@ -57,7 +57,7 @@ message_11:
       text: Ale tentokrát věřím...\!<br>že jsme se překonali.\smm #věříme na věřím
 
 message_12:
-      text: Tohle je...\! chvíle všech chvil...\!<br>Zde...\! se začínají psát nové dějiny.\smm
+      text: Tohle je...\! chvíle všech chvil...\!<br>Zde...\! se začínají psát odznova dějiny.\smm
 
 message_13:
       text: Zhasněte, prosím...\smm

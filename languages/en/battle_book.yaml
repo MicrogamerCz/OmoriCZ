@@ -36,7 +36,7 @@ message_5:
     text: ŽIVOT
 
 message_6:
-    text: ŽIVOT vypovídá o tom, kolik poškození vydržíš, než budeš NA KAŠI.\! Kamarádi, kteří jsou NA KAŠI nemůžou nadále bojovat!
+    text: ŽIVOT vypovídá o tom, kolik poškození vydržíš, než budeš HOTOVÝ.\! Kamarádi, kteří jsou HOTOVÍ nemůžou nadále bojovat!
 
 message_7:
     text: ŠŤÁVA
@@ -63,7 +63,7 @@ message_14:
     text: RYCHLOST rozhoduje o pořadí, ve kterém vykonávají tví kamarádi a protivníci své akce.
 
 message_15:
-    text: ŠŤĚSTÍ
+    text: ŠTĚSTÍ
 
 message_16:
     text: ŠTĚSTÍ zvyšuje šanci na KRITICKÝ ÚDER, kterým můžeš protivníkovi pořádně hodit klacky pod nohy!
@@ -72,7 +72,7 @@ message_17:
     text: POČET ÚDERŮ
 
 message_18:
-    text: POČET ÚDERŮ ovlivňuje tvou šanci se ztrefit do protivníka.\! Čím nižší je, tím větší je tvá šance minout.
+    text: POČET ÚDERŮ ovlivňuje tvou šanci se strefit do protivníka.\! Čím nižší je, tím větší je tvá šance minout.
 
 message_19:
     text: ENERGIE
@@ -90,7 +90,7 @@ message_21:
     text: PŘEHLED
 
 message_22:
-    text: EMOCE mohou rozhodovat o síle útoků.\! ŠTĚSTÍ přemáhá VZTEK...\! VZTEK přemáhá SMUTEK...\! a SMUTEK přemáhá ŠTĚSTÍ!<br><br>EMOCE také mají vliv na různé STATISTIKY.\! Pro lepší představu se můžeš podívat na SCHÉMA ve tvé KAPSE. #nevztahuje se pouze pro tvé útoky, ale útoky protivníků taky!
+    text: EMOCE mohou rozhodovat o síle útoků.\! ŠTĚSTÍ přemáhá VZTEK...\! VZTEK přemáhá SMUTEK...\! a SMUTEK přemáhá ŠTĚSTÍ!<br>EMOCE také mají vliv na různé STATISTIKY.\! Pro lepší představu se můžeš podívat na SCHÉMA ve tvé KAPSE. #nevztahuje se pouze pro tvé útoky, ale útoky protivníků taky!
 
 message_300:
     text: A navíc mají EMOCE také vliv na poražené protivníky.\! ŠŤASTNÍ protivníci ti dají více MUŠLÍ a předmětů, zatímco VZTEKLÍ více ZKUŠENOSTNÍCH BODŮ.<br>SMUTNÍ protivníci bohužel nemají žádný bonus, ale je většinou lehčí je porazit. #zmíněny předměty, které byly původně opomenuty
@@ -156,7 +156,7 @@ message_40:
     text: Všechny NÁSLEDNÉ ÚTOKY, tě stojí 3 body, kromě UVOLNĚNÍ ENERGIE, které stojí 10 bodů. #přiroz
 
 message_41:
-    text: Bitvu začínáš se třemi body, a vždy, když dostane někdo z tvé party poškožení, přibyde jeden.
+    text: Souboj začínáš se třemi body, a vždy, když dostane někdo z tvé party poškožení, přibyde jeden.
 
 #OMORI FOLLOW UP
 
@@ -220,13 +220,13 @@ message_53:
     text: KOUKNOUT NA KELA
 
 message_54:
-    text: KEL začne rypat do AUBRY, která se začne VZTEKAT.
+    text: KEL začne rýpat do AUBRY, která se začne VZTEKAT.
 
 message_154:
-    text: KEL začne rypat do AUBRY, oba se začnou VZTEKAT, a k tomu se jim zvedne útok.
+    text: KEL začne rýpat do AUBRY, oba se začnou VZTEKAT, a k tomu se jim zvedne útok.
 
 message_254:
-    text: KEL začne rypat do AUBRY, oba se začnou ZUŘIT, a k tomu se jim zvedne útok.
+    text: KEL začne rýpat do AUBRY, oba se začnou ZUŘIT, a k tomu se jim zvedne útok.
 
 message_55:
     text: KOUKNOUT NA HERA
@@ -338,7 +338,7 @@ message_71:
     text: UČENÍ SE DOVEDNOSTÍ
 
 message_72:
-    text: \c[1]DOVEDNOSTI\c[0] se naučíš buď s nabývající ÚROVNÍ, děláním vedlejších úkolů a nebo pomocí různých předmětů.\!<br>Některé \c[1]DOVEDNOSTI\c[0], třeba HEROVO \c[1]VAŘENÍ\c[0], mohou být použity i mimo bitvu.
+    text: \c[1]DOVEDNOSTI\c[0] se naučíš s nabývající ÚROVNÍ, vedlejšími úkoly a nebo pomocí různých předmětů.\! Některé \c[1]DOVEDNOSTI\c[0], třeba HEROVO \c[1]VAŘENÍ\c[0], mohou být použity i mimo souboj.
 
 message_73:
     text: VÝMĚNA DOVEDNOSTÍ
@@ -365,19 +365,19 @@ message_78:
     text: TALISMANY
 
 message_79:
-    text: TALISMANY můžou být používány jakýmkoliv z tvých kamarádů.\!<br>Většina TALISMANŮ ti zvyšuje STATISTIKY, i když některé mají i jiné, zvláštní účinky.
+    text: TALISMANY můžou být používány jakýmkoliv z tvých kamarádů.\! Většina TALISMANŮ ti zvyšuje STATISTIKY, i když některé mají i jiné, zvláštní účinky.
 
 #----
 #TOYS
 
 message_80:
-    text: HRAČKY v bitvě mohou pomoct tvým kamarádům anebo ublížit protivníkům.\! Nelze je použít mimo bitvu.
+    text: HRAČKY mohou v souboji pomoct tvým kamarádům anebo ublížit protivníkům.\! Nelze je použít mimo souboj.
 
 #----
 #LEVELING UP
 
 message_81:
-    text: OMORI a kamarádi, kteří nejsou NA KAŠI získávají na konci každé bitvy ZKUŠENOSTNÍ BODY.\! Po nahromadění jistého počtu ZKUŠENOSTNÍCH BODŮ nabydou vyšší ÚROVNĚ. #blíže orig
+    text: OMORI a kamarádi, kteří nejsou HOTOVÍ získávají na konci každého souboje ZKUŠENOSTNÍ BODY.\! Po nahromadění jistého počtu ZKUŠENOSTNÍCH BODŮ nabydou vyšší ÚROVNĚ. #blíže orig
 
 message_82:
     text: Při navýšení ÚROVNĚ se ti a tvým kamarádům zvýší STATISTIKY a občas se také naučí novou \c[1]DOVEDNOST\c[0]! #blíže orig

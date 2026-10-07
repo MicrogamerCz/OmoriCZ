@@ -5,13 +5,13 @@
 #Slot Machines Text
 
 message_0:
-      text: \fs[46]SÁZENÍ NA AŽ 3 ŘÁDKY! TOČTE! TOČTE! TOČTE!
+      text: \fs[46]SÁZENÍ NA 3 ŘÁDKY! TOČTE! TOČTE!
 
 message_1:
       text: \fs[46]WOW!! ÚŽASNÉ ŠTĚSTÍ!!\!\fs[24]<br>Chceš hrát dál?
 
 message_2:
-      text: Vyplýtval si pár MUŠLÍ.\! Toť škoda...<br>\!Chceš hrát dál?
+      text: Vyplýtval jsi pár MUŠLÍ.\! Toť škoda...<br>\!Chceš hrát dál?
 
 message_4:
       text: Více MUŠLÍ už neuneseš.

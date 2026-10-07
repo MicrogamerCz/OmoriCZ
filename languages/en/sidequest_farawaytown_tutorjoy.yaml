@@ -13,7 +13,7 @@ message_0:
 #Yes
 
 message_1:
-      text: \"SHÁNÍME POMOC S DOUČOVÁNÍM! Hledám znalce jazyka<br> na doučování mé dcery, JOY! Nabízím $20,00 na den!\! <br>V případě zájmu přineste tento leták ke mně domů, kde absolvujete krátký pohovor!”
+      text: \"SHÁNÍME POMOC S DOUČOVÁNÍM!\! Hledám znalce českého jazyka na doučování mé dcery, JOY!\! Nabízím 20,00 Kč na den!\! V případě zájmu přineste ke mně na krátký pohovor!”
 
 message_2:
       text: Chceš strhnout \c[4]MODRÝ LETÁK\c[0] ze stěny?
@@ -34,7 +34,7 @@ message_100:
       text: Předal jsi \c[4]MODRÝ LETÁK\c[0] HUSTÉMU OBOČÍ.
 
 message_101:
-      text: \n<HUSTÉ OBOČÍ>Ach ano, vy musíte být JOYINI noví doučovatelé!
+      text: \n<HUSTÉ OBOČÍ>Ach ano, vy budete asi JOYINI noví doučující!
 
 message_5:
       text: \n<HUSTÉ OBOČÍ>Hmm...\! Na pohovor není čas!\! <br>Vy snad zvládáte učivo druhé třídy, ne?
@@ -45,87 +45,87 @@ message_7:
 #Talk to Joy
 
 message_8:
-      text: \n<MALÁ HOLKA>A-Ahoj... Jmenuji se JOY. Ráda vás poznávám!\!<br>Vy musíte být ti moji noví doučovatelé.\! Začneme hned?
+      text: \n<HOLČIČKA>A-Ahoj... Jmenuji se JOY. Ráda vás poznávám!\!<br>Vy budete ti moji noví doučující.\! Začneme hned?
 
 message_9:
-      text: \n<MALÁ HOLKA>Tak tohle je ten pracovní list, na kterém jsem zaseklá...
+      text: \n<HOLČIČKA>Tak tohle je ten pracovní list, na kterém jsem se zasekla...
 
 #Language worksheet
 
 message_10:
-      text: \n<MALÁ HOLKA>Tohle je cvičení mi dělá celkem problém...
+      text: \n<HOLČIČKA>Tohle je cvičení mi dělá celkem problém...
 
 message_11:
-      text: Ve větě "Moje tužka někde leží." je podmět
+      text: Ve větě "Moje tužka někde leží." je slovo "Moje"
 
 message_12:
-      text: A) Podmět všeobecný
+      text: A) Příslovce
 
 message_13:
-      text: B) Podmět nevyjádřený
+      text: B) Podstatné jméno
 
 message_14:
-      text: C) Podmět vyjádřený
+      text: C) Přídavné jméno
 
 message_15:
-      text: \n<MALÁ HOLKA>Zkusíme další...
+      text: \n<HOLČIČKA>Zkusíme další...
 
 message_16:
-      text: Která z následujících vět není zapsána gramaticky správně?
+      text: Ve větě "Základem každé oslavy je výtečný dort" je slovo "Základem"
 
 message_17:
-      text: A) Většinu plochy polární oblasti zvané Arktida tvoří Severní ledový oceán.
+      text: A) Ve 3. pádě
 
 message_18:
-      text: B) Ničivé tornádo zasáhlo jihovýchodní pobřeží Spojených států Amerických.
+      text: B) V 7. pádě
 
 message_19:
-      text: C) Po prohlídce Pražského hradu turisté navštívili malebná zákoutí Malé Strany.
+      text: C) V 6. pádě
 
 message_20:
-      text: \n<MALÁ HOLKA>Tak něco trochu těžšího...
+      text: \n<HOLČIČKA>Tak něco trochu těžšího...
 
 message_21:
-      text: Jaké tvrzení o větě "Na jejich místo ale zastrčila násadu od koštěte a etapu dokončila." je pravdivé?
+      text: Která z těchto vět je napsána bez chyby?
 
 message_22:
-      text: A) Celá věta neobsahuje žádné nespisovné slovo.
+      text: A) Lilek chutná nejlépe, když jsou uvařené.
 
 message_23:
-      text: B) Věta obsahuje 1 nespisovné slovo, "koště".
+      text: B) Je rozhodně nejchutnější než tofu.
 
 message_24:
-      text: C) Věta obsahuje 2 nespisovná slova, "koště" a "zastrčila".
+      text: C) Myslím, že lilek je lepší zelenina než to druhé.
 
 #Correct choice:
 
 message_25:
-      text: \n<MALÁ HOLKA>Aha, dobře!\! Už to chápu!
+      text: \n<HOLČIČKA>Aha, dobře!\! Už to chápu!
 
 #Incorrect choice:
 
 message_26:
-      text: \n<MALÁ HOLKA>Počkat...\! Já myslela, že je správně "A"?
+      text: \n<HOLČIČKA>Počkat...\! Já myslela, že je správně "A"?
 
 message_27:
-      text: \n<MALÁ HOLKA>Hmm...\! Ale...\! Není správná odpověď "B"?
+      text: \n<HOLČIČKA>Hmm...\! Ale...\! Není správná odpověď "B"?
 
 message_28:
-      text: \n<MALÁ HOLKA>Hmm...\! Wait...\! Není správná odpověď "C"?
+      text: \n<HOLČIČKA>Hmm...\! Počkat...\! Není správná odpověď "C"?
 
 message_29:
-      text: \n<MALÁ HOLKA>Aha, už tomu rozumím!\! Vy mě snad zkoušíte...
+      text: \n<HOLČIČKA>Aha, už tomu rozumím!\! Vy mě snad zkoušíte...
 
 message_30:
-      text: \n<MALÁ HOLKA>Promiňte, nikdy jsem doučování neměla, nevím, jak to chodí!
+      text: \n<HOLČIČKA>Promiňte, nikdy jsem doučování neměla, nevím, jak to chodí!
 
 #After Completing Language Worksheet:
 
 message_31:
-      text: \n<MALÁ HOLKA>Díky!\! Myslím, že tomu rozumím aspoň o něco víc...\! Hehe...
+      text: \n<HOLČIČKA>Díky!\! Myslím, že tomu rozumím aspoň o něco víc...\! Hehe...
 
 message_32:
-      text: \n<HUSTÉ OBOČÍ>Ahoj! Ahoj!\! Jak jsi na tom, JOY?\! <br>Byli ti ti doučovatelé alespoň k něčemu?
+      text: \n<HUSTÉ OBOČÍ>Ahoj! Ahoj!\! Jak jsi na tom, JOY?\! <br>Byli ti ti doučující alespoň k něčemu?
 
 message_33:
       text: \n<HUSTÉ OBOČÍ>Á!\! Koukám, že už jsi dodělala ten pracovní list...

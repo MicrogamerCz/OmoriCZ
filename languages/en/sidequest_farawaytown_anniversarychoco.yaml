@@ -58,7 +58,7 @@ message_11:
       text: \n<MATLÁK>Dobrý den!\!<br>Jedny \c[3]BONBÓNY\c[0], prosím!\!<br>Pro mou drahou ženu!\! Dnes máme výročí!
 
 message_12:
-      text: \n<PANÍ SLADKÁ>Jistě, milí zlatí!\!<br>Děkujeme vám za váš nákup a přijďte zas, milí zlatí!
+      text: \n<SLEČNA SLADKÁ>Jistě, milí zlatí!\!<br>Děkujeme vám za váš nákup a přijďte zas, milí zlatí!
 
 message_13:
       text: \n<MATLÁK>Díky za vaši pomoc, děcka!\!<br>Jdu teda na to...\! Držte mi palce!
@@ -103,7 +103,7 @@ message_27:
       text: Měl by MATLÁK koupit \c[3]KARAMELOVÉ JABLKA\c[0]?
 
 message_60:
-      text: \n<PANÍ SLADKÁ>Vybíráte mezi \c[3]BONBÓNY\c[0], \c[3]ČOKOLÁDOU\c[0] a \c[3]KARAMELOVÝMI JABLKY\c[0]?\! To je teda těžká volba, milí zlatí!
+      text: \n<SLEČNA SLADKÁ>Vybíráte mezi \c[3]BONBÓNY\c[0], \c[3]ČOKOLÁDOU\c[0] a \c[3]KARAMELOVÝMI JABLKY\c[0]?\! To je teda těžká volba, milí zlatí!
 
 message_300:
       text: Vybral jsi \c[3]ČOKOLÁDU\c[0].

@@ -13,7 +13,7 @@ message_0:
 #If Yes
 
 message_1:
-      text: “HLEDÁME POMOC S DOUČOVÁNÍM!\! Hledáme matimaticky zdatného doučovatele pro mého syna BRENTA!\! $20,00 na den!\! V případě zájmu prosím doneste tento leták na naši adresu!”
+      text: “HLEDÁME POMOC S DOUČOVÁNÍM!\! Hledáme matimaticky zdatného doučovatele pro mého syna BRENTA!\! 20,00 Kč na den!\! V případě zájmu doneste tento leták na naši adresu!”
 
 message_3:
       text: Chceš strhnout \c[4]ZELENÝ LETÁK\c[0] ze zdi?
@@ -51,7 +51,7 @@ message_200:
 #Talk to BRENT
 
 message_9:
-      text: \n<CHYTROLÍN>Ahoj, vy jste ti moji noví doučovatelé, že?\!<br>Rád vás poznávám. Já jsem BRENT.\!<br>Začneme rovnou?
+      text: \n<CHYTROLÍN>Ahoj, vy jste ti moji noví doučující, že?\!<br>Rád vás poznávám. Já jsem BRENT.\!<br>Začneme rovnou?
 
 message_10:
       text: \n<CHYTROLÍN>Dobře. Tady tenhle pracovní sešit mi dává nejvíc zabrat.
@@ -126,7 +126,7 @@ message_30:
       text: \n<CHYTROLÍN>Ohh...\! Myslel jsem, že je správně -2...
 
 message_31:
-      text: \n<CHYTROLÍN>He he...\! Vy mě zkoušíte, že?\!<br>Takhle mi zlepšujete vlastně i kritické myšlení!\!<br>Ty jo...\! Vy jste ale chytří...
+      text: \n<CHYTROLÍN>He he...\! Vy mě zkoušíte, že?\!<br>Takhle mi zlepšujete vlastně i kritické myšlení!\!<br>Ty jo...\! Vy jste ale chytrý...
 
 #After completing Math WORKSHEET
 
@@ -142,7 +142,7 @@ message_34:
       text: \n<ŘEDITELKA ŠKOLY>Á! Koukám, že už máte hotovo!
 
 message_35:
-      text: \n<ŘEDITELKA ŠKOLY>Skvělá práce, doučovatelé...\! Tady máte odměnu za vaši pomoc!
+      text: \n<ŘEDITELKA ŠKOLY>Skvělá práce, doučující...\! Tady máte odměnu za vaši pomoc!
 
 message_36:
       text: \n<ŘEDITELKA ŠKOLY>Určitě dorazte i zítra!

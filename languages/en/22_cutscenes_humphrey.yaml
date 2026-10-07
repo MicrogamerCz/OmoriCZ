@@ -14,7 +14,7 @@ message_0:
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{HEJ, ZLATÍČKO!! PAMATUJEŠ SI NA NÁS!?\!\} <br>My jsme ti přece skoro zkazili svatbu!\kel
+      text: \{HEJ, ZLATÍČKO!! PAMATUJEŠ SI NA NÁS!?\!\} My jsme ti přece skoro zkazili svatbu!\kel
 
 #SWEETHEART looks at party.
 #SWEETHEART is surprised, then frustrated.
@@ -66,7 +66,7 @@ message_11:
       text: \sinv[1]Ach, HERO, miláčku...! \!Jak jsem toužila opět slyšet tvůj hlas!\swh
 
 message_12:
-      text: Ne... Nesmím se nechat podat.\! O své cestě jsem již rozhodla.\! <br>Hledat dokonalého partnera je příliš staromódní...\swh
+      text: Ne... Nesmím se nechat podat.\! O své cestě jsem již rozhodla.\! Hledat dokonalého partnera je příliš staromódní...\swh
 
 message_13:
       text: \sinv[1]A tak jsem se rozhodla si ho nechat vyrobit!\swh
@@ -192,7 +192,7 @@ message_72:
 #BENDA appears as a lump in front of party.
 
 message_73:
-      text: \sinv[1]UUUUU\{UUUU\{UUU...\}ooooozvěěěěnuuuuu...\}ooooozvěěěěnuuuuu...\}ooooozvěěěěnuuuuu...!\n<BENDA>
+      text: \sinv[1]UUUUU\{UUUU\{UUU...\}ooooozvěěěěnuuuuu...!\n<BENDA>
 
 message_74:
       faceset: MainCharacters_DreamWorld

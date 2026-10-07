@@ -298,7 +298,7 @@ message_97:
 message_100:
     faceset: MainCharacter_Mari
     faceindex: 0
-    text: \marTady v \c[11]DEŠŤNÉM MĚSTEČKU\c[0] pořád jen prší...
+    text: \marTady v \c[11]DEŠTIVÉM MĚSTEČKU\c[0] pořád jen prší...
 
 message_101:
     faceset: MainCharacter_Mari

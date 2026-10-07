@@ -49,9 +49,9 @@ terms:
         actorDrain: "%1 přichází o %3 ŠŤÁVY!"
         actorGain: "%1 získává %3 ŠŤÁVY!"
         actorLoss: "%1 ztrácí %3 ŠŤÁVY!"
-        actorNoDamage: "%1 nepřichází o žádné ŽIVOTY!"
-        actorNoHit: "VEDLE! %1 nepřichází o žádné ŽIVOTY!"
-        actorRecovery: "%1 doplňuje ŠŤÁVU o %3 bodů!"
+        actorNoDamage: "%1 nepřichází o nic!"
+        actorNoHit: "VEDLE! %1 nepřichází o nic!"
+        actorRecovery: "%1 doplňuje %2 o %3 bodů!"
         alwaysDash: "VŽDY BĚŽET"
         bgmVolume: "HLASITOST HUDBY"
         bgsVolume: "HLASITOST POZADÍ"
@@ -62,16 +62,16 @@ terms:
         criticalToActor: "TREFA JAKO O ŽIVOT!"
         criticalToEnemy: "TREFA JAKO O ŽIVOT!"
         debuffAdd: "%2 %1 se zvýšilo!"
-        defeat: "%1 byl poražen/a..."
-        emerge: "%1 se objevil!"
-        enemyDamage: "%1 byl/a ztrefen/a za %2 životy!"
-        enemyDrain: "%1 přišel/a o %3 %2!"
-        enemyGain: "%1 získal/a %3 %2!"
-        enemyLoss: "%1 ztratil/a %3 %2!"
-        enemyNoDamage: "%1 nepřišel/a o žádné životy!"
-        enemyNoHit: "VEDLE! %1 nepřišel/a o žádné životy!"
-        enemyRecovery: "%1 doplnil/a %3 o %2 bodů!"
-        escapeFailure: "...ovšem, nepovedl se."
+        defeat: "%1 prohrává souboj..."
+        emerge: "%1 se objevuje!"
+        enemyDamage: "%1 ztrácí %2 ŽIVOTŮ!"
+        enemyDrain: "%1 přichází o %3 ŠŤÁVY!"
+        enemyGain: "%1 získává %3 ŠŤÁVY!"
+        enemyLoss: "%1 ztrácí %3 ŠŤÁVY!"
+        enemyNoDamage: "%1 nepřichází o nic!"
+        enemyNoHit: "VEDLE! %1 nepřichází o nic!"
+        enemyRecovery: "%1 doplňuje %2 o %3 bodů!"
+        escapeFailure: "...ovšem, nepovedlo se."
         escapeStart: "%1 se pokouší o útěk!"
         evasion: "%1 se vyhýbá útoku!"
         expNext: "K příštímu %1"
@@ -85,8 +85,8 @@ terms:
         obtainExp: "Získal jsi %1 %2!"
         obtainGold: "Získal jsi %1\\G!"
         obtainItem: "Našel jsi %1!"
-        obtainSkill: "...a nyní umí se dovednost %1!"
-        partyName: "%1HO parta"
+        obtainSkill: "...a nyní umí dovednost %1!"
+        partyName: "%1"
         possession: "Vlastnictví"
         preemptive: "%1 má náskok!"
         saveMessage: "Do jaké hry chceš ULOŽIT?"
@@ -95,7 +95,7 @@ terms:
         substitute: "%1 brání %2!"
         surprise: "%1 prožívá překvapení!"
         useItem: "%1 používá %2!"
-        victory: "%1 zvítězila!"
+        victory: "%1 a spol. vítěží!"
 
     param:
         0: "Max. ŽIVOTY"
@@ -590,7 +590,7 @@ plugins:
       textSkip:
         text: PŘESKAKOVÁNÍ TEXTU
         options: ["ZAP.", "VYP."]
-        help: Povoluje přeskakovat text ve hře stisknutím kláves pro potvrzení nebo zrušení.
+        help: Umožňuje přeskakování textu klávesami potvrzení či zrušení.
         boolIndex: true
         spacing: 80
 
@@ -602,21 +602,21 @@ plugins:
   #      spacing: 80
 
   #    battleAnimationSpeed:
-  #      text: RYCHLOST ANIMACÍ V BITVĚ
+  #      text: RYCHLOST ANIMACÍ V SOUBOJI
 #        options: ['BĚŽNÁ', 'ZRYCHLENÁ', 'ZRYCHLÁ', 'NEJRYCHLEJŠÍ']
   #      help: NÁPOVĚDA
   #      spacing: 130
 
       battleLogSpeed:
-        text: RYCHLOST TEXTU V BITVĚ
+        text: RYCHLOST TEXTU V SOUBOJI
         options: ['RYCHLÁ', 'BĚŽNÁ', 'POMALÁ']
-        help: Změní rychlost, kterou nabíhá text v bitvě.
+        help: Změní rychlost, kterou nabíhá text v souboji.
         spacing: 130
 
       alwaysDash:
         text: DRUH POHYBU
         options: ['BĚH', 'CHŮZE']
-        help: Přepíná mezi používání běhu nebo chůze jakožto základní druh pohybu postav.
+        help: Rozhoduje zda běhat vždy, či jen při stisknutí klávesy.
         boolIndex: true
         spacing: 130
 

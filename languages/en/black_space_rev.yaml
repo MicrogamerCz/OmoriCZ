@@ -104,13 +104,13 @@ message_61:
       text: \n<ČMÁRANICE>Hledáš někoho?\! Nebo něco?
 
 message_62:
-      text: \n<ČMÁRANICE>O tohle se už jednou někdo pokoušel.\!<br>Ty?\! Já?\! Ten kluk s kytičkama?
+      text: \n<ČMÁRANICE>O tohle se už jednou někdo pokoušel.\!<br>Ty?\! Já?\! Kluk s kytičkama?
 
 message_63:
-      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Tam, kde to znáš.\! Někam, kde se cítíš bezpečně. Někam, kde máš všechny své dobré vzpomínky.\! Kéž by jen takové místo bylo.
+      text: \n<ČMÁRANICE>Kam bys šel, kdybys byl ztracený?\!<br>Tam, kde to znáš.\! Někam, kde se cítíš bezpečně.\! Kde máš všechny své dobré vzpomínky.\! Kéž by takové místo bylo.
 
 message_64:
-      text: \n<ČMÁRANICE>Zde nic není.\! Zde nic nezůstalo.
+      text: \n<ČMÁRANICE>Tady nic není.\! Tady nic nezůstalo.
 
 message_65:
       text: \n<ČMÁRANICE>Cupy-cupy...\! cupy-cup...
@@ -1106,4 +1106,4 @@ message_668:
       text: \whoProč...\| Proč nepadáš?! #přirozenější předělávka
 
 message_670:
-    text: Zde není žádná \c[4]ŽÁROVKA\c[0].
+    text: Zde chybí \c[4]ŽÁROVKA\c[0].

@@ -12,7 +12,7 @@ message_2:
       text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Za dva dny se odstěhuješ kamsi jinam.
 
 message_3:
-      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Zítra se odstěhuješ kamsi jinam.\! ...\! Bude ti to tady chybět. #chyba
+      text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Zítra se odstěhuješ kamsi jinam...\! Bude ti to tady chybět. #chyba
 
 message_4:
       text: Cedule s nápisem \"NA PRODEJ\" a velkou nálepkou s nápisem \"PRODÁNO\".\!<br>Tvůj dům byl prodán.\! Dnes se stěhuješ kamsi jinam.
@@ -271,7 +271,7 @@ message_68:
 
 #Alarm Clock:
 message_69:
-      text: Budík... pro zodpovědné lidi.\!<br>Je pět minut napřed. #pravý opak
+      text: Budík... pro zodpovědné.\!<br>Je pět minut napřed. #pravý opak
 
 #Hero's Desk:
 message_70:
@@ -456,12 +456,12 @@ message_116:
 
 #Family Photo Yearly:
 message_117:
-      text: Fotky zaznamenající dětsví dívky.\!<br>Jednoho dne si obarvila vlasy na modro.\!<br>Hele, vypadá stejně staře, jako ty! #blíže orig
+      text: Fotky zaznamenající dětsví dívky.\!<br>Jednoho dne si obarvila vlasy na modro.\!<br>Hele, vypadá, že by mohla být stejně stará, jako ty! #blíže orig
 
 #Boombox:
 #*Plays Rock Music*
 message_118:
-      text: Tak to bylo celkem nečekané... #blíže orig
+      text: Tak to bylo teda nečekané... #blíže orig
 
 #Vases:
 message_119:
@@ -477,7 +477,7 @@ message_121:
 
 #Mermaid Tail:
 message_122:
-      text: Na míru vyrobená ploutev nasazena na chodidla.
+      text: Na míru vyrobená ploutev, která se nasazuje na chodidla.
 
 #Fish Bowl:
 message_123:
@@ -654,7 +654,7 @@ message_197:
       text: Tenhle dům je plný knih o všem možném.\! Tahle je o jakýchsi \"početních vědách\".
 
 message_198:
-      text: Na stole leží otevřená kniha.<br><br><br>\"Pro udržení tvaru vaší bonsaje je prořezávání nezbytné.\"<br><br>\"Každá bonsaj roste svým vlastním tempem, a tak je zapotřebí frekvenci prořezávání přizpůsobit vašemu případu.\"
+      text: Na stole leží otevřená kniha.<br><br><br>\"Pro udržení tvaru vaší bonsaje je prořezávání nezbytné.\"<br>\"Každá bonsaj roste svým vlastním tempem, a tak je zapotřebí frekvenci prořezávání přizpůsobit.\"
 
 message_199:
       text: Velká miska.
@@ -750,7 +750,7 @@ message_250:
 
 #Magazines:
 message_251:
-      text: Noviny a časopisy.\! Nasbírané za dlouhý časový úsek.
+      text: Noviny a časopisy.\! Nasbírané za dlouhou dobu.
 
 #Mail:
 message_252:
@@ -849,7 +849,7 @@ message_285:
 
 #Trash Can:
 message_286:
-      text: Černý koš.
+      text: Černá popelnice.
 
 message_287:
       text: Obyčejná bílá poštovní schránka.
@@ -1359,7 +1359,7 @@ message_487:
 
 #Bread:
 message_488:
-      text: Chleba.\! Voní křupavě.
+      text: Chleba.\! Vypadá křupavě.
 
 #Pie:
 message_489:
@@ -1824,7 +1824,7 @@ message_1011:
       text: AUBRYINO staré modré kolo.
 
 message_1012:
-      text: Modrý piknikový košík.\! Nijak nepodobný tomu MARINÉMU. #jak se skloňuje MARI, ach jo
+      text: Modrý piknikový košík.\! nijak podobný tomu MARINÉMU. #jak se skloňuje MARI, ach jo
 
 message_1013:
       text: Získal jsi \c[5]NÁPLAST\c[0].

@@ -243,13 +243,13 @@ message_48:
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kel\Com[2]A-ha!\! Našli jsme BUNA a NOSKU!
+      text: \kel\Com[2]A-ha!\! Našli jsme CULDU a NOSKU!
 
 message_50:
       text: \n<CULDA>NOSKO... Našli nás!
 
 message_51:
-      text: \n<NOSE>\}NOSKA... jede...
+      text: \n<NOSKA>\}NOSKA... jede...
 
 message_52:
       text: \n<CULDA>Aha... Nezlobím se.\!<br>Pojďme si zahrát pacičky!
@@ -449,7 +449,7 @@ message_100:
       text: \n<OFČA>Zde...
 
 message_101:
-      text: \berBUN!
+      text: \berCULDA!
 
 message_102:
       text: \n<CULDA>CULDA je tu!
@@ -661,7 +661,7 @@ message_147:
 message_148:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelŠÉF je jeden problém za druhým!\! Ještě že OMORI vydržel ten jeho poslední útok, jinak bychom všichni byli NA KAŠI...
+      text: \kelŠÉF je jeden problém za druhým!\! Ještě že OMORI vydržel ten jeho poslední útok, jinak bychom všichni byli HOTOVÍ...
 
 message_149:
       faceset: MainCharacter_Basil
@@ -728,7 +728,7 @@ message_309:
 #KEL became toast
 
 message_150:
-      text: \herPočkat... Mám pocit, že KEL je NA KAŠI! #začátek nepoužitého textu
+      text: \herPočkat... Mám pocit, že KEL je HOTOVÝ! #začátek nepoužitého textu
 
 message_151:
       text: \aubCože? No jo, vážně, máš pravdu!
@@ -747,7 +747,7 @@ message_154:
 # DŽEMÁK: (Use placeholder graphic)
 
 message_155:
-      text: \n<DŽEMÁK>Zdravím, děti! Jsem \c[3]DŽEM\c[0]ák!<br>\!Prodávám \c[3]ŽIVÝ DŽEM\c[0]!\! Opravdu zabírá!
+      text: \n<DŽEMÁK>Zdravím, děti! Jsem \c[3]DŽEMÁK\c[0]!<br>\!Prodávám \c[3]ŽIVÝ DŽEM\c[0]!\! Opravdu zabírá!
 
 message_156:
       text: \n<DŽEMÁK>Chtěli byste vzorek zdarma?
@@ -776,7 +776,7 @@ message_162:
       text: \n<DŽEMÁK>Haha, to nevadí.\! Však stejně ho budete později potřebovat. #maty, přiroz
 
 message_163:
-      text: \n<DŽEMÁK>\com[2]\c[3]ŽIVÝ DŽEM\c[0]!\! Fakt funugje!
+      text: \n<DŽEMÁK>\com[2]\c[3]ŽIVÝ DŽEM\c[0]!\! Opravdu zabírá!
 
 message_164:
       text: \n<DŽEMÁK>Jak se vám líbil můj vzorek zdarma?\! Haha, kecám.\!<br>Vím, že jste ho zbožňovali!
@@ -793,10 +793,10 @@ message_181:
       text: \kelHm? Proč se ptáš?
 
 message_182:
-      text: \aubZrovna z tebe nadělali KAŠI! Nevzpomínáš?
+      text: \aubZrovna ty jsi z nich byl HOTOVÝ! Nevzpomínáš?
 
 message_183:
-      text: \kelUdělali ze mě KAŠI? Ty jo, to nevím, ale zní to dost praštěně. To bych si asi pamatoval, kdyby se to stalo.
+      text: \kelTak HOTOVÝ? Ty jo, to nevím, ale zní to dost praštěně. To bych si asi pamatoval, kdyby se to stalo.
 
 message_184:
       text: \kelTy jo, tys už všechny našel, OMORI? Seš celkem dobrej ve schovce, viď?

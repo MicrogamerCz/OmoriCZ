@@ -106,18 +106,18 @@ message_81:
 #Location:  FARAWAY PARK
 
 message_90:
-      text: \n<DĚSIVÁ HOLKA>Když mi BEBE řekla o tom klukovi, který se ji líbí, musela jsem ho vidět na vlastní oči.\! Zatím pořád nic...\! ale má prý jasné poznávací znamení - nápadně umělou, blonďatou paruku.
+      text: \n<DĚSIVÁ>Když mi BEBE řekla o tom klukovi, který se ji líbí, musela jsem ho vidět na vlastní oči.\! Zatím pořád nic...\! ale má prý jasné poznávací znamení...\! Nápadně umělou, blonďatou paruku.
 
 message_91:
-      text: \n<DĚSIVÁ HOLKA>Uff...\! BEBE na kluky nemá moc dobrý vkus...\! Kdo ji bude hlídat, až zase odjedu na kolej?
+      text: \n<DĚSIVÁ>Uff...\! BEBE na kluky nemá moc dobrý vkus...\! Kdo ji bude hlídat, až zase odjedu na kolej?
 
-#DĚSIVÁ HOLKA: If Hero is the leader
+#DĚSIVÁ: If Hero is the leader
 
 message_92:
-      text: \n<DĚSIVÁ HOLKA>Ale! Ahoj, HERO! Hehe... Divné tě vidět tady, a ne u nás na škole.
+      text: \n<DĚSIVÁ>Ale! Ahoj, HERO! Hehe... Divné tě vidět tady, a ne u nás na škole.
 
 message_93:
-      text: \n<DĚSIVÁ HOLKA>Taky za rodinou?... To jo, rodina je skvělá, ale nemůžu se dočkat zpátky za kámoškama... Tady doma je to hrozná nuda, viď?
+      text: \n<DĚSIVÁ>Taky za rodinou?... To jo, rodina je skvělá, ale nemůžu se dočkat zpátky za kámoškama... Tady doma je to hrozná nuda, viď?
 
 #==============BRENT===========================================
 #Location:  Brent's House
@@ -161,7 +161,7 @@ message_140:
 #Location:  Cris's House
 
 message_150:
-      text: \n<POŘÁDNÁ ČEŠKA>Naposledy co jsem pekla koláč, voněl jaksi divně... Snad neztrácím formu!
+      text: \n<POŘÁDNÁ ČEŠKA>Naposledy co jsem pekla bábovku, voněla jaksi divně... Snad neztrácím formu!
 
 #==============Daphne and Bowen===========================================
 #Location:  The Mavericks House (Pet Rock Fight)
@@ -201,10 +201,10 @@ message_181:
 #Location:  Joy's House
 
 message_190:
-      text: \n<MALÁ HOLKA>Můj starší brácha MICHAL řekl, že dnes odchází z domu, a že se bude živit jako muzikant...
+      text: \n<HOLČIČKA>Můj starší brácha MICHAL řekl, že dnes odchází z domu, a že se bude živit jako muzikant...
 
 message_191:
-      text: \n<MALÁ HOLKA>Práskla jsem to omylem TAŤKOVI, i když jsem prý neměla. Snad na mě nebude MICHAL naštvaný...
+      text: \n<HOLČIČKA>Práskla jsem to omylem TAŤKOVI, i když jsem prý neměla. Snad na mě nebude MICHAL naštvaný...
 
 #==============JOY'S DAD===========================================
 #Location:  Joy's House (Michael's Lunch quest)
@@ -222,7 +222,7 @@ message_210:
       text: \n<PANÍ S COPÁNKAMA>Opět vám děkuji za pomoc. Vy jste tak zlatí! #přiroz
 
 message_221:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Uvidíme se na tom večírku! Budu se na vás těšit!
+      text: \n<KOSTKOVANÁ KOŠILE>Uvidíme se na tom večírku! Budu se na vás těšit!
 
 #==============KEL'S DAD===========================================
 #Location: FARAWAY PARK (Forgot Meat quest)
@@ -232,7 +232,7 @@ message_230:
       text: \n<KELŮV TÁTA>Víte, později byste se se nám mohli stavit. Rozhodně bych se s váma o tyhle skvělé burgry chtěl podělit! #"Mňamózní" mi zní moc detinsky. dole vypouštím dál
 
 message_231:
-      text: \n<KEL'S DAD>Ale teď klidně běžte a užívejte si to krásné počasí!
+      text: \n<KELŮV TÁTA>Ale teď klidně běžte a užívejte si to krásné počasí!
 
 #==============KEL'S MOM===========================================
 #Location:  FARAWAY PARK
@@ -262,7 +262,7 @@ message_254:
 #Location:  Kim's House
 
 message_260:
-      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>To je skoro jako tehdy, jak jsme...\! jo...\! a pak...\! no popravdě bych řekla,...\! ano, jistě...
+      text: \n<ČERVENÉ BRÝLE>To je skoro jako tehdy, jak jsme...\! jo...\! a pak...\! no popravdě bych řekla,...\! ano, jistě...
 
 #==============Lucas(Dog)===========================================
 #Location:  Artist's House, running around Angel
@@ -322,14 +322,14 @@ message_320:
 message_330:
       text: \n<PANÍ S COPÁNKAMA>Tenhle...\! fňuk...\! film je můj oblíbený...\! fňuk...
 
-#==============SEAN===========================================
+#==============ŠIMON===========================================
 #Location: Aubrey's Street in front of his house
 
 message_340:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Ahoj! Jen bych vám chtěl připomenout, že budeme mít dneska večer tu kolaudaci. Všichni z téhle ulice jsou pozváni!
+      text: \n<KOSTKOVANÁ KOŠILE>Ahoj! Jen bych vám chtěl připomenout, že budeme mít dneska večer tu kolaudaci. Všichni z téhle ulice jsou pozváni!
 
 message_341:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Tak snad se uvidíme! A nebojte, jídla bude dost.
+      text: \n<KOSTKOVANÁ KOŠILE>Tak snad se uvidíme! A nebojte, jídla bude dost.
 
 #after cooking help Quest
 #refer to 210 and 221

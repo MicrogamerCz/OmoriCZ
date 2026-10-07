@@ -4,7 +4,7 @@
 # =========================================================================================
 
 message_0:
-      text: Vznášející se zrcadlo.\!<br>Tví kamarádi se vřele usmívají za tvými zády.
+      text: Vznášející se zrcadlo.\!<br>Tví kamarádi se vlídně usmívají za tvými zády.
 
 message_1:
       text: Vznášející se zrcadlo.
@@ -17,7 +17,7 @@ message_1:
 #Butt Certificate Flag
 
 message_50:
-      text: \nAUBRYIN \c[4]DIPLOM HLAVO-TVRDOSTI\c[0].\!<br>\sinv[1]Tak majestátní...\|Tak krásný...
+      text: \nAUBRYIN\c[4]DIPLOM TVRDOHLAVOSTI\c[0].\!<br>\sinv[1]Tak majestátní...\|Tak krásný...
 
 #============================
 
@@ -871,7 +871,7 @@ message_376:
       text: Židle obrácená ke zdi.
 
 message_377:
-      text: Obrácená stolička.
+      text: Převrhnutá stolička.
 
 message_378:
       text: Nevidíš zde žádné světlo.
@@ -959,7 +959,7 @@ message_507:
       text: Obilná šťáva.\! Nic pro děti.
 
 message_508:
-      text: Dýmovnice.
+      text: Popelník.
 
 message_509:
       text: Drahé knihy jen tak pro parádu. #vyhnul bych se neologismům z angličtiny
@@ -971,7 +971,7 @@ message_511:
       text: Nežije. #přirozenější
 
 message_512:
-      text: \c[4]P.O.S.T.E.L.\c[0]\!<br>Také známa pod názvem \c[4]PLYNO-ODSTRAŇOVACÍ STROJ NA ELEKTŘINU\c[0].
+      text: \c[4]P.O.S.T.E.L.\c[0]\!<br>Také známa pod názvem \c[4]POMOCNÍK V OBLASTECH SPÁNKU, TULENÍ, ENERGIE A LENOŠENÍ\c[0].
 
 message_513:
       text: Tento výtah se neotevře.
@@ -1342,7 +1342,7 @@ message_860:
 #Yellow Sub
 
 message_900:
-      text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]DŽEM ŽIVOTA\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]MENÍČKO\c[0]!\" #překlad, dodělat názvy
+      text: \"UŽIJTE SI NEJLEPŠÍ \c[3]CHEESEBURGERY\c[0] VE MĚSTĚ...\!<br>\c[3]HRANOLKY\c[0], \c[3]SLADKÁ SODA\c[0], \c[3]ŽIVÝ DŽEM\c[0], A TAK DÁLE...\!<br>A NEBO JEŠTĚ LÉPE...\! OBĚDNEJTE SI \c[4]MENÍČKO\c[0]!\" #překlad, dodělat názvy
 
 message_901:
       text: Letáky.
@@ -1366,7 +1366,7 @@ message_912:
       text: \"NOC ZLATÍČKA\"
 
 message_913:
-      text: \"Mona ZLATÍČKO\"
+      text: \"MONA ZLATÍČKO\" #konzistence
 
 message_914:
       text: \"VÝKŘÍČKO\"

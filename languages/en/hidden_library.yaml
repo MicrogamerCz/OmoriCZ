@@ -25,7 +25,7 @@ message_4:
       text: \"Předstírá, že spí a zadrží dech.\! <br>Zaposlouchá se do zvuku cesty.\"
 
 message_5:
-      text: \"Na své kůži cítí něžný dotek slunce. Náhle ho zarazí jeho svědivý nos, opálený ze včerejška.\"
+      text: \"Na své kůži cítí něžný dotek slunce a na nose svědění z nadházejícího spálení.\" #blíže orig
 
 message_6:
       text: \"Je šťastný...\! velmi, velmi šťastný...\! <br>A sám sobě odpřísáhne, že ať už se stane cokoliv,<br>na tuto chvíli nikdy nezapomene.\"
@@ -68,7 +68,7 @@ message_40:
       text: \"Byl parný, letní den, a jediné, co se honilo ☐ho hlavou bylo proč sem nemohli jít i zítra.\"
 
 message_41:
-      text: \"Na zahradě byl naprostý nepořádek.\"
+      text: \"Na zahradě byl naprostý binec.\" #blíže orig
 
 message_42:
       text: \"Dřevěná prkna poházena po celé ploše.\! <br>Stopy po barvě, ☐☐☐☐☐ova a ☐☐☐☐☐na práce, pokrývaly trávu.\"
@@ -106,7 +106,7 @@ message_70:
       text: \"Letos měl ☐ štěstí a byla mu přidělena lavice vedle malého okýnka.\"
 
 message_71:
-      text: \"Každý den přes něj ☐ tiše zíral ven...\! Na stíny stromů, na mraky obklopující oblohu...\"
+      text: \"Každý den přes něj tiše zíral ven...\! Na stíny stromů, na mraky obklopující oblohu...\" #netřeba jména
 
 message_72:
       text: \"Byl myšlenkama zcela jinde...\! ve vlastním světě, vlastním příběhu, vlastním dobrodružství.\"
@@ -118,7 +118,7 @@ message_74:
       text: \"A dnešek byl den, jako každý jiný.\! ☐ prázdně civěl na mraky, tančící po obloze, jeden po druhém, neustále a dál.\"
 
 message_75:
-      text: \"Přičemž jej kamarádské plácnutí po zádech vytrhne z jeho snění.\! ☐ uhne pohledem od okna pryč.\"
+      text: \"Náhle jej kamarádské plácnutí po zádech vytrhne z jeho snění.\! ☐ uhne pohledem od okna pryč.\"
 
 message_76:
       text: \"☐☐☐ se usměje.\! Naznačí, že skončilo vyučování, a že je čas jít na oběd.\! Dnes servírují pizzu, a tak by <br>tam měli vyrazit rovnou, aby na ně vůbec zbylo.\"
@@ -127,7 +127,7 @@ message_77:
       text: \"☐mu začne kručet v břiše.\! Jednou naposledy upře pohled na okénko.\"
 
 message_78:
-      text: \"Jeho dobrodružství holt bude muset počkat na další den.\"
+      text: \"Jeho dobrodružství holt bude muset počkat na jindy.\" #přiroz
 
 
 #========================================================================================
@@ -139,10 +139,10 @@ message_90:
       text: \"Zapadá slunce.\! Podivuhodná socha svým pohledem střeží hladinu jezera.\! Kdysi možná měla jakýsi význam, i když dnes už byly její vryty dávno zaceleny časem.\"
 
 message_91:
-      text: \"Každopádně ji jistě nevadí <br>dnešní návštěvníci jezera.\! I když ji používají jako skákací prkno.\"
+      text: \"Ať už to je jakkoli, <br>dnešní návštěvníky to nijak nezajímá.\! Mají ji jen za skákací prkno.\" #kompletní předělávka pro zachování původního významu
 
 message_92:
-      text: \"Bratři začnou jednotlivě jeden po druhém skákat.\"
+      text: \"Bratři začnou jednotlivě jeden po druhém seskakovat.\"
 
 message_93:
       text: \"☐☐☐☐ skáče první.\! Po něm je na řadě ☐☐☐.\! <br>Poté zase ☐☐☐☐.\! A pak znovu ☐☐☐.\"
@@ -176,7 +176,7 @@ message_110:
       text: \"Všichni opět přišli na návštěvu.\!<br>Je sobotní ráno.\"
 
 message_111:
-      text: \"Od sedmi do jedenácti hodin ráno spolu šestičlenná skupinka pojedla vynikající domácí snídani při sledování televize.\"
+      text: \"Od sedmi do jedenácti hodin spolu šestičlenná skupinka pořádá vynikající domácí snídani při sledování televize.\" #ráno není třeba opakovat, převedení do přítomného času
 
 message_112:
       text: \"Je to jejich oblíbená část týdne.\"

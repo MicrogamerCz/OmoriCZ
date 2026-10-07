@@ -57,7 +57,7 @@ message_129:
 
 
 message_130:
-      text: MARINA postel...\! A moje taky, vždycky když jsem měl zlé sny.
+      text: MARINA postel...\! A moje taky, vždycky když jsem míval zlé sny.
 
 
 message_444:
@@ -223,7 +223,7 @@ message_188:
       text: Záchod.\! Na tenhle je vždycky spoleh.
 
 message_189:
-      text: Hygienické potřeby.\! Každý z nás, by měl mít svoje...\! ale my je stejně nejsme schopni navzájem rozpoznat.
+      text: Hygienické potřeby.\! Každý z nás by měl mít svoje...\! ale my je stejně nejsme schopni navzájem rozpoznat.
 
 message_190:
       text: Zrcadlo.\! Nerad se do něj dlouho dívám.
@@ -321,7 +321,7 @@ message_401:
       text: Jojo.\! Jediný trik, cos uměl, byl "walk the dog". #uvozovky (nejsem jojer, jinak bych asi věděl přesný název. hledal jsem ji začátečnické jojo triky, a ty se nepřekládají).
 
 message_402:
-      text: KELOVY staré boty.\! Často si u nás zapomínal své věci.
+      text: KELOVY staré boty.\! Často si u vás leccos zapomínal.
 
 
 # =========================================================================================
@@ -374,7 +374,7 @@ message_238:
       text: Obyčejný hrad z písku.
 
 message_239:
-      text: Několik plážových hraček.\!Zábava pro všechny!
+      text: Několik plážových hraček.\! Zábava pro všechny!
 
 message_240:
       text: Barel, ze kterého kdosi udělal koš. #"od ropy" mi působí rochu zvláštně
@@ -503,7 +503,7 @@ message_33:
       text: Vidíš v ní čtyři děti, vylézající po žebříku do vesmíru.
 
 message_34:
-      text: Vidíš v ní tři děti a jednu kaši. #počet
+      text: Vidíš v ní tři děti a jeden hotový toust. #počet
 
 message_35:
       text: Vidíš v ní čtyři děti, bavící se s velikou sochou.
@@ -572,7 +572,7 @@ message_51:
       text: Z venku slyšíš zpívat ptáky.
 
 message_52:
-      text: Vůně čistého prádla naplňuje vzduch.
+      text: Vzduchem táhne vůně čistého prádla.
 
 message_53:
       text: Na líčkách cítíš, jak hřeje slunce.
@@ -610,7 +610,7 @@ message_304:
 message_305:
       faceset: MainCharacter_Mari
       faceindex: 23
-      text: Naslouchával si mi celé hodiny...\! S tím na tebe byl vždycky spoleh. \aub #vypouštím "mluvit"
+      text: Naslouchal si mi celé hodiny...\! S tím na tebe byl vždycky spoleh. \aub #vypouštím "mluvit"
 
 message_306:
       faceset: MainCharacter_Mari

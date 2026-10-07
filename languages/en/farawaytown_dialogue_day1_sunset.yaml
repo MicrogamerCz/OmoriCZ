@@ -94,7 +94,7 @@ message_40:
       text: \n<STŘEMHLAV>\{\Com[2]NEPODCEŇUJ MĚ!!\}
 
 message_41:
-      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\!<br>\Com[2]Chci vidět pořádnou výzvu!
+      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\! \Com[2]Chci vidět pořádnou výzvu!
 
 message_42:
       faceset: MainCharacters_Faraway
@@ -138,10 +138,10 @@ message_49:
 #THE MAVERICK's wig falls off and he picks it up and puts it back on.
 
 message_50:
-      text: \n<THE MAVERICK>Hff...\! huff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
 
 message_51:
-      text: \n<THE MAVERICK>Hff...\! Já...\! hff...\! musím...\! hff...\! zachránit...\! svou čest...\! hff...
+      text: \n<STŘEMHLAV>Hff...\! Já...\! hff...\! musím...\! hff...\! zachránit...\! svou čest...\! hff...
 
 message_52:
       faceset: MainCharacters_Faraway
@@ -217,7 +217,7 @@ message_110:
 
 #After cutscene: Awkward Dinner
 message_111:
-      text: \n<POLLY>Asi bych se vám mohla představit, že?\!<br>Vlastně nejsem nikdo... jen sestřička, co se stará o BASILOVU BABIČKU.
+      text: \n<POLLY>Asi bych se vám mohla představit, že?\!<br>Vlastně nejsem nikdo... jen sestřička, která se stará o BASILOVU BABIČKU.
 
 message_112:
       text: \n<POLLY>A před pár měsíci mě BASILOVI rodiče najali, abych se starala i o něj, protože pořád odjíždějí pracovat kamsi do zahraničí.
@@ -242,7 +242,7 @@ message_121:
       text: \n<KNĚZ>Ta AUBRY sem chodí každý týden už pár let v kuse, ale nikdy s nikým nemluví.
 
 message_122:
-      text: \n<KNĚZ>Párkrát jsem se ji snažil oslovit...<br>ale pořád mě posílá...\! err...\! někam...
+      text: \n<KNĚZ>Párkrát jsem se ji snažil oslovit...<br>ale pořád mě posílá...\! ehm...\! někam...
 
 message_123:
       text: \n<KNĚZ>Připadá mi, že ji něco trápí.\! Rozhodně by potřebovala nějakého kamaráda.

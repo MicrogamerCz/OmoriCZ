@@ -6,7 +6,7 @@
 #Examine the Jukebox
 
 message_1:
-      text: JUKEBOX.\! Vypadá, že umí přehrávat \c[4]CDčka\c[0]!
+      text: JUKEBOX.\! Vypadá, že umí přehrávat \c[4]CDČKA\c[0]!
 
 #If CD is in inventory
 message_2:
@@ -25,7 +25,7 @@ message_6:
       text: Kterou písničku by jsi chtěl pustit? #bližší orig
 
 message_7:
-      text: Starý JUKEBOX.\! <br>Chtěl bys darovat všechna svá \c[4]CDčka\c[0] do kolekce?
+      text: Starý JUKEBOX.\! <br>Chtěl bys darovat všechna svá \c[4]CDČKA\c[0] do kolekce?
 
 # Filenames
 message_20:
@@ -69,43 +69,43 @@ message_32:
 
 # Song names
 message_200:
-      text: NOSTALGICKÉ CDčko
+      text: NOSTALGICKÉ CDČKO
 
 message_201:
-      text: NEBESKÉ CDčko
+      text: NEBESKÉ CDČKO
 
 message_202:
-      text: VÁNOČNÍ CDčko
+      text: VÁNOČNÍ CDČKO
 
 message_203:
-      text: ĎÁBELSKÉ CDčko #zní lépe
+      text: ĎÁBELSKÉ CDČKO #zní lépe
 
 message_204:
-      text: VESMÍRNÉ CDčko
+      text: VESMÍRNÉ CDČKO
 
 message_205:
-      text: ÚTULNÉ CDčko
+      text: PŘÍJEMNÉ CDČKO
 
 message_206:
-      text: BRUTÁLNÍ CD
+      text: BRUTÁLNÍ CDČKO
 
 message_207:
-      text: PODIVUHODNÉ CDčko
+      text: PODIVUHODNÉ CDČKO
 
 message_208:
-      text: STRAŠIDELNÉ CDčko
+      text: STRAŠIDELNÉ CDČKO
 
 message_209:
-      text: KLIDNÉ CDčko
+      text: KLIDNÉ CDČKO
 
 message_210:
-      text: POKOJNÉ CDčko
+      text: KLIDNÉ CDČKO
 
 message_211:
-      text: DYNAMICKÉ CDčko
+      text: DYNAMICKÉ CDČKO
 
 message_212:
-      text: TAJNÉ CDčko
+      text: TAJNÉ CDČKO
 
 #[yes/no]
 
@@ -118,7 +118,7 @@ message_212:
 # Jukebox NPC
 # Chatting about currently playing music/artist
 message_50:
-      text: \n<RAI>Tuhle znám!\! To je cover písničky \"HANGING WITH THE BOYS\"od  SLIME GIRLS. #je to - to je - zní přirozeněji, přidáno "od" ať je jasnější, kde končí název písničky a začíná jméno autora. ostatní dle vzoru pozměněmy
+      text: \n<RAI>Tuhle znám!\! To je cover písničky \"HANGING WITH THE BOYS\" od SLIME GIRLS. #je to - to je - zní přirozeněji, přidáno "od" ať je jasnější, kde končí název písničky a začíná jméno autora. ostatní dle vzoru pozměněmy
 
 message_60:
       text: \n<RAI>Tuhle znám!\! To je cover písničky \"WHITE SPACE\" od CLOVERA & SEALIFE.

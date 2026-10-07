@@ -230,12 +230,12 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: A jo, tys tam vlastně byla se svým taťkou taky, že, AUBRY!\! <br>Nechystali jsme se na něco?\kel
+      text: A jo, tys tam vlastně byla se svým taťkou taky, že, AUBRY!\! Nechystali jsme se na něco?\kel
 
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 27
-      text: Jo, chystali.\!<br>Chtěli jsme jít na MARINY a SUNNYHO předehrávku...\aub
+      text: Jo, chystali.\!<br>Chtěli jsme jít na MARINU a SUNNYHO předehrávku...\aub
 
 message_78:
       faceset: MainCharacters_Faraway
@@ -308,7 +308,7 @@ message_104:
 message_105:
       faceset: MainCharacters_Faraway
       faceindex: 16
-      text: \Com[2]Auvajs! Asi jsem šlápl na hřebík...\kel
+      text: \Com[2]Auvajs! Asi jsem šlápl na kostičku...\kel
 
 message_106:
       faceset: MainCharacters_Faraway
@@ -327,7 +327,7 @@ message_107:
 #PLAYER needs to flip it to read the back, then exit out.
 
 message_144:
-      text: Dal jsi do kapsy \c[4]KLÍČ OD KRABICE S HRAČKAMA\c[0].
+      text: Dal jsi do kapsy \c[4]KLÍČ OD KRABICE\c[0].
 
 message_108:
       faceset: MainCharacters_Faraway
@@ -494,7 +494,7 @@ message_136:
 message_137:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: \aubHele, SUNNY...\! Až se odstěhuješ...\! Myslíš, že bys nemohl náhodou-
+      text: \aubHele, SUNNY...\! Až se odstěhuješ...\! Nemohl bys náhodou-
 
 #from outside
 #AUBREYs face the door

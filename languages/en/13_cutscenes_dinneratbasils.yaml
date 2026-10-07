@@ -181,7 +181,7 @@ message_63:
 message_64:
       faceset: MainCharacters_Faraway
       faceindex: 13
-      text: Letos budu konečně já vyšší brácha. Ha ha!\kel
+      text: Letos budu konečně já ten vyšší brácha! Ha ha!\kel
 
 message_65:
       faceset: MainCharacters_Faraway
@@ -232,7 +232,7 @@ message_72:
 message_90:
       faceset: MainCharacter_Basil
       faceindex: 33
-      text: Ahoj, SUNNY...\! Nečekal jsem, že bych tě znovu viděl...\! Haha...\bas
+      text: Ahoj, SUNNY...\! Nečekal jsem, že tě ještě uvidím...\! Haha...\bas
 
 message_91:
       faceset: MainCharacter_Basil
@@ -276,7 +276,7 @@ message_97:
 message_98:
       faceset: MainCharacter_Basil
       faceindex: 43
-      text: Jsem rád, že jsem tě mohl zase vidět...\! <br>i když možná jen na chvilku.\bas
+      text: Jsem rád, že tě zase vidím...\! <br>i když možná jen na chvilku.\bas
 
 message_99:
       faceset: MainCharacter_Basil
@@ -326,7 +326,7 @@ message_109:
 message_120:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Chutná to přímo skvěle!\! Jste nejlepší, POLLY!\kel
+      text: Chutná to přímo skvěle!\! Jste skvělá, POLLY!\kel
 
 message_121:
       text: Ale ne, to nic... Jen se řídím BABIČČINÝMI recepty.\! <br>Ale díky, žes mi pomohl, KELI.\n<POLLY>
@@ -436,14 +436,14 @@ message_151:
 message_153:
       faceset: MainCharacter_Basil_dark
       faceindex: 33
-      text: Ty...\! Ty to vidíš taky, ne snad?\|<br>Něco...\| za tebou...\bas
+      text: Ty...\! Ty to vidíš taky, že ano?\|<br>Něco...\| za tebou...\bas
 
 #[Trigger: Attempt to leave]
 
 message_152:
       faceset: MainCharacter_Basil_dark
       faceindex: 37
-      text: P...Počkej...\! P-Prosím, SUNNY...\! Neopouštěj mě...\| \fn<OMORI_GAME><br>Znova ne...\bas
+      text: P...Počkej...\! P-Prosím, SUNNY...\! Neopouštěj mě...\| \fn<OMORI_GAME><br>Podruhé už ne...\bas
 
 
 # =========================================================================================
@@ -461,7 +461,7 @@ message_170:
 message_171:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Takže...\! <br>Kdybyste mě někdy potřebovala, POLLY, tady máte moji adresu.\!<br>Je to jen o pár ulic vedle!\kel
+      text: Takže...\! <br>Kdybyste mě někdy potřebovala, POLLY, tady máte moji adresu.<br>Je to jen o pár ulic vedle!\kel
 
 message_172:
       text: Díky, KELI. Jsi zlatý.\n<POLLY>
@@ -489,17 +489,17 @@ message_190:
 message_191:
       faceset: MainCharacter_Basil_dark
       faceindex: 9
-      text: A promiň za všechny ty problémy.\! Stejně to bylo celkem bláznivý dobrodružství, co?\kel #přirozenější
+      text: A promiň za všechny ty problémy.\! to bylo ale bláznivý dobrodružství, co?\kel #přirozenější
 
 message_192:
       faceset: MainCharacter_Basil_dark
       faceindex: 10
-      text: Vidím, žes dlouho s nikým nemluvil...\! ale to je v pohodě!\! Jen to chce čas!\kel
+      text: Vidím, žes dlouho s nikým nemluvil...\! ale to nevadí!\! Jen to chce čas!\kel #př
 
 message_193:
       faceset: MainCharacter_Basil_dark
       faceindex: 11
-      text: Každopádně, s tím, že se HERO zítra vrátí, by ses mu možná taky mohl ukázat. Určitě by tě chtěl vidět, než se odstěhuješ.\kel
+      text: Každopádně, s tím, že se HERO zítra vrátí, by ses mu možná taky mohl ukázat. Určitě by tě rád viděl, než se odstěhuješ.\kel #přiroz
 
 message_194:
       faceset: MainCharacter_Basil_dark

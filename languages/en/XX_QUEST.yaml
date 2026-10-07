@@ -537,7 +537,7 @@ message_180:
 message_181:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marTy jo! BERLY ti opravdu dala \c[4]DIPLOM HLAVO-TVRDOSTI\c[0]?\. To ji teď beztak nenechá pár dní spát!\.\^
+      text: \marTy jo! BERLY ti opravdu dala \c[4]DIPLOM TVRDOHLAVOSTI\c[0]?\. To ji teď beztak nenechá pár dní spát!\.\^
 
 # =========================================================================================
 
@@ -713,12 +713,12 @@ message_241:
 message_245:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marKITE KID thinks one of the pinwheels in the \c[11]FLOATING FOREST\c[0] is broken.\. I wonder if there's any way to fix it.\.\^
+      text: \marKLUK S DRAKEM si myslí, že jeden z větrníků v \c[11]LÉTAJÍCÍM LESE\c[0] je rozbitý.\. Schválně, jestli by s ním nešlo něco dělat.\.\^
 
 message_246:
       faceset: MainCharacter_Mari
       faceindex: 2
-      text: \marThe pinwheels seem to all be spinning now.\. You know what KEL always says.\. If it doesn't work...\. throw something at it!\.\^
+      text: \marVětrníky se zase krásně točí.\. Víš, co vždycky říká KEL.\. Když to nejde...\. hoď po tom!\.\^
 
 # =========================================================================================
 
@@ -966,7 +966,7 @@ message_402:
 message_403:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marNedělejte si hlavu z toho, co se stalo \c[11]DEŠŤNÉMU MĚSTEČKU\c[0].\. Chtěli jste jim přece jen pomoct...\. nebo snad ne?\.\^
+      text: \marNedělejte si hlavu z toho, co se stalo \c[11]DEŠTIVÉM MĚSTEČKU\c[0].\. Chtěli jste jim přece jen pomoct...\. nebo snad ne?\.\^
 
 #Quest Complete II:
 

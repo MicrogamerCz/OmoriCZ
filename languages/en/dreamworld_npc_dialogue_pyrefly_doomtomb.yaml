@@ -35,13 +35,13 @@
 #BISCUIT & DOUGHIE
 #Location: LAST RESORT (after beating Biscuit and Doughie)
 message_0:
-      text: \n<DOUGHIE>I'm afraid we have lost every single CLAM that we own...
+      text: \n<TĚSTINKA>Zdá se, že jsme prohráli naši poslední mušli...
 
 message_1:
-      text: \n<DOUGHIE>We are quite bad at this... \!aren't we BISCUIT?
+      text: \n<TĚSTINKA>Moc nám to nejde... \!Co myslíš, OPLATKU?
 
 message_2:
-      text: \n<BISCUIT>\sinv[1]Ohooo...
+      text: \n<OPLATEK>\sinv[1]Ohooo... #tento soubor si zaslouží cenu v schovce. doteď byl úplně nepřeložený...
 
 
 #Candle, Chip, Daddylonglegs, Demonboy, EvilChip, Mush, Weeping WILLOW same as night 2

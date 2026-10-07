@@ -7,23 +7,23 @@ message_0:
     text: Kluk soustředěně hledí na svého draka.\!<br>Vyrušíš ho?
 
 message_1:
-    text: \kitJsem jen kluk se svým drakem.\! <br>Možná to tak na první pohled nevypadá, ale máme nepřekonatelné pouto.<br>To ale každý jen tak nepochopí...
+    text: \n<KLUK S DRAKEM>Jsem jen kluk se svým drakem.\! <br>Možná to tak na první pohled nevypadá, ale máme nepřekonatelné pouto.<br>To ale každý jen tak nepochopí...
 
 message_2:
-    text: \kitUkážeme ti, jak jsme silní, když bojujeme společně!
+    text: \n<KLUK S DRAKEM>Ukážeme ti, jak jsme silní, když bojujeme společně!
 
 message_3:
-    text: \kitAch... Já to věděl.\! Bez ideálních povětrnostních podmínek nedokážeme dosáhnout maxima.
+    text: \n<KLUK S DRAKEM>Ach... Já to věděl.\! Bez ideálních povětrnostních podmínek nedokážeme dosáhnout maxima.
 
 # KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
 
 message_4:
-    text: \kitVítr mi dnes připadá nějaký slabý...\!<br>Možná, že je něco s jedním z těch větrníků.
+    text: \n<KLUK S DRAKEM>Vítr mi dnes připadá nějaký slabý...\!<br>Možná, že je něco s jedním z těch větrníků.
 
 # KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
 
 message_5:
-    text: \kitMožná jsme spolu mohli jít lítat jinam...
+    text: \n<KLUK S DRAKEM>Možná jsme spolu mohli jít lítat jinam...
 
 # TAG DIALOGUE
 

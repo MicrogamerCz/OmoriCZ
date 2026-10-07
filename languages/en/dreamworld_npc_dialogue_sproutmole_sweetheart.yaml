@@ -186,7 +186,7 @@ message_48:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>...
 
 message_49:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\sinv[1]No fůůůůůůuuuuuj...
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\sinv[1]No fúúúúúúuuuuuj... #pravopis
 
 message_50:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Vlažné \c[3]TOFU\c[0]?\! To je snad ten nejhorší nápad, co jsem kdy slyšel.\!<br>To i studené \c[3]TOFU\c[0] zní líp...
@@ -575,7 +575,7 @@ message_120:
 #SKELETON
 
 message_121:
-      text: Není živý.
+      text: Nežije.
 
 message_122:
       text: Sbírka smrtelných zbraní...\!<br>Jedna chybí.
@@ -597,65 +597,65 @@ message_133:
 #SPROUT CROWD
 
 message_200:
-      text: \sprZa tohle místo jsem dal všechno své \c[3]TOFU\c[0]! #blíže orig
+      text: \n<KLÍČKOKRTEK>Za tohle místo jsem dal všechno své \c[3]TOFU\c[0]! #blíže orig
 
 message_201:
-      text: \sprZa tohle místo jsem dal peníze, které jsem si šetřil na vysokou!
+      text: \n<KLÍČKOKRTEK>Za tohle místo jsem dal peníze, které jsem si šetřil na vysokou!
 
 message_202:
-      text: \sprZa tohle místo jsem dal svůj dům!
+      text: \n<KLÍČKOKRTEK>Za tohle místo jsem dal svůj dům!
 
 message_203:
-      text: \sprZa tohle místo jsem dal svou duši!
+      text: \n<KLÍČKOKRTEK>Za tohle místo jsem dal svou duši!
 
 #REST OF CROWD
 
 message_204:
-      text: \spr\sinv[1]ZLATÍČKO... ZLATÍČKO...<br>Žádná jiná pro mě na tomto světě není!\sinv[0]
+      text: \n<KLÍČKOKRTEK>\sinv[1]ZLATÍČKO... ZLATÍČKO...<br>Žádná jiná pro mě na tomto světě není!\sinv[0]
 
 message_205:
-      text: \sprZLATÍČKO je dokonalé!\! Prostě nemá chybu!
+      text: \n<KLÍČKOKRTEK>ZLATÍČKO je dokonalé!\! Prostě nemá chybu!
 
 message_206:
-      text: \sprMá láska ke ZLATÍČKU nezná meze!
+      text: \n<KLÍČKOKRTEK>Má láska ke ZLATÍČKU nezná meze!
 
 message_207:
-      text: \sprZLATÍČKO...\! Je bohyně, žijící mezi námi...<br>\!Jaké máme štěstí.
+      text: \n<KLÍČKOKRTEK>ZLATÍČKO...\! Je bohyně, žijící mezi námi...<br>\!Jaké máme štěstí.
 
 #UNIQUE SPROUT CROWD
 
 message_208:
-      text: \sprJeště ani nezačli, ale už teď se třepu!\! \quake[1]<br>Jaktože mi nejde přestat!?\quake[0]
+      text: \n<KLÍČKOKRTEK>Ještě ani nezačli, ale už teď se třepu!\! \quake[1]<br>Jaktože mi nejde přestat!?\quake[0]
 
 message_209:
-      text: \spr\"Z\" jako \"ZLATÁ\".\! \"L\" jako \"LÁSKYPLNÁ\".\!<br>\"A\" jako \"ANDĚLSKÁ\".\! \"T\" jako... \"TOFU\". Mňam!\!<br>\"Í\" jako...\! \"INTELIGENTNÍ\"... #zkusím něco
+      text: \n<KLÍČKOKRTEK>\"Z\" jako \"ZLATÁ\".\! \"L\" jako \"LÁSKYPLNÁ\".\!<br>\"A\" jako \"ANDĚLSKÁ\".\! \"T\" jako... \"TOFU\". Mňam!\!<br>\"Í\" jako...\! \"INTELIGENTNÍ\"... #zkusím něco
 
 message_210:
-      text: \spr\"Č\" jako \"ČAROVNÁ\".\! \"K\" jako \"KRÁSNÁ\".\!<br>\A "O\" jako \"OVŠEM TA NEJLEPŠÍ\"!
+      text: \n<KLÍČKOKRTEK>\"Č\" jako \"ČAROVNÁ\".\! \"K\" jako \"KRÁSNÁ\".\!<br>\A "O\" jako \"OVŠEM TA NEJLEPŠÍ\"!
 
 message_211:
-      text: \spr\}Jupí! ZLATÍČKO!
+      text: \n<KLÍČKOKRTEK>\}Jupí! ZLATÍČKO!
 
 message_212:
-      text: \sprSlyšel jsem, že tady kdysi bývala knihovna...\!<br>ale ZLATÍČKO si nad ní postavilo pódium...\!<br>Stejně, kdo by potřeboval číst, když máme ZLATÍČKO!?
+      text: \n<KLÍČKOKRTEK>Slyšel jsem, že tady kdysi bývala knihovna...\!<br>ale ZLATÍČKO si nad ní postavilo pódium...\!<br>Stejně, kdo by potřeboval číst, když máme ZLATÍČKO!?
 
 message_213:
-      text: \sprKdyby se rajčata jmenovaly jinak, byly by stejně pořád tak šťavnatá. #není otázka
+      text: \n<KLÍČKOKRTEK>Kdyby se rajčata jmenovaly jinak, byly by stejně pořád tak šťavnatá. #není otázka
 
 message_214:
-      text: \sprUž se těším!
+      text: \n<KLÍČKOKRTEK>Už se těším!
 
 message_215:
-      text: \sprKdysi jsem na ZLATÍČKO chodil jen ze srandy...\!<br>a teď jsem to dotáhl až sem...\! Co se to se mnou stalo?
+      text: \n<KLÍČKOKRTEK>Kdysi jsem na ZLATÍČKO chodil jen ze srandy...\!<br>a teď jsem to dotáhl až sem...\! Co se to se mnou stalo?
 
 message_216:
-      text: \sprZe začátku jsem byl celkem skeptik, ale teď už začínám chápat, co s tím ZLATÍČKEM všichni mají...
+      text: \n<KLÍČKOKRTEK>Ze začátku jsem byl celkem skeptik, ale teď už začínám chápat, co s tím ZLATÍČKEM všichni mají...
 
 message_217:
-      text: \sprŠel jsem tady se svou rodinou, ale na cestě jsme se od sebe rozdělili...\! Co když je nikdy už neuvidím? #přiroz
+      text: \n<KLÍČKOKRTEK>Šel jsem tady se svou rodinou, ale na cestě jsme se od sebe rozdělili...\! Co když je nikdy už neuvidím? #přiroz
 
 message_218:
-      text: \sprZaslechl jsem, že je ZLATÍČKO ve skutečnosti \c[3]KOBLIHA\c[0]...\!<br>To by mě zajímalo, jestli je to fakt pravda... #blíže orig
+      text: \n<KLÍČKOKRTEK>Zaslechl jsem, že je ZLATÍČKO ve skutečnosti \c[3]KOBLIHA\c[0]...\!<br>To by mě zajímalo, jestli je to fakt pravda... #blíže orig
 
 #Elevator
 message_220:
@@ -676,4 +676,4 @@ message_228:
       text: \n<???>Tenhle pokoj je pouze pro KLÍČKOKRTKY!
 
 message_250:
-      text: \sprNosit s sebou všude \c[3]TOFU\c[0] vždycky stojí za to.\! Víte, z kolika blbých situací mě už dostalo? #vypouštím vykříčník
+      text: \n<KLÍČKOKRTEK>Nosit s sebou všude \c[3]TOFU\c[0] vždycky stojí za to.\! Víte, z kolika blbých situací mě už dostalo? #vypouštím vykříčník

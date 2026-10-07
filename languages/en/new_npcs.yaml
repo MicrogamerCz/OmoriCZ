@@ -187,7 +187,7 @@ message_45:
 
 
 message_46:
-      text: \n<BARBRAKOA>Tak \com[2]ti vrazím takovou, až odletíš do JINOSFÉRY!
+      text: \n<BARBRAKOA>Tak \com[2]ti vrazím takovou, až odletíš do \c[11]JINOSFÉRY\c[0]!
 
 #Decay
 #Location: Deeper Well
@@ -344,7 +344,7 @@ message_83:
 #Drew
 #Location: Last Resort Casino
 message_67:
-      text: \n<DREW>Ahoj, jsem tady nový!\! Práce tady není nic moc, ale personál je tady supr.\! HEDVÁB nám pořád povídá vtipy!\! Je fakt super.
+      text: \n<DOUBEK>Ahoj, jsem tady nový!\! Práce tady není nic moc, ale personál je tady supr.\! HEDVÁB nám pořád povídá vtipy!\! Je fakt super.
 
 #Morgan
 #Location: Otherworld Campsite
@@ -518,7 +518,7 @@ message_113:
 #JABKOMUCH
 #[UNPLACED]
 message_114:
-      text: \n<JABKOMUCH>Já jsem MARININ čtvrtý experiment.\! Vytvořila mě ze zhnilých jablek, když byla ještě předškolačka. #změna jména
+      text: \n<JABKOMUCH>Já jsem MARININ čtvrtý experiment.\! Vytvořila mě ze shnilých jablek, když byla ještě předškolačka. #změna jména
 
 message_115:
       text: \n<JABKOMUCH>Cože?
@@ -617,7 +617,7 @@ message_132:
 
 #Location 2: Last Resort
 message_133:
-      text: \n<MOROUSEK>\com[2]Jaktože po nás šéf pořád chce, abychom čekali?\!<br>Kdo si myslí, že je?!\! Někteří máme přece taky svůj život, že?
+      text: \n<MOROUSEK>\com[2]Jaktože po nás šéf pořád chce, abychom čekali?\!<br>Kdo si myslí, že je?!\! Někteří snad spěcháme, ne?
 
 
 
@@ -673,7 +673,7 @@ message_146:
 #Cat Pyramid
 #Location: SW Art Gallery
 message_147:
-      text: \n<KOČIČÍ PYRAMIDA>To je ale nádhera!\! Za tu cestu z \c[11]POMERANČOVÉ POUŠŤĚ\c[0] to tady stojí!
+      text: \n<KOČIČÍ PYRAMIDA>To je ale nádhera!\! Za tu cestu z \c[11]POMERANČOVÉ POUŠTĚ\c[0] to tady stojí!
 
 
 #Gasper
@@ -751,7 +751,7 @@ message_359:
 #Sereno
 #[UNPLACED]
 message_166:
-      text: \n<SERENO>Legendy praví o dvojčatech, které kdysi svými oči nepřetržitě střežily \c[11]POMERANČOVOU POUŠŤ\c[0].\! Říká se, že umí vytvářet nemrtvé...\! mimo jiné... #tady to bude asi ten druhý význam
+      text: \n<SERENO>Legendy praví o dvojčatech, které kdysi svými oči nepřetržitě střežily \c[11]POMERANČOVOU POUŠŤ\c[0].\! Říká se, že umí vytvářet živé hotové...\! mimo jiné... #tady to bude asi ten druhý význam
 
 message_167:
       text: \n<SERENO>Nevím, co je na těchle pověrách pravda, ale to by bylo něco, že ano? #přiroz
@@ -1281,7 +1281,7 @@ message_310:
       text: \n<KLÍČKOKRTEK MICHAL>\com[2]Škyt...\! ...\! \sinv[1]VESMÍRNÝ MILENEC sem...\! VESMÍRNÝ MILENEC tam...\! A co chudák KLÍČKOKRTEK MICHAL? #škytání
 
 message_311:
-      text: \n<KROKOĎÁK>Atmosféra je tady opravdu ťip ťop.\! A REUBEN dělá \sinv[1]faaaaakt skvělou \c[3]OVOCNOU ŠŤÁVU\c[0]...\sinv[0]
+      text: \n<KROKOĎÁK>Atmosféra je tady opravdu tip ťop.\! A REUBEN dělá \sinv[1]faaaaakt skvělou \c[3]OVOCNOU ŠŤÁVU\c[0]...\sinv[0]
 
 message_312:
       text: \n<KROKOĎÁK>KLUBOVÝ SENDVIČ je prostě jiná liga.\!<br>REUBEN a OLEG jsou prostě třída! #konzitence sendvič
@@ -1429,7 +1429,7 @@ message_606:
 #-
 
 message_609:
-      text: \n<MIMO>Svět je plný otázek, na které nikdy nenajdeš odpověď.\! Avšak...\! existují i takové, na které odpovědět můžeš jen ty.<br>\!Co budeš dělat, až pravda vyplyne napovrch? #blíže orig
+      text: \n<MIMO>Svět je plný otázek, na které nikdy nenajdeš odpověď.\! Avšak...\! jsou i takové, na které odpovědět můžeš jen ty.<br>\!Co budeš dělat, až pravda vyplyne napovrch? #blíže orig
 
 #-
 
@@ -1451,7 +1451,7 @@ message_611:
 #-
 
 message_612:
-      text: \n<PRÁZDNOTA>Co vše hodláš obětovat záchraně svého kamaráda?
+      text: \n<PRÁZDNOTA>Co vše hodláš obětovat k záchraně kamaráda?
 
 #-
 

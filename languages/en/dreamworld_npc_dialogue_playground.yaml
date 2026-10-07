@@ -49,7 +49,7 @@ message_8:
 #BROWS
 #Location: Forest Playground
 message_10:
-      text: \n<OBČA>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+      text: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
 
 
 #Happy
@@ -235,7 +235,7 @@ message_86:
       text: AUBRY se naučila \c[1]HLAVIČKU\c[0].
 
 message_87:
-      text: Získal jsi \c[4]DIPLOM HLAVO-TVRDOSTI\c[0].
+      text: Získal jsi \c[4]DIPLOM TVRDOHLAVOSTI\c[0].
 
 
 #After Headbutt Quest
@@ -367,13 +367,13 @@ message_110:
 #BERLY (Gator Guy)
 #Location: Last Resort - Jawsum HQ Entrance
 message_111:
-      text: \berAle ale! Koho to tady máme! \!Ty chceš za šéfem, viď? \!Nerada ti kazím plány, ale nemůžu pustit jen tak kohokoliv!
+      text: \berAle ale! Kohopak to tady máme! \!Ty chceš za šéfem, viď? \!Nerada ti kazím plány, ale nemůžu pustit jen tak kohokoliv!
 message_112:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
       text: \kel\sinv[1]No tak...\sinv[0] vážně? \!<br>\Com[2]BERLY! Vždyť se známe celý život! \!<br>To bys nám nemohla jen jednou vyjít vstříc?
 message_113:
-      text: \berMmm, mmm...\! Promiň KELI, přímej rozkaz šéfa... \!Dnešek je důležitý den, proto nechce, aby ho nikdo...\! rušil. \!<br>Musíme tady přece připravit tu sbírku \c[3]TOFU\c[0]!
+      text: \berGrr, grr...\! Promiň KELI, přímej rozkaz šéfa... \!Dnešek je důležitý den, proto nechce, aby ho nikdo...\! rušil. \!<br>Musíme tady přece připravit tu sbírku \c[3]TOFU\c[0]!
 message_114:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
@@ -492,7 +492,7 @@ message_140:
       text: \n<VAN>Šéf mě nasadil do ochranky, ale pak mě odvolal. Prý, že jsem byl moc měkký.
 
 message_141:
-      text: \n<VAN>Prý z BERLY udělali vedoucí ochranky!\!<br>A taky má prý ztuhlý horní ret!
+      text: \n<VAN>Říká se, že z BERLY udělali vedoucí ochranky!\!<br>Prý je na to dost tvrdohlavá!
 
 message_151:
       text: \n<VAN>Chybí mi BERLY...

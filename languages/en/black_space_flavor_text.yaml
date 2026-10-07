@@ -151,7 +151,7 @@ message_25:
       text: Našel jsi zápisník.\! Je celý popsán <br>jednou větou pořád dokola.
 
 message_26:
-      text: \fn<OMORI_GAME>\quake[1]Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já.\quake[0] Za všechno můžu já. #přirozenější, a takhle se tyhle věci projevují v češtině
+      text: \fn<OMORI_GAME>\quake[1]Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já. Za všechno můžu já. <br>Za všechno můžu já. Za všechno můžu já. Za všechno můžu já.\quake[0] #přirozenější, a takhle se tyhle věci projevují v češtině
 
 # ========================================================================================
 
@@ -359,13 +359,13 @@ message_139:
       text: \n<CHÝŠKA>A! Můj starý brachu!\! Mám schopnost se rychle přesouvat pomocí záchodů!
 
 message_140:
-      text: \n<CHÝŠKA>DEJ MI BABU a ukážu ti to, OMORI!
+      text: \n<CHÝŠKA>Dej mi BABU a ukážu ti to, OMORI!
 
 message_141:
       text: Tuhle osobu neznáš.
 
 message_142:
-      text: \n<CHÝŠKA>dej mi BABU, OMORI! #malé písmena
+      text: \n<CHÝŠKA>Dej mi BABU, OMORI! #malé písmena
 
 message_143:
       text: \n<CHÝŠKA>Notak, dej mi BABU! #přátelštější ráz, malá písmena
@@ -378,7 +378,7 @@ message_144:
 # ========================================================================================
 
 message_145:
-      text: \n<TEN S PIŇATOU>\sinv[1]\{\{JUPÍÍÍÍÍÍÍIIIIII!!
+      text: \n<PIŇATA>\sinv[1]\{\{JUPÍÍÍÍÍÍÍIIIIII!!
 
 # =========================================================================================
 # Kel Pool: 395
@@ -388,7 +388,7 @@ message_150:
       text: Získal jsi DVACET KORUN! #když už chceme z toho udělat čechy...
 
 message_151:
-      text: Vítej v PENĚŽNÍM PROSTORU.\!<br>Zde je povolen vstup pouze KELOVI.
+      text: Vítej v PENĚZOPROSTORU.\!<br>Zde je povolen vstup pouze KELOVI. #konzistence
 
 # =========================================================================================
 # Hideous Creature: 288
@@ -682,7 +682,7 @@ message_310:
       text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
 
 message_311:
-      text: \OMORI...\!  Myslím, že nás tvoje ségra ignoruje.\! Možná by sis s ní měl promluvit.
+      text: \aubOMORI...\!  Myslím, že nás tvoje ségra ignoruje.\! Možná by sis s ní měl promluvit.
 
 message_312:
       text: \kelNemůžeme mít přece piknik bez MARI! #oprava významu

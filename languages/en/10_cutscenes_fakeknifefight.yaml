@@ -203,7 +203,7 @@ message_49:
 message_50:
       faceset: MainCharacters_Faraway
       faceindex: 11
-      text: Tak dobře!\!<br>Vy dva proti mně! Co vy na to?\!<br>\Com[2]Tak pojďte!\! Sundám vás oba!\aub #přidán konec z originálu
+      text: Tak dobře!\!<br>Vy dva proti mně! Co vy na to?\!<br>\Com[2]Tak pojďte!\! Skopu vás oba!\aub #přidán konec z originálu
 
 # =========================================================================================
 # Cutscene: Fake Knife Fight
@@ -243,7 +243,7 @@ message_75:
       text: \Com[2]P-Počkat!\! Dej mi ho!\kel
 
 message_76:
-      text: KEL ti vzal tvůj \c[13]NŮŽ NA STEAK\c[0].
+      text: KEL ti vzal tvůj \c[13]STEAKOVÝ NŮŽ\c[0].
 
 message_77:
       faceset: MainCharacters_Faraway

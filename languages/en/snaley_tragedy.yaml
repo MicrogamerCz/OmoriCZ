@@ -1,5 +1,5 @@
 # =========================================================================================
-# ** ŠNEČEK Arc 1 - Construction
+# ** ŠNEČÍK Arc 1 - Construction
 # =========================================================================================
 
 message_0:
@@ -25,7 +25,7 @@ message_5:
     text: \n<ŠNEČÍK>A nyní zalezu do této hrozivě vypadající jeskyně a budu trénovat svou mysl a své tělo.\! Až se znovu střetneme, budu zase o něco silnější!
 
 # =========================================================================================
-# ** ŠNEČEK Arc 1 - Cave
+# ** ŠNEČÍK Arc 1 - Cave
 # =========================================================================================
 
 
@@ -42,7 +42,7 @@ message_10:
     text: \n<ŠNEČÍK>A nyní přejdu přes tento nebezpečně vypadající most, abych mohl své \c[1]DOVEDNOSTI\c[0] dále hnát k dokonalosti.\! Až se znovu střetneme, budu zase o něco silnější!
 
 # =========================================================================================
-# ** ŠNEČEK Arc 1 - Bridge
+# ** ŠNEČÍK Arc 1 - Bridge
 # =========================================================================================
 
 message_11:
@@ -53,7 +53,7 @@ message_12:
 
 
 # =========================================================================================
-# ** ŠNEČEK Arc 1 - Bridge
+# ** ŠNEČÍK Arc 1 - Bridge
 # =========================================================================================
 
 
@@ -62,7 +62,7 @@ message_16:
 
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 1
+# ** IN BATTLE: ŠNEČÍK 1
 #----------------------------
 
 message_21:
@@ -82,7 +82,7 @@ message_24:
      \>ŠNEČÍK: \<Dobře, prosím, už dost! To stačilo!
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 2
+# ** IN BATTLE: ŠNEČÍK 2
 #----------------------------
 
 message_25:
@@ -102,7 +102,7 @@ message_28:
      \>ŠNEČÍK: \<Tak co vy na to!?\! Jednou budu tak silný, jako vy!
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 3
+# ** IN BATTLE: ŠNEČÍK 3
 #----------------------------
 
 message_29:

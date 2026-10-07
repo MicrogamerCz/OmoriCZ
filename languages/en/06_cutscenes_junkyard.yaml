@@ -184,10 +184,10 @@ message_83:
       text: Tak jsem ji konečně našla.\who
 
 message_84:
-      text: Po stovkách hodin neustálého kopání...\!<br>patří tato \c[4]VÝJIMEČNÁ KAZETA\c[0] jen a jen mně!\who
+      text: Po stovkách hodin neustálého hrabání...\!<br>je tato \c[4]VÝJIMEČNÁ KAZETA\c[0] jen a jen moje!\who
 
 message_85:
-      text: ROSE!\! Té největší ZLATÍČČINÉ fanynce na světě!\ros #asi si taky myslí, že je nejlepší, ale tady se spíše hodí největší, zbytečná závorka, snad maty
+      text: ROSY!\! Té největší ZLATÍČČINY fanynky na světě!\ros #asi si taky myslí, že je nejlepší, ale tady se spíše hodí největší, zbytečná závorka, snad maty
 
 message_86:
       text: S touto jedinečnou položkou v mé sbírce<br>konečně předeženu všechny její falešné fanoušky!\ros #konečně místo absolutně - blíž orig
@@ -358,7 +358,7 @@ message_156:
 message_157:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: A teď vypal, ty kytková obludo!\! Běž otravovat někoho jiného!\kel #kytkovitá na kytková
+      text: A teď vypal, ty rostlinová obludo!\! Běž otravovat někoho jiného!\kel #kytkovitá na kytková
 
 message_158:
       text: Ach, panečku!\! Jak neslušné.\ros
@@ -384,7 +384,7 @@ message_170:
 message_171:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: Heh. Kdo by to byl řek'?\! Na hlavě má slabé místo!\!<br>Takové bych dokázal poznat z dáli.\kel
+      text: Heh. Kdo by to byl řek?\! Na hlavě má slabé místo!\!<br>Takové bych dokázal poznat z dáli.\kel
 
 #pan down to platform
 

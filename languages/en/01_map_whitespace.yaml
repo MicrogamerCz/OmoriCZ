@@ -171,7 +171,7 @@ message_116:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "Žárovka visí ze stropu, o kterém sám nevíš, kde končí.\\!\\lb<br>Podíváš se dovnitř?" #okopírované z předešlé iterace
+    text: "Žárovka visí ze stropu, o kterém sám nevíš, kam až sahá.\\!\\lb<br>Podíváš se dovnitř?" #okopírované z předešlé iterace
 message_118:
     text: "Uvnitř je úplně černá.\\! Nevidíš v ní jediný náznak čehokoliv."
 
@@ -184,7 +184,7 @@ message_120:
     text: \n<OMORI>...
 
 message_121:
-    text: "Žárovka visí ze stropu, o kterém sám nevíš, kde končí.\\!\\lb<br>Podíváš se dovnitř?"
+    text: "Žárovka visí ze stropu, o kterém sám nevíš, kam až sahá.\\!\\lb<br>Podíváš se dovnitř?" #jakožto v jedné z posledních úprav si myslím, že by bylo na místě poděkovat někomu, kdo mi posledních pár dní zpříjemnil práci na počítači, když ho nemůžu dát do staff credits. a to jest jistý MelSpontaneus, který před 13 lety vytvořil fanart Makoto x Kyoko z Danganronpy tak dobrý, že ho mám jako pozadí na ploše... jestli mě slyšíš... děkuji.
 
 message_125:
     text: Naučil ses dovednost \c[1]RUDÉ RUCE\c[0].

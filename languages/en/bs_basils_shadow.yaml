@@ -43,7 +43,7 @@ message_22:
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 8
-      text: \n<NĚKDO>\fn<OMORI_GAME>Tento prostor...\! jsou pln rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi.
+      text: \n<NĚKDO>\fn<OMORI_GAME>Tento prostor...\! je plný rozbitých věcí...\! alespoň tady konečně vidím, jaký doopravdy jsi. #pln na plný
 
 message_1:
       faceset: MainCharacter_Basil

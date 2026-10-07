@@ -258,7 +258,7 @@ message_83:
 message_84:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Musíme ho zastavit dříve, než někoho zabije!\! <br>Tohle je tvůj konec, vražedný robote!\kel
+      text: Musíme ho zastavit, než někoho zabije!\! <br>Tohle je tvůj konec, vražedný robote!\kel
 
 
 # =========================================================================================
@@ -290,9 +290,9 @@ message_110:
 #Talk to Humphrey Elevator (No Keycard)
 
 message_111:
-      text: \n<BENDA>Ahoj, já jsem BENDA! Vaše vstupenka do \c[11]BENDY\c[0] neboli \c[11]DOUPĚTE SLIZÍCH HOLEK\c[0].\! Stručně řečeno, vy lidé byste mě asi nazvali \"výtahem\".<br>Bohužel nedokážeme obsluhovat více lidí najednou, a tak budete muset počkat, než budete na řadě.<br><br>I když...\! pokud mi najdete \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0], možná by mi nedělalo problém pro jednou udělat výjimku...\! \quake[1]Ňak, ňak!\quake[0] #blíže orig, přiroz
+      text: \n<BENDA>Ahoj, já jsem BENDA! Vaše vstupenka do \c[11]BENDY\c[0] neboli \c[11]DOUPĚTE SLIZÍCH HOLEK\c[0].\! Stručně řečeno, vy lidé byste mě asi nazvali \"výtahem\".<br>Bohužel nedokážeme obsluhovat více lidí najednou, a tak budete muset počkat, než budete na řadě.<br><br>I když...\! pokud mi najdete \c[4]SLIZOVOU KARTU\c[0], možná by mi nedělalo problém pro jednou udělat výjimku...\! \quake[1]Ňak, ňak!\quake[0] #blíže orig, přiroz
 
 #Get Keycard
 
 message_112:
-      text: Získal jsi \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0]!
+      text: Získal jsi \c[4]SLIZOVOU KARTU\c[0]!

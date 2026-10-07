@@ -8,7 +8,7 @@ message_1:
       text: \n<ELEGANTNÍ DÁMA>Poslala jsem svého syna do \c[11]OPRAVSI\c[0] koupit novou lampu do obýváku, ale nějak mu to trvá..
 
 message_2:
-      text: \n<ELEGANTNÍ DÁMA>\Com[2]Ach!\!Tyhle věci mu vždycky trvají tak dlouho!\!<br>Kéž by mu někdo řekl, ať si pospíší...<br>\!Na tohle nemám celý den!
+      text: \n<ELEGANTNÍ DÁMA>\Com[2]Ach!\! Tyhle věci mu vždycky trvají tak dlouho!\!<br>Kéž by mu někdo řekl, ať si pospíší...<br>\!Na tohle nemám celý den! #mezera
 
 #Talk to PODIVÍN / Cutscene: PODIVÍN Leaves
 
@@ -43,10 +43,10 @@ message_12:
       text: \n<PODIVÍN>\Com[2]\{JÁ MÁM LEPŠÍ VĚCI NA PRÁCI!!!
 
 message_30:
-      text: PODIVÍN ti dal $50,00.
+      text: PODIVÍN ti dal 50,00 Kč.
 
 message_31:
-      text: Těchle $50,00 bys měl utratit za \c[4]STOJACÍ LAMPU\c[0]...
+      text: Těchle 50,00 Kč bys měl utratit za \c[4]STOJACÍ LAMPU\c[0]...
 
 message_32:
       text: \n<PRODAVAČ NÁŘADÍ>Hmm...\! tak ty bys chtěl \c[4]STOJACÍ LAMPU\c[0]?\! Ta by byla za $50,00.\! Pořád ji ještě chceš?
@@ -63,13 +63,13 @@ message_14:
       text: \n<ELEGANTNÍ DÁMA>Helemse! To je ale krásná \c[4]STOJACÍ LAMPA\c[0]!\!<br>Díky! Máte vytříbený vkus!
 
 message_15:
-      text: \n<ELEGANTNÍ DÁMA>Hmm...\! ale kde by tak mohl být můj synek BILLY?\!<br>Že by se zase naštval a utekl?...
+      text: \n<ELEGANTNÍ DÁMA>Hmm...\! ale kde by tak mohl být můj synek VILÍK?\!<br>Že by se zase naštval a utekl?...
 
 message_16:
       text: \n<ELEGANTNÍ DÁMA>Uff...\! Je tak náladový...\!<br>Kéž by ze všeho vždycky nedělal takový teátr...
 
 message_17:
-      text: \n<ELEGANTNÍ DÁMA>Každopádně bych vám chtěla poděkovat za tu lampu.\! Klidně kdykoliv přijďte na návštěvu!\! Uvařím vám všem řádný šálek \c[5]KÁVY\c[0]!
+      text: \n<ELEGANTNÍ DÁMA>Každopádně bych vám chtěla poděkovat za tu lampu.\! Klidně kdykoliv přijďte na návštěvu!\! Připravím vám všem řádný šálek \c[5]KÁVY\c[0]!
 
 message_18:
       text: Získal jsi \c[4]STOJACÍ LAMPU\c[0]!

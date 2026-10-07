@@ -365,7 +365,7 @@ message_90:
 message_91:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: No...\! Odmítám Vaši...\! umm...\! nabídku?\her
+      text: No...\! Odmítám vaši...\! umm...\! nabídku?\her
 
 #Audience gasps.
 
@@ -407,7 +407,7 @@ message_100:
       text: Hej! Dost!\!<br>HERA nám nesmíte vzít, patří k nám!\aub
 
 message_101:
-      text: Co má tohle znamenat?\!<br>Co dělají v publiku nefanoušci ZLATÍČKA?\swh
+      text: Co to propána děláte?\!<br>Co dělají v publiku nefanoušci ZLATÍČKA?\swh
 
 message_102:
       text: Aha...\! Rozumím...\! Tím pádem musíte být HEROVI fanoušci!\swh

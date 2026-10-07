@@ -35,7 +35,7 @@ message_7:
       text: Samozřejmě!\! Uděláme, co můžem.\kel
 
 message_8:
-      text: Díky, všichni...\! Až budete připraveni, pojďte dál.\n<POLLY> #přívětivější
+      text: Mockrát vám děkuji...\! Až budete připraveni, pojďte dál.\n<POLLY> #přívětivější
 
 # =========================================================================================
 # Cutscene: Basil Won't Leave His Room
@@ -74,7 +74,7 @@ message_26:
 message_27:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelAle, nedělejte si s tím hlavu, POLLY... Tak to má někdy každý.\!<br>Ale jestli jsem si něco z těchle posledních pár dnů vzal... tak to, že by tam pro sebe kamarádi měli vždycky být!
+      text: \kelAle, nedělejte si s tím hlavu, POLLY... Tak to má někdy každý.\!<br>Ale jestli jsem si něco z těchle posledních pár dnů vzal...\!<br>Tak to, že by tam pro sebe kamarádi měli vždycky být!
 
 #AUBREY goes to the door.
 

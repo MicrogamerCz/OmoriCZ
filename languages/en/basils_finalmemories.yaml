@@ -8,7 +8,7 @@ message_0:
       text: \herJo! Přesně to, co jsem potřeboval!
 
 message_1:
-      text: \kelAjaj... To jsou celkem blbý karty.
+      text: \kelAjaj... To jsou zase blbý karty!
 
 message_2:
       text: \marTo nemůžeš říkat jen tak nahlas, KELI!<br>Musíš udržet poker face.
@@ -144,7 +144,7 @@ message_41:
       text: \marJupí! Díky, HERO!
 
 message_42:
-      text: \marJeště že tady máme takového siláka. #přeloženo
+      text: \marJeště že tady máme takového siláka! #přeloženo
 
 message_43:
       text: \herAleee... Teď ne, MARI... Haha...
@@ -571,10 +571,10 @@ message_200:
 
 
 message_201:
-      text: \sinv[1]Hodně štěstí, zdraví!\! Hodně štestí, zdraví!\n<EVERYONE> #tady nehraje žádná speciální hudba, takže si můžu dovolit to zaměnit za známější Českou písničku
+      text: \sinv[1]Hodně štěstí, zdraví!\! Hodně štestí, zdraví!\n<VŠICHNI> #tady nehraje žádná speciální hudba, takže si můžu dovolit to zaměnit za známější Českou písničku
 
 message_202:
-      text: \sinv[1]Hodně štěstí, milý BASILE...\! Hodně štěstí, zdraví!!!!!\n<EVERYONE> #viz výše
+      text: \sinv[1]Hodně štěstí, milý BASILE...\! Hodně štěstí, zdraví!!!!!\n<VŠICHNI> #viz výše
 
 message_203:
       text: \kel\sinv[1]\{JUPÍÍÍÍIII!!\!\}\sinv[0]<br>Sfoukni svíčky, BASILE!

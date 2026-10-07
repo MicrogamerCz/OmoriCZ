@@ -106,7 +106,7 @@ message_19:
 
 
 message_30:
-      text: \{\{\Com[2]UHNĚTE, ŠPRTI!!\who
+      text: \{\{\Com[2]Z CESTY, ŠPRTI!!\who
 
 #The Scooter Gang passes through.
 
@@ -118,7 +118,7 @@ message_31:
 message_32:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Tahle banda jsou jen samé problémy<br> a dneska bych se bez nich nejraději obešel!\kel #revert
+      text: Tahle banda jsou jen samé problémy<br>a dneska bych se bez nich nejraději obešel!\kel #revert
 
 
 # =========================================================================================
@@ -160,7 +160,7 @@ message_54:
 message_55:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: Ne, co je to sakra za nápad?\kel #přiroz
+      text: To je ale pitomý nápad...\kel #přiroz
 
 message_56:
       faceset: MainCharacters_Faraway
@@ -187,7 +187,7 @@ message_58:
 message_70:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: Tohle...\! Ano!\! To je dokonalé!\!<br>STARONOVÁ KUCHAŘKA TATÍKA ČIPA!\kel
+      text: Tohle...\! Ano!\! To je dokonalé!\!<br>STARONOVÁ KUCHAŘKA TATÍKA ČIPSE!\kel
 
 message_71:
       faceset: MainCharacters_Faraway
@@ -217,12 +217,12 @@ message_75:
 message_76:
       faceset: MainCharacters_Faraway
       faceindex: 22
-      text: \Com[2]200 korun!?\! To je ale zlodějina!\kel #tohle bude asi působit směšně, chce to zjistit, jak to tady funguje a změnit částku
+      text: \Com[2]20 korun!?\! To je ale zlodějina!\kel #tohle bude asi působit směšně, chce to zjistit, jak to tady funguje a změnit částku
 
 message_77:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Safra! Nechal jsem peněženku doma...\!<br>Err...\! Půjčil bys mi, SUNNY?\!<br>Pak ti to splatím, slibuju.\kel
+      text: Safra! Nechal jsem peněženku doma...\!<br>Ehm...\! Půjčil bys mi, SUNNY?\!<br>Pak ti to splatím, slibuju.\kel
 
 message_78:
       faceset: MainCharacters_Faraway
@@ -240,7 +240,7 @@ message_80:
 #Pedro hair flip
 
 message_81:
-      text: Á, STARONOVÁ KUCHAŘKA TATÍKA ČIPA!\!<br>To máte skvělý vkus!\n<PRODAVAČ> #přiroz
+      text: Á, STARONOVÁ KUCHAŘKA TATÍKA ČIPSE!\!<br>To máte skvělý vkus!\n<PRODAVAČ> #přiroz
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -248,7 +248,7 @@ message_82:
       text: Jo, brácha z ní kdysi vařil!\!<br>Ty sušenky byly ze všech nejlepší.\kel #přiroz
 
 message_83:
-      text: Dalšího fanouška TATÍKA ČIPA člověk jen tak často nepodká.\!<br>200 korun prosím!\n<PRODAVAČ> #dolary na koruny a bez čárky
+      text: Dalšího fanouška TATÍKA ČIPSE člověk jen tak často nepodká.\!<br>20 korun prosím!\n<PRODAVAČ> #dolary na koruny a bez čárky
 
 #Currency noise
 message_84:

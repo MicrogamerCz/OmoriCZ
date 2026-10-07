@@ -238,7 +238,7 @@ message_40:
 message_41:
     faceset: MainCharacters_DreamWorld
     faceindex: 37
-    text: \her\sinv[1]Rovnováha, kamarádi...\! Všechno je to jen o rovnováze...\sinv[0]
+    text: \her\sinv[1]Rovnováha, kamarádi...\! To je to správné slovo...\sinv[0] #mafie
 
 message_42:
     faceset: MainCharacters_DreamWorld
@@ -435,7 +435,7 @@ message_73:
 message_74:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marOMORI se přece taky bál pavouků, a podívej se na něj teď!\! Ani sebou necukne!
+    text: \marOMORI se přece taky bál pavouků, a podívej se na něj!\! Teď už sebou ani necukne! #přiroz
 
 message_75:
     faceset: MainCharacter_Mari

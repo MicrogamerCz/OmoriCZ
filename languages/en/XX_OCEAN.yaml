@@ -15,7 +15,7 @@ message_1:
 #== Missing shears sidequest
 
 message_20:
-      text: Podal jsi PANÍ S ČERVENÝMA BRÝLEMA \c[4]\c[4]ZAHRADNICKÉ NŮŽKY\c[0]\c[0].
+      text: Podal jsi ČERVENÉ BRÝLE \c[4]\c[4]ZAHRADNICKÉ NŮŽKY\c[0]\c[0].
 
 #=========================Location: Cris house==============================
 #== Wheres the remote sidequest
@@ -38,7 +38,7 @@ message_33:
 #== Pick up furniture sidequest
 
 message_40:
-      text: PODIVÍN ti dal $50.00 na \c[4]STOJACÍ LAMPU\c[0].
+      text: PODIVÍN ti dal 50.00 Kč na \c[4]STOJACÍ LAMPU\c[0].
 
 message_41:
       faceset: MainCharacters_Faraway
@@ -46,7 +46,7 @@ message_41:
       text: Počkej, SUNNY! Nemůžeme prostě odejít s tolika penězma!\! Nejdřív musíme koupit tu \c[4]STOJACÍ LAMPU\c[0]!
 
 message_42:
-      text: \n<PRODAVAČ NÁŘADÍ>Tak vy byste si chtěli koupit \c[4]STOJACÍ LAMPU\c[0], děcka?\! Tak tamta, na kterou se díváte stojí asi...\! tak...\! $50.00.\! Chcete ji, nebo ne?
+      text: \n<PRODAVAČ NÁŘADÍ>Tak vy byste si chtěli koupit \c[4]STOJACÍ LAMPU\c[0], děcka?\! Tak tamta, na kterou se díváte stojí asi...\! tak...\! 50.00 Kč.\! Chcete ji, nebo ne?
 
 message_43:
       text: \n<PRODAVAČ NÁŘADÍ>Super, tady máte vaši zbrusu novou \c[4]STOJACÍ LAMPU\c[0].\!<br>Ale žádný výměny ani vrácení, jo?\! Firemní pravidla.
@@ -104,7 +104,7 @@ message_64:
 
 #Day 1 reward
 message_70:
-      text: \n<CHLAPÍK>Tady máte doláč, děcka.\! Kupte si nějaký \c[3]BONBÓNY\c[0] nebo tak něco.
+      text: \n<CHLAPÍK>Tady máte kačku, děcka.\! Kupte si nějaký \c[3]BONBÓNY\c[0] nebo tak něco.
 
 #Day 2 reward
 message_71:
@@ -112,7 +112,7 @@ message_71:
 
 #If pipe is completely fixed
 message_72:
-      text: \n<CHLAPÍK>Dík, že jste mě podpořili v těchto těžkých časech.\! Kéž bych se vám mohl nějak odvděčit...\!<br><br>A! Mám nápad! Vemte si tohle \c[4]CDčko\c[0], které jsem nedávno našel!<br>\! To by mělo stačit!
+      text: \n<CHLAPÍK>Dík, že jste mě podpořili v těchto těžkých časech.\! Kéž bych se vám mohl nějak odvděčit...\!<br><br>A! Mám nápad! Vemte si tohle \c[4]CDČKO\c[0], které jsem nedávno našel!<br>\! To by mělo stačit!
 
 message_73:
       text: \n<CHLAPÍK>\sinv[1]Grr, grr...
@@ -164,7 +164,7 @@ message_96:
 #== Kels blocking you when you need to go elsewhere
 
 message_100:
-      text: Zde nic není.
+      text: Tady nic není.
 
 message_101:
       faceset: MainCharacters_Faraway
@@ -305,13 +305,13 @@ message_174:
       text: \n<PRODAVAČ>Hele, hochu! Jen tak mimochodem, nechtěl bys můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?
 
 message_177:
-      text: \n<PRODAVAČ>Běžne se prodávají za $25.00...\! ale ty vypadáš, že bys ním uměl...\! a tak se ho vzdám jen za $10.00!\! Co ty na to?\$
+      text: \n<PRODAVAČ>Běžne se prodávají za 25.00 Kč...\! ale ty vypadáš, že bys ním uměl...\! a tak se ho vzdám jen za 10.00 Kč!\! Co ty na to?\$
 
 message_175:
       text: \n<PRODAVAČ>Super.\! Se svým \c[13]DOMÁCÍM KAMÍNKEM\c[0] jste skvělá dvojka.\!<br>Dobře se o něj starej!
 
 message_176:
-      text: Will you challenge this monster to a battle?
+      text: Vyzveš tuto příšeru k souboji?
 
 #=========================Artist=============================
 #ARtists house
@@ -396,7 +396,7 @@ message_242:
       text: Chtěl bys doučovat MALOU HOLKU?
 
 message_243:
-      text: Získal jsi $20,00.
+      text: Získal jsi 20,00 Kč.
 
 message_244:
       text: KOUPIT
@@ -411,7 +411,7 @@ message_246:
 #Hobbeez buying pet rock
 
 message_250:
-      text: \n<PRODAVAČ>Nazdar, hochu! Nechtěl by sis koupit můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?\! Před tak pěti lety z nich všechny děcka šílely.<br>Dneska se bežně prodávají za $25,00, ale ty vypadáš, že bys s ním uměl, tak bych ti mohl slevit na $10,00...\! Co ty na to?
+      text: \n<PRODAVAČ>Nazdar, hochu! Nechtěl by sis koupit můj poslední \c[13]DOMÁCÍ KAMÍNEK\c[0]?\! Před tak pěti lety z nich všechny děcka šílely.<br>Dneska se bežně prodávají za 25,00 Kč, ale ty vypadáš, že bys s ním uměl, tak bych ti mohl slevit na 10,00 Kč...\! Co ty na to?
 
 message_251:
       text: \n<PRODAVAČ>Tak dobře... i když tenhle \c[13]DOMÁCÍ KAMÍNEK\c[0] volá tvoje jméno!\!<br>Cítím to.
@@ -491,13 +491,13 @@ message_279:
       text: \kelÁ! Ty bys tady chtěl pracovat?\! Hustý.\! Tak my zatím půjdem někam jinam.\! Měj se, SUNNY!
 
 message_280:
-      text: Získal jsi tvrdě vydřených $30,00.
+      text: Získal jsi tvrdě vydřených 30,00 Kč.
 
 message_281:
       text: \n<PIZZAŘ>Každopádně, tady máš nějaký chechtáky.\!<br>Co takhle si za ně koupit \c[3]PIZZU\c[0]!
 
 message_282:
-      text: Získal jsi tvrdě vydřených $20,00.
+      text: Získal jsi tvrdě vydřených 20,00 Kč.
 
 message_283:
       text: Získal jsi \c[13]DOMÁCÍ KAMÍNEK\c[0]!
@@ -745,7 +745,7 @@ message_390:
 message_391:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelTyhle \c[4]CDčka\c[0] vypadají celkem hustě, ale myslím, že by se HEROVI líbilo něco trochu víc od srdce!\! Pojďme hledat dál.
+      text: \kelTyhle \c[4]CDČKA\c[0] vypadají celkem hustě, ale myslím, že by se HEROVI líbilo něco trochu víc od srdce!\! Pojďme hledat dál.
 
 # Space boys arcade
 
@@ -783,7 +783,7 @@ message_400:
       text: \sinv[1]Chrrr...\| Chrrr...\| Chrrr...\| Chrrr...\kel
 
 message_401:
-      text: HERO hlastiě spí.
+      text: HERO hlasitě chrápe.
 
 # Going to other places when you need to go to shopping center first
 
@@ -820,7 +820,7 @@ message_407:
 message_434:
       faceset: MainCharacters_Faraway
       faceindex: 38
-      text: \herÁ! Vidím, že už u sebe \c[4]KYTKY\c[0] máš!\! Stejně myslím, že bychom jí měli sehnat čerstvé.\! A \c[11]OPRAVES\c[0] stejně není zas tak daleko.
+      text: \herÁ! Vidím, že už u sebe \c[4]KYTKY\c[0] máš!\! Stejně myslím, že bychom jí měli sehnat čerstvé.\! A \c[11]OPRAVSI\c[0] stejně není zas tak daleko.
 
 
 message_408:
@@ -927,13 +927,13 @@ message_430:
       text: \n<KAPITÁN VESMÍRŇÁK>Poslední dobou mě žírají všelijaké city a myšlenky...\! ale tahle chvíle je čímsi tak uklidňující.\!<br>Cítím se smířeně.
 
 message_431:
-      text: \n<CHLÁPEK S PIŇATOU>\sinv[1]\{\{JUPÍÍÍÍÍÍÍÍ!!\^
+      text: \n<PIŇATA>\sinv[1]\{\{JUPÍÍÍÍÍÍÍÍ!!\^
 
 message_432:
-      text: \n<CHLÁPEK S PIŇATOU>\sinv[1]\{\{JUHŮŮŮŮŮŮŮ!!\^
+      text: \n<PIŇATA>\sinv[1]\{\{JUHŮŮŮŮŮŮŮ!!\^
 
 message_433:
-      text: \n<CHLÁPEK S PIŇATOU>Ach jo...
+      text: \n<PIŇATA>Ach jo...
 
 
 
@@ -994,22 +994,22 @@ message_451:
 
 
 message_452:
-      text: \c[4]BRUTÁLNÍ CDčko\c[0].\! Koupíš si ho za $10,00?
+      text: \c[4]BRUTÁLNÍ CDČKO\c[0].\! Koupíš si ho za $10,00?
 
 message_453:
-      text: \c[4]ÚTULNÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+      text: \c[4]PŘÍJEMNÉ CDČKO\c[0].\! Koupíš si ho za $10,00?
 
 message_454:
-      text: \c[4]NEBESKÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+      text: \c[4]NEBESKÉ CDČKO\c[0].\! Koupíš si ho za $10,00?
 
 message_455:
-      text: \c[4]KLIDNÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+      text: \c[4]KLIDNÉ CDČKO\c[0].\! Koupíš si ho za $10,00?
 
 message_456:
-      text: \c[4]DYNAMICKÉ CDčko\c[0].\! Koupíš si ho za $10,00?
+      text: \c[4]DYNAMICKÉ CDČKO\c[0].\! Koupíš si ho za $10,00?
 
 message_466:
-      text: Tohle \c[4]CDčko\c[0] můžeš zaplatit u kasy.
+      text: Tohle \c[4]CDČKO\c[0] můžeš zaplatit u kasy.
 
 # MATLÁK day 1 sunset when he loses the ring
 
@@ -1028,7 +1028,7 @@ message_461:
 message_462:
       faceset: MainCharacter_Basil_dark
       faceindex: 33
-      text: \basSUNNY...\! Teď už je všechno v pořádku, ne snad?
+      text: \basSUNNY...\! Teď už je všechno v pořádku, že ano?
 
 message_463:
       faceset: MainCharacter_Basil_dark
@@ -1093,7 +1093,7 @@ message_534:
     text: HERO se naučil DOVEDNOST \c[1]ROZKLEPAT\c[0]!
 
 message_535:
-    text: KEL se naučil DOVEDNOST \c[1]ŠŤÁVY\c[0]!
+    text: KEL se naučil DOVEDNOST \c[1]ODŠŤAVNIT\c[0]!
 
 message_536:
     text: KEL se naučil DOVEDNOST \c[1]SNĚHOVÉ KOLE\c[0]!
@@ -1125,7 +1125,7 @@ message_551:
 message_552:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: Co to sakra děláš, AUBRY\! <br>Tak teď jsi zašla příliš daleko!\kel
+      text: Co to sakra děláš, AUBRY!\! <br>Tak teď jsi zašla příliš daleko!\kel #tečka
 
 message_553:
       faceset: MainCharacters_Faraway
@@ -1282,12 +1282,12 @@ message_593:
 message_594:
       faceset: MainCharacters_Faraway
       faceindex: 1
-      text: \aubTak...\! Jako nové...
+      text: \aubTak...\! Jako nový...
 
 message_595:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: \herUž jsem si vzpomněl!\! KEL si sem s sebou vzal toustovač!\! Prý ho tam donesl, abych na něm mohl vařit...\! KEL byl ale divné dítě...
+      text: \herUž jsem si vzpomněl!\! KEL si sem s sebou vzal toustovač!\! Prý ho tam donesl, abych na něm mohl vařit...\! Ten KEL byl ale zvláštní dítě...
 
 #Graveyard with everyone, if you don't have any flowers
 message_596:
@@ -1335,19 +1335,19 @@ message_606:
 # Hobbeez buying CDs
 
 message_608:
-      text: Vrátíš \c[4]CDčka\c[0] zpátky?
+      text: Vrátíš \c[4]CDČKO\c[0] zpátky?
 
 message_609:
-      text: Tohle \c[4]CDčko\c[0] můžeš zaplatit u pokladny.
+      text: Tohle \c[4]CDČKO\c[0] můžeš zaplatit u pokladny.
 
 message_610:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelPočkej, SUNNY! Tos už zapomněl?\! Vždyť jsi teď vzal do ruky \c[4]CDčko\c[0].\!<br>Krást se nemá! A my jsme přece vzorní občané!
+      text: \kelPočkej, SUNNY! Tos už zapomněl?\! Vždyť jsi teď vzal do ruky \c[4]CDČKO\c[0].\!<br>Krást se nemá! A my jsme přece vzorní občané!
 
 #Intro
 message_619:
-      text: \n<PRODAVAČ>Čau, hoši! Vidím, že vás zajímá támhleto \c[4]CDčko\c[0].\! Jedno za $10,00, co vy na to?\$
+      text: \n<PRODAVAČ>Čau, hoši! Vidím, že vás zajímá támhleto \c[4]CDČKO\c[0].\! Jedno za $10,00, co vy na to?\$
 #Purchase
 message_620:
       text: \n<PRODAVAČ>Dík, hoši! Můžete si ho kdykoliv pustit v \c[4]JUKEBOXU\c[0] hned vedle!
@@ -1356,7 +1356,7 @@ message_621:
       text: \n<PRODAVAČ>Jejda, pardón, na tohle nemáte dost peněz.
 #item selling prompt
 message_622:
-      text: \n<PRODAVAČ>V pohodě. Jen vraťte to \c[4]CDčko\c[0] na ten stůl, ze kterého jste ho vzali!
+      text: \n<PRODAVAČ>V pohodě. Jen vraťte to \c[4]CDČKO\c[0] na ten stůl, ze kterého jste ho vzali!
 #item selling cancel prompt
 message_623:
       text: \n<PRODAVAČ>Dík, hochu!
@@ -1381,7 +1381,7 @@ message_628:
       text: \n<POLLY>BASIL žije u babičky už od dob, co byl batole.\!<br>Jeho rodiče jsou pořád něčím zaneprázdněni...\!<br>Viděla jsem je na vlastní oči jen jednou.
 
 message_629:
-      text: Chtěl by ses vrátit do \c[11]BÍLÉHO PROSTORU\c[0]?
+      text: Chtěl by ses vrátit do \c[11]BĚLOPROSTORU\c[0]?
 
 message_630:
       text: Podíváš se skrz dírku na klíč?
@@ -1433,7 +1433,7 @@ message_644:
       text: Nabídka brigády.\!<br>Tuhle už sis dneska odpracoval.
 
 message_645:
-      text: Získal jsi tvrdě vydřených $20,00.
+      text: Získal jsi tvrdě vydřených 20,00 Kč.
 
 message_646:
       text: Hodíš do kašny 1 MUŠLI?
@@ -1513,7 +1513,7 @@ message_670:
       text: JUKEBOX.\! Nemáš, co bys v něm pouštěl.
 
 message_671:
-      text: Opravdu chceš STARÉMU BEZĎÁKOVI dát $\v[1167],00?
+      text: Opravdu chceš SANKTUSÁKOVI dát $\v[1167],00?
 
 message_672:
       text: Opravdu chceš SMRAĎOCHOVI dát $\v[1167],00?

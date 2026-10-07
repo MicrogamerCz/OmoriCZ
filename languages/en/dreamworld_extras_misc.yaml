@@ -43,13 +43,13 @@ message_6:
 # =========================================================================================
 
 message_20:
-      text: Obyvatelé \c[11]DEŠŤNÉHO MĚSTEČKA\c[0] jsou v nebezpečí!\! Nepřijemnější slejvák snad nikdy nezažili!
+      text: Obyvatelé \c[11]DEŠTIVÉHO MĚSTEČKA\c[0] jsou v nebezpečí!\! Nepřijemnější slejvák snad nikdy nezažili!
 
 message_21:
       text: Najdi trysku na levé horní straně mapy a prohlédni si ji.
 
 message_22:
-      text: Mrholí a obyvatelé \c[11]DEŠTNÉHO MĚSTEČKA\c[0] jsou opět šťastní. #tady je důležité rozlišení mezi slejvákem a mrholením
+      text: Mrholí a obyvatelé \c[11]DEŠTIVÉHO MĚSTEČKA\c[0] jsou opět šťastní. #tady je důležité rozlišení mezi slejvákem a mrholením
 
 # =========================================================================================
 # WEEPING WILLOW
@@ -58,7 +58,7 @@ message_22:
 #WEEPING WILLOW rises from the lake.
 
 message_40:
-      text: \n<SKLESLÁ VRBA>Uff...\! Zdravím, já jsem SKLESLÁ VRBA, bohyně tohoto jezera.\!<br>Tak asi dík za ty mušle. #přirozenější
+      text: \n<SKLESLÁ VRBA>Uff...\! Zdravím, já jsem SKLESLÁ VRBA, bohyně tohoto jezera.\!<br>No, děkuji za ty mušle. #přirozenější, orig
 
 message_41:
       text: \n<SKLESLÁ VRBA>Slyšela jsem, že peníze jsou štěstí,<br>ale zatím mi to moc nesedí...
@@ -69,7 +69,7 @@ message_42:
 #If Player does not have Joke Book or has no Jokes
 
 message_43:
-      text: \n<SKLESLÁ VRBA>...\! Vypadá, že nemáte žádný slušný matroš.\!<br>Vraťte se, až budete mít nějaký pořádnější arsenál.
+      text: \n<SKLESLÁ VRBA>...\! Vypadá, že nemáte žádný slušný materiál.\!<br>Vraťte se, až budete mít nějaký lepší arsenál. #orig
 
 #[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
 
@@ -119,15 +119,15 @@ message_60:
       text: \"Slyšel jsi někdy o té restauraci na Měsíci?\"
 
 message_61:
-      text: \"Prý tam mají skvělé jídlo, ale schází jim tam atmosféra.\"
+      text: \"Prý tam mají skvělé občerstvení, ale schází jim tam atmosféra.\"
 
 #JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
 
 message_62:
-      text: \"Proč strašák vyhrál nobelovku?\"
+      text: \"Proč se se strašákem nikdo nechce kamarádit?\"
 
 message_63:
-      text: \"Protože vynikal ve svém poli.\"
+      text: \"Protože všem leze do zelí.\"
 
 
 #JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
@@ -141,26 +141,26 @@ message_65:
 #JOKE 4: Location: FROZEN FOREST in an igloo.
 
 message_66:
-      text: \"How does a penguin build a house?\"
+      text: \"Proč se sob nedělí o své dárky?\"
 
 message_67:
-      text: \"Igloos it together.\"
+      text: \"Je totiž sobec.\"
 
 #JOKE 5: Location: ORANGE OASIS on a cave wall.
 
 message_68:
-      text: \"What do you call cheese that isn't yours?\"
+      text: \"Co řekne myš, když se hájí před soudem?\"
 
 message_69:
-      text: \"Nacho cheese.\"
+      text: \"To já ne, to na mě někdo ušil goudu!\"
 
 #JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
 
 message_70:
-      text: \"What lies at the bottom of the ocean and twitches?\"
+      text: \"Kdo je strachy bez sebe na dně?\"
 
 message_71:
-      text: \"A nervous wreck.\"
+      text: \"Leklá ryba.\"
 
 #JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
 
@@ -168,10 +168,10 @@ message_72:
       text: \"Chceš říct vtip o stavebnictví?\"
 
 message_73:
-      text: \"Rád bych, ale ještě ho nemám hotový.\"
+      text: \"Řekl bych ti ho, ale ještě jsem ho nedokončil.\"
 
 message_74:
-      text: Zběsile jsi tento vtip naškrábal do své \c[4]SBÍRKY VTIPŮ\c[0].
+      text: Kvapile jsi tento vtip naškrábal do své \c[4]SBÍRKY VTIPŮ\c[0].
 
 message_75:
       text: Získal jsi \c[4]SBÍRKU VTIPŮ\c[0]!
@@ -371,7 +371,7 @@ message_206:
 message_207:
     faceset: MainCharacters_DreamWorld
     faceindex: 9
-    text: \aubPočkej...\!<br>\Com[2]\{JE TAMTO MŮJ \c[4]DIPLOM HLAVO-TVRDOSTI\c[0]??\}\!
+    text: \aubPočkej...\!<br>\Com[2]\{NENÍ TO MŮJ \c[4]DIPLOM TVRDOHLAVOSTI\c[0]??\}\!
 
 message_208:
     faceset: MainCharacters_DreamWorld
