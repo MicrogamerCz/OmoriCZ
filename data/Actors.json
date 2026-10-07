@@ -6,10 +6,18 @@
     "characterIndex": 0,
     "characterName": "DW_OMORI",
     "classId": 1,
-    "equips": [0],
+    "equips": [
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
-    "traits": [{ "code": 14, "dataId": 18, "value": 1 }],
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 18,
+        "value": 1
+      }
+    ],
     "initialLevel": 1,
     "maxLevel": 50,
     "name": "OMORI",
@@ -23,18 +31,36 @@
     "characterIndex": 0,
     "characterName": "DW_AUBREY",
     "classId": 2,
-    "equips": [0],
+    "equips": [
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 50,
-    "name": "AUBREY",
+    "name": "AUBRY",
     "nickname": "",
     "note": "<BattleStatusFaceName: 02_AUBREY_BATTLE>\n<BattleStatusIndex: 0>\n\n<BattleCommandsList>\nskill: 64\nskillList\ndefend\nitems\n</BattleCommandsList>\n\n<Hit Counter>",
     "profile": ""
@@ -45,14 +71,32 @@
     "characterIndex": 0,
     "characterName": "DW_KEL",
     "classId": 3,
-    "equips": [0],
+    "equips": [
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 50,
@@ -67,14 +111,32 @@
     "characterIndex": 0,
     "characterName": "DW_HERO",
     "classId": 4,
-    "equips": [0],
+    "equips": [
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 50,
@@ -89,7 +151,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -106,7 +174,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -123,7 +197,9 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0],
+    "equips": [
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -140,18 +216,52 @@
     "characterIndex": 0,
     "characterName": "FA_OMORI",
     "classId": 6,
-    "equips": [110],
+    "equips": [
+      110
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 22, "dataId": 0, "value": 0.75 },
-      { "code": 14, "dataId": 6, "value": 1 },
-      { "code": 14, "dataId": 7, "value": 1 },
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 11, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 15, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 }
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.75
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 15,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 1,
@@ -166,15 +276,38 @@
     "characterIndex": 0,
     "characterName": "FA_AUBREY",
     "classId": 7,
-    "equips": [25, 106],
+    "equips": [
+      25,
+      106
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 43, "dataId": 187, "value": 1 },
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 43,
+        "dataId": 187,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 1,
@@ -189,15 +322,38 @@
     "characterIndex": 0,
     "characterName": "FA_KEL",
     "classId": 8,
-    "equips": [42, 109],
+    "equips": [
+      42,
+      109
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 43, "dataId": 187, "value": 1 },
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 43,
+        "dataId": 187,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 1,
@@ -212,16 +368,42 @@
     "characterIndex": 0,
     "characterName": "FA_HERO",
     "classId": 9,
-    "equips": [55],
+    "equips": [
+      55
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [
-      { "code": 43, "dataId": 185, "value": 1 },
-      { "code": 43, "dataId": 187, "value": 1 },
-      { "code": 14, "dataId": 8, "value": 1 },
-      { "code": 14, "dataId": 12, "value": 1 },
-      { "code": 14, "dataId": 16, "value": 1 },
-      { "code": 14, "dataId": 20, "value": 1 }
+      {
+        "code": 43,
+        "dataId": 185,
+        "value": 1
+      },
+      {
+        "code": 43,
+        "dataId": 187,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 12,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 16,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 20,
+        "value": 1
+      }
     ],
     "initialLevel": 1,
     "maxLevel": 1,
@@ -236,7 +418,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -253,7 +441,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -270,7 +464,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -287,7 +487,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -304,7 +510,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 2,
-    "equips": [14, 0, 0, 0, 0],
+    "equips": [
+      14,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -321,7 +533,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -338,7 +556,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -355,7 +579,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -372,7 +602,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -389,7 +625,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -406,7 +648,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -423,7 +671,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -440,7 +694,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -457,7 +717,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -474,7 +740,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -491,7 +763,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -508,7 +786,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -525,7 +809,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -542,7 +832,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -559,7 +855,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -576,7 +878,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -593,7 +901,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -610,7 +924,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -627,7 +947,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -644,7 +970,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -661,7 +993,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -678,7 +1016,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -695,7 +1039,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -712,7 +1062,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -729,7 +1085,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -746,7 +1108,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -763,7 +1131,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -780,7 +1154,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -797,7 +1177,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -814,7 +1200,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -831,7 +1223,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -848,7 +1246,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -865,7 +1269,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -882,7 +1292,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -899,7 +1315,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -916,7 +1338,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -933,7 +1361,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -950,7 +1384,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -967,7 +1407,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -984,7 +1430,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1001,7 +1453,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1018,7 +1476,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1035,7 +1499,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1052,7 +1522,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1069,7 +1545,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1086,7 +1568,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1103,7 +1591,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1120,7 +1614,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1137,7 +1637,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1154,7 +1660,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1171,7 +1683,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1188,7 +1706,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1205,7 +1729,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1222,7 +1752,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1239,7 +1775,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1256,7 +1798,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1273,7 +1821,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1290,7 +1844,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1307,7 +1867,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1324,7 +1890,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1341,7 +1913,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1358,7 +1936,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1375,7 +1959,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1392,7 +1982,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1409,7 +2005,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1426,7 +2028,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1443,7 +2051,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1460,7 +2074,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1477,7 +2097,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1494,7 +2120,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1511,7 +2143,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1528,7 +2166,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1545,7 +2189,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1562,7 +2212,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1579,7 +2235,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1596,7 +2258,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1613,7 +2281,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1630,7 +2304,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1647,7 +2327,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1664,7 +2350,13 @@
     "characterIndex": 0,
     "characterName": "",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1681,7 +2373,13 @@
     "characterIndex": 0,
     "characterName": "$crow",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1698,7 +2396,13 @@
     "characterIndex": 0,
     "characterName": "$crow",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
@@ -1715,7 +2419,13 @@
     "characterIndex": 0,
     "characterName": "$crow",
     "classId": 1,
-    "equips": [0, 0, 0, 0, 0],
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "faceIndex": 0,
     "faceName": "",
     "traits": [],
