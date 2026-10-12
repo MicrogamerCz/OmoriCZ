@@ -42,7 +42,7 @@ message_3:
 message_4:
       faceset: MainCharacters_Faraway
       faceindex: 14 #insert number here
-      text: \kelSUNNY! Tohle je CHRIS, moje sousedka! Je hrozně fajn\! A z celé naší školy umí nejrychleji plavat!
+      text: \kelSUNNY! Tohle je CHRIS, moje sousedka! Je hrozně fajn!\! A z celé naší školy umí nejrychleji plavat!
 
 message_5:
       faceset: MainCharacters_Faraway

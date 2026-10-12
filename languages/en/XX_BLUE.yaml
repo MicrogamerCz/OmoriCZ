@@ -25,8 +25,8 @@ OMOCAT:
 # =========================================================================================
 
 World_Currency_Unit:
-  clams: C
-  dollars: $
+  clams: M
+  dollars: Kč
 
 # =========================================================================================
 # Common Event 3 - Game Chapters Names
@@ -65,7 +65,7 @@ Map_Display_Names:
   96: ROZLEHLÝ LES
   100: VĚTRNÍKOVÝ LES
   106: POMERANČOVÁ POUŠŤ
-  111: DEŠTNÉ MĚSTEČKO
+  111: DEŠTIVÉ MĚSTEČKO
   124: JINOSFÉRA
   131: LEDOVÝ RYBNÍK
   140: SNEŽÍTKOVÝ VRCH
@@ -85,12 +85,12 @@ Map_Display_Names:
   216: BENDA
   223: BENDA
   236: BENDA
-  244: BOSS RUSH
+  244: ŠÉFOVA VÝZVA
   249: BENDA
   250: BENDA
   252: KONEČNÁ
-  258: PROPAST
-  264: ČERNÝ PROSTOR
+  258: HLUBINA
+  264: ČERNOPROSTOR
   310: LOUKA
   340: ZTRACENÁ KNIHOVNA
   341: SÍDLO RECYKLOSEKTY
@@ -100,7 +100,7 @@ Map_Display_Names:
   380: ZÁKULISÍ
   383: ALEJ VZPOMÍNEK
   384: ALEJ VZPOMÍNEK
-  455: ČERNÝ PROSTOR
+  455: ČERNOPROSTOR
   466: LOŽNICE SOUSEDŮ
   497: ROZLEHLÝ LES
 
@@ -158,7 +158,7 @@ Quest_Names:
   Alone: ZTRACENÍ KAMARÁDI
   BasilHouse: BASIL
   Leafie: ZAJÍČKOVRAH
-  Raintown: DEŠTNÉ MĚSTEČKO
+  Raintown: DEŠTIVÉ MĚSTEČKO
   Squizzards: ČAROLIHNĚ
   Rest: ODPOČINEK
   Abandoned: PRÁZDNÝ DŮM
@@ -202,18 +202,18 @@ Omori_Item_Shop:
 # =========================================================================================
 
 Omori_Mainmenu_Sceneskill:
-  do_what: UDĚLÁ CO?
+  do_what: CO UDĚLAT?
   use_on_who: POUŽÍT NA KOHO?
   use_on_all: POUŽÍT NA VŠECHNY?
   use: POUŽÍT
-  swap: VYMĚNIT
+  swap: ZMĚNIT
 
 # =========================================================================================
 # OMORI MAIN MENU
 # =========================================================================================
 
 Omori_Mainmenu:
-  lvl: UVŇ.
+  lvl: UVŇ
   select_who: VYBRAT KOHO?
 
 # =========================================================================================
@@ -228,7 +228,7 @@ Omori_Mainmenu_Sceneoptions:
 # =========================================================================================
 
 Omori_Name_Input:
-  nameask: Jak se jmenuje? (TOHLE NEMÁ VLIV NA HRU)
+  nameask:
   defaultname: SUNNY
   max_chars: 5
 
@@ -252,7 +252,7 @@ Omori_Save_Load:
 
 Yin_Blackjack:
   bets: [$5,$25,$100,Konec] # Those are the strings in the bet commands
-  jack_commands: [Stay, Hit] # Those are the commands for blackjack. They will be uppercased.
+  jack_commands: [Stát, Vzít] # Those are the commands for blackjack. They will be uppercased.
   dealer_streak: Krupiér %1 # %1 is streak string
   player_streak: Hráč %1 # %1 is streak string
   streak_string: " - Počet výher - %1" # %1 is the player/dealer streak value

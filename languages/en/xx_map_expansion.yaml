@@ -31,7 +31,7 @@ message_3:
 #*Pluto walks in front of KEL*
 
 message_4:
-    text: \plu\Com[2]\c[1]ZATNI\c[0] svaly, KELI!<br>Dokaž mi, že sis zachoval, co jsem tě naučil!
+    text: \plu\Com[2]\c[1]ZATNI SVALY\c[1], KELI!<br>Dokaž mi, že sis zachoval, co jsem tě naučil!
 
 message_5:
     faceset: MainCharacters_DreamWorld
@@ -363,7 +363,7 @@ message_101:
 #*MUSHROOM MAN pops out of crater when you go close to it*
 
 message_102:
-    text: \n<H. BA>Ty!\! Jo, ten kulatý!\!<br>Tvé oči... Jde z nich vyčíst, po čem toužíš!
+    text: \n<H. BA>Ty!\! Jo, ten bledý!\!<br>Tvé oči... Jde z nich vyčíst, po čem toužíš!
 
 message_103:
     text: \n<H. BA>Výborné!\! Výborné, výborné, vskutku výborné...\!<br>Vyučím tě.\! Pojď. #ě na é
@@ -372,7 +372,7 @@ message_103:
 
 #Talk to MUSHROOM MAN.
 message_104:
-    text: \n<H. BA>Hmm... Nemáš v očích tu samou jiskru, co ten kulatý!\! Nikoho jiného nehodlám učit!
+    text: \n<H. BA>Hmm... Nemáš v očích tu samou jiskru, co ten bledý!\! Nikoho jiného nehodlám učit!
 
 message_105:
     text: \n<H. BA>Tak jsi nakonec přišel!\! Výborně!\!<br>Nyní sleduj.\! Tvrdé cibule, jako tahle za mnou, v sobě drží mé krajany.<br>Ti se z ní však sami nedokážou dostat.
@@ -426,7 +426,7 @@ message_115:
 #Intro:
 
 message_119:
-    text: Ve zdi je promáčknuta velice výrazná tvář.\!<br>Nemáš pomětí, co je zač.
+    text: Ve zdi je promáčknuta velice výrazná tvář.\!<br>Nemáš ponětí, co je zač.
 
 message_120:
     text: \n<VELKÁ TVÁŘ>Tyto...\! dutá místa já značím.\!<br>A v nich...\! jsem skryl svůj nejcennější majetek...\! ano.
@@ -943,7 +943,7 @@ message_280:
 message_281:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelJé, ahoj MARI!
+    text: \kelJé, čau MARI!
 
 message_282:
     faceset: MainCharacter_Mari
@@ -969,17 +969,17 @@ message_284:
 message_285:
     faceset: MainCharacters_DreamWorld
     faceindex: 31
-    text: \kelNo vlastně! Já úplně zapomněl!\! Na tohle potřebujeme \c[4]HUSTOU VSTUPNÍ KARTU\c[0]!
+    text: \kelNo vlastně! Úplně mi to vypadlo z hlavy...\! Na tohle potřebujeme \c[4]HUSTOU KARTU\c[0]!
 
 message_286:
     faceset: MainCharacters_DreamWorld
     faceindex: 19
-    text: \kelVzali mi ji, protože jsem ji furt ztrácel...\!<br>Přísahám, že ale mizí samy!
+    text: \kelVzali mi ji, protože jsem ji furt ztrácel...\!<br>Ony ale snad mizí samy, přísahám!
 
 message_287:
     faceset: MainCharacters_DreamWorld
     faceindex: 18
-    text: \kelPojďme zkusit najít nějakou jinou.<br>\!Někde tady přece alespoň jedna \c[4]HUSTÁ VSTUPNÍ KARTA\c[0] být musí!
+    text: \kelZkusme nějakou najít.<br>\!Někde tady přece alespoň jedna \c[4]HUSTÁ KARTA\c[0] být musí!
 
 #*Find KEY CARD next to Creepy Doll in a Hotel Room*
 
@@ -1089,7 +1089,7 @@ message_336:
     text: VELKÁ ŽLUTÁ KOČKA
 #[WHITE SPACE]
 message_337:
-    text: BÍLÝ PROSTOR
+    text: BĚLOPROSTOR
 
 #---
 
@@ -1144,22 +1144,22 @@ message_357:
 #---
 
 message_365:
-    text: \n<KORÁL>Přál by sis vědět víc o \c[11]BÍLÉM PROSTORU\c[0]?
+    text: \n<KORÁL>Přál by sis vědět víc o \c[11]BĚLOPROSTORU\c[0]?
 
 #[YES]
 #&Everything except for the KORÁL, OMORI, and a small pool under the KORÁL are blacked out.*
 
 message_366:
-    text: \n<KORÁL>Být v \c[11]BÍLÉM PROSTORU\c[0] znamená být ničím.
+    text: \n<KORÁL>Být v \c[11]BĚLOPROSTORU\c[0] znamená být ničím.
 
 message_367:
-    text: \n<KORÁL>\c[11]BÍLÝ PROSTOR\c[0] je nicota, domov bez tepla.<br>Místo, které nebylo stvořeno k životu, nýbrž k přežití.
+    text: \n<KORÁL>\c[11]BĚLOPROSTOR\c[0] je nicota, domov bez tepla.<br>Místo, které nebylo stvořeno k životu, nýbrž k přežití.
 
 message_368:
     text: \n<KORÁL>Ale i přesto své vědomí nevymažeš.\!<br>Vždy si najde cestu dovnitř.
 
 message_369:
-    text: \n<KORÁL>Zhmotní se i v \c[11]BÍLÉM PROSTORU\c[0]...\!<br>a přeje-li si to někdo, vznikne něco, co si jej podmaní.
+    text: \n<KORÁL>Zhmotní se i v \c[11]BĚLOPROSTORU\c[0]...\!<br>a přeje-li si to někdo, vznikne něco, co si jej podmaní.
 
 message_370:
     text: \n<KORÁL>Visící černá žárovka...\! potlačení myšlenky.
@@ -1225,7 +1225,7 @@ message_381:
 
 #Examine KORÁL:
 message_382:
-    text: Korál.\! Není živý.
+    text: Korál.\! Nežije.
 
 #[NO]
 #nothing

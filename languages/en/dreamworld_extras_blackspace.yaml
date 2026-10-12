@@ -26,7 +26,7 @@ message_8:
       text: \n<UČITEL KLÍČKOKRTKŮ>Objevili záhadnou propast, která vsákla stovky, ba dokonce tisíce našich druhů. Od té chvíle je již nikdo nespatřil.
 
 message_9:
-      text: \n<UČITEL KLÍČKOKRTKŮ>Přesné umíštění \c[11]HLUBOKÉ PROPASTI\c[0], jak ji tehdy nazvali, je již století ztracena. Někteří tvrdí, že jak záhadně se objevila, tak taky zmizela. #zní lépe
+      text: \n<UČITEL KLÍČKOKRTKŮ>Přesné umíštění \c[11]HLUBINY\c[0], jak ji tehdy nazvali, je již století ztracena. Někteří tvrdí, že jak záhadně se objevila, tak taky zmizela. #zní lépe
 
 #ORANGE OASIS: One of MINA's kids mentions the story of the SHADOWY CHASM, a place where all bad kids go.
 
@@ -42,7 +42,7 @@ message_12:
       text: \n<STOPAŘ>Má mnoho jmen...\!<br>třeba \c[11]TEMNÁ PRÁZDNOTA\c[0]...\! \c[11]HLUBOKÁ PROPAST\c[0]...\! nebo \c[11]STÍNOVÁ TRHLINA\c[0]...
 
 message_13:
-      text: \n<STOPAŘ>U nás v \c[11]HLUBOKÉ STUDNĚ\c[0] ji říkáme jednoduše \c[11]PROPAST\c[0].
+      text: \n<STOPAŘ>U nás v \c[11]HLUBOKÉ STUDNĚ\c[0] ji říkáme jednoduše \c[11]HLUBINA\c[0].
 
 message_14:
       text: \n<STOPAŘ>Je hned támhle za koncem dálnice.\! Chtěli byste tam vzít?

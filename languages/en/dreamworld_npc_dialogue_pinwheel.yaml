@@ -22,7 +22,7 @@ message_0:
 #SPELLING BEE (tak tohle nevím jak přeložit.)
 #Location: Train station
 message_1:
-      text: \n<VČELA HLÁSKA>A-\!H-\!O-\!J\! J-\!Á\! J-\!S-\!E-\!M\! <br>V-\!Č-\!E-\!L-\!A-\! H-\!L-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!K-\!A!
+      text: \n<VČELKA HLÁSKA>A-\!H-\!O-\!J\! J-\!Á\! J-\!S-\!E-\!M\! <br>V-\!Č-\!E-\!L-\!A\! H-\!L-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!K-\!A!
 
 #Gator Guy 1
 #Location: Train Station
@@ -168,7 +168,7 @@ message_41:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_40:
-      text: \n<VČELA HLÁSKA>J-\!A-\!K-\!P-\!A-\!K\! S-\!E\! V-\!Á-\!M\! L-\!Í-\!B-\!Í\! T-\!E-\!N-\!T-\!O \!P-\!Ř-\!E-\!K-\!R-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!N-\!Ý\! V-\!E-\!Č-\!E-\!R? \!N-\!O\! N-\!E-\!M-\!Á-\!M-\!E\! T-\!O \!H-\!E-\!Z-\!K-\!É \!P-\!O-\!Č-\!A-\!S-\!Í-\!Í-\!Í-\!Í-\!Í?
+      text: \n<VČELKA HLÁSKA>J-\!A-\!K-\!P-\!A-\!K\! S-\!E\! V-\!Á-\!M\! L-\!Í-\!B-\!Í\! T-\!E-\!N-\!T-\!O \!P-\!Ř-\!E-\!K-\!R-\!Á-\!Á-\!Á-\!Á-\!Á-\!Á-\!S-\!N-\!Ý\! V-\!E-\!Č-\!E-\!R? \!N-\!O\! N-\!E-\!M-\!Á-\!M-\!E\! T-\!O \!H-\!E-\!Z-\!K-\!É \!P-\!O-\!Č-\!A-\!S-\!Í-\!Í-\!Í-\!Í-\!Í?
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: Same as Night 1-1
 #Gator Guy 2: Same as Night 1-1
@@ -182,7 +182,7 @@ message_40:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_50:
-      text: \n<VČELA HLÁSKA>A-\!H-\!O-\!J-\!T-\!E! \!R-\!Á-\!D-\!A \!V-\!Á-\!S \!Z-\!A-\!S-\!E <br>\!V-\!I-\!D-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!M!\! J-\!A-\!K-\!P-\!A-\!K \!J-\!S-\!T-\!E \!S-\!E \!M-\!Ě-\!L-\!I?
+      text: \n<VČELKA HLÁSKA>A-\!H-\!O-\!J-\!T-\!E! \!R-\!Á-\!D-\!A \!V-\!Á-\!S \!Z-\!A-\!S-\!E <br>\!V-\!I-\!D-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!Í-\!M!\! J-\!A-\!K-\!P-\!A-\!K \!J-\!S-\!T-\!E \!S-\!E \!M-\!Ě-\!L-\!I?
 
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: N/A
@@ -197,7 +197,7 @@ message_50:
 #LEAFIE: Same as Night 1-1
 #Spelling Bee:
 message_60:
-      text: \n<SPELLING BEE>B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!S!
+      text: \n<VČELKA HLÁSKA>V-\!Č-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!L-\!K-\!A!
 
 #Wise Rock: Same as Night 1-1
 #Gator Guy 1: N/A
@@ -224,16 +224,16 @@ message_61:
 
 #TRAIN Jash
 message_100:
-      text: \n<NÁDRAŽNÍ JAŠ>\com[2]Stát!\! Dál bez \c[4]JÍZDENKY\c[0] nemůžete!\! To je snad jasný, ne?!
+      text: \n<PŘEDNOSTA JAŠ>\com[2]Stát!\! Dál bez \c[4]JÍZDENKY\c[0] nemůžete!\! To je snad jasný, ne?!
 
 message_101:
-      text: \n<NÁDRAŽNÍ JAŠ>\com[2]Stát!\! Dál bez-
+      text: \n<PŘEDNOSTA JAŠ>\com[2]Stát!\! Dál bez-
 
 message_102:
-      text: \n<NÁDRAŽNÍ JAŠ>Ty bláho...\! Pravá \c[4]JÍZDENKA\c[0]...\! Tak to vy jste ti poslední pasažéři!\! Už na vás dlouho čekáme.
+      text: \n<PŘEDNOSTA JAŠ>Ty bláho...\! Pravá \c[4]JÍZDENKA\c[0]...\! Tak to vy jste ti poslední pasažéři!\! Už na vás dlouho čekáme.
 
 message_103:
-      text: \n<NÁDRAŽNÍ JAŠ>Tak...\! Za mě dobrý!\! Vítejte na palubě, cestující!
+      text: \n<PŘEDNOSTA JAŠ>Tak...\! Za mě dobrý!\! Vítejte na palubě, cestující!
 
 message_104:
-      text: \n<NÁDRAŽNÍ JAŠ>Vítejte na palubě, cestující!
+      text: \n<PŘEDNOSTA JAŠ>Vítejte na palubě, cestující!

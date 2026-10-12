@@ -265,12 +265,12 @@ message_48:
 message_49:
       faceset: MainCharacters_DreamWorld
       faceindex: 26
-      text: \sinv[1]Hááá...\! Fůůů...\! Hááá...\! Fůůů...\!\sinv[0] Nejsi sekretářka...\! \sinv[1]Hááá...\! Fůůů...\!\sinv[0] BASIL se ztratil a musíme ho najít...\! \sinv[1]Hááá...\! Fůůů...\! Hááá...\! Fůůů...\kel
+      text: \sinv[1]Hááá...\! Fúúú...\! Hááá...\! Fúúú...\!\sinv[0] Nejsi sekretářka...\! \sinv[1]Hááá...\! Fúúú...\!\sinv[0] BASIL se ztratil a musíme ho najít...\! \sinv[1]Hááá...\! Fúúú...\! Hááá...\! Fúúú...\kel #pravopis
 
 message_50:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: \sinv[1]Hááá...\! Fůůů...\! Hááá...\! Fůůů...\sinv[0]\aub
+      text: \sinv[1]Hááá...\! Fúúú...\! Hááá...\! Fúúú...\sinv[0]\aub #pravopis
 
 #AUBREY is surprised.
 
@@ -343,7 +343,7 @@ message_62:
       text: No, vlastně jsem sem přišel, abych vám osobně oznámil...<br>že podávám výpověď!\! A beru s sebou AUBRY!\kel #blize orig
 
 message_63:
-      text: \}Velmi vtipný.\! Můj kancl, KELI.\! Hned teď.\jaw #blize orig
+      text: \}Velmi vtipný.\! Můj kancl, KELI.\! A hned.\jaw #blize orig
 
 message_64:
       faceset: MainCharacters_DreamWorld
@@ -403,7 +403,7 @@ message_82:
 #MR. JAWSUM pulls out a contract.
 
 message_83:
-      text: Jak je psáno zde ve vašich smlouvách:\! Souhlasili jste s tím, že pro mě budete pracovat, dodávám že bez nároku na plat, po celý zbytek vašich životů.\jaw
+      text: Jak je psáno zde ve vašich smlouvách:\! Souhlasili jste s tím, že pro mě budete pracovat, dodávám, že bez nároku na plat, po celý zbytek vašich životů.\jaw
 
 #MR. JAWSUM puts away the contract.
 
@@ -440,7 +440,7 @@ message_89:
 message_90:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{\{\sinv[1]SUPER!! VYPADNĚME KONEČNĚ ODSUD!!!\kel
+      text: \{\{\sinv[1]SUPER!! VYPADNĚME ODSUD!!!\kel
 
 #AUBREY and KEL turn around to leave.
 
@@ -504,7 +504,7 @@ message_101:
       text: \{VIDÍTE TO, DĚCKA!?\jaw
 
 message_135:
-      text: Skvělá práce, HERO!\! Opravdu skvělá!\! <br>Začínám uvažovat o tom, že bych ti možná i jednou mohl zaplatit...\jaw
+      text: Skvělá práce, HERO!\! Přímo vynikající!\! <br>Začínám uvažovat o tom, že bych tě možná i mohl jednou začít platit...\jaw
 
 message_136:
       text: \jaw\Com[2]\Sinv[2]\{\{ŽRÁÁÁ\{HAHA\{HAHA!!\Sinv[0] #prelozeno citoslovce
@@ -519,7 +519,7 @@ message_102:
 message_103:
       faceset: MainCharacters_DreamWorld
       faceindex: 38
-      text: Jé, čau! Co vy tady?<br>\!Sháníš taky práci, OMORI?\her
+      text: Jé, ahoj! Co vy tady?<br>\!Sháníš taky práci, OMORI?\her
 
 message_104:
       faceset: MainCharacters_DreamWorld
@@ -567,7 +567,7 @@ message_112:
       text: PANE CENILE...\! Promiňte, ale...\!<br>Ta sbírka na \c[3]TOFU\c[0] počká, se vší ctí!\her
 
 message_113:
-      text: Ts...\! Tos mě teda urazil, HERO.\!<br>Nezapomněl jsi snad na naši smlouvu, viď že ne?\jaw
+      text: Ts...\! Tos mě teda zklamal, HERO.\!<br>Nezapomněl jsi snad na naši smlouvu, viď že ne?\jaw
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -623,7 +623,7 @@ message_124:
 #GATOR GUYS step back.
 
 message_125:
-      text: Ts...\! Musím přiznat...\! že jste celkem silní na to, že jste děcka.\! <br>Ale na tom teď nezáleží.\jaw
+      text: Ts...\! Musím přiznat...\! Na děcka jste celkem silní.\! <br>Ale na tom teď nezáleží.\jaw
 
 message_126:
       text: HERO není mým jediným dokonalým zaměstnancem.\! <br>Mám...\! ještě jednoho.\jaw
@@ -674,7 +674,7 @@ message_151:
       text: Ale...\! I přesto... mám práci.<br>A já ji nehodlám nechat nedokončneou.\plu
 
 message_152:
-      text: Připravte se, děti...\!<br>\{TOHLE JE PRAVÝ VÝZNAM SÍLY!!!\plu
+      text: Připravte se, děti...\!<br>\{TOHLE JE TEPRVE SÍLA!!!\plu
 
 message_173:
       text: \quake[1]Když...\!\quake[1] zatnu...\!\quake[1] svaly...\!\plu
@@ -683,7 +683,7 @@ message_173:
 #Screen shakes.
 
 message_153:
-      text: \Com[2]\quake[1]\{\{HNED P\{ŘENÁŠÍ\{M HORY!!!\plu
+      text: \Com[2]\quake[1]\{\{HNED P\{ŘENÁŠÍ\{M SKÁLY!!!\plu
 
 #Screen shakes again.
 
@@ -933,7 +933,7 @@ message_231:
 message_232:
       faceset: MainCharacters_DreamWorld
       faceindex: 47
-      text: \her...\! Fůha...\! To opravdu vypadá BASIL takhle?
+      text: \her...\! Fúha...\! To opravdu vypadá BASIL takhle?
 
 #pause
 
@@ -972,7 +972,7 @@ message_238:
 #Go into inventory to see BAD DRAWING picture.
 
 message_300:
-      text: Získal jsi \c[4]HUSTOU VSTUPNÍ KARTU\c[0].
+      text: Získal jsi \c[4]HUSTOU KARTU\c[0].
 
 message_301:
       text: Telefonáty ostošest!
@@ -986,7 +986,7 @@ message_303:
 message_305:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \kelHustý! Našli jsme \c[4]HUSTOU VSTUPNÍ KARTU\c[0]!
+      text: \kelHustý! Našli jsme \c[4]HUSTOU KARTU\c[0]!
 
 message_306:
       faceset: MainCharacters_DreamWorld
@@ -1000,7 +1000,7 @@ message_310:
       text: \herNo vlastně! Málem jsem zapomněl...\! Vem si tohle, OMORI!\! Tohle mi dal PAN CENIL, abych mohl rychleji procházet \c[11]KONEČNOU\c[0].
 
 message_311:
-      text: HERO ti dal \c[4]V.I.P. VSTUPNÍ KARTU\c[0]!\! Ty jo...
+      text: HERO ti dal \c[4]V.I.P. KARTU\c[0]!\! Ty jo...
 
 message_312:
       faceset: MainCharacters_DreamWorld

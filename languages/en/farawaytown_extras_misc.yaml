@@ -65,7 +65,7 @@ message_13:
       text: \n<RAI>Já jsem RAI! Jsem takový hudební fajnšmekr.
 
 message_14:
-      text: \n<RAI>Pokud mi pustíte na támhletom \c[4]JUKEBOXU\c[0] nějaké \c[4]CDčko\c[0], vsadím se, že hned poznám interpreta!
+      text: \n<RAI>Pokud mi pustíte na támhletom \c[4]JUKEBOXU\c[0] nějaké \c[4]CDČKO\c[0], vsadím se, že hned poznám interpreta!
 
 message_15:
       text: \n<RAI>Já jsem RAI! Jsem takový hudební fajnšmekr...\! a fajnšmekr jsem i v karetních hrách!
@@ -244,112 +244,112 @@ message_138:
 #  Sorting Items
 
 message_140:
-      text: AKČNÍ FIGURKU KAPITÁNA VESMÍRŇÁKA[HRAČKA]
+      text: AKČNÍ FIGURKU KAPITÁNA VESMÍRŇÁKA[TOY]
 
 message_141:
-      text: STAVEBNICI[HRAČKA]
+      text: STAVEBNICI[TOY]
 
 message_142:
-      text: PYTLÍK PLNÝ KULIČEK[HRAČKA]
+      text: PYTLÍK PLNÝ KULIČEK[TOY]
 
 message_143:
-      text: JOJO[HRAČKA]
+      text: JOJO[TOY]
 
 message_144:
-      text: PLASTELÍNU[HRAČKA]
+      text: PLASTELÍNU[TOY]
 
 message_145:
-      text: PRUŽINKU[HRAČKA] #ať je to jasnější. a zjistil jsem, že "slinky" je copyrightované. ještě že to je tady skryté...
+      text: PRUŽINKU[TOY] #ať je to jasnější. a zjistil jsem, že "slinky" je copyrightované. ještě že to je tady skryté...
 
 message_146:
-      text: PLYŠOVÉHO KLÍČKOKRTKA[HRAČKA]
+      text: PLYŠOVÉHO KLÍČKOKRTKA[TOY]
 
 message_147:
-      text: PANENKU ZLATÍČKA[HRAČKA]
+      text: PANENKU ZLATÍČKA[TOY]
 
 message_148:
-      text: OVLADAČ NA AUTÍČKO[HRAČKA]
+      text: OVLADAČ NA AUTÍČKO[TOY]
 
 message_149:
-      text: AUTÍČKO NA DÁLKOVÉ OVLÁDÁNÍ[HRAČKA] #blíže orig, výše též
+      text: AUTÍČKO NA DÁLKOVÉ OVLÁDÁNÍ[TOY] #blíže orig, výše též
 
 message_150:
-      text: ROZTRHLÉHO DRAKA[HRAČKA]
+      text: ROZTRHLÉHO DRAKA[TOY]
 
 message_151:
-      text: HRACÍ KASU[HRAČKA]
+      text: HRACÍ KASU[TOY]
 
 message_152:
-      text: DUHOVÝ XYLOFON[HRAČKA]
+      text: DUHOVÝ XYLOFON[TOY]
 
 message_153:
-      text: MINI HRACÍ KLAVÍR[HRAČKA]
+      text: MINI HRACÍ KLAVÍR[TOY]
 
 message_154:
-      text: KOVOVÉ KULIČKY[HRAČKA]
+      text: KOVOVÉ KULIČKY[TOY]
 
 message_155:
-      text: MALÝ VĚTRNÍK[HRAČKA]
+      text: MALÝ VĚTRNÍK[TOY]
 #delete the entry below
 message_156:
-      text: KOMIKS \"DOBRODRUŽSTVÍ KAPITÁNA VESMÍRŇÁKA\"[KNIHA]
+      text: KOMIKS \"DOBRODRUŽSTVÍ KAPITÁNA VESMÍRŇÁKA\"[BOOK]
 
 message_157:
-      text: KNIHU \"JAK VYTRHNOUT BENDOVI STOLIČKU\"[KNIHA] #odkaz na původ jména
+      text: KNIHU \"JAK VYTRHNOUT BENDOVI STOLIČKU\"[BOOK] #odkaz na původ jména
 #delete the entry below
 message_158:
-      text: KOMIKS \"ZLATÍČČINA POMSTA\"[KNIHA] #komiks
+      text: KOMIKS \"ZLATÍČČINA POMSTA\"[BOOK] #komiks
 #delete the entry below
 message_159:
-      text: OMALOVÁNKY \"DINOUSAUŘÍ KOPÁNÁ\"[KNIHA]
+      text: OMALOVÁNKY \"DINOUSAUŘÍ KOPÁNÁ\"[BOOK]
 
 message_160:
-      text: \"PRŮVODCE NAŠÍ SLUNEČNÍ SOUSTAVOU\"[KNIHA]
+      text: \"PRŮVODCE NAŠÍ SLUNEČNÍ SOUSTAVOU\"[BOOK]
 
 message_161:
-      text: \"DUETY PRO KLAVÍR A HOUSLE\"[KNIHA]
+      text: \"DUETY PRO KLAVÍR A HOUSLE\"[BOOK]
 
 message_162:
-      text: \"POTRAVINOVOU PYRAMIDU\"[KNIHA] #konzistence
+      text: KNIHU \"POTRAVINOVÁ PYRAMIDA\"[BOOK] #konzistence
 #delete the entry below
 message_163:
-      text: \"SKLESLOU VRBU\"[KNIHA]
+      text: \"SKLESLOU VRBU\"[BOOK]
 
 message_164:
-      text: \"VOŇAVOU KNÍŽKU POMERANČOVÉHO JOEHO\"[KNIHA]
+      text: \"VOŇAVOU KNÍŽKU POMERANČOVÉHO JOEHO\"[BOOK]
 
 message_165:
-      text: VŠEOBECNOU PŘÍRUČKU \"JAK NA DOMÁCÍ KAMÍNKY\"[KNIHA]
+      text: VŠEOBECNOU PŘÍRUČKU \"JAK NA DOMÁCÍ KAMÍNKY\"[BOOK]
 #delete the entry below
 message_166:
-      text: KNIHU \"VELKÁ ŽLUTÁ KOČKA\"[KNIHA] #kniha
+      text: KNIHU \"VELKÁ ŽLUTÁ KOČKA\"[BOOK] #BOOK
 
 message_167:
-      text: KNIHU \"KLUK A JEHO DRAK\"[KNIHA] #kniha
+      text: KNIHU \"KLUK A JEHO DRAK\"[BOOK] #BOOK
 #delete the entry below
 message_168:
-      text: KNIHU \"HŘIŠTĚ V LESE\"[KNIHA]
+      text: KNIHU \"HŘIŠTĚ V LESE\"[BOOK]
 #delete the entry below
 message_169:
-      text: KNIHU \"OSAMĚLÝ STRAŠÁK\"[KNIHA]
+      text: KNIHU \"OSAMĚLÝ STRAŠÁK\"[BOOK]
 
 message_170:
-      text: KNIHU \"VÝHODY TOFU\"[KNIHA]
+      text: KNIHU \"VÝHODY TOFU\"[BOOK]
 
 message_171:
-      text: STAROU PLECHOVKU POMERANČOVÉHO JOEHO[ODPAD]
+      text: STAROU PLECHOVKU POMERANČOVÉHO JOEHO[TRASH]
 
 message_172:
-      text: JEDEN KOUSEK PUZZLÍ[ODPAD]
+      text: JEDEN KOUSEK PUZZLÍ[TRASH]
 
 message_173:
-      text: STAROU SMRADLAVOU PONOŽKU[ODPAD]
+      text: STAROU SMRADLAVOU PONOŽKU[TRASH]
 
 message_174:
-      text: VRŠEK PERA[ODPAD]
+      text: VRŠEK PERA[TRASH]
 
 message_175:
-      text: SMOTANÉ DRÁTY[ODPAD]
+      text: SMOTANÉ DRÁTY[TRASH]
 
 message_180:
       text: Do téhle krabice patří HRAČKY.
@@ -431,6 +431,7 @@ message_210:
 message_211:
       text: Je ti na zvracení...
 
+
 message_236:
       text: Přání k uzdravení od TÁTY KIM A VANCE. #í
 
@@ -465,10 +466,10 @@ message_225:
       text: Kytky od BEBINY RODINY.
 
 message_241:
-      text: \"Díky, žeš mi koupil tu \c[4]STOJAVOU LAMPU\c[0], SUNNY!\"\!<br>\"A svého syna BILLYHO jsem vážně už neviděl.\"\!<br>\"Snad se mu daří...\" #méně cynické ohledně billiho osudu
+      text: \"Díky, žeš mi koupil tu \c[4]STOJAVOU LAMPU\c[0], SUNNY!\"\!<br>\"A svého syna VILÍKA jsem už vážně dlouho neviděl.\"\!<br>\"Snad se mu daří...\" #méně cynické ohledně billiho osudu
 
 message_226:
-      text: Kytky od SEANA a KAREN.
+      text: Kytky od ŠIMONA a KAREN.
 
 message_242:
       text: \"Přejeme ti rychlé uzdravení, SUNNY.\"\!<br>\"Už jsme se konečně nastěhovali, tak někdy určitě přijď na návštěvu!\"
@@ -552,7 +553,7 @@ message_220:
 message_404:
       text: Zítra se stěhuješ.\!<br>Co bys chtěl dělat? #konzistence
 message_405:
-      text: VRÁTIT SE DO BÍLÉHO PROSTORU
+      text: VRÁTIT SE DO BĚLOPROSTORU
 message_406:
       text: SPÁT DO RÁNA
 message_407:
@@ -571,7 +572,7 @@ message_403:
       text: \n<TELEFON>Máte jeden nový vzkaz.
 
 message_410:
-      text: Chlapec se jmenuje \v[1]?
+      text: Chlapec se jmenuje \v[1].
 
 message_500:
       text: Tak copak to tady máme... skvělý, propečený steak.\! Dáš si?
@@ -610,7 +611,7 @@ message_601:
 message_610:
       faceset: MainCharacters_Faraway
       faceindex: 19
-      text: \kelMARI...\! Už teď mi připadá, že je to tak dávno. \!Pořád nad ní přemýšlím.\! A ty jistě taky, viď? #tak
+      text: \kelMARI...\! Už teď mi připadá, že je to tak dávno. \!Pořád na ni myslím.\! A ty jistě taky, viď? #tak
 
 message_612:
       faceset: MainCharacters_Faraway

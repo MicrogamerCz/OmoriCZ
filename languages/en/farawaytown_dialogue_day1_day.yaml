@@ -34,7 +34,7 @@ message_4:
 #Location: FARAWAY PARK (Cutscene: Charlie & Angel Fight)
 
 message_10:
-      text: \n<ANDĚLA>Mistr šel ke kašne na \c[11]NÁMĚSTÍ\c[0].\!<br>Prý tam šel za nějakýma holkama...\!<br>na rande nebo co...
+      text: \n<ANDĚLA>Mistr šel ke kašne u \c[11]OBCHOĎÁKU\c[0].\!<br>Prý tam šel za nějakýma holkama...\!<br>na rande nebo co...
 
 #===============CHARLIE=====================
 
@@ -79,7 +79,7 @@ message_51:
 #Location: Supermarket
 
 message_60:
-      text: \n<ELEGANTNÍ MATKA>Můj synek BILLY má strašně rád přírodu.\! S kamarádama pořád sbírají po městě \c[4]ODPADKY\c[0].
+      text: \n<ELEGANTNÍ MATKA>Můj synek VILÍK má strašně rád přírodu.\! S kamarádama pořád sbírají po městě \c[4]ODPADKY\c[0].
 
 message_61:
      text: \n<ELEGANTNÍ MATKA>Skvělé vidět, že se mladí takhle starají o naši planetu!
@@ -119,7 +119,7 @@ message_93:
 #Location: Other street in front of her HOUSE
 
 message_100:
-      text: \n<DRDOLOVÁ BABIČKA>Má nejmladší dcerka se mi vždycky tak krásně věnuje...\! Kdepak asi je.
+      text: \n<DRDOLOVÁ BABIČKA>Má nejmladší dcerka se mi vždycky tak krásně věnuje...\! Kdepak asi je?
 
 message_101:
       text: \n<DRDOLOVÁ BABIČKA>Vždycky byla taková tichá, ale teď nedávno si našla pár kamarádů.\! Snad na mě nezapomene... #přeloženo
@@ -129,7 +129,7 @@ message_101:
 #Location: Where's the Remote? Couch in Cris's HOUSE
 
 message_110:
-      text: Oči POŘÁDNÉHO AMERIČANA nesejdou z televize.
+      text: Oči POŘÁDNÉHO ČECHA nesejdou z televize. #jak dlouho tady byl ten Američan? ups.
 
 message_111:
       text: \n<POŘÁDNÝ ČECH>\Com[2]Vždyť 85ka byla volná!\! \Com[2]Co to mělo bejt za nahrávku!?
@@ -139,7 +139,7 @@ message_111:
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<POŘÁDNÁ ČEŠKA>Chutnal ti koláč?\!<br>Snažím se zdokonalit svůj recept kvůli té soutěži na pouti ke konci léta!
+      text: \n<POŘÁDNÁ ČEŠKA>Chutnala ti bábovka?\!<br>Snažím se zdokonalit svůj recept kvůli té soutěži na pouti ke konci léta!
 
 message_121:
       text: \n<POŘÁDNÁ ČEŠKA>Už jsem sice vyhrála každý ročník, ale chci mít jisto, aby to tak šlo i nadále!\! Ohoho!
@@ -152,10 +152,10 @@ message_130:
       text: \n<HEZKÁ HOLKA>Vítejte!\! Doufáme, že vám naše \c[3]SLADKOSTI\c[0] přinesou radost!
 
 message_131:
-      text: \n<PANÍ SLADKÁ>\{\com[2]ŘÍKALA JSEM TI TO SNAD STOKRÁT, PURKLE!\! MÁŠ ŘÍKAT \sinv[1]\"PLNO RADOSTI\"\sinv[0]!\!
+      text: \n<SLEČNA SLADKÁ>\{\com[2]ŘÍKALA JSEM TI TO SNAD STOKRÁT, PURKLE!\! MÁŠ ŘÍKAT \sinv[1]\"PLNO RADOSTI\"\sinv[0]!\!
 
 message_132:
-      text: \n<PANÍ SLADKÁ>\{\{\quake[1]\sinv[1]\"R\.A\.D\.O\.S\.T\.I\.!\"\sinv[0]
+      text: \n<SLEČNA SLADKÁ>\{\{\quake[1]\sinv[1]\"R\.A\.D\.O\.S\.T\.I\.!\"\sinv[0]
 
 message_133:
       text: \n<HEZKÁ HOLKA>A-A-A-A-Ano, omlouvám se!
@@ -263,17 +263,17 @@ message_191:
 
 #After completing Tutoting joy quest
 message_200:
-      text: \n<MALÁ HOLKA>Tatínek je na mě přísný, protože můj brácha, MICHAL, přestal chodit do školy a stal se z něj muzikant...
+      text: \n<HOLČIČKA>Tatínek je na mě přísný, protože můj brácha, MICHAL, přestal chodit do školy a stal se z něj muzikant...
 
 message_201:
-      text: \n<MALÁ HOLKA>Občas hraje na kytaru na \c[11]NÁMĚSTÍ\c[0]!\!<br>Je fakt skvělý!
+      text: \n<HOLČIČKA>Občas hraje na kytaru před \c[11]OBCHOĎÁKEM\c[0]!\!<br>Je fakt skvělý!
 
 #===============JESSE'S DAD=====================
 
 #Location: Joy's Dad - Tutoring Joy Quest
 
 message_210:
-      text: \n<HUSTÉ OBOČÍ>Skvělá práce! Vy byste snad mohli to doučování mít jako brigádu!\!<br>Prosím, přijďte zítra zas!
+      text: \n<HUSTÉ OBOČÍ>Skvělá práce! Vy byste snad mohli doučovat z povolání!\!<br>Prosím, přijďte zítra zas!
 
 
 #===============KAREN=====================
@@ -299,10 +299,10 @@ message_230:
 
 #After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
 message_240:
-      text: \n<MRZUTÝ CHLAPÍK>Grr, grr...\! Trubka zas rupla...
+      text: \n<MRZOUT>Grr, grr...\! Trubka zas rupla...
 
 message_241:
-      text: \n<MRZUTÝ CHLAPÍK>Sáfryš...\! Takže zítra zase zkoušet znova... #"rats" je tady jen expresivní zvolání jako "sáfryš"
+      text: \n<MRZOUT>Sáfryš...\! Takže zítra zase zkoušet znova... #"rats" je tady jen expresivní zvolání jako "sáfryš"
 
 
 #===============KIM AND VANCE'S MOM =====================
@@ -315,13 +315,13 @@ message_250:
       text: \SINV[2]Šmik, šmik...\! šmik, šmik, šmik...\SINV[0]
 
 message_251:
-      text: \n<PANÍ S ČERVENÝMI BRÝLEMI>Nazdárek, vy dva! Nečekala jsem vás tady tak brzo!
+      text: \n<ČERVENÉ BRÝLE>Nazdárek, vy dva! Nečekala jsem vás tady tak brzo!
 
 message_252:
-      text: \n<PANÍ S ČERVENÝMI BRÝLEMI>Koukejte!\! Ráda pečuju o tyhle bonsaje.\!<br>Pomáhá mi to...\! se stresem.
+      text: \n<ČERVENÉ BRÝLE>Koukejte!\! Ráda pečuju o tyhle bonsaje.\!<br>Pomáhá mi to...\! se stresem.
 
 message_253:
-      text: \n<PANÍ S ČERVENÝMI BRÝLEMI>A potom budu chystat večeři pro mé dvě děti, KIM a VANCE.\! Snad se zase nezpozdí...\! protože jestli se zpozdí, tak... #pravopis
+      text: \n<ČERVENÉ BRÝLE>A potom budu chystat večeři pro mé dvě děti, KIM a VANCE.\! Snad se zase nezpozdí...\! protože jestli se zpozdí, tak... #pravopis
 
 message_254:
       text: \SINV[2]ŠMIK, \{ŠMIK, ŠMIK, \{ŠMIK, ŠMIK, \{ŠMIK!!
@@ -385,10 +385,10 @@ message_310:
       text: \n<RECYKLOSEKTAŘ>Jsme RECYKLOSEKTA, uctívači KOŠE SVATÉHO!
 
 message_311:
-      text: \n<RECYKLOSEKTAŘ>Neboť všichni znečištili, a tak musí přijmout, že jsou \c[4]ODPAD\c[0]!
+      text: \n<RECYKLOSEKTAŘ>Neboť všichni znečistili, a tak musí přijmout, že jsou \c[4]ODPAD\c[0]!
 
 message_312:
-      text: \n<RECYKLOSEKTAŘ>\Com[2]\{ZREDUKUJ, ZRECYKLUJ, ZNOVU VYUŽIJ!!!
+      text: \n<RECYKLOSEKTAŘ>\Com[2]\{ZREDUKUJ, ZRECYKLUJ, ZNOVU POUŽIJ!!!
 
 
 #===============SARAH=====================
@@ -420,13 +420,13 @@ message_330:
 message_331:
       text: \n<MATLÁK>Ach...\! mmm...\! pizza...
 
-#===============SEAN=====================
+#===============ŠIMON=====================
 
 #Location: Hardware Store (picking paint quest)
 #After completing Picking Paint Quest:
 
 message_340:
-      text: \n<KOSTKOVANÝ CHLAPÍK>Díky za vaši pomoc!\! Víte, my jsme oba odsud, ale zrovna jsme se přestěhovali do nového domu...
+      text: \n<KOSTKOVANÝ CHLAPÍK>Díky za vaši pomoc!\! Víte, my jsme nově místní, zrovna jsme se přestěhovali do nového domu...
 
 message_341:
       text: \n<KOSTKOVANÝ CHLAPÍK>Stojí na stejné ulici a není daleko od \c[11]KOSTELA\c[0].

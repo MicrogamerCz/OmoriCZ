@@ -108,7 +108,7 @@ message_16:
 message_17:
       faceset: MainCharacters_Faraway
       faceindex: 12
-      text: Přece jsme pořád kamarádi.\! Nezapomeň na to, okej?\kel #přeložen zbytek věty
+      text: Pořád jsme kamarádi.\! Nezapomeň na to, okej?\kel #přeložen zbytek věty
 
 message_18:
       faceset: MainCharacter_Basil
@@ -120,7 +120,7 @@ message_18:
 message_19:
       faceset: MainCharacters_Faraway
       faceindex: 23
-      text: \Com[2]Takže SUNNY! Není čas ztrácet čas!\! Musíme přece najít to \c[4]FOTOALBUM\c[0].\! V \c[11]PARKU\c[0] by možná mohly být nějaké stopy!\kel
+      text: \Com[2]Takže SUNNY! Nemáme času nazbyt!\! Musíme přece najít to \c[4]FOTOALBUM\c[0].\! V \c[11]PARKU\c[0] by možná mohly být nějaké stopy!\kel #přiroz
 
 message_20:
       faceset: MainCharacter_Basil
@@ -253,7 +253,7 @@ message_95:
       text: \ang\com[2]\{\{HA! KELI, TY JEDEN BLBE!!
 
 message_96:
-      text: \angJak se dalo čekat, souboj vyhrává ANGEL a CHARLIE!
+      text: \angJak se dalo čekat, souboj vyhrává ANDĚL a ŠÁRA!
 
 message_97:
       text: \angMistr by na mě byl pyšný.
@@ -306,7 +306,7 @@ message_80:
 message_81:
       faceset: MainCharacters_Faraway
       faceindex: 21
-      text: ANDĚLI...\! Jestli nám teď hned neřekneš, kde je...\!<br>tak všem povím o tom, jak jsi tehdá na letním táboře počůrala postel.\kel
+      text: ANDĚLI...\! Jestli nám teď hned neřekneš, kde je...\!<br>tak všem povím o tom, jak jsi tehdá na letním táboře počůral postel.\kel
 
 #ANGEL is surprised, and jumps.
 
@@ -356,7 +356,7 @@ message_92:
 message_93:
       faceset: MainCharacters_Faraway
       faceindex: 25
-      text: Pojď, SUNNY. Je čas jít na \c[11]NÁMĚSTÍ\c[0]...<br>Řekl bych, že tady už nemáme co dělat.\kel
+      text: Pojď, SUNNY. Je čas jít k \c[11]OBCHOĎÁKU\c[0]...<br>Řekl bych, že tady už nemáme co dělat.\kel
 
 message_94:
       text: \ang\sinv[1]\{FÚÚÚÚ\{AAAAAA\{AAAAAAAA!!! #odstranění w
@@ -420,7 +420,7 @@ message_121:
       text: To si to zatracené jméno nemůžeš odpustit?!\! <br>Jak si dovoluješ takhle si ze mě utahovat!!\mav #přirozenější
 
 message_122:
-      text: JÁ, \Com[2]STŘEMHLAV, si tohle líbit nenechám!\! <br>\Com[2]\{PŘIPRAVTE SE NA VAŠI SKÁZU!\mav #pravopis
+      text: JÁ, \Com[2]STŘEMHLAV, si tohle líbit nenechám!\! <br>\Com[2]\{PŘIPRAVTE SE NA VAŠI ZKÁZU!\mav #pravopis
 
 message_123:
       text: \{\Com[2]SLEDUJTE, DÁMY!\!\}<br>Sledujte jak s touhle nulou vytřu podlahu!\mav
@@ -468,7 +468,7 @@ message_152:
 #THE MAVERICK strikes his final pose.
 
 message_153:
-      text: \Com[2]\sinv[1]HAA\Com[2]\{AAAAJ\Com[2]\{ÁÁÁÁÁÁ\Com[2]\{ÁÁÁÁAAAAA!!!\mav
+      text: \Com[2]\sinv[1]HAA\Com[2]\{AAAAJ\Com[2]\{ÁÁÁÁÁÁ\Com[2]\{ÁÁÁÁAA!!!\mav
 
 message_154:
       text: Fuj, co je tohle za hňupa? Ten je ale trapnej.\n<HOLKA>

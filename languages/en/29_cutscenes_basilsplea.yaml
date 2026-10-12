@@ -25,7 +25,7 @@ message_2:
 message_3:
       faceset: MainCharacter_Basil_Dark
       faceindex: 20
-      text: Podívej se kolem sebe.\! Ty to vidíš taky, ne snad?\bas
+      text: Podívej se kolem sebe.\! Ty to vidíš taky, že ano?\bas
 
 message_4:
       faceset: MainCharacter_Basil_Dark
@@ -347,7 +347,7 @@ message_69:
 message_70:
       faceset: MainCharacter_Basil
       faceindex: 31
-      text: \basPojďme spolu vytvořit nějaké nové vzpomínky. #měním z tázací, tady by asi v češtině nebyla použita.
+      text: \basPojďme spolu vytvořit nějaké nové vzpomínky. Co ty na to? #(měním z tázací, tady by asi v češtině nebyla použita.) tak měním zpátky pro konzistenci s filmečkem
 
 #Talk to MARI at the Piano
 
@@ -424,7 +424,7 @@ message_91:
 #through phone:
 
 message_140:
-      text: Ahoj, broučku! Už máme všechno sbalené a můžeme vyrazit!\!<br>Počkáme na tebe v autě.<br>Přijď, až budeš připravený!\n<MOM> #přeloženo
+      text: Ahoj, broučku! Už máme všechno sbalené a můžeme vyrazit!\!<br>Počkáme na tebe v autě.<br>Přijď, až se na to budeš cítit!\n<MAMKA> #přeloženo
 
 #SOMETHING is following you.
 
@@ -492,7 +492,7 @@ message_168:
       text: Je čas jít do svého nového domovu.
 
 message_169:
-      text: MAMČINO auto čeká.
+      text: MAMKA na tebe čeká v autě.
 
 #POLLY does not turn to you
 message_190:

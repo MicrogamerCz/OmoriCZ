@@ -49,7 +49,7 @@ message_7:
       text: \n<HOŘÍCÍ MUŽ>Něco ti povím, kluku.\! Když víš, že tě čeká<br>náročná a těžká cesta...\! nesmíš za žádnou cenu ztrácet naději! #arduous na náročná (sedí lépe)
 
 message_8:
-      text: \n<HOŘÍCÍ MUŽ>Netrácej naději v budoucnost, ani v sebe!\!<br>Ano!\! S dostatkem víry je možné vše!\! A...\! i kdyby vše ostatní <br>selhalo, nezapomeneš, že ti věřím?
+      text: \n<HOŘÍCÍ MUŽ>Netrácej naději v budoucnost, ani v sebe!\!<br>Ano!\! S dostatkem víry je možné vše!\! A...\! i kdyby vše ostatní selhalo, nezapomeneš, že ti věřím?
 
 #Yes/No
 #Yes
@@ -107,13 +107,13 @@ message_51:
       text: \n<HYPERFAJNŠMEKR TOFU>Každý kousek \c[3]TOFU\c[0] je výjimečný a zaslouží si být dle toho také vychutnán! #blíže orig
 
 message_52:
-      text: \n<HYPERFAJNŠMEKR TOFU>\c[3]TOFU\c[0] není pro každého, ale tím víc ho zbude pro mě !
+      text: \n<HYPERFAJNŠMEKR TOFU>\c[3]TOFU\c[0] není pro každého, ale tím víc ho zbude pro mě!
 
 message_53:
-      text: \n<HYPERFAJNŠMEKR TOFU>Pokud mi dáš 10 kousků \c[3]TOFU\c[0], dám ti za něj jednu SVÁČU, kterou jsem našel na jedné ze svých cest zaměřených na \c[3]TOFU\c[0]! #přiroz
+      text: \n<HYPERFAJNŠMEKR TOFU>Pokud mi dáš 10 kousků \c[3]TOFU\c[0], dám ti za něj jeden MLS, který jsem našel na jedné ze svých cest zaměřených na \c[3]TOFU\c[0]! #přiroz
 
 message_54:
-      text: \n<HYPERFAJNŠMEKR TOFU>Vyměníš si se mnou 10 kousků \c[3]TOFU\c[0] za jednu SVAČINU?
+      text: \n<HYPERFAJNŠMEKR TOFU>Vyměníš si se mnou 10 kousků \c[3]TOFU\c[0] za jeden MLS?
 #[YES/NO]
 
 #[YES]
@@ -121,7 +121,7 @@ message_55:
       text: Dal jsi HYPERFAJNŠMEKROVI TOFU 10 kousků \c[3]TOFU\c[0].
 
 message_56:
-      text: \n<HYPERFAJNŠMEKR TOFU>Výborně! A teď si na oplátku vezměte tuhle oproti \c[3]TOFU\c[0] nepříliš výjimečnou SVÁČU!
+      text: \n<HYPERFAJNŠMEKR TOFU>Výborně! A teď si na oplátku vezměte tento oproti \c[3]TOFU\c[0] nepříliš výjimečný MLS!
 
 message_59:
       text: Získal jsi \c[3]\itemget\c[0]!
@@ -145,7 +145,7 @@ message_60:
       text: \n<OPRAVDOVÝ KRTEK>Ty voníš jako tatík!\! Žije ještě tatík?\!<br>Naposledy jsem ho viděl, když ho hodili do rituálního trezoru!
 
 message_61:
-      text: \n<OPRAVDOVÝ KRTEK>\com[2]Výtržníci!\! Pryč s vámi, mrtvá KAŠE!
+      text: \n<OPRAVDOVÝ KRTEK>\com[2]Výtržníci!\! Pryč s vámi, HOTOVÉ TOUSTY!
 
 message_62:
       text: \n<OPRAVDOVÝ KRTEK>Naši páni nespí, proto také nespíme.\! Den sem... den tam... a potom \sinv[1]čerstvý chléb... čerstvý chléb... čerstvý chléb...\c[0] #chleba na chléb
@@ -159,7 +159,7 @@ message_65:
       text: \n<OPRAVDOVÝ KRTEK>Jak se tatíkovi vede?\! Vrátí se ke mně?
 
 message_66:
-      text: \n<OPRAVDOVÝ KRTEK>\com[2]Návštěvníci!\! Vítejte, živá KAŠE!
+      text: \n<OPRAVDOVÝ KRTEK>\com[2]Návštěvníci!\! Vítejte, NEHOTOVÉ TOUSTY!
 
 message_67:
       text: \n<OPRAVDOVÝ KRTEK>Bez našich pánů jsme volní!\! Nyní si z tohohle místa uděláme nový domov!

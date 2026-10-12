@@ -40,7 +40,7 @@ message_7:
       text: KLADIVO
 
 message_8:
-      text: HASÁK
+      text: KLÍČ
 
 message_9:
       text: Chtěl bys sem položit \v[815]?
@@ -76,7 +76,7 @@ message_18:
 
 #Rule Explanation
 message_23:
-      text: \n<PRODAVAČ NÁŘADÍ>Dobrá, prcku.\! Pořádně se podívej na tyhle poličky a brzo ti dojde, že tady máme hroznej bordel!
+      text: \n<PRODAVAČ NÁŘADÍ>Dobrá, prcku.\! Pořádně se podívej na tyhle poličky a brzo ti dojde, že tady máme hroznej binec!
 
 message_24:
       text: \n<PRODAVAČ NÁŘADÍ>Dalo by se čekat, že by lidi věděli, kam co patří, zvlášť, když u toho jsou cedule...\! Ach jo...\! Já tuhle fachu tak nesnáším...
@@ -87,13 +87,13 @@ message_21:
 #Quest Finish
 
 message_22:
-      text: \n<PRODAVAČ NÁŘADÍ>\sinv[1]Chrr...\| Chrr...\!\sinv[0] C-Cože? Co? Už máš konečně hotovo?\!<br>Skvělá práce, prcku!\! Tady máš třicet korun?!\!<br>Ne, že je utratíš za nějakou capinu!
+      text: \n<PRODAVAČ NÁŘADÍ>\sinv[1]Chrr...\| Chrr...\!\sinv[0] C-Cože? Co? Už máš konečně hotovo?\!<br>Skvělá práce, prcku!\! Tady máš třicet korun!\!<br>Ne, že je utratíš za nějakou capinu!
 
 #Return to Party:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \KelAhoj, SUNNY! Tak co, jak ti to šlo?\! Zatímco jsi pracoval jsem si <br>šel do parku zahrát basket!\!<br>Ty jo, to byla sranda...\! Každopádně...\! Řekni a jdeme!
+      text: \KelAhoj, SUNNY! Tak co, jak ti to šlo?\! Zatímco jsi pracoval jsem si <br>šel do parku zahrát basket!\! Ty jo, to byla sranda...\! Každopádně...\! Řekni a jdeme!
 
 message_30:
       text: \n<PRODAVAČ NÁŘADÍ>Hmm...\! Takže, jak jsme na tom...\! No... jo! Už jsme skoro doma!\! Jen do toho!

@@ -37,7 +37,7 @@ message_9:
       text: \n<CHLÁPEK S POMERANČEMA>Ha! To mu ukáže!
 
 message_10:
-      text: \n<CHLÁPEK S POMERANČEMA>Takže... Nechtěli byste si koupit \c[3]POMERANČOVOU ŠŤÁVU\c[0] za $2,00?\$
+      text: \n<CHLÁPEK S POMERANČEMA>Takže... Nechtěli byste si koupit \c[3]POMERANČOVOU ŠŤÁVU\c[0] za 2,00 Kč?\$
 
 #[Yes/No]
 

@@ -163,7 +163,7 @@ message_28:
 message_29:
       faceset: MainCharacters_Faraway
       faceindex: 8
-      text: \aubTeď jsme tady zase všicni...\! už je to v pořádku.
+      text: \aubTeď jsme tady zase všichni...\! už je to v pořádku.
 
 #AUBREY shakes
 
@@ -257,4 +257,4 @@ message_48:
 message_49:
       faceset: MainCharacters_Faraway
       faceindex: 2
-      text: \aubMusím se mu omluvit...\! a...\! Řekla bych...\!<br>Že on je ten, kdo nás teďka nejvíc potřebuje. #zrovna na teďka
+      text: \aubMusím se mu omluvit...\! a...\! řekla bych...\!<br>Že on je ten, kdo nás teďka nejvíc potřebuje. #zrovna na teďka

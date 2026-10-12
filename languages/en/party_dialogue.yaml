@@ -955,7 +955,7 @@ message_230:
 message_231:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: \aubPočkat! Tenhle pořad znám!<br>\!Vždyť na něj máme \c[4]LÍSTKY\c[0] přímo do první řady!
+      text: \aubPočkat! Tohle představení znám!<br>\!Vždyť na něj máme \c[4]LÍSTKY\c[0] přímo do první řady!
 
 message_232:
       faceset: MainCharacters_DreamWorld
@@ -1060,7 +1060,7 @@ message_254:
 message_255:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marVím taky že máš strach... ale taky že to zvládneš.\! Dám ti tolik času, kolik budeš potřebovat.\! Budu tady, až budeš připraven. #dám zní přátelštěji
+      text: \marVím, že máš strach... Ale taky vím, že to zvládneš.\! Dám ti tolik času, kolik budeš potřebovat.\! Budu tady, až se připravíš. #dám zní přátelštěji
 
 #------------------------------------------------------------------------------------------
 
@@ -1077,7 +1077,7 @@ message_257:
 message_258:
       faceset: MainCharacter_Mari
       faceindex: 5
-      text: \marOMORI! Co jsem ti teď řekla!?<br>\!Nechceš snad, abych na tebe křičela!
+      text: \marOMORI! Co jsem ti teď řekla!?<br>\!Nemusím snad na tebe křičet!
 
 #------------------------------------------------------------------------------------------
 
@@ -1107,7 +1107,7 @@ message_265:
 message_266:
       faceset: MainCharacter_Mari
       faceindex: 4
-      text: \marAle ještě tady přece pořád je něco, čeho se bojíš, viď?<br>\!Něco...\! trochu těžší překonat.
+      text: \marAle ještě přece pořád je něco, čeho se bojíš, viď?<br>\!Něco...\! trochu těžší překonat. #přiroz
 
 #------------------------------------------------------------------------------------------
 
@@ -1157,7 +1157,7 @@ message_281:
 
 #*pause*
 message_282:
-      text: \marUž bych měla jít, ale ještě ti musím něco říct...<br>\!Doufám, že tam pořád ještě někde jsi...\! \Sunny...\!<br>Vážně mi chybíš. #tady patří Sunny
+      text: \marUž bych měla jít, ale ještě ti musím něco říct...<br>\!Doufám, že tam pořád ještě někde jsi...\! \SUNNY...\!<br>Vážně mi chybíš. #tady patří Sunny
 
 #*Window curtains open*
 #*As curtain opens screen turns white. DW MARI sprite replaced with white MARI*
@@ -1367,7 +1367,7 @@ message_340:
 message_342:
       faceset: MainCharacters_DreamWorld
       faceindex: 20
-      text: \kelNeboj...\! Mně taky ne, HERO.\! Mám pocit, jakože mi pořád ještě chybí...\! ale už si ani nevybavím proč. #to je v pořádku nesedí, všichni ví, že je na tom něco divného. neboj mi sedí mnohem více
+      text: \kelNeboj...\! Já taky, HERO.\! Mám pocit, jakože mi pořád ještě chybí...\! ale už si ani nevybavím proč. #to je v pořádku nesedí, všichni ví, že je na tom něco divného. neboj mi sedí mnohem více
 
 message_341:
       faceset: MainCharacters_DreamWorld
@@ -1904,7 +1904,7 @@ message_462:
 
 #Upon examining flower fields:
 message_465:
-      text: Zvadla kytka.
+      text: Zvadlá kytka.
 
 #------------------------------------------------------------------------------------------
 

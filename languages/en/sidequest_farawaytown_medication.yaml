@@ -4,7 +4,7 @@
 # =========================================================================================
 
 message_1:
-      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Omluvte mě...\! Nerada vás ruším, ale vypadáte dost spolehlivě.\! Myslíte, že byste mi mohli s něčím pomoci?
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Promiňte...\! Nerada vás ruším, ale vypadáte dost spolehlivě.\! Myslíte, že byste mi mohli s něčím pomoci?
 
 message_2:
       text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Potřebovala bych v \c[11]LÉKÁRNĚ\c[0] vyzvednout nějaké léky, co mám na předpis, ale cítím se teď trochu slabá.\! Normálně bych řekla mé dceři ŠÁŘE, ale zrovna není doma.
@@ -61,7 +61,7 @@ message_21:
       text: Dal jsi BABIČCE \c[4]LÉKY\c[0] a \c[4]OBČANSKÝ PRŮKAZ\c[0].
 
 message_22:
-      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Omluvte mě...\!<br>Díky vám moc.\! Byli jste velmi nápomocní!\!<br>Ráda vidím takové milé ochotné mladíky.
+      text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Ehm...\! ehm...\! Promiňte...\!<br>Díky vám moc.\! Byli jste velmi nápomocní!\!<br>Ráda vidím takové milé ochotné mladíky.
 
 message_23:
       text: \n<BABIČKA SE ŽLUTÝM CULÍKEM>Klidně kdykoliv zajděte na bábovku, nebo šálek čaje. Ráda vás uvidím.

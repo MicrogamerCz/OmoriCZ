@@ -132,7 +132,7 @@ message_34:
     text: \n<ROKOKO>A tak ...\! mě jednou, víte, zrovna jsem spal...\! ...tak mě spolu se svými sluhy svázala a zazdila hluboko ve svém zámku.
 
 message_35:
-    text: \n<ROKOKO>A od toho dne tady bezcílně bloudím...\! jediné, z čeho tady žiju, je KAŠE a staré, prošlé \c[3]TOFU\c[0].
+    text: \n<ROKOKO>A od toho dne tady bezcílně bloudím...\! jediné, z čeho tady žiju, jsou TOUSTY a staré, prošlé \c[3]TOFU\c[0].
 
 
 message_37:
@@ -240,7 +240,7 @@ message_59:
     text: \n<ROKOKO>\sinv[1]Le údiv!\sinv[0]\! Tak jste se nakonec vrátili!
 
 message_60:
-      text: \n<ROKOKO> jít obdivovat mé nové dílo.\! Již jsem ho vyvěsil ve své galerii.
+      text: \n<ROKOKO>Koukám, že jste opět přišli obdivovat mé nové dílo.\! Již jsem ho vyvěsil ve své galerii.
 
 #After checking out the painting:
 
@@ -259,7 +259,7 @@ message_64:
     text: \n<ROKOKO>Děkuji, spolubytosti.\! Už jen díky těmhle pár zakázkám zaznamenávám veliké skoky ve své cestě sebepoznání.\! Jo, a taky jsem boháč.
 
 message_65:
-      text: \n<ROKOKO>Víc toho pro vás už nemůžu udělat!\! Cítím se opravdu cele!
+      text: \n<ROKOKO>Víc toho pro vás už nemůžu udělat!\! Cítím se zcela naplněn!
 
 #How to Commission Art:
 #ROKOKO will make a total of 6 pieces for you.
@@ -271,7 +271,7 @@ message_65:
 #Cost: 1000 CLAMS
 
 message_70:
-    text: \"BEZ NÁZVU\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"BEZ NÁZVU\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_71:
     text: \n<POZNÁMKA AUTORA>\"Hele, teprv začínám, jo?.\"
@@ -279,7 +279,7 @@ message_71:
 #2nd piece: Gesture (WIP)
 #Cost: 5000 CLAMS
 message_72:
-    text: \"LIDÉ S OVOCEM\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"LIDÉ S OVOCEM\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_73:
     text: \n<POZNÁMKA AUTORA>"Hleďte na můj pokrok!\! Ovšem stále jde znát, že jsem teprve učeň.\! Pro své příští dílo bych se měl zbavit tohohle nováčkovského nádechu."
@@ -287,16 +287,16 @@ message_73:
 #3rd piece: Cubist
 #Cost: 10000 CLAMS
 message_74:
-    text: \"LA FIESTA DE CUATRO\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"LA FIESTA DE CUATRO\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_75:
-    text: \n<POZNÁMKA AUTORA>"Jak pravil každý veliký umělec... realismus je nuda!\! Tohle je zatím můj nejexpresivnější obraz!\! Cítíte v něm mou sebeexpresi?"
+    text: \n<POZNÁMKA AUTORA>"Jak pravil každý mistr umělec... realismus je nuda!\! Tohle je zatím můj nejexpresivnější obraz!\! Cítíte v něm mou sebeexpresi?"
 
 #4th piece: Manga Cover (WIP)
 #Cost: 15000 CLAMS
 
 message_76:
-    text: \"OMORIHO PODIVNÉ ESKAPÁDY\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"OMORIHO PODIVNÉ ESKAPÁDY\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_77:
     text: \n<POZNÁMKA AUTORA>"Co?! Že jste překvapeni?\! Jak to? To snad nemůžu měnit styly?!"
@@ -305,7 +305,7 @@ message_77:
 #Cost: 25000 CLAMS
 
 message_78:
-    text: \"POSLEDNÍ ZJEVENÍ\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"POSLEDNÍ ZJEVENÍ\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_79:
     text: \n<POZNÁMKA AUTORA>"Řeknu vám to na rovinu.\! I přes to, jak mi tenhle obraz dal zabrat si pořád myslím, že je celkem průměrný.\! Další bude lepší!"
@@ -314,7 +314,7 @@ message_79:
 #Cost: 50000 CLAMS
 
 message_80:
-    text: \"OMORI, AUBRY, KEL A HERO\"<br>\!- Autor - Veliký umělec, ROKOKO
+    text: \"OMORI, AUBRY, KEL A HERO\"<br>\!- Autor - Mistr umělec, ROKOKO
 
 message_81:
     text: \n<POZNÁMKA AUTORA>"S tímto dílem nabývá mé umělectví kompletně jiných rozměrů.\! Konečně jsem vás zachytil v morku vaší skutečnosti.\! Víc toho pro vás už nemůžu udělat."

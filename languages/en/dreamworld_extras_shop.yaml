@@ -30,7 +30,7 @@ message_203:
       text: \n<VÁNICUKOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_204:
-      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...
 
 message_205:
       text: \n<VÁNICUKOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
@@ -42,7 +42,7 @@ message_213:
       text: \n<TOFUOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_214:
-      text: \n<TOFUOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<TOFUOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...
 
 message_215:
       text: \n<TOFUOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
@@ -54,7 +54,7 @@ message_223:
       text: \n<LIMONÁDOVÝ JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_224:
-      text: \n<LIMONÁDOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<LIMONÁDOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...
 
 message_225:
       text: \n<LIMONÁDOVÝ JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
@@ -66,7 +66,7 @@ message_233:
       text: \n<KRUPIÉR JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_234:
-      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...
 
 message_235:
       text: \n<KRUPIÉR JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
@@ -78,7 +78,7 @@ message_243:
       text: \n<SRANDISTA JAŠ>Na tohle nemáte dost MUŠLÍ.
 
 message_244:
-      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..
+      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...
 
 message_245:
       text: \n<SRANDISTA JAŠ>Počkejte prosím, pane či paní.\! Než odejdete...<br>chtěl bych vám poděkovat za to, že jste se stal/a JAŠOVÝM zákazníkem.
@@ -350,7 +350,7 @@ message_94:
 
 #Intro  start at 110
 message_110:
-      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
+      text: \n<VÁNICUKOVÝ JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...<br>\!Jak vám mohu být dnes nápomoci? #druhá část nepřeložena, zkopírována z předešlého textu
 
 #Purchase
 message_111:
@@ -464,7 +464,7 @@ message_139:
 
 #Intro    start at 140
 message_140:
-      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci?
+      text: \n<SRANDISTA JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...<br>\!Jak vám mohu být dnes nápomoci?
 
 #Purchase
 message_141:
@@ -501,7 +501,7 @@ message_149:
 
 #Intro    start at 170
 message_170:
-      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel..<br>\!Jak vám mohu být dnes nápomoci?
+      text: \n<KRUPIÉR JAŠ>Já jsem JAŠ mnoha talentů a mistr mnoha řemesel...<br>\!Jak vám mohu být dnes nápomoci?
 
 #Purchase
 message_171:

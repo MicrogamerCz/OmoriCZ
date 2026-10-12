@@ -5,7 +5,7 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
 
 message_0:
-      text: No to potěš koště! Vám se to fakt povedlo!\! Je sice trochu špinavá, ale je to bez pochyby naše \c[4]VÝJIMEČNÁ KAZETA\c[0]\!<br>Fakt děkujeme, borci.\spg #více se hodí určitě, maty
+      text: No to potěš koště! Vám se to fakt povedlo!\! Je sice trochu špinavá, ale je to bez pochyby naše \c[4]VÝJIMEČNÁ KAZETA\c[0].\!<br>Fakt děkujeme, borci.\spg #více se hodí určitě, maty
 
 message_1:
       text: S tímhle se nám snad konečně povede vzbudit VESMÍRNÉHO MILENCE!\spg
@@ -145,7 +145,7 @@ message_28:
       text: Takhle je to lepší!\! Tak, kde jsem to skončil...?\! Ach ano!\sbf #pravopis
 
 message_29:
-      text: \Com[2]Hlupáci mrňaví!\!<br>Nejdříve vám musím poděkovat za to, že jste mě dostali z tohoto ubohého stavu.\!<br>Už mě nadále nebavilo ležet a dělat, že jsem nemocný.\sbf
+      text: \Com[2]Hlupáci mrňaví!\!<br>Nejdříve vám musím poděkovat za to, že jste mě dostali z tohoto ubohého stavu.\! Už mě nadále nebavilo ležet a dělat, že jsem nemocný.\sbf
 
 message_30:
       text: Jak říkám...\! <br>\{\quake[1]CITY JSOU PRO NULY!!\sbf\}
@@ -163,7 +163,7 @@ message_34:
       text: \quake[1]ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁ\Com[2]\{ÁÁÁÁÁÁ!!!\sbf\quake[0]
 
 message_35:
-      text: \quake[1]\{KAŠLU NA TO NA TO!!\! NA VŠECHNO!!\sbf\quake[0]
+      text: \quake[1]\{KAŠLU NA TO!!\! NA VŠECHNO!!\sbf\quake[0]
 
 message_37:
       text: Najdu ji...\sbf

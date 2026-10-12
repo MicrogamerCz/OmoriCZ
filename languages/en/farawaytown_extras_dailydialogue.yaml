@@ -81,7 +81,7 @@ message_51:
 #Location: Supermarket
 
 message_60:
-      text: \n<BEBEHO MAMKA>Můj synek, BILLY, má hrozně rád přírodu.\! <br>S kamarádama pořád po městě sbírá a vyhazuje odpadky.
+      text: \n<BEBEHO MAMKA>Můj synek, VILÍK, má hrozně rád přírodu.\! <br>S kamarádama pořád po městě sbírá a vyhazuje odpadky.
 
 message_61:
       text: \n<BEBEHO MAMKA>Ráda vidím, že se mladí tak zajímají o naši planetu!
@@ -91,7 +91,7 @@ message_61:
 #Location: Supermarket
 
 message_70:
-      text: \n<BILLY>Všechny tyhle kontejnery by šlo recyklovat a<br>udělat z nich další, dokola a dokola...\! <br>Krásný koncept, co?
+      text: \n<VILÍK>Všechny tyhle kontejnery by šlo recyklovat a<br>udělat z nich další, dokola a dokola...\! <br>Krásný koncept, co?
 
 #===============BRENT'S MOM=====================
 
@@ -138,7 +138,7 @@ message_111:
 #Location: CRIS'S HOUSE in the kitchen
 
 message_120:
-      text: \n<CRISOVA MAMKA>Koláč chutnal?\! I'm working on perfecting my recipe <br>for the summer-end county fair!\! I've won every year <br>I've entered so far, and this year won't be anything different!\! Ohoho!
+      text: \n<CRISOVA MAMKA>Chutnala ti bábovka?\!<br>Snažím se zdokonalit svůj recept kvůli té soutěži na pouti ke konci léta!\! Už jsem sice vyhrála každý ročník, ale chci mít jisto, aby to tak šlo i nadále!\! Ohoho!
 
 #===============CURTSEY=====================
 
@@ -231,14 +231,14 @@ message_190:
 
 #After completing Tutoting joy quest
 message_200:
-      text: \n<JOY>Tatínek je na mě přísný, protože můj brácha, MICHAL, přestal chodit do školy a stal se z něj muzikant...\! Občas hraje na kytaru na \c[11]NÁMĚSTÍ\c[0]!\!<br>Je fakt skvělý!
+      text: \n<JOY>Tatínek je na mě přísný, protože můj brácha, MICHAL, přestal chodit do školy a stal se z něj muzikant...\! Občas hraje na kytaru před \c[11]OBCHOĎÁKEM\c[0]!\!<br>Je fakt skvělý!
 
 #===============JESSE'S DAD=====================
 
 #Location: Joy's Dad - Tutoring Joy Quest
 
 message_210:
-      text: \n<JOYIN TÁTA>Skvělá práce! Vy byste snad mohli to doučování mít jako brigádu!\!<br>Prosím, přijďte zítra zas!
+      text: \n<JOYIN TÁTA>Skvělá práce! Vy byste snad mohli doučovat z povolání!\!<br>Prosím, přijďte zítra zas!
 
 
 #===============KAREN=====================
@@ -340,10 +340,10 @@ message_310:
       text: \n<RECYKLOSEKTAŘ>Jsme RECYKLOSEKTA, uctívači KOŠE SVATÉHO!
 
 message_311:
-      text: \n<RECYKLOSEKTAŘ>Neboť všichni znečištili, a tak musí přijmout, že jsou \c[4]ODPAD\c[0]!
+      text: \n<RECYKLOSEKTAŘ>Neboť všichni znečistili, a tak musí přijmout, že jsou \c[4]ODPAD\c[0]!
 
 message_312:
-      text: \n<RECYKLOSEKTAŘ>\Com[2]\{REDUKCE, OPĚTOVANÉ POUŽITÍ A RECYKLACE!!!
+      text: \n<RECYKLOSEKTAŘ>\Com[2]\{ZREDUKUJ, ZRECYKLUJ A ZNOVU POUŽIJ!!!
 
 
 #===============SARAH=====================
@@ -361,13 +361,13 @@ message_320:
 message_330:
       text: \n<SÁŘIN TÁTA>Žena mi furt říká, že den co den víc tloustnu, ale diví se, když bydlíme tak blízko \c[11]GINOVY PIZZERIE\c[0]!\! Ach...\! mmm...\! pizza...
 
-#===============SEAN=====================
+#===============ŠIMON=====================
 
 #Location: Hardware Store (picking paint quest)
 #After completing Picking Paint Quest:
 
 message_340:
-      text: \n<SEAN>Díky za vaši pomoc!\! Víte, my jsme oba odsud, ale zrovna jsme se přestěhovali do nového domu...\! Stojí na stejné ulici a není daleko od \c[11]KOSTELA\c[0].
+      text: \n<ŠIMON>Díky za vaši pomoc!\! Víte, my jsme nově místní, zrovna jsme se přestěhovali do nového domu...\! Stojí na stejné ulici a není daleko od \c[11]KOSTELA\c[0].
 
 
 #===============TUCKER=====================
@@ -472,7 +472,7 @@ message_400:
       text: \n<STŘEMHLAV>\{\Com[2]NEPODCEŇUJ MĚ!!\}
 
 message_401:
-      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\!<br>\Com[2]Chci vidět pořádnou výzvu!
+      text: \n<STŘEMHLAV>No tak, KELI!\!<br>Zatím od tebe slyším jen samý kecy, tak se už konečně ukaž, ne!?\! \Com[2]Chci vidět pořádnou výzvu!
 
 message_402:
       faceset: MainCharacters_Faraway
@@ -516,7 +516,7 @@ message_409:
 #THE MAVERICK's wig falls off and he picks it up and puts it back on.
 
 message_410:
-      text: \n<STŘEMHLAV>Hff...\! huff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
+      text: \n<STŘEMHLAV>Hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\! hff...\!<br>Prosím...
 
 message_411:
       text: \n<STŘEMHLAV>Hff...\! Já...\! hff...\! musím...\! hff...\! zachránit...\! svou čest...\! hff...
@@ -554,7 +554,7 @@ message_430:
 #Location: FARAWAY PARK
 
 message_440:
-      text: \n<BILLY>Všechna ta špína na této planetě...\! Dělá se mi z ní mdlo...\! Kéž bych ji všechnu mohl prostě...\! utřít.
+      text: \n<VILÍK>Všechna ta špína na této planetě...\! Dělá se mi z ní mdlo...\! Kéž bych ji všechnu mohl prostě...\! utřít.
 
 #========================== HROBNÍK===============================
 
@@ -593,7 +593,7 @@ message_470:
 
 #After cutscene: Awkward Dinner
 message_471:
-      text: \n<POLLY>Asi bych se vám mohla představit, že? Vlastně nejsem nikdo... jen sestřička, co se stará o BASILOVU BABIČKU.
+      text: \n<POLLY>Asi bych se vám mohla představit, že? Vlastně nejsem nikdo... jen sestřička, která se stará o BASILOVU BABIČKU.
 
 message_472:
       text: \n<POLLY>A před pár měsíci mě BASILOVI rodiče najali, abych se starala i o něj, protože pořád odjíždějí pracovat kamsi do zahraničí.
@@ -645,17 +645,17 @@ message_500:
 #Location: Sarah's House (Ring in the sink quest)
 
 message_510:
-      text: \n<SÁŘINA MAMKA>My family and I are supposed to start eating healthy this week, but the smell of \c[11]GINO'S PIZZA\c[0] is so tempting...\! Sigh...\! Maybe something greasy is okay once in a while...
+      text: \n<SÁŘINA MAMKA>Naše rodina má od tohoto týdne jíst zdravě, ale ta vůně \c[11]GINOVY PIZZERIE\c[0] je tak lákavá...\! Chjo...\! Ale jednou za čas přece něco tučnějšího neuškodí, ne?...
 
 #==========================The Maverick's Dad===============================
 
 #Location: Church
 
 message_520:
-      text: \n<STŘEMHLAVOVA MAMKA>Oh, dear...\! Fňuk...\! It looks like our youngest son didn't show up to \c[11]CHURCH\c[0] again...
+      text: \n<STŘEMHLAVOVA MAMKA>Jen to ne...\! Fňuk...\! Náš nejmladší syn už zase nešel do \c[11]KOSTELA\c[0]...
 
 message_521:
-      text: \n<STŘEMHLAVOVA MAMKA>Sigh...\! MIKHAEL...\! Where are you?\! Why must you make your mother worry?
+      text: \n<STŘEMHLAVOVA MAMKA>Ach jo...\! MIKHAELI...\! Kdepak jsi?\! Copak nevíš, jak moc se o tebe máma bojí? #a tady máme dalšího ninju, který byl přeložen až 9.8. po doomtombu...
 
 #=========================================================================================
 # DAY 2 - DAY
@@ -1031,12 +1031,12 @@ message_831:
 message_840:
       text: \n<SÁŘINA MAMKA>Můj manžel je takové prase! Celá rodina máme mít společnou dietu, ale včera z něho šel cítit salám!
 
-#=========================SEAN==============================
+#=========================ŠIMON==============================
 
-#Location: SEAN'S HOUSE
+#Location: ŠIMON'S HOUSE
 
 message_850:
-      text: \n<SEAN>Hff...\! Hff...\! Je to sice dřina, ale bude to stát za to!
+      text: \n<ŠIMON>Hff...\! Hff...\! Je to sice dřina, ale bude to stát za to!
 
 
 #=========================================================================================
@@ -1137,7 +1137,7 @@ message_931:
 message_932:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: \kelCo? Jaktože jsi tak v klidu... Bych čekal, že bys nás vyzval na souboj, nebo tak něco
+      text: \kelCo? Jaktože jsi tak v klidu... Bych čekal, že bys nás vyzval na souboj, nebo tak něco.
 
 message_933:
       text: \n<VANCE>Hmm... Ne, ani proti vám nic moc nemám. Jenom dělám to, co KIM.
@@ -1220,7 +1220,7 @@ message_1000:
 #Location: Pharmacy
 
 message_1010:
-      text: \n<PURKLE>PANÍ SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]... Ty musí být teda hodně odvážné. PANÍ CANDICE je přímo děsivá, když se zlobí...
+      text: \n<PURKLE>SLEČNA SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]... Ty musí být teda hodně odvážné. SLEČNA SLADKÁ je přímo děsivá, když se zlobí...
 
 #====================KAREN==============================
 
@@ -1236,10 +1236,10 @@ message_1022:
       text: \n<KAREN>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
 
 message_1023:
-      text: \n<SEAN>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+      text: \n<ŠIMON>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
 
 message_1024:
-      text: \n<KAREN>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+      text: \n<KAREN>Ale, ŠIMONE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
 
 
 #====================KEL'S DAD==============================
@@ -1261,7 +1261,7 @@ message_1031:
 #Location: Kel's Living Room
 
 message_1032:
-      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chybel! Určitě se brzo ale uklidní... Jen si z toho nedělejte hlavu! Určitě to bude v pohodě.
+      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chyběl! Určitě se brzo ale uklidní... Jen si z toho nedělejte hlavu! Určitě to bude v pohodě.
 
 #KEL'S DAD leaves to KEL'S PARENT'S ROOM.
 #Examine KEL'S PARENT'S ROOM.
@@ -1328,7 +1328,7 @@ message_1090:
       text: \n<SÁŘINA MAMKA>Můj milý! Cítím, jak se červenám... No tohle výročí nikdy nezapomenu!
 
 
-#====================SEAN=============================
+#====================ŠIMON=============================
 
 #Location: Supermarket
 
@@ -1342,10 +1342,10 @@ message_1102:
       text: \n<KAREN>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
 
 message_1103:
-      text: \n<SEAN>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+      text: \n<ŠIMON>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
 
 message_1104:
-      text: \n<KAREN>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+      text: \n<KAREN>Ale, ŠIMONE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
 
 
 #=========================================================================================
@@ -1499,7 +1499,7 @@ message_1250:
 #Location:  Cris's House
 
 message_1260:
-      text: \n<CRISINA MAMKA>Naposledy co jsem pekla koláč, voněl jaksi divně...
+      text: \n<CRISINA MAMKA>Naposledy, co jsem pekla bábovku, voněla jaksi divně...
 
 #==============TEREZKA and ONDRA===========================================
 #Location:  The Mavericks House (Pet Rock Fight)
@@ -1554,7 +1554,7 @@ message_1320:
       text: \n<KAREN>Opět vám děkuji, za vaši pomoc. Jste všichni strašně milí! Snad dneska večer dorazíte!
 
 message_1321:
-      text: \n<SEAN>Budu se na vás těšit!
+      text: \n<ŠIMON>Budu se na vás těšit!
 
 #==============KEL'S DAD===========================================
 #Location: FARAWAY PARK (Forgot Meat quest)
@@ -1655,11 +1655,11 @@ message_1420:
 message_1430:
       text: \n<SÁŘINA MAMKA>Tenhle...\! fňuk...\! film je můj oblíbený...\! fňuk...
 
-#==============SEAN===========================================
+#==============ŠIMON===========================================
 #Location: Aubrey's Street in front of his house
 
 message_1440:
-      text: \n<SEAN>Ahoj! Jen bych vám chtěl připomenout, že budeme mít dneska večer tu kolaudaci. Všichni z téhle ulice jsou pozváni. Tak snad se uvidíme! A nebojte, jídla bude dost.
+      text: \n<ŠIMON>Ahoj! Jen bych vám chtěl připomenout, že budeme mít dneska večer tu kolaudaci. Všichni z téhle ulice jsou pozváni. Tak snad se uvidíme! A nebojte, jídla bude dost.
 
 #after cooking help Quest
 
@@ -1667,7 +1667,7 @@ message_1441:
       text: \n<KAREN>Všem bych vám znovu chtěla poděkovat za vaši pomoc. Všichni jste tak dobrosrdeční! Tak zas na oslavě!
 
 message_1442:
-      text: \n<SEAN>Budeme se na vás těšit!
+      text: \n<ŠIMON>Budeme se na vás těšit!
 
 # =========================================================================================
 # DAY 3 - SUNSET
@@ -1831,7 +1831,7 @@ message_1600:
       text: \n<KAREN>Vítejte na naši kolaudaci! Chovejte se jako doma... ale jen dnes večer!... Hehe...
 
 message_1601:
-      text: \n<SEAN>Pojezte a odpočiňte si! Můžete tady zůstat jak dlouho chcete... ale s mírou!
+      text: \n<ŠIMON>Pojezte a odpočiňte si! Můžete tady zůstat jak dlouho chcete... ale s mírou!
 
 #==============KEL'S DAD===========================================
 #Location: Farawy Park

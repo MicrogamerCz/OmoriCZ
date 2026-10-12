@@ -47,7 +47,7 @@ message_763:
       text: OMORI získal 1 ŽIVOT.
 
 message_764:
-      text: AUBREY získal 1 ŽIVOT.
+      text: AUBRY získala 1 ŽIVOT.
 
 message_765:
       text: KEL získal 1 ŽIVOT.
@@ -75,7 +75,7 @@ message_770:
       text: BENDA
 
 message_771:
-      text: BOOM
+      text: BUUM
 
 message_772:
       text: ROBOT
@@ -95,7 +95,7 @@ message_776:
       text: MOMBA
 
 message_777:
-      text: BOOM
+      text: BUUM
 
 # === Night Scares ===
 
@@ -148,7 +148,7 @@ message_810:
 # === Last Resort Elevator ===
 
 message_811:
-    text: ODEMKNUL jsi svou \c[4]HUSTOU VSTUPNÍ KARTOU\c[0]. #konzistence
+    text: ODEMKNUL jsi svou \c[4]HUSTOU KARTOU\c[0]. #konzistence
 
 # === Hidden Library ===
 
@@ -209,10 +209,10 @@ message_834:
 # === Slime Girls Lair ===
 
 message_830:
-    text: Dáš svou \c[4]SLIZOVOU VSTUPNÍ KARTU\c[0] BENDOVI?
+    text: Dáš svou \c[4]SLIZOVOU KARTU\c[0] BENDOVI?
 
 message_831:
-    text: \n<BENDA>\sinv[1]Óóóóoooo... \sinv[0]\c[4]SLIZOVÁ VSTUPNÍ KARTA\c[0]!
+    text: \n<BENDA>\sinv[1]Óóóóoooo... \sinv[0]\c[4]SLIZOVÁ KARTA\c[0]!
 
 message_832:
     text: \n<BENDA>\sinv[1]Mňam mňam!\sinv[0]\! Tak...\! Chtěli byste do dolního patra?
@@ -223,7 +223,7 @@ message_833:
 # === BS Clearing ===
 
 message_840:
-    text: P-Počkej...\! Prosím, SUNNY...\! Neopouštěj mě...\! \fn<OMORI_GAME><br>Znova ne...\who
+    text: P-Počkej...\! Prosím, SUNNY...\! Neopouštěj mě...\! \fn<OMORI_GAME><br>Podruhé už ne...\who
 
 # === Last Resort Construction ===
 
@@ -263,7 +263,7 @@ message_863:
 message_864:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: Zklidni svůj tep...\!<br>Neboj.\! Není tak strašidelná, jak se ti zdá.\mar #buď voda, nebo pravda, proto ženský rod neurčitého podmětu
+      text: Zklidni svůj tep...\!<br>Neboj.\! Není to tak hrozné, jak se zdá.\mar #buď voda, nebo pravda, proto ženský rod neurčitého podmětu
 
 # === SUMMONING ROOM ===
 
@@ -288,7 +288,7 @@ message_869:
 # === UWH TOLL ===
 
 message_870:
-    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve třech povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro náklaďáky...\! Ale dvojpruh pro náklaďáky!
+    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve třech povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro autobusy...\! Ale dvojpruh pro autobusy!
 
 # === STATIC VOID ===
 
@@ -447,7 +447,7 @@ message_361:
     text: \n<PAN STŘELÁK>Schválně, hoďte mi ten míč.\! Zkusím ho chytnout.
 
 message_362:
-    text: \n<PAN STŘELÁK>Safra...\! Jaksi mi vyjel z ruky...\! Haha...\! <br>Nebojte...\! Příště ho chytnu.
+    text: \n<PAN STŘELÁK>Safra...\! Jaksi mi vyklouzl z ruky...\! Haha...\! <br>Nebojte...\! Příště ho chytnu.
 
 message_363:
     text: \n<PAN STŘELÁK>Á! Už jsem ho skoro měl!\! Tentokrát jsem byl fakt blízko... Nebo ne?\!<br>No tak... Zkuste to znova.
@@ -471,7 +471,7 @@ message_369:
     text: \n<PAN STŘELÁK>Proč je osud tak krutý? Co jsem komu udělal?\!<br>Tohle není fér...\! Nesnáším to tady...
 
 message_370:
-    text: \n<PAN STŘELÁK>Ach... Co to cítím?\! Zdá se mi, že pláču.\! Řekněte mi, pláču?\!<br>Já to nepoznám, nemám slzné kanálky.\!<br>Uff...\! Víte co, jako bych nic neřekl, jo?
+    text: \n<PAN STŘELÁK>Ach... Co je tohle za zvláštní pocit?\! Zdá se mi, že pláču.\! Řekněte mi, pláču?\!<br>Já to nepoznám, nemám slzné kanálky.\!<br>Uff...\! Víte co, jako bych nic neřekl, jo?
 
 message_371:
     text: \n<PAN STŘELÁK>Říkají mi PAN STŘELÁK.\! Jsem zaražen v zemi.\!<br>Střelte po mě něčím...\! a uslyšíte podivný zvuk!
@@ -503,7 +503,7 @@ message_178:
 #ROSA
 
 message_341:
-    text: \n<???>Co to...?\! To bylo ale divný...
+    text: \n<???>Co to...?\! To bylo ale divné...
 
 # -----------------------------------------------
 # - JUNKYARD IX (150)
@@ -526,10 +526,10 @@ message_342:
 #EMPTY TRACK SPACES
 
 message_51:
-    text: Zde chybí kus kolejí.
+    text: Zde chybí koleje. #konz
 
 message_52:
-    text: Přirazíš sem \c[4]DŘEVĚNÝ KUS KOLEJÍ\c[0]?
+    text: Přirazíš sem \c[4]DŘEVĚNÉ KOLEJE\c[0]? #změna názvu
 
 #ITEM
 
@@ -537,7 +537,7 @@ message_344:
     text: Získal jsi \c[4]SIRKY\c[0].
 
 message_625:
-    text: Získal jsi \c[4]DŘEVĚNÝ KUS KOLEJÍ\c[0].
+    text: Získal jsi \c[4]DŘEVĚNÉ KOLEJE\c[0]. #změna názvu
 
 #CANDLE
 
@@ -552,13 +552,13 @@ message_157:
     text: VTIP O MĚSÍCI
 
 message_158:
-    text: VTIP O STRAŠÁKOVI DO ZELÍ
+    text: VTIP O STRAŠÁKOVI
 
 message_159:
-    text: VTIP O KOLECH #v překladu spíš tříkolce, ale je to i tak o kolech, jakožto... té součásti vozidla
+    text: VTIP O TŘÍKOLCE #v překladu spíš tříkolce, ale je to i tak o kolech, jakožto... té součásti vozidla
 
 message_160:
-    text: VTIP O TUČNÁCÍCH
+    text: VTIP O SOBECH
 
 message_161:
     text: VTIP O SÝRU
@@ -680,7 +680,7 @@ message_381:
 #Contestant moles
 
 message_395:
-    text: \n<SOUTĚŽÍCÍ>Ale ne! Co si teď počneme?!\!<br>Z \c[11]HLADOMORNY\C[0] utéct nedokážeme!
+    text: \n<SOUTĚŽÍCÍ>Ale ne! Co si teď počneme?!\!<br>Z \c[11]HLADOMORNY\C[0] není úniku!
 
 #Mole closest to door
 
@@ -747,7 +747,7 @@ message_523:
     text: Tento KLÍČKOKRTEK s obdivem hledí na ZLATÍČČIN portrét.
 
 message_524:
-    text: \n<KRTEK PINGL>Kéž by mě taky pověšila na zeď.
+    text: \n<KRTEK PINGL>Kéž by mě taky pověsila na zeď.
 
 #Bottom right room 1
 
@@ -1212,7 +1212,7 @@ message_6:
     text: \n<BRIAN VÝJIMEČNÝ>Vy byste ho chtěli znát, že?\!<br>\com[2]Tak to zas prr.\!<br>Musím říct... že jste na KLÍČKOKRTY nějací výřeční...
 
 message_7:
-    text: \n<BRIAN VÝJIMEČNÝ>\com[2]Jak vám mám věřit, že jste opravdu jedni z nás inteligentních, majestátních tvorů?\! Myslíte snad, že bych byl schopen možnému špiónovi prozradit heslo? \!Ha!\!<br>To je mi ale úsměvná představa!
+    text: \n<BRIAN VÝJIMEČNÝ>\com[2]Jak vám mám věřit, že jste opravdu jedni z nás inteligentních, majestátních tvorů?\! Myslíte snad, že bych byl schopen možnému špiónovi prozradit heslo? \!Ha!<br>To je mi ale úsměvná představa!
 
 message_8:
     text: \n<BRIAN VÝJIMEČNÝ>Když tvrdíte, že jste KLÍČKOKRTCI každým coulem, proč mi to teda nedokážete?\! To heslo vám řeknu... pokud uhádnete, nad čím právě teď přemýšlím!
@@ -1291,7 +1291,7 @@ message_21:
     text: \n<HELENA KATASTROFÁLNÍ>No a!\! Já vím, že bych tohle heslo měla jako střežit, ale ono má něco společného s jídlem, a když nad ním pořád přemýšlím... <br>Tak mám hrozný hlad! Takový hlad, až okusuju trávník! Věříte tomu?! Už by nám strážcům mohli konečně někdy dát najíst!
 
 message_22:
-    text: \n<HELENA KATASTROFÁLNÍ>A není "KOBLÍŽEK" stejně celkem pitomé heslo?\! Ještě k tomu, když tak ZLATÍČKU říkal tam ten divnej v modrém?<br>\com[2]Ale!\! To přece není žádné tajemství! To by dokázal uhádnout každý! Vždycky se tady spolu hýčkali, říkali si tak všelijak...<br>A pak to jejich "Proč jsi mě ještě nepožádal o ruku?" a "Promiň, mým kamarádům se náš vztah nelíbí...", a tak to šlo furt dokola a dokola... Uf! To byl voprus!
+    text: \n<HELENA KATASTROFÁLNÍ>A není "KOBLÍŽEK" stejně celkem pitomé heslo?\! Ještě k tomu, když tak ZLATÍČKU říkal tam ten divnej v modrém?<br>\com[2]Ale!\! To přece není žádné tajemství! <br>To by dokázal uhádnout každý! Vždycky se tady spolu hýčkali, říkali si tak všelijak...<br>A pak to jejich "Proč jsi mě ještě nepožádal o ruku?"<br>A "Promiň, mým kamarádům se náš vztah nelíbí...", a tak to šlo furt dokola a dokola... Uf! To byl voprus!
 
 message_23:
     text: \n<HELENA KATASTROFÁLNÍ>No co...\! já pořád musím střežit to heslo, ať se děje co se děje...\! A tam ti ostatní nejsou schopni udržet tajemství, i kdyby jim šlo o život!<br>Ts! Přesně tak! Klidně si mě litujte! Už je mi to úplně ukradený!\! Taková hrůza, být tady zavřená v téhle osamělé zahradě a hlídat slovo "KOBLÍŽEK"!\! Jejdanane!
@@ -1433,7 +1433,7 @@ message_228:
     text: Tato osoba je zjevně zaneprázdněna.
 
 message_229:
-    text: KAŠE.
+    text: TOUST.
 
 message_230:
     text: \fn<OMORI_GAME>\who\quake[1]Drž...\| se dál...
@@ -1632,7 +1632,7 @@ message_81:
     text: \n<TATÍK ČIPS>A teď poslouchejte...\! TATÍK ČIPS zachránil již nespočet dobrodruhů svými moudrými radami.
 
 message_82:
-    text: \n<TATÍK ČIPS>Být váma bych TATÍKA ČIPA poslechl.
+    text: \n<TATÍK ČIPS>Být váma bych TATÍKA ČIPSE poslechl.
 
 message_83:
     text: \n<TATÍK ČIPS>\quake[1]Pracky pryč...\! od těch...\! \c[3]OVESNÝCH SUŠENEK\c[0].
@@ -1641,13 +1641,13 @@ message_84:
     text: \n<TATÍK ČIPS>Prosím, dobrodruzi...\! TATÍK ČIPS vás prosí!\! Nedělejte to!\!<br>Nepokládejte za něco tak zbytečného své mladé životy!
 
 message_85:
-    text: Navzdory varování TATÍKA ČIPA sis vzal \c[3]OVESNÉ SUŠENKY\c[0].
+    text: Navzdory varování TATÍKA ČIPSE sis vzal \c[3]OVESNÉ SUŠENKY\c[0].
 
 message_86:
     text: \n<TATÍK ČIPS>Ach ne! Tak tohle je konec!\! Tak tohle je opravdu konec!\!<br>Na tohle se TATÍK ČIPS nedokáže dívat!
 
 message_87:
-    text: \n<TATÍK ČIPS>Hmm...\! TATÍK ČIPS by vás teď měl varovat před ZLOMYSLNÝM ČIPEM...\! ale zdá se, že i ZLOMYSLNÝ ČIPS je na vás krátký.<br>TATÍK ČIPS je tedy asi k ničemu.
+    text: \n<TATÍK ČIPS>Hmm...\! TATÍK ČIPS by vás teď měl varovat před ZLOMYSLNÝM ČIPSEM...\! ale zdá se, že i ZLOMYSLNÝ ČIPS je na vás krátký.<br>TATÍK ČIPS je tedy asi k ničemu.
 
 #'TATÍK ČIPS'
 
@@ -1774,13 +1774,13 @@ message_249:
 #FIRST TOLL
 
 message_384:
-    text: \n<MÝTNÝ KROKOĎÁK>Tenhle pruh je jen pro náklaďáky, prcku.<br>Vrať se, až si najdeš nějaké kamarády!
+    text: \n<MÝTNÝ KROKOĎÁK>Tenhle pruh je jen pro autobusy, prcku.<br>Vrať se, až si najdeš nějaké kamarády!
 
 message_385:
     text: \n<MÝTNÝ KROKOĎÁK>\{\{\sinv[1]Keh heh!
 
 message_386:
-    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve dvou povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro náklaďáky...\! Ale dvojpruh pro náklaďáky!
+    text: \n<MÝTNÝ KROKOĎÁK>Tak vy jste si mysleli, že se vám tady ve dvou povede vetřít, jo? \!Tak bacha. Tohle není jenom pruh pro autobusy...\! Ale dvojpruh pro autobusy!
 
 message_387:
     text: \n<MÝTNÝ KROKOĎÁK>Buď se tady ukážete ve čtyřech, nebo se vrátíte stejným směrem, odkud jste přišli.
@@ -1917,7 +1917,7 @@ message_123:
     text: \n<MÝTNÝ KROKOĎÁK>Mějte se!
 
 message_124:
-    text: \n<MÝTNÝ KROKOĎÁK>Koukám, že se snažíte přelést tu bránu!\!<br>Slezte z ní! Tohle je soukromý majetek!
+    text: \n<MÝTNÝ KROKOĎÁK>Koukám, že se snažíte přelést tu závoru!\!<br>Slezte z ní! Tohle je soukromý pozemek!
 
 message_168:
     text: \n<MÝTNÝ KROKOĎÁK>Dobře, dobře.\!<br>Na... tady máte 3000 MUŠLÍ, jen pro vás!
@@ -2309,7 +2309,7 @@ message_476:
 #FOURTH BENDA (Pattern)
 
 message_452:
-    text: \n<BENDA>Á! Zdravím, návštěvníci!\! Po několika měsících tvrdé práce jsem konečně zkonstruoval první hologram BENDY na světě!<br>Že vypadá úplně, jako opravdový?\! Fňuk...\! Pyšnější bych snad být nemohl...
+    text: \n<BENDA>Á! Zdravím, návštěvníci!\! Po několika měsících tvrdé práce jsem konečně zkonstruoval první hologram BENDY na světě!<br>Že vypadá úplně, jako opravdový?\! Fňuk...\!<br>Pyšnější bych snad být nemohl...
 
 message_453:
     text: \n<BENDA>MOLLY mi řekla, ať tady dál stojím, ale nevím proč!
@@ -2469,7 +2469,7 @@ message_340:
     text: \kelTak vidíš!<br>Už tenhle PŮVAB taky celkem zvládám!
 
 message_382:
-    text: \n<HERO>DEJ MI BABU! Vím, jak na to!
+    text: \n<HERO>Dej mi BABU! Vím, jak na to!
 
 message_999:
     text: Nyní ti všichni PÁSOROBOTI změní směr.
@@ -2485,7 +2485,7 @@ message_489:
     text: \n<BENDA>Nebo aspoň myslím, že to po nás chtěla...
 
 message_490:
-    text: \n<BENDA>Já si jsem celkem jistý, že bych se měl vyměnit s po tvé pravici...
+    text: \n<BENDA>Já si jsem celkem jistý, že bych se měl vyměnit s tím po tvé pravici...
 
 message_491:
     text: \n<BENDA>A když říkám "po tvé pravici", myslím tvé, jakože toho přede mnou... ne jakési teoretické osoby, dívající se na nás skrz obrazovku.
@@ -2571,13 +2571,13 @@ message_254:
     text: \n<RECYKLOSEKTAŘ>Nechť jsme jednoho dne zrecyklováni a uvedeni do světa bez odpadků.
 
 message_255:
-    text: \n<RECYKLOSEKTAŘ>Ach, velký koši na nebesích, očisti nás od našich odpadků!
+    text: \n<RECYKLOSEKTAŘ>Ach, velký Koši na nebesích, očisti nás od našich odpadků!
 
 message_256:
-    text: \n<RECYKLOSEKTAŘ>Nechť ve mě přebývá duch gumové rukavice,<br>ať jsem blíž velikému koši ve světe čistém.
+    text: \n<RECYKLOSEKTAŘ>Nechť ve mě přebývá duch gumové rukavice,<br>ať jsem blíž velikému Koši ve světe čistém.
 
 message_257:
-    text: \n<RECYKLOSEKTAŘ>Neboť koš svatý tak miloval svět, že dal svou jednorozenou gumovou rukavici, aby žádný, kdo v něj věří nešpinil, ale měl život bez odpadků...
+    text: \n<RECYKLOSEKTAŘ>Neboť Koš svatý tak miloval svět, že dal svou jednorozenou gumovou rukavici, aby žádný, kdo v něj věří nešpinil, ale měl život bez odpadků...
 
 message_258:
     text: \n<RECYKLOSEKTAŘ>Bratři a sestry, je třeba se smířit s tím, že jsme všichni odpad.
@@ -2590,23 +2590,23 @@ message_259:
 # -----------------------------------------------
 
 message_260:
-    text: \n<RECYKLOSEKTAŘ>Ve jménu rozložitelné vidličky...\!<br>Redukce, opětovné použití, recyklace.
+    text: \n<RECYKLOSEKTAŘ>Ve jménu rozložitelné vidličky...\!<br>Zredukuj, zrecykluj, znovu použij.
 
 # -----------------------------------------------
 # - RECYKLOSEKTAŘ: DEFEATED (341)
 # -----------------------------------------------
 
 message_261:
-    text: \n<RECYKLOSEKTAŘ>Odpusť mi, koši...\! neboť jsem špinil...
+    text: \n<RECYKLOSEKTAŘ>Odpusť mi, Koši...\! neboť jsem špinil...
 
 message_262:
-    text: \n<RECYKLOSEKTAŘ>Odpadky mě přemohly!\! Odpusť mi, koši svatý! Jsem nečistý a nejsem hoden světa bez odpadků!
+    text: \n<RECYKLOSEKTAŘ>Odpadky mě přemohly!\! Odpusť mi, Koši svatý! Jsem nečistý a nejsem hoden světa bez odpadků!
 
 message_263:
     text: \n<RECYKLOSEKTAŘ>Ale ne! Zapomněl jsem dezinfekci doma!
 
 message_264:
-    text: \n<RECYKLOSEKTAŘ>Vím, že je naš vůdce, ale nepřipadá vám stavět tady horu odpadků trochu protichodné?
+    text: \n<RECYKLOSEKTAŘ>Vím, že je naš vůdce, ale nepřipadá vám stavět tady doslova horu odpadků trochu protichodné?
 
 message_265:
     text: \n<RECYKLOSEKTAŘ>Fňuk... Fňuk...\! Fuuuuj...\!<br>Jsem nějaký špinavý. Musím se jít domů osprchovat.
@@ -2660,7 +2660,7 @@ message_286:
 message_287:
       faceset: MainCharacters_Faraway
       faceindex: 37
-      text: Tohle místo není pro tebe...\! Co kdybychom se o tyhle magory postarali, dokud to ještě jde?\her
+      text: Tady nemáte co dělat...\! Co kdybychom se o tyhle magory postarali, dokud to ještě jde?\her
 
 message_288:
     text: \n<RECYKLOSEKTAŘ>Jo, asi máš pravdu.
@@ -2679,87 +2679,87 @@ message_291:
 # -----------------------------------------------
 
 message_270:
-    text: \n<RECYKLOCESTA>Zdravím...\! Vítejte na vrcholu hory odpadků.
+    text: \n<RECYKLOPAT>Zdravím...\! Vítejte na vrcholu Hory odpadků.
 
 message_271:
-    text: \n<RECYKLOCESTA>To jsem já...
+    text: \n<RECYKLOPAT>To jsem já...
 
 message_272:
-    text: \n<RECYKLOCESTA>RECYKLOCESTA...
+    text: \n<RECYKLOPAT>RECYKLOCESTA...
 
 message_273:
-    text: \n<RECYKLOCESTA>Jediný, jemuž bylo dáno hovořit v košově jménu!
+    text: \n<RECYKLOPAT>Jediný, jemuž bylo dáno hovořit v Košově jménu!
 
 message_274:
-    text: \n<RECYKLOCESTA>Včera jsem měl sen.
+    text: \n<RECYKLOPAT>Včera jsem měl sen.
 
 message_275:
-    text: \n<RECYKLOCESTA>Duše gumové rukavice mi v něm řekla, že pro nás již tento svět není.\! Jak pravil koš svatý na nebesích, musíme se snažit...
+    text: \n<RECYKLOPAT>Duše gumové rukavice mi v něm řekla, že pro nás již tento svět není.\! Jak pravil Koš svatý na nebesích, musíme se snažit...
 
 message_276:
-    text: \n<RECYKLOCESTA>Dosáhnout světa bez odpadků, kde můžou lidé spolu s rozložitelnými materiály soužít na věky věků!
+    text: \n<RECYKLOPAT>Dosáhnout světa bez odpadků, kde budou moct lidé spolu s rozložitelnými materiály soužít na věky věků!
 
 message_277:
-    text: \n<RECYKLOCESTA>Vám dětem muselo trvat se dostat až na tento vrchol...\! ale obávám se, že zde vaše cesta končí.
+    text: \n<RECYKLOPAT>Vám dětem muselo trvat se dostat až na tento vrchol...\! ale obávám se, že zde vaše cesta končí.
 
 message_278:
-    text: \n<RECYKLOCESTA>Koneckonců jste jen odpad...\!<br>hladoví, nesmysluplní plastožrouti!
+    text: \n<RECYKLOPAT>Koneckonců jste jen odpad...\!<br>hladoví, nesmysluplní plastožrouti!
 
 message_279:
-    text: \n<RECYKLOCESTA>Nechť je síla rozložitelné vidličky se mnou!
+    text: \n<RECYKLOPAT>Nechť je síla rozložitelné vidličky se mnou!
 
 message_280:
-    text: \n<RECYKLOCESTA>Připravte se na \com[2]recyklaci!
+    text: \n<RECYKLOPAT>Připravte se na \com[2]recyklaci!
 
 # -----------------------------------------------
 # - RECYCULTIST: BILLY RECYCLED (341)
 # -----------------------------------------------
 
 message_300:
-    text: \n<RECYKLOCESTA>Ne...\! Jak je tohle možné?\! Vždyť...\! jste všichni jen odpad...
+    text: \n<RECYKLOPAT>Ne...\! Jak je tohle možné?\! Vždyť...\! jste všichni jen odpad...
 
 message_301:
-    text: \n<RECYKLOCESTA>Byl nám přece zaslíben svět bez odpadků...\! Že by nás koš svatý opustil?
+    text: \n<RECYKLOPAT>Byl nám přece zaslíben svět bez odpadků...\! Že by nás Koš svatý opustil?
 
 message_302:
-    text: \n<RECYKLOCESTA>Ne...\! Musel jsem špatně pochopit jeho znamení.\! Koš svatý přece nechybuje.
+    text: \n<RECYKLOPAT>Ne...\! Musel jsem špatně pochopit jeho znamení.\! Koš svatý přece nechybuje.
 
 message_303:
-    text: \n<RECYKLOCESTA>To já jsem musel chybovat...
+    text: \n<RECYKLOPAT>To já jsem musel chybovat...
 
 message_304:
-    text: \n<RECYKLOCESTA>Počkat...\! Už to chápu!
+    text: \n<RECYKLOPAT>Počkat...\! Už to chápu!
 
 message_305:
-    text: \n<RECYKLOCESTA>Koš svatý se mi snažil říct, že žádný svět bez odpadků není!\! Jediné co můžeme dělat, je se starat o tento svět, co nejlépe, co to jde...
+    text: \n<RECYKLOPAT>Koš svatý se mi snažil říct, že žádný svět bez odpadků není!\! Jediné co můžeme dělat, je se starat o tento svět, co nejlépe, co to jde...
 
 message_306:
-    text: \n<RECYKLOCESTA>Ano...\! Bratři a sestry!\! Svět bez odpadků není na nebesích, nýbrž zde, tam, kde stojíme.
+    text: \n<RECYKLOPAT>Ano...\! Bratři a sestry!\! Svět bez odpadků není na nebesích, nýbrž zde, tam, kde stojíme.
 
 message_307:
-    text: \n<RECYKLOCESTA>Musíme tento svět zbavit odpadků!
+    text: \n<RECYKLOPAT>Musíme tento svět zbavit odpadků!
 
 # -----------------------------------------------
 # - RECYCULTIST: CLEANED TRASH (341)
 # -----------------------------------------------
 
 message_320:
-    text: \n<RECYKLOCESTA>Modleme se...
+    text: \n<RECYKLOPAT>Modleme se...
 
 message_321:
-    text: \n<RECYCULTIST>Koši svatý, jenž jsi na nebesích, posvěť se jméno tvé.
+    text: \n<RECYKLOSEKTAŘ>Koši svatý, jenž jsi na nebesích, posvěť se jméno tvé.
 
 message_322:
-    text: \n<RECYCULTIST>Přijď čistoto tvá, buď vůle tvá, jako ve světě bez odpadků, tak i na zemi.
+    text: \n<RECYKLOSEKTAŘ>Přijď čistoto tvá, buď vůle tvá, jako ve světě bez odpadků, tak i na zemi.
 
 message_323:
-    text: \n<RECYCULTIST>Rukavici vezdejší dej nám dnes, a odpusť nám naše viny, neboť i my uklízíme po našich vinících.
+    text: \n<RECYKLOSEKTAŘ>Rukavici vezdejší dej nám dnes, a odpusť nám naše viny, neboť i my uklízíme po našich vinících.
 
 message_324:
-    text: \n<RECYCULTIST>A neuvěď nás v pokušení, ale zbav nás odpadu.
+    text: \n<RECYKLOSEKTAŘ>A neuvěď nás v pokušení, ale zbav nás odpadu.
 
 message_325:
-    text: \n<RECYCULTIST>Ve jménu rozložitelné vidličky...
+    text: \n<RECYKLOSEKTAŘ>Ve jménu rozložitelné vidličky...
 
 message_326:
-    text: \n<RECYCULTIST>Redukce, opětovné použití, recyklace.
+    text: \n<RECYKLOSEKTAŘ>Zredukuj, zrecykluj, znovu použij.

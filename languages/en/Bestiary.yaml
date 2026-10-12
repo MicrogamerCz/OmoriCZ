@@ -63,14 +63,14 @@ Information:
         - OMORI
 
   863:
-    name: VELKÝ SILNÝ STROM
+    name: ZTEPILÝ STROM
     background: {name: 'battleback_vf_default', x: 0, y: 0}
     position: {x: 160, y: 475}
     character: {name: 'DW_NPC_17', index: 2}
     listIndex: 3
 
     text: |
-        Ty brďo! Je tak velký a silný!
+        Co to vůbec znamená, že je ztepilý?
 
         - KEL
 
@@ -105,7 +105,7 @@ Information:
         -OMORI
 
   45:
-    name: U. F. O
+    name: U.F.O
     background: {name: 'battleback_ow_cattail', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'DW_EN_1', index: 2}
@@ -306,7 +306,7 @@ Information:
         - OMORI
 
   855:
-    name: ZAJÍČEK-DUCH
+    name: DUŠÍČEK
     background: {name: 'battleback_pf_default', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'ENEMY_BUNNIES_2', index: 0}
@@ -457,7 +457,7 @@ Information:
         - OMORI
 
   843:
-    name: KOKTEJLÍČEK
+    name: ZAJÍČKOKTEJL
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 5}
@@ -516,7 +516,7 @@ Information:
 
 
   797:
-    name: ZAJÍČKOKLÍČEK
+    name: KLÍČKOZAJÍČEK
     background: {name: 'battleback_excavation_2', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES_2', index: 1}
@@ -595,7 +595,7 @@ Information:
         - AUBRY
 
   772:
-    name: KRÁLÍK
+    name: KRÁLÍK?
     background: {name: 'battleback_excavation_3', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_2', index: 0}
@@ -612,7 +612,7 @@ Information:
         - AUBRY
 
   776:
-    name: KUŘECÍ
+    name: KUŘECÍ?
     background: {name: 'battleback_excavation_3', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_4', index: 0}
@@ -629,7 +629,7 @@ Information:
         - KEL
 
   198:
-    name: RYBOZAJÍČEK
+    name: RYBÍČEK
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'ENEMY_BUNNIES_2', index: 3}
@@ -658,14 +658,14 @@ Information:
         - OMORI
 
   210:
-    name: MOŘSKÁ PANA NARUBY
+    name: MOŘSKÁ PANNA NARUBY
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_3', index: 5}
     listIndex: 38
 
     text: |
-        Čub, čub, rýbaróba, rýbaróba, rýbaróba.
+        Rybu koupil abych korunu dala mi máma.
 
         - OMORI
 
@@ -697,7 +697,7 @@ Information:
         - OMORI
 
   250:
-    name: SLIZOVÝ ZAJÍČEK
+    name: SLIZAJÍČEK
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES_2', index: 4}
@@ -736,7 +736,7 @@ Information:
         - KEL
 
   262:
-    name: NOSNÍ BUBLINA
+    name: SOPLOVÁ BUBLINA
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'DW_EN_6', index: 1}
@@ -750,15 +750,15 @@ Information:
         - OMORI
 
   258:
-    name: ROBOŽÍŽALA
+    name: ROBOČERV
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 420}
     character: {name: 'DW_EN_7', index: 0}
     listIndex: 44
 
     text: |
-        Robotická žížala s žiletkově
-        ostrými zuby. Její oblíbené
+        Robotický červ s zuby ostrými,
+        jako břitvy. Jeho oblíbené
         jídlo je mrkev.
 
         - OMORI
@@ -837,19 +837,19 @@ Information:
 
     text: |
         COPYPASTA je těstovina,
-        které se kopíruje.
+        která se kopíruje.
         - OMORI
 
         COPYPASTA je těstovina,
-        které se kopíruje.
+        která se kopíruje.
         - KEL
 
         COPYPASTA je těstovina,
-        které se kopíruje.
+        která se kopíruje.
         - AUBRY
 
   125:
-    name: ŽIVÝ CHLEBA
+    name: ŽIVÝ HOTOVÝ
     background: {name: 'battlebacks_dd_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_2', index: 6}
@@ -896,7 +896,7 @@ Information:
         Bezcitný přízrak, mluvící v
         děsivých citátech, jako například
         “Zemřela veka, do hrobu dána
-        semínka po ni zbyly."
+        semínka po ni zůstaly."
 
         - OMORI
 
@@ -1079,7 +1079,7 @@ Information:
         - OMORI
 
   388:
-    name: STAHOVANÍ OKNO
+    name: STAHOVACÍ OKNO
     background: {name: 'battleback_ow_download', x: 0, y: 0}
     position: {x: 160, y: 325}
     character: {name: 'DW_NPC_17', index: 4}
@@ -1119,7 +1119,7 @@ Information:
         - OMORI
 
   451:
-    name: KRÁL MASOŽRAVKA
+    name: KRÁL POŽÍRAČ
     background: {name: 'battleback_sm_default', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_NPC_18', index: 5}
@@ -1221,7 +1221,7 @@ Information:
         - HERO
 
   409:
-    name: OHAVNÁ TROUBA
+    name: ZLOMYSLNÝ ČIPS
     background: {name: 'battlebacks_dd_default', x: 0, y: 0}
     position: {x: 170, y: 500}
     character: {name: 'DW_NPC_15', index: 6}
@@ -1236,10 +1236,10 @@ Information:
       Čiré zlo!
       - AUBRY
 
-      Otřesná!
+      Otřesný!
       - KEL
 
-      Dokonce až ohavná!
+      Jasně zlomyslný!
       - HERO
 
 
@@ -1338,7 +1338,7 @@ Information:
         - OMORI
 
   541:
-    name: ROBOZLATÍČKO #navrhuji přejmenování na robotíčko nebo mechatíčko
+    name: ROBOTÍČKO #navrhuji přejmenování na robotíčko nebo mechatíčko
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_NPC_14', index: 0}

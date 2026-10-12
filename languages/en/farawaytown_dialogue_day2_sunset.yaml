@@ -14,7 +14,7 @@
 message_0:
       faceset: MainCharacter_Basil
       faceindex: 12
-      text: \n<BASIL>\}SUNNY...\! Z tohohle...\! už není útěku... nebo snad je?
+      text: \n<BASIL>\}SUNNY...\! Z tohohle...\! už není cesty zpět... viď? #konzistence
 
 message_1:
       faceset: MainCharacters_Faraway
@@ -94,7 +94,7 @@ message_40:
       text: \n<STŘEMHLAV>Z mého domova cítím jakousi zlou sílu...\! Možná si s tím jen moc dělám hlavu...\! Ale opatrnost vždycky stojí za to.
 
 message_41:
-      text: \n<STŘEMHLAV>Uff...\! Ti moji sourozenci jsou ale nemožní, že?\! Všichni jsou jak přes kopírák!
+      text: \n<STŘEMHLAV>Uff...\! Ti moji sourozenci jsou ale nemožní, že?\! Všichni jsou tu jak přes kopírák! #blíže orig
 
 message_42:
       text: \n<STŘEMHLAV>Á... Tak se vám nakonec podařilo pokořit to veliké zlo.\!<br>Co vás to stálo?\! Z vašich očí jde stále vyčíst bolest.
@@ -113,23 +113,23 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelCo? Jaktože jsi tak v klidu... Bych čekal, že bys nás vyzval na souboj, nebo tak něco
+      text: \kelCo? Jaktože jsi tak v klidu...\! Bych čekal, že bys nás vyzval na souboj, nebo tak něco.
 
 message_53:
-      text: \n<VANCE>Hmm... Ne, ani proti vám nic moc nemám. Jenom dělám to, co KIM.
+      text: \n<VANCE>Hmm...\! Ne, ani proti vám nic moc nemám.\!Jenom dělám to, co KIM.
 
 message_54:
       text: \n<VANCE>Jsem jen o rok starší, ale kvůli mojím vousům mi to nikdo nevěří...
 
 message_55:
-      text: \n<VANCE>Vím, že je hrozná kecka, ale má dobrý srdce. A já? No, jestli je ona srdce, tak já jsem svaly! Gahaha...
+      text: \n<VANCE>Vím, že je hrozná kecka, ale má dobrý srdce.\!A já?\! No, jestli je ona srdce, tak já jsem svaly! Gahaha...
 
 #====================ARTIST==============================
 
 #Location: Artist's house
 
 message_60:
-      text: \n<MALÍŘKA>Připravuji svůj nový obraz, ale upřímně nevím, jak začít... Sehnat dobré nápady je dřina! Měla bych se na to umění vykašlat a jít dělat chovatelku do zoo nebo něco takového...
+      text: \n<MALÍŘKA>Připravuji svůj nový obraz, ale upřímně nevím, jak začít... \!Sehnat dobré nápady je dřina! Měla bych se na to umění vykašlat a jít dělat chovatelku do zoo nebo něco takového...
 
 #====================SHORT HAIR GIRL==============================
 
@@ -143,24 +143,24 @@ message_70:
 #Location: SHORT HAIR GIRL's House (Pick up furniture quest)
 
 message_80:
-      text: \n<ELEGANTNÍ DÁMA>Můj kávovar je přímo v kuchyni. Ale opatrně... Je dost těžký!
+      text: \n<ELEGANTNÍ DÁMA>Můj kávovar je přímo v kuchyni. \!Ale opatrně... \!Je dost těžký!
 
 #====================INTIMIDATING GIRL==============================
 
 #Location: SHORT HAIR GIRL's House
 
 message_90:
-      text: \n<DĚSIVÁ HOLKA>Ahoj!\! Já jsem BRANDI...\! Dneska jsem přijela z koleje.\! A už teď mi chybí městský život!\! Je tady hrozné ticho...
+      text: \n<DĚSIVÁ>Ahoj!\! Já jsem BRANDI...\! Dneska jsem přijela z koleje.\! A už teď mi chybí městský život!\! Je tady hrozné ticho...
 
 #====================SCHOOL PRINCIPAL==============================
 
 #Location: Hardware Store looking at flowers
 
 message_100:
-      text: \n<ŘEDITELKA ŠKOLY>Občas se tady chodím jen dívat na kytky. Přemýšlím o tom, že bych jednu domů koupila, ale slyšela jsem, že by prý lákala mravence...
+      text: \n<ŘEDITELKA ŠKOLY>Občas se tady chodím jen dívat na kytky. \!Přemýšlím o tom, že bych jednu domů koupila, ale slyšela jsem, že by prý lákala mravence...
 
 message_101:
-      text: \n<ŘEDITELKA ŠKOLY>Už to horko je dost... Nechci si představovat, jaké by to bylo s mravenci!
+      text: \n<ŘEDITELKA ŠKOLY>Už to horko je dost... \!Nechci si představovat, jaké by to bylo s mravenci!
 
 #====================STARÝ VOUSÁČ==============================
 
@@ -189,20 +189,20 @@ message_120:
 #Location: Pharmacy
 
 message_130:
-      text: \n<HEZKÁ HOLKA>PANÍ SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav. Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]...
+      text: \n<HEZKÁ HOLKA>SLEČNA SLADKÁ mě sem dneska poslala, abych jí koupila nějaké léky proti bolestem hlav.\! Prý jí pořád nějaké děti kradou \c[3]BONBÓNY\c[0]...
 
 message_131:
-      text: \n<HEZKÁ HOLKA>Ty musí být teda hodně odvážné. PANÍ SLADKÁ je přímo děsivá, když se zlobí...
+      text: \n<HEZKÁ HOLKA>Ty musí být teda hodně odvážné.\! SLEČNA SLADKÁ je přímo děsivá, když se zlobí...
 
 #====================KAREN==============================
 
 #Location: Supermarket
 
 message_140:
-      text: \n<PANÍ S COPÁNKY>Hmmm... Já nikdy nevařila pro oslavu plnou hostů... Možná jsem si nastavila moc vysokou laťku...
+      text: \n<PANÍ S COPÁNKY>Hmmm... Já nikdy nevařila pro oslavu plnou hostů...\! Možná jsem si nastavila moc vysokou laťku...
 
 message_141:
-      text: \n<PANÍ S COPÁNKY>Měla bych koupit něco kvalitní, nebo se soustředit, aby toho bylo hodně? A jakou značku bych měla kupovat?
+      text: \n<PANÍ S COPÁNKY>Měla bych koupit něco kvalitní, nebo se soustředit, aby toho bylo hodně?\! A jakou značku bych měla kupovat?
 
 message_142:
       text: \n<PANÍ S COPÁNKY>A jsou zelené a červené cibule stejné?
@@ -211,10 +211,10 @@ message_143:
       text: \n<PANÍ S COPÁNKY>Uff... Možná jsme si to jídlo prostě mohli nechat dovést.
 
 message_144:
-      text: \n<CHECKERS GUY>No tak, hlavu vzhůru, KAREN. Ty to zvládneš! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
+      text: \n<CHECKERS GUY>No tak, hlavu vzhůru, KAREN. Ty to zvládneš!\! A stejně... i kdyby to od tebe nikdo nejedl, se mnou můžeš vždycky počítat!
 
 message_145:
-      text: \n<PANÍ S COPÁNKY>Ale, SEANE... Ty jsi zlatý. Já si tě vůbec nezasloužím...
+      text: \n<PANÍ S COPÁNKY>Ale, ŠIMONE... Ty jsi zlatý.\! Já si tě vůbec nezasloužím...
 
 #====================KELŮV TÁTA==============================
 
@@ -235,7 +235,7 @@ message_151:
 #Location: Kel's Living Room
 
 message_152:
-      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chybel! Určitě se brzo ale uklidní...
+      text: \n<KELŮV TÁTA>Neřeš mamku, HERO. Jenom jsi jí hrozně chyběl! Určitě se brzo ale uklidní...
 
 message_153:
       text: \n<KELŮV TÁTA>Jen si z toho nedělejte hlavu! Určitě to bude v pohodě.
@@ -264,7 +264,7 @@ message_161:
 
 
 message_171:
-      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>Můj syn a moje dcera už tady měli dávno být! Mají snad něco důležitějšího na práci, než být s jejich maminkou?!
+      text: \n<ČERVENÉ BRÝLE>Můj syn a moje dcera už tady měli dávno být! Mají snad něco důležitějšího na práci, než být s jejich maminkou?!
 
 
 
@@ -306,7 +306,7 @@ message_200:
 message_210:
       text: \n<PANÍ S CULÍKEM>Ale! Už se zase červenám......\!<br>Na tohle výročí nikdy nezapomenu!
 
-#====================SEAN=============================
+#====================ŠIMON=============================
 
 #Location: Supermarket
 #ref 140 - 145

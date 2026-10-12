@@ -77,7 +77,7 @@ message_12:
 #MISS CANDY is surprised and walks toward KIM and VANCE.
 
 message_13:
-      text: \{\Com[2]UŽ ZASE VY DVA!?\!\}<br>Neříkala jsem vám snad, abyste se tady už nikdy neukázali, milí zlatí?!\n<PANÍ SLADKÁ> #milí zlatí
+      text: \{\Com[2]UŽ ZASE VY DVA!?\!\}<br>Neříkala jsem vám snad, abyste se tady už nikdy neukázali, milí zlatí?!\n<SLEČNA SLADKÁ> #milí zlatí
 
 #KIM and VANCE turn around.
 
@@ -85,7 +85,7 @@ message_14:
       text: Ajaj...\van
 
 message_15:
-      text: \com[2]Koukejte ty kradené \c[3]BONBÓNY\c[0] navalit zpátky!\! <br>Nebo na vás zavolám policajty, milí zlatí!\n<PANÍ SLADKÁ>
+      text: \com[2]Koukejte ty kradené \c[3]BONBÓNY\c[0] navalit zpátky!\! <br>Nebo na vás zavolám policajty, milí zlatí!\n<SLEČNA SLADKÁ>
 
 message_16:
       text: Chytli nás.\van #blíže orig
@@ -94,7 +94,7 @@ message_23:
       text: \kim\{\{\Com[2]TAK DOBŘE!!
 
 message_17:
-      text: \{\{\Com[2]TADY MÁTE TY VAŠE BLBÉ \c[3]BONBÓNY\c[0]!!\kim
+      text: \{\Com[2]TU MÁTE TY VAŠE BLBÉ \c[3]BONBÓNY\c[0]!!\kim
 
 #KIM drops candy.
 #KIM turns to VANCE.
@@ -441,7 +441,7 @@ message_127:
 message_128:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Hmm... Vypadá, jako by tam chystali kázání.\! Ty bys ale asi nechtěl svoje poslední dny tady strávit v \c[11]KOSTELE\c[0], co, SUNNY?\kel #já jo
+      text: Hmm... Vypadá, že zrovna začíná mše.\! Ty bys ale asi nechtěl svoje poslední dny tady strávit v \c[11]KOSTELE\c[0], co, SUNNY?\kel #já jo
 
 # =========================================================================================
 # Cutscene: Kel follows Player
@@ -595,7 +595,7 @@ message_182:
 message_183:
       faceset: MainCharacters_Faraway
       faceindex: 3
-      text: \}Ugh...\! Ty jsi ale neodbytný.\aub #měním na tvrdohlavý, jsi teda
+      text: \}Uf...\! Ty jsi ale neodbytný.\aub #měním na tvrdohlavý, jsi teda
 
 message_184:
       faceset: MainCharacters_Faraway
@@ -637,7 +637,7 @@ message_190:
 message_191:
       faceset: MainCharacters_Faraway
       faceindex: 18
-      text: \}No tak dobře.\! Chápu, že jsi naštvaná.\!<br>Dívej, jestli chceš omluvu, tak tady ji máš.\!<br>Omlouvám se, jo?\kel #tohle nezní jako slušná omluva
+      text: \}No tak dobře.\! Chápu, že jsi naštvaná.\!<br>Dívej, jestli chceš omluvu, tak tady ji máš.\!<br>Promiň, jo?\kel #tohle nezní jako slušná omluva
 
 message_192:
       faceset: MainCharacters_Faraway
@@ -775,7 +775,7 @@ message_300:
 message_301:
       faceset: MainCharacters_Faraway
       faceindex: 15
-      text: \kelAsi bychom neměli vyrušit podruhé\! Heh heh... #blíže orig
+      text: \kelAsi bychom neměli vyrušit podruhé.\! Heh heh... #blíže orig
 
 message_302:
       faceset: MainCharacters_Faraway

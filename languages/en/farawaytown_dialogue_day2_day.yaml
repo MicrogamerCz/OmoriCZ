@@ -335,7 +335,7 @@ message_254:
 #Location: Town Plaza Gossiping with Kim's Mom
 
 message_260:
-      text: \n<PANÍ S ČERVENÝMA BRÝLEMA>\}To mi připomíná, jak jsme tehdy...\! jo...\! a pak...\! upřímně, celé mi to připadalo takové...\! ano, to určitě...
+      text: \n<ČERVENÉ BRÝLE>\}To mi připomíná, jak jsme tehdy...\! jo...\! a pak...\! upřímně, celé mi to připadalo takové...\! ano, to určitě...
 
 #=========================LUCAS (DOG)==============================
 
@@ -387,9 +387,9 @@ message_311:
 message_320:
       text: \n<PANÍ S CULÍKEM>Můj manžel je takové prase! Jako celá rodina máme mít společnou dietu, ale včera z něho šel cítit salám! #jako
 
-#=========================SEAN==============================
+#=========================ŠIMON==============================
 
-#Location: SEAN'S HOUSE - nepamatuju si jeho jméno, asi bude špatně... tak dlouhé snad nebylo
+#Location: ŠIMON'S HOUSE - nepamatuju si jeho jméno, asi bude špatně... tak dlouhé snad nebylo
 
 message_330:
       text: \n<KOSTKOVANÝ CHLÁPEK>Hff...\! Hff...\! Je to sice dřina, ale bude to stát za to! #oprava jména. díky za upozornění
