@@ -36,7 +36,7 @@ message_6:
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 24 #insert number here
-      text: \kelSakra, já to od tebe klidně koupim.\!<br>Hej, SUNNY, půjčil bys mi $20,00?
+      text: \kelSakra, já to od tebe klidně koupim.\!<br>Hej, SUNNY, půjčil bys mi dvacku?
 
 message_8:
       text: \whoHaha...\! Díky...\! To je od tebe fakt pěkný, ale není na prodej.\!<br>J-Je pro mé portfolio...\! Příští rok bych se chtěla zkusit dostat na umělku...

@@ -44,7 +44,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \SINV[1]Jsme všichni tak hezcí!\SINV[0]\aub #maty
+      text: \SINV[1]Všem nám to tak sluší!\SINV[0]\aub #maty
 
 #HERO walks up to the side of BASIL.
 
@@ -190,7 +190,7 @@ message_47:
 message_48:
       faceset: MainCharacter_Basil
       faceindex: 1
-      text: Nebojte, to nevadí.\!To se prostě někdy stává...\bas #maty, mezera, přiroz
+      text: Nebojte, to nevadí.\! To se prostě někdy stává...\bas #maty, mezera, přiroz
 
 #HERO helps BASIL pick up his photos.
 

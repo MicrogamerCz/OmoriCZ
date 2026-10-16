@@ -11,7 +11,7 @@ message_1:
 message_2:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: \kelSafra... Naše chyba!\! Tak my příjdeme o něco později!
+      text: \kelSafra... Promiňte!\! Tak my příjdeme o něco později!
 
 message_3:
       faceset: MainCharacters_Faraway
@@ -32,7 +32,7 @@ message_6:
 message_7:
       faceset: MainCharacters_Faraway
       faceindex: 14
-      text: \kelTak vy byste potřebovala pomoct s vařením?\! Tak to máte štěstí, že jdeme zrovna kolem!<br>\!Můj brácha HERO je skvělý kuchař!\! Ten vám něco rozhodně uvaří! Ha ha...
+      text: \kelTak vy byste potřebovala pomoct s vařením?\! Tak to máte štěstí, že jdeme zrovna kolem!<br>\!Můj brácha HERO je skvělý kuchař!<br>\!Ten vám něco rozhodně uvaří! Ha ha...
 
 message_8:
       faceset: MainCharacters_Faraway
@@ -84,16 +84,16 @@ message_17:
 #Cutscene: Hero helps KAREN Cook
 # ===============================================
 
-#SEAN walks inside.
+#ŠIMON walks inside.
 
 message_18:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Ty jo... Co to tady tak úžasně voní?
+      text: \n<KOSTKOVANÁ KOŠILE>Ty jo... Co to tady tak úžasně voní?
 
 message_19:
-      text: \n<PANÍ S COPÁNKY>Jé, ahoj SEANE!\! To nám naši noví přátelé pomáhali s dnešní večeří!
+      text: \n<PANÍ S COPÁNKY>Jé, ahoj ŠIMONE!\! To nám naši noví přátelé pomáhali s dnešní večeří!
 
 message_20:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>No teda...\! Vypadá, že vám to jde od ruky!\!<br>Už jsem dořešil venek, tak se k vám klidně přidám!
+      text: \n<KOSTKOVANÁ KOŠILE>No teda...\! Vypadá, že vám to jde od ruky!\!<br>Už jsem dořešil venek, tak se k vám klidně přidám!
 
 message_21:
       text: \n<PANÍ S COPÁNKY>\sinv[1]Jupí!\! A teď můžeme vařit všichni společně!
@@ -101,7 +101,7 @@ message_21:
 #Cooking montage: Everyone standing near the oven
 
 message_22:
-      text: \n<PANÍ S COPÁNKY>\sinv[1]Fuj...\sinv[0] A je to!\! With your help, this party is going to be a great success!
+      text: \n<PANÍ S COPÁNKY>\sinv[1]Fuj...\sinv[0] A je to!\! S vaší pomocí bude ta naše kolaudace opravdový úspěch!
 
 message_23:
       text: \n<PANÍ S COPÁNKY>Všem bych vám ještě jednou chtěla pomoct za to, že jste nám dneska tak pomohli.<br>\!Jste opravdu poctiví a milí!
@@ -117,7 +117,7 @@ message_25:
     text: \kelJo, bylo to super!\! Už se nemůžu dočkat na ten večírek!
 
 message_26:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Budeme se na vás těšit!
+      text: \n<KOSTKOVANÁ KOŠILE>Budeme se na vás těšit!
 
 message_27:
       text: \n<PANÍ S COPÁNKY>Mějte se!
@@ -142,7 +142,7 @@ message_105:
       text: Salát...
 
 message_106:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Hej! Už se těšíte na večírek?\! Rozhodně přijďte!
+      text: \n<KOSTKOVANÁ KOŠILE>Hej! Už se těšíte na večírek?\! Rozhodně přijďte!
 
 message_107:
       text: Nedojezené jídlo.

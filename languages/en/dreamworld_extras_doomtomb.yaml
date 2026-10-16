@@ -99,7 +99,7 @@ message_203:
       text: \n<OPRAVDOVÝ KRTEK>Vlasntě už si ani nepamatuju, co to střežíme... ale asi by to mohlo být něco důležitého, dost možná ukryto v tom sejfu v levém rohu!
 
 message_204:
-      text: \n<OPRAVDOVÝ KRTEK>Každopádně bych vás chtěl pokojně poprosit, abyste odešli.\! A protože jsem koneckonců OPRAVDOVÝ KRTEK, tak mi odsud v případě nebezpečí nedělá potíže za 3 vteřiny zmizet!
+      text: \n<OPRAVDOVÝ KRTEK>Každopádně bych vás chtěl pokojně poprosit, abyste odešli.\! A protože jsem koneckonců OPRAVDOVÝ KRTEK...\! Tak mi odsud nedělá potíže za 3 vteřiny zmizet!
 
 message_205:
       text: \n<OPRAVDOVÝ KRTEK>Tohle místo není ničím výjimečné.\! Tak co kdybyste si zbytečně nekomplikovali život a prostě odsud vypadli?
@@ -213,7 +213,7 @@ message_220:
 message_221:
       faceset: MainCharacters_DreamWorld
       faceindex: 1
-      text: \aubDíky... Už jsem skoro byla NA KAŠI!
+      text: \aubDíky... Už jsem skoro byla HOTOVÁ!
 
 #AUBREY joins your party.
 
@@ -256,12 +256,12 @@ message_227:
 message_228:
       faceset: MainCharacters_DreamWorld
       faceindex: 27
-      text: \kelNevím...\! Možná tam, kde končí nedojezená KAŠE...
+      text: \kelNevím...\! Možná tam, kde končí nedojezený TOUST...
 
 message_229:
       faceset: MainCharacters_DreamWorld
       faceindex: 46
-      text:  \herNo, my ale rozhodně ještě NA KAŠI nejsme!\! Pojďme rychle najít cestu odsud!
+      text:  \herNo, my ale rozhodně ještě HOTOVÍ nejsme!\! Pojďme rychle najít cestu odsud!
 
 
 #Walk to the top of the staircase and OPLATEK and TĚSŤINKA will challenge you.
@@ -274,27 +274,27 @@ message_229:
 #When party uses portal, they pop out of the sand in toast graveyard one by one like zombies.  Then they align into party formation.
 
 #-----------
-#After entering OPLATEK and TĚSŤINKA's lair:
+#After entering OPLATEK and TĚSTINKA's lair:
 message_63:
-      text: \n<TĚSŤINKA>Narodili jsme se, abychom neustále pekli chléb od pondělí do neděle, od rána do večera...\! \sinv[1]Čerstvý chléb...\| Čerstvý chléb...\| Čerstvý chléb...\sinv[0] #blíže orig, většinu "chleba" měním na "chléb", protože opakování "čerstvý chléb" zní lépe
+      text: \n<TĚSTINKA>Narodili jsme se, abychom neustále pekli chléb od pondělí do neděle, od rána do večera...\! \sinv[1]Čerstvý chléb...\| Čerstvý chléb...\| Čerstvý chléb...\sinv[0] #blíže orig, většinu "chleba" měním na "chléb", protože opakování "čerstvý chléb" zní lépe
 
 message_64:
-      text: \n<TĚSŤINKA>Je to těžký život... a moc z něho nemáme...<br>ale nic víc neznáme...\!<Br>Měli bychom být prostě vděční, viď, OPLATKU?
+      text: \n<TĚSTINKA>Je to těžký život... a moc z něho nemáme...<br>ale nic víc neznáme...\!<Br>Měli bychom být prostě vděční, viď, OPLATKU?
 
 message_65:
       text: \n<OPLATEK>\sinv[1]Ohooo...\sinv[0]
 
 message_66:
-      text: \n<TĚSŤINKA>Přesně tak, bráško...\! Tohle byl náš život odjakživa...\! začarovaný kruh chleba.
+      text: \n<TĚSTINKA>Přesně tak, bráško...\! Tohle byl náš život odjakživa...\! začarovaný kruh chleba.
 
 message_67:
       text: \n<OPLATEK>\sinv[1]Ohooooooooo...\sinv[0]
 
 message_68:
-      text: \n<TĚSŤINKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
+      text: \n<TĚSTINKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo...\sinv[0]
 
 message_69:
-      text: \n<OPLATEK a TĚSŤINKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
+      text: \n<OPLATEK a TĚSTINKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo...\sinv[0]
 
 message_70:
       faceset: MainCharacters_DreamWorld
@@ -302,42 +302,42 @@ message_70:
       text: \kelTak odsud se k nám táhlo to hrozné hulákání!
 
 message_71:
-      text: \n<TĚSŤINKA>\Com[2]Á!\! Chléb...\! k nám promluvil!\!<br>Já věděla, že nás jednou přijde strašit... #přiroz
+      text: \n<TĚSTINKA>\Com[2]Á!\! Živí hotoví...\! k nám promluvili!\!<br>Já věděla, že nás jednou přijdou strašit... #přiroz
 
 message_72:
-      text: \n<TĚSŤINKA>Rychle, OPLATKU!<br>Musíme je zničit dříve, než zničí oni nás!
+      text: \n<TĚSTINKA>Rychle, OPLATKU!<br>Musíme je zničit dříve, než zničí oni nás!
 
 message_73:
       faceset: MainCharacters_DreamWorld
       faceindex: 31
-      text: \kelPočkejte!... My nejsme žádný-
+      text: \kelPočkejte!... My nejsme žádní-
 
 message_74:
       text: \n<OPLATEK>\sinv[1]Ohooooooooo!\sinv[0]
 
 message_75:
-      text: \n<TĚSŤINKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
+      text: \n<TĚSTINKA>\sinv[1]Ohooo\{oooooooooo\{oooooooo!!\sinv[0]
 
 message_76:
-      text: \n<OPLATEK A TĚSŤINKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
+      text: \n<OPLATEK A TĚSTINKA>\sinv[1]Ohooo\{oooooooooo\{ooooooooo\{oooooooo!!!\sinv[0]
 
-#After fighting OPLATEK and TĚSŤINKA and WINNING:
+#After fighting OPLATEK and TĚSTINKA and WINNING:
 
 message_78:
-      text: \n<TĚSŤINKA>Hff...\! Hff...\! A jsme bez ŠŤÁVY...\!<br>Zdá se...\| že tohle je zatím náš konec, OPLATKU...
+      text: \n<TĚSTINKA>Hff...\! Hff...\! A jsme bez ŠŤÁVY...\!<br>Zdá se...\| že tohle je zatím náš konec, OPLATKU...
 
 message_79:
       text: \n<OPLATEK>\sinv[1]Ohoo...\sinv[0]
 
 #then continue to after win/lose text (message 85+)
 
-#After fighting OPLATEK and TĚSŤINKA and LOSING:
+#After fighting OPLATEK and TĚSTINKA and LOSING:
 #party members are lying on the floor
 
-#OPLATEK and TĚSŤINKA look at each other
+#OPLATEK and TĚSTINKA look at each other
 
 message_80:
-      text: \n<TĚSŤINKA>\{\sinv[1]HURÁ! ZVÍTĚZILI JSME!!!
+      text: \n<TĚSTINKA>\{\sinv[1]HURÁ! ZVÍTĚZILI JSME!!!
 
 message_81:
       text: \n<OPLATEK>\sinv[1]Ohoo!\sinv[0]
@@ -350,11 +350,11 @@ message_82:
       text: Hej...\! Jste všichni v pořádku?\her
 
 message_83:
-      text: \n<TĚSŤINKA>Bráško!\! Chléb už zase vstal z mrtvých!
+      text: \n<TĚSTINKA>Bráško!\! Chléb už zase vstal z mrtvých!
 
-#TĚSŤINKA looks around
+#TĚSTINKA looks around
 message_84:
-      text: \n<TĚSŤINKA>Ale vypadá, že už nám došly ingredience...\! Tohle asi bude náš konec, OPLATKU...
+      text: \n<TĚSTINKA>Ale vypadá, že už nám došly ingredience...\! Tohle asi bude náš konec, OPLATKU...
 
 message_85:
       text: \n<OPLATEK>\sinv[1]Ohooo...\sinv[0]
@@ -367,7 +367,7 @@ message_86:
       text: \kel\Com[2]Počkejte!\! My nejsme žádný chleba...\! Jsme děti jako vy!
 
 message_87:
-      text: \n<TĚSŤINKA>Takže...\! Vy jste nás nepřišli zničit?
+      text: \n<TĚSTINKA>Takže...\! Vy jste nás nepřišli zničit?
 
 message_88:
       faceset: MainCharacters_DreamWorld
@@ -375,7 +375,7 @@ message_88:
       text: \aubJasně, že ne!\! My bychom si nikdy nic nezačínali!
 
 message_89:
-      text: \n<TĚSŤINKA>Slyšíš, OPLATKU?\! Jsme zachráněni!\! <br>A teď se jde zase péct...\!<br>\sinv[1]Čerstvý chléb...\| Čerstvý chléb...\| Čerstvý chléb...\sinv[0]
+      text: \n<TĚSTINKA>Slyšíš, OPLATKU?\! Jsme zachráněni!\! <br>A teď se jde zase péct...\!<br>\sinv[1]Čerstvý chléb...\| Čerstvý chléb...\| Čerstvý chléb...\sinv[0]
 
 message_90:
       text: \n<OPLATEK>\sinv[1]Ohoo...\sinv[0]
@@ -385,10 +385,10 @@ message_90:
 message_91:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: \herTakže...\! Jak dlouho tady pečete chleba?\!<br>Nechtěli byste se nadýchat někdy čerstvého vzOPRAVDOVÝ DUCHu?
+      text: \herTakže...\! Jak dlouho tady pečete chleba?\!<br>Nechtěli byste se nadýchat někdy čerstvého vzduchu?
 
 message_92:
-      text: \n<TĚSŤINKA>\sinv[1]Ohoo...\sinv[0]\! Kéž by to šlo...\!<br>Jsme zde zavřeni již od stvoření vesmíru...
+      text: \n<TĚSTINKA>\sinv[1]Ohoo...\sinv[0]\! Kéž by to šlo...\!<br>Jsme zde zavřeni již od stvoření vesmíru...
 
 message_93:
       faceset: MainCharacters_DreamWorld
@@ -396,49 +396,49 @@ message_93:
       text: \aubTy brďo... To zní jako celkem dlouho.\! Za mě si zasloužíte pauzu!
 
 message_94:
-      text: \n<TĚSŤINKA>\Com[2]Cože? To je přímo nehorázné!\! Jaký by měly naše životy smysl, kdybychom nepekli chléb?
+      text: \n<TĚSTINKA>\Com[2]Cože? To je přímo nehorázné!\! Jaký by měly naše životy smysl, kdybychom nepekli chléb?
 
 message_95:
       text: \n<OPLATEK>\sinv[1]Ohoo?\sinv[0]
 
 message_96:
-      text: \n<TĚSŤINKA>Kdybychom opustili naši pekárnu... co bychom si počli?\! Jiný život, než-li tenhle neznáme...
+      text: \n<TĚSTINKA>Kdybychom opustili naši pekárnu... co bychom si počli?\! Jiný život, než-li tenhle neznáme...
 
 #pause
 
 message_97:
-      text: \n<TĚSŤINKA>Avšak...\! I přesto mě má zvědavost ubíjí...
+      text: \n<TĚSTINKA>Avšak...\! I přesto mě má zvědavost ubíjí...
 
 message_98:
-      text: \n<TĚSŤINKA>Tamten portál nahoře by nás byl schopen dostat pryč.
+      text: \n<TĚSTINKA>Tamten portál nahoře by nás byl schopen dostat pryč.
 
 message_99:
-      text: \n<TĚSŤINKA>Už jsme jej několikrát použili při rituálech, ale sami jsme jím na druhou stranu nikdy neprošli...
+      text: \n<TĚSTINKA>Už jsme jej několikrát použili při rituálech, ale sami jsme jím na druhou stranu nikdy neprošli...
 
 message_100:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
       text: \kelMy ale jo!\! A musím vám říct... Že tam na vás čeká velký, úžasný svět!\! Za mě je na čase, abyste objevili nové možnosti a nový život!
 
-#[TĚSŤINKA and OPLATEK face each other]
+#[TĚSTINKA and OPLATEK face each other]
 
 message_101:
-      text: \n<TĚSŤINKA>Hmm...\! To zní lákavě... #přiroz
+      text: \n<TĚSTINKA>Hmm...\! To zní lákavě... #přiroz
 
 #face each other
 
 message_102:
-      text: \n<TĚSŤINKA>Co ty na to, OPLATKU?
+      text: \n<TĚSTINKA>Co ty na to, OPLATKU?
 
 message_103:
       text: \n<OPLATEK>\sinv[1]Ohoo...
 
 message_104:
-      text: \n<TĚSŤINKA>\}Mhmm...\| Poslouchám...\| Mhmm...\| Ano...\| Ale...\| Á...\| To je ovšem pravda...
+      text: \n<TĚSTINKA>\}Mhmm...\| Poslouchám...\| Mhmm...\| Ano...\| Ale...\| Á...\| To je ovšem pravda...
 
 #face party
 message_105:
-      text: \n<TĚSŤINKA>Tak dobře, rozmysleli jsme si to...\!<br>Chceme pryč...\! Tohle místo stojí za prd!
+      text: \n<TĚSTINKA>Tak dobře, rozmysleli jsme si to...\!<br>Chceme pryč...\! Tohle místo stojí za prd!
 
 message_106:
       text: \n<OPLATEK>\sinv[1]Ohoo!\sinv[0]
@@ -446,38 +446,38 @@ message_106:
 #face each other
 
 message_107:
-      text: \n<TĚSŤINKA>OPLATKU...\! Vždy jsme se báli projít tímto portálem...
+      text: \n<TĚSTINKA>OPLATKU...\! Vždy jsme se báli projít tímto portálem...
 
 message_108:
-      text: \n<TĚSŤINKA>Ale zdá se, že nadešel čas na změnu...
+      text: \n<TĚSTINKA>Ale zdá se, že nadešel čas na změnu...
 
 #walk to portal
 
 message_109:
-      text: \n<TĚSŤINKA>Pojď, bráško!\!<br>\Com[2]Pojďme poprvé ochutnat svobodu!
+      text: \n<TĚSTINKA>Pojď, bráško!\!<br>\Com[2]Pojďme poprvé ochutnat svobodu!
 
 message_110:
-      text: \n<OPLATEK A TĚSŤINKA>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
+      text: \n<OPLATEK A TĚSTINKA>\sinv[1]OHOOOOO\{OOOOOOOO\{OOOOOOOO\{OOOOOOOO!!\sinv[0]
 
-#[OPLATEK & TĚSŤINKA go into the portal]
+#[OPLATEK & TĚSTINKA go into the portal]
 
 message_500:
-      text: Namazal jsi AUBRY \c[3]DŽEMEM ŽIVOTA\c[0].
+      text: Namazal jsi AUBRY \c[3]ŽIVÝM DŽEMEM\c[0].
 
 message_501:
-      text: Namazal jsi KELA \c[3]DŽEMEM ŽIVOTA\c[0].
+      text: Namazal jsi KELA \c[3]ŽIVÝM DŽEMEM\c[0].
 
 message_502:
-      text: Namazal jsi HERA \c[3]DŽEMEM ŽIVOTA\c[0].
+      text: Namazal jsi HERA \c[3]ŽIVÝM DŽEMEM\c[0].
 
 message_503:
-      text: AUBREY...\! NA KAŠI.
+      text: AUBRY...\! HOTOVÁ.
 
 message_504:
-      text: KEL...\! NA KAŠI.
+      text: KEL...\! HOTOVÝ.
 
 message_505:
-      text: HERO...\! NA KAŠI.
+      text: HERO...\! HOTOVÝ.
 
 #GHOST Mole
 

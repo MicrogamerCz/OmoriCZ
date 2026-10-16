@@ -5,7 +5,7 @@
 #Gacha Text
 
 message_0:
-      text: Kapsulový automat.\! Zkusíš za $3.00 štěstí? \$
+      text: Kapsulový automat.\! Zkusíš za 3.00 Kč štěstí? \$
 
 message_1:
       text: \{\{\sinv[1]JACKPOT!!

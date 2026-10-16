@@ -269,7 +269,7 @@
   {
     "id": 17,
     "animationId": 0,
-    "description": "Naprosto k ničemu.<br>\nKoho tohle napadlo vynalést?",
+    "description": "Naprosto k ničemu.<br>\nKoho tohle napadlo vynalézt?",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -301,7 +301,7 @@
   {
     "id": 19,
     "animationId": 0,
-    "description": "HERŮV nejcennější poklad.<br>\nZpůsobuje HEROVI smutek.",
+    "description": "HERŮV nejcennější poklad.<br>\nZpůsobuje HEROVI SMUTEK.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -767,7 +767,7 @@
   {
     "id": 48,
     "animationId": 0,
-    "description": "Ne tak účinná, jako mikrovlnka.<br>\nSVÁČE v souboji obnoví více ŽIVOTŮ.",
+    "description": "Ne tak účinná, jako mikrovlnka.<br>\nMLS v souboji obnoví více ŽIVOTŮ.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -783,7 +783,7 @@
   {
     "id": 49,
     "animationId": 0,
-    "description": "Udělá z jakékoliv pevné hmoty kapalinu.<br>\nSVÁČE v souboji obnoví více ŠŤÁVY.",
+    "description": "Udělá z jakékoliv pevné hmoty kapalinu.<br>\nMLS v souboji obnoví více ŠŤÁVY.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -831,7 +831,7 @@
   {
     "id": 52,
     "animationId": 0,
-    "description": "HEROVA nejlepší zbraň. SVÁČE v\nsouboji obnoví více ŽIVOTŮ a ŠŤÁVY.",
+    "description": "HEROVA nejlepší zbraň. MLS v\nsouboji obnoví více ŽIVOTŮ a ŠŤÁVY.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },

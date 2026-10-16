@@ -79,12 +79,12 @@ message_21:
 #[Screen turns black.]
 
 message_45:
-      text: Déšť posílil a zcela zatopil \c[11]DEŠTNÉ MĚSTEČKO\c[0].\!<br>O \c[11]DEŠTNÉM MĚSTEČKU\c[0] a jeho obyvatelích již nikdy nepadla zmínka.
+      text: Déšť posílil a zcela zatopil \c[11]DEŠTIVÉ MĚSTEČKO\c[0].\!<br>O \c[11]DEŠTIVÉM MĚSTEČKU\c[0] a jeho obyvatelích již nikdy nepadla zmínka.
 
 #[Party teleports to Oasis.]
 
 message_46:
-      text: Stal ses hrdinou \c[11]DEŠTNÉHO MĚSTEČKA\c[0]!
+      text: Stal ses hrdinou \c[11]DEŠTIVÉHO MĚSTEČKA\c[0]!
 
 #EXAMINE VALVE AS anyone else
 

@@ -9,18 +9,18 @@ message_0:
       text: Pach tohoto muže nelze popsat slovy.
 
 message_1:
-      text: \n<SMRAĎOCH>\Com[2]Co tak koukáš, bráško?\!<br>\Com[2]Mám něco na ksichtu, nebo co?!
+      text: \n<SMRAĎOCH>\Com[2]Co tak koukáš, cype?\!<br>\Com[2]Mám něco na ksichtu, nebo co?!
 
 #Default
 
 message_2:
-      text: \n<SMRAĎOCH>Hej, bráško... Nenašel by se pro mě nějaký ten haléř?\!<br>Fakt by mi to zlepšilo den.
+      text: \n<SMRAĎOCH>Hej, cype... Nenašel by se pro mě nějaký ten haléř?\!<br>Fakt by mi to zlepšilo den.
 
 
 #After reaching donation goal
 
 message_3:
-      text: \n<SMRAĎOCH>...\! Hej, bráško... Díky za pomoc...<br>Seš fakt kámoš...
+      text: \n<SMRAĎOCH>...\! Hej, cype... Díky za pomoc...<br>Seš fakt kámoš...
 
 message_4:
       text: \n<SMRAĎOCH>Takže...\! Měl bych pro tebe něco výjimečnýho...
@@ -45,7 +45,7 @@ message_9:
       text: \n<SMRAĎOCH>Děkuji převelice!
 
 message_20:
-      text: Dal jsi SMRAĎOCHOVI $\v[602],00.
+      text: SMRAĎOCHOVI jsi dal již $\v[602],00.
 
 message_21:
       text: \n<SMRAĎOCH>Jak se ti líbí ty tvoje nové \c[13]ZLATÉ HODINKY\c[0]?!\! Říkal jsem, že to zlato je opravdový!

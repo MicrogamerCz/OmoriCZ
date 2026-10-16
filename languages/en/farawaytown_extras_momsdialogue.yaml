@@ -27,7 +27,7 @@ message_6:
       text: \"KEL s tebou chce mluvit už od té doby, co si všiml, že je náš dům na prodej.\! Volá nám každý týden už několikátý měsíc v řadě!\"\n<MAMČIN VZKAZ>
 
 message_7:
-      text: \"Připadá mi trochu osamělý...\! Možná bys k němu mohl na návštěvu.\!<br>Dobře, to je všechno!\! Mám tě ráda!\! Měj se, broučku!\"\! \quake[1]\}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
+      text: \"Připadá mi trochu osamělý...\! Možná bys k němu mohl na návštěvu.\! Dobře, to je všechno!\! Mám tě ráda!\! Měj se, broučku!\"\! \quake[1]\}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
 
 #SFX: Stomach Gurgle
 message_8:
@@ -88,7 +88,7 @@ message_22:
 #Bathroom mirror
 
 message_23:
-      text: \"Nezapomeň si každý den vyčistit zuby!\"\n<MAMČIN VZKAZ>
+      text: \"Nezapomeň si každý den mýt zuby!\"\n<MAMČIN VZKAZ>
 
 #Living Room
 
@@ -132,7 +132,7 @@ message_58:
       text: \"Mimochodem, mohl bys z té skříně, kterou máme dole, vzít to, co bys chtěl s sebou?\! Zbytek asi vyhodíme.\"\n<MAMČIN VZKAZ> #srozumitelnější
 
 message_59:
-      text: \"Pozítří pro tebe přijedu.\!<br>To je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ> #dny
+      text: \"Pozítří pro tebe přijedu.\! To je zatím všechno!\! Mám tě ráda!\! Měj se, broučku!\"\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ> #dny
 
 #Day 3:
 
@@ -147,4 +147,4 @@ message_62:
 
 #Day 4:
 message_66:
-      text: \"Ahoj SUNNY, tady MAMKA.\! Už čekám venku, takže až budeš připravený, jedeme.\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ>
+      text: \"Ahoj SUNNY, tady MAMKA.\! Už čekám venku, takže až se na to budeš cítit, jedeme.\! Mám tě ráda!\! Měj se, broučku!\"\!\quake[1] \}Bzzz...\quake[0]\n<MAMČIN VZKAZ>

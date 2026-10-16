@@ -54,7 +54,7 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
       if(tname === $gameActors.actor(1).name()) {return "OMORI nemůže mít větší STRACH!\r\n"}
       return target.name() + " nemůže mít větší STRACH!\r\n";
     }
-    let finalString = `${tname} can't get ${em}`;
+    let finalString = `${tname} nemůže být ${em}`;
     if(finalString.length >= 40) {
       let voinIndex = 0;
       for(let i = 40; i >= 0; i--) {
@@ -78,14 +78,14 @@ Window_BattleLog.prototype.makeCustomActionText = function(subject, target, item
 if (hpDam != 0) {
   var hpDamageText = target.name() + ' ztrácí ' + hpDam + ' ŽIVOTŮ!';
   if (strongHit) {
-    hpDamageText = '...Byl to útok za kroku!\r\n' + hpDamageText;
+    hpDamageText = '...Pecka jak ze švestky!\r\n' + hpDamageText;
   } else if (weakHit) {
-    hpDamageText = '...Ale bylo to marné.\r\n' + hpDamageText;
+    hpDamageText = '...Ale mohla být i větší.\r\n' + hpDamageText;
   }
 } else if (result.isHit() === true) {
-  var hpDamageText = user.name() + " útočí, avšak bez výsledku.";
+  var hpDamageText = user.name() + " útočí, avšak nic nezmůže.";
 } else {
-  var hpDamageText = user.name() + " útočí, avšak poškození se !";
+  var hpDamageText = user.name() + " útočí, avšak poškození se vytratilo!<br>";
 }
 
 if (critical) {
@@ -224,7 +224,7 @@ if (mpDam > 0) {
     break;
 
   case 'TRUTH': // PAINFUL TRUTH
-    text = user.name() + ' něco zašeptá OMORIMU';
+    text = user.name() + ' něco šeptá OMORIMU';
     text += target.name() + '.\r\n';
     text += hpDamageText + "\r\n";
     if(!target._noEffectMessage) {
@@ -367,8 +367,8 @@ if (mpDam > 0) {
     break;
 
   case 'LOOK OMORI 2': // Look at Omori 2
-    text = 'OMORI si pořád ještě nevšiml ' + user.name() + ', a tak\r\n';
-    text += user.name() + ' útočí silněji!\r\n';
+    text = 'OMORI si pořád ještě nevšiml ' + user.name() + ',\r\n';
+    text += 'a tak ' + user.name() + ' útočí silněji!\r\n';
     text += hpDamageText;
     break;
 
@@ -528,7 +528,7 @@ if (mpDam > 0) {
 
     case 'DODGE TAUNT': // DODGE TAUNT
       text = user.name() + ' se vysmívá protivníkům!\r\n';
-      text += "Všem protivníkům na tento tah klesl POČET ÚDERŮ!"
+      text += "Všem protivníkům na tento <br> tah klesl POČET ÚDERŮ!";
       break;
 
     case 'PASS OMORI':  // KEL PASS OMORI
@@ -601,7 +601,7 @@ if (mpDam > 0) {
       else {text += parseNoEffectEmotion(target.name(), "ŠŤASTNĚJŠÍ!")}
       break;
     case 'TENDERIZE': // TENDERIZE
-      text = user.name() + ' silně naklepává\r\n';
+      text = user.name() + ' silně masážuje\r\n';
       text += target.name() + '!\r\n';
       if(!target._noStateMessage) {text += target.name() + '\ ztrácí na OBRANĚ!\r\n';}
       else {text += parseNoStateChange(target.name(), "OBRANA", "nižší!\r\n")}
@@ -701,7 +701,7 @@ if (mpDam > 0) {
 
     //PLAYER//
     case 'CALM DOWN':  // PLAYER CALM DOWN
-      if(item.id !== 1445) {text = user.name() + ' se zklidnil.\r\n';} // Process if Calm Down it's not broken;
+      if(item.id !== 1445) {text = user.name() + ' se uklidnil.\r\n';} // Process if Calm Down it's not broken;
       if(Math.abs(hpDam) > 0) {text += user.name() + ' získává ' + Math.abs(hpDam) + ' ŽIVOTŮ!';}
       break;
 
@@ -710,7 +710,7 @@ if (mpDam > 0) {
       break;
 
     case 'PERSIST':  // PLAYER PERSIST
-      text = user.name() + ' se to pokouší VYDRŽET.';
+      text = user.name() + ' se to snaží VYDRŽET.';
       break;
 
     case 'OVERCOME':  // PLAYER OVERCOME
@@ -780,7 +780,7 @@ if (mpDam > 0) {
       break;
 
     case 'SPROUT NOTHING':  // SPROUT NOTHING
-      text = user.name() + ' se koulí.';
+      text = user.name() + ' se kutálí.';
       break;
 
     case 'RUN AROUND':  // RUN AROUND
@@ -853,7 +853,7 @@ if (mpDam > 0) {
 
     //WORMHOLE//
     case 'WORM ATTACK':  // WORM ATTACK
-      text = user.name() + ' dává facku ' + target.name() + '!\r\n';
+      text = user.name() + ' fackuje ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
@@ -1037,7 +1037,7 @@ if (mpDam > 0) {
 
     //STRAWBERRY SHORT SNAKE//
     case 'SSS ATTACK': //STRAWBERRY SHORT SNAKE ATTACK
-      text = user.name() + ' se tesákama zabořuje do ' + target.name() + '.\r\n';
+      text = user.name() + ' se tesáky zabořuje do ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
@@ -1249,8 +1249,8 @@ if (mpDam > 0) {
 
     case 'ROAR': //ROAR
       text = user.name() + ' děsivě řve!\r\n';
-      if(!user._noEffectMessage) {text += user.name() + ' feels ANGRY!';}
-      else {text += parseNoEffectEmotion(user.name(), "ANGRIER!")}
+      if(!user._noEffectMessage) {text += user.name() + ' se VZTEKÁ!';}
+      else {text += parseNoEffectEmotion(user.name(), "VZTEKLEJŠÍ!")}
       break;
 
     //POTTED PALM//
@@ -1295,7 +1295,7 @@ if (mpDam > 0) {
       break;
 
     case 'SPROUT NOTHING 2':  // SPROUT MOLE? NOTHING
-      text = user.name() + ' se koulí?';
+      text = user.name() + ' se kutálí?';
       break;
 
     case 'SPROUT RUN AROUND 2':  // SPROUT MOLE? RUN AROUND
@@ -1313,7 +1313,7 @@ if (mpDam > 0) {
       break;
 
     case 'HAROLD PROTECT': // HAROLD PROTECT
-      text = user.name() + ' se brání.';
+      text = user.name() + ' se kryje.';
       break;
 
     case 'HAROLD WINK': //HAROLD WINK
@@ -1349,7 +1349,7 @@ if (mpDam > 0) {
       break;
 
     case 'THERESE NOTHING': //THERESE NOTHING
-      text = user.name() + 'OVI padá šíp na zem.';
+      text = user.name() + 'E padá šíp na zem.';
       break;
 
     case 'THERESE SNIPE': //THERESE SNIPE
@@ -1570,7 +1570,7 @@ if (mpDam > 0) {
       break;
 
     case 'WATERMELON JACKS': //WATERMELON MIMIC JACKS
-      text = user.name() + ' po všech hází ŠROUBKY!\r\n';
+      text = user.name() + ' po všech hází KOSTIČKY!\r\n';
       text += hpDamageText;
       break;
 
@@ -1646,7 +1646,7 @@ if (mpDam > 0) {
       break;
 
     case 'BOT NOTHING': //MECHA WORM NOTHING
-      text = user.name() + ' hlastiě kouše!';
+      text = user.name() + ' hlasitě překusuje!';
       break;
 
     case 'BOT LASER': //MECHA WORM CRUNCH
@@ -1662,7 +1662,7 @@ if (mpDam > 0) {
 
     //SNOT BUBBLE//
     case 'SNOT INFLATE': //SNOT INFLATE
-      text = user.name() + ' se nafoukává!\r\n';
+      text = user.name() + ' se nafukuje!\r\n';
       text += target.name() + ' nabírá na ÚTOKU!';
       break;
 
@@ -1847,7 +1847,7 @@ if (mpDam > 0) {
 
     case 'LILI SAD EYES': //LILI SAD EYES
       text = target.name() + ' si všímá smutku v ' + user.name() + ' očích.\r\n';
-      text += target.name() + ' již nechce útočit na ' + user.name(); + '.\r\n'
+      text += target.name() + ' již nechce útočit na ' + user.name() + '.\r\n';
       break;
 
     //HOUSEFLY//
@@ -1862,7 +1862,7 @@ if (mpDam > 0) {
       break;
 
     case 'HOUSEFLY ANNOY': //HOUSEFLY ANNOY
-      text = user.name() + ' bzučí ' + target.name() + ' do ucha!\r\n';
+      text = user.name() + ' bzučí ' + target.name() + ' u ucha!\r\n';
       if(!target._noEffectMessage) {text += target.name() + ' se VZTEKÁ!';}
       else {text += parseNoEffectEmotion(target.name(), "VZTEKLEJŠÍ!")}
       break;
@@ -1941,7 +1941,7 @@ if (mpDam > 0) {
 
     //SPROUT BUNNY//
     case 'SPROUT BUNNY ATTACK': //SPROUT BUNNY ATTACK
-      text = user.name() + ' dává facku ' + target.name() + '.\r\n';
+      text = user.name() + ' fackuje ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
@@ -2001,7 +2001,7 @@ if (mpDam > 0) {
 
     //KITE KID//
     case 'KITE KID ATTACK':  // KITE KID ATTACK
-      text = user.name() + ' hází ŠROUBKY po ' + target.name() + '!\r\n';
+      text = user.name() + ' hází KOSTIČKY po ' + target.name() + '!\r\n';
       text += hpDamageText;
       break;
 
@@ -2109,7 +2109,7 @@ if (mpDam > 0) {
       break;
 
     case 'DOWNLOAD ATTACK':  // DOWNLOAD ATTACK
-      text = user.name() + ' padá a hoří!';
+      text = user.name() + ' padá k zemi!';
       break;
 
     //SPACE EX-BOYFRIEND//
@@ -2265,8 +2265,8 @@ if (mpDam > 0) {
       break;
 
     case 'BD CHEER UP': //BISCUIT AND DOUGHIE CHEER UP
-      text = user.name() + ' se ze všech sil snaží\r\n';
-      text += 'nebýt SMUTNÁ.';
+      text = user.name() + ' se ze všech sil\r\n';
+      text += 'snaží nebýt SMUTNÁ.';
       break;
 
     //KING CRAWLER//
@@ -2412,7 +2412,7 @@ if (mpDam > 0) {
 
     //SWEETHEART//
     case 'SH ATTACK': //SWEET HEART ATTACK
-      text = user.name() + ' dává facku ' + target.name() + '.\r\n';
+      text = user.name() + ' fackuje ' + target.name() + '.\r\n';
       text += hpDamageText;
       break;
 
@@ -2427,7 +2427,7 @@ if (mpDam > 0) {
 
     case 'SH SNACK': //SWEET HEART SNACK
       text = user.name() + ' posílá sluhu pro\r\n';
-      text += 'SVÁČU.\r\n';
+      text += 'MLS.\r\n';
       text += hpDamageText;
       break;
 
@@ -2493,8 +2493,8 @@ if (mpDam > 0) {
       case 'EXPANDED EXPAND FURTHER': //PLUTO EXPANDED EXPAND FURTHER
         text = user.name() + ' se nadále rozšiřuje!\r\n';
         if(!target._noStateMessage) {
-          text += target.name() + ' ztrácí na ÚTOKU!\r\n';
-          text += target.name() + ' ztrácí na OBRANĚ!\r\n';
+          text += target.name() + ' nabírá na ÚTOKU!\r\n';
+          text += target.name() + ' nabírá na OBRANĚ!\r\n';
           text += target.name() + ' ztrácí RYCHLOST.';
         }
         else {
@@ -2529,7 +2529,7 @@ if (mpDam > 0) {
         break;
 
       case 'TENTACLE GRAB': //ABBI TENTACLE GRAB
-        text = user.name() + ' se omotává kolem ' + target.name() + 'HO!\r\n';
+        text = user.name() + ' se omotává kolem ' + target.name() + '!\r\n';
         if(result.isHit()) {
           if(target.name() !== "OMORI" && !target._noEffectMessage) {text += target.name() + " má STRACH.\r\n";}
           else {text += parseNoEffectEmotion(target.name(), "STRACH")}
@@ -2547,7 +2547,7 @@ if (mpDam > 0) {
 
       //ABBI//
       case 'ABBI ATTACK': //ABBI ATTACK
-        text = user.name() + ' útočí na ' + target.name() + 'HO!\r\n';
+        text = user.name() + ' útočí na ' + target.name() + '!\r\n';
         text += hpDamageText;
         break;
 
@@ -2594,7 +2594,7 @@ if (mpDam > 0) {
 
       case 'ROBO HEART SNACK': //ROBO HEART SNACK
         text = user.name() + ' otevírá pusu.\r\n';
-        text += 'Je v ní výživná SVÁČA!\r\n';
+        text += 'Je v ní super MLS!\r\n';
         text += hpDamageText;
         break;
 
@@ -2635,7 +2635,7 @@ if (mpDam > 0) {
 
         //PERFECT HEART//
         case 'PERFECT STEAL HEART': //PERFECT HEART STEAL HEART
-          text = user.name() + ' bere ' + target.name() + '\'s\r\n';
+          text = user.name() + ' bere ' + target.name() + '\r\n';
           text += 'ŽIVOTY.\r\n';
           text += hpDamageText + "\r\n";
           if(user.result().hpDamage < 0) {text += `${user.name()} získává ${Math.abs(user.result().hpDamage)} ŽIVOTŮ!\r\n`}
@@ -2692,7 +2692,7 @@ if (mpDam > 0) {
 
         //SLIME GIRLS//
         case 'SLIME GIRLS COMBO ATTACK': //SLIME GIRLS COMBO ATTACK
-          text = 'The ' + user.name() + ' útočí všechny naráz!\r\n';
+          text = 'The ' + user.name() + ' útočí naráz!\r\n';
           text += hpDamageText;
           break;
 
@@ -2721,8 +2721,8 @@ if (mpDam > 0) {
           break;
 
         case 'SLIME GIRLS DYNAMITE': //SLIME GIRLS DYNAMITE
-          //text = 'MEDUSA threw a bottle...\r\n';
-          //text += 'And it explodes!\r\n';
+          //text = 'MEDUSA po vás hodila láhev...\r\n';
+          //text += 'Která explodovala!\r\n';
           text += hpDamageText;
           break;
 
@@ -2818,7 +2818,7 @@ if (mpDam > 0) {
         break;
 
       case 'BUGS SPIDER WEBS': //FEAR OF BUGS SPIDER WEBS
-        text = user.name() + ' zamotal ' + target.name() + 'HO\r\n';
+        text = user.name() + ' zamotalo ' + target.name() + 'HO\r\n';
         text += 'do lepivé pavučiny.\r\n';
         text += target.name() + ' ztrácí RYCHLOST!\r\n';
         break;
@@ -2835,8 +2835,8 @@ if (mpDam > 0) {
 
       //FEAR OF DROWNING//
       case 'DROWNING ATTACK': //FEAR OF DROWNING ATTACK
-        text = 'Voda ' + target.name() + 'HO hází všemi\r\n';
-        text += 'různými směry.\r\n';
+        text = 'Voda ' + target.name() + 'HO hází všude\r\n';
+        text += 'kolem.\r\n';
         text += hpDamageText;
         break;
 
@@ -2845,8 +2845,8 @@ if (mpDam > 0) {
         break;
 
       case 'DROWNING DRAG DOWN': //FEAR OF DROWNING DRAG DOWN
-        // text = user.name() + ' grabs\r\n';
-        // text += target.name() + '\s leg and drags him down!\r\n';
+        // text = user.name() + ' chytá\r\n';
+        // text += target.name() +HO nohu a táhne ho ke dnu!\r\n';
         text = hpDamageText;
         break;
 
@@ -2861,8 +2861,8 @@ if (mpDam > 0) {
         break;
 
       case 'O SOMETHING BLACK SPACE': //OMORI SOMETHING BLACK SPACE
-        //text = user.name() + ' drags ' + target.name() + ' into\r\n';
-        //text += 'the shadows.';
+        //text = user.name() + ' tahá ' + target.name() + 'HO do\r\n';
+        //text += 'tmy.';
         text = hpDamageText;
         break;
 
@@ -3430,11 +3430,11 @@ Window_BattleLog.prototype.displayHpDamage = function(target) {
   let result = target.result();
   if(result.isHit() && result.hpDamage > 0) {
     if(!!result.elementStrong) {
-      this.push("addText","...It was a moving attack!");
+      this.push("addText","...Pecka jak ze švestky!");
       this.push("waitForNewLine");
     }
     else if(!!result.elementWeak) {
-      this.push("addText", "...It was a dull attack!");
+      this.push("addText", "...Ale mohla být i větší!");
       this.push("waitForNewLine")
     }
   }

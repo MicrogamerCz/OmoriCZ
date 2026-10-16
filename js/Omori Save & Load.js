@@ -410,7 +410,7 @@ Scene_OmoriFile.prototype.onSelectInputOk = function() {
     // If File Exists
     if (StorageManager.exists(saveFileid)) {
       // Show Prompt Window
-      this.showPromptWindow('Načíst pozici?');
+      this.showPromptWindow('Nahrát pozici?');
       // Set Can select Flag to false
       this._canSelect = false;
     } else {
@@ -689,7 +689,7 @@ Window_OmoriFileCommand.prototype.setupFile = function (save, load) {
 //=============================================================================
 Window_OmoriFileCommand.prototype.makeCommandList = function () {
   this.addCommand("ULOŽIT", 'save', this._canSave);
-  this.addCommand("NAČÍST", 'load', this._canLoad);
+  this.addCommand("NAHRÁT", 'load', this._canLoad);
 };
 
 

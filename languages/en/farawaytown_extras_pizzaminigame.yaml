@@ -30,7 +30,7 @@ message_2:
 message_40:
       faceset: MainCharacters_Faraway
       faceindex: 24
-      text: \kelTak co, SUNNY! Jak to šlo?\! Zatímco jsi pracoval, já seděl na lavičce a bavil se s kolemjdoucími!\!<br>To byla ale sranda, kámo...\! Každopádně... jsem připraven vyrazit, jen co řekneš!
+      text: \kelTak co, SUNNY! Jak to šlo?\! Zatímco jsi pracoval, já seděl na lavičce a bavil se s kolemjdoucími!\!<br>To byla ale sranda, kámo...\! Každopádně...\! Jsem připraven vyrazit, jen co řekneš!
 
 # Door Knock Greeting
 message_3:
@@ -136,7 +136,7 @@ message_18:
 #Job Description
 
 message_50:
-      text: \n<PIZZAŘ>Takže... chceš slyšet nejdřív dobrou nebo špatnou zprávy?
+      text: \n<PIZZAŘ>Takže... chceš slyšet nejdřív dobrou nebo špatnou zprávu?
 #GOOD NEWS / #BAD NEWS
 
 message_51:
@@ -146,7 +146,7 @@ message_60:
       text: \n<PIZZAŘ>Ta špatná...\! že nám zase onemocnil roznašeč...
 
 message_52:
-      text: \n<PIZZAŘ>A protože si je objednávali věrní zákazníci, nemám nikde sepsané jejich adresy, ty má ten nemocný tak v hlavě.
+      text: \n<PIZZAŘ>A protože si je objednávali věrní zákazníci, nemám nikde sepsané jejich adresy, ty má leda ten nemocný v hlavě.
 
 message_61:
       text: \n<PIZZAŘ>Nevybavím si je, ale vzpomenu si, kde bydlí!
@@ -160,12 +160,12 @@ message_53:
 #wait: 20
 
 message_54:
-      text: \n<PIZZAŘ>No tak, nestyď se!\! Uniforma ti určitě bude slušet!
+      text: \n<PIZZAŘ>No tak, nestyď se!\! Uniforma ti sluší!
 
 #wait: 20 frames
 
 message_55:
-      text: \n<PIZZAŘ>Každopádně, tady máš ty tři \c[3]PIZZY\c[0], které bys měl roznést.\! Až budeš mít hotovo, dojeď sem.\! Držím ti palce!
+      text: \n<PIZZAŘ>Každopádně, tady máš ty tři \c[3]PIZZY\c[0], které bys měl roznést.\! Až budeš mít hotovo, dojdi zpátky sem.\! Držím ti palce!
 
 #wait: 20 frames
 #*Screen returns. You are in the pizza mini-game now.#

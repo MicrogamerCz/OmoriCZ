@@ -164,10 +164,10 @@ message_120:
 #Location: JOY'S HOUSE
 
 message_130:
-      text: \n<MALÁ HOLKA>Táta je na mě dneska nějaký moc hodný, hehe...
+      text: \n<HOLČIČKA>Táta je na mě dneska nějaký moc hodný, hehe...
 
 message_131:
-      text: \n<MALÁ HOLKA>Říkál, že mě ještě s babičkou vezmě na pláž!\! Už se nemůžu dočkat!
+      text: \n<HOLČIČKA>Říkál, že mě ještě s babičkou vezmě na pláž!\! Už se nemůžu dočkat!
 
 #==============JOYS DAD===========================================
 #Location: JOY'S HOUSE
@@ -185,7 +185,7 @@ message_150:
       text: \n<PANÍ S COPÁNKY>Vítejte na naši kolaudaci! Chovejte se jako doma... ale jen dnes večer!... Hehe...
 
 message_151:
-      text: \n<CHLÁPEK V KOSTKOVANÉ KOŠILI>Pojezte a odpočiňte si! Můžete tady zůstat jak dlouho chcete... ale s mírou!
+      text: \n<KOSTKOVANÁ KOŠILE>Pojezte a odpočiňte si! Můžete tady zůstat jak dlouho chcete... ale s mírou!
 
 #==============KEL'S DAD===========================================
 #Location: Farawy Park

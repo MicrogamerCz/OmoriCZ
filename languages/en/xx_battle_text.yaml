@@ -137,7 +137,7 @@ message_25:
 
 message_26:
    text: >
-    \>VESMÍRNÝ EX-MILENEC: \<<br>Já...\! Já vás nenechám mě skolit!
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Já...\! Já se nenechám skolit!
 
 # Before ‘Bullet Hell' (25%):
 
@@ -807,13 +807,13 @@ message_149:
    text: >
     \sinv[1]\{\{JAHŮ! UAHÁÁÁ!!\}\}
 
-# ============Enemy:  OPLATEK & TĚSŤĚNKA
+# ============Enemy:  OPLATEK & TĚSTĚNKA
 
 # Getting Weaker (75%):
 
 message_150:
    text: >
-    \>TĚSŤĚNKA: \<Je nám souzeno tady péct na věky větů...\! že ano, OPLATKU?
+    \>TĚSTĚNKA: \<Je nám souzeno tady péct na věky větů...\! že ano, OPLATKU?
 
 message_151:
    text: >
@@ -823,7 +823,7 @@ message_151:
 
 message_152:
    text: >
-    \>TĚSŤĚNKA: \<Dochází nám zásoby! Co teď, OPLATKU?!
+    \>TĚSTĚNKA: \<Dochází nám zásoby! Co teď, OPLATKU?!
 
 message_153:
    text: >
@@ -833,7 +833,7 @@ message_153:
 
 message_154:
    text: >
-    \>TĚSŤĚNKA: \<Dochází nám všecho!\! Už nemáme skoro nic...
+    \>TĚSTĚNKA: \<Dochází nám všecho!\! Už nemáme skoro nic...
 
 message_155:
    text: >
@@ -843,7 +843,7 @@ message_155:
 
 message_156:
    text: >
-    \>TĚSŤĚNKA: \<Došly nám zásoby...\! Co si počneme bez ingrediencí?
+    \>TĚSTĚNKA: \<Došly nám zásoby...\! Co si počneme bez ingrediencí?
 
 message_157:
    text: >
@@ -853,7 +853,7 @@ message_157:
 
 message_158:
    text: >
-    \>TĚSŤĚNKA: \<OPLATKU! Stal se zázrak!\!<br>Bohové nás zachránili!
+    \>TĚSTĚNKA: \<OPLATKU! Stal se zázrak!\!<br>Bohové nás zachránili!
 
 message_159:
    text: >
@@ -861,7 +861,7 @@ message_159:
 
 message_160:
    text: >
-    \>TĚSŤĚNKA: \<Tak zpátky k pečení... \sinv[1]čerstvý chléb...\! čerstvý chléb...\! čerstvý chléb...\sinv[0]
+    \>TĚSTĚNKA: \<Tak zpátky k pečení... \sinv[1]čerstvý chléb...\! čerstvý chléb...\! čerstvý chléb...\sinv[0]
 
 message_161:
    text: >
@@ -1033,7 +1033,7 @@ message_191:
 
 message_192:
    text: >
-    \>STŘEMHLAV: \<Hff...\! Uznávám...\! Že jste na mě udělali celkem dojem...\! ale pořád mi nesaháte ani po paty!
+    \>STŘEMHLAV: \<Hff...\! Uznávám...\! Že jste na mě udělali celkem dojem...\! ale pořád...<br>mi nesaháte ani po paty!
 
 # Getting Weaker (10%):
 
@@ -1053,11 +1053,11 @@ message_195:
 
 message_196:
    text: >
-    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Hff...\! Fíííí...
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Hff...\! Fúúúú...
 
 message_197:
    text: >
-    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Fíííí...
+    \>STŘEMHLAV: \<\quake[1]Hff...\! Hff...\! Fúúúú...
 
 message_198:
    text: >
@@ -1155,7 +1155,7 @@ message_213:
 
 message_214:
    text: >
-    \>AUBRY: \<<br>Zapomeňte na to...\!<br>Na vás dva už nemám čas.
+    \>AUBRY: \<<br>Kašlu na to...\!<br>Na vás dva už nemám čas.
 
 # After Victory:
 
@@ -1363,17 +1363,17 @@ message_264:
 
 message_265:
    text: >
-    \>VESMÍRNÝ EX-MILENEC: \<<br>Můj hněv nelze zkrotit...<br>Mě nezklidníte!
+    \>VESMÍRNÝ EX-MILENEC: \<<br>Můj hněv nelze zastavit...<br>Mě nezkrotíte!
 
 # ZLATÍČKO Return to HAPPY
 message_266:
    text: >
     \>ZLATÍČKO: \<Tohle nemá žádnou cenu, vy ubožáci!\! Mou pozitivní náladu nezhatíte!
 
-# OPLATEK and TĚSŤĚNKA Return to SAD
+# OPLATEK and TĚSTĚNKA Return to SAD
 message_267:
    text: >
-    \>TĚSŤĚNKA: \<\sinv[1]<br>Čerstvý chléb...\! Čerstvý chléb...\! Každý den jen čerstvý chléb...
+    \>TĚSTĚNKA: \<\sinv[1]<br>Čerstvý chléb...\! Čerstvý chléb...\! Každý den jen čerstvý chléb...
 
 message_268:
    text: >
@@ -1398,7 +1398,7 @@ message_271:
 # BENDA Swarm Intro
 message_272:
    text: >
-    \>BENDA: \<\sinv[1]<br>Hostina se chystá! Hostina se chystá!Vaše smrt je jistá!
+    \>BENDA: \<\sinv[1]<br>Hostina se chystá! Hostina se chystá!\| Vaše smrt je jistá!
 
 # Before transforming into a lump
 message_273:
@@ -1433,7 +1433,7 @@ message_278:
 # Before Swallow (Generic 2)
 message_279:
    text: >
-    \>BENDA: \<\sinv[1]Už dál nekřičte, vždyť nevědomost je krásná.\| Kolikrát si tímhle ještě projdem?
+    \>BENDA: \<\sinv[1]Už dál nekřičte, vždyť nevědomost je krásná.\| Kolikrát ještě, než tu bude řádná masna?
 
 #Before BENDA Abort
 message_323:
@@ -1614,7 +1614,7 @@ message_314:
 
 message_315:
    text: >
-    \>HERO: \<Se vstřebaným poškozením nám taky stoupá ENERGIE!\! Berte to jako příležitost se vrátit zpátky do hry!
+    \>HERO: \<Se vstřebaným poškozením nám taky stoupá ENERGIE!\! Berte to jako příležitost\! se vrátit zpátky do hry!
 
 message_316:
    text: >
@@ -1655,17 +1655,17 @@ message_341:
 
 
 message_344:
-   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ ŽIVÝ DŽEM.
 
 message_345:
-   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ ŽIVÝ DŽEM.
 
 message_346:
-   text: DŽEMÁK čeká, kdy použiješ DŽEM ŽIVOTA.
+   text: DŽEMÁK čeká, kdy použiješ ŽIVÝ DŽEM.
 
 message_347:
    text: >
-    \>DŽEMÁK: \<Použijte \c[3]DŽEM ŽIVOTA\c[0]!\!<br>Vážně zabírá!
+    \>DŽEMÁK: \<Použijte \c[3]ŽIVÝ DŽEM\c[0]!\!<br>Opravdu zabírá!
 
 
 # =========================================================================================
@@ -1722,11 +1722,11 @@ message_360:
 
 message_362:
    text: >
-    20! Parta \v[1003] má navrch!
+    20! \v[1003] a spol. mají navrch!
 
 message_363:
    text: >
-    1! OMORIHO parta má navrch!
+    1! OMORI a spol. mají navrch!
 
 message_364:
    text: >
@@ -1865,7 +1865,7 @@ message_446:
 
 message_447:
    text: >
-    \>ŠÉF: \<Hele, to trochu bolelo!\! Ts!\! Tohle mě už nebaví...
+    \>ŠÉF: \<Hele, to trochu bolelo!\! Ts!\! Už toho mám dost...
 
 message_448:
    text: >
@@ -1909,7 +1909,7 @@ message_455:
 # ============MUSSEL KEL FLEX
 message_456:
    text: >
-    SVALKA vidí KELA \c[1]ZATÍNAT\c[0] svaly a cítí se zastíněně...
+    SVALKA vidí KELA \c[1]ZATÍNAT SVALY\c[0] a cítí se zastíněně...
 
 # ============BENDA POISON
 message_457:
@@ -2030,7 +2030,7 @@ message_520:
 
 message_521:
    text: >
-    \v[1001] se otáčí doleva...
+    Zbývá \v[1001] tahů...
 
 message_522:
    text: >
@@ -2365,7 +2365,7 @@ message_803:
 
 message_804:
    text: >
-    \>BASIL: \<Možná by jednou...\| zase všechno mohlo být, jako kdysi.
+    \>BASIL: \<Možná by jednou...\| by možná všechno mohlo být zase takové, jako tehdy.
 
 message_805:
    text: >
@@ -2561,10 +2561,10 @@ message_944:
         \>???: \<\fn<OMORI_GAME>SUNNY...\. Promiň...
 
 #=======
-#ŠNEČEK
+#ŠNEČÍK
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 1
+# ** IN BATTLE: ŠNEČÍK 1
 #----------------------------
 
 message_950:
@@ -2584,7 +2584,7 @@ message_953:
      \>ŠNEČÍK: Dobře, to by stačilo.\!<br>Děkuji vám.
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 2
+# ** IN BATTLE: ŠNEČÍK 2
 #----------------------------
 
 message_954:
@@ -2604,7 +2604,7 @@ message_957:
      \>ŠNEČÍK: To bylo ale něco!\! Jsem skoro tak silný, jako vy!
 
 #----------------------------
-# ** IN BATTLE: ŠNEČEK 3
+# ** IN BATTLE: ŠNEČÍK 3
 #----------------------------
 
 message_958:

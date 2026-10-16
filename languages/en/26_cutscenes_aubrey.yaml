@@ -53,7 +53,7 @@ message_7:
 #KIM speaks:
 
 message_8:
-      text: \sinv[1]\{FUUUUUU\{UUUUUJW!!\sinv[0]\!\}\}<br>Co se tady děje?! Co má tohle sakra znamenat, KELI?!\who
+      text: \sinv[1]\{FUUUUUU\{UUUUUJ!!\sinv[0]\!\}\}<br>Co se tady děje?! Co má tohle sakra znamenat, KELI?!\who
 
 #HERO is surprised.
 
@@ -186,7 +186,7 @@ message_32:
       text: A KIM...\! Dík, že sis přišla říct o pomoc zrovna k nám.\! <br>Jsi dobrá kamarádka.\her
 
 message_33:
-      text: C-Co?\! Err...\! J-Jo, určitě...\kim
+      text: C-Co?\! Grr...\! J-Jo, určitě...\kim
 
 message_34:
       text: ...\kim
@@ -227,7 +227,7 @@ message_51:
 message_52:
       faceset: MainCharacters_Faraway
       faceindex: 20
-      text: Nemyslím.\! To ona vždycky chodila k nám.\! <br>Ne, vážně si nedokážu vybavit, že bychom u ní někdy byli.\kel
+      text: Nemyslím si.\! To ona vždycky chodila k nám.\! <br>Ne, vážně si nedokážu vybavit, že bychom u ní někdy byli.\kel
 
 #HERO turns around.
 #HERO knocks on door again.

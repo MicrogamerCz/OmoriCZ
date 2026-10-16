@@ -134,7 +134,7 @@ message_29:
 #MOLLY turns around. MEDÚSA and MARINA join to discuss.
 
 message_30:
-      text: \}Poplatek za konzultaci... počáteční poplatek... zahajovací poplatek... kontrolní poplatek... poplatek za údržbu... náklady... poplatek za záruku... poplatek za odpad... doprava... spropitné... poplatek za zrušení objednávky... poplatek za poškození... poplatek za pozdní zaplacení...\n<MOLLY> #změna pár položek
+      text: \}Konzultace... počáteční poplatek... zahajovací poplatek... kontrolní poplatek... údržba... náklady... záruka... odpad... doprava... spropitné... zrušení...\! Poškození... pozdní zaplacení...\n<MOLLY> #změna pár položek
 
 #MOLLY turns around.
 
@@ -318,7 +318,7 @@ message_93:
       text: Nerad vás ruším...\!<br>ale moje chuť tady každou chvílí..\n<BENDA> #zní lépe
 
 message_117:
-      text: \quake[1]roste...\! \{a roste...\! \{A ROSTE...\! \{A ROSTE!!\n<BENDA> #zní lépe
+      text: \quake[1]roste...\! \{a roste...\! \{A ROSTE!!\n<BENDA> #zní lépe
 
 message_94:
       text: Jo, jasný, BENDO... Slyšíme.\n<MARINA> #přiroz

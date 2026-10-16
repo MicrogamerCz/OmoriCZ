@@ -126,7 +126,7 @@ message_22:
       text: \n<RŮŽOVÝ? KRTEK>\v[1001]
 
 message_23:
-      text: Někomu trochu půvabnějšímu by se povedlo je přesvědčit...
+      text: Někomu trochu půvabnějšímu by se povedlo ho přesvědčit...
 
 message_30:
     text: Řekneš tomuto KLÍČKOKRTKOVI, aby šel za tebou?
@@ -333,7 +333,7 @@ message_500:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>\com[2]\{\{HEJ! NEKRAĎTE MI TADY!!
 # =========------------------
 message_145:
-      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>No sláva...\! To byl ale hrozný pošuk, co?\!<br>Tak, jste připraveni uvařit pořádný dort? #přiroz
+      text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>No sláva...\! To byl ale pošuk, co?\!<br>Tak, jste připraveni uvařit pořádný dort? #přiroz
 
 message_146:
       text: \n<ZÁSTUPCE ŠÉFKUCHAŘE>Super! Nejdříve předehřejeme troubu na 180 stupňů. #konzistence
@@ -421,7 +421,7 @@ message_301:
 #Bandito Mole Chance
 
 message_310:
-      text: \n<KRTEK BANDITA>\}Tohle je přepadení!
+      text: \n<PODEZŘELÝ KRTEK>\}Tohle je přepadení!
 
 # =========================================================================================
 # Dreamworld NPC Dialogue: Sweetheart's Castle -> Dungeon
