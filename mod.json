@@ -19,7 +19,9 @@
       "img/slotmachine/",
       "img/faces/",
       "movies/",
-      "img/sv_actors/"
+      "img/sv_actors/",
+      "img/pictures/sequence/",
+      "fonts/"
     ],
     "exec": [],
     "fonts": ["fonts/"]
