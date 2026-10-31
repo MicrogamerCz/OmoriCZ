@@ -7745,7 +7745,7 @@
         "indent": 1,
         "parameters": [
           12,
-          "[850, 851, 852, 854, 860, 861, 862, 864, 865, 868, 869, 872].filter(function(itemId) { return $gameParty.hasItem($dataItems[itemId]) }).length === 12"
+          "DataManager.blackLetterCollectionState() === 0"
         ]
       },
       { "code": 108, "indent": 2, "parameters": ["==================="] },
