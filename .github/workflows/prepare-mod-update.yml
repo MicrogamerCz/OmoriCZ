@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feat/pipeline
 jobs:
   bundle-mod-update:
     runs-on: ubuntu-slim
