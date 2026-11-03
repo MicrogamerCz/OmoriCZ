@@ -6501,11 +6501,8 @@
         "indent": 0,
         "parameters": [98, 0, 0, 0, 0, 0, 100, 100, 255, 0, 10, true]
       },
-      { "code": 111, "indent": 0, "parameters": [8, 870] },
-      { "code": 111, "indent": 1, "parameters": [0, 1121, 1] },
-      { "code": 121, "indent": 2, "parameters": [1121, 1121, 0] },
-      { "code": 0, "indent": 2, "parameters": [] },
-      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [8, 862] },
+      { "code": 121, "indent": 1, "parameters": [1113, 1113, 0] },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 412, "indent": 0, "parameters": [] },
       { "code": 230, "indent": 0, "parameters": [1] },
@@ -7745,7 +7742,7 @@
         "indent": 1,
         "parameters": [
           12,
-          "DataManager.blackLetterCollectionState() === 0"
+          "[852, 854, 858, 859, 863, 864, 865, 867, 868, 869, 870, 871].filter(function(itemId) { return $gameParty.hasItem($dataItems[itemId]) }).length === 12"
         ]
       },
       { "code": 108, "indent": 2, "parameters": ["==================="] },
