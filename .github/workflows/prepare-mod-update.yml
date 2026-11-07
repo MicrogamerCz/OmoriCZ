@@ -2,9 +2,8 @@ name: prepare-mod-update
 run-name: Create new translation release
 on:
   push:
-    branches:
-      - main
-      - feat/pipeline
+    tags:
+      - "*"
 jobs:
   bundle-mod-update:
     runs-on: ubuntu-slim
@@ -21,6 +20,10 @@ jobs:
       - name: Create artifact
         uses: actions/upload-artifact@v4
         with:
-          name: OmoriCz
+          name: OmoriCz.zip
           path: omoricz/
           retention-days: 1
+      - name: Release
+        uses: softprops/action-gh-release@v3
+        with:
+          files: OmoriCz.zip
