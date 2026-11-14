@@ -2,8 +2,8 @@ name: prepare-mod-update
 run-name: Create new translation release
 on:
   push:
-    tags:
-      - "*"
+    branches:
+      - main
 jobs:
   bundle-mod-update:
     runs-on: ubuntu-slim
@@ -12,11 +12,7 @@ jobs:
         uses: actions/checkout@v7
         with:
           path: omoricz
-          sparse-checkout: |
-            /*
-            !/**/.*
-          sparse-checkout-cone-mode: false
-      - run: rm -r omoricz/.git
+      - run: rm -r omoricz/.*
       - name: Create artifact
         uses: actions/upload-artifact@v4
         with:
@@ -24,6 +20,8 @@ jobs:
           path: omoricz/
           retention-days: 1
       - name: Release
-        uses: softprops/action-gh-release@v3
+        uses: cssnr/upload-release-action@v1
         with:
+          latest: true
+          overwrite: true
           files: OmoriCz.zip
