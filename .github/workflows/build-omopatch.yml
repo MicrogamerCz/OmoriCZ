@@ -31,6 +31,6 @@ jobs:
           latest: true
           overwrite: true
           files: |
-            Release/linux-x64/Omopatch
-            Release/win-x64/Omopatch.exe
-            Release/osx-arm64/Omopatch_osx
+            omopatch/Release/linux-x64/Omopatch
+            omopatch/Release/win-x64/Omopatch.exe
+            omopatch/Release/osx-arm64/Omopatch_osx
