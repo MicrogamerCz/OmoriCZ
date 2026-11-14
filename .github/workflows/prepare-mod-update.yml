@@ -1,0 +1,27 @@
+name: prepare-mod-update
+run-name: Create new translation release
+on:
+  push:
+    branches:
+      - main
+jobs:
+  bundle-mod-update:
+    runs-on: ubuntu-slim
+    steps:
+      - name: Fetch repository
+        uses: actions/checkout@v7
+        with:
+          path: omoricz
+      - run: rm -r omoricz/.*
+      - name: Create artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OmoriCz.zip
+          path: omoricz/
+          retention-days: 1
+      - name: Release
+        uses: cssnr/upload-release-action@v1
+        with:
+          latest: true
+          overwrite: true
+          files: OmoriCz.zip
