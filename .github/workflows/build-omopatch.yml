@@ -1,0 +1,36 @@
+name: build-omopatch
+run-name: Builds a new version of Omopatch for x86-64 (Windows, Linux) and ARM64 (OSX)
+on:
+  push:
+    branches:
+      - installer
+jobs:
+  bundle-mod-update:
+    runs-on: ubuntu-slim
+    permissions:
+      contents: write
+    steps:
+      - name: Fetch repository
+        uses: actions/checkout@v7
+        with:
+          path: omopatch
+      - name: Installing dependencies
+        run: |
+          sudo add-apt-repository ppa:dotnet/backports
+          sudo apt-get dotnet-sdk-9.0
+      - name: Build Omopatch
+        working-directory: omopatch
+        run: |
+          dotnet publish Omopatch.sln -c Release-Lin64 -o Release/linux-x64 -r linux-x64 --sc --nologo
+          dotnet publish Omopatch.sln -c Release-Win64 -o Release/win-x64 -r win-x64 --sc --nologo
+          dotnet publish Omopatch.sln -c Release-OSX_arm64 -o Release/osx-arm64 -r osx-arm64 --sc --nologo
+          mv Release/osx-arm64/Omopatch Release/osx-arm64/Omopatch_osx
+      - name: Release
+        uses: cssnr/upload-release-action@v1
+        with:
+          latest: true
+          overwrite: true
+          files: |
+            Release/linux-x64/Omopatch
+            Release/win-x64/Omopatch.exe
+            Release/osx-arm64/Omopatch_osx
