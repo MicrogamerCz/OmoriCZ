@@ -12,13 +12,11 @@ jobs:
         uses: actions/checkout@v7
         with:
           path: omoricz
-      - run: rm -r omoricz/.*
-      - name: Create artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: OmoriCz.zip
-          path: omoricz/
-          retention-days: 1
+      - name: Remove unused files and create archive
+        run: rm -r omoricz/.*
+      - name: Create Archive
+        working-directory: omoricz
+        run: zip -r ../OmoriCz.zip .
       - name: Release
         uses: cssnr/upload-release-action@v1
         with:
