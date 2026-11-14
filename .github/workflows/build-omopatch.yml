@@ -17,7 +17,7 @@ jobs:
       - name: Installing dependencies
         run: |
           sudo add-apt-repository ppa:dotnet/backports
-          sudo apt-get dotnet-sdk-9.0
+          sudo apt-get install dotnet-sdk-9.0
       - name: Build Omopatch
         working-directory: omopatch
         run: |
