@@ -782,7 +782,7 @@ message_320:
       text: Položil jsi \c[4]NOTY\c[0] na stojan. #položil místo vložil
 
 message_400:
-      text: Pódium je připraveno.\!<br>Chceš jít hrát na \c[4]HOUSLE\c[0]?
+      text: Pódium je připraveno.\!<br>Chceš hrát na \c[4]HOUSLE\c[0]?
 
 message_420:
       text: Chceš odemknout krabici? #pokud vím, toy box jsme přeložili jenom jako krabice
