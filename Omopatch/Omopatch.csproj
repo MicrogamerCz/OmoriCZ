@@ -6,40 +6,37 @@
         <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
         <ApplicationManifest>app.manifest</ApplicationManifest>
         <EnableWindowsTargeting>true</EnableWindowsTargeting>
-        <Configurations>Debug;Release;Release-Win64;Release-Lin64;Release-OSX_arm64</Configurations>
-        <Platforms>AnyCPU</Platforms>
+        <!-- <Configurations>Debug;Release;Release-Win64;Release-Lin64;Release-OSX_arm64</Configurations> -->
+        <!-- <Platforms>AnyCPU</Platforms> -->
         <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+
+        <Optimize>true</Optimize>
+	    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+	    <DebugType>none</DebugType>
+
+	    <PublishSingleFile>true</PublishSingleFile>
+	    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+
+		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+		<PublishTrimmed>true</PublishTrimmed>
+		<TrimMode>full</TrimMode>
+		<PublishReadyToRun>false</PublishReadyToRun>
     </PropertyGroup>
-    
-    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('Linux')) ">
-        <DefineConstants>LINUXBUILD</DefineConstants>
-    </PropertyGroup>
-    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('Windows')) ">
-        <DefineConstants>WINBUILD</DefineConstants>
-    </PropertyGroup>
-    <PropertyGroup Condition=" $([MSBuild]::IsOSPlatform('OSX')) ">
-        <DefineConstants>MACBUILD</DefineConstants>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release-Lin64' ">
+	  <PublishAot>false</PublishAot>
+      <PlatformTarget>x64</PlatformTarget>
+      <DefineConstants>LINUXBUILD</DefineConstants>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)' == 'Release-Win64' ">
+	  <PublishAot>false</PublishAot>
       <DefineConstants>WINBUILD</DefineConstants>
-      <Optimize>true</Optimize>
-      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
       <PlatformTarget>x64</PlatformTarget>
-      <DebugType>none</DebugType>
-    </PropertyGroup>
-    <PropertyGroup Condition=" '$(Configuration)' == 'Release-Lin64' ">
-      <DefineConstants>LINUXBUILD</DefineConstants>
-      <Optimize>true</Optimize>
-      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-      <PlatformTarget>x64</PlatformTarget>
-      <DebugType>none</DebugType>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)' == 'Release-OSX_arm64' ">
-      <DefineConstants>OSXBUILD</DefineConstants>
-      <Optimize>true</Optimize>
-      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+	  <PublishAot>false</PublishAot>
+      <DefineConstants>MACBUILD</DefineConstants>
       <PlatformTarget>ARM64</PlatformTarget>
-      <DebugType>none</DebugType>
     </PropertyGroup>
 
     <ItemGroup>
